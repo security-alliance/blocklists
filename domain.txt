@@ -10344,7 +10344,6 @@ mainnetplasma.beauty
 my-rewards.beauty
 myis-rewards.beauty
 rewardss.beauty
-scalop.beauty
 tpwallet-web3.beauty
 tronlink.beauty
 usd-coins88.beauty
