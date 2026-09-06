@@ -7274,7 +7274,6 @@ base-9j0xve6wf-coinbase-vercel.vercel.app
 base-account-quickstart.vercel.app
 base-airdrop-claim.vercel.app
 base-allocation-check.vercel.app
-base-bacvabqo3-coinbase-vercel.vercel.app
 base-bridge-site.vercel.app
 base-bridges.vercel.app
 base-checker-app.vercel.app
@@ -61684,6 +61683,7 @@ turtleprotocol.info
 turtlexyz.info
 tw-cards.info
 tw-wallets.info
+twc-issuance.info
 unicornmeme.info
 unifier-protocol.info
 unify-protocol.info

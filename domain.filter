@@ -7274,7 +7274,6 @@
 ||base-account-quickstart.vercel.app^$all
 ||base-airdrop-claim.vercel.app^$all
 ||base-allocation-check.vercel.app^$all
-||base-bacvabqo3-coinbase-vercel.vercel.app^$all
 ||base-bridge-site.vercel.app^$all
 ||base-bridges.vercel.app^$all
 ||base-checker-app.vercel.app^$all
@@ -61684,6 +61683,7 @@
 ||turtlexyz.info^$all
 ||tw-cards.info^$all
 ||tw-wallets.info^$all
+||twc-issuance.info^$all
 ||unicornmeme.info^$all
 ||unifier-protocol.info^$all
 ||unify-protocol.info^$all
