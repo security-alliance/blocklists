@@ -54834,6 +54834,7 @@ uniswap-launchpads.pages.dev
 uniswap-ranking.pages.dev
 uniswap-sepolia.pages.dev
 uniswap-view.pages.dev
+uniswap-views.pages.dev
 uniswapn.pages.dev
 uniswapnfts.pages.dev
 unitest-3uz.pages.dev
