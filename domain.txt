@@ -32066,7 +32066,6 @@ monad-votes.com
 monad-voting.com
 monadbase.com
 monadfaucet.com
-monadkz.com
 monadvisian.com
 monal-wealth.com
 monarchwealthbrokers.com
@@ -37716,6 +37715,7 @@ h5.tcpcreditgem.com
 tcpsync.com
 tcwq6pz.com
 tcyberix.com
+tcyoinvest.com
 web.td-cabinet.com
 h5.tdcvr.com
 tdexmarket.com
@@ -55221,7 +55221,6 @@ wellspring-money.pages.dev
 wepe-c7l.pages.dev
 wepetokenclaim.pages.dev
 westhxresolver.pages.dev
-wetestresolved.pages.dev
 wethdexresolve.pages.dev
 wetheseekerfix.pages.dev
 weutestresolve.pages.dev
