@@ -52955,7 +52955,6 @@ phantom-urs.pages.dev
 phantom-us-eng.pages.dev
 phantom-wallet-us.pages.dev
 phantom-webapp.pages.dev
-phantomdrop-app1.pages.dev
 phantomed--en.pages.dev
 phantomphone.pages.dev
 phantomra-haven.pages.dev
