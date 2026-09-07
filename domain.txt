@@ -78330,6 +78330,7 @@ web-ledgerlive.org
 web-phantomwallet.org
 web-solflare-wallet.org
 web-solflarewallet.org
+web-spirit.org
 web-trezorsuite.org
 web-trust.org
 web-zoom-us.org
@@ -79781,6 +79782,7 @@ portfoilio-uphold.pro
 portfolio-uphoild-en.pro
 posttradesignals.pro
 pprr.pro
+prime-pass.pro
 primepass.pro
 privdash.pro
 privennet.pro
