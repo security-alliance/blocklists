@@ -92029,7 +92029,6 @@ events-ethena.xyz
 events-ether.xyz
 events-euler.xyz
 events-exodus.xyz
-events-flare.xyz
 events-flares.xyz
 events-flr.xyz
 events-folks.xyz
