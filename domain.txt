@@ -29955,7 +29955,7 @@ coinbase-referral.jsformat.com
 jsmagna.com
 jspzjx.com
 jt777n.com
-jtrezor.com
+www.jtrezor.com
 jtrsutwallet.com
 jtwen.com
 jtx-app.com
@@ -88192,7 +88192,7 @@ teamslivechat.us
 teamslives.us
 tearms1ive.us
 techzoom.us
-terzor.us
+www.terzor.us
 teslagift.us
 textalert-esl.us
 textalerts-esl.us
