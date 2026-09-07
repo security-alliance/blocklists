@@ -53475,7 +53475,6 @@ salt-trezor-suite.pages.dev
 sativa.pages.dev
 satoshi-dex-token.pages.dev
 saveplanetoffical-rewardss.pages.dev
-scallop-airdrop.pages.dev
 scarquest-whitelist.pages.dev
 school-trezorlogin.pages.dev
 scroll-93t.pages.dev
