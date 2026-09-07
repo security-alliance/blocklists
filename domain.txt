@@ -69662,7 +69662,6 @@ nexusmutual.stakingsrewards.live
 night.stakingsrewards.live
 ns.stakingsrewards.live
 nxm.stakingsrewards.live
-op.stakingsrewards.live
 pengu.stakingsrewards.live
 poly.stakingsrewards.live
 portaltobitcoin.stakingsrewards.live
