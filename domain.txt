@@ -73806,7 +73806,7 @@ trustwallet.walletbnb.net
 war-sol.net
 wasabi-trade.net
 wdedu.net
-wealthcoinfx.net
+mail.wealthcoinfx.net
 web-atomicwallet.net
 web-suiwallet.net
 web04in.net
@@ -80072,7 +80072,6 @@ wvw-fedelety.pro
 wvw-portfoilo-uphold.pro
 wvw-up-hoild-wallets.pro
 wvw-upchoild.pro
-wvw-uphiold-wallet.pro
 wvw-upihoild-wallet.pro
 wvw-wallets-upvoild.pro
 wwv-app-unicwap.pro
