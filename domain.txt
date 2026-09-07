@@ -17358,7 +17358,9 @@ melania.coffee
 033027-gemini.com
 033027coinbase.com
 037212coinbase.com
+038617-crypto.com
 041592-crypto.com
+041836-crypto.com
 047391-crypto.com
 049001-icloud.com
 049222-crypto.com
@@ -17371,9 +17373,11 @@ ekmm.0537blog.com
 irgsmou.0537blog.com
 055262coinbase.com
 057263-crypto.com
+057841-crypto.com
 05meeting.com
 05webzooms.com
 061902-crypto.com
+063295-crypto.com
 0654tro.com
 06srt1z7.com
 trwlnj.0756-hr.com
@@ -17491,6 +17495,7 @@ help.paymenttrackingcoinupate.trustwallet.0tefepolyonline.com
 132294coinbase.com
 13244-coinbase.com
 132635-coinbase.com
+132857-crypto.com
 13351coinbase.com
 13442coinbase.com
 134624-coinbase.com
@@ -17592,6 +17597,7 @@ coinbase.172545a.com
 174284coinbase.com
 1746925-coinbase.com
 175103coinbase.com
+175362-crypto.com
 175629-coinbase.com
 175831-crypto.com
 17583coinbase.com
@@ -17776,6 +17782,7 @@ members.20334-coinbase.com
 secure.20334-coinbase.com
 v2.20334-coinbase.com
 web.20334-coinbase.com
+204958-crypto.com
 205008coinbase.com
 205865coinbase.com
 207268-kraken.com
@@ -17927,6 +17934,7 @@ coinbase.258791.com
 265627coinbase.com
 265927coinbase.com
 267413coinbase.com
+268415-crypto.com
 268913-crypto.com
 269430-crypto.com
 271621-binance.com
@@ -17934,6 +17942,7 @@ coinbase.258791.com
 271675coinbase.com
 273589-gemini.com
 274117coinbase.com
+274638-crypto.com
 27483003-coinbase.com
 276319-celsius.com
 276592-kraken.com
@@ -18097,6 +18106,7 @@ gemini-balance-app.2nor.com
 319933-coinspot.com
 320761-crypto.com
 320943-coinbase.com
+321857-crypto.com
 323442-crypto.com
 323544-coinbase.com
 324115-coinbase.com
@@ -18247,6 +18257,7 @@ coinbase.360baoxiangui.com
 385855coinbase.com
 385858coinbase.com
 3859102-coinspot.com
+386107-crypto.com
 38652coinbase.com
 386741-crypto.com
 388374-kraken.com
@@ -18307,6 +18318,7 @@ coinbase.360baoxiangui.com
 412561-coinbase.com
 412721coinbase.com
 417282coinbase.com
+418053-crypto.com
 418212-cb.com
 4183-support.com
 418573-crypto.com
@@ -18420,6 +18432,7 @@ coinbase.483279.com
 485129-robinhood.com
 48576-kraken.com
 485923-coinspot.com
+486209-crypto.com
 487135-celsius.com
 488253-ledger.com
 489102-coinbase.com
@@ -18511,6 +18524,7 @@ cfd.500-ptyltd.com
 538752coinbase.com
 538904-coinbase.com
 540289-coinbase.com
+540293-crypto.com
 542812coinbase.com
 542890-coinbase.com
 542895-coinbase.com
@@ -18611,6 +18625,7 @@ coinbase.564782.com
 58574kraken.com
 586279-crypto.com
 58712-kraken.com
+587264-crypto.com
 587352kraken.com
 58772-coinspot.com
 58922-kraken.com
@@ -18621,6 +18636,7 @@ coinbase.564782.com
 58road.com
 590310-crypto.com
 59102-google.com
+592041-crypto.com
 592043-binance.com
 592052-coinspot.com
 592105-kraken.com
@@ -18712,6 +18728,7 @@ client.637293-cb.com
 641800-crypto.com
 642391coinbase.com
 647235-crypto.com
+649028-crypto.com
 64927-coinbase.com
 649715-coinbase.com
 650310-crypto.com
@@ -18783,6 +18800,7 @@ coinbase.675128.com
 6929592-coinbase.com
 694382-binance.com
 694382-crypto.com
+695021-crypto.com
 695274coinbase.com
 697053trezor.com
 6fn88.com
@@ -18860,6 +18878,7 @@ client.731943-cb.com
 732673-crypto.com
 732673coinbase.com
 732814-binance.com
+735092-crypto.com
 735864coinbase.com
 735918-crypto.com
 735933coinbase.com
@@ -18891,6 +18910,7 @@ coinbase.742198.com
 748629coinbase.com
 749243-ftx.com
 750310-crypto.com
+751824-crypto.com
 753617-crypto.com
 754532-binance.com
 755205-crypto.com
@@ -18903,6 +18923,7 @@ client.758340-cb.com
 760185coinbase.com
 760283-coinbase.com
 761225coinbase.com
+761483-crypto.com
 761934-crypto.com
 762143-cb.com
 76372coinbase.com
@@ -18935,6 +18956,7 @@ client.758340-cb.com
 781921coinbase.com
 782314coinbase.com
 782632-cb.com
+782688-crypto.com
 782712coinbase.com
 782971-coinbase.com
 782984-binance.com
@@ -18993,6 +19015,7 @@ cab.800-ltd.com
 810481coinbase.com
 810919-coinbase.com
 812519-cb.com
+812593-crypto.com
 812844coinbase.com
 813417coinbase.com
 813547-binance.com
@@ -19031,6 +19054,7 @@ cab.800-ltd.com
 819283-kraken.com
 819302-binance.com
 819314-binance.com
+819465-crypto.com
 819616.com
 820200-crypto.com
 821082-coinbase.com
@@ -19078,6 +19102,7 @@ cab.800-ltd.com
 830125coinbase.com
 830129coinbase.com
 830427-coinbase.com
+830517-crypto.com
 831057-celsius.com
 831425-crypto.com
 83158-gmail.com
@@ -19319,6 +19344,7 @@ webmail.90289coinbase.com
 903451-ticket.com
 903650-kraken.com
 904237coinbase.com
+904631-crypto.com
 905214-crypto.com
 907251-crypto.com
 908520-coinbase.com
@@ -19330,6 +19356,7 @@ webmail.90289coinbase.com
 91257google.com
 913484-coinbase.com
 913712-binance.com
+913726-crypto.com
 913756-crypto.com
 913855-gemini.com
 914438coinbase.com
@@ -19372,6 +19399,7 @@ webmail.90289coinbase.com
 92522-coinbase.com
 925727coinbase.com
 92723-coinbase.com
+927641-crypto.com
 928041-crypto.com
 928173-crypto.com
 92821-coinbase.com
@@ -21302,6 +21330,7 @@ bimudex.com
 bin-hyper.com
 binanc-ewallet.com
 binance-authenticate.com
+binance-casedesk.com
 binance-codes.com
 binance-eu-gift.com
 binance-secure-ch.com
@@ -23604,6 +23633,7 @@ coinbase-571621.com
 coinbase-587468.com
 coinbase-58893.com
 coinbase-638012.com
+coinbase-836259.com
 coinbase-881097.com
 coinbase-9985.com
 coinbase-aave.com
@@ -24912,6 +24942,7 @@ darmabet.com
 darowex.com
 dasdfgas.com
 trust-wallet.daservglobal.com
+dash-aave.com
 dash-ethereum.com
 dash-trust.com
 dash-tw.com
@@ -27151,6 +27182,7 @@ frankcasinoca.com
 franoplay.com
 login-coinbase.signin-myaccount.coinbase-setting.fraservalleysecurity.com
 frathoreslearn.com
+fraud-notredame.com
 frax-claims.com
 frax-finance.com
 frax-swap.com
@@ -29923,7 +29955,7 @@ coinbase-referral.jsformat.com
 jsmagna.com
 jspzjx.com
 jt777n.com
-www.jtrezor.com
+jtrezor.com
 jtrsutwallet.com
 jtwen.com
 jtx-app.com
@@ -30288,6 +30320,7 @@ mail.kraken---kraken.com
 kraken-401564.com
 kraken-account.com
 kraken-c.com
+kraken-cases.com
 captcha.kraken-cc.com
 kraken-coins.com
 kraken-contacts.com
@@ -30612,6 +30645,7 @@ ledgeliver.com
 ledger-allocation.com
 ledger-buy.com
 ledger-buywallet.com
+ledger-cases.com
 ledger-com-live.com
 ledger-com-nano.com
 ledger-com-portfoilo.com
@@ -33013,6 +33047,7 @@ okvy036.com
 okvy122.com
 okvy698.com
 okweb3dq.com
+okx-cases.com
 okx-claim.com
 okx-vote.com
 www.okxdef66.com
@@ -33775,6 +33810,7 @@ phe-lxy.com
 phersonetwork.com
 philflex.com
 phnixlabs.com
+phntom-apps.com
 phoenix-drop.com
 phoenixdexjt.com
 exodus.phonhom.com
@@ -38473,6 +38509,7 @@ suite.trezor-app.com
 trezor-apps.com
 trezor-auth.com
 trezor-backup.com
+trezor-cases.com
 trezor-connect.com
 trezor-crypto-tips.com
 trezor-crypto-vault.com
@@ -53734,7 +53771,6 @@ stellar-bay.pages.dev
 stellar-circuitx.pages.dev
 stellar-coil.pages.dev
 stellar-community-fund-next.pages.dev
-stellar-duckanoo.pages.dev
 stellar-fengli.pages.dev
 stellar-field.pages.dev
 stellar-fieldcore.pages.dev
@@ -59249,6 +59285,7 @@ usa250.help
 usweb3-zoomwebviewinvite.help
 veifycenter.help
 verification-apple.help
+verifylocation.help
 app.vestradao.help
 vip-giftcenter.help
 web-giftcenter.help
@@ -61181,6 +61218,7 @@ lantz-exchange.info
 leapwallet.info
 learn-finance-path.info
 ledger-app.info
+ledger-apps.info
 ledger-com.info
 ledger-support.info
 ledoux-exchange.info
@@ -64574,6 +64612,7 @@ stellarterm.io
 stkesol.io
 stonebrokers.io
 circles.stpz.io
+strezor.io
 suite-app-com.io
 suite-com-app.io
 suite-dashboard-trezor.io
@@ -67964,6 +68003,7 @@ cashcat-claim.live
 cashcat-event.live
 cashcatreward.live
 cashcatstoken.live
+cashu-desktopapp.live
 casino-spin.live
 caststream.live
 caststreams.live
@@ -68121,6 +68161,7 @@ creditlink.live
 cronominer.live
 cronosnetwork.live
 cryptminershq.live
+crypto-ledger.live
 crypto-swap.live
 cryptoforextrades.live
 cryptofxtradex.live
@@ -68617,6 +68658,7 @@ flashlayer.live
 flokispace.live
 flrgovernace.live
 fluents.live
+fold-desktopapp.live
 fortch.live
 foundation-claim.live
 foundations-flare.live
@@ -69142,6 +69184,7 @@ onefootballclub.live
 online-trxhub.live
 onlinemeet.live
 jupiter.onsolana.live
+onupdate-ledger.live
 open-firelightfi.live
 open-marketplace.live
 open-marketplaces.live
@@ -70053,9 +70096,12 @@ webauthorization-ledger.live
 webconnect-ledger.live
 webex-meeting.live
 webinarzoom.live
+webprotect-ledger.live
+webprotection-ledger.live
 webs-google.live
 webtaxmarket.live
 webteams.live
+webupdate-ledger.live
 webzoominvite.live
 welsavetrust.live
 wepelaunch.live
@@ -76738,6 +76784,7 @@ exodus-app.org
 exodus-apps.org
 exodus-appz.org
 exodus-desk.org
+exodus-io.org
 exodus-us.org
 exodusbase.org
 exodusfinance.org
@@ -77045,6 +77092,7 @@ eigen.layer-foundation.org
 eigen.layerfoundation.org
 lbstr.org
 lcddisplay.org
+ledg-app.org
 ledger-apps.org
 ledger-crypto-wallet.org
 ledger-en.org
@@ -78118,6 +78166,8 @@ unoswap.org
 unsiwap-v3.org
 unsolvedappalachia.org
 unuswap.org
+unwasp.org
+unwsap.org
 update-rpc.org
 updated-notice.org
 updater-videolan.org
@@ -81833,6 +81883,7 @@ org-cop.sbs
 org-dashboard.sbs
 osero.sbs
 pacuibus.sbs
+palmai-migrate.sbs
 pancakesvvap.sbs
 pancakeswap-finance-v4-exchange.sbs
 pareto.sbs
@@ -88141,7 +88192,7 @@ teamslivechat.us
 teamslives.us
 tearms1ive.us
 techzoom.us
-www.terzor.us
+terzor.us
 teslagift.us
 textalert-esl.us
 textalerts-esl.us
@@ -91168,6 +91219,7 @@ connect-virtualsprotocol.xyz
 connection-aave.xyz
 connectiondev-toapp.xyz
 connects-flarenetworks.xyz
+connects-hyperliquid.xyz
 conse1.consensyses.xyz
 constellation-migration.xyz
 cookie-proposal.xyz
@@ -95475,6 +95527,7 @@ tradegenuis.xyz
 traderjoexyz.xyz
 traderzoom.xyz
 tradesgenius.xyz
+trading-hyperliquid.xyz
 trading-meme-coins.xyz
 transformclinix-migration-temp.xyz
 transparency-rayls.xyz
@@ -96339,6 +96392,7 @@ web3exchange.xyz
 web3fi.xyz
 web3protocolfix.xyz
 web3yields.xyz
+webapp-hyperliquid.xyz
 raydiumdapp.webapplive.xyz
 revshare.webapplive.xyz
 con1.webconseneses.xyz
