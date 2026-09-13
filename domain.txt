@@ -57053,6 +57053,7 @@ saucerswaplabs.events
 season1-frax.events
 season1-katana.events
 season1-skyeco.events
+skyecosystem.events
 snapshot-concrete.events
 soneium.events
 sosovalue.events

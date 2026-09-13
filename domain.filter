@@ -57053,6 +57053,7 @@
 ||season1-frax.events^$all
 ||season1-katana.events^$all
 ||season1-skyeco.events^$all
+||skyecosystem.events^$all
 ||snapshot-concrete.events^$all
 ||soneium.events^$all
 ||sosovalue.events^$all
