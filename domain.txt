@@ -6107,7 +6107,6 @@ register-usdai.app
 register-world.app
 register-xaman.app
 registers-heisted.app
-remixr.app
 repeg-apyx.app
 repeg-apyx-fi.app
 repeg-apyxfi.app
@@ -75258,7 +75257,6 @@ metis.airdropsalerts.onl
 ray.airdropsalerts.onl
 sca.airdropsalerts.onl
 scr.airdropsalerts.onl
-sui.airdropsalerts.onl
 tac.airdropsalerts.onl
 tia.airdropsalerts.onl
 turtle.airdropsalerts.onl
