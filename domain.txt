@@ -43430,6 +43430,7 @@ global-jaxxlibretty.wixstudio.com
 global-koinblaze-ext.wixstudio.com
 global-metamask-cd.wixstudio.com
 global-metamask-eng.wixstudio.com
+global-metamaskapp.wixstudio.com
 global-metamaskcdn.wixstudio.com
 global-metamsakcdn.wixstudio.com
 global-metamsk.wixstudio.com
