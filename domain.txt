@@ -14149,7 +14149,6 @@ airtm.cfd
 akaatrwea.cfd
 akedoapp.cfd
 alamostrategicmfg.cfd
-allocatlon-suilend.cfd
 amlfy.cfd
 anyonefdn.cfd
 api-engine.cfd
@@ -80543,7 +80542,6 @@ trustsystem.pw
 trustwallet.pw
 trustwalletcard.pw
 trustwallets.pw
-war-sol.pw
 xmagnetic.pw
 zama.pw
 97ee6.blogspot.qa
@@ -90316,7 +90314,6 @@ allocation-soneium.xyz
 allocation-stable.xyz
 allocation-starknet.xyz
 allocation-stbl.xyz
-allocation-suliend.xyz
 allocation-syfr.xyz
 allocation-teaprotocol.xyz
 allocation-triplet.xyz
