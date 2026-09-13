@@ -28499,7 +28499,6 @@ governance-based.com
 governance-bitway.com
 governance-centrifuge.com
 governance-chainlink.com
-governance-clawdbotatg.com
 governance-dopplerfinance.com
 governance-eigen.com
 governance-eigenlayer.com
@@ -37561,7 +37560,6 @@ suidrops.com
 suietdesktopwallet.com
 suigrab.com
 suiover.com
-suipool.com
 suiregulation.com
 suite-appz.com
 suite-kraken.com
