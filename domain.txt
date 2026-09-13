@@ -33631,6 +33631,7 @@ pancake-network.com
 pancake-swapping.com
 pancake-syrup.com
 pancakesswaps.com
+pancakeswaexchange.com
 pancakeswap-app.com
 pancakeswap-v1.com
 pancakeswapbank.com
@@ -71096,6 +71097,7 @@ orcamarket.lol
 order-claim64.lol
 origindefi-bonus.lol
 ozycrypto.lol
+pancakeswaps.lol
 paybycrypto.lol
 payment-cash.lol
 payment-wallet.lol
