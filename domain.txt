@@ -70680,7 +70680,6 @@ zebecn.live
 europe.zebecs.live
 zedexlymkt.live
 zenlistings.live
-zentromaket.live
 zerorisk.live
 zetarium.live
 zkptoken.live
@@ -74298,7 +74297,6 @@ xamanwallet.net
 xbitcoinai.net
 xbridgers.net
 xchangelly.net
-xenavoruldex.net
 xenocaptv.net
 xenocrypte.net
 xgameon.net
