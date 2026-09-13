@@ -10906,7 +10906,6 @@ unijoin.bio
 lido.fi.vheg.bio
 05live.biz
 247arena-drop.biz
-0g.airdropsalerts.biz
 adi.airdropsalerts.biz
 akt.airdropsalerts.biz
 allo.airdropsalerts.biz
@@ -47394,7 +47393,6 @@ aicapital.cyou
 airdrop-finder.cyou
 airdropfinder.cyou
 airdrophunting.cyou
-0g.airdropsalerts.cyou
 2z.airdropsalerts.cyou
 adi.airdropsalerts.cyou
 akt.airdropsalerts.cyou
@@ -75252,7 +75250,6 @@ live.ong
 aave.onl
 kaifinance.airdropalert.onl
 link.airdropalerts.onl
-0g.airdropsalerts.onl
 adi.airdropsalerts.onl
 akt.airdropsalerts.onl
 allo.airdropsalerts.onl
@@ -75702,6 +75699,7 @@ legaldecision-x.online
 legalfile-x.online
 legalrecord-x.online
 legalteam-x.online
+levell9.online
 lightchainai-mainnet.online
 linkseru.online
 linksflrsyncs.online
