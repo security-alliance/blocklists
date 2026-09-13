@@ -47938,7 +47938,6 @@ krtoken.de
 luxarfinai.de
 kraken.mahlstedt-websolutions.de
 mysfi.de
-neovaloneraai.de
 nivoa-stride-gpt.de
 officialrainbet.de
 oilaxveron.de
@@ -95924,7 +95923,6 @@ users-moonwell.xyz
 users-morpho.xyz
 users-pythnetwork.xyz
 users-raydium.xyz
-users-solstice.xyz
 users-superform.xyz
 users-tac.xyz
 users-thegraph.xyz
