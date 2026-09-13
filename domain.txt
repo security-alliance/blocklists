@@ -15387,6 +15387,7 @@ sorex-bonusflare.click
 sorex-luckyreward.click
 sparkdotfi.click
 sparkfi.click
+sparkfinance.click
 spincasino.click
 spinjet.click
 spinsolana.click
