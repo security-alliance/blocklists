@@ -75268,7 +75268,6 @@ sui.airdropsalerts.onl
 tac.airdropsalerts.onl
 tia.airdropsalerts.onl
 turtle.airdropsalerts.onl
-wnxm.airdropsalerts.onl
 xlm.airdropsalerts.onl
 yb.airdropsalerts.onl
 zama.airdropsalerts.onl
