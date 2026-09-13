@@ -47432,7 +47432,6 @@ wct.airdropsalerts.cyou
 xlm.airdropsalerts.cyou
 yb.airdropsalerts.cyou
 zama.airdropsalerts.cyou
-zrc.airdropsalerts.cyou
 airdropsfind.cyou
 airdroptrx.cyou
 alignedlayer.cyou
