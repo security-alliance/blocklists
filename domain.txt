@@ -613,6 +613,7 @@ athena-os.app
 athena-treasure.app
 atlasdao.app
 auth-aib-ie.app
+authorize-ledger.app
 auto-authenticator.app
 ave-dex.app
 aveforge.app
@@ -10904,6 +10905,7 @@ secureverif.bio
 unijoin.bio
 lido.fi.vheg.bio
 05live.biz
+247arena-drop.biz
 0g.airdropsalerts.biz
 adi.airdropsalerts.biz
 akt.airdropsalerts.biz
@@ -12393,6 +12395,7 @@ www2secureall-auth.casa
 www3secureall-auth.casa
 airdrop.cash
 allocation-zinc.cash
+authorized.cash
 barbados-exchange.cash
 barbados-exchanger.cash
 bullx.cash
@@ -17722,6 +17725,7 @@ help.paymenttrackingcoinupate.trustwallet.0tefepolyonline.com
 158269-coinbase.com
 158724-crypto.com
 159153-coinbase.com
+159247-crypto.com
 159338coinbase.com
 5m1h.15chongwu.com
 15th-anniversary-ultimate.com
@@ -17816,8 +17820,10 @@ coinbase.179641.com
 184529coinbase.com
 18456789-coinbase.com
 184705coinbase.com
+184930-crypto.com
 184994coinbase.com
 185389coinbase.com
+18605-acceweb-auth.com
 1864305coinbase.com
 1864506-ledger.com
 186632-coinbase.com
@@ -17849,6 +17855,7 @@ coinbase.191525.com
 192773-coinbase.com
 192819-coinbase.com
 192832coinbase.com
+192835-crypto.com
 192836-coinbase.com
 192851coinbase.com
 192852-gemini.com
@@ -17968,6 +17975,7 @@ web.20334-coinbase.com
 214xfg4i3pw.com
 215938-crypto.com
 216093-coinbase.com
+216485-crypto.com
 216513-apple.com
 216513-gmail.com
 217263-coinbase.com
@@ -18108,6 +18116,7 @@ coinbase.258791.com
 265627coinbase.com
 265927coinbase.com
 267413coinbase.com
+268401-crypto.com
 268415-crypto.com
 268913-crypto.com
 269430-crypto.com
@@ -18119,6 +18128,7 @@ coinbase.258791.com
 274638-crypto.com
 274806-crypto.com
 27483003-coinbase.com
+275903-crypto.com
 276319-celsius.com
 276592-kraken.com
 277618-crypto.com
@@ -18422,6 +18432,7 @@ coinbase.360baoxiangui.com
 379852-crypto.com
 381487-kraken.com
 381487coinbase.com
+381694-crypto.com
 3818143-ledger.com
 3822937-coinbase.com
 382303-voyager.com
@@ -18499,6 +18510,7 @@ coinbase.360baoxiangui.com
 400uni.com
 401400-crypto.com
 402487coinbase.com
+402815-crypto.com
 4031-gmail.com
 405845-coinbase.com
 405983-crypto.com
@@ -18656,6 +18668,7 @@ coinbase.483279.com
 49295-coinspot.com
 492953-ledger.com
 492955-ledger.com
+493267-crypto.com
 493335coinbase.com
 493885-coinspot.com
 495192-binance.com
@@ -18696,6 +18709,7 @@ cfd.500-ptyltd.com
 517693-coinbase.com
 517805-gmail.com
 518869-binance.com
+519372-crypto.com
 519738-crypto.com
 519782coinbase.com
 519843-crypto.com
@@ -18704,6 +18718,7 @@ cfd.500-ptyltd.com
 5234213-coinbase.com
 52346-gemini.com
 52353-crypto.com
+523701-crypto.com
 523991-coinbase.com
 524879-crypto.com
 5278941239786125397816345278-gmail.com
@@ -18723,6 +18738,7 @@ cfd.500-ptyltd.com
 536218-crypto.com
 536277-coinbase.com
 53727-gmail.com
+538219-crypto.com
 538722coinbase.com
 538734coinbase.com
 538752coinbase.com
@@ -18894,6 +18910,7 @@ coinbase.598311.com
 608314-crypto.com
 608920coinbase.com
 6089513coinbase.com
+609324-crypto.com
 611405-crypto.com
 611587-coinbase.com
 612487-kraken.com
@@ -18917,6 +18934,7 @@ coinbase.598311.com
 625854-binance.com
 626172coinbase.com
 626410-crypto.com
+627145-crypto.com
 627382-coinbase.com
 627536-coinbase.com
 628192-coinbase.com
@@ -18926,6 +18944,7 @@ coinbase.598311.com
 629371gemini.com
 629471-crypto.com
 629841coinbase.com
+630482-crypto.com
 630514-crypto.com
 631742-binance.com
 631752-celsius.com
@@ -19124,6 +19143,7 @@ client.738620-cb.com
 740273coinbase.com
 741159coinbase.com
 741351coinbase.com
+741829-crypto.com
 741902-crypto.com
 741973-ftx.com
 coinbase.742198.com
@@ -19259,6 +19279,7 @@ cab.800-ltd.com
 813417coinbase.com
 813547-binance.com
 813751-binance.com
+816394-crypto.com
 816404-coinbase.com
 816982-binance.com
 817034-coinbase.com
@@ -19399,6 +19420,7 @@ web.8331202-coinbase.com
 841573-crypto.com
 coinbase.841832.com
 842601-crypto.com
+842603-crypto.com
 842761-coinbase.com
 842894coinbase.com
 842901-blockfi.com
@@ -19437,6 +19459,7 @@ support.847352-coinbase.com
 849324-coinbase.com
 84973-exodus.com
 850117-coinbase.com
+850193-crypto.com
 850310-crypto.com
 850337crypto.com
 851089-crypto.com
@@ -19648,6 +19671,7 @@ webmail.90289coinbase.com
 923826-gemini.com
 923925-coinbase.com
 923942-ledger.com
+924061-crypto.com
 924298-crypto.com
 924358coinbase.com
 924864-binance.com
@@ -19668,6 +19692,7 @@ webmail.90289coinbase.com
 928634coinbase.com
 928741-kraken.com
 929131coinbase.com
+930514-crypto.com
 931602-ledger.com
 932386-crypto.com
 93255-coinbase.com
@@ -19703,6 +19728,7 @@ webmail.90289coinbase.com
 947255coinbase.com
 947266coinbase.com
 947291.com
+948126-crypto.com
 94912-coinbase.com
 94fbrcapcutpro.com
 950310-crypto.com
@@ -19759,6 +19785,7 @@ webmail.981009coinbase.com
 982337coinbase.com
 982346-coinbase.com
 98237-coinbase.com
+982379-crypto.com
 982574-kraken.com
 982575coinbase.com
 982603-crypto.com
@@ -19767,6 +19794,7 @@ webmail.981009coinbase.com
 982754-ticket-cb.com
 983015-blockfi.com
 983257-kraken.com
+983264-crypto.com
 983287-crypto.com
 983344-crypto.com
 983452crypto.com
@@ -21123,6 +21151,7 @@ authorization01-coinbase.com
 authorize-coinbase.com
 authorize-cointracking.com
 authorize-ledger.com
+authorize-serviceoauth.com
 authorizebase.com
 authorized-ledger.com
 authory-trezor.com
@@ -32806,6 +32835,7 @@ cfd.nexonmarkets.com
 nexorkpl.com
 next-expansion.com
 next-tea-epoch.com
+next-traders.com
 oceanwealthtinv.com.nextbullmine.com
 nexte-amm.com
 nextemarket.com
@@ -36054,6 +36084,7 @@ riverreferralcode.com
 wildcard.mokasl.riversidea.com
 zvnazskzgaidulhunfnrftntruystyqsamkgfzxdjegjpfnxoa.mokasl.riversidea.com
 riversidevip1.com
+rivertranscript.com
 riyadafinatur.com
 rizecas.com
 rizewin.com
@@ -38755,6 +38786,7 @@ truhstwallet.com
 truist-secure-mail.com
 truist-verify.com
 truist-wallet.com
+truiststandard.com
 trumarkets-ua.com
 trump-2026.com
 trump-26.com
@@ -69486,6 +69518,7 @@ metchain.live
 meteoramarket.live
 metis-migration.live
 metus.live
+mextraders.live
 mhythic.live
 micerosoft.live
 microsfot.live
@@ -87700,6 +87733,7 @@ worldlibertyfinancial.uno
 1ives.us
 1z0.us
 2fa-advantagefcu.us
+2fawalletauthenticator.us
 5-gmail.us
 50cbet.us
 7-zip.us

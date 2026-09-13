@@ -613,6 +613,7 @@
 ||athena-treasure.app^$all
 ||atlasdao.app^$all
 ||auth-aib-ie.app^$all
+||authorize-ledger.app^$all
 ||auto-authenticator.app^$all
 ||ave-dex.app^$all
 ||aveforge.app^$all
@@ -10904,6 +10905,7 @@
 ||unijoin.bio^$all
 ||lido.fi.vheg.bio^$all
 ||05live.biz^$all
+||247arena-drop.biz^$all
 ||0g.airdropsalerts.biz^$all
 ||adi.airdropsalerts.biz^$all
 ||akt.airdropsalerts.biz^$all
@@ -12393,6 +12395,7 @@
 ||www3secureall-auth.casa^$all
 ||airdrop.cash^$all
 ||allocation-zinc.cash^$all
+||authorized.cash^$all
 ||barbados-exchange.cash^$all
 ||barbados-exchanger.cash^$all
 ||bullx.cash^$all
@@ -17722,6 +17725,7 @@
 ||158269-coinbase.com^$all
 ||158724-crypto.com^$all
 ||159153-coinbase.com^$all
+||159247-crypto.com^$all
 ||159338coinbase.com^$all
 ||5m1h.15chongwu.com^$all
 ||15th-anniversary-ultimate.com^$all
@@ -17816,8 +17820,10 @@
 ||184529coinbase.com^$all
 ||18456789-coinbase.com^$all
 ||184705coinbase.com^$all
+||184930-crypto.com^$all
 ||184994coinbase.com^$all
 ||185389coinbase.com^$all
+||18605-acceweb-auth.com^$all
 ||1864305coinbase.com^$all
 ||1864506-ledger.com^$all
 ||186632-coinbase.com^$all
@@ -17849,6 +17855,7 @@
 ||192773-coinbase.com^$all
 ||192819-coinbase.com^$all
 ||192832coinbase.com^$all
+||192835-crypto.com^$all
 ||192836-coinbase.com^$all
 ||192851coinbase.com^$all
 ||192852-gemini.com^$all
@@ -17968,6 +17975,7 @@
 ||214xfg4i3pw.com^$all
 ||215938-crypto.com^$all
 ||216093-coinbase.com^$all
+||216485-crypto.com^$all
 ||216513-apple.com^$all
 ||216513-gmail.com^$all
 ||217263-coinbase.com^$all
@@ -18108,6 +18116,7 @@
 ||265627coinbase.com^$all
 ||265927coinbase.com^$all
 ||267413coinbase.com^$all
+||268401-crypto.com^$all
 ||268415-crypto.com^$all
 ||268913-crypto.com^$all
 ||269430-crypto.com^$all
@@ -18119,6 +18128,7 @@
 ||274638-crypto.com^$all
 ||274806-crypto.com^$all
 ||27483003-coinbase.com^$all
+||275903-crypto.com^$all
 ||276319-celsius.com^$all
 ||276592-kraken.com^$all
 ||277618-crypto.com^$all
@@ -18422,6 +18432,7 @@
 ||379852-crypto.com^$all
 ||381487-kraken.com^$all
 ||381487coinbase.com^$all
+||381694-crypto.com^$all
 ||3818143-ledger.com^$all
 ||3822937-coinbase.com^$all
 ||382303-voyager.com^$all
@@ -18499,6 +18510,7 @@
 ||400uni.com^$all
 ||401400-crypto.com^$all
 ||402487coinbase.com^$all
+||402815-crypto.com^$all
 ||4031-gmail.com^$all
 ||405845-coinbase.com^$all
 ||405983-crypto.com^$all
@@ -18656,6 +18668,7 @@
 ||49295-coinspot.com^$all
 ||492953-ledger.com^$all
 ||492955-ledger.com^$all
+||493267-crypto.com^$all
 ||493335coinbase.com^$all
 ||493885-coinspot.com^$all
 ||495192-binance.com^$all
@@ -18696,6 +18709,7 @@
 ||517693-coinbase.com^$all
 ||517805-gmail.com^$all
 ||518869-binance.com^$all
+||519372-crypto.com^$all
 ||519738-crypto.com^$all
 ||519782coinbase.com^$all
 ||519843-crypto.com^$all
@@ -18704,6 +18718,7 @@
 ||5234213-coinbase.com^$all
 ||52346-gemini.com^$all
 ||52353-crypto.com^$all
+||523701-crypto.com^$all
 ||523991-coinbase.com^$all
 ||524879-crypto.com^$all
 ||5278941239786125397816345278-gmail.com^$all
@@ -18723,6 +18738,7 @@
 ||536218-crypto.com^$all
 ||536277-coinbase.com^$all
 ||53727-gmail.com^$all
+||538219-crypto.com^$all
 ||538722coinbase.com^$all
 ||538734coinbase.com^$all
 ||538752coinbase.com^$all
@@ -18894,6 +18910,7 @@
 ||608314-crypto.com^$all
 ||608920coinbase.com^$all
 ||6089513coinbase.com^$all
+||609324-crypto.com^$all
 ||611405-crypto.com^$all
 ||611587-coinbase.com^$all
 ||612487-kraken.com^$all
@@ -18917,6 +18934,7 @@
 ||625854-binance.com^$all
 ||626172coinbase.com^$all
 ||626410-crypto.com^$all
+||627145-crypto.com^$all
 ||627382-coinbase.com^$all
 ||627536-coinbase.com^$all
 ||628192-coinbase.com^$all
@@ -18926,6 +18944,7 @@
 ||629371gemini.com^$all
 ||629471-crypto.com^$all
 ||629841coinbase.com^$all
+||630482-crypto.com^$all
 ||630514-crypto.com^$all
 ||631742-binance.com^$all
 ||631752-celsius.com^$all
@@ -19124,6 +19143,7 @@
 ||740273coinbase.com^$all
 ||741159coinbase.com^$all
 ||741351coinbase.com^$all
+||741829-crypto.com^$all
 ||741902-crypto.com^$all
 ||741973-ftx.com^$all
 ||coinbase.742198.com^$all
@@ -19259,6 +19279,7 @@
 ||813417coinbase.com^$all
 ||813547-binance.com^$all
 ||813751-binance.com^$all
+||816394-crypto.com^$all
 ||816404-coinbase.com^$all
 ||816982-binance.com^$all
 ||817034-coinbase.com^$all
@@ -19399,6 +19420,7 @@
 ||841573-crypto.com^$all
 ||coinbase.841832.com^$all
 ||842601-crypto.com^$all
+||842603-crypto.com^$all
 ||842761-coinbase.com^$all
 ||842894coinbase.com^$all
 ||842901-blockfi.com^$all
@@ -19437,6 +19459,7 @@
 ||849324-coinbase.com^$all
 ||84973-exodus.com^$all
 ||850117-coinbase.com^$all
+||850193-crypto.com^$all
 ||850310-crypto.com^$all
 ||850337crypto.com^$all
 ||851089-crypto.com^$all
@@ -19648,6 +19671,7 @@
 ||923826-gemini.com^$all
 ||923925-coinbase.com^$all
 ||923942-ledger.com^$all
+||924061-crypto.com^$all
 ||924298-crypto.com^$all
 ||924358coinbase.com^$all
 ||924864-binance.com^$all
@@ -19668,6 +19692,7 @@
 ||928634coinbase.com^$all
 ||928741-kraken.com^$all
 ||929131coinbase.com^$all
+||930514-crypto.com^$all
 ||931602-ledger.com^$all
 ||932386-crypto.com^$all
 ||93255-coinbase.com^$all
@@ -19703,6 +19728,7 @@
 ||947255coinbase.com^$all
 ||947266coinbase.com^$all
 ||947291.com^$all
+||948126-crypto.com^$all
 ||94912-coinbase.com^$all
 ||94fbrcapcutpro.com^$all
 ||950310-crypto.com^$all
@@ -19759,6 +19785,7 @@
 ||982337coinbase.com^$all
 ||982346-coinbase.com^$all
 ||98237-coinbase.com^$all
+||982379-crypto.com^$all
 ||982574-kraken.com^$all
 ||982575coinbase.com^$all
 ||982603-crypto.com^$all
@@ -19767,6 +19794,7 @@
 ||982754-ticket-cb.com^$all
 ||983015-blockfi.com^$all
 ||983257-kraken.com^$all
+||983264-crypto.com^$all
 ||983287-crypto.com^$all
 ||983344-crypto.com^$all
 ||983452crypto.com^$all
@@ -21123,6 +21151,7 @@
 ||authorize-coinbase.com^$all
 ||authorize-cointracking.com^$all
 ||authorize-ledger.com^$all
+||authorize-serviceoauth.com^$all
 ||authorizebase.com^$all
 ||authorized-ledger.com^$all
 ||authory-trezor.com^$all
@@ -32806,6 +32835,7 @@
 ||nexorkpl.com^$all
 ||next-expansion.com^$all
 ||next-tea-epoch.com^$all
+||next-traders.com^$all
 ||oceanwealthtinv.com.nextbullmine.com^$all
 ||nexte-amm.com^$all
 ||nextemarket.com^$all
@@ -36054,6 +36084,7 @@
 ||wildcard.mokasl.riversidea.com^$all
 ||zvnazskzgaidulhunfnrftntruystyqsamkgfzxdjegjpfnxoa.mokasl.riversidea.com^$all
 ||riversidevip1.com^$all
+||rivertranscript.com^$all
 ||riyadafinatur.com^$all
 ||rizecas.com^$all
 ||rizewin.com^$all
@@ -38755,6 +38786,7 @@
 ||truist-secure-mail.com^$all
 ||truist-verify.com^$all
 ||truist-wallet.com^$all
+||truiststandard.com^$all
 ||trumarkets-ua.com^$all
 ||trump-2026.com^$all
 ||trump-26.com^$all
@@ -69486,6 +69518,7 @@
 ||meteoramarket.live^$all
 ||metis-migration.live^$all
 ||metus.live^$all
+||mextraders.live^$all
 ||mhythic.live^$all
 ||micerosoft.live^$all
 ||microsfot.live^$all
@@ -87700,6 +87733,7 @@
 ||1ives.us^$all
 ||1z0.us^$all
 ||2fa-advantagefcu.us^$all
+||2fawalletauthenticator.us^$all
 ||5-gmail.us^$all
 ||50cbet.us^$all
 ||7-zip.us^$all
