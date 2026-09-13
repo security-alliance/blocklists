@@ -10447,7 +10447,6 @@ phantom.baby
 zoomnow.baby
 sol.band
 tokens.band
-adi.airdropsalerts.bar
 ceio.airdropsalerts.bar
 celo.airdropsalerts.bar
 link.airdropsalerts.bar
@@ -10906,7 +10905,6 @@ unijoin.bio
 lido.fi.vheg.bio
 05live.biz
 247arena-drop.biz
-adi.airdropsalerts.biz
 akt.airdropsalerts.biz
 allo.airdropsalerts.biz
 astr.airdropsalerts.biz
@@ -47393,7 +47391,6 @@ airdrop-finder.cyou
 airdropfinder.cyou
 airdrophunting.cyou
 2z.airdropsalerts.cyou
-adi.airdropsalerts.cyou
 akt.airdropsalerts.cyou
 allo.airdropsalerts.cyou
 alpha.airdropsalerts.cyou
@@ -75247,7 +75244,6 @@ live.ong
 aave.onl
 kaifinance.airdropalert.onl
 link.airdropalerts.onl
-adi.airdropsalerts.onl
 akt.airdropsalerts.onl
 allo.airdropsalerts.onl
 alpha.airdropsalerts.onl
