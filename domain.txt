@@ -714,7 +714,6 @@ checkstarbridge.app
 chicken-road-download.app
 chicken-road-official.app
 claim-asciicats.app
-claim-hyena.app
 claim-imfebu.app
 claim-lido.app
 claim-maxidoge.app
@@ -1401,7 +1400,6 @@ governance-ethena.app
 governance-flare.app
 governance-flarenetwork.app
 governance-flarenetworks.app
-governance-hyperlend.app
 governance-kinetiq.app
 governance-layerzero.app
 governance-lido.app
@@ -23504,7 +23502,6 @@ ldg.cn.com
 rainbet.cn.com
 safepal.cn.com
 sol-sniper.cn.com
-solsniper.cn.com
 cncbuildsaustralia.com
 m.cncoinbase.com
 cnct-roobet.com
@@ -25046,7 +25043,6 @@ curilly.com
 current-tw.com
 cursooficial-descontobonus.com
 cursuspatners.com
-curv-finance.com
 curvancefi.com
 curvapp.com
 curve-deskhelpfinance.com
