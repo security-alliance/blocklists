@@ -75874,7 +75874,6 @@ pendlefi.online
 phant.online
 phantom110.online
 phantombranch.online
-phantomcard.online
 phantomcash.online
 photontoken.online
 pikashowapks.online
