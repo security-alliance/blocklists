@@ -16704,6 +16704,7 @@ gjdlz.cn
 mzzf.gov.cn
 usdt.haohaoetc.cn
 hyperliquid.hk.cn
+ledger.hk.cn
 metamask.hk.cn
 bitpieim.hl.cn
 browser-360.hl.cn
@@ -75257,7 +75258,6 @@ metis.airdropsalerts.onl
 ray.airdropsalerts.onl
 sca.airdropsalerts.onl
 scr.airdropsalerts.onl
-starknet.airdropsalerts.onl
 sui.airdropsalerts.onl
 tac.airdropsalerts.onl
 tia.airdropsalerts.onl
@@ -88429,7 +88429,6 @@ ue05.us
 ue06.us
 uftxoptiontrade.us
 uk05live.us
-uk07.us
 uk14webdesk.us
 uk17webdesk.us
 uk18webdesk.us
