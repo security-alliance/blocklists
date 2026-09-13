@@ -16701,6 +16701,7 @@ gimp-org.cn
 gjdlz.cn
 mzzf.gov.cn
 usdt.haohaoetc.cn
+hype.hk.cn
 hyperliquid.hk.cn
 ledger.hk.cn
 metamask.hk.cn
