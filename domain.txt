@@ -16488,6 +16488,8 @@ hk-zoom.com.cn
 hot-okx.com.cn
 how-okx.com.cn
 hyper-liquid.com.cn
+im-wallet-dapp.com.cn
+im-wallet-web3.com.cn
 imtcken.com.cn
 imtokan.com.cn
 imtokea.com.cn
@@ -25167,6 +25169,7 @@ dapp-avantisfi.com
 dapp-coinbase.com
 dapp-contract.com
 dapp-eth-warden.com
+dapp-kraken.com
 dapp-polymarket.com
 dapp-raydium-route.com
 dapp-t1protocol.com
@@ -29236,6 +29239,7 @@ hiodax.com
 hip-hyperlend.com
 hippodrome-online.com
 hireechoai.com
+history-coinbase.com
 hiteshileasing.com
 hitpanels.com
 hitspanels.com
@@ -46610,6 +46614,7 @@ xn--www-ldgr-h1a19b.com
 xn--www-ledge-y0b.com
 xn--www-trzor-5ib.com
 xn--ydx-mqa.com
+xn--yetherwallet-634f.com
 xns-zone.com
 xnwallets.com
 xnyvh.com
@@ -69250,6 +69255,7 @@ gtgt.live
 guardsafe.live
 guestsecure.live
 gvrt-claim.live
+hardwarewalletsdesktop.live
 hatrali.live
 hederafund.live
 hederafunds.live
@@ -70798,6 +70804,7 @@ belieftoken.lol
 biee.lol
 bingx.lol
 biscottirbhs.lol
+bitcoinbase.lol
 bitfinex.lol
 bitget.lol
 blacksbullsol.lol
@@ -84232,6 +84239,7 @@ boustrn.su
 cricfytv.su
 cryptofix.su
 cryptomanager.su
+exchange-hub.su
 gaia.su
 happy-panell.su
 hyperliquid.su
