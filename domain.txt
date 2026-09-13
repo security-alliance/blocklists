@@ -57059,6 +57059,7 @@ snapshot-concrete.events
 soneium.events
 sosovalue.events
 sparkdotfi.events
+sparkfinance.events
 spx6900.events
 squidrouter.events
 stabilizer.events
@@ -82300,6 +82301,7 @@ solstices-finance.sbs
 soltop.sbs
 solveresolution.sbs
 sparkdex.sbs
+sparkfinance.sbs
 sparklab.sbs
 sparrowwallet.sbs
 spcxmeme.sbs

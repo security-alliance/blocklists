@@ -57059,6 +57059,7 @@
 ||soneium.events^$all
 ||sosovalue.events^$all
 ||sparkdotfi.events^$all
+||sparkfinance.events^$all
 ||spx6900.events^$all
 ||squidrouter.events^$all
 ||stabilizer.events^$all
@@ -82300,6 +82301,7 @@
 ||soltop.sbs^$all
 ||solveresolution.sbs^$all
 ||sparkdex.sbs^$all
+||sparkfinance.sbs^$all
 ||sparklab.sbs^$all
 ||sparrowwallet.sbs^$all
 ||spcxmeme.sbs^$all
