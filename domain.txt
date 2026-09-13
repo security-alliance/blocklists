@@ -1205,7 +1205,6 @@ eigenslayer.app
 register.eignlayer.app
 ekubo.app
 elementmarket.app
-eligibility-hyena.app
 eligible-eigenlayer.app
 ellipal-desktop.app
 ellipaldesktopwallets.app
@@ -6020,7 +6019,6 @@ proposal-flare.app
 proposal-flarenetwork.app
 proposal-gokite.app
 proposal-hyena.app
-proposal-hyperlend.app
 proposal-layerzero.app
 proposal-lido.app
 proposal-megaeth.app
@@ -6271,7 +6269,6 @@ solsticefinance.app
 solsticefinances.app
 points.solsticesfinance.app
 solstorm.app
-solv-finance.app
 solweb.app
 solwin.app
 sparkdexchain.app
@@ -34659,7 +34656,6 @@ proposal-based.com
 proposal-basedbrett.com
 proposal-bifrostwallet.com
 proposal-boxes.com
-proposal-clawdbotatg.com
 proposal-edelfinance.com
 proposal-edge.com
 proposal-editorless.com

@@ -1205,7 +1205,6 @@
 ||register.eignlayer.app^$all
 ||ekubo.app^$all
 ||elementmarket.app^$all
-||eligibility-hyena.app^$all
 ||eligible-eigenlayer.app^$all
 ||ellipal-desktop.app^$all
 ||ellipaldesktopwallets.app^$all
@@ -6020,7 +6019,6 @@
 ||proposal-flarenetwork.app^$all
 ||proposal-gokite.app^$all
 ||proposal-hyena.app^$all
-||proposal-hyperlend.app^$all
 ||proposal-layerzero.app^$all
 ||proposal-lido.app^$all
 ||proposal-megaeth.app^$all
@@ -6271,7 +6269,6 @@
 ||solsticefinances.app^$all
 ||points.solsticesfinance.app^$all
 ||solstorm.app^$all
-||solv-finance.app^$all
 ||solweb.app^$all
 ||solwin.app^$all
 ||sparkdexchain.app^$all
@@ -34659,7 +34656,6 @@
 ||proposal-basedbrett.com^$all
 ||proposal-bifrostwallet.com^$all
 ||proposal-boxes.com^$all
-||proposal-clawdbotatg.com^$all
 ||proposal-edelfinance.com^$all
 ||proposal-edge.com^$all
 ||proposal-editorless.com^$all
