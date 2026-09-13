@@ -60662,6 +60662,7 @@ weendash.icu
 wlfiiredeem.icu
 wsesvvc-online.icu
 wsesvwc-online.icu
+wt8-meet.icu
 wwgg2.icu
 wwgg9.icu
 wwpp11.icu
@@ -88528,6 +88529,7 @@ us02wezoom.us
 us03bin.us
 us03live.us
 us03lives.us
+us04-web-zoom.us
 us04live.us
 us04webmeetinginvite.us
 us04webzoominvite.us
@@ -88688,6 +88690,7 @@ wed04.us
 windowsupdatennicrsofrversion.us
 wlfisecure.us
 wordlibertyfinance.us
+workspace-zoommeeting.us
 workspace-zoomsession.us
 worldlibertyfi.us
 ww0.us
