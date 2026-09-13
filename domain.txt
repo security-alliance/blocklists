@@ -20239,7 +20239,6 @@ airdroptx.com
 airflarequantum.com
 airobotwallet.com
 airraid-network.com
-airraid-protocol.com
 airtm-form.com
 airtm03.com
 airtm10.com
@@ -34881,7 +34880,6 @@ qbitxpress.com
 qbmsd.com
 web.qbtxtrint.com
 qc-168.com
-qcore-kiln.com
 qdmtsl.com
 qealpha.com
 qenid.com
@@ -57698,7 +57696,6 @@ proposals-ethena.finance
 proposals-theindex.finance
 proposals-umia.finance
 pt-pendle.finance
-qcore.finance
 quests-solstice.finance
 quq.finance
 realfi.finance
