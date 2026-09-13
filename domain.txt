@@ -1681,7 +1681,6 @@ mirgates-fun.app
 misttrack.app
 claim.monad-portal.app
 monbrds.app
-monerai.app
 moonblast.app
 moongem.app
 moonlisting.app
