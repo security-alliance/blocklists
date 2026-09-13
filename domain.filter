@@ -20027,6 +20027,7 @@
 ||actif-depovie.com^$all
 ||actioissuesx-x.com^$all
 ||action-dispatch.com^$all
+||action-google.com^$all
 ||actionappeal-x.com^$all
 ||actionappealed-x.com^$all
 ||actioncase-x.com^$all
@@ -20293,8 +20294,10 @@
 ||portal.alchemysim.com^$all
 ||alchernx.com^$all
 ||alert-access-x.com^$all
+||alert-aol.com^$all
 ||customer.en-robinhood.com.alert-bitpanda.com^$all
 ||alert-c.com^$all
+||alert-fidelity.com^$all
 ||alert-help-x.com^$all
 ||alert-notification-x.com^$all
 ||alert-notify-x.com^$all
@@ -24418,6 +24421,8 @@
 ||colorandweave.com^$all
 ||colorares.com^$all
 ||com--gmail.com^$all
+||com-18221.com^$all
+||com-18223.com^$all
 ||com-188162.com^$all
 ||com-18828.com^$all
 ||com-18867.com^$all
@@ -28520,6 +28525,7 @@
 ||gov-hunav.com^$all
 ||gov-megaeth.com^$all
 ||gov-ponsfamily.com^$all
+||gov-reports.com^$all
 ||gov-virtuals.com^$all
 ||gove-flarenetworks.com^$all
 ||gover-firelighfi.com^$all
@@ -29829,6 +29835,7 @@
 ||investgarden.com^$all
 ||investigate-verification-error.com^$all
 ||investigation-workspace.com^$all
+||investigations-gov.com^$all
 ||investigations-x.com^$all
 ||investigbot.com^$all
 ||investmentcfxt.com^$all
@@ -31399,11 +31406,15 @@
 ||mailbox-coinbase.com^$all
 ||mailboxes-coinbase.com^$all
 ||mailboxes-google.com^$all
+||maildelivery-servers.com^$all
 ||mailer-google.com^$all
 ||mailer6-binance.com^$all
 ||mailjet-23.com^$all
 ||mailnotice-x.com^$all
 ||mailnotify-x.com^$all
+||mailserver-00026.com^$all
+||mailserver-00074.com^$all
+||mailserver-00081.com^$all
 ||mailserver-coinbase.com^$all
 ||mailserver02-coinbase.com^$all
 ||mailserver1-coinbase.com^$all
@@ -33167,7 +33178,6 @@
 ||officialworldlibertyfinancial.com^$all
 ||officialzoomevents.com^$all
 ||offsefg.com^$all
-||trade.offshore-polymarket.com^$all
 ||portal.ogmha.com^$all
 ||ogtruewallet.com^$all
 ||ohio-precision-drone.com^$all
@@ -36964,6 +36974,7 @@
 ||slxs-fi.com^$all
 ||smardex-defi.com^$all
 ||smardex-usdn.com^$all
+||smart-google.com^$all
 ||smart-portal-safe.com^$all
 ||smartaitrust.com^$all
 ||smartbridge-wallets.com^$all
@@ -37807,6 +37818,7 @@
 ||szzzr.com^$all
 ||ecrglt.t-homs.com^$all
 ||t-mgms.com^$all
+||t-microsoft.com^$all
 ||t-progtx.com^$all
 ||t-projqv.com^$all
 ||t-proka.com^$all
@@ -38275,6 +38287,7 @@
 ||ticket-kraken.com^$all
 ||ticket-pages.com^$all
 ||ticket-trezor.com^$all
+||ticket-trustwallet.com^$all
 ||coinbase.ticket193963.com^$all
 ||ticket2249-binance.com^$all
 ||coinbase.ticket409325.com^$all
@@ -87641,6 +87654,7 @@
 ||control.shelbycompany.uk^$all
 ||solflip.uk^$all
 ||sortedai.uk^$all
+||starlingsupport.uk^$all
 ||sushiswap.uk^$all
 ||tiny-token.uk^$all
 ||tinycoin.uk^$all
