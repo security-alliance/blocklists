@@ -10952,7 +10952,6 @@ claim-unlswap.biz
 cloud-verification-server.biz
 codexminer.biz
 coin-helper-base.biz
-pop.coinbases.biz
 coinbasestake.biz
 coinomize-domains.biz
 com-coral.biz
