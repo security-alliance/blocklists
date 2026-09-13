@@ -78690,7 +78690,6 @@ ww1.walletguard.org
 ww2.walletguard.org
 ww25.walletguard.org
 wanchaindesktopapp.org
-wavestrade.org
 waxai.org
 we-revolut.org
 wealthspheres.org
