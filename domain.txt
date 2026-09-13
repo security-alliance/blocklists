@@ -10904,7 +10904,6 @@ unijoin.bio
 lido.fi.vheg.bio
 05live.biz
 247arena-drop.biz
-akt.airdropsalerts.biz
 allo.airdropsalerts.biz
 astr.airdropsalerts.biz
 bifi.airdropsalerts.biz
@@ -47392,7 +47391,6 @@ airdrop-finder.cyou
 airdropfinder.cyou
 airdrophunting.cyou
 2z.airdropsalerts.cyou
-akt.airdropsalerts.cyou
 allo.airdropsalerts.cyou
 alpha.airdropsalerts.cyou
 arb.airdropsalerts.cyou
@@ -75242,7 +75240,6 @@ live.ong
 aave.onl
 kaifinance.airdropalert.onl
 link.airdropalerts.onl
-akt.airdropsalerts.onl
 allo.airdropsalerts.onl
 alpha.airdropsalerts.onl
 alphafi.airdropsalerts.onl
