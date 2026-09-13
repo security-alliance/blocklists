@@ -10451,7 +10451,6 @@ ceio.airdropsalerts.bar
 celo.airdropsalerts.bar
 link.airdropsalerts.bar
 avei.bar
-camexc.bar
 mail-auth-center.bar
 metesora.bar
 rainbet.bar
@@ -12207,7 +12206,6 @@ naviprotocoi.cam
 neverland.cam
 nodex.cam
 norabahisguncel.cam
-ntrcks.cam
 okbit.cam
 okxpay.cam
 opengdp.cam
@@ -12895,7 +12893,6 @@ d2-flnance.cc
 dapp-syncs.cc
 dapp-tracker.cc
 dappos.cc
-h5.dappvip.cc
 datawex.cc
 debridge-instant-cross-chain-swaps-and-transfers.cc
 tapering-finisher.defex.cc
@@ -13720,7 +13717,6 @@ t-inve.cc
 tangem-wallet.cc
 taostinworks.cc
 tarckio.cc
-tcait.cc
 teams-meet.cc
 teams-meets.cc
 teller-v2.cc
@@ -15277,7 +15273,6 @@ proposal-9.click
 proposal-silk.click
 protrdtrust.click
 prowavesignalsvest.click
-galaxydigital.prrofits.click
 pulseacrossfractalspace.click
 pulsesol.click
 pumpf.click
@@ -16101,7 +16096,6 @@ dogewlfi.club
 ethena-fi.club
 etherfiwc26.club
 ethspin.club
-evercrestcapitalgroup.club
 exodus-app.club
 familbg.club
 m.fgxcaa.club
@@ -18073,7 +18067,6 @@ a212.21chongwu.com
 244344-crypto.com
 247931-uphold.com
 247potentialprime.com
-en.247powerpays.com
 247ucore.com
 247udolar.com
 coinbase.248311.com
@@ -21612,7 +21605,6 @@ binanceweb3-wallet.com
 binanesuppor.com
 binannce-uberprufung.com
 binanweb3.com
-binarytradeexchange.com
 bind-24.com
 binexbit.com
 binfanxm.com
@@ -22477,7 +22469,6 @@ bybitprokx.com
 bybitprow.com
 bybitprox.com
 bybitrade.com
-bybitspro.com
 bybitspto.com
 bybitwallet-audit.com
 bybitxyz.com
@@ -22932,7 +22923,6 @@ cexmm.com
 cexocas.com
 cexonex.com
 cexsmasmk.com
-h5.cf-coin.com
 cfd.cfd-finquikly.com
 app.cfdcapitalcompany.com
 cfdtokens.com
@@ -23217,7 +23207,6 @@ circlevotes.com
 cisco-webexupdate.com
 citihnwi.com
 citix-workspace.com
-citizenjmppro.com
 citprime.com
 citrea-portal.com
 citrea-votes.com
@@ -24153,7 +24142,6 @@ coinbsid.com
 coinbxse.com
 coincabal.com
 wallet.coincase.com
-coincashfxs.com
 coincasters.com
 coincbase.com
 coincbee.com
@@ -24168,7 +24156,6 @@ coincoverrecover.com
 coindacx.com
 coindask.com
 coindcxa.com
-coindcxba.com
 coindcxhelp.com
 coindcxsupport.com
 coindcxvault.com
@@ -25590,7 +25577,6 @@ standardsoftware.tor1.digitaloceanspaces.com
 topicjson.tor1.digitaloceanspaces.com
 digitalpaymentso.com
 digitalprofinizo.com
-digitalremoteseller.com
 digitaltrade-markets.com
 digitalwallet-x.com
 digitalwebprints.com
@@ -27577,14 +27563,12 @@ fwa-live.com
 fx360globalnetwork.com
 fx7qw7ufhs.com
 krakenadvanced.com.fxauth.com
-fxaxam.com
 fxaxb.com
 fxaxbd.com
 fxaxc.com
 fxaxcc.com
 fxaxf.com
 fxaxg.com
-fxaxm.com
 fxaxo.com
 fxaxt.com
 fxaxw.com
@@ -29203,7 +29187,6 @@ res.highexchanges.com
 faxmarkets.com.highfaxmarket.com
 highpcsolutions.com
 highrisesys.com
-hightitan.com
 hightlinegroup.com
 hightradeglobal.com
 hightreemarket.com
@@ -33336,7 +33319,6 @@ oneinch-eligibility.com
 oneinch-swap.com
 onekey-app.com
 onekey-desktop.com
-onekeywallcoin.com
 onekeywalletcoin.com
 onelnch.com
 onenco.com
@@ -34486,7 +34468,6 @@ primeexperttrading.com
 primefx-gx.com
 primefx-int.com
 primefx-official.com
-primehedgepro.com
 primenovamarkets.com
 primeorcapital.com
 primepulseofficial.com
@@ -34540,7 +34521,6 @@ privatezoommeeting.com
 privee-revolut.com
 privneate.com
 privnoce.com
-privnod.com
 privnoke.com
 privnolre.com
 privnota.com
@@ -37330,7 +37310,6 @@ alkaramstore-store.us.stackstaging.com
 stader-labs.com
 stadioners.com
 staff-coinbase.com
-staffecommerce.com
 stage-virtuals.com
 stage2firelight.com
 stage2flare.com
@@ -37396,9 +37375,6 @@ starknet-mainnet.com
 starknet-staking-desk.com
 starknet-stakingdesk.com
 starksventure.com
-invest.starlingfinancials.com
-investment.starlingfinancials.com
-starminmo.com
 starsgrowth.com
 app.start-io-trezor.com
 start-ledgar.com
@@ -38562,7 +38538,6 @@ tradexpert-capital.com
 tradexyz-vote.com
 tradiant-capital.com
 tradiaxcity.com
-trading.trading-xb.com
 support.coinbaseonline.tradingmask.com
 web.tradingrepublicltd.com
 tradingvisdew.com
@@ -40048,7 +40023,6 @@ us-blog-trezor.com
 us-changelly.com
 us-changenow.com
 us-cme.com
-us-coindcx.com
 us-dc.com
 us-en-rainbet.com
 us-enhance-secure.com
@@ -41614,7 +41588,6 @@ werd.com
 weregamb.com
 werewolfs.com
 werewolfs01.com
-werewolfs04.com
 werlugamb.com
 wesobet.com
 wesobit.com
@@ -47434,7 +47407,6 @@ api66sip.cyou
 api66van.cyou
 apps-across.cyou
 artisan-exchange.cyou
-asamexc.cyou
 ath-usdt.cyou
 audioza.cyou
 authenticcourseguides.cyou
@@ -47444,7 +47416,6 @@ baggiup.cyou
 ballisr.cyou
 basisex.cyou
 belloww.cyou
-bemexc.cyou
 bit-coin.cyou
 www.bitcexmax.cyou
 bitevent.cyou
@@ -47458,7 +47429,6 @@ bnevents.cyou
 bornlny.cyou
 bowlina.cyou
 brmedialoca.cyou
-btcbox.cyou
 btcusdt.cyou
 bulltheleader.cyou
 buytrx.cyou
@@ -47568,7 +47538,6 @@ haeccee.cyou
 hanggxx.cyou
 hewwbkp.cyou
 highliferewardarena.cyou
-hkmexc.cyou
 hunting-airdrop.cyou
 huntithgton.cyou
 identify-auth-mail-account.cyou
@@ -47658,17 +47627,12 @@ rumexc.cyou
 s25ftfi3wq.cyou
 safecapitalis.cyou
 safecapitalist.cyou
-2-0h5.safewfewef.cyou
-crypto-test-h5.safewfewef.cyou
-h5-dark-20.safewfewef.cyou
-xau.safewfewef.cyou
 xau2.safewfewef.cyou
 sajitoto4d.cyou
 salivae.cyou
 saudiab.cyou
 savecapital.cyou
 savingspools.cyou
-saxojp.cyou
 scarfkn.cyou
 schorlf.cyou
 searmexc.cyou
@@ -56564,7 +56528,6 @@ morpholabs.digital
 movetobrqen.digital
 mziv.digital
 n-track.digital
-n-trcks.digital
 naviro.digital
 nfts-marketplace.digital
 nothingtolist.digital
@@ -59115,7 +59078,6 @@ zoomerlab.fun
 elizaos.zvault.fun
 airdrops.fund
 bux.fund
-keeta.fund
 kta.fund
 solanabank.fund
 space-x.fund
@@ -65348,7 +65310,6 @@ vaultswap.io
 vbariational.io
 vcariational.io
 vectrcode.io
-veloxam.io
 video.veo-3-1.io
 variational.verification-gateway.io
 verified-operational-claims.io
@@ -72630,7 +72591,6 @@ ai.base-app.net
 base-coins.net
 base-smartwallet.net
 base-to.net
-basego.net
 baserda.net
 user.baseroomhub.net
 baseto.net
@@ -73362,7 +73322,6 @@ lladger-apps.net
 lledgar-live.net
 llvszw.net
 lncoin.net
-lnshshnxsh.net
 lobstrledger.net
 lockcoin.net
 log-auth-intos-server-portal.net
@@ -74876,7 +74835,6 @@ bludex.one
 boros.one
 bozei.one
 bsnera.one
-btcbox.one
 cantonnetwork.one
 card-trust.one
 cardsmart.one
@@ -74965,7 +74923,6 @@ guestlines.one
 hd-streamz.one
 helpkeyst.one
 hilde.one
-hkmexc.one
 hydrex.one
 hyperfoundations.one
 hyperllquid.one
@@ -75596,7 +75553,6 @@ forttresorique.online
 free-reward.online
 ftrustinvest.online
 fundai.online
-fxcap.online
 gemini-us.online
 eigenlayer.claim.get-rewards-user.online
 getsdkupdate.online
@@ -80455,7 +80411,6 @@ xwins.pro
 yelifinances.pro
 yield-basis.pro
 yoroi-wallet.pro
-area.z-pts.pro
 zenvault-airdrop.pro
 zitrix.pro
 zkcall.pro
@@ -82071,7 +82026,6 @@ newtork-v4.sbs
 nexin.sbs
 nexus-airdrop.sbs
 nexus-rewards.sbs
-nfttrckde.sbs
 nigerse.sbs
 no-verification-casino.sbs
 no-verify-user192950043.sbs
@@ -82988,7 +82942,6 @@ trustwalletusdtsell.shop
 trx-justlend.shop
 trxinfo.shop
 trxsend.shop
-tufejix.shop
 tulsaking.shop
 uasmexc.shop
 ugkk.shop
@@ -86013,7 +85966,6 @@ globitexx.top
 gnfc2027.top
 gocoin.top
 godpanel.top
-gointrads.top
 gokiteai.top
 goldmares.top
 gomtradx.top
@@ -86362,7 +86314,6 @@ meteorga.top
 metesora.top
 m.metmask.top
 mexcchat.top
-mexcprod.top
 mgbxsef-ufe.top
 miccrosofteams.top
 miccrrosofteam.top
@@ -87278,7 +87229,6 @@ zenlnk1.top
 zeusox.top
 zhodrukle.top
 zimontreds.top
-zktdsmnvipbvas.top
 zoom-us.top
 zoom-workspaces.top
 zooma.top
@@ -88827,7 +88777,6 @@ pc.atianadm.vip
 atomany.vip
 aurix1vip.vip
 aus97as.vip
-axendre.vip
 babywlfi.vip
 baextwf.vip
 bancor.vip
@@ -89158,7 +89107,6 @@ prodevx.vip
 publiccredit.vip
 pumpdrops.vip
 qocmjpbg.vip
-qprches.vip
 rabbysupport.vip
 rainbet-aus.vip
 rainbet-casino.vip
@@ -89635,7 +89583,6 @@ uniswapdex.win
 up-x.win
 veluro.win
 weawox.win
-startup.web3coin.win
 wuahax.win
 zoompalert.win
 rainbet.wine
@@ -90956,7 +90903,6 @@ bitnestme.xyz
 bitrefills.xyz
 bitscrunchs.xyz
 bitsyncnodevalidate.xyz
-bitvccloud.xyz
 blackbull-portal.xyz
 blackbull-sol.xyz
 blackbullonsol.xyz
@@ -91046,7 +90992,6 @@ buybacks-kinetiq.xyz
 bybit-ai.xyz
 bybit-bonus.xyz
 bybit-vote.xyz
-bybmarket.xyz
 byvotes.xyz
 byvotes-bybit.xyz
 cabalcalvinmigrate.xyz
@@ -92346,7 +92291,6 @@ ex-faucet.xyz
 exchange-option.xyz
 exitspain.xyz
 expertelitemarket.xyz
-expertrobotlumia.xyz
 exploit-aave.xyz
 exploit-re.xyz
 exploit-resolv.xyz
