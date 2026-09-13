@@ -10904,7 +10904,6 @@ unijoin.bio
 lido.fi.vheg.bio
 05live.biz
 247arena-drop.biz
-allo.airdropsalerts.biz
 astr.airdropsalerts.biz
 bifi.airdropsalerts.biz
 celo.airdropsalerts.biz
@@ -75237,7 +75236,6 @@ live.ong
 aave.onl
 kaifinance.airdropalert.onl
 link.airdropalerts.onl
-allo.airdropsalerts.onl
 alpha.airdropsalerts.onl
 alphafi.airdropsalerts.onl
 arb.airdropsalerts.onl
