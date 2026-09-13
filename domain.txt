@@ -67238,7 +67238,6 @@ ag-rewards.lat
 agent-smith.lat
 airdrop-grvt.lat
 airigcomplex.lat
-sexy.airsdropsalerts.lat
 allocation-grvt.lat
 alphax.lat
 animecoin.lat
