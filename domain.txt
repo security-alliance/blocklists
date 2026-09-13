@@ -32967,6 +32967,7 @@ noticed-x.com
 noticedmca-x.com
 notices-google.com
 noticesdmca-x.com
+notif-info-bitkub.com
 notif-supp-bitkub.com
 login.notification-coinbase.com
 notification-information-bitkub.com
@@ -33229,6 +33230,7 @@ onchaeeid.com
 onchaffeiu.com
 onchaghf.com
 onchaiiuec.com
+onchain-deskcryptohelps.com
 onchain-erhi.com
 onchain-ex.com
 onchain-exchange.com
@@ -57417,6 +57419,7 @@ allocation-flare.finance
 allocation-infrastructure.finance
 allocation-mystic.finance
 allocation-ordo.finance
+allocation-pendle.finance
 allocation-sceptre.finance
 allocation-spectra.finance
 allocation-theindex.finance
@@ -57484,9 +57487,12 @@ claim-firelight.finance
 claim-lombard.finance
 claim-lucidly.finance
 claim-mellow.finance
+claim-pendle.finance
 claim-solstice.finance
 claim-solv.finance
 claimallocation.finance
+claiming-pendle.finance
+claimings-pendle.finance
 claims-apyx.finance
 claims-firelight.finance
 claims-maple.finance
@@ -57525,6 +57531,7 @@ distribution-firelight.finance
 distribution-flare.finance
 distribution-ondo.finance
 distribution-theindex.finance
+distribution-umia.finance
 dixt.finance
 dodoex.finance
 dora-compliance.finance
@@ -57723,12 +57730,14 @@ revoke-tectonic.finance
 revrt.finance
 reward-maple.finance
 reward-onre.finance
+reward-pendle.finance
 rewards-ether.finance
 rewards-hydrex.finance
 rewards-hyperlend.finance
 rewards-klik.finance
 rewards-moonwell.finance
 rewards-onre.finance
+rewards-pendle.finance
 rewards-solstice.finance
 rewards-theindex.finance
 rewards-ts.finance
@@ -57888,6 +57897,7 @@ wwwondo.finance
 wwwsolstice.finance
 x-ether.finance
 xmrwallet.finance
+xn--revert-mwa.finance
 xn--symbosis-f2a.finance
 yefam.finance
 yfibalancer.finance
@@ -58187,6 +58197,7 @@ allocation-fwa.fun
 allocation-grail.fun
 allocation-hoppy.fun
 allocation-jailed.fun
+allocation-laptop.fun
 allocation-legs.fun
 allocation-long.fun
 allocation-makeanest.fun
@@ -82596,6 +82607,7 @@ auth0.select
 polymarket.method.select
 account-auth.services
 amlsec.services
+app-metamask.services
 app-phantom.services
 audius.services
 dev.ronin-wallet-website.axieinfinity.services
@@ -88782,6 +88794,7 @@ liveam.video
 pikashowapk.video
 pikashowapp.video
 streamyard.video
+1inch.vin
 phantom.vin
 rainbet.vin
 usdtspin.vin
@@ -90499,6 +90512,7 @@ app-hundonsol.xyz
 app-hydrexvote.xyz
 app-hyperbeat.xyz
 app-hyperdrive.xyz
+app-hyperliquidity.xyz
 app-hyperllquld.xyz
 app-iex.xyz
 app-infinifi.xyz

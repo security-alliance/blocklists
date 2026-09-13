@@ -32967,6 +32967,7 @@
 ||noticedmca-x.com^$all
 ||notices-google.com^$all
 ||noticesdmca-x.com^$all
+||notif-info-bitkub.com^$all
 ||notif-supp-bitkub.com^$all
 ||login.notification-coinbase.com^$all
 ||notification-information-bitkub.com^$all
@@ -33229,6 +33230,7 @@
 ||onchaffeiu.com^$all
 ||onchaghf.com^$all
 ||onchaiiuec.com^$all
+||onchain-deskcryptohelps.com^$all
 ||onchain-erhi.com^$all
 ||onchain-ex.com^$all
 ||onchain-exchange.com^$all
@@ -57417,6 +57419,7 @@
 ||allocation-infrastructure.finance^$all
 ||allocation-mystic.finance^$all
 ||allocation-ordo.finance^$all
+||allocation-pendle.finance^$all
 ||allocation-sceptre.finance^$all
 ||allocation-spectra.finance^$all
 ||allocation-theindex.finance^$all
@@ -57484,9 +57487,12 @@
 ||claim-lombard.finance^$all
 ||claim-lucidly.finance^$all
 ||claim-mellow.finance^$all
+||claim-pendle.finance^$all
 ||claim-solstice.finance^$all
 ||claim-solv.finance^$all
 ||claimallocation.finance^$all
+||claiming-pendle.finance^$all
+||claimings-pendle.finance^$all
 ||claims-apyx.finance^$all
 ||claims-firelight.finance^$all
 ||claims-maple.finance^$all
@@ -57525,6 +57531,7 @@
 ||distribution-flare.finance^$all
 ||distribution-ondo.finance^$all
 ||distribution-theindex.finance^$all
+||distribution-umia.finance^$all
 ||dixt.finance^$all
 ||dodoex.finance^$all
 ||dora-compliance.finance^$all
@@ -57723,12 +57730,14 @@
 ||revrt.finance^$all
 ||reward-maple.finance^$all
 ||reward-onre.finance^$all
+||reward-pendle.finance^$all
 ||rewards-ether.finance^$all
 ||rewards-hydrex.finance^$all
 ||rewards-hyperlend.finance^$all
 ||rewards-klik.finance^$all
 ||rewards-moonwell.finance^$all
 ||rewards-onre.finance^$all
+||rewards-pendle.finance^$all
 ||rewards-solstice.finance^$all
 ||rewards-theindex.finance^$all
 ||rewards-ts.finance^$all
@@ -57888,6 +57897,7 @@
 ||wwwsolstice.finance^$all
 ||x-ether.finance^$all
 ||xmrwallet.finance^$all
+||xn--revert-mwa.finance^$all
 ||xn--symbosis-f2a.finance^$all
 ||yefam.finance^$all
 ||yfibalancer.finance^$all
@@ -58187,6 +58197,7 @@
 ||allocation-grail.fun^$all
 ||allocation-hoppy.fun^$all
 ||allocation-jailed.fun^$all
+||allocation-laptop.fun^$all
 ||allocation-legs.fun^$all
 ||allocation-long.fun^$all
 ||allocation-makeanest.fun^$all
@@ -82596,6 +82607,7 @@
 ||polymarket.method.select^$all
 ||account-auth.services^$all
 ||amlsec.services^$all
+||app-metamask.services^$all
 ||app-phantom.services^$all
 ||audius.services^$all
 ||dev.ronin-wallet-website.axieinfinity.services^$all
@@ -88782,6 +88794,7 @@
 ||pikashowapk.video^$all
 ||pikashowapp.video^$all
 ||streamyard.video^$all
+||1inch.vin^$all
 ||phantom.vin^$all
 ||rainbet.vin^$all
 ||usdtspin.vin^$all
@@ -90499,6 +90512,7 @@
 ||app-hydrexvote.xyz^$all
 ||app-hyperbeat.xyz^$all
 ||app-hyperdrive.xyz^$all
+||app-hyperliquidity.xyz^$all
 ||app-hyperllquld.xyz^$all
 ||app-iex.xyz^$all
 ||app-infinifi.xyz^$all
