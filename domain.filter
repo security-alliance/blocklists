@@ -2875,6 +2875,7 @@
 ||crypto-t7e.netlify.app^$all
 ||crypto-tdk.netlify.app^$all
 ||crypto-ti9.netlify.app^$all
+||crypto-til.netlify.app^$all
 ||crypto-tjp.netlify.app^$all
 ||crypto-tl6.netlify.app^$all
 ||crypto-tmz.netlify.app^$all
@@ -3883,6 +3884,7 @@
 ||moonshot-listings-lne.netlify.app^$all
 ||moonshot-listings-lrg.netlify.app^$all
 ||moonshot-listings-mpg.netlify.app^$all
+||moonshot-listings-muw.netlify.app^$all
 ||moonshot-listings-nlw.netlify.app^$all
 ||moonshot-listings-pac.netlify.app^$all
 ||moonshot-listings-qad.netlify.app^$all
@@ -6362,6 +6364,7 @@
 ||portal-moonshot-fja.netlify.app^$all
 ||portal-moonshot-fku.netlify.app^$all
 ||portal-moonshot-fog.netlify.app^$all
+||portal-moonshot-frh.netlify.app^$all
 ||portal-moonshot-fxg.netlify.app^$all
 ||portal-moonshot-fz4.netlify.app^$all
 ||portal-moonshot-g36.netlify.app^$all
@@ -6413,6 +6416,7 @@
 ||portal-moonshot-n8x.netlify.app^$all
 ||portal-moonshot-nai.netlify.app^$all
 ||portal-moonshot-ne7.netlify.app^$all
+||portal-moonshot-nea.netlify.app^$all
 ||portal-moonshot-np6.netlify.app^$all
 ||portal-moonshot-o3g.netlify.app^$all
 ||portal-moonshot-o8a.netlify.app^$all
@@ -16178,6 +16182,7 @@
 ||sitemux5rlnjgc1g.cfd^$all
 ||sitemux5s1hklhxn.cfd^$all
 ||sitemux5yrclwe13.cfd^$all
+||sitemux5z87bbjh2.cfd^$all
 ||sitemux6kvrk49v9.cfd^$all
 ||sitemux6lgegnrf3.cfd^$all
 ||sitemux6m01yxo28.cfd^$all
@@ -16510,6 +16515,7 @@
 ||morphos.claims^$all
 ||near-allocation.claims^$all
 ||nearprotocol.claims^$all
+||netnet.claims^$all
 ||ondofi.claims^$all
 ||ondofinance.claims^$all
 ||oneinch.claims^$all
@@ -51459,6 +51465,7 @@
 ||1-hyperlinkapp-86x.pages.dev^$all
 ||1-hyperlinkfi.pages.dev^$all
 ||1-hyperlinkxyz-e79.pages.dev^$all
+||1-maple.pages.dev^$all
 ||1-netnet.pages.dev^$all
 ||1-pons.pages.dev^$all
 ||1-portal-concrete.pages.dev^$all
@@ -51536,6 +51543,7 @@
 ||12-0xfluid.pages.dev^$all
 ||12-allowlist-ascendlaunch.pages.dev^$all
 ||12-app-argus.pages.dev^$all
+||12-argus.pages.dev^$all
 ||12-argus-pad.pages.dev^$all
 ||12-argusworld.pages.dev^$all
 ||12-argusworlds-933.pages.dev^$all
@@ -51652,6 +51660,7 @@
 ||1xv.pages.dev^$all
 ||2-0xfluid.pages.dev^$all
 ||2-aeroxyz-3eu.pages.dev^$all
+||2-allocations-abs.pages.dev^$all
 ||2-allowlist-ascendlaunch.pages.dev^$all
 ||2-app-argus.pages.dev^$all
 ||2-argus-2n6.pages.dev^$all
@@ -51665,11 +51674,13 @@
 ||2-derivexyz-1y2.pages.dev^$all
 ||2-derivexyz-6ky.pages.dev^$all
 ||2-ecosystem-argus.pages.dev^$all
+||2-ethena.pages.dev^$all
 ||2-ethenamoney.pages.dev^$all
 ||2-fluidio.pages.dev^$all
 ||2-gov-ramses.pages.dev^$all
 ||2-hyperlinkapp-86x.pages.dev^$all
 ||2-hyperlinkxyz-e79.pages.dev^$all
+||2-netnet.pages.dev^$all
 ||2-pons.pages.dev^$all
 ||2-portal-concrete.pages.dev^$all
 ||2-predictfun.pages.dev^$all
@@ -51711,6 +51722,7 @@
 ||28-ramses-events.pages.dev^$all
 ||29-argusworld.pages.dev^$all
 ||3-0xfluid.pages.dev^$all
+||3-aero.pages.dev^$all
 ||3-aeroxyz-3eu.pages.dev^$all
 ||3-allowlist-ascendlaunch.pages.dev^$all
 ||3-app-argus.pages.dev^$all
@@ -57569,6 +57581,7 @@
 ||smeth.pages.dev^$all
 ||smogwhitelist.pages.dev^$all
 ||snapshot-programmables.pages.dev^$all
+||snapshot-stonkfuns.pages.dev^$all
 ||snapshots-argus-102.pages.dev^$all
 ||snapshots-kamino-100.pages.dev^$all
 ||snapshots-kamino-101.pages.dev^$all
@@ -60046,6 +60059,7 @@
 ||com-base.digital^$all
 ||communityhubvote.digital^$all
 ||communityhubvotes.digital^$all
+||communitylist.digital^$all
 ||compoundfinance.digital^$all
 ||concretexgz.digital^$all
 ||concretexyz.digital^$all
@@ -87548,6 +87562,7 @@
 ||lidodao.si^$all
 ||opensea.si^$all
 ||pancakeswap.si^$all
+||ponsvalley.si^$all
 ||rabby.si^$all
 ||rain-bet.si^$all
 ||rainbet.si^$all
@@ -95393,6 +95408,7 @@
 ||app-unipixnft.xyz^$all
 ||app-unitas.xyz^$all
 ||app-unlswap.xyz^$all
+||app-usenest.xyz^$all
 ||app-usepaid.xyz^$all
 ||app-valantis.xyz^$all
 ||vote.app-variational.xyz^$all
@@ -98614,6 +98630,7 @@
 ||lighter-drops.xyz^$all
 ||lighter-earn.xyz^$all
 ||lighter-enter.xyz^$all
+||lighter-get.xyz^$all
 ||lighter-hubs.xyz^$all
 ||lighter-lit.xyz^$all
 ||lighter-mint.xyz^$all
@@ -99596,6 +99613,7 @@
 ||polytheta.xyz^$all
 ||polytote.xyz^$all
 ||pons-family.xyz^$all
+||ponsfi.xyz^$all
 ||pool-flarenetworks.xyz^$all
 ||pool-quantnetwork.xyz^$all
 ||pools-flare.xyz^$all
@@ -100330,6 +100348,7 @@
 ||rewards-injective.xyz^$all
 ||rewards-intuition.xyz^$all
 ||rewards-jumper.xyz^$all
+||rewards-jumperapp.xyz^$all
 ||rewards-jup.xyz^$all
 ||rewards-jup-ag.xyz^$all
 ||rewards-jupiter.xyz^$all
@@ -102034,6 +102053,7 @@
 ||vote-zebecnetwork.xyz^$all
 ||vote-zetarium.xyz^$all
 ||vote-zicoin.xyz^$all
+||vote-zigchain.xyz^$all
 ||vote-zipcoin.xyz^$all
 ||voteasterdex.xyz^$all
 ||voted-flarenetwork.xyz^$all
