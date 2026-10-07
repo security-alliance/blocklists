@@ -14263,7 +14263,6 @@ coin-casinos.cc
 coinbase-bitmartaa.cc
 coinbase-certificate.cc
 coinbase-invoice.cc
-coinbase-us2.cc
 coinbase11.cc
 coinbase1ty.cc
 ww38.coinbasecom.cc
