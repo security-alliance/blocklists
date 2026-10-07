@@ -7541,6 +7541,7 @@ rubicexchange.app
 rufusio.app
 runsly.app
 ruqvexa.app
+s0l.app
 s1-hylo.app
 s1-lido.app
 s1-pendle.app
@@ -95431,7 +95432,6 @@ app-paradex.xyz
 app-pendlefinance.xyz
 app-piggybank.xyz
 app-polarisfinance.xyz
-app-polymarket.xyz
 app-ponsfamily.xyz
 app-propr.xyz
 app-puffer.xyz
