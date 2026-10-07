@@ -21676,7 +21676,6 @@ ww11.admin.87985-coinbase.com
 890879-binance.com
 891031-coinbase.com
 891033coinbase.com
-891045coinbase.com
 891064coinbase.com
 891094coinbase.com
 891358coinbase.com
@@ -34367,6 +34366,7 @@ meet-google-premium.com
 meet-online-join.com
 meet-onsecurity.com
 meet-rooms.com
+meet-us-04.com
 meet-us-at-lakeleand.com
 meet05.com
 meet1753465628661-4245-webex.com
@@ -40624,6 +40624,7 @@ stxrp-firelight.com
 stylegamb.com
 su04web-zoom-business.com
 su04webzoom-business.com
+su05-business-webzoom.com
 su05web-zoom-business.com
 su05webzoom-business.com
 su06web-zoom-business.com
@@ -74008,6 +74009,7 @@ us-ownership.live
 us03video-zoom.live
 us055web-zoom.live
 us05cloud.live
+us05webzoom.live
 us12room.live
 us155webzoom.live
 us54webzoom.live
@@ -74015,6 +74017,7 @@ usdplus.live
 usdpt.live
 usoronsol.live
 usweb03zoommeeting.live
+usweb08zoom.live
 v3chainlink.live
 v465.live
 validate-flarefn.live
@@ -92345,6 +92348,7 @@ worldlibertyfinancial.uno
 03in.us
 03inet.us
 03live.us
+03web-zoom.us
 03webr.us
 03webv.us
 03webz.us

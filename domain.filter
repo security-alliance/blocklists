@@ -21676,7 +21676,6 @@
 ||890879-binance.com^$all
 ||891031-coinbase.com^$all
 ||891033coinbase.com^$all
-||891045coinbase.com^$all
 ||891064coinbase.com^$all
 ||891094coinbase.com^$all
 ||891358coinbase.com^$all
@@ -34367,6 +34366,7 @@
 ||meet-online-join.com^$all
 ||meet-onsecurity.com^$all
 ||meet-rooms.com^$all
+||meet-us-04.com^$all
 ||meet-us-at-lakeleand.com^$all
 ||meet05.com^$all
 ||meet1753465628661-4245-webex.com^$all
@@ -40624,6 +40624,7 @@
 ||stylegamb.com^$all
 ||su04web-zoom-business.com^$all
 ||su04webzoom-business.com^$all
+||su05-business-webzoom.com^$all
 ||su05web-zoom-business.com^$all
 ||su05webzoom-business.com^$all
 ||su06web-zoom-business.com^$all
@@ -74008,6 +74009,7 @@
 ||us03video-zoom.live^$all
 ||us055web-zoom.live^$all
 ||us05cloud.live^$all
+||us05webzoom.live^$all
 ||us12room.live^$all
 ||us155webzoom.live^$all
 ||us54webzoom.live^$all
@@ -74015,6 +74017,7 @@
 ||usdpt.live^$all
 ||usoronsol.live^$all
 ||usweb03zoommeeting.live^$all
+||usweb08zoom.live^$all
 ||v3chainlink.live^$all
 ||v465.live^$all
 ||validate-flarefn.live^$all
@@ -92345,6 +92348,7 @@
 ||03in.us^$all
 ||03inet.us^$all
 ||03live.us^$all
+||03web-zoom.us^$all
 ||03webr.us^$all
 ||03webv.us^$all
 ||03webz.us^$all
