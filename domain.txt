@@ -48807,7 +48807,6 @@ us-trustextension.wixstudio.com
 us-user-exodues.wixstudio.com
 us-web-rabby.wixstudio.com
 usbegin-basepro.wixstudio.com
-uscoinbseproz.wixstudio.com
 uscrakenapp.wixstudio.com
 use-exo-dus-ext.wixstudio.com
 use-metamask-ext.wixstudio.com
@@ -49323,6 +49322,7 @@ wsunic.com
 ibm.wtc-jp.com
 wuakex.com
 wuasox.com
+exds-connect.wuaze.com
 maskairdrop.wuaze.com
 wuegox.com
 wuovox.com
@@ -54054,6 +54054,7 @@ get-exodas-waallets.pages.dev
 get-exodass-io.pages.dev
 get-exxo-dsas.pages.dev
 get-io-trazor.pages.dev
+get-krakien.pages.dev
 get-krraken-login.pages.dev
 get-ledgeer-io.pages.dev
 get-ledger-livee.pages.dev
