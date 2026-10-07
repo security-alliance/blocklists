@@ -32035,6 +32035,7 @@ home-odos.com
 home-pancake-swap.com
 home-pancakeswap.com
 home-puffer.com
+home-raydiurn.com
 home-sity-app.com
 home-whatapps.com
 homebissell.com
@@ -43295,6 +43296,7 @@ v2-mayanfi.com
 v2-n-e-a-r.com
 v2-ns-domains.com
 v2-olympusdao.com
+v2-pendle.com
 v2-pendlefinance.com
 v2-pirateswap.com
 v2-plnk.com
@@ -69342,7 +69344,6 @@ theindexlabs.io
 thelastdwarfs.io
 toboro.io
 tormixer.io
-tosidrop.io
 tradeandswap.io
 tradingview-app.io
 transactions-etherscan.io
