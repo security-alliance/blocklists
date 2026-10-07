@@ -19679,7 +19679,6 @@ y6.09na.com
 139577coinbase.com
 140275coinbase.com
 142260-coinbase.com
-142953coinbase.com
 143774coinbase.com
 144325-coinbase.com
 14461019-coinbase.com
@@ -66674,6 +66673,7 @@ app.11arnawsap.ink
 1ite.ink
 abracodabra.ink
 accrs.ink
+ai-portfolio.ink
 sol-incinerator.allocation.ink
 alphabot.ink
 alphapepe.ink
@@ -66876,6 +66876,7 @@ ronin-home.ink
 secure-amzon-revisionid9638.ink
 shqbtc.ink
 sol-flare.ink
+sol-gmgn.ink
 solanaspace.ink
 solgame.ink
 solvbtc.ink
