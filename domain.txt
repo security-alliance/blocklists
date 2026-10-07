@@ -84370,6 +84370,7 @@ spinvision.pro
 sprakfi.pro
 sray-tkn.pro
 stake-ripple.pro
+staketsone.pro
 zbcn.stakingsrewards.pro
 starsgate-fi.pro
 start-suite.pro
@@ -85004,6 +85005,7 @@ solburn.run
 solstices.run
 solstics.run
 space-x.run
+staketsone.run
 superformlabs.run
 llama.swap-v4.run
 teams08.run
