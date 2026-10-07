@@ -14306,7 +14306,6 @@ com-queryloginff-44dd.cc
 com-s-eu.cc
 com-security.cc
 com-usr.cc
-commerce-coinbase.cc
 community-listing.cc
 community-voting.cc
 communityvoting.cc
@@ -21744,7 +21743,6 @@ ww38.coinbaseverifier.8x8pnhv.com
 910281coinbase.com
 91107-gmail.com
 911592-crypto.com
-911725coinbase.com
 911955.com
 91257google.com
 913484-coinbase.com
@@ -23474,7 +23472,6 @@ axm729.com
 axone-airdrop.com
 ayaotu.com
 ayladeairtm.com
-ayuda-coinbase.com
 ayx-bit.com
 36.azamad.com
 azoreshelicopters.com
@@ -35906,7 +35903,6 @@ office365--microsoft.com
 office365microsoftlogin.com
 office365outlook-microsoft.com
 officedesknote.com
-offices-trustwallet.com
 official-coinbase.com
 official-kmspico.com
 official-ledger.com
@@ -44416,7 +44412,6 @@ whitelist-trezor.com
 whitelisting-ledger.com
 whitewallet-robinhood.com
 wigamb.com
-coinbaselogincontact.wikidot.com
 wikiherbia.com
 wildcasi.com
 wildflatlanderdigital.com
