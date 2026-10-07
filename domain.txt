@@ -97592,7 +97592,6 @@ governance-treadfi.xyz
 governance-umbra.xyz
 governance-umia.xyz
 governance-umiafinance.xyz
-governance-usdai.xyz
 governance-usenest.xyz
 governance-usepaid.xyz
 governance-yieldbasis.xyz
