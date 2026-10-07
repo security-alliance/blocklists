@@ -2844,6 +2844,7 @@
 ||crypto-rlz.netlify.app^$all
 ||crypto-rnw.netlify.app^$all
 ||crypto-roq.netlify.app^$all
+||crypto-rtv.netlify.app^$all
 ||crypto-rvd.netlify.app^$all
 ||crypto-s8r.netlify.app^$all
 ||crypto-s8t.netlify.app^$all
@@ -6317,6 +6318,7 @@
 ||portal-moonshot-bij.netlify.app^$all
 ||portal-moonshot-bom.netlify.app^$all
 ||portal-moonshot-bqq.netlify.app^$all
+||portal-moonshot-c23.netlify.app^$all
 ||portal-moonshot-c40.netlify.app^$all
 ||portal-moonshot-c4h.netlify.app^$all
 ||portal-moonshot-ccy.netlify.app^$all
@@ -6378,6 +6380,7 @@
 ||portal-moonshot-lfw.netlify.app^$all
 ||portal-moonshot-lmc.netlify.app^$all
 ||portal-moonshot-lms.netlify.app^$all
+||portal-moonshot-lqo.netlify.app^$all
 ||portal-moonshot-lqt.netlify.app^$all
 ||portal-moonshot-lrj.netlify.app^$all
 ||portal-moonshot-lv3.netlify.app^$all
@@ -11313,6 +11316,7 @@
 ||ecosystems-based.asia^$all
 ||ecosystems-flarenetwork.asia^$all
 ||ecosystems-mantle.asia^$all
+||firelight-allocation.asia^$all
 ||firelight-allocations.asia^$all
 ||firelight-proposals.asia^$all
 ||firelightecosystem.asia^$all
@@ -12440,6 +12444,7 @@
 ||aheadsgtbng.bond^$all
 ||ahvfxjmc.bond^$all
 ||ai-verify.bond^$all
+||airdrop-dopplerfinance.bond^$all
 ||airdropfinder.bond^$all
 ||airdropfree.bond^$all
 ||airdropfreeswap.bond^$all
@@ -13052,6 +13057,7 @@
 ||stonexotc.bond^$all
 ||streamflow.bond^$all
 ||tge-multipli.bond^$all
+||theindexfinance.bond^$all
 ||trmlabscoin.bond^$all
 ||tronrental.bond^$all
 ||trustwalletsupport.bond^$all
@@ -16645,6 +16651,7 @@
 ||bitfairdeals.click^$all
 ||bob-btc.click^$all
 ||boros-finance.click^$all
+||boros-pendlefinance.click^$all
 ||bozei.click^$all
 ||bravee.click^$all
 ||buy-trx.click^$all
@@ -39459,6 +39466,7 @@
 ||season-flare.com^$all
 ||season-flarefoundation.com^$all
 ||season-flarenetworks.com^$all
+||season-kamino.com^$all
 ||season-ondo.com^$all
 ||season-ore.com^$all
 ||season-usdh.com^$all
@@ -51339,6 +51347,7 @@
 ||10-0xfluid.pages.dev^$all
 ||10-allowlist-ascendlaunch.pages.dev^$all
 ||10-app-argus.pages.dev^$all
+||10-argus-pad.pages.dev^$all
 ||10-argusworld.pages.dev^$all
 ||10-argusworlds-933.pages.dev^$all
 ||10-cantonnetwork.pages.dev^$all
@@ -51356,6 +51365,7 @@
 ||10-zipcoin.pages.dev^$all
 ||10rc0nbasexvwork.pages.dev^$all
 ||11-0xfluid.pages.dev^$all
+||11-allowlist-ascendlaunch.pages.dev^$all
 ||11-app-argus.pages.dev^$all
 ||11-argusworld.pages.dev^$all
 ||11-argusworlds-933.pages.dev^$all
@@ -51366,6 +51376,7 @@
 ||11-gov-ramses.pages.dev^$all
 ||11-hyperlinkapp-86x.pages.dev^$all
 ||11-hyperlinkxyz-e79.pages.dev^$all
+||11-predictfun.pages.dev^$all
 ||11-proposal-argus-epf.pages.dev^$all
 ||11-ramses-events.pages.dev^$all
 ||11-saturncredit.pages.dev^$all
@@ -51379,6 +51390,7 @@
 ||12-derives.pages.dev^$all
 ||12-derivexyz-6ky.pages.dev^$all
 ||12-ethenamoney.pages.dev^$all
+||12-gov-ramses.pages.dev^$all
 ||12-hyperlinkapp-86x.pages.dev^$all
 ||12-hyperlinkxyz-e79.pages.dev^$all
 ||12-proposal-argus-epf.pages.dev^$all
@@ -51409,6 +51421,7 @@
 ||14-hyperlinkxyz-e79.pages.dev^$all
 ||14-proposal-argus-epf.pages.dev^$all
 ||14-ramses-events.pages.dev^$all
+||14-saturncredit.pages.dev^$all
 ||15-0xfluid.pages.dev^$all
 ||15-app-argus.pages.dev^$all
 ||15-argusworld.pages.dev^$all
@@ -51428,6 +51441,7 @@
 ||17-argusworld.pages.dev^$all
 ||17-argusworlds-933.pages.dev^$all
 ||17-ramses-events.pages.dev^$all
+||18-0xfluid.pages.dev^$all
 ||18-argusworld.pages.dev^$all
 ||18-argusworlds-933.pages.dev^$all
 ||18-ramses-events.pages.dev^$all
@@ -51483,6 +51497,7 @@
 ||23-ramses-events.pages.dev^$all
 ||24-argusworld.pages.dev^$all
 ||24-ramses-events.pages.dev^$all
+||25-argusworld.pages.dev^$all
 ||25-ramses-events.pages.dev^$all
 ||26-ramses-events.pages.dev^$all
 ||27-ramses-events.pages.dev^$all
@@ -51513,6 +51528,8 @@
 ||3-predictfun.pages.dev^$all
 ||3-proposal-argus.pages.dev^$all
 ||3-proposal-argus-epf.pages.dev^$all
+||3-proposal-derive.pages.dev^$all
+||3-proposal-globaldollar.pages.dev^$all
 ||3-proposal-zama.pages.dev^$all
 ||3-ramses-events.pages.dev^$all
 ||3-reallocation-abs.pages.dev^$all
@@ -51539,6 +51556,7 @@
 ||4-hyperlinkapp-86x.pages.dev^$all
 ||4-hyperlinkxyz-e79.pages.dev^$all
 ||4-netnet.pages.dev^$all
+||4-pons.pages.dev^$all
 ||4-predictfun.pages.dev^$all
 ||4-proposal-argus-epf.pages.dev^$all
 ||4-proposal-zama.pages.dev^$all
@@ -51551,10 +51569,12 @@
 ||5-0xfluid.pages.dev^$all
 ||5-allowlist-ascendlaunch.pages.dev^$all
 ||5-app-argus.pages.dev^$all
+||5-argus.pages.dev^$all
 ||5-argus-pad.pages.dev^$all
 ||5-argusworld.pages.dev^$all
 ||5-argusworlds-933.pages.dev^$all
 ||5-cantonnetwork.pages.dev^$all
+||5-derive.pages.dev^$all
 ||5-derives.pages.dev^$all
 ||5-derivexyz-6ky.pages.dev^$all
 ||5-ecosystem-argus.pages.dev^$all
@@ -51563,11 +51583,13 @@
 ||5-hyperlinkapp-86x.pages.dev^$all
 ||5-hyperlinkxyz.pages.dev^$all
 ||5-hyperlinkxyz-e79.pages.dev^$all
+||5-netnet.pages.dev^$all
 ||5-predictfun.pages.dev^$all
 ||5-proposal-argus.pages.dev^$all
 ||5-proposal-argus-epf.pages.dev^$all
 ||5-proposal-zama.pages.dev^$all
 ||5-ramses-events.pages.dev^$all
+||5-reallocation-abs.pages.dev^$all
 ||5-saturncredit.pages.dev^$all
 ||5-zamaprotocol.pages.dev^$all
 ||5-zipcoin.pages.dev^$all
@@ -51587,7 +51609,9 @@
 ||6-hyperlinkapp-86x.pages.dev^$all
 ||6-hyperlinkxyz-e79.pages.dev^$all
 ||6-predictfun.pages.dev^$all
+||6-proposal-argus.pages.dev^$all
 ||6-proposal-argus-epf.pages.dev^$all
+||6-proposal-zama.pages.dev^$all
 ||6-ramses-events.pages.dev^$all
 ||6-saturncredit.pages.dev^$all
 ||6-zamaprotocol.pages.dev^$all
@@ -51626,6 +51650,7 @@
 ||8-derivexyz-6ky.pages.dev^$all
 ||8-ecosystem-argus.pages.dev^$all
 ||8-ethenamoney.pages.dev^$all
+||8-fluidio.pages.dev^$all
 ||8-gov-ramses.pages.dev^$all
 ||8-hyperlinkapp-86x.pages.dev^$all
 ||8-hyperlinkxyz-e79.pages.dev^$all
@@ -61284,6 +61309,7 @@
 ||s0lstice.finance^$all
 ||s1-firelight.finance^$all
 ||s1-hybra.finance^$all
+||s1-onre.finance^$all
 ||s5-ether.finance^$all
 ||s6-ethena.finance^$all
 ||safe2spend.finance^$all
@@ -62581,6 +62607,7 @@
 ||scarlock.fun^$all
 ||scratch-solana.fun^$all
 ||scroll-spin.fun^$all
+||season-embercurve.fun^$all
 ||season1-embercurve.fun^$all
 ||season1-usepaid.fun^$all
 ||secureddegenkapital.fun^$all
@@ -65937,6 +65964,7 @@
 ||ruviai.info^$all
 ||rwaf.info^$all
 ||s1-biancoin.info^$all
+||s1-zebec.info^$all
 ||s2falconfinance.info^$all
 ||s3-morpho.info^$all
 ||s3morpho.info^$all
@@ -86364,6 +86392,7 @@
 ||www.scalpedge.sbs^$all
 ||scamaltmancoin.sbs^$all
 ||seamless-cache-bridge-sys.sbs^$all
+||season-otcdesk.sbs^$all
 ||sec-compliance.sbs^$all
 ||secuirtyguard.sbs^$all
 ||secure-access.sbs^$all
@@ -95586,6 +95615,7 @@
 ||check-otc.xyz^$all
 ||check-points.xyz^$all
 ||soltice.check-rewards.xyz^$all
+||check-stonkfun.xyz^$all
 ||check-varational.xyz^$all
 ||check-variational.xyz^$all
 ||checkallocation.xyz^$all
@@ -100958,6 +100988,7 @@
 ||token-jeanphil.xyz^$all
 ||token-jtx.xyz^$all
 ||token-jumper.xyz^$all
+||token-lighter.xyz^$all
 ||token-netnetcapital.xyz^$all
 ||token-rush.xyz^$all
 ||token-stonkfun.xyz^$all
