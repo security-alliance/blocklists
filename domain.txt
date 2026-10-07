@@ -11461,7 +11461,6 @@ coinstats.at
 cointrackers.at
 com-profile.at
 com-swap.at
-cowswap.at
 cs-float.at
 csfloat-cs2.at
 csgorolls.at
@@ -16813,6 +16812,7 @@ cow-swap-exchange.click
 cow-v2.click
 cowprotocol.click
 cowswap.click
+cowswap-en.click
 cowswap-fi.click
 cowswap-finance.click
 cowswap-fl.click
@@ -66857,6 +66857,7 @@ owltofi.ink
 pancake-farms.ink
 peddleaxis.ink
 pinksalles.ink
+platform-dydx.ink
 po1kadot.ink
 pools-yieldbasis.ink
 com.pound-v3.ink
