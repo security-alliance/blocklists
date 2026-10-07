@@ -33620,6 +33620,7 @@ ledgerrwebs.com
 ledgers-apps.com
 ledgers-cn.com
 ledgers-crypto.com
+ledgerscan.com
 ledgersecureupdate.com
 ledgertp.com
 ledgerupgrade.com
@@ -36675,6 +36676,7 @@ pengu-product.com
 penguairdroponline.com
 pengudao.com
 penguin-dex.com
+kast.penseopen.com
 peogux.com
 peojax.com
 peoples-claim.com
@@ -60639,6 +60641,7 @@ habibi.exchange
 hyperrswap.exchange
 jupiter-swap.exchange
 jupiter-verify.exchange
+kastpay.exchange
 koinex.exchange
 layerswap.exchange
 limitess.exchange

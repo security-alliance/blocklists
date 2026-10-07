@@ -33620,6 +33620,7 @@
 ||ledgers-apps.com^$all
 ||ledgers-cn.com^$all
 ||ledgers-crypto.com^$all
+||ledgerscan.com^$all
 ||ledgersecureupdate.com^$all
 ||ledgertp.com^$all
 ||ledgerupgrade.com^$all
@@ -36675,6 +36676,7 @@
 ||penguairdroponline.com^$all
 ||pengudao.com^$all
 ||penguin-dex.com^$all
+||kast.penseopen.com^$all
 ||peogux.com^$all
 ||peojax.com^$all
 ||peoples-claim.com^$all
@@ -60639,6 +60641,7 @@
 ||hyperrswap.exchange^$all
 ||jupiter-swap.exchange^$all
 ||jupiter-verify.exchange^$all
+||kastpay.exchange^$all
 ||koinex.exchange^$all
 ||layerswap.exchange^$all
 ||limitess.exchange^$all
