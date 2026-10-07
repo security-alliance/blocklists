@@ -86538,6 +86538,7 @@ moneysolana.sbs
 monredirect.sbs
 monter.sbs
 moonwell-rewards.sbs
+moonwelldefi.sbs
 morpho-v1.sbs
 morphofnd.sbs
 ms-meetmeeting-teams.sbs
