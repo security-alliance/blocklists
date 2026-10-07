@@ -45713,7 +45713,6 @@ en-exodn-us.wixstudio.com
 en-exods-web3.wixstudio.com
 en-exodus.wixstudio.com
 en-exodus-wallet.wixstudio.com
-en-exodus-web.wixstudio.com
 en-exoduss.wixstudio.com
 en-exodusweb.wixstudio.com
 en-exoudus.wixstudio.com
