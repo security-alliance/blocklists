@@ -49620,6 +49620,7 @@ xn--bitefill-z7c.com
 xn--bitpi-b0a.com
 xn--bitrefil-cob.com
 xn--bitrefil-dob.com
+xn--bitrefil-dpb.com
 xn--bitrefil-qvd.com
 xn--bitrefll-71a.com
 xn--bitrefll-h2a.com
@@ -59444,7 +59445,6 @@ tzr-ioqwek.destiny72.workers.dev
 tzr-oeknj.destiny72.workers.dev
 tzr-oemdj.destiny72.workers.dev
 tzr-oiekd.destiny72.workers.dev
-cnbswallgfgr.devontae3.workers.dev
 rby-bncdhio.deylaa12.workers.dev
 rby-nmbxzis.deylaa12.workers.dev
 trozr-eiwuy.deylaa12.workers.dev
