@@ -17069,6 +17069,7 @@ poolsfun.click
 portal-aave.click
 portal-flarenetwork.click
 postgres.click
+potal-firelight.click
 pppprotestsss.click
 printr.click
 prolifically-allocations.click
@@ -22751,6 +22752,7 @@ aml-trust.com
 aml-usdt.com
 aml-usdt-bybit.com
 aml-verification-eu.com
+aml-verifybot.com
 aml-wallet.com
 amlbot-clear.com
 amlbot-verification.com
@@ -26367,6 +26369,7 @@ coinbase-ticketreview.com
 coinbase-usercare.com
 coinbase-vaulting.com
 coinbase-verify.com
+coinbase-verify-us.com
 coinbase-view-session.com
 coinbase-viewticket.com
 coinbase-walletdepartment-deposit.com
@@ -32351,6 +32354,7 @@ illvologroupfx.com
 ilovemonney.com
 im-tokenn.com
 images-x.com
+imageverify-x.com
 imap-post.com
 immutable-okta.com
 imperer01-minerl.com
@@ -44024,6 +44028,7 @@ wallet-suite-io.com
 wallet-trustcard.com
 wallet-update-live.com
 wallet-updates.com
+wallet-userfix.com
 wallet-userfix21.com
 wallet-userupdate7.com
 secure-walletconnect.wallet-veriffy.com
@@ -63990,6 +63995,7 @@ conscious-capital.icu
 convex-finance.icu
 cosmostaiton.icu
 cosrnostation.icu
+credential-verification-409.icu
 user.crescent-trustee.icu
 crv-lite.icu
 crv-swap.icu
@@ -79625,6 +79631,7 @@ go-wheel-spin.online
 gokiteai.online
 goldbybitvn.online
 golofoto.online
+google-accountverification.online
 gote-flybrain.online
 governancefinancial.online
 governancewealth.online
@@ -80379,6 +80386,7 @@ aml-compliance.org
 aml-dapp.org
 aml-ripple.org
 aml-scan.org
+aml-verifybot.org
 amlbinances.org
 amlbot-control.org
 amlbot24.org
@@ -86511,6 +86519,7 @@ claim.polymarkets.sbs
 portal-derive.sbs
 portal-linera.sbs
 portal-lombard.sbs
+portal-yield.sbs
 portalbirdge.sbs
 portallogonlogs.sbs
 portocol-v2.sbs
@@ -87988,6 +87997,7 @@ secured-details.site
 securems.site
 security-coinb.site
 set-fireligiht.site
+shared-proposal.site
 shares-iab.site
 siaenur.site
 skyeco.site
@@ -90410,6 +90420,7 @@ classicelegance.top
 eigenlayer.xyz.cldf-app.top
 clean-route-studio.top
 clear-hub-io.top
+client-support-verification24139.top
 cloudpublish.top
 cloudsfront.top
 cloudshareit.top
@@ -91962,6 +91973,7 @@ velvefi.top
 vendenb.top
 ventracore.top
 venuswhite.top
+verification-page1.top
 verify-certificate.top
 verify-poshprofile.top
 verify-service.top
