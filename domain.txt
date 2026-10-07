@@ -35550,6 +35550,7 @@ news-coinbase.com
 news-ethena.com
 news-listing.com
 news-moonshots.com
+news-trump.com
 newsaljazeera.com
 newscalarlabs.com
 newsdappconnect.com
@@ -70992,7 +70993,6 @@ grvtio-reward.lat
 grvtioapps.lat
 grvtrewards.lat
 guabira.lat
-hachikosol.lat
 harmonixfi.lat
 hashcats.lat
 hausdorff.lat
@@ -71298,7 +71298,6 @@ usrxcoins.lat
 omni.variational.lat
 vdoecoinsolana.lat
 vdor-app.lat
-vdorcoinsol.lat
 vdortoken.lat
 verify-sale-securely9556742.lat
 virtuals-app.lat
@@ -74852,7 +74851,6 @@ v655695.lol
 val-reward.lol
 variational.lol
 vault-firelight.lol
-vdorcoin.lol
 ventra.lol
 verify-info.lol
 virtuals-redirect.lol
