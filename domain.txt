@@ -7383,7 +7383,6 @@ rainbetcasino.app
 rainbetcasinos.app
 rainbetpromocode.app
 rainbets.app
-rayprosecure.app
 rayresolvelive.app
 reallocation-firelight.app
 reallocation-flare.app
@@ -8646,7 +8645,6 @@ vaults-morpho.app
 vectorlaunch.app
 velodrome-finance.app
 venicevote.app
-0penseagiveaway-pro1.vercel.app
 1321179f.vercel.app
 1inch-connect-dapp-layer-v163.vercel.app
 1inch-connect-dapp-layer-v322.vercel.app
@@ -13669,7 +13667,6 @@ trustwallet-verification.cam
 trustwalletanzhuobanxiazai.cam
 truthterminal.cam
 unicornspinsvip.cam
-unicty.cam
 usefelix.cam
 user-poiymarket.cam
 user-polynarket.cam
@@ -13692,7 +13689,6 @@ wzx.cam
 x-pay.cam
 xibumexc.cam
 zerobase.cam
-zestprotocol.cam
 zetachain.cam
 zksymc.cam
 zoomcall.cam
@@ -13782,7 +13778,7 @@ aerodrome.casa
 airdropalert.casa
 apinaga1vxr.casa
 auth-www-secure3-connect.casa
-baseposting.casa
+dashboard.baseposting.casa
 basezh.casa
 blacksbullsol.casa
 cakewallet.casa
@@ -36467,7 +36463,6 @@ otcdd.com
 otcspecialty.com
 otcvipbykr.com
 otcvipbykrak.com
-otelchain.com
 oticquant.com
 oticquantss.com
 fu.ou34.com
@@ -52380,7 +52375,6 @@ bitby-logi-usa.pages.dev
 bitbyee-app-page.pages.dev
 bitcoinbsc-dapp.pages.dev
 bitcoinbsci.pages.dev
-bitcoindogs-connect.pages.dev
 bitcoininu.pages.dev
 bitcoinminetrix-live.pages.dev
 bitget-help.pages.dev
@@ -56500,7 +56494,6 @@ noya-ai.pages.dev
 nshflv.pages.dev
 nsrug.pages.dev
 nuo-ledgr-starts.pages.dev
-nvrk-reward.pages.dev
 nx0b6we.pages.dev
 nx8kf.pages.dev
 nxuqmp.pages.dev
@@ -91144,7 +91137,6 @@ moonshoot-vote.top
 moonshoottools.top
 moonshot-awards.top
 moonshot-coins.top
-moonshot-list.top
 moonshot-listed.top
 moonshot-poll.top
 moonshot-voting.top
