@@ -60675,6 +60675,7 @@ lidofinance.events
 liminalmoney.events
 lista.events
 listadao.events
+lombardfinance.events
 megaeths.events
 merkl.events
 merklxyz.events
