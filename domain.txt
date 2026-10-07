@@ -27714,7 +27714,6 @@ dapps-phase2firelight.com
 dapps-uniswap.com
 dappsbase.com
 dappshub-rectify.com
-dappvalidation-node.com
 darewex.com
 dariclabs.com
 darkexcom.com
@@ -92544,7 +92543,6 @@ eigenlayertrading.trade
 ellipsisfi.trade
 en-com.trade
 ethbot.trade
-ethdefi.trade
 etherbot.trade
 ethesrcan.trade
 etrehereal.trade
