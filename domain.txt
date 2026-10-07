@@ -35801,6 +35801,7 @@ nobitex-dashboard.com
 airdrop.nocaponbase.com
 token.nocaponbase.com
 node-radium.com
+node-spend.com
 node-trstwallet.com
 node139742.com
 nodebitxispro.com
@@ -64468,6 +64469,7 @@ odos-v3.icu
 olimpaura.icu
 ondoperps.icu
 online-wsevvc.icu
+open-trustcard.icu
 opentrustcards.icu
 opentrustcardwallet.icu
 opentrustwalletcard.icu
