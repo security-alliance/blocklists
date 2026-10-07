@@ -6284,6 +6284,7 @@ portal-moonshot-74u.netlify.app
 portal-moonshot-76y.netlify.app
 portal-moonshot-7ag.netlify.app
 portal-moonshot-7hc.netlify.app
+portal-moonshot-7z5.netlify.app
 portal-moonshot-7zh.netlify.app
 portal-moonshot-83r.netlify.app
 portal-moonshot-88a.netlify.app
@@ -28512,7 +28513,6 @@ echov4.com
 eclipsestake.com
 m.ecmarketsmefx.com
 pc.ecmarketsmefx.com
-m.ecmarketsusgroup.com
 pc.ecmarketsusgroup.com
 ecointerviews.com
 ecosystem-eigenlayer.com
@@ -30544,7 +30544,6 @@ global-trustwallet.com
 global7484.com
 globalbullfxs.com
 globalbuzzsumo-apps.com
-globalcapitalwealth.com
 globalcryptora.com
 globalcryptotransfer.com
 scvfj.globaleb5.com
@@ -51349,6 +51348,7 @@ orbitprotocol.dev
 11-hyperlinkxyz-e79.pages.dev
 11-proposal-argus-epf.pages.dev
 11-ramses-events.pages.dev
+11-saturncredit.pages.dev
 11-zamaprotocol.pages.dev
 11-zipcoin.pages.dev
 12-0xfluid.pages.dev
@@ -51438,6 +51438,7 @@ pr-7831.1inch-io-app.pages.dev
 2-hyperlinkxyz-e79.pages.dev
 2-portal-concrete.pages.dev
 2-predictfun.pages.dev
+2-proposal-argus.pages.dev
 2-proposal-argus-epf.pages.dev
 2-proposal-zama.pages.dev
 2-ramses-events.pages.dev
@@ -59768,6 +59769,7 @@ felixprotocol.digital
 fight-foundation.digital
 fightfoundations.digital
 coinbase.finportal.digital
+firelight-allocations.digital
 firmwarehub.digital
 flowupvyrion.digital
 fluencedrop.digital
@@ -100148,6 +100150,7 @@ season2-firelight.xyz
 season2-multipli.xyz
 season2-re.xyz
 season2hyperfoundation.xyz
+season3-hyperfoundation.xyz
 season3-lighter.xyz
 season3-lighter-season.xyz
 season3-lighter-seasons.xyz
