@@ -75850,6 +75850,7 @@ cs2go.money
 detect.money
 eigenlayer.money
 governance-liminal.money
+kinetiq.money
 mixep.money
 mixer.money
 mixero.money
