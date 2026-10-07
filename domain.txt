@@ -33649,6 +33649,7 @@ ledgeb.com
 ledgelive-apps.com
 ledgelive-web.com
 ledgeliver.com
+ledgenlive.com
 ledger-allocation.com
 ledger-buy.com
 ledger-buywallet.com
@@ -82230,6 +82231,7 @@ dashboard-opensea.snhge.org
 sniperjet.org
 sniperxai.org
 extension.soflare.org
+soft-ledger.org
 area.soho-international.org
 sol-crypto-casino.org
 sol-flare.org
