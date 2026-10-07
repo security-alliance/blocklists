@@ -8989,7 +8989,6 @@ coinbase-support-beryl.vercel.app
 coinbase-ui.vercel.app
 coinbase-wallet-ext.vercel.app
 coinbase-wallet-sdk-testapp-g8sa-git-341642-dargon789s-projects.vercel.app
-coinbase-wallets-ext.vercel.app
 coinbase-wallets-extenson.vercel.app
 coinbasepro-pi.vercel.app
 coinbaseverify.vercel.app
@@ -102064,7 +102063,6 @@ vote-zebec.xyz
 vote-zebecnetwork.xyz
 vote-zetarium.xyz
 vote-zicoin.xyz
-vote-zigchain.xyz
 vote-zipcoin.xyz
 voteasterdex.xyz
 voted-flarenetwork.xyz

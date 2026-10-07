@@ -8989,7 +8989,6 @@
 ||coinbase-ui.vercel.app^$all
 ||coinbase-wallet-ext.vercel.app^$all
 ||coinbase-wallet-sdk-testapp-g8sa-git-341642-dargon789s-projects.vercel.app^$all
-||coinbase-wallets-ext.vercel.app^$all
 ||coinbase-wallets-extenson.vercel.app^$all
 ||coinbasepro-pi.vercel.app^$all
 ||coinbaseverify.vercel.app^$all
@@ -102064,7 +102063,6 @@
 ||vote-zebecnetwork.xyz^$all
 ||vote-zetarium.xyz^$all
 ||vote-zicoin.xyz^$all
-||vote-zigchain.xyz^$all
 ||vote-zipcoin.xyz^$all
 ||voteasterdex.xyz^$all
 ||voted-flarenetwork.xyz^$all
