@@ -9069,7 +9069,6 @@ dbanks.vercel.app
 defi-on-arc.vercel.app
 definitive-electronics-qyjl.vercel.app
 degen-claimer.vercel.app
-degen-gambling-house.vercel.app
 degen-safe-v2.vercel.app
 degenassetorganization.vercel.app
 deq-fi.vercel.app
@@ -14244,7 +14243,6 @@ cards-tw.cc
 cardtrustwallet.cc
 carpro-coin.cc
 cash-app.cc
-casha.cc
 cashscat.cc
 casiflow.cc
 casihead.cc
@@ -22534,7 +22532,6 @@ akinvesment.com
 akneoki.com
 aktortogel-drop.com
 aktywent-ai.com
-alamery.com
 alamostrategicsmfg.com
 albertaenergyhelp100.com
 alberthumanclinic.com
@@ -83705,7 +83702,6 @@ etherfi.pro
 ethersfi.pro
 ethmachine.pro
 eu-home.pro
-evmchain.pro
 ex-app.pro
 exchange-sawp.pro
 exchange-v4.pro
@@ -96821,7 +96817,6 @@ eihenlayer.xyz
 eiigenleyar.xyz
 eiigenpie.xyz
 eilgenlayer.xyz
-elefantsterribles.xyz
 elganlayer.xyz
 elgehlayer.xyz
 elgen-laeyr.xyz
