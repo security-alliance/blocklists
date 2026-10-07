@@ -11291,6 +11291,7 @@ vvv-proposal.art
 web3wallet.art
 wyne-coin.art
 xbull.art
+shorten.as
 1inch.asia
 airdrop-dopplerfinance.asia
 allocation-axisrobotics.asia
@@ -59986,6 +59987,7 @@ proxyfai.digital
 pudgypenguins.digital
 pufferfinance.digital
 pumpfun.digital
+quantusnetwork.digital
 quorainpattern.digital
 raydium.io-swap.radyim-eth-eth-vfr.digital
 rafi99-phantom.digital
