@@ -71108,6 +71108,7 @@ lynkpay.lat
 mainnetplasma.lat
 manifestingonsol.lat
 manual-verify093487.lat
+maplefinance.lat
 meekasol.lat
 memescandata.lat
 merklxyz.lat
