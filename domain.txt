@@ -87563,7 +87563,6 @@ google-account.si
 lidodao.si
 opensea.si
 pancakeswap.si
-ponsvalley.si
 rabby.si
 rain-bet.si
 rainbet.si
@@ -95435,7 +95434,6 @@ appmovement.xyz
 approvals-wasabi.xyz
 apps-3jane.xyz
 apps-40acres.xyz
-apps-across.xyz
 apps-aitech.xyz
 apps-arcus.xyz
 apps-asterdex.xyz
