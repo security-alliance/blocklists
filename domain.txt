@@ -11808,6 +11808,7 @@ appplasma.beauty
 devtltie.beauty
 gtcki.eth-tokens.beauty
 finance-valid-wallet-connect-quick.beauty
+finance-visual-secured-node-connect.beauty
 mainnetplasma.beauty
 my-rewards.beauty
 myis-rewards.beauty
