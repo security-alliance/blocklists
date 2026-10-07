@@ -776,6 +776,7 @@ cardspay.app
 cardtrustwallet.app
 cardvisaspend.app
 carolla.app
+case-x.app
 cash-casino.app
 cash-payment.app
 cashcattoken.app
@@ -1898,6 +1899,7 @@ moonwell-contracts.app
 moonwell-finance.app
 moonwellfi.app
 morphovotes.app
+motiontrading.app
 msauthorize.app
 msiafterburner.app
 trustwallet.mslc.app
@@ -26972,6 +26974,7 @@ contactpoint-x.com
 contaify.com
 container-x.com
 content-zoom.com
+contenta-x.com
 contentactions-x.com
 contentactionx-x.com
 contentactivity-x.com
@@ -27512,6 +27515,7 @@ cxgdos.com
 cxmfmarkets.com
 cxzafqeeq.com
 cxzfasfq.com
+cyamike.com
 cyberleek.com
 cyberratai.com
 cybersecurity-digitalassetrecovery.com
@@ -28206,6 +28210,7 @@ dmcaspeech-x.com
 dmcateam-x.com
 dmcaterm-x.com
 dmcaterms-x.com
+dmcatickets-x.com
 dmcaupdates-x.com
 dmcaverify-x.com
 dmgelectech.com
@@ -40766,6 +40771,7 @@ support-trustwallets.com
 support-vault.com
 support-wallet-ledger.com
 support1-bitget.com
+supportalert-x.com
 supportcase-x.com
 supportcases-x.com
 supportcbase.com
@@ -40787,6 +40793,7 @@ supportreview-x.com
 supportreviews-x.com
 nxknyqxa.backend.supportrobinhood.com
 gmjnwbzo.m.supportrobinhood.com
+supports-desk.com
 supports-x.com
 supportsafe-coinbase.com
 coinbase.supportscbh.com
@@ -51275,6 +51282,7 @@ firelaunch.dev
 firelight-finance.dev
 flubless.dev
 rodeo-os.fly.dev
+freeclaude.dev
 furmark.dev
 gotobyec2.dev
 appscoinsquarcdn.hashnode.dev
@@ -62605,6 +62613,7 @@ pumuip.fun
 punip.fun
 punps.fun
 pupump.fun
+purnp-stream.fun
 quest-jailed.fun
 quests-jailed.fun
 raacfi.fun
@@ -73716,6 +73725,7 @@ ridelixpip.live
 riowin.live
 ripple-bonus.live
 rippletoday.live
+risetrade.live
 rizzmas-claim.live
 robidy.live
 robinhood-eligible.live
@@ -73850,6 +73860,7 @@ solaxyrevive.live
 solcard-cc.live
 solclaimreward.live
 solfast.live
+solfee.live
 solmigration.live
 sologenictx.live
 solphx.live
@@ -74562,6 +74573,7 @@ breezetracker.lol
 brianbase.lol
 bridgeqr.lol
 brno-harris.lol
+bsghsshwowno.lol
 btorbncw.lol
 bulltheleader.lol
 burniesenders.lol
@@ -90915,6 +90927,7 @@ litespoofer.top
 live-com.top
 live-coms.top
 live-drop.top
+livepumpfun.top
 livesolstreams.top
 livesoltreams.top
 lizard-rewards.top
@@ -91505,6 +91518,7 @@ solstice.top
 solsticefinance.top
 solsticefinances.top
 solsticefoundation.top
+soltap.top
 soltech.top
 soltrade.top
 solturbo.top
@@ -93817,6 +93831,7 @@ storewallcoin.vip
 web.storewalldex.vip
 straitsxq.vip
 usdc.sundapp.vip
+superinu.vip
 support-coinbase.vip
 swan13.vip
 swan14.vip
@@ -96461,6 +96476,7 @@ earn-lighter.xyz
 earn-otc.xyz
 earn-usepaid.xyz
 earn-xrpl.xyz
+earningnodes.xyz
 earns-otc.xyz
 earns-usepaid.xyz
 pv91sy5vokyddmc.easjob.xyz
@@ -96744,6 +96760,7 @@ enter-wlfi.xyz
 enter-worldlibertyfi.xyz
 enter-worldlibertyfinancial.xyz
 enter-xrpl.xyz
+enterprise-stream.xyz
 entry-kinetiq.xyz
 entry-papertrade.xyz
 envell.xyz
@@ -98984,6 +99001,7 @@ nowget.xyz
 nowobtain.xyz
 nowpamp.xyz
 nowsecurederive.xyz
+ntfme.xyz
 nucleuscodes.xyz
 nullfee.xyz
 nvdapre-order.xyz
@@ -99681,6 +99699,7 @@ pumpfunlivestreams.xyz
 pumpfunmemes.xyz
 pumpfunmemestream.xyz
 pumpfunnowstream.xyz
+pumpfunsecuingnow.xyz
 pumpfunsolcomplete.xyz
 pumpfunsollivestream.xyz
 pumpfunsolstream.xyz
@@ -101073,6 +101092,7 @@ token-usepaid.xyz
 token0ps.xyz
 portal.tokenallocation.xyz
 tokenchainlive.xyz
+tokenchecks.xyz
 tokencitrea.xyz
 tokendisbursement.xyz
 tokendistribux.xyz
@@ -102203,6 +102223,7 @@ worldnftsecure.xyz
 worldnftyield.xyz
 worldpumpfun.xyz
 worldsolana.xyz
+worldwisewizards.xyz
 worldwse.xyz
 wormhole-claim.xyz
 wqgyu.xyz
