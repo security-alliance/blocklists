@@ -71568,6 +71568,7 @@ changenow.com.lc
 coinspot.com.lc
 ellipal.com.lc
 hyperliquid.com.lc
+kraken.com.lc
 krakensupport.com.lc
 kucoin.com.lc
 legder.com.lc
