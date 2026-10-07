@@ -50294,6 +50294,7 @@ zoommcall.com
 zoommeetconnect.com
 zoommeetingapp.com
 zoommeetinginfo.com
+zoommeetingmail.com
 zoommeetings-invite.com
 zoommeetingscheduling.com
 zoommeetingsetupinfo.com
@@ -50367,6 +50368,7 @@ zoorn-live.com
 zoorn-meet.com
 zoorn-meeting.com
 zoornint.com
+zoornlive-meeting.com
 zosanx.com
 zoth-vote.com
 zougox.com
