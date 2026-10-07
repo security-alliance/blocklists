@@ -14410,6 +14410,7 @@ derip.cc
 derivax.cc
 dexalot.cc
 dexbet.cc
+dexil.cc
 dextoken.cc
 discord-reward.cc
 distributionhub.cc
@@ -14639,6 +14640,7 @@ h-emi.cc
 haparts.cc
 happyjokers.cc
 harborfield.cc
+havil.cc
 hbuilderx.cc
 hhpklajyjj.cc
 hk-web3.cc
@@ -14688,6 +14690,7 @@ j1to.cc
 jadebet.cc
 jaxx-liberty.cc
 jaxx-wallet.cc
+jexan.cc
 jkgtsbmls2.cc
 jokerx.cc
 jpvf.cc
@@ -14950,6 +14953,7 @@ polymrket.cc
 polymrkt.cc
 ponsfamily.cc
 poo-coin2.cc
+povin.cc
 pqc-ledger.cc
 privatealbum.cc
 profkr.cc
@@ -15727,6 +15731,7 @@ bluetick-dashboard.cfd
 bnbforgetch.cfd
 boarding-v4.cfd
 boros-pendlefinance.cfd
+bus527.cfd
 bveewur-tw.cfd
 bveweur-tw.cfd
 bvewuer-tw.cfd
@@ -16776,6 +16781,7 @@ cow-v2.click
 cowprotocol.click
 cowswap.click
 cowswap-fi.click
+cowswap-finance.click
 cowswap-fl.click
 criptonopix.click
 crusader-claimable.click
@@ -19407,6 +19413,7 @@ zoomwithsophie.co
 bitstamp.codes
 browscheck.codes
 browseid.codes
+checkyoubrowse.codes
 entry-code-cdn.codes
 freecrypto.codes
 idcheckbrowese.codes
@@ -22297,6 +22304,7 @@ ad-usdc-bridge.com
 adaafinancial.com
 adakkada.com
 adamscompliancesolutionsgroup.com
+adani-one.com
 add-tx2-kraken.com
 suite.app-trezor.addpotion.com
 trezorsuite.en.app.addpotion.com
@@ -23545,6 +23553,7 @@ b1t5tamp.com
 b75zm821yc.com
 b7df.com
 ba1ancer.com
+baalbeckpalace.com
 baba-casino.com
 babajani.com
 babicoin.com
@@ -25420,6 +25429,7 @@ changelly-app.com
 changelly-crypto.com
 changelly-dex.com
 changelly-en.com
+changelly-eng.com
 changelly-exchange.com
 changelly-or.com
 changelly-orguude.com
@@ -27891,6 +27901,7 @@ denalitrdsgroupltd.com
 denial-apple.com
 dennisfedewa4supervisor.com
 denoxplay.com
+denssatankers.com
 denufex.com
 deocox.com
 deogax.com
@@ -28083,6 +28094,7 @@ digifinex-korea.com
 digifinex-user.com
 digihubcourses.com
 digital-arcnetwork.com
+digital-serviceportal.com
 digital-trust-wallet.com
 digital-trustwallet.com
 digital-tw.com
@@ -29255,6 +29267,7 @@ events-varifionals.com
 events-ventuals.com
 events-worldliberty.com
 events-zebec.com
+evenyieldantry-ai.com
 evercrestmining.com
 evergreen-distribution.com
 evergreenfundopportunity.com
@@ -32502,6 +32515,7 @@ installation-demo.com
 instant-coinbase.com
 instant-spantahabt.com
 instant-whatsapp.com
+instant16xrenova.com
 flashsol.pro.instantdoubler.com
 flashsol.shop.instantdoubler.com
 instantswaps.com
@@ -35755,6 +35769,7 @@ nnhvacr.com
 no-reply-accounts-google.com
 no-reply-coinbase.com
 no-reply-metamask.com
+no-reply-suport-bybit.com
 no-reply2.com
 no-replycoinbase1.com
 no-replycoinbasecom.com
@@ -36537,6 +36552,7 @@ page-turnbul.com
 pagecases-x.com
 pagi-inv.com
 pagoda6.com
+pagvoratrade.com
 paidcontent-x.com
 paidcontents-x.com
 paidmedia-x.com
@@ -37285,6 +37301,7 @@ porsche-circle.com
 nft.porsche-collections.com
 porsche-reward.com
 porschepioneerscircle.com
+porscheswe.com
 portaal-secure.com
 portablern.com
 portafoliosiverperu.com
@@ -38705,6 +38722,7 @@ register-worldxyz.com
 register-xaman.com
 register-xrpl.com
 register-zebec.com
+registeredagentsindelaware.com
 registers-firelight.com
 registers-umbra.com
 registpiattaforma.com
@@ -50966,6 +50984,7 @@ opengdp.cyou
 orbitrelaydata.cyou
 order-verification-portal.cyou
 osejp.cyou
+paste518.cyou
 patrmpf.cyou
 payment100.cyou
 payueimu.cyou
@@ -63203,6 +63222,7 @@ keeta.gold
 melania.gold
 rollbit.gold
 unijoin.gold
+fasten466.golf
 cartpolfiltdobook.gq
 skorureryprela.gq
 bitget.gr
@@ -65778,6 +65798,7 @@ helpdesk-coinbase.info
 herzog-allocation.info
 hoffer-exchange.info
 holcomb-exchange.info
+hole579.info
 home-alpc.info
 horterpexbkins.info
 hub-apyx.info
@@ -75908,6 +75929,7 @@ strendusapp.mx
 strenduscasino.mx
 strendusslot.mx
 trustwallet.mx
+16589.my
 19948aaa.my
 nexbit.1q05.my
 35313.my
@@ -76758,6 +76780,7 @@ brave-app.net
 bravepay.net
 bravermere-trust.net
 brewfamily.net
+brightstakeldom.net
 brpolymarket.net
 btc-26.net
 btcbbb.net
@@ -77144,6 +77167,7 @@ firelightfinance.net
 firelightfoundation.net
 firelightprose.net
 firelightscandleco.net
+firmeziocapital.net
 firmproperties.net
 fixedfloat.net
 flare-bridge.net
@@ -80689,6 +80713,7 @@ changebit.org
 changelly-app.org
 changelly-dex.org
 changelly-en.org
+changelly-eng.org
 changelly-swap.org
 changellyex.org
 changellyy.org
