@@ -13754,7 +13754,6 @@ ledgerlive.care
 time2.care
 trezor.care
 temple357.careers
-0gfoundation.casa
 aave.casa
 aazuencorxax.casa
 aerodrome.casa
@@ -34878,7 +34877,6 @@ migrate-debridge.com
 migrate-fun-claim.com
 migrate-kamino.com
 migrate-ms-teams.com
-migrate-resolv.com
 migrate-solvfinance.com
 migrate-steakhouse.com
 migratesol.com
@@ -52434,7 +52432,6 @@ claim-lol.pages.dev
 claim-meme-reward.pages.dev
 claim-midnight-gd.pages.dev
 claim-mim.pages.dev
-claim-nasa.pages.dev
 claim-neucoin.pages.dev
 claim-nologo.pages.dev
 claim-nutgod.pages.dev
@@ -59751,7 +59748,6 @@ zetacoin.dev
 uniswap.zpoken.dev
 aavee.digital
 user.accuro-group.digital
-adblockplus.digital
 aerodrcme.digital
 aeroxyz.digital
 ai-openclaw.digital
@@ -70921,7 +70917,6 @@ checker-jumper.lat
 checker-world.lat
 chiliz.lat
 chilliz.lat
-chipreclaim.lat
 cjpcoin.lat
 claim-advantagefcu.lat
 claim-onre.lat
@@ -71745,7 +71740,7 @@ com-activity.link
 coinbase.com-help.link
 moonshot.com-listing.link
 com-security.link
-dashboard-payment.link
+coinbase.dashboard-payment.link
 bafybeiabrmiy7cfbxbljqfxfreo6e2dwfticwlhmaeq4bzu6rx7neznrrq.ipfs.dweb.link
 bafybeiaws4pqenzmeqsuoufsgcyhgtxc5azas2dsnh6i25xpe75b3rybti.ipfs.dweb.link
 bafybeidoneag2nrrbjepsq6ink5mu6wtdcwqizo44tjod2pb2ne3ehzkjm.ipfs.dweb.link
@@ -84833,7 +84828,6 @@ app-rubic.sbs
 app-stakingreward.sbs
 app-vdor.sbs
 app-verification-server.sbs
-app-vote-001.sbs
 appid-cloud-v7.sbs
 appid-id-verification.sbs
 appid-service-v8.sbs
@@ -84905,7 +84899,6 @@ aave.bitfox.sbs
 bitgetwallet.sbs
 blast-app.sbs
 blatsup.sbs
-bleap.sbs
 blockchainsolucti.sbs
 blockmentrixplatform.sbs
 bluewallet.sbs
@@ -88434,7 +88427,6 @@ cantonnetwork.store
 chiliz.store
 chremebstore-gegelemco-detail-rabbyy-ru.store
 chromegoogleweb.store
-chromewebextension.store
 chromewebextersion.store
 chromewebgoogle.store
 chromewebstorgoogle.store
@@ -90351,7 +90343,6 @@ domidex.top
 donerotc.top
 dotxenokdw.top
 doublecounler.top
-downstats.top
 dpshtrr.top
 dragonwormcoin.top
 droidparcel.top
@@ -97993,7 +97984,6 @@ jnglcoins.xyz
 join-3jane.xyz
 join-aocomputer.xyz
 join-apyxfi.xyz
-join-arbitrum.xyz
 join-ascendlaunch.xyz
 join-asterdex.xyz
 join-citrea.xyz
@@ -99631,7 +99621,6 @@ pupstokenmigrate.xyz
 purplebtc-allocations.xyz
 purplesmp.xyz
 pve-rewards.xyz
-pyrax-earn.xyz
 pythiamigrate.xyz
 q3-based.xyz
 q3-hyperfoundation.xyz
