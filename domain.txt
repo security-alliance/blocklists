@@ -62273,7 +62273,6 @@ chatstreampump.fun
 chattyonsol.fun
 checher-polymarket.fun
 check-embercurve.fun
-check-polymarket.fun
 check-pumps.fun
 checker-pumps.fun
 checking-polymarket.fun
@@ -62684,7 +62683,6 @@ poll-moonshot.fun
 polls-moonshots.fun
 poly-preregister.fun
 polyemarket.fun
-polymarket-checker.fun
 polymarketasia.fun
 ponkverse.fun
 poogoo.fun
@@ -83716,6 +83714,7 @@ dropcheck.pro
 dropdesk.pro
 ds4windows.pro
 duai.pro
+dydx-trade.pro
 ebcfinancial.pro
 edgeprimerft.pro
 ai.egenlayer.pro
