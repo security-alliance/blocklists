@@ -20746,7 +20746,6 @@
 ||518869-binance.com^$all
 ||519372-crypto.com^$all
 ||519738-crypto.com^$all
-||519782coinbase.com^$all
 ||519843-crypto.com^$all
 ||51rivergroup.com^$all
 ||520491-crypto.com^$all
@@ -87961,6 +87960,7 @@
 ||pluggableclient.site^$all
 ||pollymarket.site^$all
 ||membership.polymaket.site^$all
+||polymarket-demo.site^$all
 ||uphold-log.pop.site^$all
 ||uphold-web.pop.site^$all
 ||postpaid.site^$all
