@@ -88698,7 +88698,6 @@ blacksbullsol.surf
 cateonsol.surf
 dbpanel.garudalogistics.orca.devs.surf
 driftprotocoi.surf
-app.flare.surf
 dashboard.flare.surf
 governance-netnet.surf
 hachiko.surf
