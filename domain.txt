@@ -101381,7 +101381,6 @@ usepaidtokens.xyz
 usepaidvote.xyz
 usepaidvotes.xyz
 user-aave.xyz
-user-apyx.xyz
 user-cashmere.xyz
 user-guild.xyz
 users-aave.xyz
