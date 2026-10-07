@@ -2903,6 +2903,7 @@ crypto-vbf.netlify.app
 crypto-vdl.netlify.app
 crypto-vfn.netlify.app
 crypto-vgc.netlify.app
+crypto-vii.netlify.app
 crypto-voi.netlify.app
 crypto-vto.netlify.app
 crypto-vwn.netlify.app
@@ -6273,6 +6274,7 @@ portal-moonshot-1vd.netlify.app
 portal-moonshot-1zg.netlify.app
 portal-moonshot-22a.netlify.app
 portal-moonshot-2cf.netlify.app
+portal-moonshot-2gy.netlify.app
 portal-moonshot-2pg.netlify.app
 portal-moonshot-2qm.netlify.app
 portal-moonshot-2qw.netlify.app
@@ -15641,6 +15643,7 @@ aaaaaarunapi.cfd
 aaaaarunapi.cfd
 aaaarunapi.cfd
 aaarunapi.cfd
+aave-proposal.cfd
 aavefi.cfd
 aavefnd.cfd
 acbde.cfd
@@ -15676,6 +15679,7 @@ allocation-usenosh.cfd
 allocation-zipcoin.cfd
 allocations-argus.cfd
 allocations-cashmere-exchange.cfd
+allocations-morpho.cfd
 allocations-multipli.cfd
 allocations-zipcoin.cfd
 altgirl.cfd
@@ -15825,6 +15829,7 @@ dexorg.cfd
 app.dfllma.cfd
 dinari.cfd
 discordapp-verification.cfd
+distribution-sanc.cfd
 dogkernel.cfd
 domain-phrase.cfd
 ebrvewu-tw.cfd
@@ -15835,6 +15840,7 @@ ebvrewu-tw.cfd
 eco-flarenetowrk.cfd
 ecosystem-argus.cfd
 ecosystem-based.cfd
+ecosystem-boros.cfd
 ecosystem-morpho.cfd
 ecosystems-based.cfd
 ecosystems-flarenetwork.cfd
@@ -15916,6 +15922,7 @@ gov-tread.cfd
 govern-morpho.cfd
 governance-firelight.cfd
 governance-flarenetwork.cfd
+governance-mantle.cfd
 grok-wallet.cfd
 grvt-allocation.cfd
 grvt-rewards.cfd
@@ -16079,6 +16086,7 @@ proposal-zama.cfd
 proposals-argus.cfd
 proposals-ether.cfd
 proposals-netnet.cfd
+proposals-zama.cfd
 protonfxtrades.cfd
 pudgypenguins.cfd
 pumpfnn.cfd
@@ -16136,6 +16144,7 @@ cesi.savingserves.cfd
 scalablecapro.cfd
 schmconstruction.cfd
 season5-etherfi.cfd
+seasons5-ether.cfd
 secure-auth.cfd
 secure-bgld.cfd
 secure-check-info-your-account.cfd
@@ -16387,6 +16396,7 @@ wynex-coin.cfd
 wynex-exchange.cfd
 xstock.cfd
 xstocks.cfd
+xstocks-voting.cfd
 yield-flarenetwork.cfd
 yottacrypton-tw.cfd
 app.z-i-r.cfd
@@ -59914,6 +59924,7 @@ tzr-ldfsdf.polyhymnia21.workers.dev
 tzr-ndfks.polyhymnia21.workers.dev
 tzr-wefds.polyhymnia21.workers.dev
 main.polymarketrade.workers.dev
+pons.ponsdesk.workers.dev
 eu.porposal-fables.workers.dev
 eu.prooposal-fables.workers.dev
 eu.proopsal-fables.workers.dev
@@ -59938,6 +59949,7 @@ tzr-87end.quasim62.workers.dev
 tzr-bdu83.quasim62.workers.dev
 rby-kljdis.randolfa20.workers.dev
 rby-lkdsio.randolfa20.workers.dev
+withered-base-f5e0.ray-d14.workers.dev
 bybtfd8sf6s.reanna.workers.dev
 rby-dfdfht.renesmee00.workers.dev
 rby-fds78d.renesmee00.workers.dev

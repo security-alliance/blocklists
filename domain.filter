@@ -2903,6 +2903,7 @@
 ||crypto-vdl.netlify.app^$all
 ||crypto-vfn.netlify.app^$all
 ||crypto-vgc.netlify.app^$all
+||crypto-vii.netlify.app^$all
 ||crypto-voi.netlify.app^$all
 ||crypto-vto.netlify.app^$all
 ||crypto-vwn.netlify.app^$all
@@ -6273,6 +6274,7 @@
 ||portal-moonshot-1zg.netlify.app^$all
 ||portal-moonshot-22a.netlify.app^$all
 ||portal-moonshot-2cf.netlify.app^$all
+||portal-moonshot-2gy.netlify.app^$all
 ||portal-moonshot-2pg.netlify.app^$all
 ||portal-moonshot-2qm.netlify.app^$all
 ||portal-moonshot-2qw.netlify.app^$all
@@ -15641,6 +15643,7 @@
 ||aaaaarunapi.cfd^$all
 ||aaaarunapi.cfd^$all
 ||aaarunapi.cfd^$all
+||aave-proposal.cfd^$all
 ||aavefi.cfd^$all
 ||aavefnd.cfd^$all
 ||acbde.cfd^$all
@@ -15676,6 +15679,7 @@
 ||allocation-zipcoin.cfd^$all
 ||allocations-argus.cfd^$all
 ||allocations-cashmere-exchange.cfd^$all
+||allocations-morpho.cfd^$all
 ||allocations-multipli.cfd^$all
 ||allocations-zipcoin.cfd^$all
 ||altgirl.cfd^$all
@@ -15825,6 +15829,7 @@
 ||app.dfllma.cfd^$all
 ||dinari.cfd^$all
 ||discordapp-verification.cfd^$all
+||distribution-sanc.cfd^$all
 ||dogkernel.cfd^$all
 ||domain-phrase.cfd^$all
 ||ebrvewu-tw.cfd^$all
@@ -15835,6 +15840,7 @@
 ||eco-flarenetowrk.cfd^$all
 ||ecosystem-argus.cfd^$all
 ||ecosystem-based.cfd^$all
+||ecosystem-boros.cfd^$all
 ||ecosystem-morpho.cfd^$all
 ||ecosystems-based.cfd^$all
 ||ecosystems-flarenetwork.cfd^$all
@@ -15916,6 +15922,7 @@
 ||govern-morpho.cfd^$all
 ||governance-firelight.cfd^$all
 ||governance-flarenetwork.cfd^$all
+||governance-mantle.cfd^$all
 ||grok-wallet.cfd^$all
 ||grvt-allocation.cfd^$all
 ||grvt-rewards.cfd^$all
@@ -16079,6 +16086,7 @@
 ||proposals-argus.cfd^$all
 ||proposals-ether.cfd^$all
 ||proposals-netnet.cfd^$all
+||proposals-zama.cfd^$all
 ||protonfxtrades.cfd^$all
 ||pudgypenguins.cfd^$all
 ||pumpfnn.cfd^$all
@@ -16136,6 +16144,7 @@
 ||scalablecapro.cfd^$all
 ||schmconstruction.cfd^$all
 ||season5-etherfi.cfd^$all
+||seasons5-ether.cfd^$all
 ||secure-auth.cfd^$all
 ||secure-bgld.cfd^$all
 ||secure-check-info-your-account.cfd^$all
@@ -16387,6 +16396,7 @@
 ||wynex-exchange.cfd^$all
 ||xstock.cfd^$all
 ||xstocks.cfd^$all
+||xstocks-voting.cfd^$all
 ||yield-flarenetwork.cfd^$all
 ||yottacrypton-tw.cfd^$all
 ||app.z-i-r.cfd^$all
@@ -59914,6 +59924,7 @@
 ||tzr-ndfks.polyhymnia21.workers.dev^$all
 ||tzr-wefds.polyhymnia21.workers.dev^$all
 ||main.polymarketrade.workers.dev^$all
+||pons.ponsdesk.workers.dev^$all
 ||eu.porposal-fables.workers.dev^$all
 ||eu.prooposal-fables.workers.dev^$all
 ||eu.proopsal-fables.workers.dev^$all
@@ -59938,6 +59949,7 @@
 ||tzr-bdu83.quasim62.workers.dev^$all
 ||rby-kljdis.randolfa20.workers.dev^$all
 ||rby-lkdsio.randolfa20.workers.dev^$all
+||withered-base-f5e0.ray-d14.workers.dev^$all
 ||bybtfd8sf6s.reanna.workers.dev^$all
 ||rby-dfdfht.renesmee00.workers.dev^$all
 ||rby-fds78d.renesmee00.workers.dev^$all
