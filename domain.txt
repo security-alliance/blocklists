@@ -34869,7 +34869,6 @@ microsoftteamsonline.com
 microsoftteamsupdatedversion.com
 microsoftteamupdate.com
 microsoftutils.com
-microsoftviewcloud.com
 microsofv.com
 microsolvonline.com
 microsotf-365oauth.com
@@ -81504,7 +81503,6 @@ microsoft-secure.org
 microsoftf.org
 microsoftnet.org
 microsoftteamservice.org
-microsooft.org
 midnight-airdrop.org
 midnight-glacierd.org
 midnight-glacierdrop.org
@@ -88605,7 +88603,6 @@ cantonnetwork.store
 chiliz.store
 chremebstore-gegelemco-detail-rabbyy-ru.store
 chromegoogleweb.store
-chromewebextersion.store
 chromewebgoogle.store
 chromewebstorgoogle.store
 claimkitco.store
