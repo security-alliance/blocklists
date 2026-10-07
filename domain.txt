@@ -13563,7 +13563,6 @@ gmial.cam
 gmosi.cam
 gnusai.cam
 app.goiem.cam
-gokite.cam
 grove.cam
 hastrafi.cam
 horizen.cam
@@ -95329,7 +95328,6 @@ apps-flarefoundations.xyz
 apps-flarenetworks.xyz
 apps-flareportal.xyz
 apps-flareportals.xyz
-apps-gokite.xyz
 apps-injective.xyz
 apps-kintsu.xyz
 apps-linera.xyz
