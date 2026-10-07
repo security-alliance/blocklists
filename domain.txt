@@ -52365,7 +52365,6 @@ bases-ledgr-start.pages.dev
 baseswap-dexx.pages.dev
 basexp-worker.pages.dev
 bdagnetwork.pages.dev
-began-astr-walet-en.pages.dev
 began-ledger-live-desktop-eng-us.pages.dev
 began-ledgerlivewallet-io.pages.dev
 began-ledgr-lve.pages.dev
