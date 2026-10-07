@@ -13612,7 +13612,6 @@ ponsfamily.cam
 portallogonapp.cam
 prjx.cam
 pusulabetgirisadresi.cam
-pythnetwork.cam
 pyths.cam
 q3-banana.cam
 qianbaouniswap.cam
