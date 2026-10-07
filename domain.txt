@@ -1527,7 +1527,6 @@ getidentt.app
 gets-usepaid.app
 gettrustcard.app
 getusdd.app
-ghostwallets.app
 gitdex.app
 gitlawb.app
 global-xaman.app
