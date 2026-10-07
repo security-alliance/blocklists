@@ -15011,6 +15011,7 @@ relay-link.cc
 relaylink.cc
 remix-ethereum.cc
 renewpower.cc
+renzzzo.cc
 rereoou.cc
 resolcheck.cc
 revolo68.cc
@@ -66912,6 +66913,7 @@ v2-eu.ink
 v2-lido.ink
 v2-marketplace.ink
 v3-finance.ink
+v3-homes.ink
 v3-puffer.ink
 v3-yearn.ink
 value-v3.ink
