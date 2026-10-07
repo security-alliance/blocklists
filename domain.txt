@@ -1505,6 +1505,7 @@ gassless.app
 gatherix.app
 gathero.app
 gecko-pro.app
+gempai.app
 genesis-1inch.app
 genesis-arbitrum.app
 genesis-firelightfi.app
@@ -7604,6 +7605,7 @@ solweb.app
 solwin.app
 sparkdexchain.app
 sparkdexvote.app
+sparkydraw.app
 spend-partner.app
 spendpartner.app
 spiritswap.app
@@ -10723,6 +10725,7 @@ vindofx.app
 virtuais.app
 visaspendcard.app
 vista20.app
+vitran.app
 vocenda.app
 voice-changer.app
 vote-3jane.app
@@ -12087,6 +12090,7 @@ claim-unlswap.best
 coinbase.best
 coinmixer.best
 cryptomus.best
+embercurve.best
 etherfi.best
 fix-dll-helper.best
 gambet.best
@@ -12111,6 +12115,7 @@ ndges.best
 nudge.best
 osecrohq.best
 papertradexyz.best
+pendlefinances.best
 polygon-pos.best
 polymark.best
 portallogonapp.best
@@ -15798,6 +15803,7 @@ dashboard-firelight.cfd
 debridge-v4.cfd
 defillama.cfd
 delivery-claim.cfd
+deltafi.cfd
 demixdigitalmarkets.cfd
 devtltie.cfd
 dexorg.cfd
@@ -16901,6 +16907,7 @@ hyperliquid-exchange.click
 hyperliquid-v3.click
 hyperliuqid.click
 hyperlliquid.click
+hypermission200.click
 icloudrelock.click
 id-verification-s3.click
 id-verification-server.click
@@ -16935,6 +16942,7 @@ kraken.kraken-ssylka.click
 slonkr7cc.kraken-ssylka.click
 earth.kumamo.click
 legacypoint.click
+legioncc.click
 lido-eth.click
 lido-fi.click
 lido-finance.click
@@ -17133,6 +17141,7 @@ rubic-fi.click
 rubic-swap.click
 rubic-v2.click
 rubic-v3.click
+rubup.click
 rugme.click
 rysk.click
 s7-ethena.click
@@ -17184,6 +17193,7 @@ sorex-luckyreward.click
 sparkdotfi.click
 sparkfi.click
 sparkfinance.click
+spectrafinance.click
 spincasino.click
 spinjet.click
 spinsolana.click
@@ -17479,6 +17489,7 @@ duminut.cloud
 dzordzo5.cloud
 e-meet.cloud
 claims.eigen-foundation.cloud
+ethenafnd.cloud
 ether-fi.cloud
 etherfi-hub.cloud
 etherfi-vote.cloud
@@ -17576,6 +17587,7 @@ lighterxyz.cloud
 linera.cloud
 loopscale.cloud
 lzdocanalyzer.cloud
+m-google.cloud
 meetlink.cloud
 metronome-io.cloud
 micosoftonline.cloud
@@ -27761,6 +27773,7 @@ debridqe.com
 debrigde.com
 debrjdge.com
 debrldge.com
+debtdoodoo.com
 alkimi.decentralapi.com
 decentralisedacct.com
 decides-x.com
@@ -34058,6 +34071,7 @@ luna-community.com
 luna-crypto.com
 lunabutton.com
 lunacreatsol.com
+lunalivelaunch.com
 lunarug.com
 lunastarts.com
 luno-phl.com
@@ -34372,6 +34386,8 @@ mediaactualite.com
 mediacase-x.com
 mediacases-x.com
 mediacenter-x.com
+mediacomplaint-x.com
+mediacomplaints-x.com
 mediacontact-x.com
 mediacontents-x.com
 mediadecision-x.com
@@ -36302,6 +36318,7 @@ onrepresaleapp.com
 onreregisterhub.com
 onresnapshotapp.com
 onrestakinghub.com
+onrevault.com
 onrevotehub.com
 onrevotepro.com
 onrevotes.com
@@ -36723,6 +36740,8 @@ perps-polymarket.com
 perps-polymarkets.com
 perpspadsfun.com
 persoy.com
+pesodolarapp.com
+peterkinshipping.com
 petitesannonces-x.com
 petition-x.com
 account.petracolombia.com
@@ -36893,6 +36912,7 @@ pinnacletrustfx.com
 pinosolana.com
 pinoyadster.com
 pinqonsolana.com
+pintpointapp.com
 nft.pioneers-porsche.com
 pioneersporsche.com
 pioneersxs.com
@@ -37320,6 +37340,7 @@ post-invoering.com
 post-redirect.com
 postappeal-x.com
 postcase-x.com
+postcomplaint-x.com
 postdetails-x.com
 postdispute-x.com
 postdisputes-x.com
@@ -37387,6 +37408,7 @@ presale-worldlibertyfinancials.com
 presale-x.com
 prescotthale.com
 press-london.com
+pressuresolana.com
 prestigion.com
 prestrade.com
 prevnte.com
@@ -38860,6 +38882,7 @@ reviewdirect-x.com
 reviewdmca-x.com
 reviewed-coinbase.com
 reviewhandle-x.com
+reviewhelps-x.com
 reviewinfo-x.com
 reviewissues-x.com
 reviewissuess-x.com
@@ -38875,6 +38898,7 @@ reviewsituation-x.com
 reviewsmedia-x.com
 reviewstatus-x.com
 reviewsummary-x.com
+reviewsupports-x.com
 reviewvalidation-x.com
 reviewvalidations-x.com
 www.revista5w.com
@@ -41805,6 +41829,7 @@ treasury-netnetcapital.com
 treasury-plasmafoundation.com
 treasury-pool-flarenetwork.com
 treasury-prjx.com
+treasury-quantnetwork.com
 treasury-rewards.com
 treasury-spx-6900.com
 treasury-spx6900.com
@@ -50478,6 +50503,7 @@ zzldls.com
 zzthyw.com
 goodhearbat.zzux.com
 3jane.community
+aavehq.community
 alturax.community
 apyxfi.community
 arcnetwork.community
@@ -60486,6 +60512,7 @@ panel.yourfavpolymarket.eu
 zoemartinfleuriste.eu
 zoominvites.eu
 3jane.events
+acurast.events
 alphax.events
 altdotfun.events
 anyonefnd.events
@@ -60524,6 +60551,7 @@ fablesrewards.events
 falconfinance.events
 fazedotfun.events
 fazefun.events
+felixprotocol.events
 flarenetwork.events
 flaunchgg.events
 fluids.events
@@ -60545,6 +60573,7 @@ hyperlendx.events
 hyperlink.events
 inkonchain.events
 interest-aave.events
+jumpersapp.events
 jumperxyz.events
 justlend.events
 justnetwork.events
@@ -63466,6 +63495,7 @@ lcloud-map.help
 legal-x.help
 listia-verify.help
 logincorpgoogle.help
+m-google.help
 mainnet-plasma.help
 makerworld.help
 maps-icloudapple.help
@@ -74633,6 +74663,7 @@ basedone.lol
 baselineonbase.lol
 bdccoinsolana.lol
 beastgames.lol
+beefyfinances.lol
 behemothbnb.lol
 behemothbsc.lol
 belieftoken.lol
@@ -84155,6 +84186,7 @@ richcoins.pro
 river-inc.pro
 rndr.pro
 road303.pro
+robhod.pro
 robinhood-vote.pro
 rocketorigindefi.pro
 rainbet-hu.romeisttiketi.pro
@@ -84449,6 +84481,7 @@ coinbase.com-us-clickid-223jkjk.pw
 concretexyz.pw
 curvefinance.pw
 docview.pw
+ethenafndn.pw
 evmhub.pw
 fhogu.pw
 flarenetwork.pw
@@ -84778,6 +84811,7 @@ home-v3.run
 hoodlink.run
 houdiniswap.run
 hubxyz.run
+infield.run
 io-home.run
 io-v2-home.run
 io-wallet.run
@@ -85021,6 +85055,7 @@ claim.arciumrtg.sbs
 arcnetwork.sbs
 arctideapp.sbs
 arcus.sbs
+arcusxyz.sbs
 arena-colosseum.sbs
 argus-proposal.sbs
 argus-vote.sbs
@@ -85250,6 +85285,7 @@ deploy.sbs
 deriveapp.sbs
 derivefi.sbs
 derivesxyz.sbs
+derivexyz.sbs
 devtltie.sbs
 dex-app.sbs
 diagnostics-check.sbs
@@ -86363,6 +86399,7 @@ monredirect.sbs
 monter.sbs
 moonwell-rewards.sbs
 morpho-v1.sbs
+morphofnd.sbs
 ms-meetmeeting-teams.sbs
 muglcbaiicu.sbs
 multiversx.sbs
@@ -86619,6 +86656,7 @@ sparkdex.sbs
 sparkfinance.sbs
 sparklab.sbs
 sparknet.sbs
+sparksfi.sbs
 sparrowwallet.sbs
 spcxmeme.sbs
 squidrouter.sbs
@@ -87000,6 +87038,7 @@ visionareline-hh8s.wp1.sh
 75963.shop
 7new.shop
 8new.shop
+aavefnd.shop
 aavelabs.shop
 abs-drop.shop
 accounting-x.shop
@@ -87456,6 +87495,7 @@ walletconnect.si
 2-towers-2-planes.site
 2fas.site
 2t2p.site
+3jane.site
 56308coinbase.site
 aave-pro.site
 aavenodedelegator.site
@@ -87758,6 +87798,7 @@ magstream.site
 mailvault.site
 mainchain-validation.site
 manicomiogym.site
+mantleofficial.site
 marketcap-community.site
 maschine.site
 matrica.site
@@ -88243,6 +88284,7 @@ xn--cdigopromocionalrainbet-5ic.site
 xooxo-sol.site
 xoxooo-blogs.site
 yaaridhol.site
+zamahq.site
 zamaprotocol.site
 zetachain.site
 zipcoin.site
@@ -91609,6 +91651,7 @@ spark-one.top
 app-firelight.spark233.top
 sparkdex.top
 sparkdotfi.top
+sparknets.top
 spin-galaxy-bonus-casino.top
 spin-galaxy-casino-bonus.top
 spinchance.top
@@ -91798,6 +91841,7 @@ uniswaplendwap.top
 uniswaprotocols.top
 uniswapx.top
 unitestt.top
+unityxyz.top
 unlimitcasino.top
 unlock-access-now.top
 unlock-bonus-now.top
@@ -96390,6 +96434,7 @@ desk-stonkfun.xyz
 desk-usefelix.xyz
 desks-otc.xyz
 desktop-rewards.xyz
+deterministichistory.xyz
 deus-xmaquina.xyz
 deusfoundation.xyz
 developers-core.xyz
@@ -96778,6 +96823,7 @@ enter-base.xyz
 enter-berachain.xyz
 enter-chainlink.xyz
 enter-citrea.xyz
+enter-concrete.xyz
 enter-curvance.xyz
 enter-destranetwork.xyz
 enter-edgex.xyz
@@ -98107,6 +98153,7 @@ intuition-rewards.xyz
 inv2fuel.xyz
 inv2scroll.xyz
 invest-dux.xyz
+invite-otc.xyz
 invite-usepaid.xyz
 invite2zoom.xyz
 invitezoommeeting.xyz
@@ -99206,6 +99253,7 @@ otc-holders2.xyz
 otc-hubs.xyz
 otc-invite.xyz
 otc-mint.xyz
+otc-mints.xyz
 otc-portal.xyz
 otc-portals.xyz
 otc-reward.xyz
@@ -99214,6 +99262,7 @@ otc-shareholder.xyz
 otc-shareholders.xyz
 otc-snapshot.xyz
 otc-snapshots.xyz
+otc-unlock.xyz
 otc-vault.xyz
 otc-vote.xyz
 otc-votes.xyz
@@ -99254,6 +99303,7 @@ panel-linea.xyz
 eigenlayer.panelhq.xyz
 panels-firelight.xyz
 papcrtrade.xyz
+papentrade.xyz
 papertade.xyz
 papertrade-desk.xyz
 papertrade-enroll.xyz
@@ -99348,6 +99398,7 @@ perp-v1.xyz
 trade.perphl.xyz
 perpluxity.xyz
 join.perps-arcus.xyz
+perpspadperks.xyz
 app.perpv3.xyz
 persistence-one-migrations.xyz
 phantom-solana.xyz
@@ -99577,12 +99628,14 @@ premu.xyz
 presale-bullpenfi.xyz
 presale-poly.xyz
 preview-hyperfoundation.xyz
+preview-lighter.xyz
 preview-usepaid.xyz
 previewhyperfoundation.xyz
 previews-usepaid.xyz
 prewebsol.xyz
 primexbtes.xyz
 printrv2.xyz
+privateadapter-space.xyz
 prjx-checker-dashboard.xyz
 prjxhl.xyz
 proeigenlayer.xyz
@@ -100349,6 +100402,7 @@ s2hyperfoundation.xyz
 s3-lighter.xyz
 s3-morpho.xyz
 s8-soneium.xyz
+safeadapter-kitx.xyz
 safedeals.xyz
 safeglobalwallet.xyz
 safepaa.xyz
@@ -101122,6 +101176,7 @@ tge-soneium.xyz
 tge-spriteood.xyz
 the-eigenfoundation.xyz
 thearchub.xyz
+theblackbullsol.xyz
 theblinkdog.xyz
 thebullrunner.xyz
 thecraftcorner.xyz
@@ -101294,6 +101349,7 @@ trezor-giveaway.xyz
 trezor-suite.xyz
 trigger-boostrewardkz.xyz
 tripcondemns.xyz
+tripletportal.xyz
 tripletsol.xyz
 triviumpay.xyz
 trmp-share.xyz
@@ -101383,6 +101439,7 @@ uniswapking.xyz
 uniswaplender.xyz
 united-rewards.xyz
 unlock-ore.xyz
+unlock-usepaid.xyz
 unlocks-ore.xyz
 unst0ppablewalletfix.xyz
 unstabletrd.xyz
@@ -101440,6 +101497,7 @@ usepaid-hub.xyz
 usepaid-hubs.xyz
 usepaid-inspect.xyz
 usepaid-inspects.xyz
+usepaid-invite.xyz
 usepaid-launchpads.xyz
 usepaid-lookup.xyz
 usepaid-lookups.xyz
@@ -101458,6 +101516,7 @@ usepaid-reviews.xyz
 usepaid-reward.xyz
 usepaid-rewards.xyz
 usepaid-round.xyz
+usepaid-rounds.xyz
 usepaid-season.xyz
 usepaid-shareholder.xyz
 usepaid-shareholders.xyz
