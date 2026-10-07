@@ -66837,7 +66837,6 @@ debank.tracking-api.ink
 trade-sol.ink
 transfer-tws.ink
 treasury-netnet.ink
-trustwalletcard.ink
 tw-cards.ink
 umia.ink
 v2-bridge.ink
