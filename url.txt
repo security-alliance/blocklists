@@ -126,7 +126,6 @@ https://sites.google.com/view/coinbase-page/home
 https://sites.google.com/view/coinbase-pro-d/home
 https://sites.google.com/view/coinbase-pro-log/home
 https://sites.google.com/view/coinbase-sign-in-not-working-q/home
-https://sites.google.com/view/coinbase-transfer-failed-fix-i/home
 https://sites.google.com/view/coinbase-usen-/home
 https://sites.google.com/view/coinbase-vs-coi/home
 https://sites.google.com/view/coinbase-wall-e/home
@@ -175,7 +174,6 @@ https://sites.google.com/view/exodus-webcdn/home
 https://sites.google.com/view/exodus-webe/home
 https://sites.google.com/view/extension-coinbase-cdn/home
 https://sites.google.com/view/extension-detail/trust-wallet-egjidjbpglichdcondbcbdnbeeppgdph
-https://sites.google.com/view/extension-en-u/home
 https://sites.google.com/view/extension-home-coinbase/home
 https://sites.google.com/view/extension-metmask-en/home
 https://sites.google.com/view/extension-webstore-rabbyevm-1/details-rabby-evmwallets-chromestorextension
