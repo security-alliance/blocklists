@@ -16626,6 +16626,7 @@ bitcoin-trade.click
 bitcrush.click
 bitfairdeals.click
 bob-btc.click
+boros-finance.click
 bozei.click
 bravee.click
 buy-trx.click
@@ -57249,6 +57250,7 @@ smartsolwalletwebs.pages.dev
 smartsprocurement.pages.dev
 smeth.pages.dev
 smogwhitelist.pages.dev
+snapshot-programmables.pages.dev
 snapshots-argus-102.pages.dev
 snapshots-kamino-100.pages.dev
 snapshots-kamino-101.pages.dev
@@ -59553,6 +59555,7 @@ pay_bit_02.no-v06.workers.dev
 coinbase-com-64051.normancarter74289.workers.dev
 coinbase-bitcoin-com-28406.ocewiliwoq.workers.dev
 proxy-828e451c.odylicast.workers.dev
+eu.opensserv.workers.dev
 fast-proj-8904.oppome7272.workers.dev
 join-eligible-ede8.oppome7272.workers.dev
 openseaclaims092.oppome7272.workers.dev
@@ -59657,6 +59660,7 @@ coinbase-com-39298.vm2wwn.workers.dev
 84.voting-etherfi-pro.workers.dev
 85.voting-etherfi-pro.workers.dev
 87.voting-etherfi-pro.workers.dev
+eu.vualt-flap.workers.dev
 petespanels-secure-5506.w-sy0ems.workers.dev
 danf-up01.w16-oct.workers.dev
 openseaio1.washink880.workers.dev
@@ -83274,7 +83278,6 @@ cowsawp.pro
 cpuz.pro
 crates-ponsfamily.pro
 crates-usesplit.pro
-crawlre.pro
 credit-moprho.pro
 cricfy.pro
 cricfytvs.pro
@@ -99146,6 +99149,7 @@ pitchwcl.xyz
 pitchwcr.xyz
 pitchwcs.xyz
 pitchwct.xyz
+plaguetracker.xyz
 plasma-airdrop.xyz
 plasma-allocations.xyz
 plasma-distribution.xyz

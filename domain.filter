@@ -16626,6 +16626,7 @@
 ||bitcrush.click^$all
 ||bitfairdeals.click^$all
 ||bob-btc.click^$all
+||boros-finance.click^$all
 ||bozei.click^$all
 ||bravee.click^$all
 ||buy-trx.click^$all
@@ -57249,6 +57250,7 @@
 ||smartsprocurement.pages.dev^$all
 ||smeth.pages.dev^$all
 ||smogwhitelist.pages.dev^$all
+||snapshot-programmables.pages.dev^$all
 ||snapshots-argus-102.pages.dev^$all
 ||snapshots-kamino-100.pages.dev^$all
 ||snapshots-kamino-101.pages.dev^$all
@@ -59553,6 +59555,7 @@
 ||coinbase-com-64051.normancarter74289.workers.dev^$all
 ||coinbase-bitcoin-com-28406.ocewiliwoq.workers.dev^$all
 ||proxy-828e451c.odylicast.workers.dev^$all
+||eu.opensserv.workers.dev^$all
 ||fast-proj-8904.oppome7272.workers.dev^$all
 ||join-eligible-ede8.oppome7272.workers.dev^$all
 ||openseaclaims092.oppome7272.workers.dev^$all
@@ -59657,6 +59660,7 @@
 ||84.voting-etherfi-pro.workers.dev^$all
 ||85.voting-etherfi-pro.workers.dev^$all
 ||87.voting-etherfi-pro.workers.dev^$all
+||eu.vualt-flap.workers.dev^$all
 ||petespanels-secure-5506.w-sy0ems.workers.dev^$all
 ||danf-up01.w16-oct.workers.dev^$all
 ||openseaio1.washink880.workers.dev^$all
@@ -83274,7 +83278,6 @@
 ||cpuz.pro^$all
 ||crates-ponsfamily.pro^$all
 ||crates-usesplit.pro^$all
-||crawlre.pro^$all
 ||credit-moprho.pro^$all
 ||cricfy.pro^$all
 ||cricfytvs.pro^$all
@@ -99146,6 +99149,7 @@
 ||pitchwcr.xyz^$all
 ||pitchwcs.xyz^$all
 ||pitchwct.xyz^$all
+||plaguetracker.xyz^$all
 ||plasma-airdrop.xyz^$all
 ||plasma-allocations.xyz^$all
 ||plasma-distribution.xyz^$all
