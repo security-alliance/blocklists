@@ -2005,6 +2005,7 @@ chainlink-clone.netlify.app
 checker-robinhood-allocations.netlify.app
 checknewlistvote-ui.netlify.app
 checkunicommunitypull-gg.netlify.app
+chic-cat-ba3c8d.netlify.app
 claim-08.netlify.app
 claim-09.netlify.app
 claim-0az.netlify.app
