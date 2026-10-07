@@ -94330,7 +94330,6 @@ voltera.vip
 w3bx.vip
 walletconnect.vip
 walletvip.vip
-wd3-eth.vip
 web-bicon.vip
 web-biconomy.vip
 web-bictoken.vip
