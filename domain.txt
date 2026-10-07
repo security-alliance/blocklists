@@ -39152,8 +39152,6 @@ revoke-bitgetwallet.com
 revoke-button.com
 revoke-cow.com
 revoke-crypto.com
-revoke-drift.com
-revoke-drifttrade.com
 revoke-eigenlayer.com
 revoke-fluid.com
 revoke-humanity.com
@@ -39170,7 +39168,6 @@ revoke-zetachain.com
 revokebutton.com
 revokebuy.com
 revokecashapp.com
-revokeme.com
 revokes-humanity.com
 revokesafe.com
 revokio.com
@@ -91910,7 +91907,6 @@ republcbonk-online.top
 request-refunds.top
 resemion.top
 revodefi1.top
-revokefnds.top
 reward-airpoints.top
 reward-foundation.top
 reward-foundation2025.top
