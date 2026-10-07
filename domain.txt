@@ -74143,7 +74143,6 @@ teamsinvitemetting.live
 teamsmeet.live
 teamsmeetings.live
 teamss.live
-teamsync.live
 teamtrustwalletsupport.live
 teans.live
 teg1lm.live
