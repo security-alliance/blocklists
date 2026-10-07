@@ -59750,6 +59750,7 @@ aavee.digital
 user.accuro-group.digital
 aerodrcme.digital
 aeroxyz.digital
+aeroxyzs.digital
 ai-openclaw.digital
 aimetax.digital
 airdrops.digital
@@ -79405,6 +79406,7 @@ greenpark.online
 growth-ajbe.online
 grupo-banca.online
 grvtio.online
+harmonixfi.online
 mail.hashflow.online
 heymynameog.online
 highticket-x.online
