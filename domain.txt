@@ -14605,7 +14605,6 @@ furmark.cc
 futureexchange.cc
 futurewsap.cc
 fwefefw.cc
-m.fxgtlife.cc
 fxpor.cc
 fxporcoin.cc
 fxtr.cc
@@ -18853,7 +18852,6 @@ bitpie.co
 blackbullsol.co
 blastuplaunch.co
 blockchainplug.co
-h5.blockchainw3.co
 blocklayer.co
 blockxchange.co
 bobooneth.co
@@ -81127,7 +81125,6 @@ diamondvest.org
 digital-tw.org
 direct-hyperliquid.org
 displaydriveruninstaller.org
-distinct-trades.org
 distinctivetrades.org
 portal.distribute-eigenfoundation.org
 distribution-firelight.org
