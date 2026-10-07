@@ -14541,6 +14541,7 @@ fglejqgqwdlkjs.cc
 fiare.cc
 m.fifabhtmgm.cc
 finanis.cc
+firelightfi.cc
 fiush.cc
 fkdalkrelewq.cc
 flamefortune.cc
@@ -34883,6 +34884,7 @@ migration-coinbase.com
 migration-polkadot.com
 migration-thrt.com
 migration-wojak.com
+firelight.migrationvaults.com
 miicrosofteamm.com
 milkywaadca.com
 milkywaadcaw.com
@@ -38597,6 +38599,7 @@ register-aaves.com
 register-dogwifhat.com
 register-etherfi.com
 register-firelight.com
+register-firelightwaitlist.com
 register-flare.com
 register-hyperdash.com
 register-joinopenstandard.com
@@ -87681,7 +87684,6 @@ privnote.site
 profit-x.site
 proflare.site
 programmablehq.site
-trustfee.promobluedeep.site
 proposal-flarefoundation.site
 proposal-metronome.site
 proposals-flarefoundation.site
