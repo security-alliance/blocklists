@@ -11764,6 +11764,7 @@ vhrtcgerx.blogspot.ba
 zerobot043-wqam.blogspot.ba
 allocation-axisrobotics.baby
 axisrobotics.baby
+caschronickles.baby
 firelight-allocations.baby
 hmjnqenlstyd.baby
 morpho.baby
@@ -12318,6 +12319,7 @@ eligible-morpho.biz
 energy-trx.biz
 ethenadex.biz
 etherfi.biz
+ethersfi.biz
 fassets.biz
 finance-eco.biz
 finance-flash.biz
@@ -15636,6 +15638,7 @@ writabafherreu.cf
 1wi0k5fi20bxdkssp7u.cfd
 1xfi24gn.cfd
 2dfi21y7.cfd
+3jane.cfd
 4base.cfd
 4frontcu-claim.cfd
 4frontcu-claims.cfd
@@ -15652,6 +15655,7 @@ aaarunapi.cfd
 aave-proposal.cfd
 aavefi.cfd
 aavefnd.cfd
+aavehq.cfd
 acbde.cfd
 account-appid-v5.cfd
 account-appid-verification.cfd
@@ -17980,6 +17984,7 @@ billcasino.club
 blinkdog.club
 bopx.club
 buytrrxx.club
+catememe.club
 catonit.club
 citrea.club
 claim-berafoundation.club
@@ -20298,6 +20303,7 @@ arbitrum.2healthandwealth.com
 2zoounnm.com
 2zoouunntoday.com
 3-binance.com
+3-trustwallet.com
 301829-crypto.com
 301845coinbase.com
 30249-ledger.com
@@ -22181,6 +22187,7 @@ aboutdmca-x.com
 aboutmedia-x.com
 lemakbarudak.abplumbingservice.com
 suarakambing.abplumbingservice.com
+abstract-migration.com
 abstract-s9060.com
 abstractlsxyz.com
 abusy157.com
@@ -22586,6 +22593,7 @@ alert-notify-x.com
 alert-suspicious-x.com
 alertaweb-es.com
 alertschecker.com
+alertura.com
 alethenainvestment.com
 alevbethakkinda.com
 algnix.com
@@ -27915,6 +27923,7 @@ degentime.com
 degentrashpandas.com
 delay-binance.com
 delegate-strk.com
+delgastudios.com
 delhitraveling.com
 m.delilives.com
 delimz.com
@@ -29764,6 +29773,7 @@ firelight-cntr.com
 firelight-contributor2.com
 firelight-cover.com
 firelight-cycle2.com
+firelight-dappsmainnet.com
 firelight-defi.com
 firelight-desk.com
 firelight-desk-desk.com
@@ -29788,6 +29798,7 @@ firelight-mainnet.com
 firelight-multiplier.com
 firelight-multiply.com
 firelight-network.com
+firelight-networks.com
 firelight-offer2.com
 firelight-phase2.com
 firelight-points.com
@@ -29810,7 +29821,8 @@ firelight-web.com
 firelight-zone.com
 firelightclay.com
 firelightdapp.com
-app.firelightdashboard.com
+firelightdashboard.com
+firelightecosystem.com
 firelightfi-airdrop.com
 firelightfi-app.com
 firelightfi-finance.com
@@ -29981,6 +29993,8 @@ flpmyintrad.com
 flr-portal.com
 flr-votedesk.com
 flradvisor.com
+flrdashboard.com
+flrecosystem.com
 flrelight-claim.com
 flrenetwork.com
 flrvote.com
@@ -32410,7 +32424,10 @@ il-apple.com
 illvologroupfx.com
 ilovemonney.com
 im-tokenn.com
+imagereviews-x.com
 images-x.com
+imagesetting-x.com
+imagesettings-x.com
 imageverify-x.com
 imap-post.com
 immutable-okta.com
@@ -50602,6 +50619,7 @@ cashmere.community
 coincommunity.community
 curvefinance.community
 ethena.community
+ethersfi.community
 fablesfi.community
 security.flare.community
 flarenetworks.community
@@ -64235,6 +64253,9 @@ foundation-netnet.icu
 foundation-yieldbasis.icu
 fxpor1.icu
 fxporcoin.icu
+gatephantom.icu
+gatewaypayments.icu
+gatewaypaymentspro.icu
 ei.genlayer.icu
 gensin.icu
 get-peng.icu
@@ -66716,12 +66737,14 @@ balaner.ink
 bancor.ink
 base-dashboard.ink
 beta-exchange.ink
+beta-gui.ink
 beta-homes.ink
 betx.ink
 bitriverwealthforum.ink
 blocklix.ink
 bloktopia.ink
 bluewallet.ink
+bridge-v3.ink
 btccproai.ink
 btimart.ink
 bybitpro.ink
@@ -66814,6 +66837,7 @@ go-to-tracker-debank.ink
 guardabeta.ink
 guickwasp.ink
 help-triyst.ink
+hyperbeat.ink
 hyperlend.ink
 hyperwsap.ink
 ibank.ink
@@ -71352,6 +71376,7 @@ enter-frontiertrader.lat
 enter-morpho.lat
 enter-skyeco.lat
 enter-skymoney.lat
+eth-test.lat
 ethena-fi.lat
 ethenafi.lat
 ethenas-portal.lat
@@ -72274,6 +72299,7 @@ amemeevent.live
 ami-coinbase.live
 amlregularscan.live
 amlshield.live
+analytic-web3.live
 analyzr.live
 ansem-updates.live
 ansemclaim.live
@@ -72297,11 +72323,13 @@ app-slotspioneer.live
 app-slotsplus.live
 app-slotsvalid.live
 app-tansporter.live
+app-v3.live
 app-xrpl.live
 appcoresstak.live
 appmultiwallet.live
 apps-zoom.live
 appsol.live
+appvirtuals.live
 apyxfi.live
 arb-swap.live
 arbsvvap.live
@@ -72370,6 +72398,7 @@ backup09-ledger.live
 backup5-ledger.live
 badge-firelight.live
 badge-firelightfi.live
+baeapes.live
 ballot-flarefoundation.live
 base-airdrop.live
 base-ondoproposal.live
@@ -72448,6 +72477,7 @@ btchyperclaimlist.live
 www.btcmtxlaunch.live
 bubblemaps.live
 bulk-flarefn.live
+bulletxyz.live
 bullsol.live
 bunnitoken.live
 buzkora.live
@@ -72457,6 +72487,7 @@ byvotes.live
 byvotes-bybit.live
 cakewalletsdesktop.live
 callon.live
+cap-v2.live
 capital-scan.live
 carbium-migration.live
 cardanocoreapi.live
@@ -72633,6 +72664,7 @@ cryptoforextrades.live
 cryptofxtradex.live
 cryptoin.live
 ctopmembersbased.live
+cubexchange.live
 curvancelaunch.live
 cwallet.live
 cybro-io-claim.live
@@ -72665,6 +72697,7 @@ decatloshop.live
 decatlshop.live
 decentconnectiondapps.live
 deepbookonsui.live
+deepsafenetwork.live
 defi-firelightfinances.live
 defi-flarefdn.live
 defi-flarefn.live
@@ -72680,6 +72713,7 @@ app.defistreamportal.live
 deflliarna.live
 demixdigitalmarkets.live
 deploy-flarefn.live
+derivio.live
 desk-jumper.live
 destra-networks.live
 devz.live
@@ -73128,6 +73162,7 @@ flarevoting.live
 flashdappsoft.live
 flashlayer.live
 flokispace.live
+flrebird.live
 flrgovernace.live
 fluents.live
 fold-desktopapp.live
@@ -74786,6 +74821,7 @@ appid-service-v8.lol
 appid-verification.lol
 appid-verification-s7.lol
 apyx-redirect.lol
+apyxfi.lol
 arguspad.lol
 askdasnjdnjasdjnasndjajnd.lol
 asterfufeng.lol
@@ -74934,6 +74970,7 @@ eigenlayers.lol
 eilgenlayers.lol
 enter-firelight.lol
 eth-gate-connection.lol
+eth-get.lol
 ethenafnd.lol
 etherfi.lol
 ethscan.lol
@@ -78563,6 +78600,8 @@ community-bilions.network
 community-flare.network
 community-moonshot.network
 connectwallet.network
+crawinets.network
+crawlnets.network
 connect.cryptosafe.network
 cysicfoundation.network
 dao-zebec.network
@@ -79683,6 +79722,7 @@ dualsol.online
 dwallet.online
 dxptoken.online
 eco-firelight.online
+efficientcore-api.online
 eg-sakr.online
 eigenlayer.online
 eigenlayer-eligible.online
@@ -79765,6 +79805,7 @@ grvtio.online
 harmonixfi.online
 mail.hashflow.online
 heymynameog.online
+higgsoffers.online
 highticket-x.online
 hotcoins.online
 hub-papertrade.online
@@ -81350,6 +81391,7 @@ god2gov.org
 goldberg-remote.org
 goldencrossfund.org
 goldledger.org
+googlestorageapislink.org
 googlmeetinvitetoday.org
 gov-morpho.org
 governance-base.org
@@ -83583,6 +83625,7 @@ byvotes.pro
 byzanlink.pro
 byzanvaults.pro
 app.c-sw.pro
+cablesfi.pro
 capcatmodapk.pro
 capcutdownload.pro
 capcutt.pro
@@ -83610,6 +83653,7 @@ claimslab.pro
 claimsol.pro
 classicwinner360.pro
 cloudsdrop.pro
+cngcko.pro
 cogniforgebase.pro
 coin-invoice.pro
 coinbase-commerce.pro
@@ -83730,6 +83774,7 @@ decentralisedprotocols.pro
 defendercontrol.pro
 defi-risk.pro
 dejen.pro
+dex-app.pro
 app.dfllma.pro
 digital-secure-ive.pro
 dnsjumper.pro
@@ -83780,6 +83825,7 @@ etherfi.pro
 ethersfi.pro
 ethmachine.pro
 eu-home.pro
+evmdepp.pro
 ex-app.pro
 exchange-sawp.pro
 exchange-v4.pro
@@ -84058,6 +84104,8 @@ gamblerr.pro
 gancb1512.pro
 gasfreetron.pro
 gaslesswallet.pro
+gate-solana-phantom.pro
+gate-solana-wallet.pro
 genius-airdrop.pro
 gesck4m.pro
 gesowin77.pro
@@ -84926,21 +84974,26 @@ absxyz.run
 acrossprotocol.run
 wxt.airdropalert.run
 amlcheck.run
+amm-defi.run
 apyx.run
 aragon-dao.run
 arcus.run
 asterfoundation.run
 asymmetry.run
+bean-ex.run
 bestcasino.run
 blacksbullsol.run
 blnance.run
 bulltheleader.run
+chanigpt.run
 chudjak.run
 citrea.run
 polymarket.clickai.run
+coinilst.run
 collabo.run
 cowsawp.run
 crunchcat.run
+crvelite.run
 cygnusfi.run
 dashboards.run
 dawae.run
@@ -84948,10 +85001,16 @@ deepbook.run
 deer-cloud.run
 defiunited.run
 dexe.run
+dexsport.run
 staging-phantom-breakpoint-2026.domino.run
+e-ai.run
 ensou.run
 ethenafoundation.run
 ethenaprotocol.run
+etherivsta.run
+ex-app.run
+exchange-birdge.run
+featherwallet.run
 fewchapp.run
 fi-v4.run
 finance-home.run
@@ -84963,6 +85022,7 @@ foundaiton.run
 fuelfoundation.run
 gizaprotocol.run
 hash256.run
+hifi-v3.run
 home-lite.run
 home-v3.run
 hoodlink.run
@@ -85145,6 +85205,7 @@ al-metamanagerr-hellpcenter.sbs
 alalitics-web3.sbs
 alamostrategic.sbs
 alchernix.sbs
+alhpabot.sbs
 allocate-argus.sbs
 allocate-concrete.sbs
 allocation-argus.sbs
@@ -85485,6 +85546,7 @@ enter-argus.sbs
 enter-concrete.sbs
 enter-edgex.sbs
 enter-longbowlend.sbs
+enter-paperdaoxyz.sbs
 enter-papertrade.sbs
 enter-skymoney.sbs
 enter-sparkfi.sbs
@@ -85527,6 +85589,7 @@ coinbasesupportfixwindow.felttl.sbs
 coinbasesupportdirectmessage.fetliis.sbs
 coinbasesupport-desk.fetls.sbs
 coinbasewalletappsupportlivechat.fettl.sbs
+fewchapp.sbs
 fi-borrow.sbs
 fi-dao.sbs
 fi-dashboard.sbs
@@ -89525,6 +89588,7 @@ eigenlayer-social-verification.sit.clique-test.tech
 autodiscover.coinbase-us.tech
 data.compute.tech
 shard.compute.tech
+concretexgz.tech
 concretexyz.tech
 concretexz.tech
 crate-nearpad.tech
@@ -92340,7 +92404,9 @@ tvgarden.com.tr
 polymarket.tr
 1inch.trade
 24bets.trade
+abeta.trade
 aerodrone.trade
+ag-swap.trade
 agrofarmminers.trade
 ai-follow.trade
 altrura.trade
@@ -92357,6 +92423,7 @@ apyx.trade
 arbpoly.trade
 arcbridge.trade
 arcusdex.trade
+arrakisfi.trade
 atriurn.trade
 aura-apex.trade
 autofamr.trade
@@ -92390,6 +92457,7 @@ crvelite.trade
 crvlite.trade
 curve-claims.trade
 cvxv.trade
+cygnusfi.trade
 dao-pool.trade
 dao-pools.trade
 dashboard-hyena.trade
@@ -92411,24 +92479,30 @@ eigenlayerdefi.trade
 eigenlayerfi.trade
 eigenlayersio.trade
 eigenlayertrading.trade
+ellipsisfi.trade
 en-com.trade
 ethbot.trade
 ethdefi.trade
 etherbot.trade
+ethesrcan.trade
 etrehereal.trade
 event-ethereal.trade
 event-hyperliquid.trade
 exchange-birdge.trade
 exchange-bridge.trade
+exchange-v4.trade
+farm-v2.trade
 firstledger.trade
 fix-fload.trade
 app.staging.flowx.trade
+fntm-v2.trade
 genesis-zksync.trade
 gewuasset.trade
 governance-pool.trade
 governance-pools.trade
 guickwasp.trade
 gxpex.trade
+hubxyz.trade
 hyena-rewards.trade
 hype-rewards.trade
 hyperliquid-rewards.trade
@@ -94959,6 +95033,7 @@ gemini2.860203.xyz
 88888376.xyz
 gemini.8899999.xyz
 971022.xyz
+9inelivesgng.xyz
 aaa-hub.xyz
 aagyu.xyz
 aave-compensate.xyz
@@ -95665,6 +95740,7 @@ avicibeta.xyz
 avicimoney.xyz
 awagyu.xyz
 awgyu.xyz
+axiondao.xyz
 axisimperialcapital.xyz
 axisrobotics-dashboard.xyz
 axisrobotics-dashboards.xyz
@@ -96549,10 +96625,12 @@ dashboardv4.xyz
 dashboardv5.xyz
 datasetbaisant.xyz
 daytrade-kabu.xyz
+daz-3d.xyz
 dcentwaiiet-manual.xyz
 dcentwaiiet-update.xyz
 dcentwaiiet-updated.xyz
 ddapps-chainfix.xyz
+de-fungiz.xyz
 deal-xrpl.xyz
 debridge-finance.xyz
 debugger-tool.xyz
@@ -96560,6 +96638,7 @@ decentralize-tokenguide.xyz
 dechargenetwork.xyz
 deedestate-reward.xyz
 deedestaterewards.xyz
+deepsafenetwork.xyz
 deepseek2025.xyz
 deffinodes.xyz
 defi-3jane.xyz
@@ -96712,6 +96791,7 @@ doublecounler.xyz
 doubleszero.xyz
 doublezerotoken.xyz
 drifts-tech.xyz
+dripdragons.xyz
 drop-eigenclm.xyz
 drop-firelight.xyz
 drop-flare.xyz
@@ -98209,6 +98289,7 @@ identityverificationgateway-meta-2026.xyz
 eigenlayer.idropsclaim.xyz
 ignitercap-firelight.xyz
 igralabs.xyz
+iguanaplay.xyz
 ijedjideh8d8h.xyz
 imageflagged-x.xyz
 imagereview-x.xyz
