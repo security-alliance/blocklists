@@ -16580,7 +16580,6 @@ airdrop8.click
 airdrop9.click
 airdropfree.click
 airdrophunting.click
-revert.airdropsalert.click
 airdroptrx.click
 yield.airdrpsalerts.click
 akashnetwork.airsdropalerts.click
