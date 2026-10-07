@@ -13809,7 +13809,7 @@ lighter.casa
 livepeer.casa
 mapie.casa
 moonwell.casa
-morpho.casa
+app.morpho.casa
 okxwallet.casa
 polymarket.casa
 portallogonapp.casa
