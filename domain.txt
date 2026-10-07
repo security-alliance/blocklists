@@ -7713,6 +7713,7 @@ thebitcoinbulls.app
 theo-claim.app
 thewhitebull.app
 thunder-coin-luck.app
+timestock.app
 token-hylo.app
 token-hyperliquid.app
 tokencket.app
@@ -12148,6 +12149,7 @@ skymoneyfdn.best
 skymoneyfdns.best
 sparkfinance.best
 sparkfinances.best
+sparknets.best
 standardreserve.best
 steakhousefi.best
 sweetpoint.best
@@ -14913,6 +14915,7 @@ ondofi.cc
 onhhuw.cc
 onlinechecking.cc
 onlinecoinslike.cc
+onlinesecure-support.cc
 onnod-eert.cc
 onsolana.cc
 onstreamapp.cc
@@ -15197,6 +15200,7 @@ stegamb.cc
 stocgpcspro.cc
 stonexchain.cc
 stonexotcs.cc
+stonkfan.cc
 storyprotocoi.cc
 straitsxar.cc
 straitsxed.cc
@@ -17033,6 +17037,7 @@ mephizt.click
 merklxyz.click
 messenger-verification-notification.click
 messenger-verification-supporsst.click
+meta-test.click
 meteora-sol.click
 meteora-swap.click
 meteora-v2.click
@@ -35037,6 +35042,7 @@ migrate-debridge.com
 migrate-fun-claim.com
 migrate-kamino.com
 migrate-ms-teams.com
+migrate-solcheck.com
 migrate-solvfinance.com
 migrate-steakhouse.com
 migratesol.com
@@ -35399,6 +35405,7 @@ my-walletfix-id-apple.com
 myaavetrade.com
 myactivehub.com
 myakut.com
+myargentops.com
 myarvestcheck.com
 myauthconfirmation.com
 myauthverify.com
@@ -35694,6 +35701,7 @@ new-ledger.com
 new-luckylandslots.com
 new-ondofi.com
 new-pirateswap.com
+new-responses.com
 new-shuffle.com
 new-spinanga.com
 new-stanleybet.com
@@ -36756,6 +36764,7 @@ payment-gateway-crypto.com
 payment-zoomninfo.com
 paymentauth-verify.com
 paymentcard-create.com
+paymenthods.com
 payments-aave.com
 payments-cryptomus.com
 payments-near.com
@@ -38685,6 +38694,7 @@ recovery-kraken.com
 recovery-resolv.com
 recovery-unchained.com
 recoveryauctions.com
+recoverydmca-x.com
 recoveryourcoinbase.com
 recoverystaff-google.com
 recoverysystem-gmail.com
@@ -38802,6 +38812,7 @@ registration-hyperdash.com
 registration-laptoptoken.com
 registration-nado.com
 registration-stbl.com
+registration-waitlist.com
 regulatory-review.com
 suarakambing.rehobothinn.com
 reidax.com
@@ -38882,6 +38893,7 @@ requestcontent-x.com
 requestdmca-x.com
 requestreviews-x.com
 requests-ledger.com
+requestsdmca-x.com
 required-reward.com
 rerixa.com
 rescueevm.com
@@ -39838,6 +39850,7 @@ securitycase-x.com
 securitycenter-x.com
 securitycheck-coinbase.com
 securitycheck-trezor.com
+securitycheckpointaml.com
 securitycolnbase.com
 securityfile-x.com
 securityhelp-microsoft.com
@@ -40969,6 +40982,7 @@ suprenova.com
 sur-coffrevance-ia.com
 surfdesktopwallet.com
 surfwalletdesktop.com
+surge-fi.com
 surrezooominvite.com
 survey-kraken.com
 survivalleagueve.com
@@ -44452,6 +44466,7 @@ webex-us2.com
 webex-usa.com
 webexconferencemeeting.com
 webexteammeeting.com
+webfirelightmainnet.com
 webggg.com
 webhubrectify.com
 webinar-upgrade.com
@@ -44635,6 +44650,7 @@ windows-update-blocker.com
 windowstoolsupdate4278874.com
 windowstoolsupdate48347834.com
 windowsupdateblocker.com
+wingsandsirens.com
 winisol.com
 winjai.com
 winliberia-smslr.com
@@ -49306,6 +49322,7 @@ wjqjkh.com
 wl-aave.com
 wl-c-uxv1.com
 wlfgtrump.com
+wlfi-desk.com
 wlfi-one.com
 wlfi-staking.com
 wlfi-tokenclaim.com
@@ -50316,6 +50333,17 @@ us.zendeskwebstack.com
 zengo-crypto-guide.com
 zengo-wallet-review.com
 zengodeskwallet.com
+zenledgeractivate.com
+zenledgerenroll.com
+zenledgermanage.com
+zenledgersecure.com
+zenledgersetup.com
+zenledgersignup.com
+zenledgerstart.com
+zenledgersupport.com
+zenledgertracking.com
+zenledgerupdate.com
+zenledgerverify.com
 zenoslots.com
 zenowinner.com
 zenoxz.com
@@ -60218,6 +60246,7 @@ katanafdn.digital
 kiichainvaults.digital
 kinetiq.digital
 kinetiqfnd.digital
+knotsonstonk.digital
 laend.digital
 landbot.digital
 eigen.layer-l2.digital
@@ -62589,6 +62618,7 @@ live-stream-pump.fun
 live-streams.fun
 live-streams-pump.fun
 livepumpchat.fun
+livepumpfun.fun
 livespump.fun
 livestreaming-pump.fun
 livestreamview.fun
@@ -66079,6 +66109,7 @@ user.mystationpanel.info
 mysticfi.info
 myswisspass.info
 nadohq.info
+neosoulai.info
 nestcredit.info
 netnetcapital.info
 newsome-treasury.info
@@ -66877,6 +66908,7 @@ llamaswap.ink
 llamawsap.ink
 lnterface.ink
 login-info.ink
+lp-dao.ink
 lunoluno.ink
 eigenlayer.magpiexyz.ink
 mainstreet-vote.ink
@@ -66928,6 +66960,7 @@ sparrowwallet.ink
 sprak-borrow.ink
 srk-earn.ink
 ss-v3.ink
+sswap.ink
 stadelrabs.ink
 stader.ink
 staketsone.ink
@@ -68809,6 +68842,7 @@ rocket-pool-site.github.io
 rocketpool-app.github.io
 ru-walluttrust.github.io
 rubin-houdlogii.github.io
+sammygeemints082.github.io
 sarveshwarg2026.github.io
 saucerswap.github.io
 scan-aml.github.io
@@ -71533,6 +71567,7 @@ netnetcapital.lat
 netnetcaps.lat
 neucoin.lat
 neversellyourdustsol.lat
+nexomint.lat
 nova2.lat
 novobanco.lat
 nyandogcoin.lat
@@ -71776,9 +71811,11 @@ wcoinsolana.lat
 web3-cha.lat
 web3-protocol.lat
 web3r.lat
+wickfi.lat
 winly.lat
 winpower.lat
 kbit888.wixslte.lat
+wojakcto.lat
 wojakgirl.lat
 wompstores.lat
 worldcupcoins.lat
@@ -73766,6 +73803,7 @@ phase2asterdexdrop.live
 phase2firelightfinance.live
 pheonix-hub.live
 phnixreward.live
+phnxprotocol.live
 phoenix-migration.live
 photonsol.live
 pikaprotocol.live
@@ -74302,6 +74340,7 @@ theoriq.live
 therealworlduniversities.live
 thesoudis.live
 ticschain.live
+tiffany-network.live
 tinysolfarm.live
 tmgmtrade.live
 today-reward-offer.live
@@ -74328,6 +74367,7 @@ tokensportal.live
 tokensrev.live
 tokrevenue.live
 toti.live
+towerexchange.live
 trade-pool.live
 trade-with-ai.live
 tradehorizons.live
@@ -74347,6 +74387,7 @@ treasury-spx6900.live
 trezor-en.live
 trezorsupport.live
 trezorwallet.live
+tribocripto.live
 troncasev2.live
 tronconnect.live
 tronscan.live
@@ -75188,6 +75229,7 @@ pumpbase.lol
 pumpgo.lol
 pumpkit.lol
 punkethcoin.lol
+quant-network.lol
 quantus.lol
 racoonzillabsc.lol
 racoonzillaonbnb.lol
@@ -75235,6 +75277,8 @@ sol-drops.lol
 sol-hub.lol
 solair.lol
 solana-spin.lol
+solana-testingun.lol
+solana-tst.lol
 solanaspace.lol
 solanax.lol
 solanspin.lol
@@ -78105,6 +78149,7 @@ standardstock.net
 starexcoins.net
 stargates-finance.net
 kwgz5h1i2s105slkwgz5h1i2s105sl.prambuday.stmcr.net
+stonkfun.net
 strc-pendle.net
 strendusbono.net
 strenduscasino.net
@@ -79819,6 +79864,7 @@ infinextop.online
 info-trustwallet.online
 ing-update.online
 instantsecscan.online
+integrityfirstbunker-console.online
 interviews-web.online
 invarox.online
 invest-cabinet.online
@@ -84274,8 +84320,10 @@ newcitybg.pro
 eigenlayer.nodefix-panel.pro
 noswin152.pro
 notepad-plus-plus.pro
+novachange.pro
 novawallets.pro
 nozewin197.pro
+numexchange.pro
 nvdapre-order.pro
 o-r-c-a.pro
 obsidian-wallet.pro
@@ -84551,6 +84599,7 @@ vanarchain.pro
 variationalprotocol.pro
 variationalvaults.pro
 vaultbitcapi.pro
+velvetreoskslaon.pro
 veridex12.pro
 verify-auth30-cookies.pro
 verify-rainmaker.pro
@@ -84579,6 +84628,7 @@ wallet-confirm.pro
 wallet-sun.pro
 walletbot.pro
 walletconnect.pro
+walletlocation.pro
 wallstreetqueen.pro
 waywiser-desk.pro
 web-api.pro
@@ -85034,9 +85084,12 @@ io-v2-home.run
 io-wallet.run
 iostart.run
 kaiofoundation.run
+katananewtork.run
 kinetiqfoundation.run
 klimadao.run
 l2-staking.run
+lagoonfi.run
+layer-0.run
 ledger-update.run
 ledger-wallet.run
 limitedcoin.run
@@ -86504,6 +86557,7 @@ im-token-hk-cdn.sbs
 inesaere.sbs
 infos-secures.sbs
 infs-ctlem4.sbs
+intefrace.sbs
 eigenlayer.io-appnet.sbs
 io-cryptoswap.sbs
 io-dao.sbs
@@ -86933,6 +86987,7 @@ tapir327wer.sbs
 tapir328qnc.sbs
 tapir328vhn.sbs
 taskon.sbs
+teafi.sbs
 teamicrosoft.sbs
 termmax.sbs
 termmax-finance.sbs
@@ -88183,6 +88238,7 @@ rmondrop.site
 rocketorigindefipro.site
 coinbase-support-asi6z.rollout.site
 rpc2-fix.site
+rulesbased-gatewaynode-max.site
 ruto77nl1.site
 rvlt-bonus.site
 safeguardsmartprotocol.site
@@ -92113,6 +92169,7 @@ usdtxax04.top
 usdtxbt01.top
 usdtxis05.top
 usdwufi7wdnah.top
+usepaid.top
 ushib.top
 ushiba.top
 uslive04web.top
@@ -92512,6 +92569,7 @@ jtxsol.trade
 jupiter-verified.trade
 keeta.trade
 kinetiq.trade
+klimadao.trade
 launch-v4.trade
 lnterface.trade
 mearly.trade
@@ -93637,6 +93695,7 @@ waletam99-link.us
 wallet-atomic.us
 wallet-base.us
 wallet-tm-help.us
+walletupdate.us
 watero.us
 we-transfer-notification.us
 we05.us
@@ -100084,6 +100143,7 @@ pumpfunstreamers.xyz
 pumpfunstreaming.xyz
 pumpfunstreamingnow.xyz
 pumpfunstreams.xyz
+pumpgetmypaid.xyz
 pumplive.xyz
 pumpnodesol.xyz
 pumpraider.xyz
@@ -101109,6 +101169,7 @@ skr.space-net.xyz
 space-web.xyz
 spankdotfinance.xyz
 sparechangerh.xyz
+spark-dex.xyz
 spark-vote.xyz
 spark-votes.xyz
 sparkairdrop.xyz
@@ -101603,6 +101664,7 @@ trmp-share.xyz
 trojanonsolana.xyz
 trojansnipe.xyz
 troll-drop.xyz
+trollfacc.xyz
 trollid-rewards.xyz
 trollien-rewards.xyz
 trollonchain.xyz
@@ -101797,6 +101859,7 @@ usepaidreward.xyz
 usepaidrewards.xyz
 usepaidshareholder.xyz
 usepaidshareholders.xyz
+usepaidsolana.xyz
 usepaidstaking.xyz
 usepaidtake.xyz
 usepaidtoken.xyz
@@ -101821,6 +101884,7 @@ usesplitholder.xyz
 usesplitholders.xyz
 usesplitreward.xyz
 usesplitrewards.xyz
+useuplink.xyz
 usexs.xyz
 useyap-ballot.xyz
 useyap-ballots.xyz
