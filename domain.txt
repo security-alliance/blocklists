@@ -50625,6 +50625,7 @@ perle.community
 pharosnetwork.community
 plasmafoundation.community
 prjx.community
+raac.community
 saharaai.community
 sosovalue.community
 sparkdotfi.community
@@ -60081,6 +60082,7 @@ blockportal.digital
 bnbprinter.digital
 btcmiami.digital
 bybit-votes.digital
+c8ntinuum.digital
 cantonnetwork.digital
 cardpay.digital
 cards-tw.digital
@@ -60255,6 +60257,7 @@ proxyfai.digital
 pudgypenguins.digital
 pufferfinance.digital
 pumpfun.digital
+quantusnet.digital
 quantusnetwork.digital
 quorainpattern.digital
 raydium.io-swap.radyim-eth-eth-vfr.digital
@@ -65762,6 +65765,7 @@ fraktur.info
 fraxfoundation.info
 legithub.freeflaretoken.info
 fudthepug.info
+fungolabs.info
 futureforumbkins.info
 fwa-vote.info
 fxpro-us.info
@@ -71191,6 +71195,7 @@ apyx-finance.lat
 apyxvieweb.lat
 arcnetwork.lat
 arcusdigital.lat
+arcusnet.lat
 arcusxyz.lat
 arguspad.lat
 argusworld.lat
@@ -86475,6 +86480,7 @@ layer3-rewards.sbs
 layeredgerewards.sbs
 ledger-nanox.sbs
 legacy-bitfun-dex.sbs
+legioncc.sbs
 lido-fi.sbs
 liqiud.sbs
 liqs-protect.sbs
