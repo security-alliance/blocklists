@@ -8962,7 +8962,6 @@ codecompiler-v1-16.vercel.app
 codecompiler-v1-17.vercel.app
 codeide-v2.vercel.app
 codestashv2.vercel.app
-coinbase-8izm.vercel.app
 coinbase-blockchain.vercel.app
 coinbase-blockchain-app-gules.vercel.app
 coinbase-chat.vercel.app
@@ -80572,7 +80571,6 @@ apr-hyperfoundation.org
 apyxfi.org
 apyxfoundation.org
 aq-forensics.org
-1inch.exchange.aqanu.org
 aquaticsmp.org
 arbpoly.org
 arc-bridge.org
