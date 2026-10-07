@@ -71818,6 +71818,7 @@ trustcreditcards.li
 1wfqxn.life
 1xx3us.life
 aavefinance.life
+aavefnd.life
 allocate-firelight.life
 allocation-plasma.life
 allocations-firelight.life
@@ -74970,6 +74971,7 @@ flarefoundation.lol
 flarenetwork.lol
 flarenetworks.lol
 fortunarole.lol
+fraxfinance.lol
 frogecoinrbh.lol
 fun-vote.lol
 funshare.lol
@@ -86397,6 +86399,7 @@ holeland.sbs
 beefy.home-overview.sbs
 homenovoacessb.sbs
 honeyswap.sbs
+hookr.sbs
 hub-airdrops.sbs
 hub-cantons.sbs
 huiposhelhui.sbs
