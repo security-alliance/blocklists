@@ -22910,6 +22910,7 @@ app-mysticfinance.com
 app-netrun.com
 app-ondofinance.com
 app-opesea.com
+app-pancakesw-v4.com
 app-phantom.com
 app-poly.com
 app-pons.com
@@ -85172,6 +85173,7 @@ exchange-vv.sbs
 exprespecsk.sbs
 f-network.sbs
 fablesfi.sbs
+farm-v4.sbs
 fdsfsd.sbs
 featherwallet.sbs
 coinbasesupportfixwindow.feltis.sbs
