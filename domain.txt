@@ -32993,7 +32993,6 @@ jop-web3.com
 jopriu-coinbase.com
 joreios.com
 jotchuaplay.com
-jotrio.com
 joumux.com
 journeyhe.com
 jowatu.com
@@ -62453,7 +62452,6 @@ governance-pendle.fun
 governance-pump.fun
 governance-sa1t.fun
 gptscan.fun
-growclaudeai.fun
 gstockbnb.fun
 guides-pump.fun
 helpmeoutofarc.fun
@@ -64384,7 +64382,6 @@ longbow-app.icu
 lovelystuffsinc.icu
 loyalty-rewards.icu
 luminite.icu
-luna-app.icu
 luna-creator.icu
 lunexia.icu
 lvvas.icu
@@ -70028,7 +70025,6 @@ krikenlogin.webflow.io
 krkakanelogin.webflow.io
 krkkeanloguin.webflow.io
 krkkenloginn.webflow.io
-krkkennloggin.webflow.io
 krknnologon.webflow.io
 krrakenluginn.webflow.io
 krrakoinlovinnljj.webflow.io
@@ -73599,8 +73595,6 @@ oxyz.live
 ozrefunds.live
 oztoken.live
 paalclaim.live
-pacifica-allocation.live
-pacifica-checker.live
 pacifica-finance.live
 pacifica-rewards.live
 pack-dashboard.live
@@ -74709,7 +74703,6 @@ allocations-usdai.lol
 alturax.lol
 amlcrypto.lol
 andorsummer.lol
-animebitcoin.lol
 ansems.lol
 ansemsol.lol
 apexforge.lol
