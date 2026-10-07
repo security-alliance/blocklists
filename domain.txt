@@ -2872,6 +2872,7 @@ crypto-stz.netlify.app
 crypto-support-conncect.netlify.app
 crypto-sxa.netlify.app
 crypto-sxu.netlify.app
+crypto-szx.netlify.app
 crypto-t2k.netlify.app
 crypto-t7e.netlify.app
 crypto-tdk.netlify.app
@@ -11394,6 +11395,7 @@ trust-wallet.asia
 trustwallet-asia.asia
 twcard.asia
 udeman.asia
+usenosh.asia
 weexone.asia
 zestprotocol.asia
 coin-base.associates
@@ -16243,6 +16245,8 @@ sitemuy1f0irk5nh.cfd
 sitemuy1pxw04wet.cfd
 sitemuy1qfpcn9rw.cfd
 sitemuy1r04pawro.cfd
+sitemuyfoops7as2.cfd
+sitemuyfw97zaw9w.cfd
 skyecos.cfd
 skyecosystem.cfd
 snowwy-peak.cfd
@@ -22139,6 +22143,7 @@ aave-recovery.com
 aave-reimbursement.com
 aave-v3swap.com
 aave-verification.com
+aave-voting.com
 aavebase-dashboard.com
 aavebasedashboard.com
 aaveclaimss.com
@@ -22389,6 +22394,7 @@ aebtceth.com
 aefory.com
 aegetpron.com
 aerodominance-secure.com
+aerodrome-claim.com
 aerodrome-foundation.com
 aerodrome-onchain.com
 aerodrome-pharos.com
@@ -29964,6 +29970,7 @@ flows-trustwallet.com
 flowuphollow.com
 flowxprotocol.com
 flpmyintrad.com
+flr-portal.com
 flr-votedesk.com
 flradvisor.com
 flrelight-claim.com
@@ -60222,6 +60229,7 @@ origin.osero.digital
 pancakeswaps.digital
 paribu-app.digital
 pendlefi.digital
+penldleflnance.digital
 platform-x.digital
 pollymarket.digital
 polmar.digital
@@ -78507,6 +78515,7 @@ checker-flare.network
 checker-hylo.network
 checkers-billions.network
 arcbridge.chienlvm.network
+claim-datagram.network
 claim-eigenlayer.network
 claim-flare.network
 claimeigenlayer.network
@@ -85379,6 +85388,7 @@ dango.sbs
 dao-fluid.sbs
 dao-v3.sbs
 dashboard-aero.sbs
+dashboard-otcdesk.sbs
 dashboard-poly.sbs
 dashboard-v2.sbs
 data-validation.sbs

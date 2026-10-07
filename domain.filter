@@ -2872,6 +2872,7 @@
 ||crypto-support-conncect.netlify.app^$all
 ||crypto-sxa.netlify.app^$all
 ||crypto-sxu.netlify.app^$all
+||crypto-szx.netlify.app^$all
 ||crypto-t2k.netlify.app^$all
 ||crypto-t7e.netlify.app^$all
 ||crypto-tdk.netlify.app^$all
@@ -11394,6 +11395,7 @@
 ||trustwallet-asia.asia^$all
 ||twcard.asia^$all
 ||udeman.asia^$all
+||usenosh.asia^$all
 ||weexone.asia^$all
 ||zestprotocol.asia^$all
 ||coin-base.associates^$all
@@ -16243,6 +16245,8 @@
 ||sitemuy1pxw04wet.cfd^$all
 ||sitemuy1qfpcn9rw.cfd^$all
 ||sitemuy1r04pawro.cfd^$all
+||sitemuyfoops7as2.cfd^$all
+||sitemuyfw97zaw9w.cfd^$all
 ||skyecos.cfd^$all
 ||skyecosystem.cfd^$all
 ||snowwy-peak.cfd^$all
@@ -22139,6 +22143,7 @@
 ||aave-reimbursement.com^$all
 ||aave-v3swap.com^$all
 ||aave-verification.com^$all
+||aave-voting.com^$all
 ||aavebase-dashboard.com^$all
 ||aavebasedashboard.com^$all
 ||aaveclaimss.com^$all
@@ -22389,6 +22394,7 @@
 ||aefory.com^$all
 ||aegetpron.com^$all
 ||aerodominance-secure.com^$all
+||aerodrome-claim.com^$all
 ||aerodrome-foundation.com^$all
 ||aerodrome-onchain.com^$all
 ||aerodrome-pharos.com^$all
@@ -29964,6 +29970,7 @@
 ||flowuphollow.com^$all
 ||flowxprotocol.com^$all
 ||flpmyintrad.com^$all
+||flr-portal.com^$all
 ||flr-votedesk.com^$all
 ||flradvisor.com^$all
 ||flrelight-claim.com^$all
@@ -60222,6 +60229,7 @@
 ||pancakeswaps.digital^$all
 ||paribu-app.digital^$all
 ||pendlefi.digital^$all
+||penldleflnance.digital^$all
 ||platform-x.digital^$all
 ||pollymarket.digital^$all
 ||polmar.digital^$all
@@ -78507,6 +78515,7 @@
 ||checker-hylo.network^$all
 ||checkers-billions.network^$all
 ||arcbridge.chienlvm.network^$all
+||claim-datagram.network^$all
 ||claim-eigenlayer.network^$all
 ||claim-flare.network^$all
 ||claimeigenlayer.network^$all
@@ -85379,6 +85388,7 @@
 ||dao-fluid.sbs^$all
 ||dao-v3.sbs^$all
 ||dashboard-aero.sbs^$all
+||dashboard-otcdesk.sbs^$all
 ||dashboard-poly.sbs^$all
 ||dashboard-v2.sbs^$all
 ||data-validation.sbs^$all
