@@ -2072,6 +2072,7 @@ claim-9y.netlify.app
 claim-a2.netlify.app
 claim-acs.netlify.app
 claim-ag.netlify.app
+claim-airdrop-token.netlify.app
 claim-ajd.netlify.app
 claim-akg.netlify.app
 claim-aow.netlify.app
