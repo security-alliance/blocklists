@@ -66757,6 +66757,7 @@ eigenlayer.ink
 ellipsisfi.ink
 enter-firelight.ink
 eth-btc.ink
+etherfi.ink
 eufi.ink
 evmhub.ink
 exchangeio.ink
