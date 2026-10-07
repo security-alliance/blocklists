@@ -71140,6 +71140,7 @@ pc-claim.lat
 peepacoin.lat
 peepatoken.lat
 pendle-dashboard.lat
+pendlefinances.lat
 peniscoin.lat
 pepecoinsol.lat
 pepeonbags.lat
@@ -71558,6 +71559,7 @@ reg-spin88.life
 revoke-cash.life
 rewards-firelight.life
 rewards-zama.life
+ryskfinance.life
 saturncredit-vote.life
 season2-firelight.life
 seasons2-firelight.life
@@ -84392,7 +84394,6 @@ rainbet.ro
 rainbet-ro.ro
 rainbetcasino.ro
 rainbetcasino-ro.ro
-tipografiaeuroprint.ro
 melania.rocks
 lifebase.rodeo
 webmail.nota.rodeo
@@ -89062,6 +89063,7 @@ aavefnd.tech
 aavejob.tech
 across-protocol.tech
 acrossprotocol.tech
+aeroxyzs.tech
 aml-compliance.tech
 anome.tech
 app-nearpad.tech
@@ -89112,6 +89114,7 @@ polymarket.eskender.tech
 ethenahq.tech
 ethereum-reward.tech
 etherfi.tech
+fablesfi.tech
 arc.fasset-hq.tech
 sbiremit.fasset-hq.tech
 firelightfoundation.tech
