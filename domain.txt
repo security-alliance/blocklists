@@ -71379,6 +71379,7 @@ soneuim-votes.lat
 sorel.lat
 spark-finance.lat
 sparkdotfi.lat
+sparkfin.lat
 sparkfinance.lat
 spcxmeme.lat
 spikemattfurie.lat
