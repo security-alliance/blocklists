@@ -2805,6 +2805,7 @@
 ||crypto-nmr.netlify.app^$all
 ||crypto-noi.netlify.app^$all
 ||crypto-npp.netlify.app^$all
+||crypto-npy.netlify.app^$all
 ||crypto-nqk.netlify.app^$all
 ||crypto-nvh.netlify.app^$all
 ||crypto-nxi.netlify.app^$all
@@ -15781,6 +15782,7 @@
 ||check-your-access.cfd^$all
 ||checker-saturn.cfd^$all
 ||claim-advantagefcu.cfd^$all
+||claim-dopplerfinance.cfd^$all
 ||claim-esl.cfd^$all
 ||claim-everwisecu.cfd^$all
 ||claimdrop.cfd^$all
@@ -16253,6 +16255,7 @@
 ||sitemuyfoops7as2.cfd^$all
 ||sitemuyfw97zaw9w.cfd^$all
 ||sitemuyigxvdcuz2.cfd^$all
+||sitemuyjraz2i870.cfd^$all
 ||skyecos.cfd^$all
 ||skyecosystem.cfd^$all
 ||snowwy-peak.cfd^$all
@@ -16386,6 +16389,7 @@
 ||vote-fluid.cfd^$all
 ||vote-orbio.cfd^$all
 ||vote-ventran.cfd^$all
+||voting-theindexfinance.cfd^$all
 ||vr-secure-app.cfd^$all
 ||wallet-billing-invoice.cfd^$all
 ||wallet-collect-cashier.cfd^$all
@@ -51781,6 +51785,7 @@
 ||3-derivexyz-1y2.pages.dev^$all
 ||3-derivexyz-6ky.pages.dev^$all
 ||3-ecosystem-argus.pages.dev^$all
+||3-ethena.pages.dev^$all
 ||3-ethenamoney.pages.dev^$all
 ||3-fluidio.pages.dev^$all
 ||3-gov-ramses.pages.dev^$all
@@ -51796,6 +51801,7 @@
 ||3-proposal-globaldollar.pages.dev^$all
 ||3-proposal-zama.pages.dev^$all
 ||3-ramses-events.pages.dev^$all
+||3-ramsesapp.pages.dev^$all
 ||3-reallocation-abs.pages.dev^$all
 ||3-saturncredit.pages.dev^$all
 ||3-zamaprotocol.pages.dev^$all
@@ -86640,6 +86646,7 @@
 ||points-gifts.sbs^$all
 ||polso-capitenza.sbs^$all
 ||claim.polymarkets.sbs^$all
+||portal-concretexyz.sbs^$all
 ||portal-derive.sbs^$all
 ||portal-linera.sbs^$all
 ||portal-lombard.sbs^$all
