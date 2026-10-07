@@ -60123,6 +60123,7 @@ eloncoin.digital
 elvobeyondmotion.digital
 ensou.digital
 enter-aave.digital
+enter-argus.digital
 eth-casino.digital
 eth-scanio.digital
 eth-transfers.digital
@@ -71686,6 +71687,7 @@ unccoinsolana.lat
 uncsolana.lat
 unctoken.lat
 unipeg.lat
+up33.lat
 usaichipsite.lat
 usd-coins88.lat
 usdai.lat
@@ -79287,7 +79289,6 @@ espresso.stakingreward.one
 etherfuse.stakingreward.one
 fullsail.stakingreward.one
 gitcoin.stakingreward.one
-goatnetwork.stakingreward.one
 kai.stakingreward.one
 kiln.stakingreward.one
 lido.stakingreward.one
