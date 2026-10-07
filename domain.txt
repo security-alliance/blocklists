@@ -65391,6 +65391,7 @@ assistance-auth-us.info
 astarfoundation.info
 asteroidog.info
 asteroidrh.info
+astredex.info
 atomicdex.info
 auth-code-check.info
 auth-id-browser.info
@@ -102700,6 +102701,7 @@ zen-earth-pistol-alpha.xyz
 zen-latin-garage-juice.xyz
 zen-onion-mouse-cave.xyz
 zen-prepare-silk-chuckle.xyz
+zen-rough-bitter-steel.xyz
 zennnnnnn.xyz
 zentra-reward.xyz
 zenzenzendrnzenzenzenzen.xyz
