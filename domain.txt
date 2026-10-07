@@ -13652,7 +13652,6 @@ pyths.cam
 q3-banana.cam
 qianbaouniswap.cam
 app.raacs.cam
-app.rayis.cam
 regtainow.cam
 event.rendernetwork.cam
 rewards-skyeco.cam
