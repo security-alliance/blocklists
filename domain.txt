@@ -2906,6 +2906,7 @@ crypto-vto.netlify.app
 crypto-vwn.netlify.app
 crypto-vyr.netlify.app
 crypto-w6x.netlify.app
+crypto-w8l.netlify.app
 crypto-wao.netlify.app
 crypto-wbx.netlify.app
 crypto-wle.netlify.app
@@ -11050,6 +11051,7 @@ web05.app
 web3live.app
 web3nodeprotocol.app
 rabbyextensions.webrpc.app
+cake.webscloud.app
 okx.webscloud.app
 websclouds.app
 webvip.app
@@ -11751,6 +11753,7 @@ trustwalletcustomerservicephonenumber.blogspot.ba
 vhrtcgerx.blogspot.ba
 zerobot043-wqam.blogspot.ba
 allocation-axisrobotics.baby
+axisrobotics.baby
 firelight-allocations.baby
 hmjnqenlstyd.baby
 morpho.baby
@@ -15664,6 +15667,7 @@ allocation-flyingtulip.cfd
 allocation-mantle.cfd
 allocation-multiplifi.cfd
 allocation-papertrade.cfd
+allocation-theindexfinance.cfd
 allocation-usenosh.cfd
 allocation-zipcoin.cfd
 allocations-argus.cfd
@@ -15890,6 +15894,7 @@ fruehuhruhd.cfd
 funds-verify.cfd
 g05-28-v413158.cfd
 gameofcity3d.cfd
+genesis-flarenetwork.cfd
 get-refunds.cfd
 get-verify.cfd
 gift2gift.cfd
@@ -16265,6 +16270,7 @@ tge-concretefoundation.cfd
 tge-dopplerfinance.cfd
 theindexfi.cfd
 theindexfinance.cfd
+theindexfinances.cfd
 thor-v4-app.cfd
 tochamushi.cfd
 top-gift.cfd
@@ -36612,6 +36618,7 @@ paohex.com
 paoladeairtm.com
 paosax.com
 papabagfactory.com
+paperstrades.com
 para-dex.com
 paradigmdefi.com
 paradisemotorentals.com
@@ -61808,6 +61815,7 @@ chat.kraken.forex
 accounting-txub.forum
 aerodrome-finance.forum
 air-jupiter-claim.forum
+allocation-flyingtulip.forum
 anonymixer.forum
 bankr.forum
 capital-ajc.forum
