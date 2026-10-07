@@ -15894,6 +15894,7 @@ fruehuhruhd.cfd
 funds-verify.cfd
 g05-28-v413158.cfd
 gameofcity3d.cfd
+genesis-dopplerfinance.cfd
 genesis-flarenetwork.cfd
 get-refunds.cfd
 get-verify.cfd
@@ -29106,6 +29107,7 @@ ethtrustaipor.com
 ethtvl.com
 ethv2.com
 ethv3.com
+etlhenafl.com
 etoroscan.com
 etorous.com
 etransfer1-onlidep.com
