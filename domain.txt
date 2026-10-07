@@ -12107,7 +12107,6 @@ claim-binance.best
 claim-unlswap.best
 coinbase.best
 coinmixer.best
-cryptomus.best
 embercurve.best
 etherfi.best
 fix-dll-helper.best
@@ -51315,7 +51314,6 @@ kazinorainbet.de
 coinbase-login-6.kileido.de
 coinbaserefundagency.klarnamenpflicht.de
 kostenlose-singles.de
-krtoken.de
 luxarfinai.de
 kraken.mahlstedt-websolutions.de
 mobile-phone-transfer.de
@@ -65846,7 +65844,6 @@ gps-idevices.info
 granththron.info
 greenlandshark.info
 grovedotfinance.info
-surfixapp.guildnet.info
 surflxapp.guildnet.info
 gwarda.info
 hackett-exchange.info
@@ -96507,7 +96504,6 @@ dashboard-poolz.xyz
 dashboard-prjx.xyz
 dashboard-prjx-checker.xyz
 dashboard-proof.xyz
-dashboard-railgun.xyz
 dashboard-ramses.xyz
 dashboard-sideshift.xyz
 dashboard-sierra.xyz
@@ -99106,7 +99102,6 @@ myfuzzy-collection.xyz
 mygateway.xyz
 mygetnow.xyz
 mypamella.xyz
-myriad-markets.xyz
 myro-migration.xyz
 myro-rewards.xyz
 mysolutionwalletlive.xyz
@@ -102431,7 +102426,6 @@ join.wcguardkit.xyz
 wealth-eligibility.xyz
 wealthavenue.xyz
 wealthsimple-rewards.xyz
-weare10.xyz
 web-con.xyz
 web-eigenlayer.xyz
 web-etherfi.xyz
