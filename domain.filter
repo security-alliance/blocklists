@@ -2740,6 +2740,7 @@
 ||crypto-jhj.netlify.app^$all
 ||crypto-jkv.netlify.app^$all
 ||crypto-jmp.netlify.app^$all
+||crypto-jnp.netlify.app^$all
 ||crypto-jrt.netlify.app^$all
 ||crypto-jrv.netlify.app^$all
 ||crypto-jse.netlify.app^$all
@@ -3852,6 +3853,8 @@
 ||moonshot-listings-asp.netlify.app^$all
 ||moonshot-listings-axs.netlify.app^$all
 ||moonshot-listings-bgi.netlify.app^$all
+||moonshot-listings-del.netlify.app^$all
+||moonshot-listings-dqh.netlify.app^$all
 ||moonshot-listings-dqm.netlify.app^$all
 ||moonshot-listings-dsg.netlify.app^$all
 ||moonshot-listings-dyk.netlify.app^$all
@@ -3893,6 +3896,7 @@
 ||moonshot-listings-yma.netlify.app^$all
 ||moonshot-listings-yoe.netlify.app^$all
 ||moonshot-listings-ysq.netlify.app^$all
+||moonshot-listings-zdu.netlify.app^$all
 ||moonshot-listings-zpj.netlify.app^$all
 ||moonshot-listings-zye.netlify.app^$all
 ||moonshot-listings-zyg.netlify.app^$all
@@ -6343,6 +6347,7 @@
 ||portal-moonshot-egw.netlify.app^$all
 ||portal-moonshot-egx.netlify.app^$all
 ||portal-moonshot-eoo.netlify.app^$all
+||portal-moonshot-esj.netlify.app^$all
 ||portal-moonshot-f4t.netlify.app^$all
 ||portal-moonshot-fd4.netlify.app^$all
 ||portal-moonshot-fja.netlify.app^$all
@@ -11307,6 +11312,7 @@
 ||axisrobotics.asia^$all
 ||axisrobotics-ai.asia^$all
 ||transit.baseapp.asia^$all
+||based.asia^$all
 ||basedone.asia^$all
 ||basefxo.asia^$all
 ||boros-finance.asia^$all
@@ -16183,6 +16189,8 @@
 ||sitemuxe9p2wmmna.cfd^$all
 ||sitemuxfk7vxtmln.cfd^$all
 ||sitemuxg07lkyvax.cfd^$all
+||sitemuxynpq576tp.cfd^$all
+||sitemuxypzht4jl4.cfd^$all
 ||skyecos.cfd^$all
 ||skyecosystem.cfd^$all
 ||snowwy-peak.cfd^$all
@@ -51368,7 +51376,9 @@
 ||10-hyperlinkapp-86x.pages.dev^$all
 ||10-hyperlinkxyz-e79.pages.dev^$all
 ||10-predictfun.pages.dev^$all
+||10-proposal-argus.pages.dev^$all
 ||10-proposal-argus-epf.pages.dev^$all
+||10-proposal-zama.pages.dev^$all
 ||10-ramses-events.pages.dev^$all
 ||10-saturncredit.pages.dev^$all
 ||10-zamaprotocol.pages.dev^$all
@@ -51404,6 +51414,7 @@
 ||12-derives.pages.dev^$all
 ||12-derivexyz-6ky.pages.dev^$all
 ||12-ethenamoney.pages.dev^$all
+||12-fluidio.pages.dev^$all
 ||12-gov-ramses.pages.dev^$all
 ||12-hyperlinkapp-86x.pages.dev^$all
 ||12-hyperlinkxyz-e79.pages.dev^$all
@@ -51433,6 +51444,7 @@
 ||14-0xfluid.pages.dev^$all
 ||14-allowlist-ascendlaunch.pages.dev^$all
 ||14-app-argus.pages.dev^$all
+||14-argus-pad.pages.dev^$all
 ||14-argusworld.pages.dev^$all
 ||14-argusworlds-933.pages.dev^$all
 ||14-cantonnetwork.pages.dev^$all
@@ -51446,6 +51458,7 @@
 ||14-ramses-events.pages.dev^$all
 ||14-saturncredit.pages.dev^$all
 ||15-0xfluid.pages.dev^$all
+||15-allowlist-ascendlaunch.pages.dev^$all
 ||15-app-argus.pages.dev^$all
 ||15-argusworld.pages.dev^$all
 ||15-argusworlds-933.pages.dev^$all
@@ -51453,6 +51466,7 @@
 ||15-gov-ramses.pages.dev^$all
 ||15-hyperlinkapp-86x.pages.dev^$all
 ||15-hyperlinkxyz-e79.pages.dev^$all
+||15-predictfun.pages.dev^$all
 ||15-proposal-argus-epf.pages.dev^$all
 ||15-ramses-events.pages.dev^$all
 ||15-saturncredit.pages.dev^$all
@@ -51460,6 +51474,7 @@
 ||16-app-argus.pages.dev^$all
 ||16-argusworld.pages.dev^$all
 ||16-argusworlds-933.pages.dev^$all
+||16-gov-ramses.pages.dev^$all
 ||16-hyperlinkxyz-e79.pages.dev^$all
 ||16-ramses-events.pages.dev^$all
 ||16-saturncredit.pages.dev^$all
@@ -51472,6 +51487,7 @@
 ||18-argusworld.pages.dev^$all
 ||18-argusworlds-933.pages.dev^$all
 ||18-ramses-events.pages.dev^$all
+||18-saturncredit.pages.dev^$all
 ||19-0xfluid.pages.dev^$all
 ||19-argusworld.pages.dev^$all
 ||19-argusworlds-933.pages.dev^$all
@@ -51521,6 +51537,7 @@
 ||20-ramses-events.pages.dev^$all
 ||21-0xfluid.pages.dev^$all
 ||21-ramses-events.pages.dev^$all
+||22-0xfluid.pages.dev^$all
 ||22-argusworld.pages.dev^$all
 ||22-ramses-events.pages.dev^$all
 ||23-argusworld.pages.dev^$all
@@ -51535,6 +51552,7 @@
 ||27-ramses-events.pages.dev^$all
 ||28-argusworld.pages.dev^$all
 ||28-ramses-events.pages.dev^$all
+||29-argusworld.pages.dev^$all
 ||3-0xfluid.pages.dev^$all
 ||3-aeroxyz-3eu.pages.dev^$all
 ||3-allowlist-ascendlaunch.pages.dev^$all
@@ -51685,6 +51703,8 @@
 ||7-predictfun.pages.dev^$all
 ||7-proposal-argus.pages.dev^$all
 ||7-proposal-argus-epf.pages.dev^$all
+||7-proposal-derive.pages.dev^$all
+||7-proposal-globaldollar.pages.dev^$all
 ||7-proposal-zama.pages.dev^$all
 ||7-ramses-events.pages.dev^$all
 ||7-reallocation-abs.pages.dev^$all
@@ -51710,6 +51730,7 @@
 ||8-hyperlinkapp-86x.pages.dev^$all
 ||8-hyperlinkxyz-e79.pages.dev^$all
 ||8-netnet.pages.dev^$all
+||8-pons.pages.dev^$all
 ||8-predictfun.pages.dev^$all
 ||8-proposal-argus.pages.dev^$all
 ||8-proposal-argus-epf.pages.dev^$all
@@ -51725,10 +51746,12 @@
 ||9-0xfluid.pages.dev^$all
 ||9-allowlist-ascendlaunch.pages.dev^$all
 ||9-app-argus.pages.dev^$all
+||9-argus.pages.dev^$all
 ||9-argus-pad.pages.dev^$all
 ||9-argusworld.pages.dev^$all
 ||9-argusworlds-933.pages.dev^$all
 ||9-cantonnetwork.pages.dev^$all
+||9-derive.pages.dev^$all
 ||9-derives.pages.dev^$all
 ||9-derivexyz-6ky.pages.dev^$all
 ||9-ethenamoney.pages.dev^$all
@@ -51736,11 +51759,13 @@
 ||9-gov-ramses.pages.dev^$all
 ||9-hyperlinkapp-86x.pages.dev^$all
 ||9-hyperlinkxyz-e79.pages.dev^$all
+||9-netnet.pages.dev^$all
 ||9-predictfun.pages.dev^$all
 ||9-proposal-argus.pages.dev^$all
 ||9-proposal-argus-epf.pages.dev^$all
 ||9-proposal-zama.pages.dev^$all
 ||9-ramses-events.pages.dev^$all
+||9-reallocation-abs.pages.dev^$all
 ||9-saturncredit.pages.dev^$all
 ||9-zamaprotocol.pages.dev^$all
 ||9-zipcoin.pages.dev^$all
@@ -98380,6 +98405,7 @@
 ||lighter-distribution.xyz^$all
 ||lighter-drop.xyz^$all
 ||lighter-drops.xyz^$all
+||lighter-earn.xyz^$all
 ||lighter-enter.xyz^$all
 ||lighter-hubs.xyz^$all
 ||lighter-lit.xyz^$all
