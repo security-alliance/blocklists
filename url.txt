@@ -304,6 +304,7 @@ https://sites.google.com/view/metaamsk-chrm-web/home
 https://sites.google.com/view/metamak-extson/home
 https://sites.google.com/view/metamask--secure/home
 https://sites.google.com/view/metamask-cdn/home
+https://sites.google.com/view/metamask-device/home
 https://sites.google.com/view/metamask-doccs/home
 https://sites.google.com/view/metamask-download-setup/home
 https://sites.google.com/view/metamask-en-uss/home
