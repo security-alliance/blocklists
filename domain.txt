@@ -20790,6 +20790,7 @@ coinbase.483279.com
 508776-crypto.com
 5102671-apple.com
 510552coinbase.com
+512928kraken.com
 512955-ledger.com
 513097-crypto.com
 514096-coinbase.com
@@ -30378,6 +30379,7 @@ g283049.com
 g3teway.com
 g4teway.com
 g4tewxy.com
+g521893.com
 g5teway.com
 g6teway.com
 g7teway.com
