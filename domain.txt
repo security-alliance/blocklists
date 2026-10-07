@@ -25913,7 +25913,6 @@ coinbase.cn.com
 ldg.cn.com
 rainbet.cn.com
 safepal.cn.com
-sol-sniper.cn.com
 cncbuildsaustralia.com
 m.cncoinbase.com
 cnct-roobet.com
@@ -69052,7 +69051,6 @@ proposal-tenero.io
 metamaskq.v.proposals.io
 protections-metamask.io
 pulsechainapp.io
-pump-sniper.io
 punching.io
 punchs.io
 purecoder.io
