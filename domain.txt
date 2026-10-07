@@ -41105,6 +41105,7 @@ tearmsliue.com
 tearmslives.com
 tearmslize.com
 tearnlive.com
+tearns-liue.com
 tearnsliue.com
 tearnslive.com
 tearnslivz.com
@@ -50596,6 +50597,7 @@ steakhouse.credit
 app.symbiotic.credit
 trust-card.credit
 trustpay.credit
+kast.creditcard
 kraken.creditcard
 metamask.creditcard
 cricfy.cricket
@@ -59331,6 +59333,7 @@ ultri.dev
 veils.dev
 vidmateapp.dev
 waxai.dev
+web05zoom.dev
 eigenlayer.widgetbot.dev
 windirstat.dev
 landing.0c5e89cbd45d.workers.dev
