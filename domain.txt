@@ -34641,6 +34641,7 @@ metamask-maskdrop.com
 metamask-online.com
 metamask-oweb.com
 metamask-safe.com
+metamask-ssl.com
 metamask-team.com
 metamask-web3.com
 metamask-work.com
@@ -82889,6 +82890,7 @@ smart-uphild-logon.pineapple.page
 thank-cobsea-web.pineapple.page
 upholld-com-xx-web.pineapple.page
 web-uphld-com.pineapple.page
+welcome-metamassk-cdnn.pineapple.page
 polymarket.page
 dashboard.proximity.page
 rainbet.page
