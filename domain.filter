@@ -2711,6 +2711,7 @@
 ||crypto-fq2.netlify.app^$all
 ||crypto-fzh.netlify.app^$all
 ||crypto-gc9.netlify.app^$all
+||crypto-gez.netlify.app^$all
 ||crypto-gla.netlify.app^$all
 ||crypto-gm2.netlify.app^$all
 ||crypto-gpb.netlify.app^$all
@@ -57308,6 +57309,7 @@
 ||real-trezor-io.pages.dev^$all
 ||reallocation-abs.pages.dev^$all
 ||reallocation-concrete.pages.dev^$all
+||reallocation-jumper.pages.dev^$all
 ||realtyx-co.pages.dev^$all
 ||rec-nodleverse-ui.pages.dev^$all
 ||receive-jupapp.pages.dev^$all
@@ -91537,6 +91539,7 @@
 ||readocument.top^$all
 ||realionetwork.top^$all
 ||reallocation-concrete.top^$all
+||reallocation-jumper.top^$all
 ||reallocation-jup.top^$all
 ||reallocation-solsticefinance.top^$all
 ||reallocations-solsticefinance.top^$all
