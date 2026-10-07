@@ -14242,7 +14242,6 @@ coinbase11.cc
 coinbase1ty.cc
 ww38.coinbasecom.cc
 coinbiged.cc
-coincake.cc
 coincommerce.cc
 coinempire.cc
 coinexsel.cc
@@ -83758,7 +83757,6 @@ mexicanuncairdrop.pro
 mgba.pro
 microstrategy.pro
 minecrypto.pro
-gemini-proxy.mixio.pro
 mixtum.pro
 modo-og.pro
 monarchmoney.pro
