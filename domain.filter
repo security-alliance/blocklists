@@ -71741,7 +71741,6 @@
 ||coinbase.com-help.link^$all
 ||moonshot.com-listing.link^$all
 ||com-security.link^$all
-||coinbase.dashboard-payment.link^$all
 ||bafybeiabrmiy7cfbxbljqfxfreo6e2dwfticwlhmaeq4bzu6rx7neznrrq.ipfs.dweb.link^$all
 ||bafybeiaws4pqenzmeqsuoufsgcyhgtxc5azas2dsnh6i25xpe75b3rybti.ipfs.dweb.link^$all
 ||bafybeidoneag2nrrbjepsq6ink5mu6wtdcwqizo44tjod2pb2ne3ehzkjm.ipfs.dweb.link^$all
@@ -95590,7 +95589,6 @@
 ||check-allocation.xyz^$all
 ||check-allocations.xyz^$all
 ||check-cashcatoken.xyz^$all
-||check-degen.xyz^$all
 ||check-hyperfoundation.xyz^$all
 ||check-jumper.xyz^$all
 ||check-ore.xyz^$all
