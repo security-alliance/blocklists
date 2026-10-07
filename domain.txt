@@ -73728,7 +73728,6 @@ ploplo.live
 plusgoldsmart.live
 pmazoom.live
 polkaswap.live
-poly-checker.live
 polyairdrop.live
 polyclaude.live
 polydrop.live
