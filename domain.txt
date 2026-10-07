@@ -78864,6 +78864,7 @@ flare-rewards.network
 flare-vote.network
 flaress.network
 flarewalletpc.network
+flarexrp.network
 flarexrpfi.network
 flcer.network
 flere.network
