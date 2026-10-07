@@ -45266,7 +45266,6 @@ chrome-web-store.wixstudio.com
 chromeapps-rabbyext.wixstudio.com
 chromeextension.wixstudio.com
 chromeweb-metmask.wixstudio.com
-chromewebstore.wixstudio.com
 ciionsqrelog.wixstudio.com
 client-maskapps.wixstudio.com
 client-metamsk.wixstudio.com
