@@ -52802,7 +52802,6 @@ claims-astranova.pages.dev
 claims-eigenlayer.pages.dev
 claims-eigenlayerfoundation.pages.dev
 claims-eigenlayerfoundations.pages.dev
-claims-jup-ag.pages.dev
 claims-ledger.pages.dev
 claims-pepeunchained.pages.dev
 claims-saitachain.pages.dev
