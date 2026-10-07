@@ -11121,7 +11121,6 @@ xrplabs.app
 xrpswap.app
 xtokenweb.app
 xversewalletpc.app
-xwalletcoin.app
 eigenlayer.xyz-restake.app
 yakkamon.app
 yomix.app
