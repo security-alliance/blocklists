@@ -51489,6 +51489,7 @@
 ||1-ramsesapp.pages.dev^$all
 ||1-reallocation-abs.pages.dev^$all
 ||1-saturncredit.pages.dev^$all
+||1-tge-predict.pages.dev^$all
 ||1-zamaprotocol.pages.dev^$all
 ||1-zano-6vl.pages.dev^$all
 ||1-zipcoin.pages.dev^$all
@@ -52754,6 +52755,7 @@
 ||claimeigen-94m.pages.dev^$all
 ||claimeigenlayer.pages.dev^$all
 ||claimetfswap-com.pages.dev^$all
+||claimflare-network.pages.dev^$all
 ||claimfront2.pages.dev^$all
 ||claimgoat.pages.dev^$all
 ||claimgoose.pages.dev^$all
@@ -55190,7 +55192,6 @@
 ||kukai-3i0.pages.dev^$all
 ||kyomachiya-kaede-com.pages.dev^$all
 ||lab-pulse.pages.dev^$all
-||labs-alkimi-m.pages.dev^$all
 ||ladger-co-account-set-up.pages.dev^$all
 ||ladgr-en-ledgr.pages.dev^$all
 ||lahore-ledger-repo.pages.dev^$all
@@ -65903,6 +65904,7 @@
 ||ladymarian.info^$all
 ||laird-exchange.info^$all
 ||lantz-exchange.info^$all
+||launchprtcl.info^$all
 ||leapwallet.info^$all
 ||ledger-apps.info^$all
 ||ledger-com.info^$all
