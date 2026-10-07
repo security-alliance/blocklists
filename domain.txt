@@ -34954,6 +34954,7 @@ micrustsoft.com
 micrxsoft.com
 micsoftsuite.com
 micsoftweb.com
+micvosoft.com
 token-events.midas-redeem.com
 midasdep.com
 midenbrowserwallet.com
@@ -46059,7 +46060,6 @@ exodus-web3portal.wixstudio.com
 exodus-webswallet.wixstudio.com
 exodus-webwallet.wixstudio.com
 exodusapp-en.wixstudio.com
-exoduse-web3.wixstudio.com
 exodusenn.wixstudio.com
 exodusenus.wixstudio.com
 exodusexodus.wixstudio.com
@@ -102458,7 +102458,6 @@ www-abs.xyz
 www-aerodrorne.xyz
 www-assface.xyz
 www-asteroid.xyz
-www-aztec.xyz
 www-boar.xyz
 www-brainlet.xyz
 www-bulltheleader.xyz
