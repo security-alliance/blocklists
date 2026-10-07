@@ -81507,6 +81507,7 @@ larptoken.org
 lastmilelabs.org
 launchmeteora.org
 eigen.layer-foundation.org
+layer2s.org
 eigen.layerfoundation.org
 layerzerowallet.org
 lbstr.org
