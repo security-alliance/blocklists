@@ -78271,6 +78271,7 @@ v3-balancer.net
 v3-changelly.net
 v3-debirdge.net
 v3-ethena.net
+v3-lido.net
 v3-sushi.net
 v3-uniswap.net
 v4-aave.net
