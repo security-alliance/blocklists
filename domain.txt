@@ -13612,7 +13612,7 @@ pyths.cam
 q3-banana.cam
 qianbaouniswap.cam
 app.raacs.cam
-rayis.cam
+app.rayis.cam
 regtainow.cam
 event.rendernetwork.cam
 rewards-skyeco.cam
@@ -25240,7 +25240,6 @@ certik-live.com
 cesardeairtm.com
 financv2.ceshibba.com
 cestwin.com
-cetbridge.com
 cetbridged.com
 cetbridging.com
 cetusspace.com
@@ -38873,7 +38872,6 @@ reward-flarenetwork.com
 reward-flyingtulip.com
 reward-helpdesk.com
 reward-jamongplus.com
-reward-memedadacoin.com
 reward-miucoin.com
 reward-morpho.com
 reward-msk.com
@@ -62051,7 +62049,6 @@ crates-revenuefamily.fun
 crates-stonk.fun
 crates-usepaid.fun
 create-onsol.fun
-creator-livepump.fun
 crypto-airdrop.fun
 crypto-sola.fun
 cryptofix.fun
@@ -101392,7 +101389,6 @@ v1-d2.xyz
 v2-aave.xyz
 v2-elgenlayer.xyz
 v2-flop.xyz
-v2-guild.xyz
 v2-ihujs3.xyz
 v2-jb1asj.xyz
 16bz5.v2-morpholabs.xyz
