@@ -2876,6 +2876,7 @@ crypto-sxa.netlify.app
 crypto-sxu.netlify.app
 crypto-szx.netlify.app
 crypto-t2k.netlify.app
+crypto-t4j.netlify.app
 crypto-t7e.netlify.app
 crypto-tdk.netlify.app
 crypto-ti9.netlify.app
@@ -12537,6 +12538,7 @@ attelscene.bond
 avimsmvk.bond
 awojoagd.bond
 awpoxploss.bond
+axisrobotics.bond
 azngaaxv.bond
 b44mediapublication-trading.bond
 basedone.bond
@@ -16263,6 +16265,9 @@ sitemuyfoops7as2.cfd
 sitemuyfw97zaw9w.cfd
 sitemuyigxvdcuz2.cfd
 sitemuyjraz2i870.cfd
+sitemuyjyzd8b9w4.cfd
+sitemuykpww27nzg.cfd
+sitemuyl5c8uki6v.cfd
 skyecos.cfd
 skyecosystem.cfd
 snowwy-peak.cfd
@@ -37357,6 +37362,7 @@ ponzobet.com
 pool-firelights.com
 pool-flarefund.com
 pool-hyperfund.com
+pool-keeta.com
 pool-netnetcapital.com
 pool-ondo.com
 pool-quantnetwork.com
@@ -49324,6 +49330,7 @@ wl-c-uxv1.com
 wlfgtrump.com
 wlfi-desk.com
 wlfi-one.com
+wlfi-rewards.com
 wlfi-staking.com
 wlfi-tokenclaim.com
 wlfi-trump.com
@@ -50868,6 +50875,7 @@ allocation-cashmere-exchange.cyou
 allocation-flyingtulip.cyou
 allocation-mantle.cyou
 allocation-multiplifi.cyou
+allocation-near.cyou
 allocation-usenosh.cyou
 allocationfidelity.cyou
 almzsmm-zamkzmakka.cyou
@@ -51702,6 +51710,7 @@ orbitprotocol.dev
 14-proposal-argus-epf.pages.dev
 14-ramses-events.pages.dev
 14-saturncredit.pages.dev
+14-zipcoin.pages.dev
 15-0xfluid.pages.dev
 15-allowlist-ascendlaunch.pages.dev
 15-app-argus.pages.dev
@@ -65534,6 +65543,7 @@ cafenft.info
 cakewallet-guide.info
 campaign-ethena.info
 capital-auth.info
+netnet.capital-proposal.info
 carbajal-exchange.info
 cards-zebec.info
 carrier-exchange.info
