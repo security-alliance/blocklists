@@ -10152,6 +10152,7 @@ sjeceh-8moeqtmc.vercel.app
 smart-contract-toolkit.vercel.app
 smartsoltokenfix.vercel.app
 smithassembly.vercel.app
+sol-incinerator-solslugs.vercel.app
 solana-airdrop-devnet.vercel.app
 solana-lottery-seven.vercel.app
 solana-pay-nft-minter.vercel.app
