@@ -17636,6 +17636,7 @@ io-exchange.cloud
 orca.iruxu.cloud
 kittenswap.cloud
 kraaken.cloud
+phantom.larpshop.cloud
 launch-flarefn.cloud
 launch-flarenetworks.cloud
 ledger-com.cloud
@@ -30721,7 +30722,6 @@ globalsecurealliance.com
 globalshashkey.com
 globalstandardtrade.com
 globaltronlink.com
-globalwrs.com
 globalzoominfoleads.com
 globeinchain.com
 globeinvestfx.com
@@ -79930,7 +79930,6 @@ legalhelp-x.online
 legalrecord-x.online
 legalteam-x.online
 levell9.online
-lightchainai-mainnet.online
 linkseru.online
 linksflrsyncs.online
 listadao.online
