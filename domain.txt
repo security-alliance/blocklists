@@ -91319,7 +91319,6 @@ laptop-token.top
 laptoptoken.top
 layerai-migration.top
 layerzero-whitelist.top
-defi.lc-merchantpro.top
 lcnmarket.top
 ledger-support.top
 legitdogeminer.top
