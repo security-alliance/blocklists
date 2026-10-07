@@ -6403,6 +6403,7 @@
 ||portal-moonshot-obw.netlify.app^$all
 ||portal-moonshot-oco.netlify.app^$all
 ||portal-moonshot-oek.netlify.app^$all
+||portal-moonshot-orx.netlify.app^$all
 ||portal-moonshot-oty.netlify.app^$all
 ||portal-moonshot-owk.netlify.app^$all
 ||portal-moonshot-oy1.netlify.app^$all
@@ -6465,6 +6466,7 @@
 ||portal-moonshot-xt1.netlify.app^$all
 ||portal-moonshot-xz3.netlify.app^$all
 ||portal-moonshot-y29.netlify.app^$all
+||portal-moonshot-y5b.netlify.app^$all
 ||portal-moonshot-yaw.netlify.app^$all
 ||portal-moonshot-yhr.netlify.app^$all
 ||portal-moonshot-ypy.netlify.app^$all
@@ -6476,6 +6478,7 @@
 ||portal-moonshot-z3f.netlify.app^$all
 ||portal-moonshot-z6j.netlify.app^$all
 ||portal-moonshot-zh5.netlify.app^$all
+||portal-moonshot-znr.netlify.app^$all
 ||portal-moonshot-zpl.netlify.app^$all
 ||portal-moonshot-zt7.netlify.app^$all
 ||portal-moonshot-zy4.netlify.app^$all
@@ -12498,6 +12501,7 @@
 ||awpoxploss.bond^$all
 ||azngaaxv.bond^$all
 ||b44mediapublication-trading.bond^$all
+||basedone.bond^$all
 ||basefxo.bond^$all
 ||basepro.bond^$all
 ||bdiydapu.bond^$all
@@ -50929,6 +50933,7 @@
 ||texesxqlrd.cyou^$all
 ||texetlxpra.cyou^$all
 ||texeuxznra.cyou^$all
+||tge-dopplerfinance.cyou^$all
 ||theindexfinance.cyou^$all
 ||thoughg.cyou^$all
 ||tkai1.cyou^$all
@@ -51378,6 +51383,7 @@
 ||11-derives.pages.dev^$all
 ||11-derivexyz-6ky.pages.dev^$all
 ||11-ethenamoney.pages.dev^$all
+||11-fluidio.pages.dev^$all
 ||11-gov-ramses.pages.dev^$all
 ||11-hyperlinkapp-86x.pages.dev^$all
 ||11-hyperlinkxyz-e79.pages.dev^$all
@@ -51408,6 +51414,7 @@
 ||13-0xfluid.pages.dev^$all
 ||13-allowlist-ascendlaunch.pages.dev^$all
 ||13-app-argus.pages.dev^$all
+||13-argus-pad.pages.dev^$all
 ||13-argusworld.pages.dev^$all
 ||13-argusworlds-933.pages.dev^$all
 ||13-cantonnetwork.pages.dev^$all
@@ -51423,6 +51430,7 @@
 ||13-saturncredit.pages.dev^$all
 ||13-zipcoin.pages.dev^$all
 ||14-0xfluid.pages.dev^$all
+||14-allowlist-ascendlaunch.pages.dev^$all
 ||14-app-argus.pages.dev^$all
 ||14-argusworld.pages.dev^$all
 ||14-argusworlds-933.pages.dev^$all
@@ -51432,6 +51440,7 @@
 ||14-gov-ramses.pages.dev^$all
 ||14-hyperlinkapp-86x.pages.dev^$all
 ||14-hyperlinkxyz-e79.pages.dev^$all
+||14-predictfun.pages.dev^$all
 ||14-proposal-argus-epf.pages.dev^$all
 ||14-ramses-events.pages.dev^$all
 ||14-saturncredit.pages.dev^$all
@@ -51440,6 +51449,7 @@
 ||15-argusworld.pages.dev^$all
 ||15-argusworlds-933.pages.dev^$all
 ||15-ethenamoney.pages.dev^$all
+||15-gov-ramses.pages.dev^$all
 ||15-hyperlinkapp-86x.pages.dev^$all
 ||15-hyperlinkxyz-e79.pages.dev^$all
 ||15-proposal-argus-epf.pages.dev^$all
@@ -51456,6 +51466,7 @@
 ||17-argusworld.pages.dev^$all
 ||17-argusworlds-933.pages.dev^$all
 ||17-ramses-events.pages.dev^$all
+||17-saturncredit.pages.dev^$all
 ||18-0xfluid.pages.dev^$all
 ||18-argusworld.pages.dev^$all
 ||18-argusworlds-933.pages.dev^$all
@@ -51507,6 +51518,7 @@
 ||20-argusworld.pages.dev^$all
 ||20-argusworlds-933.pages.dev^$all
 ||20-ramses-events.pages.dev^$all
+||21-0xfluid.pages.dev^$all
 ||21-ramses-events.pages.dev^$all
 ||22-argusworld.pages.dev^$all
 ||22-ramses-events.pages.dev^$all
@@ -51520,6 +51532,7 @@
 ||26-ramses-events.pages.dev^$all
 ||27-argusworld.pages.dev^$all
 ||27-ramses-events.pages.dev^$all
+||28-argusworld.pages.dev^$all
 ||28-ramses-events.pages.dev^$all
 ||3-0xfluid.pages.dev^$all
 ||3-aeroxyz-3eu.pages.dev^$all
@@ -51533,6 +51546,7 @@
 ||3-cantonnetwork.pages.dev^$all
 ||3-derive.pages.dev^$all
 ||3-derives.pages.dev^$all
+||3-derivexyz.pages.dev^$all
 ||3-derivexyz-1y2.pages.dev^$all
 ||3-derivexyz-6ky.pages.dev^$all
 ||3-ecosystem-argus.pages.dev^$all
@@ -51639,6 +51653,8 @@
 ||6-predictfun.pages.dev^$all
 ||6-proposal-argus.pages.dev^$all
 ||6-proposal-argus-epf.pages.dev^$all
+||6-proposal-derive.pages.dev^$all
+||6-proposal-globaldollar.pages.dev^$all
 ||6-proposal-zama.pages.dev^$all
 ||6-ramses-events.pages.dev^$all
 ||6-reallocation-abs.pages.dev^$all
@@ -51664,6 +51680,7 @@
 ||7-hyperlinkapp-86x.pages.dev^$all
 ||7-hyperlinkxyz-e79.pages.dev^$all
 ||7-netnet.pages.dev^$all
+||7-pons.pages.dev^$all
 ||7-predictfun.pages.dev^$all
 ||7-proposal-argus.pages.dev^$all
 ||7-proposal-argus-epf.pages.dev^$all
@@ -51677,10 +51694,12 @@
 ||8-0xfluid.pages.dev^$all
 ||8-allowlist-ascendlaunch.pages.dev^$all
 ||8-app-argus.pages.dev^$all
+||8-argus.pages.dev^$all
 ||8-argus-pad.pages.dev^$all
 ||8-argusworld.pages.dev^$all
 ||8-argusworlds-933.pages.dev^$all
 ||8-cantonnetwork.pages.dev^$all
+||8-derive.pages.dev^$all
 ||8-derives.pages.dev^$all
 ||8-derivexyz-6ky.pages.dev^$all
 ||8-ecosystem-argus.pages.dev^$all
@@ -51689,11 +51708,13 @@
 ||8-gov-ramses.pages.dev^$all
 ||8-hyperlinkapp-86x.pages.dev^$all
 ||8-hyperlinkxyz-e79.pages.dev^$all
+||8-netnet.pages.dev^$all
 ||8-predictfun.pages.dev^$all
 ||8-proposal-argus.pages.dev^$all
 ||8-proposal-argus-epf.pages.dev^$all
 ||8-proposal-zama.pages.dev^$all
 ||8-ramses-events.pages.dev^$all
+||8-reallocation-abs.pages.dev^$all
 ||8-saturncredit.pages.dev^$all
 ||8-zamaprotocol.pages.dev^$all
 ||8-zipcoin.pages.dev^$all
@@ -51715,7 +51736,9 @@
 ||9-hyperlinkapp-86x.pages.dev^$all
 ||9-hyperlinkxyz-e79.pages.dev^$all
 ||9-predictfun.pages.dev^$all
+||9-proposal-argus.pages.dev^$all
 ||9-proposal-argus-epf.pages.dev^$all
+||9-proposal-zama.pages.dev^$all
 ||9-ramses-events.pages.dev^$all
 ||9-saturncredit.pages.dev^$all
 ||9-zamaprotocol.pages.dev^$all
@@ -59970,6 +59993,7 @@
 ||order-idapp6.digital^$all
 ||origin.osero.digital^$all
 ||pancakeswaps.digital^$all
+||paribu-app.digital^$all
 ||pendlefi.digital^$all
 ||platform-x.digital^$all
 ||pollymarket.digital^$all
@@ -96413,6 +96437,7 @@
 ||earn-flareecosystem.xyz^$all
 ||earn-flaregovernance.xyz^$all
 ||earn-grass.xyz^$all
+||earn-lighter.xyz^$all
 ||earn-otc.xyz^$all
 ||earn-usepaid.xyz^$all
 ||earn-xrpl.xyz^$all
@@ -100921,6 +100946,7 @@
 ||take-flarenetworks.xyz^$all
 ||take-holder.xyz^$all
 ||take-holders.xyz^$all
+||take-lighter.xyz^$all
 ||take-reward.xyz^$all
 ||take-rewards.xyz^$all
 ||take-usepaid.xyz^$all
