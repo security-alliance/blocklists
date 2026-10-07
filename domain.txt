@@ -62983,7 +62983,6 @@ airdropalert.guru
 approvedd.guru
 approvedguru.guru
 aproved.guru
-app.astar.guru
 dashboard.astar.guru
 bases.guru
 event.caps.guru
