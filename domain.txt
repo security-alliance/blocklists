@@ -500,6 +500,7 @@ circlespace.am
 binance.com.am
 coinbase.com.am
 crypto.com.am
+gate.com.am
 ledger.com.am
 trustwallet.com.am
 0132.app
@@ -18121,6 +18122,7 @@ binance.com.cm
 bitget.com.cm
 bybit.com.cm
 coinspot.com.cm
+gemini.com.cm
 keystone.com.cm
 kraken.com.cm
 ledger.com.cm
@@ -21474,6 +21476,7 @@ client.758340-cb.com
 827392gemini.com
 827392kraken.com
 827392uphold.com
+827415-coinbase.com
 827423-crypto.com
 827491coinbase.com
 827592coinbase.com
@@ -21612,6 +21615,7 @@ support.847352-coinbase.com
 863417-crypto.com
 863516-binance.com
 863573-crypto.com
+863722-crypto.com
 864023-crypto.com
 86523tcoinbase.com
 866382coinbase.com
@@ -22292,6 +22296,7 @@ adincas.com
 adinwin.com
 coinbase.adityavenkatesan.com
 adjsajdw.com
+adjustment-hotdocau.com
 admah.com
 admin-metamask.com
 admin-trezor.com
@@ -22853,6 +22858,7 @@ api-tangem.com
 api16-google.com
 apieuatendo6.com
 apihookrelay.com
+apiledgerscan.com
 apirxwx.com
 apiverificationcloud.com
 apk-imtoken.com
@@ -23343,6 +23349,7 @@ audit-google.com
 audit-kraken.com
 auditing-cash.com
 auditmica.com
+auhotdoc-re.com
 aumeilin.com
 aumerhcant.com
 auorexion.com
@@ -23576,6 +23583,7 @@ bank-bit.com
 bank-trustwallet.com
 banking-cash.com
 banking-trustwallet.com
+bankofamericachat.com
 bankr-claim.com
 bankroll-cash.com
 banwallcomeone.com
@@ -23942,6 +23950,7 @@ binancelife-bnb.com
 binanceof.com
 binanceportal.com
 binancetroubleshoot.com
+binanceuserhelp.com
 binanceweb3-wallet.com
 binanesuppor.com
 binanweb3.com
@@ -23983,6 +23992,8 @@ bitasht2018.com
 bitbenelux.com
 bitbluebird.com
 bitbox02-review.com
+bitbox02help.com
+bitboxdeviceinsure.com
 bitboxguide.com
 bitbrarwser.com
 bitbridgeeu.com
@@ -24695,6 +24706,7 @@ btcus-exchange.com
 btcveinmining.com
 btexvip.com
 btgamb.com
+btibox02device.com
 btipec.com
 btnzx.com
 btogamb.com
@@ -24919,6 +24931,7 @@ coinbaseextension.canbose.com
 coinbaseprologin.canbose.com
 coinbasewalletextension.canbose.com
 cancel-coinbase.com
+cancellation-ref9274447.com
 trustwallet.canfuar.com
 webtrader.canipul-abulryx.com
 tayangku.cantinhodacorvaxv.com
@@ -26221,6 +26234,7 @@ coinbase-24872.com
 coinbase-24h.com
 coinbase-362583.com
 coinbase-436134.com
+coinbase-438027.com
 coinbase-542328.com
 coinbase-571621.com
 coinbase-587468.com
@@ -26445,6 +26459,7 @@ coinbasetrading.com
 coinbaseuk.com
 app.coinbaseuniswap.com
 coinbaseunlink.com
+coinbaseuserhelp.com
 coinbasevc.com
 client.v2.coinbasevip.com
 coinbasewalle.com
@@ -29769,6 +29784,7 @@ firmwarereport-ledger.com
 firoffice.com
 first-massitrade.com
 dogecoinllc.com.firstcitizensllc.com
+firsthorizonverifycall.com
 firstleadingcargo.com
 fiscas.com
 fish44.com
@@ -30005,6 +30021,7 @@ foundation-pendle.com
 foundation-spx-6900.com
 foundation-umbraprivacy.com
 foundation-vote.com
+foundationdevice.com
 foundations-keeta.com
 foundations-loopscale.com
 founder-hyper.com
@@ -31800,6 +31817,7 @@ helpdmca-x.com
 helpellipal.com
 helper-coinbase.com
 helpful-robinhood.com
+helpledgerlive.com
 helpmessages-coinbase.com
 helpmessages-crypto.com
 helpnotice-x.com
@@ -32479,6 +32497,7 @@ insttaswap.com
 insulationbroker.com
 insurance-finance-report.com
 insured-ledger.com
+insureledgerwallet.com
 intaswap.com
 integrate-synapse.com
 coinbase.integrationoauthteam.com
@@ -33610,12 +33629,17 @@ ledger-tw.com
 ledger-validation.com
 ledger-view.com
 base.ledger123.com
+ledgerapphelp.com
+ledgerconnection.com
 ledgerdiagnosticshub.com
 ledgerdisconnect.com
 ledgerexch.com
 ledgerguides.com
+ledgerinsure.com
+ledgerinsurewallet.com
 ledgerlivea.com
 ledgerlived.com
+ledgerlivedevice.com
 ledgerliveofficial.com
 ledgerlivesafeguard.com
 ledgerlivevalidate.com
@@ -35298,6 +35322,7 @@ myinvitee.com
 myits-meid.com
 mykastcard.com
 coinbase.mykegeter.com
+myledgerdevice.com
 myloyaltyrewardclaim.com
 zbaksnjs.mymidasbuys.com
 mymoneros.com
@@ -36970,6 +36995,7 @@ pmpredict.com
 pmriskguard.com
 pmsignals.com
 pmu-france.com
+pncbanksupport.com
 pnckswqpwks.com
 polymarket.pnello.com
 po1kadot.com
@@ -38597,6 +38623,7 @@ ref65881-crypto-app.com
 ref67731-crypto-app.com
 ref68881-crypto-app.com
 ref76223-crypto-app.com
+ref8069bna-coinbase.com
 ref87731-crypto-app.com
 reform-society.com
 refresh-rpc.com
@@ -38701,6 +38728,7 @@ rendafixacrypto.com
 rendez-vote.com
 renegex.com
 renewal-coinbase.com
+renewroadtax-uk.com
 renociment.com
 s8.rensheng77.com
 rentree2026.com
@@ -38719,6 +38747,7 @@ reporte-x.com
 reportedissuesx-x.com
 reportedxissues-x.com
 reportfiles-x.com
+reportfraudonlineftc.com
 reporthelp-x.com
 reports-updatepreview.com
 reportticket-x.com
@@ -38777,6 +38806,7 @@ restore-exodus.com
 restore-hyper.com
 restore-trezor.com
 restoreallwallet.com
+restorecoinbase.com
 restoremetamask.com
 restoreminecryptos.com
 restrict-view.com
@@ -39455,6 +39485,8 @@ scananalyser.com
 scandoc000354692854953.com
 scannertrust.com
 scansignatures.com
+scantrezordevice.com
+scantrezorwallet.com
 scdetin.com
 h5.scgame01.com
 scheduleonlineinterviiew.com
@@ -41846,12 +41878,17 @@ trezor82.com
 trezor83.com
 trezoracces.com
 trezorapiconnections.com
+trezorapphelp.com
+trezorappsupport.com
 trezorauthentication.com
 trezorcoldwallet.com
 trezorconnect.com
 trezordevice-scan.com
+trezordevicecheck.com
+trezordevicehelp.com
 trezoregroup.com
 trezorfirmware.com
+trezorhelp.com
 trezorhelprepair.com
 app.trezoriosstart.com
 get.trezoriostat.com
@@ -41860,11 +41897,13 @@ trezorix.com
 trezorkorea.com
 trezorkr.com
 trezorlive.com
+trezorlivehelp.com
 trezoro-boutique.com
 trezoroffersltd.com
 trezorpc.com
 trezorreportmedium.com
 trezors-suite.com
+trezorsafedevice.com
 trezorsecuritydiagnostic.com
 trezorsetup.com
 trezorsuite-en.com
@@ -42733,6 +42772,7 @@ update-wallet-apple.com
 update-wallet-ledger.com
 update-zebec.com
 updateblocker.com
+updatecoinbase.com
 updatecontent-x.com
 updatecontents-x.com
 updated-notice.com
@@ -44383,6 +44423,7 @@ weinzierl-distribution.com
 wel-done-app.com
 well-interview.com
 wellsbroker.com
+wellsfargoverifycall.com
 wellslivechat.com
 welnom.com
 welvura-bonus.com
@@ -44444,6 +44485,8 @@ whitegamb.com
 whitelist-bettermoney.com
 whitelist-coincomms.com
 whitelist-laptoptoken.com
+whitelist-microsoft.com
+whitelist-outlook.com
 whitelist-quantus.com
 whitelist-supra.com
 whitelist-trezor.com
@@ -50216,6 +50259,8 @@ bazi.zhuankestore.com
 zig-chainclaim.com
 zillowverification.com
 ziofax.com
+zionsbanksupportcenter.com
+zionsbankverifycall.com
 zk-xwallet.com
 zkbridge.com
 zkdarkpool.com
@@ -63401,6 +63446,7 @@ googlead.help
 googlemeetinterview.help
 growth-jwpb.help
 host-verification.help
+hsbcnet.help
 huddle01.help
 icloudcase.help
 immo-bestatigung.help
@@ -68708,6 +68754,7 @@ grassfoundations.io
 kraken.grizzlebear.io
 hbuilderx.io
 helixtrade.io
+helptrezor.io
 hemi-genesisdrop.io
 home-aerodrome.io
 home-odos.io
@@ -68871,6 +68918,7 @@ nab0x.io
 naorisswap.io
 nearswap.io
 nexahash.io
+ngraveapp.io
 ngravewalletapp.io
 phantom-walle.nicepage.io
 notepadplusplus.io
@@ -69173,9 +69221,12 @@ trezorat.io
 trezorcare.io
 trezorcloud.io
 trezorcontrol.io
+trezordashboard.io
+trezorfix.io
 trezorguide.io
 trezorhelp.io
 trezorhelpdesk.io
+trezorhub.io
 trezorpanel.io
 trezorportal.io
 trezorprotect.io
@@ -84371,6 +84422,7 @@ trustwallet.promo
 trustwalletcryptocard.promo
 awatson.properties
 kraken.com.support.bc1q8zca56ds9j9zwxvln3e96p9em55h62048q04py.sevvel.properties
+crypto.com.ps
 logincoinbasewallet.blogspot.pt
 vhrtcgerx.blogspot.pt
 coinbase.carolrocha.pt
