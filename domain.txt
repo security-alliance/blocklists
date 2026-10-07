@@ -52743,7 +52743,6 @@ claimtrumpcion.pages.dev
 claimyoursol-site.pages.dev
 claimzerion-protocol.pages.dev
 claud-ledgr-eng.pages.dev
-clawdicts-com-e84975.pages.dev
 clicks-ledger-live.pages.dev
 client-ledger-kd.pages.dev
 clou--d-ledgr-eng.pages.dev
@@ -60220,6 +60219,7 @@ sparkfinance.digital
 sparkfinances.digital
 sparkly-netflux.digital
 sparknets.digital
+sparksnet.digital
 stakewise.digital
 starknets.digital
 stonk-fun.digital
