@@ -15075,7 +15075,6 @@ setting.cc
 sf-c.cc
 sfpidn.cc
 sgos.cc
-sgx.cc
 shagqd.cc
 shqbtc.cc
 si-c.cc
