@@ -11027,7 +11027,6 @@ alpha-photon.web.app
 app-avantisfi.web.app
 app-flareclaim-voting.web.app
 app-fxrpfi-flare-8eh83djy83n.web.app
-app-walletconnects.web.app
 app-zerolend.web.app
 appaster-dex.web.app
 applombard-finance.web.app
