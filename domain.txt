@@ -6811,6 +6811,7 @@ rad-bonbon-49f343.netlify.app
 realvisionpartnerships.netlify.app
 replicasitiocoinbasebootstrap.netlify.app
 restoremtamaskwallet.netlify.app
+reward-claim-drop.netlify.app
 risingcommunitypollresults-soln.netlify.app
 robinhood-1p5gljh0.netlify.app
 robinhood-2y4ckl8w.netlify.app
@@ -13087,6 +13088,7 @@ rgobepgive.bond
 rgqwxhnp.bond
 rhduornc.bond
 riseup.bond
+river-vip.bond
 rlcfbowd.bond
 roajnetwork.bond
 rolencin.bond
