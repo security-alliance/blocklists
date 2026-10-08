@@ -81468,6 +81468,7 @@ ethereum-2.org
 ethereum-events.org
 ethereum-institute.org
 ethereum-qr-code-generator.org
+ethereum-wallet.org
 ethereum1.org
 ethereumclassicwallet.org
 ethereumcoins.org
