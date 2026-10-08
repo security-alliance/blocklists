@@ -82952,7 +82952,6 @@ swap-jup.org
 swap-trust.org
 swap-unswap.org
 swapcow.org
-swotai.org
 swtrading.org
 synfutures-dex.org
 systemnetblockchain.org
