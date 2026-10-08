@@ -862,6 +862,7 @@ coinstats-desktop.app
 com-access-start.app
 com-accounts-auth.app
 com-app-start.app
+com-call.app
 com-devices-support.app
 com-find-device.app
 com-find-devices.app
@@ -41272,6 +41273,8 @@ tairnet.com
 take-monad.com
 takeover-x.com
 tako356.com
+talk04eu.com
+talk05eu.com
 talk05web.com
 talk06web.com
 talkwithbase.com

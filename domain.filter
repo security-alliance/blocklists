@@ -862,6 +862,7 @@
 ||com-access-start.app^$all
 ||com-accounts-auth.app^$all
 ||com-app-start.app^$all
+||com-call.app^$all
 ||com-devices-support.app^$all
 ||com-find-device.app^$all
 ||com-find-devices.app^$all
@@ -41272,6 +41273,8 @@
 ||take-monad.com^$all
 ||takeover-x.com^$all
 ||tako356.com^$all
+||talk04eu.com^$all
+||talk05eu.com^$all
 ||talk05web.com^$all
 ||talk06web.com^$all
 ||talkwithbase.com^$all
