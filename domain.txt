@@ -9227,7 +9227,6 @@ dbanks.vercel.app
 defi-on-arc.vercel.app
 definitive-electronics-qyjl.vercel.app
 degen-claimer.vercel.app
-degen-safe-v2.vercel.app
 degenassetorganization.vercel.app
 deq-fi.vercel.app
 destra-landing-page.vercel.app
