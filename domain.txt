@@ -33117,6 +33117,7 @@ join-flarenetwork.com
 join-flarenetworks.com
 join-google-meet.com
 join-investor-signals.com
+join-invite.com
 join-live-video-chat.com
 join-maker.com
 join-meeting-now.com
@@ -33138,15 +33139,18 @@ joingooglemeetcalls.com
 joingooglemeeting.com
 joingooglemeetingcall.com
 joinimeeting.com
+joiningmeet.com
 joinmeetingsinvites.com
 joinmeetlive.com
 joinmeetrue.com
+joinonline-meeting.com
 joins-flarenetwork.com
 joins-megaeth.com
 joinsmeetinginvites.com
 jointeamsmsconline.com
 jointeamsplus.com
 jointeamstack.com
+jointhezoomroom.com
 jointmeetingpoint.com
 jointraderstalk.com
 joinwebcall.com
@@ -41369,6 +41373,7 @@ teams-onlinemicrosoft.com
 teams-video-calls-meetup-scheduled-today.com
 teams02eu.com
 teams02live.com
+teams04eu.com
 teams05live.com
 teams06live.com
 teams07live.com
@@ -41391,6 +41396,7 @@ teamsliva.com
 teamslivesonline-web.com
 teamslivr.com
 teamslivx.com
+teamsmeeting-invitation.com
 teamsmeetings.com
 teamsmeetingsetup.com
 teamsmicros.com
@@ -64967,6 +64973,7 @@ swaptether.icu
 symbiotic.icu
 tambet-bonus.icu
 teams-meeting.icu
+teams-meeting-invite.icu
 termmaxfi.icu
 test-domains.icu
 test189.icu
