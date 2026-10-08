@@ -71223,7 +71223,6 @@ s-hadid.ir
 panel.starknetlabs.ir
 bitget.irish
 customs-id.irish
-money.irish
 rainbet.irish
 97ee6.blogspot.is
 blogr124543.blogspot.is
@@ -91670,7 +91669,6 @@ moonshoot-vote.top
 moonshoottools.top
 moonshot-awards.top
 moonshot-coins.top
-moonshot-listed.top
 moonshot-poll.top
 moonshot-voting.top
 moonshotcommunitylist.top
@@ -98244,7 +98242,6 @@ governance-pharos.xyz
 governance-pieverse.xyz
 governance-plasma.xyz
 governance-pufferfi.xyz
-governance-raac.xyz
 governance-redstone.xyz
 governance-solsticefinance.xyz
 governance-soniclabs.xyz
@@ -98714,7 +98711,6 @@ join-apyxfi.xyz
 join-ascendlaunch.xyz
 join-asterdex.xyz
 join-citrea.xyz
-join-cow.xyz
 join-cryptsync.xyz
 join-dachain.xyz
 join-eigencloud.xyz
