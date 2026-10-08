@@ -35079,7 +35079,6 @@ microsoft-desk.com
 microsoft-edgew.com
 microsoft-edu-tw.com
 microsoft-en-us-si.com
-microsoft-ext.com
 microsoft-login-back.com
 microsoft-login-secure.com
 microsoft-o365.com
@@ -35107,7 +35106,6 @@ microsoftappstudio.com
 microsoftauthenticatorappdownload.com
 microsoftauthorize.com
 microsoftauthverifiy.com
-microsoftcloudbackup.com
 microsoftconnect.com
 microsoftdot.com
 microsoftdynamicsexpert.com
