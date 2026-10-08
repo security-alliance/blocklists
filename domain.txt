@@ -525,10 +525,16 @@ lfsoneium-1aqt.ipfs.4everland.app
 59185.app
 60195.app
 60215.app
+6294c1.app
+6294hn1.app
 634910.app
 6719.app
+68kjc1.app
+68kjgx1.app
 69102.app
 69718.app
+77713gd1.app
+77731dh1.app
 7zip.app
 815998.app
 824998.app
@@ -14491,6 +14497,7 @@ e-ca.cc
 e-fin.cc
 bam.earz.cc
 eba-support.cc
+ebglf69nqxu0e47b0r5b8j.cc
 ebgxqo.cc
 m.ec-markertsork.cc
 pc.ec-markertsork.cc
@@ -15686,6 +15693,7 @@ writabafherreu.cf
 77dapp.cfd
 7base.cfd
 8base.cfd
+9pbijclqqkvk3hbbxd.cfd
 aaaaaarunapi.cfd
 aaaaarunapi.cfd
 aaaarunapi.cfd
@@ -20438,6 +20446,7 @@ arbitrum.2healthandwealth.com
 302741coinbase.com
 302914-crypto.com
 303521-crypto.com
+303977coinbase.com
 304781-coinbase.com
 304991coinbase.com
 305728-crypto.com
@@ -22624,6 +22633,7 @@ ail44.com
 aileensoto.com
 ailocationfinder.com
 ailocations-eigenlayer.com
+aimetadataremove.com
 ainewsportals.com
 aiobais.com
 aiokraken.com
@@ -28161,6 +28171,7 @@ desktops-zoom.com
 desuwex.com
 desxceener.com
 details-aave.com
+details-binance.com
 details-fxrp.com
 details-trustwallet.com
 details-xrpfi.com
@@ -77216,6 +77227,7 @@ claim-nodepay.net
 claim-re.net
 claim-resolv.net
 claim-rewards.net
+claim-stake.net
 claim-wlfi.net
 claiming-hyperliquid.net
 claimone.net
@@ -98102,6 +98114,7 @@ getsolspin.xyz
 getspinsol.xyz
 gettrustcard.xyz
 getzoom.xyz
+ghost-wallet.xyz
 ghostgameru.xyz
 ghqyxlf.xyz
 gift-flr.xyz
