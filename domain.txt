@@ -48856,7 +48856,6 @@ secure-monpay-us.wixstudio.com
 secure-monpaycdn.wixstudio.com
 secure-munpay.wixstudio.com
 secure-munpay-logn.wixstudio.com
-secure-phantom.wixstudio.com
 secure-phantom-web.wixstudio.com
 secure-rabby-cdn.wixstudio.com
 self-base-extension.wixstudio.com
