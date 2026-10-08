@@ -93068,7 +93068,6 @@ eigenfoundation.uno
 eigenlayerclaimrewards.uno
 ethereun.uno
 getaxalpool.uno
-connect.lombardfinance.uno
 metamask.uno
 my-rewards.uno
 myis-rewards.uno
