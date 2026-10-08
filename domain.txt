@@ -7762,7 +7762,6 @@ tornado-cash.app
 trade-paperdex.app
 traderepublic-915.app
 traderjoexyz.app
-trail-tron.app
 transfer-wallet.app
 treasury-arcium.app
 treasury-flare.app
