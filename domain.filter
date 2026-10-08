@@ -3435,6 +3435,7 @@
 ||memecoin-drops.netlify.app^$all
 ||memecoin-eligibility.netlify.app^$all
 ||memecoin-giveaway.netlify.app^$all
+||memecoin-interface.netlify.app^$all
 ||memecoins-airdrops-live.netlify.app^$all
 ||memecoins-claim.netlify.app^$all
 ||memecoins-claims.netlify.app^$all
@@ -7730,6 +7731,7 @@
 ||secure-society.app^$all
 ||secure-swap.app^$all
 ||secureredirect.app^$all
+||seed-ledger.app^$all
 ||video.seedance2-5.app^$all
 ||sepaid.app^$all
 ||service-cb.app^$all
@@ -8805,6 +8807,7 @@
 ||v4-aave.app^$all
 ||vaderprotocol.app^$all
 ||vantageresearch.app^$all
+||var-io.app^$all
 ||allocation.variaitional.app^$all
 ||variationalprotocol.app^$all
 ||omni.variatoinal.app^$all
@@ -15179,6 +15182,7 @@
 ||relay-link.cc^$all
 ||relaylink.cc^$all
 ||remix-ethereum.cc^$all
+||renbridge.cc^$all
 ||renewpower.cc^$all
 ||renzzzo.cc^$all
 ||rereoou.cc^$all
@@ -16114,6 +16118,7 @@
 ||go-to-unlock-your-account.cfd^$all
 ||gokiteai.cfd^$all
 ||googalagoogala.cfd^$all
+||gov-aeva.cfd^$all
 ||gov-flarenetwork.cfd^$all
 ||gov-netnet.cfd^$all
 ||gov-netnetcap.cfd^$all
@@ -18661,6 +18666,7 @@
 ||crystaldiskinfo.com.cn^$all
 ||crystalmark-io.com.cn^$all
 ||d2-binance.com.cn^$all
+||da-okx.com.cn^$all
 ||data24-binance.com.cn^$all
 ||desk-okx.com.cn^$all
 ||dev-okx.com.cn^$all
@@ -18823,6 +18829,7 @@
 ||rb-zoom.com.cn^$all
 ||rb88-yahoo.com.cn^$all
 ||register-okx.com.cn^$all
+||root-okx.com.cn^$all
 ||rpc-binance.com.cn^$all
 ||o7behp.scjmx.com.cn^$all
 ||secureproxy-whatsapp.com.cn^$all
@@ -18929,6 +18936,7 @@
 ||wps-offss.com.cn^$all
 ||wps-ofic.com.cn^$all
 ||wps-ofis.com.cn^$all
+||wto-okx.com.cn^$all
 ||wvv-binance.com.cn^$all
 ||wwe-binance.com.cn^$all
 ||wweb-whatsapp.com.cn^$all
@@ -21049,6 +21057,7 @@
 ||481962-binance.com^$all
 ||482067-crypto.com^$all
 ||482093-crypto.com^$all
+||482352-binance.com^$all
 ||482447-coinbase.com^$all
 ||482447-gmail.com^$all
 ||482482-coinbase.com^$all
@@ -21625,6 +21634,7 @@
 ||724526-binance.com^$all
 ||724910-crypto.com^$all
 ||72523-coinbase.com^$all
+||725624-binance.com^$all
 ||72611781-coinbase.com^$all
 ||72617-ticket.com^$all
 ||726491-crypto.com^$all
@@ -22547,6 +22557,7 @@
 ||aavegovernances.com^$all
 ||aaveloan.com^$all
 ||aavemini.com^$all
+||aavenaver.com^$all
 ||aaverage.com^$all
 ||aaversublime.com^$all
 ||aavestake-protocol.com^$all
@@ -26220,6 +26231,7 @@
 ||claims-zcashstamp.com^$all
 ||claims-zebec.com^$all
 ||claimsdapp.com^$all
+||claimspcxloyalty.com^$all
 ||claimstonkbrokers.com^$all
 ||claimusdc.com^$all
 ||claimusdx.com^$all
@@ -28067,6 +28079,7 @@
 ||daohangzj.com^$all
 ||daolax.com^$all
 ||app.daomoker.com^$all
+||daosdappsfix.com^$all
 ||daospin.com^$all
 ||daosymbiotic.com^$all
 ||dapp-aave.com^$all
@@ -28241,6 +28254,7 @@
 ||decline-coinbase.com^$all
 ||decurtisholdings.com^$all
 ||dedouanement-swiss.com^$all
+||deduct-trustwallet.com^$all
 ||deepbookdsui.com^$all
 ||deepcoin-cn.com^$all
 ||deepcoin-user.com^$all
@@ -38064,6 +38078,7 @@
 ||profilecasesopen-x.com^$all
 ||profilecasesx-x.com^$all
 ||profilecasex-x.com^$all
+||profilehub-coinbase.com^$all
 ||profileissue-x.com^$all
 ||profileissuecase-x.com^$all
 ||profileissuesx-x.com^$all
@@ -39849,6 +39864,7 @@
 ||runfairlead.com^$all
 ||owlkbk.runhuayoubengf.com^$all
 ||runicwin.com^$all
+||runnerailabs.com^$all
 ||runofex.com^$all
 ||runoplay.com^$all
 ||runxinshicai.com^$all
@@ -43695,6 +43711,7 @@
 ||ussilicontrading.com^$all
 ||mail.ussmmshop.com^$all
 ||ust-crypto.com^$all
+||ustdguide.com^$all
 ||ustmgm.com^$all
 ||usualemoneys.com^$all
 ||usualmoneys.com^$all
@@ -43865,6 +43882,7 @@
 ||v4daps.com^$all
 ||v4meteora.com^$all
 ||v5l6ubd5hd.com^$all
+||v6meteora.com^$all
 ||vaawin.com^$all
 ||vacate-x.com^$all
 ||spolymarket.vps.vadimrm.com^$all
@@ -60294,6 +60312,7 @@
 ||green-dev-a51.cf-0hyvznet.workers.dev^$all
 ||bright-net-a6d.cf-0idotxgt.workers.dev^$all
 ||sharp-base-490.cf-0o6q6s7p.workers.dev^$all
+||bright-wave-ae8.cf-0wi36jdp.workers.dev^$all
 ||sharp-code-21a.cf-124fltrf.workers.dev^$all
 ||bright-pool-26d.cf-13q0xke9.workers.dev^$all
 ||blue-lab-2b5.cf-17s3oufp.workers.dev^$all
@@ -60302,9 +60321,13 @@
 ||white-pool-bf9.cf-1l8ocxsg.workers.dev^$all
 ||white-hub-5e1.cf-1mz28s88.workers.dev^$all
 ||white-code-e44.cf-1xci19la.workers.dev^$all
+||clear-tech-680.cf-25ijih62.workers.dev^$all
 ||bright-box-b7f.cf-25zn6z2l.workers.dev^$all
 ||bright-dev-f01.cf-2ewdjp8k.workers.dev^$all
 ||green-lab-449.cf-2fc7zanh.workers.dev^$all
+||cloud-wave-97c.cf-2pw575ni.workers.dev^$all
+||sharp-tech-ade.cf-2qfn7q7o.workers.dev^$all
+||sharp-lab-dfe.cf-2wb6vfar.workers.dev^$all
 ||sharp-wave-82.cf-38f96l3c.workers.dev^$all
 ||white-hub-32.cf-3dktwfo2.workers.dev^$all
 ||bright-tech-37c.cf-3feb19ga.workers.dev^$all
@@ -60322,6 +60345,7 @@
 ||swift-wave-31a.cf-5xz0vzcy.workers.dev^$all
 ||cloud-box-1cf.cf-63qfidvd.workers.dev^$all
 ||swift-base-9e8.cf-651gh03q.workers.dev^$all
+||bright-box-82c.cf-674rlmu0.workers.dev^$all
 ||swift-wave-37b.cf-69fwpzaa.workers.dev^$all
 ||swift-dev-b6c.cf-6czycc4z.workers.dev^$all
 ||bright-dev-88a.cf-6lus6h8c.workers.dev^$all
@@ -60338,6 +60362,7 @@
 ||blue-wave-9c.cf-8e42lf6z.workers.dev^$all
 ||swift-box-759.cf-8ez5kyvw.workers.dev^$all
 ||cloud-wave-be3.cf-8f74e8mq.workers.dev^$all
+||clear-box-2ee.cf-8jucdnfv.workers.dev^$all
 ||cloud-tech-84.cf-8q5b33ex.workers.dev^$all
 ||cloud-dev-611.cf-8z6g2nwk.workers.dev^$all
 ||quick-hub-44b.cf-96jacdwd.workers.dev^$all
@@ -60345,8 +60370,10 @@
 ||green-lab-c28.cf-9bx2iki7.workers.dev^$all
 ||sharp-base-119.cf-9l4qyh3u.workers.dev^$all
 ||green-hub-ef5.cf-9porvkqh.workers.dev^$all
+||cloud-base-fe8.cf-9ri7o7qa.workers.dev^$all
 ||green-hub-738.cf-9xn2e68z.workers.dev^$all
 ||cloud-dev-48e.cf-a70ufvck.workers.dev^$all
+||blue-net-ce4.cf-ah08e2m1.workers.dev^$all
 ||sharp-tech-85d.cf-atqxcq1i.workers.dev^$all
 ||white-box-6e.cf-awwutspe.workers.dev^$all
 ||quick-hub-55c.cf-bk7s0ehl.workers.dev^$all
@@ -60365,11 +60392,14 @@
 ||sharp-lab-33f.cf-dwhi1otc.workers.dev^$all
 ||cloud-hub-c95.cf-e0i4tnvy.workers.dev^$all
 ||bright-pool-741.cf-e48cmvzj.workers.dev^$all
+||bright-hub-d41.cf-e6682uvg.workers.dev^$all
 ||bright-hub-c14.cf-e6hy42x9.workers.dev^$all
 ||smart-hub-e55.cf-efj5nog6.workers.dev^$all
 ||quick-base-698.cf-ege91zdz.workers.dev^$all
 ||clear-tech-563.cf-ejizyo39.workers.dev^$all
 ||green-hub-b4f.cf-euayl2fp.workers.dev^$all
+||white-wave-98a.cf-evwqfak0.workers.dev^$all
+||quick-tech-801.cf-f8ta1nt0.workers.dev^$all
 ||blue-dev-53c.cf-ffwmyjky.workers.dev^$all
 ||sharp-wave-e32.cf-fhvv4876.workers.dev^$all
 ||swift-wave-59b.cf-frmtiqpp.workers.dev^$all
@@ -60386,12 +60416,15 @@
 ||sharp-code-f6f.cf-hmqdwqv6.workers.dev^$all
 ||white-lab-256.cf-hx6eiudr.workers.dev^$all
 ||quick-net-21f.cf-i1xea9tn.workers.dev^$all
+||white-dev-107.cf-i8203t3w.workers.dev^$all
 ||cloud-box-72.cf-inrvub63.workers.dev^$all
 ||quick-hub-309.cf-j61cg1pq.workers.dev^$all
+||blue-dev-4bd.cf-j7ntnh2l.workers.dev^$all
 ||bright-hub-c01.cf-j9bep5np.workers.dev^$all
 ||blue-net-767.cf-jph96gi2.workers.dev^$all
 ||swift-pool-9d4.cf-jrjaw03h.workers.dev^$all
 ||swift-net-f78.cf-jumk4qmk.workers.dev^$all
+||bright-wave-d85.cf-jw7qy1cf.workers.dev^$all
 ||clear-lab-d06.cf-k10d62ev.workers.dev^$all
 ||cloud-wave-755.cf-kcn3mhy5.workers.dev^$all
 ||clear-net-2ea.cf-kcsaql8x.workers.dev^$all
@@ -60401,13 +60434,16 @@
 ||bright-pool-641.cf-kr3omq1b.workers.dev^$all
 ||smart-wave-a50.cf-ktxm80s1.workers.dev^$all
 ||sharp-dev-326.cf-kwbsy6f3.workers.dev^$all
+||bright-tech-1df.cf-l8moocm2.workers.dev^$all
 ||quick-net-9be.cf-ljp2ew57.workers.dev^$all
 ||quick-lab-963.cf-ludyebdh.workers.dev^$all
+||sharp-tech-b1c.cf-lvdacrwx.workers.dev^$all
 ||cloud-net-aab.cf-m42v6vey.workers.dev^$all
 ||green-tech-e25.cf-m62k9hak.workers.dev^$all
 ||cloud-box-fc0.cf-m80jghjf.workers.dev^$all
 ||white-hub-e28.cf-mablcozo.workers.dev^$all
 ||white-pool-9ee.cf-mendxlmw.workers.dev^$all
+||clear-box-2cd.cf-mgrq4w1l.workers.dev^$all
 ||white-code-e4f.cf-mi91e95v.workers.dev^$all
 ||quick-base-83b.cf-mj5r371y.workers.dev^$all
 ||green-base-291.cf-mk5c5rsm.workers.dev^$all
@@ -60422,6 +60458,7 @@
 ||green-base-e95.cf-nmu67kt3.workers.dev^$all
 ||quick-pool-505.cf-nq3m7qsh.workers.dev^$all
 ||blue-wave-1e0.cf-nsdo9d76.workers.dev^$all
+||bright-code-a7f.cf-nsjsqyae.workers.dev^$all
 ||clear-lab-405.cf-o0s3ofyn.workers.dev^$all
 ||sharp-dev-c7b.cf-o7mtgpnc.workers.dev^$all
 ||bright-net-3ed.cf-octjlzm9.workers.dev^$all
@@ -60438,23 +60475,29 @@
 ||sharp-base-c72.cf-pu5hbjby.workers.dev^$all
 ||bright-dev-39d.cf-pxv8jbx9.workers.dev^$all
 ||bright-hub-d96.cf-q0tpromi.workers.dev^$all
+||bright-code-6db.cf-q1ya8bu5.workers.dev^$all
 ||sharp-box-7e0.cf-q2t9600x.workers.dev^$all
 ||bright-dev-e35.cf-qphm0h4h.workers.dev^$all
 ||white-pool-a3a.cf-r4h24ss5.workers.dev^$all
 ||cloud-hub-2c6.cf-r6h99s0q.workers.dev^$all
+||white-net-fa4.cf-rle0pqdo.workers.dev^$all
+||sharp-tech-ce3.cf-rmhtoif7.workers.dev^$all
 ||smart-tech-f7e.cf-rmv3w53c.workers.dev^$all
+||swift-hub-79d.cf-rxhe2ns2.workers.dev^$all
 ||blue-pool-5c1.cf-sdkrs0tv.workers.dev^$all
 ||bright-code-bc5.cf-sdlh2b3l.workers.dev^$all
 ||cloud-tech-519.cf-sn7i8iy4.workers.dev^$all
 ||white-lab-3bf.cf-sr503ft6.workers.dev^$all
 ||blue-box-c99.cf-stwuqxzm.workers.dev^$all
 ||blue-net-f29.cf-svrb5zjw.workers.dev^$all
+||smart-base-58a.cf-t4ql0iud.workers.dev^$all
 ||quick-net-289.cf-t5flkbnw.workers.dev^$all
 ||bright-dev-ef8.cf-tjdgaxbd.workers.dev^$all
 ||quick-tech-9b0.cf-tkfcc5xw.workers.dev^$all
 ||clear-net-1b7.cf-to9q7kdy.workers.dev^$all
 ||cloud-pool-3ac.cf-tr0v8bb3.workers.dev^$all
 ||sharp-code-603.cf-tyrun3z5.workers.dev^$all
+||blue-tech-e45.cf-u1w8svpg.workers.dev^$all
 ||bright-dev-6a1.cf-u5ld5qix.workers.dev^$all
 ||sharp-code-bd5.cf-u7i1x1sk.workers.dev^$all
 ||blue-lab-dfd.cf-u7t53wyu.workers.dev^$all
@@ -60469,6 +60512,7 @@
 ||quick-lab-8ee.cf-vood1fo2.workers.dev^$all
 ||clear-pool-6b5.cf-vuq56ctl.workers.dev^$all
 ||white-net-42b.cf-vxiuvfze.workers.dev^$all
+||smart-tech-eb.cf-w0tkzz6q.workers.dev^$all
 ||blue-base-3cc.cf-w6mwjjyd.workers.dev^$all
 ||smart-tech-4a6.cf-wa9hy1ij.workers.dev^$all
 ||swift-wave-cd6.cf-wj373u87.workers.dev^$all
@@ -60476,6 +60520,7 @@
 ||green-hub-586.cf-wn3a6sa6.workers.dev^$all
 ||cloud-net-7a4.cf-wwh1i6h7.workers.dev^$all
 ||white-code-af5.cf-x0ya2z2f.workers.dev^$all
+||green-code-901.cf-x2u35xir.workers.dev^$all
 ||smart-lab-757.cf-xagmoq5r.workers.dev^$all
 ||sharp-code-6e7.cf-xj0lokdm.workers.dev^$all
 ||blue-code-251.cf-xjlmq3am.workers.dev^$all
@@ -60494,6 +60539,7 @@
 ||cloud-net-2f7.cf-z5v5808u.workers.dev^$all
 ||bright-net-131.cf-zimkieml.workers.dev^$all
 ||smart-code-839.cf-zr2lrxp2.workers.dev^$all
+||white-tech-b39.cf-zs6upfio.workers.dev^$all
 ||bright-pool-8d5.cf-zsxewe71.workers.dev^$all
 ||white-net-7ee.cf-zz5mzx2g.workers.dev^$all
 ||aerodrome.cff1f3023f285558de.workers.dev^$all
@@ -61727,6 +61773,7 @@
 ||status.arbitrum.farm^$all
 ||cowswap.farm^$all
 ||sophon.farm^$all
+||ledger.feedback^$all
 ||allocation-firelight.fi^$all
 ||app-apyx.fi^$all
 ||app-interport.fi^$all
@@ -63637,6 +63684,7 @@
 ||rupeeo.fun^$all
 ||s1-embercurve.fun^$all
 ||s1-usepaid.fun^$all
+||sale-allox.fun^$all
 ||saturncredit.fun^$all
 ||saturnfinance.fun^$all
 ||saturnsnipe.fun^$all
@@ -69968,6 +70016,7 @@
 ||refund-runeswap.io^$all
 ||relay-link.io^$all
 ||repeg-metronome.io^$all
+||requests-trezor.io^$all
 ||restore-trezor.io^$all
 ||revenue-x.io^$all
 ||revokenode.io^$all
@@ -74328,6 +74377,7 @@
 ||mint-standardreserve.live^$all
 ||mixtum.live^$all
 ||modexsicherheit.live^$all
+||monaddrop.live^$all
 ||moonbirdsreward.live^$all
 ||moonjoin.live^$all
 ||moonlisting.live^$all
@@ -76511,6 +76561,7 @@
 ||trezor.men^$all
 ||tronlink.men^$all
 ||com-en.menu^$all
+||ledger.com.mg^$all
 ||gains.miami^$all
 ||en-trezorstart.blogspot.mk^$all
 ||metamask-k.blogspot.mk^$all
@@ -80923,6 +80974,7 @@
 ||securywallet-claim.online^$all
 ||seg-social.online^$all
 ||send-usdt.online^$all
+||service-google.online^$all
 ||sfcomeca.online^$all
 ||shop-and-diva.online^$all
 ||silofinance.online^$all
@@ -81028,6 +81080,7 @@
 ||trezormainnet-server.online^$all
 ||triysty.online^$all
 ||trololols.online^$all
+||tron2get.online^$all
 ||tronara.online^$all
 ||trongas.online^$all
 ||tronraiser.online^$all
@@ -81131,6 +81184,7 @@
 ||base.walletapp.online^$all
 ||supportbase.walletapp.online^$all
 ||ward-mig.online^$all
+||wayfarers-ledger.online^$all
 ||web-app--dapps.online^$all
 ||web-app-connect-dapps.online^$all
 ||web-interview.online^$all
@@ -83730,6 +83784,7 @@
 ||xwallet-presale.org^$all
 ||xwsap.org^$all
 ||xyz-hyperliquid.org^$all
+||xyz-teams.org^$all
 ||yanshiceshi.org^$all
 ||yaohuabinhai.org^$all
 ||yieldseeker.org^$all
@@ -89574,6 +89629,7 @@
 ||trezor-io.space^$all
 ||trojanbot.space^$all
 ||trongas.space^$all
+||tronsmart.space^$all
 ||trust-xtfd.space^$all
 ||trustservice.space^$all
 ||tw-card.space^$all
@@ -93470,6 +93526,7 @@
 ||absolutecontrol.co.uk^$all
 ||crm.aiplasma.co.uk^$all
 ||rainbetcasino.atoshealthcarejobs.co.uk^$all
+||badata-outlook.co.uk^$all
 ||barlowsofbelvoir.co.uk^$all
 ||bitsofsmith.co.uk^$all
 ||97ee6.blogspot.co.uk^$all
@@ -96883,6 +96940,7 @@
 ||checker-grvt.xyz^$all
 ||checker-hyper.xyz^$all
 ||checker-hyperfoundation.xyz^$all
+||checker-ink.xyz^$all
 ||checker-intuition.xyz^$all
 ||checker-jump.xyz^$all
 ||checker-jumper.xyz^$all
@@ -98567,6 +98625,7 @@
 ||fund-xue.xyz^$all
 ||fundssalary.xyz^$all
 ||fundtoarc.xyz^$all
+||fungolabs.xyz^$all
 ||funstreamer.xyz^$all
 ||fuseswap.xyz^$all
 ||fuzzy-checkers.xyz^$all
@@ -98632,6 +98691,7 @@
 ||gettrustcard.xyz^$all
 ||getzoom.xyz^$all
 ||ghost-wallet.xyz^$all
+||ghost-wallets.xyz^$all
 ||ghostgameru.xyz^$all
 ||ghqyxlf.xyz^$all
 ||gift-flr.xyz^$all
@@ -98864,6 +98924,7 @@
 ||guildtop.xyz^$all
 ||gunicorn.xyz^$all
 ||gyroscope-protocol.xyz^$all
+||h1liquid.xyz^$all
 ||ha-saint-pierre-primeur.xyz^$all
 ||hantakun-rewards.xyz^$all
 ||hantasurvivor.xyz^$all
@@ -101546,6 +101607,7 @@
 ||sentora-votes.xyz^$all
 ||sentorasapp.xyz^$all
 ||sentralabi.xyz^$all
+||server-portal.xyz^$all
 ||shape3.xyz^$all
 ||shape3jobs.xyz^$all
 ||share-26.xyz^$all
@@ -102078,6 +102140,7 @@
 ||strkbtc-starknet.xyz^$all
 ||strknetfaucet.xyz^$all
 ||strkntfaucet.xyz^$all
+||strkntwbtc.xyz^$all
 ||strktfaucet.xyz^$all
 ||strong-focus.xyz^$all
 ||sttvapp.xyz^$all
