@@ -87098,6 +87098,7 @@ skibiditest.sbs
 skinbarons.sbs
 skinportess.sbs
 skinsmonkeyy.sbs
+skyecosystem.sbs
 skymoney.sbs
 slimflow.sbs
 sliofinance.sbs
@@ -89851,6 +89852,7 @@ polymarket.eskender.tech
 ethenahq.tech
 ethereum-reward.tech
 etherfi.tech
+fablefi.tech
 fablesfi.tech
 arc.fasset-hq.tech
 sbiremit.fasset-hq.tech
