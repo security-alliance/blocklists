@@ -62532,11 +62532,9 @@ chad-pro.fun
 chain-drop.fun
 chatstreampump.fun
 chattyonsol.fun
-checher-polymarket.fun
 check-embercurve.fun
 check-pumps.fun
 checker-pumps.fun
-checking-polymarket.fun
 checkrugpump.fun
 checks-embercurve.fun
 checks-pump.fun
