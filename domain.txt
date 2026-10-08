@@ -22714,7 +22714,6 @@ aligned-ledger-solution-compliance.com
 alignedlayer-tge.com
 alignicmining.com
 aliocation-soneium.com
-alkimiaicampus.com
 alkimicampus.com
 allarsecur.com
 allbridge-bridge.com
@@ -63221,6 +63220,7 @@ support-pump.fun
 svault.fun
 taserfc.fun
 tenzep.fun
+terminaipump.fun
 terminalpump.fun
 terminalpumps.fun
 tge-predict.fun
