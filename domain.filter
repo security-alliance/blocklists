@@ -11467,6 +11467,7 @@
 ||xbull.art^$all
 ||shorten.as^$all
 ||1inch.asia^$all
+||aave-governance.asia^$all
 ||airdrop-dopplerfinance.asia^$all
 ||allocation-axisrobotics.asia^$all
 ||allocation-cashmere-exchange.asia^$all
@@ -11499,6 +11500,7 @@
 ||crptmo.asia^$all
 ||dezentracore.asia^$all
 ||eco-flarenetowrk.asia^$all
+||ecosystem-boros.asia^$all
 ||ecosystems-based.asia^$all
 ||ecosystems-flarenetwork.asia^$all
 ||ecosystems-mantle.asia^$all
@@ -11527,6 +11529,7 @@
 ||portal-flarenetwork.asia^$all
 ||proposal-axisrobotics.asia^$all
 ||proposals-ether.asia^$all
+||proposals-zama.asia^$all
 ||rainbet.asia^$all
 ||rewards-flarenetwork.asia^$all
 ||rewards-mantle.asia^$all
@@ -15839,11 +15842,13 @@
 ||allocation-multiplifi.cfd^$all
 ||allocation-papertrade.cfd^$all
 ||allocation-theindexfinance.cfd^$all
+||allocation-umbra.cfd^$all
 ||allocation-usenosh.cfd^$all
 ||allocation-zipcoin.cfd^$all
 ||allocations-arc.cfd^$all
 ||allocations-argus.cfd^$all
 ||allocations-cashmere-exchange.cfd^$all
+||allocations-flarenetworks.cfd^$all
 ||allocations-morpho.cfd^$all
 ||allocations-multipli.cfd^$all
 ||allocations-zipcoin.cfd^$all
@@ -16455,6 +16460,11 @@
 ||sitemuzhkp2pnwh3.cfd^$all
 ||sitemuzir7pfo120.cfd^$all
 ||sitemuzjy9jod2ze.cfd^$all
+||sitemuzkavorz2uh.cfd^$all
+||sitemuzkccyzvj8h.cfd^$all
+||sitemuzkcx0s002c.cfd^$all
+||sitemuzkdddc9fir.cfd^$all
+||sitemuzkeabang5v.cfd^$all
 ||skyecos.cfd^$all
 ||skyecosystem.cfd^$all
 ||snowwy-peak.cfd^$all
@@ -41382,7 +41392,6 @@
 ||sweep-coins.com^$all
 ||sweet-sweepscasino.com^$all
 ||swell-allocations.com^$all
-||swftcoin.com^$all
 ||swiftcrestoptions.com^$all
 ||swiftdappchainresolve.com^$all
 ||swiftdappfix.com^$all
@@ -51953,18 +51962,22 @@
 ||1-pons.pages.dev^$all
 ||1-portal-concrete.pages.dev^$all
 ||1-predictfun.pages.dev^$all
+||1-proposal-3jane.pages.dev^$all
 ||1-proposal-argus.pages.dev^$all
 ||1-proposal-argus-epf.pages.dev^$all
 ||1-proposal-derive.pages.dev^$all
 ||1-proposal-globaldollar.pages.dev^$all
+||1-proposal-synthra.pages.dev^$all
 ||1-proposal-zama.pages.dev^$all
 ||1-proposals-aero.pages.dev^$all
 ||1-ramses-events.pages.dev^$all
 ||1-ramsesapp.pages.dev^$all
 ||1-reallocation-abs.pages.dev^$all
+||1-reallocation-concrete.pages.dev^$all
 ||1-saturncredit.pages.dev^$all
 ||1-tge-predict.pages.dev^$all
 ||1-venice.pages.dev^$all
+||1-vote-argusworld.pages.dev^$all
 ||1-zamaprotocol.pages.dev^$all
 ||1-zano.pages.dev^$all
 ||1-zano-6vl.pages.dev^$all
@@ -52020,6 +52033,7 @@
 ||11-predictfun.pages.dev^$all
 ||11-proposal-argus.pages.dev^$all
 ||11-proposal-argus-epf.pages.dev^$all
+||11-proposal-globaldollar.pages.dev^$all
 ||11-proposal-zama.pages.dev^$all
 ||11-ramses-events.pages.dev^$all
 ||11-reallocation-abs.pages.dev^$all
@@ -52184,6 +52198,7 @@
 ||2-ramses-events.pages.dev^$all
 ||2-ramsesapp.pages.dev^$all
 ||2-saturncredit.pages.dev^$all
+||2-venice.pages.dev^$all
 ||2-zamaprotocol.pages.dev^$all
 ||2-zipcoin.pages.dev^$all
 ||20-0xfluid.pages.dev^$all
@@ -52197,6 +52212,7 @@
 ||22-0xfluid.pages.dev^$all
 ||22-argusworld.pages.dev^$all
 ||22-ramses-events.pages.dev^$all
+||22-saturncredit.pages.dev^$all
 ||23-0xfluid.pages.dev^$all
 ||23-argusworld.pages.dev^$all
 ||23-ramses-events.pages.dev^$all
@@ -52330,6 +52346,7 @@
 ||6-cantonnetwork.pages.dev^$all
 ||6-derive.pages.dev^$all
 ||6-derives.pages.dev^$all
+||6-derivexyz.pages.dev^$all
 ||6-derivexyz-6ky.pages.dev^$all
 ||6-ecosystem-argus.pages.dev^$all
 ||6-ethenamoney.pages.dev^$all
@@ -62325,6 +62342,7 @@
 ||aerodrome-finance.forum^$all
 ||air-jupiter-claim.forum^$all
 ||allocation-flyingtulip.forum^$all
+||allocation-umiafinance.forum^$all
 ||anonymixer.forum^$all
 ||bankr.forum^$all
 ||capital-ajc.forum^$all

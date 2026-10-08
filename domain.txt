@@ -11467,6 +11467,7 @@ wyne-coin.art
 xbull.art
 shorten.as
 1inch.asia
+aave-governance.asia
 airdrop-dopplerfinance.asia
 allocation-axisrobotics.asia
 allocation-cashmere-exchange.asia
@@ -11499,6 +11500,7 @@ community-flarenetworks.asia
 crptmo.asia
 dezentracore.asia
 eco-flarenetowrk.asia
+ecosystem-boros.asia
 ecosystems-based.asia
 ecosystems-flarenetwork.asia
 ecosystems-mantle.asia
@@ -11527,6 +11529,7 @@ plasma-governance.asia
 portal-flarenetwork.asia
 proposal-axisrobotics.asia
 proposals-ether.asia
+proposals-zama.asia
 rainbet.asia
 rewards-flarenetwork.asia
 rewards-mantle.asia
@@ -15839,11 +15842,13 @@ allocation-mantle.cfd
 allocation-multiplifi.cfd
 allocation-papertrade.cfd
 allocation-theindexfinance.cfd
+allocation-umbra.cfd
 allocation-usenosh.cfd
 allocation-zipcoin.cfd
 allocations-arc.cfd
 allocations-argus.cfd
 allocations-cashmere-exchange.cfd
+allocations-flarenetworks.cfd
 allocations-morpho.cfd
 allocations-multipli.cfd
 allocations-zipcoin.cfd
@@ -16455,6 +16460,11 @@ sitemuzf3yg8ug75.cfd
 sitemuzhkp2pnwh3.cfd
 sitemuzir7pfo120.cfd
 sitemuzjy9jod2ze.cfd
+sitemuzkavorz2uh.cfd
+sitemuzkccyzvj8h.cfd
+sitemuzkcx0s002c.cfd
+sitemuzkdddc9fir.cfd
+sitemuzkeabang5v.cfd
 skyecos.cfd
 skyecosystem.cfd
 snowwy-peak.cfd
@@ -41382,7 +41392,6 @@ swdwin.com
 sweep-coins.com
 sweet-sweepscasino.com
 swell-allocations.com
-swftcoin.com
 swiftcrestoptions.com
 swiftdappchainresolve.com
 swiftdappfix.com
@@ -51953,18 +51962,22 @@ orbitprotocol.dev
 1-pons.pages.dev
 1-portal-concrete.pages.dev
 1-predictfun.pages.dev
+1-proposal-3jane.pages.dev
 1-proposal-argus.pages.dev
 1-proposal-argus-epf.pages.dev
 1-proposal-derive.pages.dev
 1-proposal-globaldollar.pages.dev
+1-proposal-synthra.pages.dev
 1-proposal-zama.pages.dev
 1-proposals-aero.pages.dev
 1-ramses-events.pages.dev
 1-ramsesapp.pages.dev
 1-reallocation-abs.pages.dev
+1-reallocation-concrete.pages.dev
 1-saturncredit.pages.dev
 1-tge-predict.pages.dev
 1-venice.pages.dev
+1-vote-argusworld.pages.dev
 1-zamaprotocol.pages.dev
 1-zano.pages.dev
 1-zano-6vl.pages.dev
@@ -52020,6 +52033,7 @@ orbitprotocol.dev
 11-predictfun.pages.dev
 11-proposal-argus.pages.dev
 11-proposal-argus-epf.pages.dev
+11-proposal-globaldollar.pages.dev
 11-proposal-zama.pages.dev
 11-ramses-events.pages.dev
 11-reallocation-abs.pages.dev
@@ -52184,6 +52198,7 @@ pr-7831.1inch-io-app.pages.dev
 2-ramses-events.pages.dev
 2-ramsesapp.pages.dev
 2-saturncredit.pages.dev
+2-venice.pages.dev
 2-zamaprotocol.pages.dev
 2-zipcoin.pages.dev
 20-0xfluid.pages.dev
@@ -52197,6 +52212,7 @@ pr-7831.1inch-io-app.pages.dev
 22-0xfluid.pages.dev
 22-argusworld.pages.dev
 22-ramses-events.pages.dev
+22-saturncredit.pages.dev
 23-0xfluid.pages.dev
 23-argusworld.pages.dev
 23-ramses-events.pages.dev
@@ -52330,6 +52346,7 @@ pr-7831.1inch-io-app.pages.dev
 6-cantonnetwork.pages.dev
 6-derive.pages.dev
 6-derives.pages.dev
+6-derivexyz.pages.dev
 6-derivexyz-6ky.pages.dev
 6-ecosystem-argus.pages.dev
 6-ethenamoney.pages.dev
@@ -62325,6 +62342,7 @@ accounting-txub.forum
 aerodrome-finance.forum
 air-jupiter-claim.forum
 allocation-flyingtulip.forum
+allocation-umiafinance.forum
 anonymixer.forum
 bankr.forum
 capital-ajc.forum
