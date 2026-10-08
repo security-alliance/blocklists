@@ -33142,7 +33142,6 @@ join-worldid.com
 join-worldorb.com
 join-zoom-live.com
 join-zoom-meeting.com
-joinamandazoom.com
 joinder-x.com
 joingooglemeetcall.com
 joingooglemeetcalls.com
@@ -89278,7 +89277,6 @@ assistancecenter-kraken.ai.studio
 backupcentre-base.ai.studio
 backupcentre-exodus.ai.studio
 centerprocessing-base.ai.studio
-microslop.studio
 fasset.non-linear.studio
 nowmedia.studio
 base-wallet-connect-2.nullsec.studio
@@ -93422,7 +93420,6 @@ inboxguard.us
 intbook.us
 intermediacom.us
 invitation-list.us
-invite-zoommeeting.us
 invited-zoom.us
 invitezoom.us
 invoicing-dell.us
@@ -93970,7 +93967,6 @@ zoomroom.us
 zoomsm.us
 zoomsolar.us
 zoomsolution.us
-zoomtech.us
 zoomworkplace.us
 zooom-mee.us
 zwlive01.us
