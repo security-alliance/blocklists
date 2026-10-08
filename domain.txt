@@ -11065,6 +11065,8 @@ defiresource.web.app
 devchainprotocols.web.app
 dexnodes.web.app
 disneymintpinnacles.web.app
+doge-os.web.app
+dogeos.web.app
 domaearn.web.app
 eigenfoundation-v5.web.app
 eigenlayer-checker.web.app
@@ -30035,6 +30037,8 @@ cancel858-coinbase.firebaseapp.com
 cardano-zendesk.firebaseapp.com
 chainlinkairdropclaim.firebaseapp.com
 claims-eigenfoundation.firebaseapp.com
+doge-os.firebaseapp.com
+dogeos.firebaseapp.com
 goldfishgold.firebaseapp.com
 gominningminerdev.firebaseapp.com
 instantjotlab.firebaseapp.com

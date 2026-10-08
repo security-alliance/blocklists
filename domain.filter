@@ -11065,6 +11065,8 @@
 ||devchainprotocols.web.app^$all
 ||dexnodes.web.app^$all
 ||disneymintpinnacles.web.app^$all
+||doge-os.web.app^$all
+||dogeos.web.app^$all
 ||domaearn.web.app^$all
 ||eigenfoundation-v5.web.app^$all
 ||eigenlayer-checker.web.app^$all
@@ -30035,6 +30037,8 @@
 ||cardano-zendesk.firebaseapp.com^$all
 ||chainlinkairdropclaim.firebaseapp.com^$all
 ||claims-eigenfoundation.firebaseapp.com^$all
+||doge-os.firebaseapp.com^$all
+||dogeos.firebaseapp.com^$all
 ||goldfishgold.firebaseapp.com^$all
 ||gominningminerdev.firebaseapp.com^$all
 ||instantjotlab.firebaseapp.com^$all
