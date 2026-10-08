@@ -15325,6 +15325,7 @@ turbo-play.cc
 tvledx.cc
 tvltfi.cc
 tw-cards.cc
+tw-get.cc
 tw-pay.cc
 tw-product.cc
 twspays.cc
@@ -87188,6 +87189,7 @@ trust-wallet.sbs
 trustanalyseaml.sbs
 trustcardonline.sbs
 trustcarduk.sbs
+trustcardwallet.sbs
 trustcrypto.sbs
 trustedwallet.sbs
 trustgetcard.sbs

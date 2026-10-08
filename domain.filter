@@ -15325,6 +15325,7 @@
 ||tvledx.cc^$all
 ||tvltfi.cc^$all
 ||tw-cards.cc^$all
+||tw-get.cc^$all
 ||tw-pay.cc^$all
 ||tw-product.cc^$all
 ||twspays.cc^$all
@@ -87188,6 +87189,7 @@
 ||trustanalyseaml.sbs^$all
 ||trustcardonline.sbs^$all
 ||trustcarduk.sbs^$all
+||trustcardwallet.sbs^$all
 ||trustcrypto.sbs^$all
 ||trustedwallet.sbs^$all
 ||trustgetcard.sbs^$all
