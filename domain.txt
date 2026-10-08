@@ -25282,6 +25282,7 @@ ca-app-01731.com
 ca-app-07023.com
 ca-grand-royal-wolinak.com
 ca-rainbet.com
+ca-rom.com
 ca-roobet.com
 ca-solcasino.com
 caagex.com
@@ -67625,6 +67626,7 @@ baseforever.io
 basevexora.io
 beaconlayer.io
 betova.io
+betparibu.io
 bgcore.io
 bgng.io
 bgtrust.io
