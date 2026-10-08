@@ -92606,6 +92606,7 @@
 ||trust-digital.top^$all
 ||trust-digital-store.top^$all
 ||trust-secure-device.top^$all
+||trust-vcc-card.top^$all
 ||trust-wallet-card.top^$all
 ||trustcardpay.top^$all
 ||trustcardwallet.top^$all
