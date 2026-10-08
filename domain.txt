@@ -71854,6 +71854,7 @@ skaks.lat
 skyeco.lat
 skyecos.lat
 skyecosystem.lat
+skyecosystern.lat
 skymoneyfdn.lat
 snapshot-aave.lat
 snapshot-mulitpli.lat
@@ -100022,7 +100023,6 @@ portal-assemble.xyz
 portal-canton.xyz
 portal-celo.xyz
 portal-cetus.xyz
-portal-chaingpt.xyz
 portal-chiliz.xyz
 portal-citrea.xyz
 portal-claudersfun.xyz
