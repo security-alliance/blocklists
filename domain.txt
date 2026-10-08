@@ -13117,6 +13117,7 @@ ovddpzjq.bond
 owanofriend.bond
 oyvqlszn.bond
 page-verify.bond
+pairledger.bond
 parentkhslw.bond
 participantwissxw.bond
 partycurql.bond
@@ -18740,6 +18741,7 @@ sumatrapdf.com.cn
 t1-binance.com.cn
 teams-live.com.cn
 teamsapp.com.cn
+tei-binance.com.cn
 telegrcm.com.cn
 telegrdm.com.cn
 telegrom.com.cn
@@ -41017,7 +41019,9 @@ statlox.com
 statnexls.com
 stats-coinbase.com
 stats-trustwallet.com
+status-aol.com
 status-ledger.com
+status-microsoft.com
 statusdmca-x.com
 statusreview-x.com
 statusupdate-x.com
@@ -41670,6 +41674,7 @@ teogux.com
 terasunlive.com
 terkepmasolatletoltes.com
 terminal-cashback.com
+terminal-crypto.com
 terminal-desk.com
 terminal-megaeth.com
 terminal-trustwallet.com
@@ -43041,6 +43046,7 @@ ubsusainc.com
 uci-kraken.com
 ucodecompile.com
 ucp-coinbase.com
+ucp-trezor.com
 udms.com
 udpate-prjx.com
 ufdlabs.com
@@ -43572,8 +43578,11 @@ usercases-x.com
 userforme826.com
 userhelp-gemini.com
 userhub-kraken.com
+userportal-crypto.com
 userprofile-coinbase.com
+userprofile-gemini.com
 userprofile-kraken.com
+userprofiles-coinbase.com
 users-aave.com
 users-flare.com
 usersupport-x.com
@@ -59953,7 +59962,6 @@ trezor-starts-web.stormkit.dev
 suncoastb.dev
 web-stg-echo2.surge9.dev
 sushi-swap.dev
-syncswap.dev
 tangem.dev
 bam.techary.dev
 thdx.dev
@@ -65028,6 +65036,7 @@ punp-app.icu
 purplebitcoin.icu
 puttyversio33.icu
 pvmp-distribution.icu
+pz2sdokwohqk8bt.icu
 pzp623.icu
 qkbpoxwo36v6ase.icu
 quasar-engine.icu
@@ -67362,6 +67371,7 @@ storeapp.ink
 suibirdge.ink
 sunwsap.ink
 superevrse.ink
+superfi.ink
 sushiwsap.ink
 swap-src-1eth.ink
 swpx.ink
@@ -78724,6 +78734,7 @@ uniswap-exchanges.net
 uniswapping.net
 uniswapv3staker.net
 unldex.net
+uo93dxfqes1mzybu.net
 update-blocker.net
 updateblocker.net
 updatewinserver.net
@@ -78968,6 +78979,7 @@ your-trustwallet.net
 yourcard-twt.net
 jupiter.yts-cs.net
 yuzu-money.net
+yyrphf39ooho6k-n.net
 z-e-r-o-l-e-n-d.net
 oa.zanuzxt.net
 zebec-network.net
@@ -78976,6 +78988,7 @@ zeldrunek-ai.net
 zephoratrade.net
 zephoratradepro.net
 zfxd.net
+zkqyyq5412-15zrm.net
 zollabevtex.net
 zoom-access.net
 zoom-app.net
@@ -88186,6 +88199,7 @@ rainbetofficial.si
 rainbetslovenija.si
 rainbetsplash.si
 raydium.si
+tangem.si
 trustwallet.si
 uniswap.si
 walletconnect.si
@@ -102615,6 +102629,7 @@ vote-pyth.xyz
 vote-raydium.xyz
 vote-relayprotocol.xyz
 vote-relays.xyz
+vote-rippie.xyz
 vote-ripple.xyz
 vote-riv.xyz
 vote-river.xyz
