@@ -18544,6 +18544,7 @@ metamaskk.com.cn
 metamaskm.com.cn
 metamasks.com.cn
 microsoft-edge.com.cn
+microsolft.com.cn
 microsot-teams.com.cn
 mkvtoolnix.com.cn
 msteams-meeting.com.cn
@@ -50037,6 +50038,7 @@ xn--bitrefll-pay-xfb.com
 xn--bitrefll-q2a.com
 xn--bitreill-cz9c.com
 xn--bitreill-pay-yq4f.com
+xn--bitrex-y97b.com
 xn--bitrfill-7db.com
 xn--btfnex-p9ac.com
 xn--btref-n4ae6ea.com
@@ -73791,6 +73793,7 @@ microsoftes.live
 microsoftonline-outlook.live
 microsoftonline-sharepoint-com.live
 microsoftsteam.live
+microsoftsteams.live
 microssoft.live
 microteam.live
 microteams.live
@@ -91062,6 +91065,7 @@ dragonwormcoin.top
 droidparcel.top
 drop-bu96sh-box.top
 drop-live.top
+dropboxonline.top
 dropfinder.top
 dsafaerg.top
 du67vzqq.top
@@ -91626,6 +91630,7 @@ microsoft-ai-claude.top
 microsoft-diagnostics.top
 microsoft-google.top
 microsoft-onlin.top
+microsoft365copilot.top
 microsofteaams.top
 microsofteam.top
 microsofteaminvites.top
@@ -101519,6 +101524,7 @@ stratamarkets-voting.xyz
 strato-nexus.xyz
 stream-pumpfun.xyz
 stream-treasury.xyz
+stream-yard.xyz
 streamflowchain.xyz
 streamflowfinance.xyz
 streamflowsol.xyz
