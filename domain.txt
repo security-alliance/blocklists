@@ -49605,7 +49605,6 @@ web-metamsukio.wixstudio.com
 web-metmaskeextapp.wixstudio.com
 web-metmaskio-apps.wixstudio.com
 web-metmaskweb.wixstudio.com
-web-phantom-wallet.wixstudio.com
 web-trust-extensions.wixstudio.com
 web-trustapps.wixstudio.com
 web-usrabbyapps.wixstudio.com
