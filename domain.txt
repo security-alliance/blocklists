@@ -12400,7 +12400,6 @@ metamaskrewards.biz
 mexcledgerforum.biz
 mexicwc.biz
 mica-compliance.biz
-micmicosoft.biz
 mixqmatch.biz
 money-x.biz
 ms-live.biz
@@ -17688,7 +17687,6 @@ meetlink.cloud
 metronome-io.cloud
 micosoftonline.cloud
 micros0ft.cloud
-microsoftviewcloud.cloud
 moonwell-fi.cloud
 moonwell-foundation.cloud
 moonwell-revoke.cloud
@@ -25461,7 +25459,6 @@ centrlfuge.com
 ceobex.com
 cepcut-apps.com
 certificaatcentrum.com
-certik-live.com
 cesardeairtm.com
 financv2.ceshibba.com
 cestwin.com
@@ -35081,7 +35078,6 @@ microsoftappstudio.com
 microsoftauthenticatorappdownload.com
 microsoftauthorize.com
 microsoftauthverifiy.com
-microsoftcloudazure.com
 microsoftcloudbackup.com
 microsoftconnect.com
 microsoftdot.com
@@ -93468,7 +93464,6 @@ live-cloud.us
 live05ms.us
 liveappweb.us
 livecell.us
-livehuddle01.us
 livemeets.us
 livesapp.us
 liveshared-0193ozaduao-dnad.us
@@ -93959,7 +93954,6 @@ zoomgex60.us
 zoomici.us
 zooming.us
 zoominstaller.us
-zoominvitation.us
 zoomit.us
 zoomix.us
 zoomlion.us
