@@ -15564,6 +15564,7 @@ xfortune.cc
 xinlvse.cc
 xinmljys.cc
 xmagnetic.cc
+xn--b4c9b.cc
 xn--krb3-cta.cc
 xn--son9-01a.cc
 xn--zsr252b8h2b.cc
@@ -25614,6 +25615,7 @@ changelly-crypto.com
 changelly-dex.com
 changelly-en.com
 changelly-eng.com
+changelly-eu.com
 changelly-exchange.com
 changelly-or.com
 changelly-orguude.com
@@ -39027,6 +39029,7 @@ repeg-apyusd.com
 repeg-apyx.com
 repeg-apyxfi.com
 repegs-apyxfi.com
+replacement-documents.com
 reply-whatsapp.com
 reportdetails-x.com
 reportdmca-x.com
@@ -76368,6 +76371,7 @@ trustwallets.my
 unijoin.my
 us06web-zoom.my
 votesblock.my
+wwfgfgd333.my
 wzeg3uqa8m.my
 x8x9.my
 xamantoken.my
