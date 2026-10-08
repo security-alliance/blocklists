@@ -74390,6 +74390,7 @@ solfast.live
 solfee.live
 solmigration.live
 solphx.live
+solsettle.live
 solslot.live
 solstice-allocation.live
 solstice-updates.live
