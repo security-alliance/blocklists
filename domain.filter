@@ -2641,10 +2641,12 @@
 ||crypto-6bm.netlify.app^$all
 ||crypto-6dy.netlify.app^$all
 ||crypto-6qd.netlify.app^$all
+||crypto-6uh.netlify.app^$all
 ||crypto-6wm.netlify.app^$all
 ||crypto-6zs.netlify.app^$all
 ||crypto-72t.netlify.app^$all
 ||crypto-75w.netlify.app^$all
+||crypto-7lc.netlify.app^$all
 ||crypto-7lz.netlify.app^$all
 ||crypto-7qj.netlify.app^$all
 ||crypto-7tq.netlify.app^$all
@@ -2652,6 +2654,7 @@
 ||crypto-8f9.netlify.app^$all
 ||crypto-8qi.netlify.app^$all
 ||crypto-8xe.netlify.app^$all
+||crypto-9ah.netlify.app^$all
 ||crypto-9xm.netlify.app^$all
 ||crypto-a0t.netlify.app^$all
 ||crypto-a0y.netlify.app^$all
@@ -2665,11 +2668,13 @@
 ||crypto-azl.netlify.app^$all
 ||crypto-b0h.netlify.app^$all
 ||crypto-b88.netlify.app^$all
+||crypto-bes.netlify.app^$all
 ||crypto-bfm.netlify.app^$all
 ||crypto-bfy.netlify.app^$all
 ||crypto-bk7.netlify.app^$all
 ||crypto-bm6.netlify.app^$all
 ||crypto-bmd.netlify.app^$all
+||crypto-br2.netlify.app^$all
 ||crypto-bss.netlify.app^$all
 ||crypto-bup.netlify.app^$all
 ||crypto-bwi.netlify.app^$all
@@ -2687,6 +2692,7 @@
 ||crypto-cml.netlify.app^$all
 ||crypto-cmu.netlify.app^$all
 ||crypto-cpm.netlify.app^$all
+||crypto-cpx.netlify.app^$all
 ||crypto-crr.netlify.app^$all
 ||crypto-cs5.netlify.app^$all
 ||crypto-ctm.netlify.app^$all
@@ -2755,6 +2761,7 @@
 ||crypto-jcw.netlify.app^$all
 ||crypto-jdm.netlify.app^$all
 ||crypto-je9.netlify.app^$all
+||crypto-jfz.netlify.app^$all
 ||crypto-jgu.netlify.app^$all
 ||crypto-jhj.netlify.app^$all
 ||crypto-jkv.netlify.app^$all
@@ -2807,6 +2814,7 @@
 ||crypto-mru.netlify.app^$all
 ||crypto-mtm.netlify.app^$all
 ||crypto-mtu.netlify.app^$all
+||crypto-mu6.netlify.app^$all
 ||crypto-muv.netlify.app^$all
 ||crypto-mzd.netlify.app^$all
 ||crypto-n93.netlify.app^$all
@@ -2843,6 +2851,7 @@
 ||crypto-pek.netlify.app^$all
 ||crypto-pgc.netlify.app^$all
 ||crypto-ph9.netlify.app^$all
+||crypto-pod.netlify.app^$all
 ||crypto-pvj.netlify.app^$all
 ||crypto-q1t.netlify.app^$all
 ||crypto-q5t.netlify.app^$all
@@ -2956,6 +2965,7 @@
 ||crypto-ysa.netlify.app^$all
 ||crypto-ytr.netlify.app^$all
 ||crypto-yuj.netlify.app^$all
+||crypto-yx9.netlify.app^$all
 ||crypto-yxl.netlify.app^$all
 ||crypto-yyd.netlify.app^$all
 ||crypto-yzt.netlify.app^$all
@@ -6339,6 +6349,7 @@
 ||portal-moonshot-8uc.netlify.app^$all
 ||portal-moonshot-8yu.netlify.app^$all
 ||portal-moonshot-985.netlify.app^$all
+||portal-moonshot-9ca.netlify.app^$all
 ||portal-moonshot-9su.netlify.app^$all
 ||portal-moonshot-9zg.netlify.app^$all
 ||portal-moonshot-ahk.netlify.app^$all
@@ -6443,6 +6454,7 @@
 ||portal-moonshot-obw.netlify.app^$all
 ||portal-moonshot-oco.netlify.app^$all
 ||portal-moonshot-oek.netlify.app^$all
+||portal-moonshot-oh9.netlify.app^$all
 ||portal-moonshot-orx.netlify.app^$all
 ||portal-moonshot-oty.netlify.app^$all
 ||portal-moonshot-owk.netlify.app^$all
@@ -6479,6 +6491,7 @@
 ||portal-moonshot-tn0.netlify.app^$all
 ||portal-moonshot-u04.netlify.app^$all
 ||portal-moonshot-u4a.netlify.app^$all
+||portal-moonshot-uau.netlify.app^$all
 ||portal-moonshot-uh6.netlify.app^$all
 ||portal-moonshot-uhv.netlify.app^$all
 ||portal-moonshot-uju.netlify.app^$all
@@ -15676,6 +15689,7 @@
 ||aaaaarunapi.cfd^$all
 ||aaaarunapi.cfd^$all
 ||aaarunapi.cfd^$all
+||aave-governance.cfd^$all
 ||aave-proposal.cfd^$all
 ||aavefi.cfd^$all
 ||aavefnd.cfd^$all
@@ -15713,6 +15727,7 @@
 ||allocation-theindexfinance.cfd^$all
 ||allocation-usenosh.cfd^$all
 ||allocation-zipcoin.cfd^$all
+||allocations-arc.cfd^$all
 ||allocations-argus.cfd^$all
 ||allocations-cashmere-exchange.cfd^$all
 ||allocations-morpho.cfd^$all
@@ -16287,8 +16302,29 @@
 ||sitemuyigxvdcuz2.cfd^$all
 ||sitemuyjraz2i870.cfd^$all
 ||sitemuyjyzd8b9w4.cfd^$all
+||sitemuykaojd0b0q.cfd^$all
 ||sitemuykpww27nzg.cfd^$all
 ||sitemuyl5c8uki6v.cfd^$all
+||sitemuyoh1hvgjx7.cfd^$all
+||sitemuypqvsc8do7.cfd^$all
+||sitemuysr9vse17s.cfd^$all
+||sitemuyu22a21fkx.cfd^$all
+||sitemuyusxmdklk4.cfd^$all
+||sitemuyv4ehcbf86.cfd^$all
+||sitemuyvc3ghd4dz.cfd^$all
+||sitemuyvclc34ndl.cfd^$all
+||sitemuyvuxgy5dva.cfd^$all
+||sitemuywmdijipbf.cfd^$all
+||sitemuywtl4rtjbz.cfd^$all
+||sitemuyzy3xze7uj.cfd^$all
+||sitemuz1fjmt7rfl.cfd^$all
+||sitemuz1r5fa8dbe.cfd^$all
+||sitemuz275blszuz.cfd^$all
+||sitemuz3hiq7alex.cfd^$all
+||sitemuz4zgn545bx.cfd^$all
+||sitemuz5aeu7tp9n.cfd^$all
+||sitemuz6p96oie4n.cfd^$all
+||sitemuz7jnntyudi.cfd^$all
 ||skyecos.cfd^$all
 ||skyecosystem.cfd^$all
 ||snowwy-peak.cfd^$all
@@ -28109,6 +28145,7 @@
 ||desk-strk.com^$all
 ||desk-tiles.com^$all
 ||desk-vecrv.com^$all
+||desk-wlfi.com^$all
 ||desk-xrp-distribution.com^$all
 ||desk-xverse.com^$all
 ||desktop-enosys.com^$all
@@ -51734,6 +51771,7 @@
 ||1-saturncredit.pages.dev^$all
 ||1-tge-predict.pages.dev^$all
 ||1-zamaprotocol.pages.dev^$all
+||1-zano.pages.dev^$all
 ||1-zano-6vl.pages.dev^$all
 ||1-zipcoin.pages.dev^$all
 ||10-0xfluid.pages.dev^$all
@@ -51936,6 +51974,7 @@
 ||2-gov-ramses.pages.dev^$all
 ||2-hyperlink.pages.dev^$all
 ||2-hyperlinkapp-86x.pages.dev^$all
+||2-hyperlinkfi.pages.dev^$all
 ||2-hyperlinkxyz-e79.pages.dev^$all
 ||2-netnet.pages.dev^$all
 ||2-pons.pages.dev^$all
@@ -52032,6 +52071,7 @@
 ||4-cantonnetwork.pages.dev^$all
 ||4-derive.pages.dev^$all
 ||4-derives.pages.dev^$all
+||4-derivexyz.pages.dev^$all
 ||4-derivexyz-6ky.pages.dev^$all
 ||4-ecosystem-argus.pages.dev^$all
 ||4-ethenamoney.pages.dev^$all
@@ -52041,6 +52081,7 @@
 ||4-netnet.pages.dev^$all
 ||4-pons.pages.dev^$all
 ||4-predictfun.pages.dev^$all
+||4-proposal-argus.pages.dev^$all
 ||4-proposal-argus-epf.pages.dev^$all
 ||4-proposal-derive.pages.dev^$all
 ||4-proposal-globaldollar.pages.dev^$all
@@ -52417,6 +52458,7 @@
 ||app-sozu.pages.dev^$all
 ||app-ssdradiantmigrationplan.pages.dev^$all
 ||app-start-trezor.pages.dev^$all
+||app-stockereum.pages.dev^$all
 ||app-streamflow-finance.pages.dev^$all
 ||app-streamflow-finance-airdrops-solana-hzk56m6bsldlkyxhz.pages.dev^$all
 ||app-suiet-trezar.pages.dev^$all
@@ -54645,6 +54687,7 @@
 ||gonkadev.pages.dev^$all
 ||goodegg-token.pages.dev^$all
 ||goodegg-tokens.pages.dev^$all
+||gov-concrete.pages.dev^$all
 ||gov-ramses.pages.dev^$all
 ||grad-ledger.pages.dev^$all
 ||grasslink.pages.dev^$all
@@ -59292,6 +59335,7 @@
 ||vizipu.pages.dev^$all
 ||vote-8zf.pages.dev^$all
 ||vote-arcium.pages.dev^$all
+||vote-argusworld.pages.dev^$all
 ||vote-bsquared.pages.dev^$all
 ||vote-giza-com.pages.dev^$all
 ||vote-giza-net.pages.dev^$all
@@ -65228,6 +65272,7 @@
 ||io-us.my.id^$all
 ||io-var.my.id^$all
 ||io-vari.my.id^$all
+||kavoteno.my.id^$all
 ||konohanetwork.my.id^$all
 ||konohaserver.my.id^$all
 ||orca.masyamin.my.id^$all
@@ -71617,6 +71662,7 @@
 ||gokucoin.lat^$all
 ||gokucoinsolana.lat^$all
 ||googlemeet.lat^$all
+||gov-concrete.lat^$all
 ||gov-joinopenstandard.lat^$all
 ||grass.lat^$all
 ||greenlanders.lat^$all
@@ -92408,6 +92454,7 @@
 ||virtulsapp.top^$all
 ||voidbot.top^$all
 ||vokavoka.top^$all
+||vote-argusworld.top^$all
 ||vote-asterdex.top^$all
 ||vote-asterdexapp.top^$all
 ||vote-chainlink.top^$all
