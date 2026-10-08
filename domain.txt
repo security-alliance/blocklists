@@ -3121,6 +3121,7 @@ dappstokencenter.netlify.app
 dashing-alpaca-666f8c.netlify.app
 dawaid-sessionmints.netlify.app
 debank-portfolio.netlify.app
+defijup.netlify.app
 defiresolvefixall.netlify.app
 deluxe-tulumba-c77932.netlify.app
 deploy-preview-1454--aptos-explorer.netlify.app
