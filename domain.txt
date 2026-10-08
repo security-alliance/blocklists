@@ -51947,7 +51947,6 @@ orbitprotocol.dev
 19-saturncredit.pages.dev
 1dollarairdrop.pages.dev
 pr-7831.1inch-io-app.pages.dev
-1inch-prod-ui.pages.dev
 1inch-prod-ui-d1k.pages.dev
 1inchex-io.pages.dev
 1xv.pages.dev
@@ -82615,6 +82614,7 @@ stayledger.org
 app.steakhousefi.org
 stellar-staking.org
 stellarspace.org
+esp.stiftung-ethereum.org
 stockyieldglobals.org
 stonkbrokers.org
 stoptrading.org

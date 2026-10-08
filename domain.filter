@@ -51947,7 +51947,6 @@
 ||19-saturncredit.pages.dev^$all
 ||1dollarairdrop.pages.dev^$all
 ||pr-7831.1inch-io-app.pages.dev^$all
-||1inch-prod-ui.pages.dev^$all
 ||1inch-prod-ui-d1k.pages.dev^$all
 ||1inchex-io.pages.dev^$all
 ||1xv.pages.dev^$all
@@ -82615,6 +82614,7 @@
 ||app.steakhousefi.org^$all
 ||stellar-staking.org^$all
 ||stellarspace.org^$all
+||esp.stiftung-ethereum.org^$all
 ||stockyieldglobals.org^$all
 ||stonkbrokers.org^$all
 ||stoptrading.org^$all
