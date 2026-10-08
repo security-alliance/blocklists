@@ -16004,6 +16004,7 @@ jehitrfwsodefwpfpp.cfd
 kaitoai.cfd
 kamino.cfd
 keawaesa.cfd
+kinetiqfnd.cfd
 kont-auth771520.cfd
 krakencapitallimited.cfd
 krakenstorm-tw.cfd
@@ -71590,6 +71591,7 @@ enter-frontiertrader.lat
 enter-morpho.lat
 enter-skyeco.lat
 enter-skymoney.lat
+entropy.lat
 eth-test.lat
 ethena-fi.lat
 ethenafi.lat
@@ -72220,6 +72222,7 @@ sparkdex.life
 sparkdotfi.life
 sparkfinance.life
 sparknet.life
+sparksnet.life
 spinfury.life
 spinstorm.life
 staking-pendle.life
