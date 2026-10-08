@@ -13637,7 +13637,6 @@ iscanai.cam
 join-zoom.cam
 join-zyf.cam
 joinopenstandard.cam
-jup.cam
 kaito.cam
 kamino.cam
 keep822.cam
