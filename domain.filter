@@ -15861,6 +15861,7 @@
 ||allocations-argus.cfd^$all
 ||allocations-cashmere-exchange.cfd^$all
 ||allocations-flarenetworks.cfd^$all
+||allocations-mantle.cfd^$all
 ||allocations-morpho.cfd^$all
 ||allocations-multipli.cfd^$all
 ||allocations-umbra.cfd^$all
@@ -16510,6 +16511,8 @@
 ||sitemuzowuw3013a.cfd^$all
 ||sitemuzp7alhlla6.cfd^$all
 ||sitemuzpo19hs7x7.cfd^$all
+||sitemuzq9eheowks.cfd^$all
+||sitemuzq9u0jn234.cfd^$all
 ||skyecos.cfd^$all
 ||skyecosystem.cfd^$all
 ||snowwy-peak.cfd^$all
@@ -52024,6 +52027,7 @@
 ||1-proposal-argus-epf.pages.dev^$all
 ||1-proposal-derive.pages.dev^$all
 ||1-proposal-globaldollar.pages.dev^$all
+||1-proposal-loanmeme.pages.dev^$all
 ||1-proposal-synthra.pages.dev^$all
 ||1-proposal-zama.pages.dev^$all
 ||1-proposals-aero.pages.dev^$all
@@ -52081,6 +52085,7 @@
 ||11-cantonnetwork.pages.dev^$all
 ||11-derive.pages.dev^$all
 ||11-derives.pages.dev^$all
+||11-derivexyz.pages.dev^$all
 ||11-derivexyz-6ky.pages.dev^$all
 ||11-ethenamoney.pages.dev^$all
 ||11-fluidio.pages.dev^$all
@@ -52205,6 +52210,7 @@
 ||17-argusworld.pages.dev^$all
 ||17-argusworlds-933.pages.dev^$all
 ||17-gov-ramses.pages.dev^$all
+||17-netnet.pages.dev^$all
 ||17-predictfun.pages.dev^$all
 ||17-ramses-events.pages.dev^$all
 ||17-saturncredit.pages.dev^$all
@@ -52282,6 +52288,7 @@
 ||20-ramses-events.pages.dev^$all
 ||20-saturncredit.pages.dev^$all
 ||21-0xfluid.pages.dev^$all
+||21-allowlist-ascendlaunch.pages.dev^$all
 ||21-ramses-events.pages.dev^$all
 ||21-saturncredit.pages.dev^$all
 ||22-0xfluid.pages.dev^$all
@@ -52305,6 +52312,7 @@
 ||27-0xfluid.pages.dev^$all
 ||27-argusworld.pages.dev^$all
 ||27-ramses-events.pages.dev^$all
+||28-0xfluid.pages.dev^$all
 ||28-argusworld.pages.dev^$all
 ||28-ramses-events.pages.dev^$all
 ||29-argusworld.pages.dev^$all
@@ -52383,6 +52391,7 @@
 ||4-netnet.pages.dev^$all
 ||4-pons.pages.dev^$all
 ||4-predictfun.pages.dev^$all
+||4-proposal-3jane.pages.dev^$all
 ||4-proposal-argus.pages.dev^$all
 ||4-proposal-argus-epf.pages.dev^$all
 ||4-proposal-derive.pages.dev^$all
