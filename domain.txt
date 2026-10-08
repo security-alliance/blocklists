@@ -65198,6 +65198,7 @@ monadpay.biz.id
 obh.biz.id
 savings.biz.id
 trmlabscoin.biz.id
+trust-card.biz.id
 bozei.id
 capcut-apk.id
 chromewebstore.id
