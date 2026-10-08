@@ -66337,7 +66337,6 @@ onstreampro.info
 oovefest.info
 opencard.info
 order-id0979.info
-ore-supply.info
 org-coin.info
 org-flare.info
 originworld-bonus.info
