@@ -72416,6 +72416,7 @@ stonkstoken.lat
 strata-markets.lat
 sukicoin.lat
 sunswap-tron.lat
+superinteliigence.lat
 supportpb.lat
 sushiswap.lat
 symbiotic.lat
