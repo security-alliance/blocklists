@@ -80272,6 +80272,7 @@ arconbnb.online
 arcusnet.online
 arcusxyz.online
 ardenfinance.online
+arguspad.online
 artisticalyspremier.online
 assist-crypto.online
 asterdexsync.online
@@ -90404,6 +90405,7 @@ flarenetworks.tech
 flubless.tech
 frontiertrader.tech
 frontiertraders.tech
+fxaladdin.tech
 gov-firelight.tech
 hederafund.tech
 hellolayerzero.tech
