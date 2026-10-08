@@ -88545,7 +88545,6 @@ client-id-1re.site
 clientid-3se.site
 cme-g.site
 eml-kraken.co.site
-exchange-kraken.co.site
 codingscopsdev.site
 codingscopstech.site
 coiincheck.site
