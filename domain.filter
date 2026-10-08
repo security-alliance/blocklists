@@ -52080,6 +52080,7 @@
 ||10-netnet.pages.dev^$all
 ||10-pons.pages.dev^$all
 ||10-predictfun.pages.dev^$all
+||10-proposal-3jane.pages.dev^$all
 ||10-proposal-argus.pages.dev^$all
 ||10-proposal-argus-epf.pages.dev^$all
 ||10-proposal-derive.pages.dev^$all
@@ -52088,6 +52089,7 @@
 ||10-ramses-events.pages.dev^$all
 ||10-reallocation-abs.pages.dev^$all
 ||10-saturncredit.pages.dev^$all
+||10-venice.pages.dev^$all
 ||10-zamaprotocol.pages.dev^$all
 ||10-zipcoin.pages.dev^$all
 ||10rc0nbasexvwork.pages.dev^$all
@@ -52239,8 +52241,10 @@
 ||17-argus-pad.pages.dev^$all
 ||17-argusworld.pages.dev^$all
 ||17-argusworlds-933.pages.dev^$all
+||17-derivexyz.pages.dev^$all
 ||17-gov-ramses.pages.dev^$all
 ||17-netnet.pages.dev^$all
+||17-pons.pages.dev^$all
 ||17-predictfun.pages.dev^$all
 ||17-proposal-derive.pages.dev^$all
 ||17-proposal-globaldollar.pages.dev^$all
@@ -52265,6 +52269,8 @@
 ||19-gov-ramses.pages.dev^$all
 ||19-netnet.pages.dev^$all
 ||19-predictfun.pages.dev^$all
+||19-proposal-derive.pages.dev^$all
+||19-proposal-globaldollar.pages.dev^$all
 ||19-ramses-events.pages.dev^$all
 ||19-saturncredit.pages.dev^$all
 ||1dollarairdrop.pages.dev^$all
@@ -52343,6 +52349,7 @@
 ||23-0xfluid.pages.dev^$all
 ||23-allowlist-ascendlaunch.pages.dev^$all
 ||23-argusworld.pages.dev^$all
+||23-netnet.pages.dev^$all
 ||23-ramses-events.pages.dev^$all
 ||23-saturncredit.pages.dev^$all
 ||24-0xfluid.pages.dev^$all
@@ -52361,6 +52368,7 @@
 ||26-ramses-events.pages.dev^$all
 ||26-saturncredit.pages.dev^$all
 ||27-0xfluid.pages.dev^$all
+||27-allowlist-ascendlaunch.pages.dev^$all
 ||27-argusworld.pages.dev^$all
 ||27-ramses-events.pages.dev^$all
 ||27-saturncredit.pages.dev^$all
@@ -52400,6 +52408,7 @@
 ||3-netnet.pages.dev^$all
 ||3-pons.pages.dev^$all
 ||3-portal-concrete.pages.dev^$all
+||3-predeposit-papertrade.pages.dev^$all
 ||3-predictfun.pages.dev^$all
 ||3-proposal-3jane.pages.dev^$all
 ||3-proposal-argus.pages.dev^$all
@@ -52421,12 +52430,14 @@
 ||30-0xfluid.pages.dev^$all
 ||30-argusworld.pages.dev^$all
 ||30-ramses-events.pages.dev^$all
+||30-saturncredit.pages.dev^$all
 ||31-0xfluid.pages.dev^$all
 ||31-argusworld.pages.dev^$all
 ||32-0xfluid.pages.dev^$all
 ||32-argusworld.pages.dev^$all
 ||33-0xfluid.pages.dev^$all
 ||33-argusworld.pages.dev^$all
+||34-0xfluid.pages.dev^$all
 ||34-argusworld.pages.dev^$all
 ||35-argusworld.pages.dev^$all
 ||36-argusworld.pages.dev^$all
@@ -52476,6 +52487,7 @@
 ||4-venice.pages.dev^$all
 ||4-zamaprotocol.pages.dev^$all
 ||4-zipcoin.pages.dev^$all
+||40-argusworld.pages.dev^$all
 ||459358h.pages.dev^$all
 ||5-0xfluid.pages.dev^$all
 ||5-allowlist-ascendlaunch.pages.dev^$all
@@ -52578,12 +52590,14 @@
 ||7-proposal-argus-epf.pages.dev^$all
 ||7-proposal-derive.pages.dev^$all
 ||7-proposal-globaldollar.pages.dev^$all
+||7-proposal-loanmeme.pages.dev^$all
 ||7-proposal-synthra.pages.dev^$all
 ||7-proposal-zama.pages.dev^$all
 ||7-ramses-events.pages.dev^$all
 ||7-reallocation-abs.pages.dev^$all
 ||7-reallocation-concrete.pages.dev^$all
 ||7-saturncredit.pages.dev^$all
+||7-tge-extended.pages.dev^$all
 ||7-venice.pages.dev^$all
 ||7-zamaprotocol.pages.dev^$all
 ||7-zipcoin.pages.dev^$all
@@ -52650,9 +52664,11 @@
 ||9-proposal-argus-epf.pages.dev^$all
 ||9-proposal-derive.pages.dev^$all
 ||9-proposal-globaldollar.pages.dev^$all
+||9-proposal-synthra.pages.dev^$all
 ||9-proposal-zama.pages.dev^$all
 ||9-ramses-events.pages.dev^$all
 ||9-reallocation-abs.pages.dev^$all
+||9-reallocation-concrete.pages.dev^$all
 ||9-saturncredit.pages.dev^$all
 ||9-venice.pages.dev^$all
 ||9-zamaprotocol.pages.dev^$all
@@ -95808,6 +95824,7 @@
 ||access-hyperfoundation.xyz^$all
 ||access-lighter.xyz^$all
 ||access-papertrade.xyz^$all
+||access-papertrades.xyz^$all
 ||access-usepaid.xyz^$all
 ||access-xrpl.xyz^$all
 ||accesshyperfoundation.xyz^$all
@@ -101425,6 +101442,7 @@
 ||season-flarefoundation.xyz^$all
 ||season-flarenetwork.xyz^$all
 ||season-flarenetworks.xyz^$all
+||season-hypefoundation.xyz^$all
 ||season-hyperfoundation.xyz^$all
 ||season-lighter.xyz^$all
 ||season-papertrade.xyz^$all
@@ -102487,6 +102505,7 @@
 ||usepaid-inspect.xyz^$all
 ||usepaid-inspects.xyz^$all
 ||usepaid-invite.xyz^$all
+||usepaid-lab.xyz^$all
 ||usepaid-launchpads.xyz^$all
 ||usepaid-lookup.xyz^$all
 ||usepaid-lookups.xyz^$all
