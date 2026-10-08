@@ -2786,6 +2786,7 @@
 ||crypto-ce9.netlify.app^$all
 ||crypto-cff.netlify.app^$all
 ||crypto-cgk.netlify.app^$all
+||crypto-cl3.netlify.app^$all
 ||crypto-cm4.netlify.app^$all
 ||crypto-cmf.netlify.app^$all
 ||crypto-cml.netlify.app^$all
@@ -16478,6 +16479,10 @@
 ||sitemuzldvtr28zf.cfd^$all
 ||sitemuzleqzkcfn2.cfd^$all
 ||sitemuzlf6s9pref.cfd^$all
+||sitemuzlsqfo90f6.cfd^$all
+||sitemuzltbp0w1dy.cfd^$all
+||sitemuzltu5ex4yo.cfd^$all
+||sitemuzluaf91oen.cfd^$all
 ||skyecos.cfd^$all
 ||skyecosystem.cfd^$all
 ||snowwy-peak.cfd^$all
@@ -52081,6 +52086,8 @@
 ||12-predictfun.pages.dev^$all
 ||12-proposal-argus.pages.dev^$all
 ||12-proposal-argus-epf.pages.dev^$all
+||12-proposal-derive.pages.dev^$all
+||12-proposal-globaldollar.pages.dev^$all
 ||12-proposal-zama.pages.dev^$all
 ||12-ramses-events.pages.dev^$all
 ||12-reallocation-abs.pages.dev^$all
@@ -52121,6 +52128,7 @@
 ||14-gov-ramses.pages.dev^$all
 ||14-hyperlinkapp-86x.pages.dev^$all
 ||14-hyperlinkxyz-e79.pages.dev^$all
+||14-netnet.pages.dev^$all
 ||14-predictfun.pages.dev^$all
 ||14-proposal-argus-epf.pages.dev^$all
 ||14-ramses-events.pages.dev^$all
@@ -52163,6 +52171,7 @@
 ||17-saturncredit.pages.dev^$all
 ||18-0xfluid.pages.dev^$all
 ||18-allowlist-ascendlaunch.pages.dev^$all
+||18-argus-pad.pages.dev^$all
 ||18-argusworld.pages.dev^$all
 ||18-argusworlds-933.pages.dev^$all
 ||18-gov-ramses.pages.dev^$all
@@ -52170,6 +52179,7 @@
 ||18-ramses-events.pages.dev^$all
 ||18-saturncredit.pages.dev^$all
 ||19-0xfluid.pages.dev^$all
+||19-allowlist-ascendlaunch.pages.dev^$all
 ||19-argusworld.pages.dev^$all
 ||19-argusworlds-933.pages.dev^$all
 ||19-gov-ramses.pages.dev^$all
@@ -52219,8 +52229,10 @@
 ||2-proposal-zama.pages.dev^$all
 ||2-ramses-events.pages.dev^$all
 ||2-ramsesapp.pages.dev^$all
+||2-reallocation-concrete.pages.dev^$all
 ||2-saturncredit.pages.dev^$all
 ||2-venice.pages.dev^$all
+||2-vote-argusworld.pages.dev^$all
 ||2-zamaprotocol.pages.dev^$all
 ||2-zipcoin.pages.dev^$all
 ||20-0xfluid.pages.dev^$all
@@ -52245,6 +52257,7 @@
 ||25-0xfluid.pages.dev^$all
 ||25-argusworld.pages.dev^$all
 ||25-ramses-events.pages.dev^$all
+||26-0xfluid.pages.dev^$all
 ||26-argusworld.pages.dev^$all
 ||26-ramses-events.pages.dev^$all
 ||27-argusworld.pages.dev^$all
@@ -52296,6 +52309,7 @@
 ||30-argusworld.pages.dev^$all
 ||31-argusworld.pages.dev^$all
 ||32-argusworld.pages.dev^$all
+||33-argusworld.pages.dev^$all
 ||3ton-airdrop.pages.dev^$all
 ||4-0xfluid.pages.dev^$all
 ||4-aeroxyz-3eu.pages.dev^$all
@@ -52434,6 +52448,7 @@
 ||8-cantonnetwork.pages.dev^$all
 ||8-derive.pages.dev^$all
 ||8-derives.pages.dev^$all
+||8-derivexyz.pages.dev^$all
 ||8-derivexyz-6ky.pages.dev^$all
 ||8-ecosystem-argus.pages.dev^$all
 ||8-ethenamoney.pages.dev^$all
@@ -101808,6 +101823,7 @@
 ||stonkfundistribution.xyz^$all
 ||stonkfunn.xyz^$all
 ||stonkfuns.xyz^$all
+||stonkfuntoken.xyz^$all
 ||stonkfuntokens.xyz^$all
 ||stonklfun.xyz^$all
 ||stonksfun-dividends.xyz^$all
