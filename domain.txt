@@ -3161,7 +3161,6 @@ eng-trezor-start.netlify.app
 ethcheckers.netlify.app
 ethereum-giveaway.netlify.app
 ethereum-sniperbot.netlify.app
-ethereum-wallet-generator.netlify.app
 ethinstant-claim.netlify.app
 eventchecker-02.netlify.app
 eventchecker-10.netlify.app
