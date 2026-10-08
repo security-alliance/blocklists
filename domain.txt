@@ -22979,7 +22979,7 @@ aligned-ledger-solution-compliance.com
 alignedlayer-tge.com
 alignicmining.com
 aliocation-soneium.com
-alkimicampus.com
+inst.alkimicampus.com
 allarsecur.com
 allbridge-bridge.com
 allin1builders.com
@@ -37652,7 +37652,6 @@ polymarket-on.com
 polymarket-poland.com
 polymarket-pro.com
 polymarket-pt.com
-signin.polymarket-redeem.com
 polymarket-redeemer.com
 polymarket-sale.com
 polymarket-signal.com
