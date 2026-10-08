@@ -14917,6 +14917,7 @@ ledger-com-start.cc
 ledger-com-starts.cc
 ledger-com-wallet.cc
 ledger-update.cc
+legiions.cc
 lifecrypt0.cc
 likefire.cc
 linegamb.cc
@@ -63150,6 +63151,7 @@ ose-jp.fun
 papodefi.fun
 participate-fwa.fun
 particlelife.fun
+pawsofsherwood.fun
 pdmp.fun
 phantom-pump.fun
 piimp.fun
@@ -87389,6 +87391,7 @@ solanamobile.sbs
 solanausdc.sbs
 solayer.sbs
 solend.sbs
+solewar.sbs
 solokeys.sbs
 solspin.sbs
 claim.solstce.sbs
@@ -87405,6 +87408,7 @@ sparkfinance.sbs
 sparklab.sbs
 sparknet.sbs
 sparksfi.sbs
+sparksnet.sbs
 sparrowwallet.sbs
 spcxmeme.sbs
 squidrouter.sbs
@@ -96545,6 +96549,7 @@ catscashclaim.xyz
 cbssupportcenter.xyz
 ccitrea.xyz
 ccoinbase.xyz
+cconcretefoundation.xyz
 ccptrump.xyz
 cdsventure.xyz
 centicrise.xyz
@@ -98563,6 +98568,7 @@ govts-kinetiq.xyz
 gprosol.xyz
 gramsearners.xyz
 graniteassets.xyz
+grass-dashboards.xyz
 grass-foundatiion.xyz
 grassclaim.xyz
 grassdashboard.xyz
@@ -99720,6 +99726,7 @@ myro-migration.xyz
 myro-rewards.xyz
 mysolutionwalletlive.xyz
 myspx-community.xyz
+mystuckfunds.xyz
 mytwcard.xyz
 naado.xyz
 nabla-finance.xyz
@@ -101736,6 +101743,7 @@ starknet-rewards.xyz
 starknet-vote.xyz
 starknet-voting.xyz
 starknetfaucet.xyz
+starknetwbtc.xyz
 start-firelight.xyz
 start-ondo-finance.xyz
 start-xrpl.xyz
