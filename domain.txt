@@ -75873,6 +75873,7 @@ scrollnftminting.nfts2.me
 abstract-punks-3j4ob6.testnet.nfts2.me
 abstract-robots-jugigr.testnet.nfts2.me
 robinhood-qf8xpl.testnet.nfts2.me
+unichain-an-ethereum-l2.nfts2.me
 zesty-moonbirds.nfts2.me
 novaspin.me
 m.okxvip.me
@@ -97495,7 +97496,6 @@ events-chainlink.xyz
 events-edge.xyz
 events-equalizer.xyz
 events-flr.xyz
-events-harmonix.xyz
 events-heisted.xyz
 events-jitonetwork.xyz
 events-mamo.xyz
