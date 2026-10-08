@@ -23806,7 +23806,6 @@ base-refunds.com
 chat.base-spanish.com
 base-suppport-coinbase.com
 base-trading.com
-base-trustwallet.com
 base-tw.com
 base-uniswap.com
 baseappcoinbase.com
