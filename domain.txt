@@ -69574,7 +69574,6 @@ lnfura.io
 lumiwallet.io
 maash.io
 kraken.madprofit.io
-app.magewallet.io
 magic-eden-wallet.io
 eigenlayer.magipiexyz.io
 eigenlayer.magpieyxz.io
