@@ -13995,7 +13995,6 @@ polymarket.casa
 portallogonapp.casa
 pulsar-finance.casa
 rainbet.casa
-app.rayis.casa
 sanctum.casa
 dashboard.soistice.casa
 ssov.casa
