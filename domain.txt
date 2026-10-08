@@ -41226,7 +41226,6 @@ sync-nodeintegrationctr.com
 sync-spend.com
 sync-swap.com
 sync-synapse.com
-sync-trustwallet.com
 syncappfinance.com
 syncproposals.com
 syncvalidsolution.com
