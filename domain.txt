@@ -96845,7 +96845,6 @@ dashboard-poolz.xyz
 dashboard-prjx.xyz
 dashboard-prjx-checker.xyz
 dashboard-proof.xyz
-dashboard-ramses.xyz
 dashboard-sideshift.xyz
 dashboard-sierra.xyz
 dashboard-soneium.xyz
