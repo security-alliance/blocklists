@@ -13694,7 +13694,6 @@ asksurf.cam
 badger.cam
 basezh.cam
 bcbbs.cam
-beams.cam
 beefy.cam
 bingx.cam
 bioprotocoi.cam
