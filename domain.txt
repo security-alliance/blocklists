@@ -15688,6 +15688,7 @@ aero-v4-01.cfd
 aero-v4-03.cfd
 aerocrypton-tw.cfd
 cake.aerofinance.cfd
+aerosxyz.cfd
 aerosxyz-news.cfd
 aeroxyz.cfd
 aether-node.cfd
@@ -72095,6 +72096,7 @@ competitions.life
 concretexyz.life
 dogecoin.life
 dydx.life
+enter-concretexyz.life
 enter-firelight.life
 eth-transf.life
 ethenafi.life
@@ -79981,6 +79983,7 @@ forttresorique.online
 free-reward.online
 fund-qizy.online
 fundai.online
+fxaladdin.online
 gamino1-aea.online
 gateger.online
 eigenlayer.claim.get-rewards-user.online
