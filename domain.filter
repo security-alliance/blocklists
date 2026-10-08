@@ -2887,6 +2887,7 @@
 ||crypto-scx.netlify.app^$all
 ||crypto-sin.netlify.app^$all
 ||crypto-smp.netlify.app^$all
+||crypto-sni.netlify.app^$all
 ||crypto-so5.netlify.app^$all
 ||crypto-sov.netlify.app^$all
 ||crypto-sqc.netlify.app^$all
@@ -61473,6 +61474,7 @@
 ||app-pancackeswap.finance^$all
 ||app-pancakeswap.finance^$all
 ||app-pencle.finance^$all
+||app-rysk.finance^$all
 ||app-termmax.finance^$all
 ||app-tori.finance^$all
 ||app-ts.finance^$all
