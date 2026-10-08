@@ -38169,7 +38169,6 @@ quintledger.com
 quiqcode.com
 quirkies-nft.com
 www.quirkiesnft.com
-quizpopcat.com
 quonpex.com
 quota-venice.com
 qvexora.com
@@ -96569,7 +96568,6 @@ coin-allocation.xyz
 coin-checker.xyz
 coin-code.xyz
 coinbas.xyz
-coinbase-bitmart-kyc-auth.xyz
 coinbase-commerce.xyz
 coinbase-receive.xyz
 coinbase-world.xyz
