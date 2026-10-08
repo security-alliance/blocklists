@@ -31361,7 +31361,6 @@ google-lock.com
 google-meet-app.com
 google-meetlive.com
 google-static-1a1a4b54e838aa62859eaaf9d2b0b199.com
-google-us04.com
 google-verifynow.com
 googleauditing.com
 googleinternalalerts.com
@@ -80698,7 +80697,6 @@ zoomsession.online
 zoomsmeetings.online
 zoomus02web.online
 zoomvideocall.online
-zoomworkspace.online
 zooom-free-video-call-us.online
 zooomcalls.online
 zooomeetingwork.online
@@ -100855,6 +100853,7 @@ robinhoodaiagent.xyz
 robinhoodd.xyz
 robinhoodreward.xyz
 robinhoodupdate.xyz
+roblnhoods.xyz
 robotmines.xyz
 rolbit.xyz
 rollercoin.xyz
