@@ -37624,8 +37624,6 @@ polymarket-betaversion.com
 polymarket-bg.com
 polymarket-ca.com
 polymarket-canada.com
-cashback.polymarket-cashback.com
-signin.polymarket-cashback.com
 polymarket-com.com
 polymarket-cz.com
 polymarket-deutsch.com
