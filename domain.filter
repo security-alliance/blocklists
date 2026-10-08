@@ -52823,7 +52823,6 @@
 ||assets-ledgerr.pages.dev^$all
 ||assets-ledgrlive-eng.pages.dev^$all
 ||assets-ledgrolive-learn.pages.dev^$all
-||aster-dexconnect.pages.dev^$all
 ||asterportal.pages.dev^$all
 ||at-trezr-io-logn.pages.dev^$all
 ||at-trezr-strt.pages.dev^$all
@@ -100385,7 +100384,6 @@
 ||portalhyperfoundation.xyz^$all
 ||portallighter.xyz^$all
 ||portalmantle.xyz^$all
-||portals-aave.xyz^$all
 ||portals-firelightfi.xyz^$all
 ||portals-firelightfi-app.xyz^$all
 ||portals-flarenetwork.xyz^$all

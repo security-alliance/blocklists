@@ -52823,7 +52823,6 @@ asset-ledger-app-45w.pages.dev
 assets-ledgerr.pages.dev
 assets-ledgrlive-eng.pages.dev
 assets-ledgrolive-learn.pages.dev
-aster-dexconnect.pages.dev
 asterportal.pages.dev
 at-trezr-io-logn.pages.dev
 at-trezr-strt.pages.dev
@@ -100385,7 +100384,6 @@ portal-zerion.xyz
 portalhyperfoundation.xyz
 portallighter.xyz
 portalmantle.xyz
-portals-aave.xyz
 portals-firelightfi.xyz
 portals-firelightfi-app.xyz
 portals-flarenetwork.xyz
