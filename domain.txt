@@ -84989,6 +84989,7 @@ tetherex.pro
 text-format-x.pro
 tge-variational.pro
 tgv-connect.pro
+theas.pro
 thorswapapp.pro
 tindons.pro
 tkenstart.pro
