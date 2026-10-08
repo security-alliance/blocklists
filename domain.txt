@@ -19521,7 +19521,6 @@ www-standx.co
 www-stbl.co
 www-thegraph.co
 xghost.co
-xn--lightr-t3a.co
 xpolymarket.co
 xrpl-firelight.co
 xumarevok.co
