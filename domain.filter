@@ -93133,6 +93133,7 @@
 ||farm-v2.trade^$all
 ||firstledger.trade^$all
 ||fix-fload.trade^$all
+||flowpad.trade^$all
 ||app.staging.flowx.trade^$all
 ||fntm-v2.trade^$all
 ||genesis-zksync.trade^$all
