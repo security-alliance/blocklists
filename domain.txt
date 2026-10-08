@@ -13716,7 +13716,6 @@ tronscan.cam
 trustfundapp.cam
 trustwallet-verification.cam
 trustwalletanzhuobanxiazai.cam
-truthterminal.cam
 unicornspinsvip.cam
 usefelix.cam
 user-poiymarket.cam
@@ -14978,7 +14977,6 @@ po1kadot.cc
 pocketes.cc
 pocketex.cc
 pogamb.cc
-poiyhedra.cc
 polgamb.cc
 poll-moonshot.cc
 pollymarkets.cc
@@ -19175,7 +19173,6 @@ hyper-lane.co
 hyperbeat.co
 hyperilqiud.co
 hyperilquid.co
-hyperliqiud.co
 hyperliquidfoundation.co
 i06sn.co
 ickao.co
@@ -19462,7 +19459,6 @@ uz08zoompwdinvite.co
 v2-lido.co
 v2-orca.co
 v3-hyperliquid.co
-v3-sushi.co
 app.v3pro.co
 app-varational.v3pro.co
 variational-omni.v3pro.co
@@ -24262,7 +24258,6 @@ a6.bitgepo.com
 bitget-compliance.com
 bitget-ethereum.com
 bitget-infomation.com
-bitget-program.com
 bitget-signin.com
 bitget-wallet-review.com
 bitgetco.com
@@ -28295,7 +28290,6 @@ dinoscoin.com
 direct-kraken.com
 direct-trust.com
 direct-trust-wallet.com
-direct-trustwallet.com
 direct-whatsapp.com
 directassetreclaim.com
 directiveissue-x.com
@@ -28503,7 +28497,6 @@ dogerig.com
 dogeshitmeme.com
 dogevolt.com
 dogtrainersgeorgia.com
-dogwifhats.com
 dollartree-giftcards.com
 dolomite-finance.com
 dolomitefinance.com
@@ -30643,7 +30636,6 @@ genderismyagenda.com
 genericterminal.com
 genesis-1inch.com
 genesis-apyx.com
-genesis-basedfoundation.com
 tesla.genesis-collectible.com
 genesis-desk.com
 genesis-dopplerfinance.com
@@ -33290,7 +33282,6 @@ kahcas.com
 kaihu-tmgm.com
 kaikobot.com
 kairos-777.com
-kaito-eligible.com
 kaiyun-bonus.com
 kaiyun-bonusbet.com
 kaiyun-fixture.com
@@ -39184,7 +39175,6 @@ reward-desk-xrp.com
 reward-dexscreener.com
 reward-firelight.com
 reward-flarenetwork.com
-reward-flyingtulip.com
 reward-helpdesk.com
 reward-jamongplus.com
 reward-miucoin.com
@@ -40346,7 +40336,6 @@ snaptubego.com
 snaytex.com
 sneakerschromehearts.com
 sniperfun.com
-snipersolus.com
 snipewin.com
 sniptourl.com
 snitchdevgraph.com
@@ -52946,7 +52935,6 @@ claim-eigenlayer-airdrop.pages.dev
 claim-eigenlayers.pages.dev
 claim-fifa.pages.dev
 claim-gosling.pages.dev
-claim-goyim.pages.dev
 claim-gracia.pages.dev
 claim-grail.pages.dev
 claim-guardian.pages.dev
@@ -54125,7 +54113,6 @@ eo-ledgr-starts.pages.dev
 eo-ledgrwllet.pages.dev
 eo-live-ledgr.pages.dev
 eo-phantomw-les.pages.dev
-ergferhbg.pages.dev
 erntrezor-io-start.pages.dev
 eryerh54hthtrhrh.pages.dev
 es-ledger-lve-install.pages.dev
@@ -56688,7 +56675,6 @@ migrate-kinggrippy.pages.dev
 migrate-sheeshafinance.pages.dev
 migratefun-m.pages.dev
 migratefuns.pages.dev
-migratemaiadao.pages.dev
 migrates-singularity-ai.pages.dev
 migration-anyone-ator.pages.dev
 migration-eth.pages.dev
@@ -56851,10 +56837,8 @@ now-start-ledgr-en.pages.dev
 now-trezor-suite.pages.dev
 nowstart-ledgr-en.pages.dev
 noya-ai.pages.dev
-nshflv.pages.dev
 nsrug.pages.dev
 nuo-ledgr-starts.pages.dev
-nx0b6we.pages.dev
 nx8kf.pages.dev
 nxuqmp.pages.dev
 ob-ledger.pages.dev
@@ -62994,7 +62978,6 @@ pump-tool.fun
 pump-v1.fun
 pump-viewstream.fun
 pump-viewstreams.fun
-pump-vote.fun
 pump-watchstream.fun
 pump-watchstreams.fun
 pump-wiki.fun
@@ -63283,7 +63266,6 @@ vip-reward.fun
 virtuals-2026.fun
 virtuals-buyback.fun
 virtuals-summer.fun
-voicestreams.fun
 vote-alt.fun
 vote-dexscreener.fun
 vote-dexscreeners.fun
@@ -64376,7 +64358,6 @@ ecosystems-firelight.icu
 eigenlabs.icu
 app.eigenlllayer.icu
 eiginelayers.icu
-eitherway.icu
 eligble-unlswap.icu
 email-api.icu
 embercurve.icu
@@ -71508,7 +71489,6 @@ claro-rewardsa.lat
 claro-rewardsd.lat
 claro-rewardsf.lat
 clawdcoin.lat
-clawdsecoin.lat
 cloud-verification-server.lat
 coinomize.lat
 collectorcrypt.lat
@@ -74365,7 +74345,6 @@ solclaimreward.live
 solfast.live
 solfee.live
 solmigration.live
-sologenictx.live
 solphx.live
 solslot.live
 solstice-allocation.live
@@ -80815,7 +80794,6 @@ app-arcus.org
 app-astredex.org
 app-atomic.org
 app-curvance.org
-app-curve.org
 app-dydx.org
 claims.app-eigenfoundation.org
 app-exodus.org
@@ -81940,7 +81918,6 @@ metareach.org
 metawarning.org
 meteora-ag.org
 meteora-updates.org
-meteora-v2.org
 meteoraswap.org
 metomask.org
 metricwave.org
@@ -82623,7 +82600,6 @@ support-ledger.org
 supportlisting.org
 suppotercenter.org
 sushi-swap-v3.org
-sushi-v2.org
 sushiswap-v2.org
 svatbata.org
 swap-cow.org
@@ -95779,7 +95755,6 @@ app-reprotocol.xyz
 app-resolv.xyz
 app-resolvlabs.xyz
 app-rxusd.xyz
-app-safe.xyz
 app-saphyre.xyz
 app-saturnefi.xyz
 app-soneiumvote.xyz
@@ -96350,7 +96325,6 @@ checks-otc.xyz
 checks-usepaid.xyz
 checktgaccount.xyz
 chenyikang.xyz
-chib-rewards.xyz
 chillano.xyz
 chomphood.xyz
 chomprhood.xyz
@@ -98559,7 +98533,6 @@ incentivesclaim.xyz
 incentivnet.xyz
 income-yya.xyz
 incsols.xyz
-indexrequest.xyz
 app.inffinex.xyz
 app.infienx.xyz
 app.infiex.xyz
@@ -98829,7 +98802,6 @@ kebabavax.xyz
 keeta-proposal.xyz
 kelpdao-refund.xyz
 kernelkelp.xyz
-khargi-rewards.xyz
 kiedexapp.xyz
 kihetiq.xyz
 kiichainfoundation.xyz
@@ -99179,7 +99151,6 @@ migrate-fun.melodyevent.xyz
 memdev.xyz
 meme-en.xyz
 memebank-rewards.xyz
-memecoins-community.xyz
 memecoinstoken.xyz
 memecointokens.xyz
 memeficlubs.xyz
@@ -99600,7 +99571,6 @@ noob-rewards.xyz
 cowswap.norent.xyz
 notepad-plus.xyz
 noteworthy-lox.xyz
-notgay-rewards.xyz
 notzen.xyz
 noure.xyz
 nova-crypto.xyz
