@@ -45768,7 +45768,6 @@ coinbswallet.wixstudio.com
 coinbuase-extension.wixstudio.com
 coinbuse.wixstudio.com
 coinbuse-pro.wixstudio.com
-coinbuseprologon.wixstudio.com
 coineprologin.wixstudio.com
 coinext-app.wixstudio.com
 coinn-base.wixstudio.com
