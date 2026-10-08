@@ -2832,6 +2832,7 @@
 ||crypto-o0m.netlify.app^$all
 ||crypto-o6w.netlify.app^$all
 ||crypto-oan.netlify.app^$all
+||crypto-ob4.netlify.app^$all
 ||crypto-ofq.netlify.app^$all
 ||crypto-oho.netlify.app^$all
 ||crypto-oht.netlify.app^$all
@@ -2853,6 +2854,7 @@
 ||crypto-ph9.netlify.app^$all
 ||crypto-pod.netlify.app^$all
 ||crypto-pvj.netlify.app^$all
+||crypto-pwy.netlify.app^$all
 ||crypto-q1t.netlify.app^$all
 ||crypto-q5t.netlify.app^$all
 ||crypto-qbd.netlify.app^$all
@@ -5966,6 +5968,7 @@
 ||okxclaim-earnhodltokenrewards.netlify.app^$all
 ||okxclaim-hodlearntoken.netlify.app^$all
 ||okxclaim-holdearntokenrewards.netlify.app^$all
+||okxclaim-robinhood.netlify.app^$all
 ||okxclaimtoken-earnhodl-ver22.netlify.app^$all
 ||okxholdercommunitypoints-j23w.netlify.app^$all
 ||okxmemberstatscommunitypoints-9pxz.netlify.app^$all
@@ -5974,6 +5977,7 @@
 ||okxpointsmemberstatushub-hjk01.netlify.app^$all
 ||okxpointsmemberstatushub-pa23.netlify.app^$all
 ||okxpointsmemberstatushub-vxc9.netlify.app^$all
+||okxrobinhood-claimtoken.netlify.app^$all
 ||okxstatholdercommunitypoints-kal1.netlify.app^$all
 ||okxstatholdercommunitypoints-lkap2.netlify.app^$all
 ||okxstatholdercommunitypoints-vbm2.netlify.app^$all
@@ -11414,6 +11418,7 @@
 ||merrillweb3.asia^$all
 ||mongodb-react.asia^$all
 ||orca.mrexcel.asia^$all
+||plasma-governance.asia^$all
 ||portal-flarenetwork.asia^$all
 ||proposal-axisrobotics.asia^$all
 ||proposals-ether.asia^$all
@@ -16093,6 +16098,7 @@
 ||perfectsol.cfd^$all
 ||phantomminer.cfd^$all
 ||phase-flarenetwork.cfd^$all
+||plasma-governance.cfd^$all
 ||plasmafoundation.cfd^$all
 ||pnmpfun.cfd^$all
 ||pobex.cfd^$all
@@ -16132,6 +16138,7 @@
 ||proposal-paper.cfd^$all
 ||proposal-papertrade.cfd^$all
 ||proposal-teadfi.cfd^$all
+||proposal-umbra.cfd^$all
 ||proposal-ventran.cfd^$all
 ||proposal-zama.cfd^$all
 ||proposals-argus.cfd^$all
@@ -16299,6 +16306,7 @@
 ||sitemuyjraz2i870.cfd^$all
 ||sitemuyjyzd8b9w4.cfd^$all
 ||sitemuykaojd0b0q.cfd^$all
+||sitemuykedos6c5z.cfd^$all
 ||sitemuykpww27nzg.cfd^$all
 ||sitemuyl5c8uki6v.cfd^$all
 ||sitemuyoh1hvgjx7.cfd^$all
@@ -16325,6 +16333,7 @@
 ||sitemuzabgybmusf.cfd^$all
 ||sitemuzdfzxtwbpv.cfd^$all
 ||sitemuzf3yg8ug75.cfd^$all
+||sitemuzhkp2pnwh3.cfd^$all
 ||skyecos.cfd^$all
 ||skyecosystem.cfd^$all
 ||snowwy-peak.cfd^$all
@@ -29407,6 +29416,7 @@
 ||event-genius.com^$all
 ||event-humanity.com^$all
 ||event-hyperlendfi.com^$all
+||event-jesse-base-eth.com^$all
 ||event-kalshi.com^$all
 ||event-kamino.com^$all
 ||event-megaetn.com^$all
@@ -51768,6 +51778,7 @@
 ||1-reallocation-abs.pages.dev^$all
 ||1-saturncredit.pages.dev^$all
 ||1-tge-predict.pages.dev^$all
+||1-venice.pages.dev^$all
 ||1-zamaprotocol.pages.dev^$all
 ||1-zano.pages.dev^$all
 ||1-zano-6vl.pages.dev^$all
@@ -52099,6 +52110,7 @@
 ||5-cantonnetwork.pages.dev^$all
 ||5-derive.pages.dev^$all
 ||5-derives.pages.dev^$all
+||5-derivexyz.pages.dev^$all
 ||5-derivexyz-6ky.pages.dev^$all
 ||5-ecosystem-argus.pages.dev^$all
 ||5-ethenamoney.pages.dev^$all
@@ -53824,6 +53836,11 @@
 ||eiigennlayer.pages.dev^$all
 ||einvitenowc6tao4o15h.pages.dev^$all
 ||einvitenowsi10te4n6m.pages.dev^$all
+||eligibility-ai.pages.dev^$all
+||eligibility-cashcat.pages.dev^$all
+||eligibility-hoodrat.pages.dev^$all
+||eligibility-stocker.pages.dev^$all
+||eligibility-stonkex.pages.dev^$all
 ||elon-dzr.pages.dev^$all
 ||em-startcom-ledgr.pages.dev^$all
 ||en--bridge-trazr.pages.dev^$all
@@ -57328,10 +57345,12 @@
 ||projectsdbserver.pages.dev^$all
 ||prooposal-yieldbasis-info.pages.dev^$all
 ||property-ledger-4qn.pages.dev^$all
+||proposal-3jane.pages.dev^$all
 ||proposal-argus.pages.dev^$all
 ||proposal-argus-epf.pages.dev^$all
 ||proposal-concrete.pages.dev^$all
 ||proposal-derive.pages.dev^$all
+||proposal-synthra.pages.dev^$all
 ||proposal-zama.pages.dev^$all
 ||proposals-aero.pages.dev^$all
 ||prosynntech.pages.dev^$all
@@ -66401,6 +66420,7 @@
 ||prjx.info^$all
 ||promo-trust.info^$all
 ||promo-tw.info^$all
+||proposal-3jane.info^$all
 ||proposal-aerodrome.info^$all
 ||proposal-alignedlayer.info^$all
 ||proposal-apyx.info^$all
@@ -66425,6 +66445,7 @@
 ||proposal-keeta.info^$all
 ||proposal-lido.info^$all
 ||proposal-lighter.info^$all
+||proposal-loanmeme.info^$all
 ||proposal-longbow.info^$all
 ||proposal-megaeth.info^$all
 ||proposal-ondo.info^$all
@@ -82641,7 +82662,6 @@
 ||sushi-swap-v3.org^$all
 ||sushiswap-v2.org^$all
 ||svatbata.org^$all
-||swap-cow.org^$all
 ||swap-jup.org^$all
 ||swap-trust.org^$all
 ||swap-unswap.org^$all
@@ -84012,6 +84032,7 @@
 ||defendercontrol.pro^$all
 ||defi-risk.pro^$all
 ||dejen.pro^$all
+||derivexyz.pro^$all
 ||dex-app.pro^$all
 ||app.dfllma.pro^$all
 ||digital-secure-ive.pro^$all
@@ -91877,6 +91898,7 @@
 ||proposal-flarenetwork.top^$all
 ||proposal-globaldollar.top^$all
 ||proposal-morpho.top^$all
+||proposal-synthra.top^$all
 ||proposal-xstocks.top^$all
 ||proposalapproval.top^$all
 ||proposaldocsviews.top^$all
@@ -98405,6 +98427,7 @@
 ||hubs-hyperfoundation.xyz^$all
 ||hubs-lighter.xyz^$all
 ||hubs-otc.xyz^$all
+||hubs-stonkfun.xyz^$all
 ||hubs-usepaid.xyz^$all
 ||humanity-migrate.xyz^$all
 ||humanity-migration.xyz^$all
