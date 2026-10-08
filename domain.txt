@@ -3297,7 +3297,6 @@ livenewvotingscore-ui.netlify.app
 liveopenprojectspace-gg.netlify.app
 livestatuseligibility-ui.netlify.app
 ma-dao-community.netlify.app
-mackey-coinbase-clone.netlify.app
 magenta-mousse-ce53f7.netlify.app
 marketcoinlistingpull-io.netlify.app
 marketlistingvotestatus-io.netlify.app
