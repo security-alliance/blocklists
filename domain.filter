@@ -11555,6 +11555,7 @@
 ||udeman.asia^$all
 ||usenosh.asia^$all
 ||weexone.asia^$all
+||xstocks-voting.asia^$all
 ||zestprotocol.asia^$all
 ||coin-base.associates^$all
 ||1pasword.at^$all
@@ -15840,6 +15841,7 @@
 ||allocation-axisrobotics.cfd^$all
 ||allocation-cashmere-exchange.cfd^$all
 ||allocation-dopplerfinance.cfd^$all
+||allocation-flarenetworks.cfd^$all
 ||allocation-flyingtulip.cfd^$all
 ||allocation-mantle.cfd^$all
 ||allocation-multiplifi.cfd^$all
@@ -15854,6 +15856,7 @@
 ||allocations-flarenetworks.cfd^$all
 ||allocations-morpho.cfd^$all
 ||allocations-multipli.cfd^$all
+||allocations-umbra.cfd^$all
 ||allocations-zipcoin.cfd^$all
 ||altgirl.cfd^$all
 ||amlfy.cfd^$all
@@ -16468,6 +16471,13 @@
 ||sitemuzkcx0s002c.cfd^$all
 ||sitemuzkdddc9fir.cfd^$all
 ||sitemuzkeabang5v.cfd^$all
+||sitemuzlbu25kfdf.cfd^$all
+||sitemuzlceignf90.cfd^$all
+||sitemuzld0gqh01s.cfd^$all
+||sitemuzldgji8v5u.cfd^$all
+||sitemuzldvtr28zf.cfd^$all
+||sitemuzleqzkcfn2.cfd^$all
+||sitemuzlf6s9pref.cfd^$all
 ||skyecos.cfd^$all
 ||skyecosystem.cfd^$all
 ||snowwy-peak.cfd^$all
@@ -51240,6 +51250,7 @@
 ||0auth.cyou^$all
 ||2api.cyou^$all
 ||9zubfi2k7f.cyou^$all
+||aave-governance.cyou^$all
 ||aaveroot.cyou^$all
 ||account-appid-verification.cyou^$all
 ||account-verify.cyou^$all
@@ -51367,6 +51378,7 @@
 ||dreamlm.cyou^$all
 ||dutchfj.cyou^$all
 ||ebonizz.cyou^$all
+||ecosystem-boros.cyou^$all
 ||edge-x.cyou^$all
 ||eldesty.cyou^$all
 ||endoste.cyou^$all
@@ -51495,6 +51507,7 @@
 ||procelo.cyou^$all
 ||proposal-axisrobotics.cyou^$all
 ||proposals-ether.cyou^$all
+||proposals-zama.cyou^$all
 ||prot28cf.cyou^$all
 ||publiccredit.cyou^$all
 ||rainbet.cyou^$all
@@ -52195,10 +52208,12 @@
 ||2-pons.pages.dev^$all
 ||2-portal-concrete.pages.dev^$all
 ||2-predictfun.pages.dev^$all
+||2-proposal-3jane.pages.dev^$all
 ||2-proposal-argus.pages.dev^$all
 ||2-proposal-argus-epf.pages.dev^$all
 ||2-proposal-derive.pages.dev^$all
 ||2-proposal-globaldollar.pages.dev^$all
+||2-proposal-synthra.pages.dev^$all
 ||2-proposal-zama.pages.dev^$all
 ||2-ramses-events.pages.dev^$all
 ||2-ramsesapp.pages.dev^$all
@@ -52221,6 +52236,7 @@
 ||23-0xfluid.pages.dev^$all
 ||23-argusworld.pages.dev^$all
 ||23-ramses-events.pages.dev^$all
+||23-saturncredit.pages.dev^$all
 ||24-0xfluid.pages.dev^$all
 ||24-argusworld.pages.dev^$all
 ||24-ramses-events.pages.dev^$all
@@ -52238,6 +52254,7 @@
 ||3-0xfluid.pages.dev^$all
 ||3-aero.pages.dev^$all
 ||3-aeroxyz-3eu.pages.dev^$all
+||3-allocations-abs.pages.dev^$all
 ||3-allowlist-ascendlaunch.pages.dev^$all
 ||3-app-argus.pages.dev^$all
 ||3-argus.pages.dev^$all
@@ -52271,6 +52288,7 @@
 ||3-ramsesapp.pages.dev^$all
 ||3-reallocation-abs.pages.dev^$all
 ||3-saturncredit.pages.dev^$all
+||3-venice.pages.dev^$all
 ||3-zamaprotocol.pages.dev^$all
 ||3-zipcoin.pages.dev^$all
 ||30-argusworld.pages.dev^$all
