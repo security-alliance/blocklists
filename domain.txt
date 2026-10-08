@@ -27871,6 +27871,7 @@ dash0systems.com
 dash0tools.com
 dashboard-1inch.com
 dashboard-asterdex.com
+dashboard-based.com
 dashboard-catena.com
 dashboard-dinahosting.com
 dashboard-dupr.com
@@ -61196,6 +61197,7 @@ usdt-no-kyc.exchange
 veda.exchange
 vote-hyperswap.exchange
 vote-monochrome.exchange
+votes-extended.exchange
 worldlibirtyfinance.exchange
 zap.exchange
 akash.expert
@@ -62026,6 +62028,7 @@ votes-firelight.finance
 votes-hyperlend.finance
 votes-maple.finance
 votes-mellow.finance
+votes-metronome.finance
 votes-multipli.finance
 votes-neutrl.finance
 votes-xstocks.finance
