@@ -9683,6 +9683,7 @@
 ||metamask-web.vercel.app^$all
 ||metamask-web3auth-demo.vercel.app^$all
 ||metamask2-eight.vercel.app^$all
+||metapp-pi.vercel.app^$all
 ||meteora-ag2.vercel.app^$all
 ||meteora-test-9kqg.vercel.app^$all
 ||mhcclt-m381y7zn.vercel.app^$all
@@ -11007,6 +11008,7 @@
 ||netcojns-login.wasmer.app^$all
 ||rabbywallet.wasmer.app^$all
 ||secure-exodus-w.wasmer.app^$all
+||secure-metamesk-io.wasmer.app^$all
 ||trust-browser-extension.wasmer.app^$all
 ||wavel.app^$all
 ||web-across.app^$all
@@ -44854,6 +44856,7 @@
 ||ledgerwalleet.webador.com^$all
 ||loginitrusticapital.webador.com^$all
 ||metemesklogin.webador.com^$all
+||free-4708168.webadorsite.com^$all
 ||webaifider.com^$all
 ||webapp-tw.com^$all
 ||webauth-app.com^$all
