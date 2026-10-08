@@ -14511,14 +14511,12 @@ com-1h8s9.cc
 com-2nn39w.cc
 com-4fi7n9.cc
 com-apps.cc
-com-auth.cc
 com-c6fi7.cc
 com-hub.cc
 com-qr.cc
 com-queryloginff-44dd.cc
 com-s-eu.cc
 com-security.cc
-com-usr.cc
 community-listing.cc
 community-voting.cc
 communityvoting.cc
@@ -19275,7 +19273,6 @@ coinmewed.co
 coinmewed3.co
 coinomize.co
 com-activate.co
-com-auth.co
 com-auth-product.co
 com-bp93321.co
 com-qr.co
@@ -30016,7 +30013,6 @@ fi-computing.com
 fi-cryptoevolution.com
 fi-eth.com
 fi-fabk8.com
-fi-fix.com
 fi-investments.com
 fi-investnews.com
 fi-migration.com
@@ -65902,8 +65898,6 @@ tangem.co.in
 admin.thecircleapp.co.in
 trustwallet-transfer.co.in
 pulse.qa.circle.colligence.in
-com-alert.in
-com-signin.in
 apkpikashow.com.in
 capcutapkdl.com.in
 capcutdl.com.in
@@ -66317,7 +66311,6 @@ com-id-1882773.info
 com-log-in.info
 com-pd.info
 krakin.com-platform.info
-com-poly.info
 com-secure-zone.info
 com-start.info
 com-stellar-web.info
@@ -84495,10 +84488,7 @@ com-premium-app.pro
 com-premium-net.pro
 com-proposal.pro
 com-proton-net.pro
-com-proxy-io.pro
 com-public-io.pro
-com-pure-app.pro
-com-quad-io.pro
 com-relay-web.pro
 com-root.pro
 com-route-hub.pro
@@ -84509,7 +84499,6 @@ com-sigma-web.pro
 com-signal-hub.pro
 com-signal-web.pro
 com-sync-app.pro
-com-sync-hub.pro
 com-sync-io.pro
 com-track-web.pro
 com-trust-hub.pro
@@ -84936,7 +84925,6 @@ invoicebase.pro
 io-app.pro
 io-apps.pro
 io-base.pro
-io-cloud.pro
 io-honor.pro
 io-https.pro
 eigenlayer.io-l2.pro
@@ -87307,7 +87295,6 @@ omni.variational.io-en.sbs
 io-exchange.sbs
 io-exchangecrypto.sbs
 io-home.sbs
-io-launch.sbs
 io-platform.sbs
 io-search.sbs
 wallypra.io-sh.sbs
@@ -93508,7 +93495,6 @@ diapath.co.uk
 escalate-trezor.co.uk
 exobus.co.uk
 login.expressshoppers.co.uk
-fi-fix.co.uk
 firelightfi.co.uk
 haven-cottage.co.uk
 jpapw.co.uk

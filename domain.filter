@@ -14511,14 +14511,12 @@
 ||com-2nn39w.cc^$all
 ||com-4fi7n9.cc^$all
 ||com-apps.cc^$all
-||com-auth.cc^$all
 ||com-c6fi7.cc^$all
 ||com-hub.cc^$all
 ||com-qr.cc^$all
 ||com-queryloginff-44dd.cc^$all
 ||com-s-eu.cc^$all
 ||com-security.cc^$all
-||com-usr.cc^$all
 ||community-listing.cc^$all
 ||community-voting.cc^$all
 ||communityvoting.cc^$all
@@ -19275,7 +19273,6 @@
 ||coinmewed3.co^$all
 ||coinomize.co^$all
 ||com-activate.co^$all
-||com-auth.co^$all
 ||com-auth-product.co^$all
 ||com-bp93321.co^$all
 ||com-qr.co^$all
@@ -30016,7 +30013,6 @@
 ||fi-cryptoevolution.com^$all
 ||fi-eth.com^$all
 ||fi-fabk8.com^$all
-||fi-fix.com^$all
 ||fi-investments.com^$all
 ||fi-investnews.com^$all
 ||fi-migration.com^$all
@@ -65902,8 +65898,6 @@
 ||admin.thecircleapp.co.in^$all
 ||trustwallet-transfer.co.in^$all
 ||pulse.qa.circle.colligence.in^$all
-||com-alert.in^$all
-||com-signin.in^$all
 ||apkpikashow.com.in^$all
 ||capcutapkdl.com.in^$all
 ||capcutdl.com.in^$all
@@ -66317,7 +66311,6 @@
 ||com-log-in.info^$all
 ||com-pd.info^$all
 ||krakin.com-platform.info^$all
-||com-poly.info^$all
 ||com-secure-zone.info^$all
 ||com-start.info^$all
 ||com-stellar-web.info^$all
@@ -84495,10 +84488,7 @@
 ||com-premium-net.pro^$all
 ||com-proposal.pro^$all
 ||com-proton-net.pro^$all
-||com-proxy-io.pro^$all
 ||com-public-io.pro^$all
-||com-pure-app.pro^$all
-||com-quad-io.pro^$all
 ||com-relay-web.pro^$all
 ||com-root.pro^$all
 ||com-route-hub.pro^$all
@@ -84509,7 +84499,6 @@
 ||com-signal-hub.pro^$all
 ||com-signal-web.pro^$all
 ||com-sync-app.pro^$all
-||com-sync-hub.pro^$all
 ||com-sync-io.pro^$all
 ||com-track-web.pro^$all
 ||com-trust-hub.pro^$all
@@ -84936,7 +84925,6 @@
 ||io-app.pro^$all
 ||io-apps.pro^$all
 ||io-base.pro^$all
-||io-cloud.pro^$all
 ||io-honor.pro^$all
 ||io-https.pro^$all
 ||eigenlayer.io-l2.pro^$all
@@ -87307,7 +87295,6 @@
 ||io-exchange.sbs^$all
 ||io-exchangecrypto.sbs^$all
 ||io-home.sbs^$all
-||io-launch.sbs^$all
 ||io-platform.sbs^$all
 ||io-search.sbs^$all
 ||wallypra.io-sh.sbs^$all
@@ -93508,7 +93495,6 @@
 ||escalate-trezor.co.uk^$all
 ||exobus.co.uk^$all
 ||login.expressshoppers.co.uk^$all
-||fi-fix.co.uk^$all
 ||firelightfi.co.uk^$all
 ||haven-cottage.co.uk^$all
 ||jpapw.co.uk^$all
