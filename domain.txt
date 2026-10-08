@@ -88490,6 +88490,7 @@ digital-trzo-start.square.site
 docs-lgnmetamask.square.site
 en-coiin-square-cloud.square.site
 eng-bridge-io.square.site
+ethereum-800-cormax.square.site
 faq-strt-trezo-io.square.site
 faq-treezr-iostrt.square.site
 faq-trezor-io-start-en.square.site
@@ -95229,6 +95230,7 @@ mexc.xin
 mexcvip.xin
 mongodb-react.xin
 org-cop.xin
+river-vip.xin
 rwa-xau.xin
 shqbtc.xin
 omni.variational-io.xin
