@@ -7757,7 +7757,6 @@
 ||snapshot-usepaid.app^$all
 ||soberside.app^$all
 ||soilclaim.app^$all
-||sol-airdrop.app^$all
 ||solana-swapper.app^$all
 ||solanamixer.app^$all
 ||solisticefinance.app^$all
@@ -12760,7 +12759,6 @@
 ||cnhlguxb.bond^$all
 ||cnlrbmwhile.bond^$all
 ||coftwallet.bond^$all
-||coinbase-bitmart-kyc-auth.bond^$all
 ||collegearrm.bond^$all
 ||colrfuju.bond^$all
 ||com-auth.bond^$all
@@ -42763,7 +42761,6 @@
 ||trustwallet-legal.com^$all
 ||trustwallet-live.com^$all
 ||trustwallet-main.com^$all
-||trustwallet-mobile.com^$all
 ||trustwallet-multichain.com^$all
 ||trustwallet-noreply.com^$all
 ||trustwallet-officesupport.com^$all
@@ -42879,7 +42876,6 @@
 ||trustwalletsupportteam.com^$all
 ||trustwallettc.com^$all
 ||trustwallettq.com^$all
-||trustwallettrade.com^$all
 ||trustwallettransfers.com^$all
 ||trustwallettrx.com^$all
 ||trustwalletuae.com^$all
@@ -43191,7 +43187,6 @@
 ||uni-swapdapp-connect.com^$all
 ||uni-swapp.com^$all
 ||uni-uniswap.com^$all
-||uni-wallet.com^$all
 ||unibet-f.com^$all
 ||unibet-new.com^$all
 ||unibets-romania.com^$all
@@ -43289,7 +43284,6 @@
 ||uniswapptech.com^$all
 ||uniswapster.com^$all
 ||uniswaptechn.com^$all
-||uniswaptwamm.com^$all
 ||uniswapuniszk.com^$all
 ||uniswapunixkp.com^$all
 ||uniswegm.com^$all
@@ -44599,7 +44593,6 @@
 ||walletconnecct.com^$all
 ||walletconnecr.com^$all
 ||walletconnect---webapp.com^$all
-||walletconnect-qr.com^$all
 ||walletconnectdapps.com^$all
 ||walletconnectgate.com^$all
 ||walletconnections.com^$all
@@ -60905,8 +60898,6 @@
 ||hyperlinkxyz.digital^$all
 ||hyperliqiud.digital^$all
 ||hyperpredict.digital^$all
-||identity-wallet.digital^$all
-||identitywallet.digital^$all
 ||ili-rica.digital^$all
 ||info-transfer.digital^$all
 ||invoicecoinbase.digital^$all
@@ -64662,7 +64653,6 @@
 ||app-asterdex.icu^$all
 ||app-concrete.icu^$all
 ||app-concretefoundation.icu^$all
-||app-dappradar.icu^$all
 ||app-doppler.icu^$all
 ||app-dopplerfinance.icu^$all
 ||app-firelight.icu^$all
@@ -67420,7 +67410,6 @@
 ||zano.info^$all
 ||zchain-site.info^$all
 ||zebec-network.info^$all
-||zerionwalletscan.info^$all
 ||zerkalo--kraken.info^$all
 ||zerofeeinvestment.info^$all
 ||zipcoin.info^$all
@@ -85427,7 +85416,6 @@
 ||ponsfamily.promo^$all
 ||rainbet.promo^$all
 ||solpot.promo^$all
-||trustwallet.promo^$all
 ||trustwalletcryptocard.promo^$all
 ||awatson.properties^$all
 ||kraken.com.support.bc1q8zca56ds9j9zwxvln3e96p9em55h62048q04py.sevvel.properties^$all
@@ -99342,7 +99330,6 @@
 ||jup-jup.xyz^$all
 ||jup-portal.xyz^$all
 ||jup-verify.xyz^$all
-||jupag-airdrops.xyz^$all
 ||jupag-allocation.xyz^$all
 ||jupag-community.xyz^$all
 ||jupag-portal.xyz^$all
@@ -102488,9 +102475,7 @@
 ||uniswap-withdraw.xyz^$all
 ||uniswapbot.xyz^$all
 ||uniswapchange.xyz^$all
-||uniswapdao.xyz^$all
 ||uniswapking.xyz^$all
-||uniswaplender.xyz^$all
 ||united-rewards.xyz^$all
 ||unlock-ore.xyz^$all
 ||unlock-usepaid.xyz^$all

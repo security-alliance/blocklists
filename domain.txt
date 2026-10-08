@@ -7757,7 +7757,6 @@ snapshot-unipeg.app
 snapshot-usepaid.app
 soberside.app
 soilclaim.app
-sol-airdrop.app
 solana-swapper.app
 solanamixer.app
 solisticefinance.app
@@ -12760,7 +12759,6 @@ cmthtyuy.bond
 cnhlguxb.bond
 cnlrbmwhile.bond
 coftwallet.bond
-coinbase-bitmart-kyc-auth.bond
 collegearrm.bond
 colrfuju.bond
 com-auth.bond
@@ -42763,7 +42761,6 @@ trustwallet-kyc.com
 trustwallet-legal.com
 trustwallet-live.com
 trustwallet-main.com
-trustwallet-mobile.com
 trustwallet-multichain.com
 trustwallet-noreply.com
 trustwallet-officesupport.com
@@ -42879,7 +42876,6 @@ trustwalletsupportofficial.com
 trustwalletsupportteam.com
 trustwallettc.com
 trustwallettq.com
-trustwallettrade.com
 trustwallettransfers.com
 trustwallettrx.com
 trustwalletuae.com
@@ -43191,7 +43187,6 @@ uni-i-connect.com
 uni-swapdapp-connect.com
 uni-swapp.com
 uni-uniswap.com
-uni-wallet.com
 unibet-f.com
 unibet-new.com
 unibets-romania.com
@@ -43289,7 +43284,6 @@ uniswapping.com
 uniswapptech.com
 uniswapster.com
 uniswaptechn.com
-uniswaptwamm.com
 uniswapuniszk.com
 uniswapunixkp.com
 uniswegm.com
@@ -44599,7 +44593,6 @@ walletconnct.com
 walletconnecct.com
 walletconnecr.com
 walletconnect---webapp.com
-walletconnect-qr.com
 walletconnectdapps.com
 walletconnectgate.com
 walletconnections.com
@@ -60905,8 +60898,6 @@ hylo.digital
 hyperlinkxyz.digital
 hyperliqiud.digital
 hyperpredict.digital
-identity-wallet.digital
-identitywallet.digital
 ili-rica.digital
 info-transfer.digital
 invoicecoinbase.digital
@@ -64662,7 +64653,6 @@ apmcacoin.icu
 app-asterdex.icu
 app-concrete.icu
 app-concretefoundation.icu
-app-dappradar.icu
 app-doppler.icu
 app-dopplerfinance.icu
 app-firelight.icu
@@ -67420,7 +67410,6 @@ zamaprotocol.info
 zano.info
 zchain-site.info
 zebec-network.info
-zerionwalletscan.info
 zerkalo--kraken.info
 zerofeeinvestment.info
 zipcoin.info
@@ -85427,7 +85416,6 @@ cryptorewards.promo
 ponsfamily.promo
 rainbet.promo
 solpot.promo
-trustwallet.promo
 trustwalletcryptocard.promo
 awatson.properties
 kraken.com.support.bc1q8zca56ds9j9zwxvln3e96p9em55h62048q04py.sevvel.properties
@@ -99342,7 +99330,6 @@ jup-coin.xyz
 jup-jup.xyz
 jup-portal.xyz
 jup-verify.xyz
-jupag-airdrops.xyz
 jupag-allocation.xyz
 jupag-community.xyz
 jupag-portal.xyz
@@ -102488,9 +102475,7 @@ uniswap-v4.xyz
 uniswap-withdraw.xyz
 uniswapbot.xyz
 uniswapchange.xyz
-uniswapdao.xyz
 uniswapking.xyz
-uniswaplender.xyz
 united-rewards.xyz
 unlock-ore.xyz
 unlock-usepaid.xyz
