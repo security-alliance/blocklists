@@ -53606,7 +53606,6 @@ dogecoinonsol.pages.dev
 dogegoal.pages.dev
 dogegov-ai.pages.dev
 dogen-memes.pages.dev
-dogevercetoken.pages.dev
 dogeversestaking.pages.dev
 dogizen-io.pages.dev
 dogs-listing-deposit-to-exchange-walletconnect.pages.dev
@@ -80716,6 +80715,7 @@ account-chain.org
 account-deal.org
 account-trustwallet.org
 accountviewerv2.org
+accross.org
 acmecoinwave.org
 across-bridge.org
 across-bridges.org
