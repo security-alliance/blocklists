@@ -9292,7 +9292,6 @@ eth-arbitrage-bot.vercel.app
 eth-chat-sigma.vercel.app
 eth-side-eeyllb760-glow-s-projects1.vercel.app
 ethercompiler.vercel.app
-ethereum-wallet-generator-online.vercel.app
 etherfi-protocol-dex-relay-v172.vercel.app
 etherfi-protocol-dex-relay-v415.vercel.app
 etherfi-turbo-etherfi-corp.vercel.app
