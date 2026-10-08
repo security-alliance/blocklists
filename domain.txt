@@ -60410,7 +60410,6 @@ global-vcc.digital
 globalcc.digital
 grandvegas.digital
 grvtio.digital
-gta6coin.digital
 hashwood.digital
 hoodlock.digital
 hydrexfi.digital
@@ -71834,7 +71833,6 @@ proposalforget.lat
 propsoal-netnet.lat
 puffer.lat
 pumpfuns.lat
-punchonsolan.lat
 purplebitcoin.lat
 pyth.lat
 q3-ethenafi.lat
@@ -71865,7 +71863,6 @@ rocketsol.lat
 s7ethena.lat
 sbticoin.lat
 scamaltman.lat
-scoutlygg.lat
 securewallet.lat
 shibainuleashmigration.lat
 shroomnetwork.lat
@@ -74264,7 +74261,6 @@ robinhoodvoting.live
 robinhoodvotings.live
 robinstream.live
 rocket-origindefi.live
-rocketonsol.live
 rollblocktoken.live
 rollsols.live
 rugmoon.live
@@ -74673,7 +74669,6 @@ variationaldesktop.live
 vaultbridgewavex.live
 vaultcoin.live
 vayla.live
-vdor.live
 vegas2026.live
 veles-capital.live
 veloratrade.live
@@ -75105,7 +75100,6 @@ brno-harris.lol
 bsghsshwowno.lol
 btorbncw.lol
 bulltheleader.lol
-burniesenders.lol
 callierbhcoin.lol
 cantonnetwork.lol
 cate-on-sol.lol
@@ -86678,7 +86672,6 @@ flares.sbs
 fluidio.sbs
 fluxfinance.sbs
 fntm-v2.sbs
-forgotteneth.sbs
 fortnitex.sbs
 fortune-gambling.sbs
 foundation-netnet.sbs
@@ -87327,7 +87320,6 @@ vcfoundercapital.sbs
 vcfullstackcapital.sbs
 velocity-lantern.sbs
 vercei.sbs
-vercels.sbs
 verifica-conexao.sbs
 verifica-g.sbs
 verification-gateway92.sbs
@@ -101358,7 +101350,6 @@ soniclabs-vote.xyz
 soniclabs-voting.xyz
 sonkfun.xyz
 soolfaucet.xyz
-sovietcat-rewards.xyz
 skr.space-net.xyz
 space-web.xyz
 spankdotfinance.xyz
