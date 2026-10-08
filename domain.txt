@@ -35415,6 +35415,7 @@ microsotf-ms365cloud.com
 microsotf-o365.com
 microsotf-o365aouth.com
 microsotf-o365auth.com
+microsotf-o365authn.com
 microsotf-o365oauth.com
 microsotf365-auth.com
 microsotf365-auths.com
@@ -42741,7 +42742,6 @@ trustswalletcard.com
 trusttws.com
 trustvaullltx.com
 trustvaultcapital.com
-trustvaultcard.com
 trustvvallet.com
 trustw-aml.com
 trustwailet.com

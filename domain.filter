@@ -35415,6 +35415,7 @@
 ||microsotf-o365.com^$all
 ||microsotf-o365aouth.com^$all
 ||microsotf-o365auth.com^$all
+||microsotf-o365authn.com^$all
 ||microsotf-o365oauth.com^$all
 ||microsotf365-auth.com^$all
 ||microsotf365-auths.com^$all
@@ -42741,7 +42742,6 @@
 ||trusttws.com^$all
 ||trustvaullltx.com^$all
 ||trustvaultcapital.com^$all
-||trustvaultcard.com^$all
 ||trustvvallet.com^$all
 ||trustw-aml.com^$all
 ||trustwailet.com^$all
