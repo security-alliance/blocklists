@@ -6810,7 +6810,6 @@ rad-bonbon-49f343.netlify.app
 realvisionpartnerships.netlify.app
 replicasitiocoinbasebootstrap.netlify.app
 restoremtamaskwallet.netlify.app
-richiescoinbaseclone.netlify.app
 risingcommunitypollresults-soln.netlify.app
 robinhood-1p5gljh0.netlify.app
 robinhood-2y4ckl8w.netlify.app
@@ -29495,7 +29494,6 @@ exchange-accout.com
 exchange-eth.com
 exchange-kraken.com
 exchange-nft-now.com
-exchange-trustwallet.com
 exchange-x2.com
 exchange-xmr.com
 exchangeaiamm.com
@@ -94278,7 +94276,7 @@ jackflux.vip
 jackvortex.vip
 jeweldust.vip
 jito-network.vip
-jumper.vip
+app.jumper.vip
 jupitersgo.vip
 kairoxo.vip
 karken.vip
