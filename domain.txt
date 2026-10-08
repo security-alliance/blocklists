@@ -37597,7 +37597,7 @@ polymarket-on.com
 polymarket-poland.com
 polymarket-pro.com
 polymarket-pt.com
-polymarket-redeem.com
+signin.polymarket-redeem.com
 polymarket-redeemer.com
 polymarket-sale.com
 polymarket-signal.com
