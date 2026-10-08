@@ -41066,7 +41066,6 @@ support-soflnco.com
 support-swyftx.com
 support-team-coinbase.com
 support-tickets-coinbase.com
-support-tip.com
 support-trust-coinbase.com
 support-trustwallets.com
 support-vault.com
@@ -57813,7 +57812,6 @@ skyrainbetcasino-it.pages.dev
 slingshot-forms.pages.dev
 slingshot-trade.pages.dev
 smart-appbasicversess.pages.dev
-smart-autofix.pages.dev
 smart-connect-mainnet.pages.dev
 smart-dappswiftly.pages.dev
 smart-mainnet.pages.dev
