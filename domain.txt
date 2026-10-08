@@ -11606,6 +11606,7 @@ bugamb.at
 cakewallet.at
 cakewallet-app.at
 cakewallet-web.at
+cakewallets.at
 casinorainbet.at
 121zas.catex.at
 97ee3.catex.at
@@ -97023,6 +97024,7 @@ claim-zugchain.xyz
 claimbest.xyz
 claimcitrea.xyz
 claimdegen.xyz
+thegraph.claimdrop-web3.xyz
 claimeigen-foundation.xyz
 claimhyperfoundation.xyz
 claiming-app.xyz
