@@ -2900,6 +2900,7 @@
 ||crypto-lqy.netlify.app^$all
 ||crypto-lr1.netlify.app^$all
 ||crypto-lrt.netlify.app^$all
+||crypto-ls3.netlify.app^$all
 ||crypto-lv5.netlify.app^$all
 ||crypto-m0k.netlify.app^$all
 ||crypto-mal.netlify.app^$all
@@ -10616,6 +10617,7 @@
 ||trxfee-swap-protocol-v9.vercel.app^$all
 ||tunnel-euff.vercel.app^$all
 ||tunnel-fspy.vercel.app^$all
+||tunnel-gso1.vercel.app^$all
 ||tunnel-jr2k.vercel.app^$all
 ||tunnel-nmb9.vercel.app^$all
 ||tunnel-pvvn.vercel.app^$all
@@ -13306,6 +13308,7 @@
 ||wvukbeaw.bond^$all
 ||wvzafeeling.bond^$all
 ||x-pay.bond^$all
+||xstocks-voting.bond^$all
 ||hyperliquid.xyz.bond^$all
 ||coinbase.boston^$all
 ||aml.bot^$all
@@ -16450,6 +16453,8 @@
 ||sitemuzdfzxtwbpv.cfd^$all
 ||sitemuzf3yg8ug75.cfd^$all
 ||sitemuzhkp2pnwh3.cfd^$all
+||sitemuzir7pfo120.cfd^$all
+||sitemuzjy9jod2ze.cfd^$all
 ||skyecos.cfd^$all
 ||skyecosystem.cfd^$all
 ||snowwy-peak.cfd^$all
@@ -20629,7 +20634,6 @@
 ||328634-ledger.com^$all
 ||3291944-ledger.com^$all
 ||329295-ledger.com^$all
-||329302coinbase.com^$all
 ||329430coinbase.com^$all
 ||329493-coinspot.com^$all
 ||329502-ledger.com^$all
@@ -40003,6 +40007,7 @@
 ||season1-arcium.com^$all
 ||season1-hyperlend.com^$all
 ||season1-ponsfamily.com^$all
+||season1-stonk.com^$all
 ||season2-firelight.com^$all
 ||season2-flare.com^$all
 ||season2-ostium.com^$all
@@ -44215,6 +44220,7 @@
 ||vote-fogo.com^$all
 ||vote-genius.com^$all
 ||vote-jaileddotfun.com^$all
+||vote-jumper.com^$all
 ||vote-kaitoai.com^$all
 ||vote-kennedy.com^$all
 ||vote-kled.com^$all
@@ -51608,6 +51614,7 @@
 ||x-pay.cyou^$all
 ||xiahuie.cyou^$all
 ||xinjys.cyou^$all
+||xstocks-voting.cyou^$all
 ||yarddrq.cyou^$all
 ||yashnei.cyou^$all
 ||yield-otra.cyou^$all
@@ -51927,14 +51934,17 @@
 ||1-derive.pages.dev^$all
 ||1-derive-ezf.pages.dev^$all
 ||1-derives.pages.dev^$all
+||1-derivexyz.pages.dev^$all
 ||1-derivexyz-1y2.pages.dev^$all
 ||1-derivexyz-6ky.pages.dev^$all
 ||1-ecosystem-argus.pages.dev^$all
 ||1-ethena.pages.dev^$all
+||1-ethenafinance.pages.dev^$all
 ||1-ethenamoney.pages.dev^$all
 ||1-fluidio.pages.dev^$all
 ||1-gov-ramses.pages.dev^$all
 ||1-hyperlink.pages.dev^$all
+||1-hyperlinkapp.pages.dev^$all
 ||1-hyperlinkapp-86x.pages.dev^$all
 ||1-hyperlinkfi.pages.dev^$all
 ||1-hyperlinkxyz-e79.pages.dev^$all
@@ -52041,6 +52051,7 @@
 ||12-ramses-events.pages.dev^$all
 ||12-reallocation-abs.pages.dev^$all
 ||12-saturncredit.pages.dev^$all
+||12-zamaprotocol.pages.dev^$all
 ||12-zipcoin.pages.dev^$all
 ||13-0xfluid.pages.dev^$all
 ||13-allowlist-ascendlaunch.pages.dev^$all
@@ -52144,6 +52155,7 @@
 ||2-argus-2n6.pages.dev^$all
 ||2-argus-pad.pages.dev^$all
 ||2-argusworld.pages.dev^$all
+||2-argusworlds.pages.dev^$all
 ||2-argusworlds-933.pages.dev^$all
 ||2-cantonnetwork.pages.dev^$all
 ||2-derive-ezf.pages.dev^$all
@@ -52201,6 +52213,7 @@
 ||28-argusworld.pages.dev^$all
 ||28-ramses-events.pages.dev^$all
 ||29-argusworld.pages.dev^$all
+||29-ramses-events.pages.dev^$all
 ||3-0xfluid.pages.dev^$all
 ||3-aero.pages.dev^$all
 ||3-aeroxyz-3eu.pages.dev^$all
@@ -53613,6 +53626,7 @@
 ||deribit-36x.pages.dev^$all
 ||derive-ezf.pages.dev^$all
 ||derives.pages.dev^$all
+||derivesxyz.pages.dev^$all
 ||derivexyz-1y2.pages.dev^$all
 ||derivexyz-6ky.pages.dev^$all
 ||des-lgerlive.pages.dev^$all
@@ -58608,6 +58622,7 @@
 ||testingthi-distribution.pages.dev^$all
 ||testtest-de4.pages.dev^$all
 ||testusdc.pages.dev^$all
+||tge-extended.pages.dev^$all
 ||thalea-poc-verify.pages.dev^$all
 ||the-artificers-ledger.pages.dev^$all
 ||the-astoria-ledger.pages.dev^$all
@@ -59865,6 +59880,7 @@
 ||x-token-claim-portal.pages.dev^$all
 ||x-token-eligibility-check.pages.dev^$all
 ||x-verify-claim.pages.dev^$all
+||xaman-promo.pages.dev^$all
 ||xcommunityreward.pages.dev^$all
 ||xcommunityrewards.pages.dev^$all
 ||xend-brige.pages.dev^$all
@@ -61374,6 +61390,7 @@
 ||scroll.exchange^$all
 ||sodex.exchange^$all
 ||spiritswap.exchange^$all
+||tge-extended.exchange^$all
 ||tmgm-chinese.exchange^$all
 ||tocketx.exchange^$all
 ||tornadocash.exchange^$all
@@ -62358,6 +62375,7 @@
 ||mixero.forum^$all
 ||my-rewards.forum^$all
 ||myrewards.forum^$all
+||plasma-governance.forum^$all
 ||revenue-axs.forum^$all
 ||reward-gifts.forum^$all
 ||reward-myvip.forum^$all
@@ -95564,6 +95582,7 @@
 ||access-flaregovernance.xyz^$all
 ||access-hyperfoundation.xyz^$all
 ||access-lighter.xyz^$all
+||access-papertrade.xyz^$all
 ||access-usepaid.xyz^$all
 ||access-xrpl.xyz^$all
 ||accesshyperfoundation.xyz^$all
@@ -101739,6 +101758,7 @@
 ||stonkfundistribution.xyz^$all
 ||stonkfunn.xyz^$all
 ||stonkfuns.xyz^$all
+||stonkfuntokens.xyz^$all
 ||stonklfun.xyz^$all
 ||stonksfun-dividends.xyz^$all
 ||stonksmigrate.xyz^$all
@@ -103354,6 +103374,8 @@
 ||zipcoin-proposal.xyz^$all
 ||zipcoincash.xyz^$all
 ||zipcoins-proposal.xyz^$all
+||zipscoin.xyz^$all
+||zipscoincash.xyz^$all
 ||zksyncerayield.xyz^$all
 ||zone-allocation.xyz^$all
 ||zoom-81245678912.xyz^$all
