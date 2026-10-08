@@ -64555,7 +64555,6 @@ app-lido.icu
 app-netnet.icu
 app-pendle.icu
 app-pmp.icu
-app-poly.icu
 app-soil.icu
 app-xaman.icu
 app-yieldbasis.icu
@@ -76892,7 +76891,6 @@ app-kaspa.net
 app-ledgar.net
 app-mint.net
 app-phantom.net
-app-poly.net
 app-rocketpool.net
 app-sushiswaps.net
 app-tradao.net
