@@ -61312,7 +61312,6 @@ governance-ether.fi
 hub-apyx.fi
 hub-ether.fi
 hyperbeat.fi
-hypurr.fi
 hyrperlend.fi
 jlido.fi
 metavaults.kamino.fi
