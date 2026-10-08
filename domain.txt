@@ -99426,7 +99426,6 @@ my-wcevwvc.xyz
 myeigenlayer.xyz
 myflareclaim.xyz
 myfuzzy-collection.xyz
-mygateway.xyz
 mygetnow.xyz
 mypamella.xyz
 myro-migration.xyz
