@@ -1509,7 +1509,6 @@ exodussupport.fercel.app
 ferdium.app
 fi-proposal.app
 finance-v2.app
-finhattan.app
 fip17-flareportal.app
 fireight.app
 firelight-claim.app
