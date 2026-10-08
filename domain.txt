@@ -50516,6 +50516,7 @@ xrpl-desk.com
 xrpl-dex.com
 xrpl-distributions.com
 xrpl-phnix.com
+xrpl-receive.com
 xrpl-soil.com
 xrpl-verify.com
 xrpl-xamanwallet.com
