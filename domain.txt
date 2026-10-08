@@ -15587,6 +15587,7 @@ zoom4dpro7.cc
 zoom4dpro8.cc
 zoom4dpro9.cc
 zoomlive.cc
+zoommeet.cc
 zorewin.cc
 zxkvip66.cc
 exodus.bot.cd
@@ -16372,6 +16373,7 @@ unlock-profile.cfd
 unlock-your-account-process.cfd
 unlock-your-profile.cfd
 unlock-your-profile-process.cfd
+us05webzoom.cfd
 usdcoin.cfd
 usdcwheel.cfd
 usdds.cfd
@@ -35990,7 +35992,6 @@ nodefixconnector.com
 nodefusionchain.com
 noderesolvefixer.com
 nodes-trust-wallet.com
-nodes-trustwallet.com
 app.nodesyncfix.com
 nodev3.com
 nodevium.com
@@ -43417,6 +43418,7 @@ uswebex.com
 uswebzoom.com
 usx06-zoom.com
 usx07-zoom.com
+uszoom0043553candidate0fd06575id.com
 utinys.com
 utinysnm.com
 utmost-tradinglive.com
@@ -50630,6 +50632,7 @@ zoom-x.com
 zoom06web.com
 zoomaiassistant.com
 zoomamericas.com
+zoomappupdate.com
 zoomassistpro.com
 zoomcalltoinvite.com
 zoomchrome.com
@@ -50670,6 +50673,7 @@ zoominfoportal.com
 zoominforeviews.com
 zoomingroominvb.com
 zoominvitesemp.com
+zoomjoinlive.com
 zoomjoinsession.com
 zoomlive1004.com
 zoomlivemeets.com
@@ -50734,6 +50738,7 @@ zoomwithkaela.com
 zoomwithkathleenconnerty.com
 zoomwithkbs.com
 zoomwithmandykay.com
+zoomwithmarko.com
 zoomwithmegan.com
 zoomwithmegancom.com
 zoomwithmothership.com
@@ -60782,6 +60787,7 @@ us09web.es
 virtualbox.es
 yo-casino.es
 yocasino-juegos.es
+zoommeeting-confirmation.es
 crates-deed.estate
 governance-deed.estate
 proposal-deed.estate
@@ -66894,6 +66900,7 @@ zoom-invite.info
 zoom-videometting.info
 zoomagent.info
 zoomagentmeeting.info
+zoomappupdate.info
 zoomdocu-installation.info
 zoominstaller.info
 zoommeetingagent.info
@@ -78754,6 +78761,7 @@ zoom-evite.net
 zoom-meet.net
 zoom-us.net
 zoomappdownload.net
+zoomappupdate.net
 zoomdefi.net
 zoomguide.net
 zoominfopayment.net
@@ -89251,6 +89259,7 @@ xpsportugal.store
 xtoken.store
 xummdesktop.store
 zoom-app.store
+zoomappupdate.store
 zoomhub.store
 zoomiepal.store
 zoomiezones.store
@@ -93870,6 +93879,7 @@ vv9.us
 vveb04.us
 w-store.us
 w05zoom.us
+w06zoom.us
 w07zoom.us
 w2b.us
 w2s.us
@@ -103107,6 +103117,7 @@ zone-allocation.xyz
 zoom-81245678912.xyz
 zooma07.xyz
 zoomabnm.xyz
+zoomappupdate.xyz
 zoomchains.xyz
 zoominvitemeet.xyz
 zoommeet2312xxqq.xyz
