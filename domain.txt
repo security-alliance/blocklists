@@ -13862,7 +13862,6 @@ rainbet.casa
 app.rayis.casa
 sanctum.casa
 dashboard.soistice.casa
-sparkfi.casa
 ssov.casa
 stakingreward.casa
 tronlink.casa
@@ -14030,7 +14029,6 @@ zipcasino.casino
 peepeedrop92.cat
 pepeedrop92.cat
 strendus.cat
-web2.0comprehensiveapplication.cc
 app.0gfoundation.cc
 125345.cc
 19961005.cc
@@ -101441,7 +101439,6 @@ standardlreserves.xyz
 standardreserves.xyz
 standbynear.xyz
 starcomplete.xyz
-stargate-finance-project.xyz
 stargatefix.xyz
 starknet-allocation.xyz
 starknet-allocations.xyz
