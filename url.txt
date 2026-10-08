@@ -265,6 +265,7 @@ https://sites.google.com/view/launch-desktop-ledger-wallet
 https://sites.google.com/view/launch-trezor-desktop-app
 https://sites.google.com/view/launch-trezor-desktop-apps/
 https://sites.google.com/view/learn-bitbuy-ca/home
+https://sites.google.com/view/learn-exodus-en/home
 https://sites.google.com/view/learn-extension-base/home
 https://sites.google.com/view/learn-extension-pro/home
 https://sites.google.com/view/learn-how-to-file-a-co/home
