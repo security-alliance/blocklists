@@ -80831,7 +80831,6 @@
 ||trusttcard.online^$all
 ||trustvirtualcard.online^$all
 ||trustwallet-apply.online^$all
-||trustwallet-cards.online^$all
 ||trustwallet-codegen.online^$all
 ||trustwallet-cs.online^$all
 ||trustwallet-fly.online^$all
