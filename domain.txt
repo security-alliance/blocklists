@@ -36649,6 +36649,7 @@ operation-trustwallet.com
 operation-x.com
 opladns.com
 opnesea.com
+opseaartabs.com
 metamask.opshelpdes.com
 optimalstradings.com
 optimaltradex.com
@@ -42657,7 +42658,6 @@ trx-tronlink.com
 trxchecker.com
 trxdr.com
 trxfees.com
-trxix.com
 trxrocket.com
 trxue.com
 try-daas.com
