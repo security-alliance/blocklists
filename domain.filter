@@ -65303,6 +65303,7 @@
 ||com-secure.web.id^$all
 ||exodus.web.id^$all
 ||stake-lido.fi-en.web.id^$all
+||xn--sake-ldo-71a81j.fi-eng.web.id^$all
 ||fi-uk.web.id^$all
 ||keeta.web.id^$all
 ||krakensi.web.id^$all
@@ -88279,6 +88280,7 @@
 ||lassybrand.site^$all
 ||layerzeropdf.site^$all
 ||ledger-wallet.site^$all
+||lido-fi.site^$all
 ||lista-dao.site^$all
 ||littlepepetokenpresale.site^$all
 ||live-secure.site^$all

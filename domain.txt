@@ -65303,6 +65303,7 @@ com-account-auth-connect-login-webshop.web.id
 com-secure.web.id
 exodus.web.id
 stake-lido.fi-en.web.id
+xn--sake-ldo-71a81j.fi-eng.web.id
 fi-uk.web.id
 keeta.web.id
 krakensi.web.id
@@ -88279,6 +88280,7 @@ kurwa-bonus.site
 lassybrand.site
 layerzeropdf.site
 ledger-wallet.site
+lido-fi.site
 lista-dao.site
 littlepepetokenpresale.site
 live-secure.site
