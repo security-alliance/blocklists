@@ -617,6 +617,7 @@
 ||allocation-flare.app^$all
 ||allocation-hulo.app^$all
 ||allocation-hylo.app^$all
+||allocation-hyperfoundation.app^$all
 ||allocation-jumper.app^$all
 ||allocation-lienfi.app^$all
 ||allocation-nado.app^$all
@@ -11352,6 +11353,8 @@
 ||allocation-flyingtulip.asia^$all
 ||allocation-mantle.asia^$all
 ||allocation-multiplifi.asia^$all
+||allocation-near.asia^$all
+||allocation-umiafinance.asia^$all
 ||allocation-usenosh.asia^$all
 ||allocations-multipli.asia^$all
 ||coinhouse.app-login.asia^$all
@@ -12530,6 +12533,7 @@
 ||allocation-cashmere-exchange.bond^$all
 ||allocation-flyingtulip.bond^$all
 ||allocation-mantle.bond^$all
+||allocation-near.bond^$all
 ||allowdngkt.bond^$all
 ||allowhiyouc.bond^$all
 ||allowkyhxo.bond^$all
@@ -15700,6 +15704,7 @@
 ||alamostrategicmfg.cfd^$all
 ||allocate-argus.cfd^$all
 ||allocate-zipcoin.cfd^$all
+||allocation-arc.cfd^$all
 ||allocation-argus.cfd^$all
 ||allocation-axisrobotics.cfd^$all
 ||allocation-cashmere-exchange.cfd^$all

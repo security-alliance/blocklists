@@ -617,6 +617,7 @@ allocation-firelight.app
 allocation-flare.app
 allocation-hulo.app
 allocation-hylo.app
+allocation-hyperfoundation.app
 allocation-jumper.app
 allocation-lienfi.app
 allocation-nado.app
@@ -11352,6 +11353,8 @@ allocation-cashmere-exchange.asia
 allocation-flyingtulip.asia
 allocation-mantle.asia
 allocation-multiplifi.asia
+allocation-near.asia
+allocation-umiafinance.asia
 allocation-usenosh.asia
 allocations-multipli.asia
 coinhouse.app-login.asia
@@ -12530,6 +12533,7 @@ allocation-axisrobotics.bond
 allocation-cashmere-exchange.bond
 allocation-flyingtulip.bond
 allocation-mantle.bond
+allocation-near.bond
 allowdngkt.bond
 allowhiyouc.bond
 allowkyhxo.bond
@@ -15700,6 +15704,7 @@ akedoapp.cfd
 alamostrategicmfg.cfd
 allocate-argus.cfd
 allocate-zipcoin.cfd
+allocation-arc.cfd
 allocation-argus.cfd
 allocation-axisrobotics.cfd
 allocation-cashmere-exchange.cfd
