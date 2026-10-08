@@ -7628,7 +7628,6 @@ reward-firelight.app
 reward-flare.app
 reward-kinetiq.app
 reward-ondo.app
-reward-ray.app
 reward-robinhood.app
 reward-symbiosis.app
 reward-usepaid.app
@@ -33967,7 +33966,6 @@ lamboxapes-allocation.com
 lambvdx.com
 lameridyenbeach.com
 lanch-coin.com
-land-discord.com
 landolakesrentals.com
 echo.langinspections.com
 lannit.com
@@ -44226,7 +44224,6 @@ vote-apyxfi.com
 vote-arc.com
 vote-atlanta.com
 vote-ayx.com
-vote-bonk.com
 vote-casinocoin.com
 vote-centrifuge.com
 vote-citrea.com
@@ -76479,7 +76476,6 @@ vote-perk.money
 vote-printr.money
 votes-liminal.money
 votes-perk.money
-voting-avici.money
 voting-liminal.money
 xamanwallet.money
 1ido.monster
@@ -79163,7 +79159,6 @@ desktop-midnight.network
 details-flare.network
 dfs-gradient.network
 distribution-flare.network
-distribution-jito.network
 distributions-flare.network
 docupdate.network
 dreamcash.network
@@ -89651,7 +89646,6 @@ web3-live-recover.su
 ethereumr1.eth.sucks
 okx.supplies
 crates-long.supply
-votes-ore.supply
 allbridge.support
 aml-crypto.support
 appealaction-x.support
