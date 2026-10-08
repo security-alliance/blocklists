@@ -13572,7 +13572,6 @@ apps-poiymarket.cam
 apps-polynarket.cam
 apro.cam
 aptos.cam
-apyx.cam
 asksurf.cam
 badger.cam
 basezh.cam
