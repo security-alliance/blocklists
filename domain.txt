@@ -82975,7 +82975,6 @@ teller-v2.org
 tensor-trade.org
 termmax.org
 tether-gold.org
-tge-usdai.org
 tgwebs.org
 the-elevateproject.org
 thebitcoinbrief.org
