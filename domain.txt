@@ -13860,7 +13860,6 @@ globalcc.casa
 dashboard.goiem.casa
 hodlcasa.casa
 app.iexs.casa
-katana.casa
 metamask.login.auth.accountdetails.kitlogin.casa
 lighter.casa
 livepeer.casa
