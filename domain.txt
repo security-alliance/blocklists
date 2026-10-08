@@ -62152,7 +62152,6 @@ s0lstice.finance
 s1-firelight.finance
 s1-hybra.finance
 s1-onre.finance
-s5-ether.finance
 s6-ethena.finance
 safe2spend.finance
 safemoon.finance
@@ -102835,7 +102834,6 @@ votes-flaregovernance.xyz
 votes-flarenetwork.xyz
 votes-flarenetworks.xyz
 votes-flr.xyz
-votes-hachiko.xyz
 votes-harmonixfi.xyz
 votes-hubs-flarefoundation.xyz
 votes-internetcomputer.xyz
