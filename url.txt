@@ -26,8 +26,6 @@ https://sites.google.com/metamaksio.com/metamask-chrom
 https://sites.google.com/metamaslogi.com/metamaskextension
 https://sites.google.com/myextensionwallet.com/trezor-suite-download-app
 https://sites.google.com/mywalletcryptous.com/metamask-wallet-download
-https://sites.google.com/mywalletcryptous.com/metamask-wallet-download-off
-https://sites.google.com/mywalletcryptous.com/metamask-walletdownload
 https://sites.google.com/mywalletcryptous.com/rabby-wallet-download
 https://sites.google.com/mywalletcryptous.com/rabbywallet-extension
 https://sites.google.com/newhxv4.app/aav-dashboard-connect
@@ -302,7 +300,6 @@ https://sites.google.com/view/metamask-doccs/home
 https://sites.google.com/view/metamask-download-setup/home
 https://sites.google.com/view/metamask-en-uss/home
 https://sites.google.com/view/metamask-enus-home/home
-https://sites.google.com/view/metamask-ext-guide/home
 https://sites.google.com/view/metamask-gateway/home
 https://sites.google.com/view/metamask-getting-en/home
 https://sites.google.com/view/metamask-helps/home
@@ -314,17 +311,13 @@ https://sites.google.com/view/metamask-microso/home
 https://sites.google.com/view/metamask-microsoft/home
 https://sites.google.com/view/metamask-new/home
 https://sites.google.com/view/metamask-t-login
-https://sites.google.com/view/metamask-wallet-is-locked-usa/home
 https://sites.google.com/view/metamaskwalletnotworking/home
 https://sites.google.com/view/metameskcom/home
-https://sites.google.com/view/metamsk-chrom/home
 https://sites.google.com/view/metamsk-extension-secur/home
 https://sites.google.com/view/metamsk-iobrowser/home
 https://sites.google.com/view/metamsk-meta/home
 https://sites.google.com/view/metamsk-web-en/home
 https://sites.google.com/view/metamskhub-view/home
-https://sites.google.com/view/metaweb-extension/home
-https://sites.google.com/view/metmsk-logon/home
 https://sites.google.com/view/money-hold/home
 https://sites.google.com/view/moonpay-login-pc-mobile-regist/home
 https://sites.google.com/view/moonpay-payment-failed/home
