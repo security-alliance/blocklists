@@ -13803,7 +13803,6 @@ moonshot-app.cam
 moonsshoter.cam
 moonwell.cam
 mymonero.cam
-nados.cam
 natrix.cam
 naviprotocoi.cam
 neverland.cam
@@ -102961,7 +102960,6 @@ votes-maple.xyz
 votes-maplefinance.xyz
 votes-mega.xyz
 votes-moonwell.xyz
-votes-nado.xyz
 votes-near.xyz
 votes-netrewards.xyz
 votes-nillion.xyz
