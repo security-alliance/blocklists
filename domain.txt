@@ -16111,6 +16111,7 @@ firelight-season1.cfd
 firelightecosystem.cfd
 firelightecosystems.cfd
 eigenlayer.xyz.fl-web3.cfd
+flarenetwork-proposals.cfd
 flarenetworks.cfd
 flyingtulip.cfd
 foundation-netnet.cfd
