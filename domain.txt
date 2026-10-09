@@ -24115,7 +24115,6 @@ balancer-fi.com
 balancer-flnance.com
 balancer-v2.com
 balancer-v3.com
-balancerdefi.com
 balausa-bf.com
 balausa-can.com
 balausa-fc.com
@@ -68477,7 +68476,6 @@ aveia.io
 avriational.io
 axiomexchange.io
 bagfumbled.io
-balancer-flnance.io
 bandicam.io
 bariational.io
 baseforever.io
