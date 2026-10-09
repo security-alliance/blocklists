@@ -96051,7 +96051,6 @@ app-puffer.xyz
 app-re.xyz
 app-ready.xyz
 app-reprotocol.xyz
-app-resolv.xyz
 app-resolvlabs.xyz
 app-rxusd.xyz
 app-saphyre.xyz
@@ -102165,7 +102164,6 @@ twworldpro.xyz
 txflow-dex.xyz
 tyvoremxc.xyz
 tyvorepro.xyz
-uisdthedai.xyz
 uiwfjocwejevm.xyz
 ultradappsolver.xyz
 uma-vote.xyz
