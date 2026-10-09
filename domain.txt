@@ -66122,6 +66122,7 @@ rainbet.im
 rufus.im
 streamyard.im
 tapme.im
+trezor-suite.im
 upholdvip.im
 us05meetingcle.im
 vipok.im
@@ -73682,7 +73683,6 @@ crypto-ledger.live
 cryptoforextrades.live
 cryptofxtradex.live
 cryptoin.live
-ctopmembersbased.live
 cubexchange.live
 curvancelaunch.live
 cvelaunch.live
