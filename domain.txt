@@ -21052,7 +21052,6 @@ client.475238-cb.com
 482992-coinspot.com
 483103-cb.com
 4832-google.com
-coinbase.483279.com
 483299-coinspot.com
 483763-coinbase.com
 483819-coinbase.com
@@ -55845,6 +55844,7 @@ kernel-package.pages.dev
 khuga-2t8.pages.dev
 kickk-ledgercom.pages.dev
 kindly-ledgr-en-ledgr.pages.dev
+kinetiqxyz.pages.dev
 kinetix-6nx.pages.dev
 kingdomkey-ledger.pages.dev
 kist-ledger.pages.dev
