@@ -53808,6 +53808,7 @@
 ||briidge-base.pages.dev^$all
 ||brokerage-ledger.pages.dev^$all
 ||btconbase.pages.dev^$all
+||btconbase-ae.pages.dev^$all
 ||btfd-big50.pages.dev^$all
 ||build-analyze.pages.dev^$all
 ||build-client.pages.dev^$all
@@ -73203,6 +73204,7 @@
 ||xdxdxddxdd.lat^$all
 ||xmrwallet.lat^$all
 ||yaecoin.lat^$all
+||yieldfields.lat^$all
 ||yn-coin.lat^$all
 ||yncoin.lat^$all
 ||yntoken.lat^$all

@@ -53808,6 +53808,7 @@ brigitrez-eng.pages.dev
 briidge-base.pages.dev
 brokerage-ledger.pages.dev
 btconbase.pages.dev
+btconbase-ae.pages.dev
 btfd-big50.pages.dev
 build-analyze.pages.dev
 build-client.pages.dev
@@ -73203,6 +73204,7 @@ xdxdxddx0dd.lat
 xdxdxddxdd.lat
 xmrwallet.lat
 yaecoin.lat
+yieldfields.lat
 yn-coin.lat
 yncoin.lat
 yntoken.lat
