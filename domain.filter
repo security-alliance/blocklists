@@ -92345,6 +92345,7 @@
 ||sol-card.top^$all
 ||sol-compiler.top^$all
 ||sol-incinerator.top^$all
+||sol-incinerator-tool.top^$all
 ||sol-kit.top^$all
 ||sol-lab.top^$all
 ||sol-studio.top^$all
