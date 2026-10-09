@@ -927,7 +927,6 @@ claim-stonkfun.app
 claim-usepaid.app
 claim-wal.app
 claim-zeal.app
-claimdeepsnitchai.app
 claims-blackbullsol.app
 claims-dzap.app
 claims-push.app
@@ -16824,7 +16823,6 @@ centrifuge.claims
 chainanalysis.claims
 claimsol.claims
 curvefinance.claims
-deepsnitch-ai.claims
 deepsnitchai.claims
 deepsnitchs-ai.claims
 doodles.claims
@@ -34683,7 +34681,6 @@ mainnet-steakhouse.com
 mainnet-usdai.com
 mainnetdappfix.com
 mainnetportal.com
-mainnetportals.com
 mainnets-flareportal-dapp.com
 mainstreet-recovery.com
 mainstreet-vote.com
@@ -34740,7 +34737,6 @@ maremosaic.com
 margintradecoin.com
 marialedeairtm.com
 marinadeliquids.com
-marinadesfinance.com
 market-elite.com
 market-offer.com
 market-room.com
@@ -66706,7 +66702,6 @@ hydrexfi.info
 hype-ventuals.info
 hyperbullsol.info
 hyperdrivedefi.info
-hyperdrop.info
 ibitexchanges.info
 icloud-find-in.info
 icloud-verify-login.info
@@ -66817,7 +66812,6 @@ mainnetvariational.info
 map-exact.info
 map-searchphone.info
 marcus-exchange.info
-marinadelabs.info
 matricasecurity.info
 maxidoge.info
 maxillofazial.info
@@ -66951,7 +66945,6 @@ phase2firelightfinance.info
 phase2flare.info
 phnrxnt.info
 ww25.phosphor.info
-pieverse.info
 pinothedino.info
 pipapioglmk.info
 pitchwce.info
@@ -67204,14 +67197,12 @@ soneium.info
 sorrells-exchange.info
 sosovalue.info
 sparkdotfi.info
-sparkfilabs.info
 spidcxk.info
 spikemattfurie.info
 spinsol.info
 spotzenryx.info
 sprayair.info
 stablechain.info
-stablenetworkbase.info
 stage2-firelight.info
 stage2firelight.info
 stage2flare.info
@@ -70075,7 +70066,6 @@ safepal-en.io
 safepal-v.io
 safetywallet.io
 samourai-wallet.io
-sap-ien.io
 saylorgive.io
 sayly.io
 scotia-connect.io
@@ -74524,7 +74514,6 @@ otcdesks.live
 oxyz.live
 ozrefunds.live
 oztoken.live
-paalclaim.live
 pacifica-finance.live
 pacifica-rewards.live
 pack-dashboard.live
@@ -93219,7 +93208,6 @@ register-paper.trade
 relay-swap.trade
 revokes-drift.trade
 revolut-exchange.trade
-rewards-flash.trade
 rewards-pools.trade
 rocketx.trade
 sleepagotchi.trade
@@ -96522,7 +96510,6 @@ bitcrunchs.xyz
 bitfinextrc.xyz
 bitgetplus.xyz
 bitnance.xyz
-bitnestme.xyz
 bitrefills.xyz
 bitscrunchs.xyz
 bitsyncnodevalidate.xyz
@@ -97317,7 +97304,6 @@ delorian.xyz
 demo123.xyz
 derive-votes.xyz
 derive-voting.xyz
-derocketsolver.xyz
 desk-jumper.xyz
 desk-mon.xyz
 desk-otc.xyz

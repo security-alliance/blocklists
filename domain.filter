@@ -927,7 +927,6 @@
 ||claim-usepaid.app^$all
 ||claim-wal.app^$all
 ||claim-zeal.app^$all
-||claimdeepsnitchai.app^$all
 ||claims-blackbullsol.app^$all
 ||claims-dzap.app^$all
 ||claims-push.app^$all
@@ -16824,7 +16823,6 @@
 ||chainanalysis.claims^$all
 ||claimsol.claims^$all
 ||curvefinance.claims^$all
-||deepsnitch-ai.claims^$all
 ||deepsnitchai.claims^$all
 ||deepsnitchs-ai.claims^$all
 ||doodles.claims^$all
@@ -34683,7 +34681,6 @@
 ||mainnet-usdai.com^$all
 ||mainnetdappfix.com^$all
 ||mainnetportal.com^$all
-||mainnetportals.com^$all
 ||mainnets-flareportal-dapp.com^$all
 ||mainstreet-recovery.com^$all
 ||mainstreet-vote.com^$all
@@ -34740,7 +34737,6 @@
 ||margintradecoin.com^$all
 ||marialedeairtm.com^$all
 ||marinadeliquids.com^$all
-||marinadesfinance.com^$all
 ||market-elite.com^$all
 ||market-offer.com^$all
 ||market-room.com^$all
@@ -66706,7 +66702,6 @@
 ||hype-ventuals.info^$all
 ||hyperbullsol.info^$all
 ||hyperdrivedefi.info^$all
-||hyperdrop.info^$all
 ||ibitexchanges.info^$all
 ||icloud-find-in.info^$all
 ||icloud-verify-login.info^$all
@@ -66817,7 +66812,6 @@
 ||map-exact.info^$all
 ||map-searchphone.info^$all
 ||marcus-exchange.info^$all
-||marinadelabs.info^$all
 ||matricasecurity.info^$all
 ||maxidoge.info^$all
 ||maxillofazial.info^$all
@@ -66951,7 +66945,6 @@
 ||phase2flare.info^$all
 ||phnrxnt.info^$all
 ||ww25.phosphor.info^$all
-||pieverse.info^$all
 ||pinothedino.info^$all
 ||pipapioglmk.info^$all
 ||pitchwce.info^$all
@@ -67204,14 +67197,12 @@
 ||sorrells-exchange.info^$all
 ||sosovalue.info^$all
 ||sparkdotfi.info^$all
-||sparkfilabs.info^$all
 ||spidcxk.info^$all
 ||spikemattfurie.info^$all
 ||spinsol.info^$all
 ||spotzenryx.info^$all
 ||sprayair.info^$all
 ||stablechain.info^$all
-||stablenetworkbase.info^$all
 ||stage2-firelight.info^$all
 ||stage2firelight.info^$all
 ||stage2flare.info^$all
@@ -70075,7 +70066,6 @@
 ||safepal-v.io^$all
 ||safetywallet.io^$all
 ||samourai-wallet.io^$all
-||sap-ien.io^$all
 ||saylorgive.io^$all
 ||sayly.io^$all
 ||scotia-connect.io^$all
@@ -74524,7 +74514,6 @@
 ||oxyz.live^$all
 ||ozrefunds.live^$all
 ||oztoken.live^$all
-||paalclaim.live^$all
 ||pacifica-finance.live^$all
 ||pacifica-rewards.live^$all
 ||pack-dashboard.live^$all
@@ -93219,7 +93208,6 @@
 ||relay-swap.trade^$all
 ||revokes-drift.trade^$all
 ||revolut-exchange.trade^$all
-||rewards-flash.trade^$all
 ||rewards-pools.trade^$all
 ||rocketx.trade^$all
 ||sleepagotchi.trade^$all
@@ -96522,7 +96510,6 @@
 ||bitfinextrc.xyz^$all
 ||bitgetplus.xyz^$all
 ||bitnance.xyz^$all
-||bitnestme.xyz^$all
 ||bitrefills.xyz^$all
 ||bitscrunchs.xyz^$all
 ||bitsyncnodevalidate.xyz^$all
@@ -97317,7 +97304,6 @@
 ||demo123.xyz^$all
 ||derive-votes.xyz^$all
 ||derive-voting.xyz^$all
-||derocketsolver.xyz^$all
 ||desk-jumper.xyz^$all
 ||desk-mon.xyz^$all
 ||desk-otc.xyz^$all
