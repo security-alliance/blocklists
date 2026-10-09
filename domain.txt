@@ -59737,7 +59737,6 @@ upheld-walllet.pages.dev
 upheldcom--logn.pages.dev
 upheldcom-logn.pages.dev
 uphld-walet-en.pages.dev
-uphlldcom-logn.pages.dev
 uphllod-exchange.pages.dev
 upholcns.pages.dev
 uphold-e2t.pages.dev
@@ -85469,7 +85468,6 @@ wwv-app-unicwap.pro
 wwv-app-uniewap.pro
 wwv-coinbase.pro
 wwv-fedelety.pro
-wwv-portfolio-upheld.pro
 www-app-hyperliquid.pro
 www-app-swap.pro
 www-app-uneswap.pro
