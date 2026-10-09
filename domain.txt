@@ -93187,7 +93187,6 @@ coingecko.trade
 coinilst.trade
 com-app-connect-safe.trade
 core-v3.trade
-crabfun.trade
 creatorapital.trade
 creatorcapitial.trade
 creatorcapitl.trade
@@ -97149,7 +97148,6 @@ copium-rewards.xyz
 copyxtrader.xyz
 cosmosairdrop.xyz
 cpoolfoundation.xyz
-crabfuns.xyz
 crabtradings.xyz
 crack-rewards.xyz
 crashnfts.xyz
