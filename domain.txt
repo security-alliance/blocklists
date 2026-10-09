@@ -87115,7 +87115,6 @@ featherwallet.sbs
 coinbasesupportfixwindow.feltis.sbs
 coinbasesupportfixwindow.felttl.sbs
 coinbasesupportdirectmessage.fetliis.sbs
-coinbasesupport-desk.fetls.sbs
 coinbasewalletappsupportlivechat.fettl.sbs
 fewchapp.sbs
 fi-borrow.sbs
