@@ -13993,7 +13993,6 @@ app.iexs.casa
 metamask.login.auth.accountdetails.kitlogin.casa
 lighter.casa
 livepeer.casa
-mapie.casa
 moonwell.casa
 okxwallet.casa
 polymarket.casa
