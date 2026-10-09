@@ -16177,6 +16177,7 @@ id89653.cfd
 id9473.cfd
 idetsy.cfd
 idfqwidiqwd.cfd
+incentive-firelight.cfd
 injectiveapp.cfd
 injectiveapps.cfd
 intaracinc.cfd
@@ -17546,6 +17547,7 @@ reward-vip.click
 rewards-airpoints.click
 rewards-stable.click
 rewardss.click
+rheafinance.click
 riu2y.click
 robo-advisor.click
 rotorno.click
@@ -81614,6 +81616,7 @@ zcat.online
 zerodrop-sandbox.online
 zigbee-led.online
 zipcoin.online
+zipcoinfnd.online
 zoom-chat.online
 zoom-invite.online
 zoom-meeting-app.online
@@ -90870,6 +90873,7 @@ netnetcap.tech
 odinportal.tech
 onchain-dex.tech
 ouyicn.tech
+paperstrateqy.tech
 pendle.tech
 pendlefinance.tech
 dashboard.phantompentest.tech
