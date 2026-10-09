@@ -46114,7 +46114,6 @@ cono-base-apps.wixstudio.com
 console-qoinext.wixstudio.com
 contactrobinhoodsupp.wixstudio.com
 could-netscoinsapp.wixstudio.com
-craken-us.wixstudio.com
 create-info.wixstudio.com
 create-metamask.wixstudio.com
 creatpage-metamask.wixstudio.com
@@ -47603,7 +47602,6 @@ kraken-us-logiin.wixstudio.com
 kraken-wallet.wixstudio.com
 kraken-web-login.wixstudio.com
 krakenex.wixstudio.com
-krakenhcoins.wixstudio.com
 krakenlogi.wixstudio.com
 krakenlogiinus.wixstudio.com
 krakenlogin-us.wixstudio.com
@@ -48245,7 +48243,6 @@ nav-koinbase-page.wixstudio.com
 nav-koinbasee-ext.wixstudio.com
 nav-krakeen-io.wixstudio.com
 nav-krakenn-io.wixstudio.com
-nav-krakens.wixstudio.com
 nav-krakkan-io.wixstudio.com
 nav-krakkencdn.wixstudio.com
 nav-krakn.wixstudio.com
