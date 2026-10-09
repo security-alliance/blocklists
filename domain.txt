@@ -13478,7 +13478,6 @@ solanavolumebot.buzz
 stadelrabs.buzz
 tapir328hvl.buzz
 top-gift.buzz
-tronweb3.buzz
 truemeet.buzz
 trustwalletdappverification.buzz
 tusass-dk.buzz
@@ -13496,7 +13495,6 @@ wealthfhorizon.buzz
 wealthghorizon.buzz
 wealthihorizon.buzz
 web-giftcenter.buzz
-web3-cha.buzz
 web3-savings.buzz
 web3markets.buzz
 yomix.buzz
@@ -14916,7 +14914,6 @@ kyliespins.cc
 l-google.cc
 lamports.cc
 layer-3-platform.cc
-layer3fun.cc
 lcnmarket.cc
 leap-app.cc
 leaps.cc
@@ -14975,7 +14972,6 @@ mayanfi.cc
 mbets.cc
 mbgamb.cc
 mcccibox.cc
-mdapp3.cc
 mecas.cc
 megamb.cc
 melihtex.cc
@@ -14999,7 +14995,6 @@ midatrade.cc
 minecore.cc
 minglo.cc
 mining-usdc.cc
-mintapi.cc
 minxhzaq.cc
 mirexg.cc
 mirexx.cc
@@ -15223,7 +15218,6 @@ scotiaconnect-business.cc
 sd-i.cc
 seasgamb.cc
 secure-bot.cc
-secure-encryptions.cc
 securehhtt.cc
 securexat.cc
 secux-app.cc
@@ -15385,7 +15379,6 @@ teams-meets.cc
 teller-v2.cc
 tergamb.cc
 tgbw.cc
-the-bridge.cc
 thegamb.cc
 thesolcard.cc
 thesolspin.cc
@@ -15487,7 +15480,6 @@ io.uk.cc
 chromewebstoregoogle-pancakeswapbkbpidjmllmcppjpcicgpolgcglabcn.unext.cc
 unipegchain.cc
 uniswaps.cc
-unlocked.cc
 uno-farm.cc
 unsiker.cc
 unsiki.cc
@@ -16356,7 +16348,6 @@ secure-check-info-your-account.cfd
 secure-order.cfd
 secure-request.cfd
 secure-token.cfd
-secure-vault.cfd
 securepaperlesspdfdobe.cfd
 shroomnetwork.cfd
 silofinance.cfd
@@ -16690,7 +16681,6 @@ wallet-transfer-payout.cfd
 walletrx-fee.cfd
 walletrx-web3.cfd
 wbitx.cfd
-web3-cha.cfd
 web3-trx.cfd
 web3-twt.cfd
 webjoin.cfd
@@ -51417,7 +51407,6 @@ entel-rewardsf.cyou
 entel-rewardst.cyou
 epicenf.cyou
 equilab.cyou
-estadao-finance.cyou
 etheremuairdrop.cyou
 famiszp.cyou
 fhong.cyou
@@ -51429,7 +51418,6 @@ fi-delitdy.cyou
 fi-delitey.cyou
 fi-delitfy.cyou
 fi-delitgy.cyou
-finance-estadao.cyou
 firelight-allocation.cyou
 firelight-allocations.cyou
 firelightecosystem.cyou
@@ -51645,7 +51633,6 @@ vjl05g3j9tf694epvm-v4.cyou
 vote-hydrexapp.cyou
 waletam99-link.cyou
 wangyix.cyou
-web3-cha.cyou
 web3-savings.cyou
 web3capitalai.cyou
 web3chainx.cyou
@@ -61873,7 +61860,6 @@ aerodex.finance
 aerodrame.finance
 aerodroe.finance
 aerodroma.finance
-aerodromai.finance
 aerodrome-interface-v1.finance
 aerodrome-interface-v10.finance
 aerodrome-interface-v11.finance
@@ -62318,7 +62304,6 @@ reha.finance
 rehea.finance
 repeg-apyx.finance
 restore-apyx.finance
-reveal.finance
 reverrt.finance
 revertt.finance
 review-moonwell.finance
@@ -62760,7 +62745,6 @@ reward-flare.foundation
 reward-moonwell.foundation
 rewards-firelight.foundation
 rewards-flare.foundation
-rewards-moonwell.foundation
 season2-flare.foundation
 sunrisedefi.foundation
 tge--flare.foundation
@@ -63335,7 +63319,6 @@ migrate-mumu.fun
 migration.fun
 migrationdesk.fun
 migrationportal.fun
-mintdrop.fun
 missedprofit.fun
 mixero.fun
 mixoor.fun
@@ -64744,7 +64727,6 @@ bullvers.icu
 burnicu.icu
 burryhansonwill.icu
 buytadalafil.icu
-bybit-claim.icu
 c-r-v.icu
 cactusinrome.icu
 cakewallet.icu
@@ -64786,7 +64768,6 @@ claims-usdai.icu
 clashofcoins.icu
 cme-g.icu
 coinbase-commerce.icu
-coinbase-recovery.icu
 coincheckusa.icu
 coincheckusb.icu
 coinfi.icu
@@ -65552,7 +65533,6 @@ uniswaps.icu
 univ4.icu
 unlimitedpartyinvite.icu
 unlocksol.icu
-unlswap.icu
 up-x.icu
 upshiftfi-allocations.icu
 usdai-governance.icu
@@ -71975,7 +71955,6 @@ asterdexvote.lat
 asteroidcharity.lat
 asteroidcoin.lat
 astroidcoin.lat
-atomicwallet.lat
 auth-verifua.lat
 avantis.lat
 babytroll.lat
@@ -72508,7 +72487,6 @@ votes-pools.lat
 votes-termmax.lat
 waxbom.lat
 wcoinsolana.lat
-web3-cha.lat
 web3-protocol.lat
 web3r.lat
 wickfi.lat
@@ -76076,7 +76054,6 @@ vvvcheck.lol
 wallet-mate.lol
 wargovufo.lol
 wasabicoin.lol
-web3-cha.lol
 web3tools.lol
 jupiter.webskits.lol
 white-haired.lol
@@ -86315,7 +86292,6 @@ enter-stakingreward.sbs
 enter-turtle.sbs
 enter-zipcoin.sbs
 epicmoney.sbs
-estadao-finance.sbs
 eth-cow.sbs
 eth-hyperfoundation.sbs
 eth-hyperliquid.sbs
@@ -86363,7 +86339,6 @@ fi-my-isupport.sbs
 fifaco.sbs
 fight-foundation.sbs
 fileconverter.sbs
-finance-estadao.sbs
 finance-home.sbs
 finance-swap.sbs
 finance20-iusto94.sbs
@@ -87316,7 +87291,6 @@ lasttes1t.sbs
 launch-v3.sbs
 launch2.sbs
 eigen.layer-app.sbs
-layer3-rewards.sbs
 layeredgerewards.sbs
 ledger-nanox.sbs
 legacy-bitfun-dex.sbs
@@ -87600,7 +87574,6 @@ secure-access.sbs
 secure-bgld.sbs
 secure-confirm-booking.sbs
 secure-deal.sbs
-secure-id852.sbs
 secure-redirect.sbs
 flareclaim-accessnetwork.secure-servers.sbs
 secure-token.sbs
@@ -87740,7 +87713,6 @@ trustanalyseaml.sbs
 trustcardonline.sbs
 trustcarduk.sbs
 trustcardwallet.sbs
-trustcrypto.sbs
 trustedwallet.sbs
 trustgetcard.sbs
 trustw-cards.sbs
@@ -87895,7 +87867,6 @@ web04.sbs
 web04in.sbs
 web06.sbs
 web06in.sbs
-web3-cha.sbs
 web3-savings.sbs
 web3-v1.sbs
 web3bybitcommunityairdrop.sbs
@@ -92223,7 +92194,6 @@ msteamzzbookings.top
 mtsmegl.top
 mygiftzone.top
 mymonero.top
-mysecureauth.top
 mysol.top
 mystery-rewards.top
 n3ver.top
@@ -92485,15 +92455,11 @@ rewards-firelight.top
 rewards-morpho.top
 rewards-my.top
 rewards-zama.top
-rewardsaud.top
 rewardsaue.top
-rewardsead.top
 rewardsets.top
-rewardsond.top
 rewardsuid.top
 rewardsund.top
 rewardsyou.top
-rf5fi17bzvptd.top
 rfi8d9ql.top
 richguy-rewards.top
 river-eth.top
@@ -92561,7 +92527,6 @@ seasons2-firelight.top
 seccuredocumennt.top
 secure-8988882.top
 secure-access.top
-secure-acess.top
 secure-aml.top
 secure-core.top
 secure-data.top
@@ -92574,7 +92539,6 @@ secure-panel.top
 secure-profile.top
 secure-spin-casino.top
 secure-tools.top
-secure-updatess.top
 secure-works.top
 secured-docsp1.top
 secureeaccess.top
@@ -92629,7 +92593,6 @@ solana-airdrop.top
 solanaceae.top
 solanaclawd.top
 solanaexplore.top
-solanaexplorer.top
 solanakita4d.top
 solanasexplorer.top
 solanatake.top
@@ -92918,7 +92881,6 @@ v383.top
 v3rify-secure.top
 v4-kuponu.top
 v4007.top
-v4fi5a.top
 v65448565164.top
 v75305562.top
 v77777.top
@@ -93016,7 +92978,6 @@ wasabiwallet.top
 wcevwvc-online.top
 wcewvc-online.top
 wdapp.top
-wealthywwwwwwwealthy.top
 web-giftcenter.top
 metamask.web3-1.top
 web3-ai01.top
@@ -93030,7 +92991,6 @@ web3-ai08.top
 web3-ai09.top
 web3-ai10.top
 web3-assetlight.top
-web3-cha.top
 web3-circle.top
 web3-hongkong.top
 web3-jupiter.top
