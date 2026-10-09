@@ -80609,7 +80609,7 @@ unsiki.one
 us-04-web.one
 us04webb-zoom.one
 vanq.one
-omni.varational.one
+varational.one
 omni.variational.one
 variatoinal.one
 veniceai.one
