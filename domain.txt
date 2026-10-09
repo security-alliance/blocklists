@@ -54571,6 +54571,7 @@ en-exods-wll-download.pages.dev
 en-exodus-walet.pages.dev
 en-exodwa.pages.dev
 en-exxdust.pages.dev
+en-flareportal.pages.dev
 en-help-trezor-bridge.pages.dev
 en-hub-ledgre.pages.dev
 en-io-bridge-trazor.pages.dev
