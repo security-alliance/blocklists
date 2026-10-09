@@ -15118,6 +15118,7 @@ pocketes.cc
 pocketex.cc
 pogamb.cc
 polgamb.cc
+polimarket.cc
 poll-moonshot.cc
 pollymarkets.cc
 poloniex-dashboard.cc
