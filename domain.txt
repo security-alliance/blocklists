@@ -30098,7 +30098,6 @@ dogeos.firebaseapp.com
 goldfishgold.firebaseapp.com
 gominningminerdev.firebaseapp.com
 instantjotlab.firebaseapp.com
-kast-io.firebaseapp.com
 kinetiq-en.firebaseapp.com
 midnightnetwork.firebaseapp.com
 modoapps.firebaseapp.com
