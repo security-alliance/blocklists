@@ -46841,7 +46841,6 @@ extansion-doc.wixstudio.com
 exten-conibse.wixstudio.com
 exten-meta-chrome.wixstudio.com
 exten-metamsskcdn.wixstudio.com
-exten-trust.wixstudio.com
 extension--metamask.wixstudio.com
 extension-app.wixstudio.com
 extension-app-rabby.wixstudio.com
