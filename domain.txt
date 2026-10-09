@@ -27310,6 +27310,7 @@ com-reserve-id853.com
 com-resolution.com
 com-restrictedlogin.com
 com-revocacion.com
+bitrefill.com-search-q-bitrefill-oq-bi-gslcrp-egzjahjvbwuqbggbeeuyozigca.com
 com-services-manager.com
 com-sign-in.com
 com-softwares.com
@@ -85784,7 +85785,6 @@ www-fedelety.pro
 www-porfoilio-coinbvase.pro
 www-porfoilio-upkold.pro
 www-porfolio-coinbvase.pro
-www-porfolio-upkold.pro
 www-portfoilio-coinbvase.pro
 www-portfolio-coinbvase.pro
 www-portfolio-uphsoild.pro
