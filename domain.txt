@@ -45175,7 +45175,6 @@ access-metamask-log.wixstudio.com
 access-metamaskcdn.wixstudio.com
 access-metamskcdn.wixstudio.com
 access-ruabby-io.wixstudio.com
-accessexods-wallet.wixstudio.com
 accessmetamaskcdn.wixstudio.com
 accessmonnpaywebapps.wixstudio.com
 accessmtamask.wixstudio.com
@@ -46463,7 +46462,6 @@ enus-ext-exxodus.wixstudio.com
 enus-extension.wixstudio.com
 enus-exxodu.wixstudio.com
 enus-exxodus.wixstudio.com
-enus-exxudus.wixstudio.com
 enusex0dus.wixstudio.com
 enusexodus.wixstudio.com
 enusexoduus.wixstudio.com
@@ -46542,7 +46540,6 @@ exodas-app.wixstudio.com
 exodduio-support.wixstudio.com
 exoddus-homeext.wixstudio.com
 exodduswallet.wixstudio.com
-exoddusweb.wixstudio.com
 exodes-platform.wixstudio.com
 exodes-platforms.wixstudio.com
 exodos-en-home-learn.wixstudio.com
@@ -49639,7 +49636,6 @@ webext-metmaskcdn.wixstudio.com
 webext-rebbay.wixstudio.com
 webextension-metmask.wixstudio.com
 webextension-trrust.wixstudio.com
-webexxodus-wallet.wixstudio.com
 webhostmetamaskcdn.wixstudio.com
 webhubs-exxodus.wixstudio.com
 webintro-exo-dus.wixstudio.com
