@@ -7842,6 +7842,7 @@ teamisphere.app
 teamlives.app
 teamms.app
 teams-invite.app
+teams-live.app
 teams-mail-mircosoft.app
 teamslive.app
 teamsmeeting.app
@@ -11488,6 +11489,7 @@ allocation-umiafinance.asia
 allocation-usenosh.asia
 allocations-multipli.asia
 coinhouse.app-login.asia
+app-pendle-finance.asia
 axisrobotics.asia
 axisrobotics-ai.asia
 transit.baseapp.asia
@@ -15370,6 +15372,7 @@ tapmy.cc
 tarckio.cc
 teams-meet.cc
 teams-meets.cc
+tearns-invite.cc
 teller-v2.cc
 tergamb.cc
 tgbw.cc
@@ -15875,6 +15878,7 @@ apleidserver-verification.cfd
 app-backpack.cfd
 app-id-verify.cfd
 app-id-verify-service-s7.cfd
+app-pendle-finance.cfd
 app-plasma.cfd
 app-solstice.cfd
 app-v4s.cfd
@@ -23418,6 +23422,7 @@ app-walllet.com
 app-wechat.com
 app-whitebit.com
 app-wiselending.com
+app-worldlibertyfinance-v2.com
 app-worldlibertyfinancial.com
 app-x7pad.com
 app-xamanmainnet.com
@@ -33033,6 +33038,7 @@ walletconnect.inwebprotocols.com
 inwesteo-pl.com
 io-access.com
 io-access-app.com
+io-backup.com
 io-bit.com
 io-callisto.com
 io-cargo.com
@@ -33049,6 +33055,7 @@ io-cryptoswap.com
 io-dao.com
 magiceden.io-earn.com
 trezor.io-en-uk.com
+io-en-us.com
 io-exchangecrypto.com
 io-exchangenow.com
 io-explorer.com
@@ -43098,6 +43105,7 @@ uipiler.com
 uitgamb.com
 uk-crypto-casino-vodds.com
 uk-rainbet.com
+uk-teams-invitation.com
 uk-teams-invite.com
 bcgamee.uk.com
 casino-rainbet.uk.com
@@ -51249,6 +51257,7 @@ api66gld.cyou
 api66lol.cyou
 api66sip.cyou
 api66van.cyou
+app-pendle-finance.cyou
 apps-across.cyou
 artisan-exchange.cyou
 ath-usdt.cyou
@@ -66585,6 +66594,7 @@ ingle-exchange.info
 inkonchain.info
 inqtsio.info
 investigate-verify-badge.info
+io-backup.info
 io-news.info
 io-starts.info
 io-suite.info
@@ -80894,6 +80904,7 @@ sparkfinances.online
 sparkflnance.online
 sparknets.online
 sparksfi.online
+sparksnet.online
 spinusa.online
 stakingrewards.online
 standardreserve.online
@@ -89628,6 +89639,7 @@ helblis.store
 high-endquality.store
 imtoken-wallet.store
 invictus-meets-infinity.store
+io-backup.store
 io-studio.store
 io-vault-apparel.store
 jackpotznx.store
@@ -92960,6 +92972,7 @@ claim-sui.trade
 claimer.trade
 cngck-portfolio.trade
 coin-trade.trade
+coinegcko.trade
 coingecko.trade
 coinilst.trade
 com-app-connect-safe.trade

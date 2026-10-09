@@ -7842,6 +7842,7 @@
 ||teamlives.app^$all
 ||teamms.app^$all
 ||teams-invite.app^$all
+||teams-live.app^$all
 ||teams-mail-mircosoft.app^$all
 ||teamslive.app^$all
 ||teamsmeeting.app^$all
@@ -11488,6 +11489,7 @@
 ||allocation-usenosh.asia^$all
 ||allocations-multipli.asia^$all
 ||coinhouse.app-login.asia^$all
+||app-pendle-finance.asia^$all
 ||axisrobotics.asia^$all
 ||axisrobotics-ai.asia^$all
 ||transit.baseapp.asia^$all
@@ -15370,6 +15372,7 @@
 ||tarckio.cc^$all
 ||teams-meet.cc^$all
 ||teams-meets.cc^$all
+||tearns-invite.cc^$all
 ||teller-v2.cc^$all
 ||tergamb.cc^$all
 ||tgbw.cc^$all
@@ -15875,6 +15878,7 @@
 ||app-backpack.cfd^$all
 ||app-id-verify.cfd^$all
 ||app-id-verify-service-s7.cfd^$all
+||app-pendle-finance.cfd^$all
 ||app-plasma.cfd^$all
 ||app-solstice.cfd^$all
 ||app-v4s.cfd^$all
@@ -23418,6 +23422,7 @@
 ||app-wechat.com^$all
 ||app-whitebit.com^$all
 ||app-wiselending.com^$all
+||app-worldlibertyfinance-v2.com^$all
 ||app-worldlibertyfinancial.com^$all
 ||app-x7pad.com^$all
 ||app-xamanmainnet.com^$all
@@ -33033,6 +33038,7 @@
 ||inwesteo-pl.com^$all
 ||io-access.com^$all
 ||io-access-app.com^$all
+||io-backup.com^$all
 ||io-bit.com^$all
 ||io-callisto.com^$all
 ||io-cargo.com^$all
@@ -33049,6 +33055,7 @@
 ||io-dao.com^$all
 ||magiceden.io-earn.com^$all
 ||trezor.io-en-uk.com^$all
+||io-en-us.com^$all
 ||io-exchangecrypto.com^$all
 ||io-exchangenow.com^$all
 ||io-explorer.com^$all
@@ -43098,6 +43105,7 @@
 ||uitgamb.com^$all
 ||uk-crypto-casino-vodds.com^$all
 ||uk-rainbet.com^$all
+||uk-teams-invitation.com^$all
 ||uk-teams-invite.com^$all
 ||bcgamee.uk.com^$all
 ||casino-rainbet.uk.com^$all
@@ -51249,6 +51257,7 @@
 ||api66lol.cyou^$all
 ||api66sip.cyou^$all
 ||api66van.cyou^$all
+||app-pendle-finance.cyou^$all
 ||apps-across.cyou^$all
 ||artisan-exchange.cyou^$all
 ||ath-usdt.cyou^$all
@@ -66585,6 +66594,7 @@
 ||inkonchain.info^$all
 ||inqtsio.info^$all
 ||investigate-verify-badge.info^$all
+||io-backup.info^$all
 ||io-news.info^$all
 ||io-starts.info^$all
 ||io-suite.info^$all
@@ -80894,6 +80904,7 @@
 ||sparkflnance.online^$all
 ||sparknets.online^$all
 ||sparksfi.online^$all
+||sparksnet.online^$all
 ||spinusa.online^$all
 ||stakingrewards.online^$all
 ||standardreserve.online^$all
@@ -89628,6 +89639,7 @@
 ||high-endquality.store^$all
 ||imtoken-wallet.store^$all
 ||invictus-meets-infinity.store^$all
+||io-backup.store^$all
 ||io-studio.store^$all
 ||io-vault-apparel.store^$all
 ||jackpotznx.store^$all
@@ -92960,6 +92972,7 @@
 ||claimer.trade^$all
 ||cngck-portfolio.trade^$all
 ||coin-trade.trade^$all
+||coinegcko.trade^$all
 ||coingecko.trade^$all
 ||coinilst.trade^$all
 ||com-app-connect-safe.trade^$all
