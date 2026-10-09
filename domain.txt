@@ -94849,10 +94849,7 @@ ue05.us
 ue06.us
 uftxoptiontrade.us
 uk05live.us
-uk31webdesk.us
-uk32webdesk.us
 uk34web.us
-uk34webdesk.us
 uk35webdesk.us
 uk36webdesk.us
 uk37webdesk.us
