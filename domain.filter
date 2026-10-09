@@ -7696,6 +7696,7 @@
 ||s7-ethena.app^$all
 ||safe-pal.app^$all
 ||coinbase.safedev.app^$all
+||safeguard-ledger.app^$all
 ||safety-wallet.app^$all
 ||sagenix.app^$all
 ||sappling-main.app^$all

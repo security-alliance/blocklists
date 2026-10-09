@@ -7696,6 +7696,7 @@ s1-usepaid.app
 s7-ethena.app
 safe-pal.app
 coinbase.safedev.app
+safeguard-ledger.app
 safety-wallet.app
 sagenix.app
 sappling-main.app
