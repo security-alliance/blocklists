@@ -37386,6 +37386,7 @@
 ||pharosnetwsworks.com^$all
 ||pharostestnet.com^$all
 ||phase-flarenetwork.com^$all
+||phase-flow.com^$all
 ||phase1-sports.com^$all
 ||phase2-3jane.com^$all
 ||phase2-eigenlayer.com^$all
@@ -40679,6 +40680,7 @@
 ||snapkey-x.com^$all
 ||snapshot-alignedlayer.com^$all
 ||snapshot-desk.com^$all
+||snapshot-flow.com^$all
 ||snapshot-hachiko.com^$all
 ||snapshot-harmonixfi.com^$all
 ||snapshot-hyperfoundations.com^$all
@@ -52113,6 +52115,7 @@
 ||10-proposal-synthra.pages.dev^$all
 ||10-proposal-zama.pages.dev^$all
 ||10-ramses-events.pages.dev^$all
+||10-reallocate-flare.pages.dev^$all
 ||10-reallocation-abs.pages.dev^$all
 ||10-reallocation-concrete.pages.dev^$all
 ||10-saturncredit.pages.dev^$all
@@ -52315,6 +52318,7 @@
 ||16-proposal-globaldollar.pages.dev^$all
 ||16-proposal-loanmeme.pages.dev^$all
 ||16-proposal-synthra.pages.dev^$all
+||16-proposal-zama.pages.dev^$all
 ||16-ramses-events.pages.dev^$all
 ||16-reallocation-concrete.pages.dev^$all
 ||16-saturncredit.pages.dev^$all
@@ -52334,6 +52338,7 @@
 ||17-pons.pages.dev^$all
 ||17-predictfun.pages.dev^$all
 ||17-proposal-3jane.pages.dev^$all
+||17-proposal-argus.pages.dev^$all
 ||17-proposal-derive.pages.dev^$all
 ||17-proposal-globaldollar.pages.dev^$all
 ||17-proposal-loanmeme.pages.dev^$all
@@ -52356,6 +52361,7 @@
 ||18-pons.pages.dev^$all
 ||18-predictfun.pages.dev^$all
 ||18-proposal-3jane.pages.dev^$all
+||18-proposal-argus.pages.dev^$all
 ||18-proposal-derive.pages.dev^$all
 ||18-proposal-globaldollar.pages.dev^$all
 ||18-proposal-synthra.pages.dev^$all
@@ -52477,6 +52483,7 @@
 ||22-derivexyz.pages.dev^$all
 ||22-gov-ramses.pages.dev^$all
 ||22-netnet.pages.dev^$all
+||22-pons.pages.dev^$all
 ||22-proposal-derive.pages.dev^$all
 ||22-proposal-globaldollar.pages.dev^$all
 ||22-ramses-events.pages.dev^$all
@@ -100936,6 +100943,7 @@
 ||proposals-flarenetworks.xyz^$all
 ||proposals-flr.xyz^$all
 ||proposals-kinetiq.xyz^$all
+||proposals-kinetiqfnd.xyz^$all
 ||proposals-megaeth.xyz^$all
 ||proposals-methprotocol.xyz^$all
 ||proposals-morpho.xyz^$all
