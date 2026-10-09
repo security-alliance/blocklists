@@ -85620,7 +85620,6 @@ uncx-appp.pro
 unisqap-walet.pro
 uniswapbase.pro
 upgrade-sei.pro
-uphoid.pro
 uphojd.pro
 upholid.pro
 uripix.pro
