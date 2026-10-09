@@ -685,6 +685,7 @@
 ||aavechecker.app^$all
 ||aavefinance.app^$all
 ||aaveswap.app^$all
+||access-ledger.app^$all
 ||accesswallet.app^$all
 ||account-verification14service-confirma349tion.app^$all
 ||account-verification18service-confirma852tion.app^$all
