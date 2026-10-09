@@ -89860,7 +89860,6 @@ iphone-face.support
 iphone-verifier.support
 kittenswap.support
 kraken-finance.support
-kraken-team.support
 ledger-live.support
 ledgersdevices.support
 longxyz.support
@@ -94945,7 +94944,6 @@ apps-metamsk-get.framer.website
 apps-rabby.framer.website
 appsweb-rabbay-ext.framer.website
 appsweb-rabby.framer.website
-astar-network-eng-ios.framer.website
 base-apps-extensions.framer.website
 base-pages.framer.website
 cacoinsquareappcdn.framer.website
