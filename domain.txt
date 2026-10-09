@@ -42127,7 +42127,6 @@ togelnetpolymarket.com
 tojpr-coinbase.com
 jito.token-allocation.com
 token-collect.com
-token-forte.com
 token-gacha.com
 token-jeanphil.com
 token-loopscale.com
@@ -66394,7 +66393,6 @@ falconfinance.info
 famichain.info
 farmtown.info
 fassets-flare.info
-fast-switch.info
 fbtc-firelight.info
 ff-exchange.info
 fiestagold.info
