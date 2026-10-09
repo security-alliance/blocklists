@@ -25,7 +25,6 @@ https://sites.google.com/ledgrliveus.com/ledgerlive
 https://sites.google.com/metamaksio.com/metamask-chrom
 https://sites.google.com/metamaslogi.com/metamaskextension
 https://sites.google.com/myextensionwallet.com/trezor-suite-download-app
-https://sites.google.com/mywalletcryptous.com/metamask-wallet-download
 https://sites.google.com/mywalletcryptous.com/rabby-wallet-download
 https://sites.google.com/mywalletcryptous.com/rabbywallet-extension
 https://sites.google.com/newhxv4.app/aav-dashboard-connect
@@ -269,7 +268,6 @@ https://sites.google.com/view/log-bitbuy-in/home
 https://sites.google.com/view/log-bitbuy/home
 https://sites.google.com/view/log-in-bitbuyy/home
 https://sites.google.com/view/log-inmetamak/home
-https://sites.google.com/view/log-metmak/home
 https://sites.google.com/view/log-on-bitbuys/home
 https://sites.google.com/view/login-bitbuys-en/home
 https://sites.google.com/view/login-trust-wallet
@@ -294,7 +292,6 @@ https://sites.google.com/view/metamask--secure/home
 https://sites.google.com/view/metamask-cdn/home
 https://sites.google.com/view/metamask-device/home
 https://sites.google.com/view/metamask-doccs/home
-https://sites.google.com/view/metamask-download-setup/home
 https://sites.google.com/view/metamask-en-uss/home
 https://sites.google.com/view/metamask-enus-home/home
 https://sites.google.com/view/metamask-gateway/home
@@ -314,7 +311,6 @@ https://sites.google.com/view/metamsk-extension-secur/home
 https://sites.google.com/view/metamsk-iobrowser/home
 https://sites.google.com/view/metamsk-meta/home
 https://sites.google.com/view/metamsk-web-en/home
-https://sites.google.com/view/metamskhub-view/home
 https://sites.google.com/view/money-hold/home
 https://sites.google.com/view/moonpay-login-pc-mobile-regist/home
 https://sites.google.com/view/moonpay-payment-failed/home
