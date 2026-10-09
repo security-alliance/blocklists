@@ -97034,6 +97034,7 @@ check-allocations.xyz
 check-cashcatoken.xyz
 check-hyperfoundation.xyz
 check-jumper.xyz
+check-markets.xyz
 check-ore.xyz
 check-ore-allocation.xyz
 check-ore-allocations.xyz
