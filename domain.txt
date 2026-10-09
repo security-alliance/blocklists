@@ -927,7 +927,6 @@ claim-usepaid.app
 claim-wal.app
 claim-zeal.app
 claimdeepsnitchai.app
-claimed-pengu.app
 claims-blackbullsol.app
 claims-dzap.app
 claims-push.app
@@ -25682,7 +25681,6 @@ cebowin.com
 ceiwex.com
 celerapps.com
 celgam.com
-celibit.com
 cenatplay.com
 cenavex.com
 center-market.com
@@ -78121,7 +78119,6 @@ binance.hu.net
 rainbet.hu.net
 rainbet-hu.hu.net
 hub-nanoeth.net
-hubpay.net
 huddle01.net
 humidifi-dex.net
 hype-r-liquid-onguides.net
@@ -100200,7 +100197,6 @@ photon-solana.xyz
 cattheftauto.pikenians.xyz
 pilerlab.xyz
 pinnocapital.xyz
-piratedice.xyz
 pitchwcd.xyz
 pitchwcl.xyz
 pitchwcr.xyz
