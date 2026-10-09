@@ -42742,6 +42742,7 @@ trustcardsx.com
 trustccard.com
 trustcorexd.com
 trustcripto.com
+trustdigitalcards.com
 trusted-card.com
 trusted-cards.com
 trusted-crypto-app.com
@@ -52197,6 +52198,7 @@ orbitprotocol.dev
 12-proposal-synthra.pages.dev
 12-proposal-zama.pages.dev
 12-ramses-events.pages.dev
+12-reallocate-flare.pages.dev
 12-reallocation-abs.pages.dev
 12-reallocation-concrete.pages.dev
 12-saturncredit.pages.dev

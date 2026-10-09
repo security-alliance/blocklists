@@ -42742,6 +42742,7 @@
 ||trustccard.com^$all
 ||trustcorexd.com^$all
 ||trustcripto.com^$all
+||trustdigitalcards.com^$all
 ||trusted-card.com^$all
 ||trusted-cards.com^$all
 ||trusted-crypto-app.com^$all
@@ -52197,6 +52198,7 @@
 ||12-proposal-synthra.pages.dev^$all
 ||12-proposal-zama.pages.dev^$all
 ||12-ramses-events.pages.dev^$all
+||12-reallocate-flare.pages.dev^$all
 ||12-reallocation-abs.pages.dev^$all
 ||12-reallocation-concrete.pages.dev^$all
 ||12-saturncredit.pages.dev^$all
