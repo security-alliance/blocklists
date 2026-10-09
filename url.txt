@@ -133,7 +133,6 @@ https://sites.google.com/view/coinbase-wallet-base-network
 https://sites.google.com/view/coinbase-wallet-deposit-missin
 https://sites.google.com/view/coinbase-wallet-recovery-phras
 https://sites.google.com/view/coinbase-wllt/home
-https://sites.google.com/view/coinbasee-walle/home
 https://sites.google.com/view/coinbaseguide-us/home
 https://sites.google.com/view/coinbaseloginissue1904306-1300/home
 https://sites.google.com/view/coinbaser-wallett/home
@@ -175,7 +174,6 @@ https://sites.google.com/view/exo-dusweb/home
 https://sites.google.com/view/exodus-view-cdn/home
 https://sites.google.com/view/exodus-webcdn/home
 https://sites.google.com/view/exodus-webe/home
-https://sites.google.com/view/extension-coinbase-cdn/home
 https://sites.google.com/view/extension-detail/trust-wallet-egjidjbpglichdcondbcbdnbeeppgdph
 https://sites.google.com/view/extension-metmask-en/home
 https://sites.google.com/view/extension-webstore-rabbyevm-1/details-rabby-evmwallets-chromestorextension
