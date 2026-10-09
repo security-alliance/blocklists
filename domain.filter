@@ -52287,9 +52287,11 @@
 ||13-proposal-3jane.pages.dev^$all
 ||13-proposal-argus.pages.dev^$all
 ||13-proposal-argus-epf.pages.dev^$all
+||13-proposal-computersrh.pages.dev^$all
 ||13-proposal-derive.pages.dev^$all
 ||13-proposal-globaldollar.pages.dev^$all
 ||13-proposal-loanmeme.pages.dev^$all
+||13-proposal-prjx.pages.dev^$all
 ||13-proposal-synthra.pages.dev^$all
 ||13-proposal-zama.pages.dev^$all
 ||13-ramses-events.pages.dev^$all
@@ -52316,6 +52318,7 @@
 ||14-ethenamoney.pages.dev^$all
 ||14-fluidio.pages.dev^$all
 ||14-gov-ramses.pages.dev^$all
+||14-governance-kinetiq.pages.dev^$all
 ||14-hyperlinkapp-86x.pages.dev^$all
 ||14-hyperlinkxyz-e79.pages.dev^$all
 ||14-netnet.pages.dev^$all
@@ -52354,6 +52357,7 @@
 ||15-hyperlinkxyz-e79.pages.dev^$all
 ||15-netnet.pages.dev^$all
 ||15-pons.pages.dev^$all
+||15-ponsfamily.pages.dev^$all
 ||15-predeposit-papertrade.pages.dev^$all
 ||15-predictfun.pages.dev^$all
 ||15-proposal-3jane.pages.dev^$all
@@ -52462,6 +52466,7 @@
 ||19-gov-ramses.pages.dev^$all
 ||19-netnet.pages.dev^$all
 ||19-pons.pages.dev^$all
+||19-predeposit-papertrade.pages.dev^$all
 ||19-predictfun.pages.dev^$all
 ||19-proposal-3jane.pages.dev^$all
 ||19-proposal-derive.pages.dev^$all
@@ -52599,8 +52604,10 @@
 ||23-proposal-3jane.pages.dev^$all
 ||23-proposal-derive.pages.dev^$all
 ||23-proposal-globaldollar.pages.dev^$all
+||23-proposal-loanmeme.pages.dev^$all
 ||23-ramses-events.pages.dev^$all
 ||23-saturncredit.pages.dev^$all
+||23-tge-extended.pages.dev^$all
 ||23-venice.pages.dev^$all
 ||24-0xfluid.pages.dev^$all
 ||24-allowlist-ascendlaunch.pages.dev^$all
@@ -52830,6 +52837,7 @@
 ||40-0xfluid.pages.dev^$all
 ||40-allowlist-ascendlaunch.pages.dev^$all
 ||40-argusworld.pages.dev^$all
+||40-netnet.pages.dev^$all
 ||40-saturncredit.pages.dev^$all
 ||41-0xfluid.pages.dev^$all
 ||41-allowlist-ascendlaunch.pages.dev^$all
@@ -52911,6 +52919,7 @@
 ||53-argusworld.pages.dev^$all
 ||54-argusworld.pages.dev^$all
 ||55-argusworld.pages.dev^$all
+||56-argusworld.pages.dev^$all
 ||6-0xfluid.pages.dev^$all
 ||6-allocation-abstract.pages.dev^$all
 ||6-allocation-yieldfields.pages.dev^$all
