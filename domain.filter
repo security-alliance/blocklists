@@ -55414,7 +55414,6 @@
 ||gateway-switch.pages.dev^$all
 ||gayan-ledger.pages.dev^$all
 ||gb-trezor-bridge.pages.dev^$all
-||gemini-admin-acd.pages.dev^$all
 ||general-ledger-system.pages.dev^$all
 ||get--ledger-wallet.pages.dev^$all
 ||get--live--ledger.pages.dev^$all
