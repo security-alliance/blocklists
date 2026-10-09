@@ -31287,7 +31287,6 @@ extendion_metamask.godaddysites.com
 extension_metamask_ac.godaddysites.com
 exudussllogiin.godaddysites.com
 exxodus-usa-logn.godaddysites.com
-geemuini-llogginm.godaddysites.com
 gemi_us_signuinizx0.godaddysites.com
 gemin_login8.godaddysites.com
 geminiiidlugeen.godaddysites.com
@@ -34368,6 +34367,7 @@ loawin.com
 lob0ai.com
 lobstr-co.com
 lobstr-official.com
+lobstrapp.com
 lobstrdesktopapp.com
 lobstrlumendigitalledger.com
 lobstrsecurityasset.com
