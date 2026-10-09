@@ -52423,6 +52423,7 @@ orbitprotocol.dev
 18-proposal-loanmeme.pages.dev
 18-proposal-synthra.pages.dev
 18-ramses-events.pages.dev
+18-reallocate-flare.pages.dev
 18-reallocation-concrete.pages.dev
 18-saturncredit.pages.dev
 18-tge-extended.pages.dev
@@ -88087,6 +88088,7 @@ sparkfinance.sbs
 sparklab.sbs
 sparknet.sbs
 sparksfi.sbs
+sparksfin.sbs
 sparksnet.sbs
 sparrowwallet.sbs
 spcxmeme.sbs

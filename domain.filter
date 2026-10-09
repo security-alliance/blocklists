@@ -52423,6 +52423,7 @@
 ||18-proposal-loanmeme.pages.dev^$all
 ||18-proposal-synthra.pages.dev^$all
 ||18-ramses-events.pages.dev^$all
+||18-reallocate-flare.pages.dev^$all
 ||18-reallocation-concrete.pages.dev^$all
 ||18-saturncredit.pages.dev^$all
 ||18-tge-extended.pages.dev^$all
@@ -88087,6 +88088,7 @@
 ||sparklab.sbs^$all
 ||sparknet.sbs^$all
 ||sparksfi.sbs^$all
+||sparksfin.sbs^$all
 ||sparksnet.sbs^$all
 ||sparrowwallet.sbs^$all
 ||spcxmeme.sbs^$all
