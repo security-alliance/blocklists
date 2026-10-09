@@ -16203,6 +16203,7 @@ myrewards.cfd
 navigatorcu-claim.cfd
 navigatorcu-claims.cfd
 navigatorcu-verify.cfd
+netcapital.cfd
 netnet--capital.cfd
 netnet-capital.cfd
 netnet-gov.cfd
