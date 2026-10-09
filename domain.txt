@@ -95270,6 +95270,7 @@ virtual-zoom-meeting.vu
 web-zoom-us.vu
 zoommeet.vu
 zoomworkflowconnect.vu
+nova-ai.wales
 skinclub.wales
 appid.wang
 web.cobase.wang
