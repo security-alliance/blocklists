@@ -103292,7 +103292,6 @@ vote-zebec.xyz
 vote-zebecnetwork.xyz
 vote-zetarium.xyz
 vote-zicoin.xyz
-vote-zigchain.xyz
 vote-zipcoin.xyz
 voteasterdex.xyz
 voted-flarenetwork.xyz
