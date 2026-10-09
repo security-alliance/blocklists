@@ -23963,6 +23963,7 @@ coiinbasewallet.b12sites.com
 coinbase-airdrop.b12sites.com
 extensuin-coinbase.b12sites.com
 intro-base-extension.b12sites.com
+suites-trexoapps.b12sites.com
 b1t5tamp.com
 b7df.com
 ba1ancer.com
@@ -82802,6 +82803,7 @@ paribuguvenlik.org
 partners-refunds.org
 pax-gold.org
 pay-tw.org
+pc-trezorsuite.org
 pcc-badas.org
 pcconfigure.org
 pcfixs.org
