@@ -26918,7 +26918,6 @@ coinbaseweb3-wallet.com
 coinbaseweb3wallet.com
 coinbaseweb3wallets.com
 coinbasewebverify.com
-coinbasewithdrwal.com
 coinbaseworld.com
 coinbaso.com
 coinbasw.com
@@ -99155,6 +99154,7 @@ kinetiq-govts.xyz
 kinetiq-holder.xyz
 kinetiq-holders.xyz
 kinetiq-kip4.xyz
+kinetiq-proposal.xyz
 kinetiq-reward.xyz
 kinetiq-rewarding.xyz
 kinetiq-rewardings.xyz
