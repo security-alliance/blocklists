@@ -16165,6 +16165,7 @@ hbfebfhfe.cfd
 hgs-payment.cfd
 hkreceivepayment-wallet.cfd
 beefy.home-overview.cfd
+hookr.cfd
 hubia.cfd
 hyperdrivedefi.cfd
 id-verification-s3.cfd
@@ -72589,6 +72590,7 @@ hyenatrade.lat
 hylo.lat
 hylofoundation.lat
 hyperbittcoin.lat
+hyperdex.lat
 hyperlink.lat
 hyperlinkxyz.lat
 hyperliquid-register.lat
@@ -72745,6 +72747,7 @@ purplebitcoin.lat
 pyth.lat
 q3-ethenafi.lat
 quantum-capital.lat
+quanusnet.lat
 quest-solstice-finance.lat
 quest-solsticefinance.lat
 quests-solstice.lat
