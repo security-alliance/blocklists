@@ -52456,6 +52456,7 @@ orbitprotocol.dev
 19-proposal-loanmeme.pages.dev
 19-proposal-synthra.pages.dev
 19-ramses-events.pages.dev
+19-reallocate-flare.pages.dev
 19-reallocation-concrete.pages.dev
 19-saturncredit.pages.dev
 19-tge-extended.pages.dev
@@ -64256,7 +64257,6 @@ x7pad.fun
 xaman-wallet.fun
 xaman-wallett.fun
 xn--pmb-hoa.fun
-yieldfields.fun
 yieldlayer.fun
 yolo-coin.fun
 zcashstamp.fun
