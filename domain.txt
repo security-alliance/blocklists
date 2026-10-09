@@ -47529,7 +47529,6 @@ jaxxlibrety-apps.wixstudio.com
 jaxxlibretyy.wixstudio.com
 kaken-support.wixstudio.com
 kaminodex.wixstudio.com
-karaken-login.wixstudio.com
 karaken-logn.wixstudio.com
 karekenapps.wixstudio.com
 keplrwalllet.wixstudio.com
@@ -48339,7 +48338,6 @@ naw-ndaxx-hub.wixstudio.com
 nawus-ndaxxcdn.wixstudio.com
 nda-xx.wixstudio.com
 ndacdn.wixstudio.com
-ndax-io-eng.wixstudio.com
 ndaxapps-hompage-nav.wixstudio.com
 ndaxcd.wixstudio.com
 ndaxcdn.wixstudio.com
