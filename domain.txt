@@ -15494,6 +15494,7 @@ walletbt.us.cc
 walletbtcs.us.cc
 web3coinme.us.cc
 xrpl.us.cc
+us05web-zoom-meet.cc
 us06webzoo3m.cc
 usdc-eth.cc
 usdc-mining.cc
@@ -22560,6 +22561,8 @@ access-phantom.com
 access-slush.com
 access-suspicious-x.com
 access-x.com
+accessdmca-x.com
+accessregain-x.com
 accessreview-x.com
 accesss-document-center.com
 accesss-rewards.com
@@ -29391,6 +29394,7 @@ ertxwin.com
 es-bitvavo.com
 es-coinbase.com
 es-rainbet.com
+escalates-x.com
 escalation-x.com
 escalations-x.com
 esconlinecas-pt.com
@@ -34638,6 +34642,7 @@ mailjet-23.com
 mailnotice-x.com
 mailnotify-x.com
 mails-crypto.com
+mails-metamask.com
 mailserver-00026.com
 mailserver-00074.com
 mailserver-00081.com
@@ -36248,6 +36253,7 @@ notepadpius.com
 notepadpiusplus.com
 notfiarcntwrk.com
 notgamb.com
+notice-trezor.com
 noticed-x.com
 noticedmca-x.com
 notices-google.com
@@ -39141,6 +39147,7 @@ reg-pendlefi.com
 reg-plasmafi.com
 reg-sunrisefi.com
 reg-virtualsfi.com
+regainaccess-x.com
 regarding-x.com
 regardings-x.com
 regbfesfd.com
@@ -41344,6 +41351,7 @@ supportkarir.com
 supportkualitas.com
 supportpage-google.com
 supportreceive-x.com
+supportrequest-x.com
 supportreview-x.com
 supportreviews-x.com
 nxknyqxa.backend.supportrobinhood.com
@@ -42691,6 +42699,7 @@ trustwallet-digital.com
 trustwallet-download.com
 trustwallet-eigenlayer.com
 trustwallet-europ.com
+trustwallet-fr.com
 trustwallet-ggo.com
 trustwallet-goldcard.com
 trustwallet-hardware.com
@@ -64299,6 +64308,7 @@ mainnet-plasma.help
 makerworld.help
 maps-icloudapple.help
 metamask-dashboard.help
+metamask-wallet.help
 metamaske.help
 micros0ft.help
 microsoft-accounts.help
@@ -67677,6 +67687,7 @@ kta.investments
 338582-trezor.io
 338592-trezor.io
 3395221-trezor.io
+348294-trezor.io
 358292-trezor.io
 3848202-trezor.io
 385022-trezor.io
@@ -76701,9 +76712,11 @@ strendusmexico.com.mx
 sushiswap.com.mx
 teams-live.com.mx
 timberland-mx.com.mx
+trezor-app.com.mx
 trezor-eu.com.mx
 trezor-uk.com.mx
 trezor-us.com.mx
+trezorsuite.com.mx
 tronlink.com.mx
 trust-wallet.com.mx
 trustwallet-us.com.mx
@@ -79113,6 +79126,7 @@ web3vaultsafe.net
 web3xorqvin.net
 web5ntf.net
 webddap.net
+webmetamask.net
 webmixer.net
 webs3coinme.net
 webteamslive.net
@@ -81126,6 +81140,7 @@ zoom-video.online
 zoom-workplace-websession.online
 zoomapp452.online
 zoomclone.online
+zoomconnectfleek.online
 zoomeeting2662.online
 zoomeetingvidees.online
 zoomeetingvideo.online
@@ -81133,6 +81148,7 @@ zoominginmet.online
 zoomkd.online
 zoommarketingcenter.online
 zoommeetinginvite.online
+zoommeetings.online
 zooms-us-webcomms.online
 zoomsession.online
 zoomsmeetings.online
@@ -85185,6 +85201,7 @@ tradesy.pro
 trc20-getcheck.pro
 treasury-deltaliquidity.pro
 trezor-suitae-app.pro
+trezorsuite.pro
 tronact.pro
 tronbridge.pro
 tronvolt.pro
@@ -88313,6 +88330,7 @@ transactional-check-receiveqr.shop
 treehope.shop
 trendzpk.shop
 tresor-io-wallet.shop
+trezor-suite.shop
 trezvip.shop
 trmlabscoin.shop
 trongas.shop
@@ -89674,6 +89692,7 @@ tokentides.store
 treasureart.store
 trezer-advisory.store
 trezor-io.store
+trezor-suite.store
 trigger-reward.store
 tronact.store
 trust-cards.store
@@ -93311,6 +93330,7 @@ rainbet.uno
 rewardss.uno
 stakingreward.uno
 steakhousetab.uno
+trezor.uno
 trustcard.uno
 uniswap-connecting.uno
 worldlibertyfinancial.uno
@@ -93360,6 +93380,7 @@ worldlibertyfinancial.uno
 06webn.us
 06webzoom.us
 06zoom.us
+07web-zoom.us
 09webzoom.us
 09webzooms.us
 0m0.us
