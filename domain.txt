@@ -422,6 +422,7 @@ www-swap-interface.framer.ai
 www-trezorsuitehub.framer.ai
 yumi.framer.ai
 yumifinance.framer.ai
+fxtrad.ai
 video.gemini-omni.ai
 goodswize.ai
 huddle01.ai
@@ -859,6 +860,7 @@ bonus-flaresnetwork.app
 bonus-fluid.app
 bonus-usepaid.app
 boost-equium.app
+bozei.app
 braavosdesktop.app
 bridge-and-swap.app
 bridge-online.app
@@ -11500,6 +11502,7 @@ transit.baseapp.asia
 based.asia
 basedone.asia
 basefxo.asia
+bcbbs-vip.asia
 boros-finance.asia
 bozei.asia
 bravee.asia
@@ -12507,6 +12510,7 @@ gam-dom.biz
 gamesbc.biz
 geminiex.biz
 get-citrea.biz
+goldpocket.biz
 gxpex.biz
 hantavirusol.biz
 hash256.biz
@@ -12820,6 +12824,7 @@ decideecsla.bond
 decidegjuvu.bond
 app.deflliarna.bond
 demrwqeootest32198.bond
+dezentracore.bond
 dfnbpinu.bond
 dislnocause.bond
 distribution-arc.bond
@@ -13709,6 +13714,7 @@ asksurf.cam
 badger.cam
 basezh.cam
 bcbbs.cam
+bcbbs-vip.cam
 beefy.cam
 betparibu-resmigir.cam
 bingx.cam
@@ -13907,6 +13913,7 @@ defi-netnet.capital
 distribution-netnet.capital
 distributions-netnet.capital
 enroll-netnet.capital
+goldpocket.capital
 gtcfx.capital
 holder-netnet.capital
 hub-netnet.capital
@@ -14330,6 +14337,7 @@ basetructcc.cc
 basewallets.cc
 batonexs.cc
 bbwfvbhbf.cc
+bcbbs-vip.cc
 be-in.cc
 beast-gamble.cc
 beastgamble.cc
@@ -14352,6 +14360,7 @@ betso.cc
 betza.cc
 biconomy.cc
 bingox.cc
+bit-skysinvesters.cc
 bitcach.cc
 bitcaell.cc
 bitcoin-double.cc
@@ -14367,6 +14376,7 @@ bitmart-com.cc
 bitmart-exchange.cc
 bitmart-login.cc
 bitpie-a.cc
+bitplus.cc
 bitrefill.cc
 bitscions.cc
 bitse.cc
@@ -14395,6 +14405,7 @@ bscscan.cc
 bsweb3x.cc
 btccpro.cc
 btctoken.cc
+btcusdc.cc
 btse.cc
 bttcc.cc
 btzyw.cc
@@ -14593,6 +14604,7 @@ dexalot.cc
 dexbet.cc
 dexil.cc
 dextoken.cc
+dezentracore.cc
 discord-reward.cc
 distributionhub.cc
 distributions-firelight.cc
@@ -14600,6 +14612,7 @@ distributions-flarenetwork.cc
 djksiokstest.cc
 dmtdg.cc
 dogwin.cc
+domidex.cc
 donked.cc
 doodtoken.cc
 doxe.cc
@@ -14640,6 +14653,7 @@ eligble-unlswap.cc
 eligibilityneutrl.cc
 eligible-hype.cc
 eligible-morpho.cc
+ellevesta.cc
 elst.cc
 en-topup.cc
 en-us0reader.cc
@@ -14750,6 +14764,7 @@ fglejqgqwdlkjs.cc
 fiare.cc
 m.fifabhtmgm.cc
 finanis.cc
+finanisweb3.cc
 firelightfi.cc
 fiush.cc
 fkdalkrelewq.cc
@@ -14757,6 +14772,7 @@ flamefortune.cc
 mail.flaredrop.cc
 fnlockers.cc
 fordmestro.cc
+forexcapitals.cc
 frigober.cc
 frx3.cc
 fs-t.cc
@@ -14766,6 +14782,7 @@ furmark.cc
 futureexchange.cc
 futurewsap.cc
 fwefefw.cc
+fxcap.cc
 fxpor.cc
 fxporcoin.cc
 fxtr.cc
@@ -17225,6 +17242,7 @@ fluidio.click
 flyingtulip.click
 polymarket.fr-app-install.click
 frontiertraders.click
+fxcap.click
 g9ooglmeetts.click
 gain-vnog.click
 gavaris-goldenbonus.click
@@ -22666,6 +22684,7 @@ acizy.com
 acme-blo.com
 acmecoinwave.com
 acn-aitech.com
+aconstradeglobal.com
 acp-coinbase.com
 www-robinhood.acropolhotel.com
 across-airdrop.com
@@ -24143,6 +24162,7 @@ bc-game61.com
 bc-gameonline.com
 bcb-xau.com
 bcb-xautelth.com
+bcbbs-vip.com
 bcbbs1.com
 bcbbs2.com
 bcbbs3.com
@@ -24713,6 +24733,7 @@ bitvavo-de.com
 bitvavo-desktop.com
 bitvavo-terms.com
 bitvavo-us.com
+bitwama.com
 bitwawe.com
 bitwaytrade.com
 bitwinur.com
@@ -24768,6 +24789,7 @@ block-binance.com
 block-fi-distribution.com
 block-spend.com
 blockaidsa.com
+blockbasecoi.com
 blockblastmodapk.com
 blockblastmods.com
 blockblastsapk.com
@@ -24974,6 +24996,7 @@ boapux.com
 bobaina.com
 bobbywallet.com
 bocbot.com
+bocctv.com
 boegex.com
 boegux.com
 bofgugamb.com
@@ -25033,6 +25056,7 @@ auth-coinbase-pro-en.bowwe-site.com
 boxes-prjx.com
 boykibungalov.com
 bozawin.com
+bozeiweb3.com
 bozeji.com
 bozewin.com
 bozexi.com
@@ -25192,6 +25216,7 @@ bullbitcoinpolicy.com
 bullecoin.com
 bullfighteraes.com
 bullforcetrading.com
+bullishgenerationtrade.com
 bullishper.com
 bullishpray.com
 bullishproxy.com
@@ -25258,6 +25283,8 @@ bxaatt.com
 bxalaw.com
 bxalew.com
 bxfss.com
+bxgae.com
+bxgax.com
 bxgwf.com
 bybarter-exchange.com
 bybhsk.com
@@ -25479,6 +25506,7 @@ carlos-coinbase.com
 carnavalwlfi.com
 caroldeairtm.com
 carpeltrade.com
+carpro-coin.com
 carrig5.com
 carrosserie-tarbes.com
 carypact.com
@@ -25809,6 +25837,7 @@ chainlinkhr.com
 chainotown.com
 chainpulseke.com
 chainpulsekr.com
+chainpulsenb.com
 chainpulsenc.com
 chainpulsene.com
 chainpulsenx.com
@@ -26965,6 +26994,8 @@ coindcxvault.com
 coindecb.com
 coindexb.com
 coindexd.com
+coindxca.com
+coindxce.com
 coindxec.com
 m.coineaselimited.com
 cloud.coinebase.com
@@ -27810,6 +27841,7 @@ cryptocom-wallet-review.com
 cryptocomplianttrade.com
 cryptocreditra.com
 cryptocscex.com
+cryptocsscud.com
 cryptocsstt.com
 opensea.cryptodeficonnect.com
 cryptodefilufeiq.com
@@ -27913,6 +27945,7 @@ csfloatlab.com
 csfloatmarkets.com
 csflot.com
 csfluat.com
+csmew.com
 csmnoney.com
 csmoneu.com
 csmoneys.com
@@ -28170,6 +28203,7 @@ dcentwalletfirmwareupdate.com
 dcentwallets-recovery.com
 dcentweb3.com
 dcgcoinn.com
+dcoincx.com
 dcoinxc.com
 dcpowerpass.com
 dd3bdyd3jnfn43sa0.com
@@ -28225,6 +28259,7 @@ decentralisedacct.com
 decides-x.com
 decisioncontent-x.com
 decline-coinbase.com
+deconinvestment.com
 decurtisholdings.com
 dedouanement-swiss.com
 deduct-trustwallet.com
@@ -28476,6 +28511,7 @@ dexv3.com
 dexv6.com
 dexvip777.com
 dexwallet-trust.com
+dezentracore.com
 dezoxplay.com
 dfglc.com
 dfgsdghfghrt.com
@@ -29767,6 +29803,7 @@ exodus-tradingai-app.com
 exodus-us.com
 exodus-wallet-review.com
 exodusap.com
+exodusbook.com
 autodiscover.exoduscom.com
 cpcontacts.exoduscom.com
 webdisk.exoduscom.com
@@ -30564,6 +30601,7 @@ fuavax.com
 fuckmelania.com
 fudowex.com
 fuekax.com
+fugroplc.com
 fulcrom-dex.com
 fullaxa.com
 fullgamb.com
@@ -30720,6 +30758,7 @@ fxporcoin.com
 fxporcon.com
 fxporix.com
 fxproexwbs.com
+fxreturn.com
 fxrp-firelight.com
 fxrp-flare.com
 fxrp-flarenetwork.com
@@ -33925,6 +33964,7 @@ kucoinee.com
 kucoinev.com
 kucoinportal.com
 kucoinspro.com
+kucoinu.com
 meta-mask-crypto-usa.kuden-online-user.com
 kudubook.com
 kuehax.com
@@ -51289,6 +51329,7 @@ baggiup.cyou
 basedone.cyou
 basefxo.cyou
 basisex.cyou
+bcbbs-vip.cyou
 belloww.cyou
 bit-coin.cyou
 www.bitcexmax.cyou
@@ -53313,6 +53354,7 @@ baseminiapp-f2398d5.pages.dev
 bases-ledgr-start.pages.dev
 baseswap-dexx.pages.dev
 basexp-worker.pages.dev
+bbexc-h5.pages.dev
 bdagnetwork.pages.dev
 began-ledger-live-desktop-eng-us.pages.dev
 began-ledgerlivewallet-io.pages.dev
@@ -64884,6 +64926,7 @@ based-vote.icu
 basedapp.icu
 bc0011.icu
 bcbbs.icu
+bcbbs-vip.icu
 bdank.icu
 beltraq.icu
 beta-revoke.icu
@@ -65038,6 +65081,7 @@ defi-wallets.icu
 degen-x.icu
 derive-allocation.icu
 derivexyz.icu
+dezentracore.icu
 digitalcardacces.icu
 distinctletters.icu
 distribution-aave.icu
@@ -66578,6 +66622,7 @@ eligibility-aerodrome.info
 eligibility-concrete.info
 eligibility-ondoperps.info
 eligibility-virtuals.info
+ellevesta.info
 elslabs.info
 elysianerslab.info
 email-kraken.info
@@ -67656,6 +67701,7 @@ claim-rlusd.ink
 claim-unlswap.ink
 claims-firelight.ink
 coinbase-commerce.ink
+coinexsi.ink
 coinilst.ink
 coinupai.ink
 coinuplh.ink
@@ -73359,6 +73405,7 @@ block-fuck-aids.live
 blockchainfx-io.live
 blockdagdappfix.live
 blockedge.live
+blockmentrisplatform.live
 bloktopia.live
 blonk.live
 bluefin-dex.live
@@ -75866,6 +75913,7 @@ degencoinsolanas.lol
 degenify.lol
 dejavu-ai.lol
 dexump.lol
+dezentracore.lol
 dj-crypto.lol
 dogecoinsol.lol
 dogeuskekius.lol
@@ -76309,6 +76357,7 @@ exodushq.ltd
 user.exreu.ltd
 user.finabel.ltd
 findigitalbkin.ltd
+findigitalbkins.ltd
 hodlway.ltd
 hyperliquid.ltd
 io-start.ltd
@@ -76450,6 +76499,7 @@ arcusxyz.me
 attrax.me
 pykskpdp.r.ap-southeast-2.awstrack.me
 basisex.me
+bcbbs-vip.me
 bebylann-commentt-list-69.me
 betiverse.me
 bozei.me
@@ -76989,6 +77039,7 @@ deagent.my
 dezentracore.my
 dgbest.my
 dhedge.my
+domidex.my
 dragonswaps.my
 eulerfiapp.my
 google-verify.my
@@ -77752,6 +77803,7 @@ user.baseroomhub.net
 baseto.net
 basewithdrwalwallet.net
 bassnetwork.net
+batonexs.net
 bawsaq.net
 bayanescorts.net
 bayernklugbitai.net
@@ -77783,6 +77835,7 @@ bitbryone.net
 bitcoineverest-ai.net
 bitflyer-hq.net
 bitforex168.net
+bitgotintl.net
 bitlyco.net
 bitmart-exchange.net
 bitmartexchange-com.net
@@ -77823,6 +77876,7 @@ btcboxjp.net
 btcmix.net
 btcmixers.net
 btcreporter.net
+btcusdc.net
 btp-bitpie.net
 buasele.net
 bullishvip.net
@@ -80056,12 +80110,14 @@ claim.deepbook.one
 deepsnitch.one
 deskapp.one
 desktt-coast.one
+dezentracore.one
 domidex.one
 ebowmexc.one
 eigenlayer-app.one
 eigenlayer-token.one
 eligibilityneutrl.one
 eligibles.one
+ellevesta.one
 enter-flarenetworks.one
 esteemedguests.one
 ethereumwallet.one
@@ -80565,6 +80621,7 @@ coinbaseinvoice.online
 coinbaseonline.online
 coinbasex.online
 coinhy.online
+coinmax.online
 coinrectify.online
 colabland.online
 coldcard.online
@@ -80652,6 +80709,7 @@ eg-sakr.online
 eigenlayer.online
 eigenlayer-eligible.online
 eigenlayerbuild.online
+ellevesta.online
 email-claim.online
 email-verify.online
 enccosecure-livemeet.online
@@ -82052,6 +82110,7 @@ dynamicfximpact.org
 area.eagl-prime.org
 earn-fetch.org
 earn-plume.org
+earnprotrade.org
 events.easternvascular.org
 easytrademarkets.org
 edexce.org
@@ -82279,6 +82338,7 @@ fund-trust.org
 fund-tw.org
 exodus.fundcredit.org
 fundmaxx.org
+fxcap.org
 g-i-m-p.org
 gain-account.org
 gain-spirit.org
@@ -88317,6 +88377,7 @@ descendantszombies.shop
 devcodings-copss.shop
 devcodingscopss.shop
 devtltiie.shop
+dezentracore.shop
 diddy-merch.shop
 digifloster.shop
 disneyvibo.shop
@@ -88859,6 +88920,7 @@ eigenfdn.site
 eigenlayer.site
 eigenlayerfoundation.site
 elipal.site
+ellevesta.site
 email-claim.site
 equcore.site
 espaciosconscientes.site
@@ -91211,8 +91273,10 @@ baseazul.top
 basedone.top
 basefund.top
 basetken.top
+batonexs.top
 bbehbebhj3e.top
 bcbbs.top
+bcbbs-vip.top
 be4am.top
 bedrock-web.top
 beefyfinance.top
@@ -91249,6 +91313,7 @@ bitmartpro.top
 bitnode.top
 bito.top
 bitoq.top
+bitplus.top
 bitrefilll.top
 bitsol.top
 bittam.top
@@ -91297,10 +91362,13 @@ bulltheleader-rewards.top
 bullvers.top
 bus14di.top
 bx-nosignal.top
+bxabv.top
+bxaen.top
 bxaon.top
 bxatt.top
 bxatv.top
 bxavn.top
+bxavv.top
 bybit-votes.top
 bybitweb3.top
 bydfi.top
@@ -91523,6 +91591,7 @@ dfqd7f69.top
 dfuidxwg.top
 dghbjsdhgb6465.top
 digi-rewards.top
+digitizedctltd.top
 distribution-aave.top
 distribution-firelight.top
 distributions-aave.top
@@ -91570,6 +91639,7 @@ eigenlayaer.top
 eigenlayer-learn.top
 eigenlayertoken.top
 eigenleayr.top
+ellevesta.top
 elonpump.top
 elonsushi.top
 embercurve.top
@@ -94552,6 +94622,7 @@ bancor.vip
 basefxo.vip
 baseifxo.vip
 basisex.vip
+bcbbs-vip.vip
 bco08kl.vip
 beastt.vip
 bestec.vip
@@ -94586,6 +94657,7 @@ btcdd.vip
 bttcc.vip
 budas.vip
 bullverse.vip
+buyusd.vip
 bxact.vip
 bybitbest.vip
 bybitpro.vip
@@ -94685,6 +94757,7 @@ echoauth.vip
 eco11ai.vip
 eigen-layer.vip
 eligible-pudgy.vip
+ellevesta.vip
 epstein-island.vip
 eth-et3.vip
 eth-mk3.vip
@@ -94702,6 +94775,7 @@ flarenetwork.vip
 flp-coinct.vip
 flrdrop.vip
 fmgm-pro.vip
+forexcapitals.vip
 fourmoon.vip
 frameworkbasetoken.vip
 fus03ss.vip
@@ -97732,6 +97806,7 @@ eligible-jupag.xyz
 eligible-stonkfun.xyz
 eligibleverify.xyz
 eliglble.xyz
+ellevesta.xyz
 eloncoin-bsc.xyz
 eloneln.xyz
 eltoadpepe.xyz
