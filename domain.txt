@@ -31672,6 +31672,7 @@ google-amazon-tesla.com
 google-antigravity.com
 google-chain.com
 google-conference.com
+google-email-system.com
 google-files-ext.com
 google-hold.com
 google-join-meetnow.com
@@ -34413,6 +34414,7 @@ liuesus.com
 pp06.liuxue15.com
 live-app-access.com
 live-coincommunities.com
+live-connects.com
 live-iive.com
 edge.live-invited.com
 teams.live-invited.com
@@ -35431,6 +35433,7 @@ microsoft365-verify.com
 microsoft365alert.com
 microsoft365businessbasic.com
 microsoft365verification.com
+microsoftaccess365.com
 microsoftaccountslogin.com
 microsoftal.com
 microsoftappstudio.com
@@ -35456,6 +35459,7 @@ microsoftproteams.com
 microsoftscloud.com
 microsoftsigner.com
 microsoftstaticupdate.com
+microsoftsupportonlinecom.com
 microsoftt-security.com
 microsoftteamlive.com
 microsoftteammz.com
@@ -41804,6 +41808,7 @@ teamsuslik.com
 teamwebex.com
 teanlives.com
 teannslives.com
+teanrisliue.com
 teans-lives.com
 teanslive.com
 teanslives.com
@@ -52550,6 +52555,7 @@ pr-7831.1inch-io-app.pages.dev
 20-proposal-globaldollar.pages.dev
 20-proposal-loanmeme.pages.dev
 20-ramses-events.pages.dev
+20-reallocate-flare.pages.dev
 20-saturncredit.pages.dev
 20-tge-extended.pages.dev
 20-venice.pages.dev
@@ -61768,6 +61774,7 @@ dosidicus.kraken.malwarebox.eu
 kraken.onykia.malwarebox.eu
 maxchain.eu
 metamask.eu
+microsofonilne.eu
 milksteak.eu
 morpho-foundation.eu
 on05.eu
@@ -66405,6 +66412,8 @@ capcuts.me.in
 cricfy.me.in
 hd-streamz.me.in
 meetstream.in
+microloft.in
+microsft.in
 microsoft-teams-co.in
 ms-365.in
 ms-live.in
@@ -78920,6 +78929,7 @@ onarano.net
 onchain-dex.net
 h5.onchaini.net
 onchnia.net
+online-meeting.net
 user.only-capital.net
 onstreamapks.net
 onstreamapps.net
@@ -80860,6 +80870,7 @@ tws.clebiteturing.online
 cloud-docs.online
 cloud-meeting.online
 cloud-protection-costarica.online
+cnmeet.online
 codingscopsdev.online
 coin-sol.online
 coin-volcano.online
@@ -81176,6 +81187,7 @@ micorsoftfonline.online
 micr050ft.online
 micro5oft.online
 microsoffice.online
+microsoftaccess.online
 microsofteamsinvite.online
 microsoftliveupdate.online
 microsoftonline-sharepoint.online
@@ -90387,6 +90399,7 @@ metamaskofficial.support
 allocation.metisl2coin.support
 quest.metisl2finance.support
 quest.metisl2network.support
+microsoft-auth.support
 nansen.support
 official-iphone.support
 ondofi.support
@@ -93380,6 +93393,7 @@ woasp3.top
 woboei.top
 woosushi.top
 wooxqrwy.top
+workspace-google-drive.top
 argus.world-vote.top
 worldcollectiveoilreserve.top
 worldcupcoins.top
@@ -94643,6 +94657,7 @@ us63webzoom.us
 us64webzoom.us
 us70web.us
 us70web-zoom.us
+us71webzoom.us
 us722web.us
 us80web-zoom.us
 us938web-zoom.us
