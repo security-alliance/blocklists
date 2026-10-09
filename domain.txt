@@ -52716,6 +52716,7 @@ pr-7831.1inch-io-app.pages.dev
 26-proposal-globaldollar.pages.dev
 26-ramses-events.pages.dev
 26-saturncredit.pages.dev
+26-venice.pages.dev
 27-0xfluid.pages.dev
 27-allowlist-ascendlaunch.pages.dev
 27-argusworld.pages.dev
@@ -86801,6 +86802,7 @@ claim.arciumrtg.sbs
 arcnetwork.sbs
 arctideapp.sbs
 arcus.sbs
+arcustrade.sbs
 arcusxyz.sbs
 arena-colosseum.sbs
 argus-proposal.sbs
