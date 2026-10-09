@@ -1492,6 +1492,7 @@
 ||dashboard-offer-opensea.event-reg.app^$all
 ||event-usepaid.app^$all
 ||event-worldliberty.app^$all
+||event-xaman.app^$all
 ||events-heisted.app^$all
 ||events-usepaid.app^$all
 ||exodus-app.app^$all
@@ -4024,11 +4025,13 @@
 ||moonshot-listings-jxg.netlify.app^$all
 ||moonshot-listings-jzc.netlify.app^$all
 ||moonshot-listings-kky.netlify.app^$all
+||moonshot-listings-kmy.netlify.app^$all
 ||moonshot-listings-krl.netlify.app^$all
 ||moonshot-listings-ldy.netlify.app^$all
 ||moonshot-listings-lne.netlify.app^$all
 ||moonshot-listings-lrg.netlify.app^$all
 ||moonshot-listings-mpg.netlify.app^$all
+||moonshot-listings-mup.netlify.app^$all
 ||moonshot-listings-muw.netlify.app^$all
 ||moonshot-listings-nlw.netlify.app^$all
 ||moonshot-listings-pac.netlify.app^$all
@@ -4036,15 +4039,18 @@
 ||moonshot-listings-qiv.netlify.app^$all
 ||moonshot-listings-rbm.netlify.app^$all
 ||moonshot-listings-ree.netlify.app^$all
+||moonshot-listings-rik.netlify.app^$all
 ||moonshot-listings-rst.netlify.app^$all
 ||moonshot-listings-rxi.netlify.app^$all
 ||moonshot-listings-siy.netlify.app^$all
 ||moonshot-listings-skm.netlify.app^$all
 ||moonshot-listings-uqf.netlify.app^$all
+||moonshot-listings-uqg.netlify.app^$all
 ||moonshot-listings-vnn.netlify.app^$all
 ||moonshot-listings-vsc.netlify.app^$all
 ||moonshot-listings-waa.netlify.app^$all
 ||moonshot-listings-wgs.netlify.app^$all
+||moonshot-listings-wma.netlify.app^$all
 ||moonshot-listings-wxj.netlify.app^$all
 ||moonshot-listings-xai.netlify.app^$all
 ||moonshot-listings-ybg.netlify.app^$all
@@ -10859,6 +10865,7 @@
 ||whvtmh-ttxyaiba.vercel.app^$all
 ||wild-cedar-2172.vercel.app^$all
 ||wildcard-beacon-router.vercel.app^$all
+||wirehead-agency.vercel.app^$all
 ||wkdbgd-321xdru3.vercel.app^$all
 ||wlfi-auth.vercel.app^$all
 ||wlfi-plum.vercel.app^$all
@@ -15962,6 +15969,7 @@
 ||bytedrop.cfd^$all
 ||cake-v4-02.cfd^$all
 ||campaign-aster-ref-click-germ.cfd^$all
+||cantonsnetwork.cfd^$all
 ||capitalfounder.cfd^$all
 ||capitalfoundervc.cfd^$all
 ||capitalfounderventure.cfd^$all
@@ -16265,6 +16273,7 @@
 ||payment-wallet-receive.cfd^$all
 ||paymentreceive-wallet.cfd^$all
 ||pendlefi.cfd^$all
+||penldeflnance.cfd^$all
 ||perfectsol.cfd^$all
 ||phantomminer.cfd^$all
 ||phase-flarenetwork.cfd^$all
@@ -16591,6 +16600,8 @@
 ||sitemv0we3kam8uv.cfd^$all
 ||sitemv0xjn7ukgop.cfd^$all
 ||sitemv0xk376kqb8.cfd^$all
+||sitemv0y9zv7t32d.cfd^$all
+||sitemv0yrebchhdi.cfd^$all
 ||sitemv17hrcc1lc5.cfd^$all
 ||sitemv18nm80c7t7.cfd^$all
 ||sitemv1a8a0ve2m1.cfd^$all
@@ -29403,6 +29414,7 @@
 ||enroll-papertrade.com^$all
 ||enroll-raac.com^$all
 ||enroll-rb88.com^$all
+||enroll-solana.com^$all
 ||enroll-tea.com^$all
 ||enroll-zestprotocol.com^$all
 ||enrollstea.com^$all
@@ -44344,6 +44356,7 @@
 ||vote-arc.com^$all
 ||vote-atlanta.com^$all
 ||vote-ayx.com^$all
+||vote-cashmere.com^$all
 ||vote-casinocoin.com^$all
 ||vote-centrifuge.com^$all
 ||vote-citrea.com^$all
@@ -50071,6 +50084,7 @@
 ||www-onekey.com^$all
 ||www-optirism.com^$all
 ||www-rainbet.com^$all
+||www-sol.com^$all
 ||www-solana.com^$all
 ||www-strikesrobots.com^$all
 ||www-trazor.com^$all
@@ -52039,6 +52053,7 @@
 ||1-argus-2n6.pages.dev^$all
 ||1-argus-pad.pages.dev^$all
 ||1-argusworld.pages.dev^$all
+||1-argusworlds.pages.dev^$all
 ||1-argusworlds-933.pages.dev^$all
 ||1-cantonnetwork.pages.dev^$all
 ||1-derive.pages.dev^$all
@@ -52112,6 +52127,7 @@
 ||10-hyperlinkxyz-e79.pages.dev^$all
 ||10-netnet.pages.dev^$all
 ||10-pons.pages.dev^$all
+||10-ponsfamily.pages.dev^$all
 ||10-predeposit-papertrade.pages.dev^$all
 ||10-predictfun.pages.dev^$all
 ||10-proposal-3jane.pages.dev^$all
@@ -52239,10 +52255,12 @@
 ||13-proposal-zama.pages.dev^$all
 ||13-ramses-events.pages.dev^$all
 ||13-reallocate-flare.pages.dev^$all
+||13-reallocation-abs.pages.dev^$all
 ||13-reallocation-concrete.pages.dev^$all
 ||13-saturncredit.pages.dev^$all
 ||13-tge-extended.pages.dev^$all
 ||13-venice.pages.dev^$all
+||13-zamaprotocol.pages.dev^$all
 ||13-zipcoin.pages.dev^$all
 ||14-0xfluid.pages.dev^$all
 ||14-allocation-abstract.pages.dev^$all
@@ -52263,6 +52281,7 @@
 ||14-hyperlinkxyz-e79.pages.dev^$all
 ||14-netnet.pages.dev^$all
 ||14-pons.pages.dev^$all
+||14-predeposit-papertrade.pages.dev^$all
 ||14-predictfun.pages.dev^$all
 ||14-proposal-3jane.pages.dev^$all
 ||14-proposal-argus.pages.dev^$all
@@ -52377,10 +52396,12 @@
 ||18-proposal-argus.pages.dev^$all
 ||18-proposal-derive.pages.dev^$all
 ||18-proposal-globaldollar.pages.dev^$all
+||18-proposal-loanmeme.pages.dev^$all
 ||18-proposal-synthra.pages.dev^$all
 ||18-ramses-events.pages.dev^$all
 ||18-reallocation-concrete.pages.dev^$all
 ||18-saturncredit.pages.dev^$all
+||18-tge-extended.pages.dev^$all
 ||18-venice.pages.dev^$all
 ||19-0xfluid.pages.dev^$all
 ||19-allocation-abstract.pages.dev^$all
@@ -52463,6 +52484,7 @@
 ||2-venice.pages.dev^$all
 ||2-vote-argusworld.pages.dev^$all
 ||2-zamaprotocol.pages.dev^$all
+||2-zano.pages.dev^$all
 ||2-zipcoin.pages.dev^$all
 ||20-0xfluid.pages.dev^$all
 ||20-allocation-abstract.pages.dev^$all
@@ -52483,13 +52505,17 @@
 ||20-venice.pages.dev^$all
 ||21-0xfluid.pages.dev^$all
 ||21-allowlist-ascendlaunch.pages.dev^$all
+||21-argus-pad.pages.dev^$all
 ||21-derivexyz.pages.dev^$all
 ||21-gov-ramses.pages.dev^$all
 ||21-netnet.pages.dev^$all
+||21-predictfun.pages.dev^$all
+||21-proposal-3jane.pages.dev^$all
 ||21-proposal-derive.pages.dev^$all
 ||21-proposal-globaldollar.pages.dev^$all
 ||21-ramses-events.pages.dev^$all
 ||21-saturncredit.pages.dev^$all
+||21-venice.pages.dev^$all
 ||22-0xfluid.pages.dev^$all
 ||22-allocation-abstract.pages.dev^$all
 ||22-allowlist-ascendlaunch.pages.dev^$all
@@ -52572,6 +52598,7 @@
 ||3-argus-2n6.pages.dev^$all
 ||3-argus-pad.pages.dev^$all
 ||3-argusworld.pages.dev^$all
+||3-argusworlds.pages.dev^$all
 ||3-argusworlds-933.pages.dev^$all
 ||3-cantonnetwork.pages.dev^$all
 ||3-derive.pages.dev^$all
@@ -52581,11 +52608,13 @@
 ||3-derivexyz-6ky.pages.dev^$all
 ||3-ecosystem-argus.pages.dev^$all
 ||3-ethena.pages.dev^$all
+||3-ethenafinance.pages.dev^$all
 ||3-ethenamoney.pages.dev^$all
 ||3-fluidio.pages.dev^$all
 ||3-gov-ramses.pages.dev^$all
 ||3-governance-kinetiq.pages.dev^$all
 ||3-hyperlink.pages.dev^$all
+||3-hyperlinkapp.pages.dev^$all
 ||3-hyperlinkapp-86x.pages.dev^$all
 ||3-hyperlinkfi.pages.dev^$all
 ||3-hyperlinkxyz-e79.pages.dev^$all
@@ -52620,12 +52649,15 @@
 ||30-argusworld.pages.dev^$all
 ||30-derivexyz.pages.dev^$all
 ||30-netnet.pages.dev^$all
+||30-proposal-globaldollar.pages.dev^$all
 ||30-ramses-events.pages.dev^$all
 ||30-saturncredit.pages.dev^$all
 ||31-0xfluid.pages.dev^$all
 ||31-allowlist-ascendlaunch.pages.dev^$all
 ||31-argusworld.pages.dev^$all
+||31-derivexyz.pages.dev^$all
 ||31-netnet.pages.dev^$all
+||31-ramses-events.pages.dev^$all
 ||31-saturncredit.pages.dev^$all
 ||32-0xfluid.pages.dev^$all
 ||32-allowlist-ascendlaunch.pages.dev^$all
@@ -52640,6 +52672,7 @@
 ||34-0xfluid.pages.dev^$all
 ||34-allowlist-ascendlaunch.pages.dev^$all
 ||34-argusworld.pages.dev^$all
+||34-netnet.pages.dev^$all
 ||34-saturncredit.pages.dev^$all
 ||35-0xfluid.pages.dev^$all
 ||35-allowlist-ascendlaunch.pages.dev^$all
@@ -52654,6 +52687,7 @@
 ||37-argusworld.pages.dev^$all
 ||37-saturncredit.pages.dev^$all
 ||38-0xfluid.pages.dev^$all
+||38-allowlist-ascendlaunch.pages.dev^$all
 ||38-argusworld.pages.dev^$all
 ||38-saturncredit.pages.dev^$all
 ||39-0xfluid.pages.dev^$all
@@ -52717,12 +52751,14 @@
 ||40-saturncredit.pages.dev^$all
 ||41-0xfluid.pages.dev^$all
 ||41-argusworld.pages.dev^$all
+||41-saturncredit.pages.dev^$all
 ||42-0xfluid.pages.dev^$all
 ||42-argusworld.pages.dev^$all
 ||43-0xfluid.pages.dev^$all
 ||43-argusworld.pages.dev^$all
 ||44-0xfluid.pages.dev^$all
 ||44-argusworld.pages.dev^$all
+||45-0xfluid.pages.dev^$all
 ||45-argusworld.pages.dev^$all
 ||459358h.pages.dev^$all
 ||46-argusworld.pages.dev^$all
@@ -52779,6 +52815,7 @@
 ||5-zamaprotocol.pages.dev^$all
 ||5-zipcoin.pages.dev^$all
 ||50-argusworld.pages.dev^$all
+||51-argusworld.pages.dev^$all
 ||6-0xfluid.pages.dev^$all
 ||6-allocation-abstract.pages.dev^$all
 ||6-allocation-yieldfields.pages.dev^$all
@@ -52865,6 +52902,7 @@
 ||7-proposal-synthra.pages.dev^$all
 ||7-proposal-zama.pages.dev^$all
 ||7-ramses-events.pages.dev^$all
+||7-ramsesapp.pages.dev^$all
 ||7-reallocate-flare.pages.dev^$all
 ||7-reallocation-abs.pages.dev^$all
 ||7-reallocation-concrete.pages.dev^$all
@@ -52876,6 +52914,7 @@
 ||761i-com-e8r.pages.dev^$all
 ||8-0xfluid.pages.dev^$all
 ||8-allocation-abstract.pages.dev^$all
+||8-allocation-yieldfields.pages.dev^$all
 ||8-allowlist-ascendlaunch.pages.dev^$all
 ||8-app-argus.pages.dev^$all
 ||8-argus.pages.dev^$all
@@ -52902,9 +52941,11 @@
 ||8-proposal-3jane.pages.dev^$all
 ||8-proposal-argus.pages.dev^$all
 ||8-proposal-argus-epf.pages.dev^$all
+||8-proposal-computersrh.pages.dev^$all
 ||8-proposal-derive.pages.dev^$all
 ||8-proposal-globaldollar.pages.dev^$all
 ||8-proposal-loanmeme.pages.dev^$all
+||8-proposal-prjx.pages.dev^$all
 ||8-proposal-synthra.pages.dev^$all
 ||8-proposal-zama.pages.dev^$all
 ||8-ramses-events.pages.dev^$all
@@ -52930,10 +52971,12 @@
 ||9-cantonnetwork.pages.dev^$all
 ||9-derive.pages.dev^$all
 ||9-derives.pages.dev^$all
+||9-derivexyz.pages.dev^$all
 ||9-derivexyz-6ky.pages.dev^$all
 ||9-ethenamoney.pages.dev^$all
 ||9-fluidio.pages.dev^$all
 ||9-gov-ramses.pages.dev^$all
+||9-governance-kinetiq.pages.dev^$all
 ||9-hyperlinkapp-86x.pages.dev^$all
 ||9-hyperlinkxyz-e79.pages.dev^$all
 ||9-netnet.pages.dev^$all
@@ -54551,6 +54594,9 @@
 ||eligibility-argus.pages.dev^$all
 ||eligibility-cashcat.pages.dev^$all
 ||eligibility-hoodrat.pages.dev^$all
+||eligibility-pons.pages.dev^$all
+||eligibility-pulp.pages.dev^$all
+||eligibility-raxol.pages.dev^$all
 ||eligibility-stocker.pages.dev^$all
 ||eligibility-stonkex.pages.dev^$all
 ||eligibility-tolly.pages.dev^$all
@@ -58368,6 +58414,8 @@
 ||reward-hodltoken.pages.dev^$all
 ||reward-singularitynet.pages.dev^$all
 ||reward-welikethefoxcom.pages.dev^$all
+||rewards-ai.pages.dev^$all
+||rewards-argus.pages.dev^$all
 ||rewards-cashcat.pages.dev^$all
 ||rewards-hoodrat.pages.dev^$all
 ||rewards-kucoin.pages.dev^$all
@@ -73291,6 +73339,7 @@
 ||agentmemory.live^$all
 ||ai-claim.live^$all
 ||ai-openclaw.live^$all
+||venice.ai-proposal.live^$all
 ||aidogchain.live^$all
 ||aintivirs-migrate.live^$all
 ||ainvdaevent.live^$all
@@ -79844,6 +79893,7 @@
 ||pythcoin.network^$all
 ||rainbet.network^$all
 ||ratex.network^$all
+||reallocate-flare.network^$all
 ||reallocation-canopy.network^$all
 ||reallocation-flare.network^$all
 ||reallocations-canopy.network^$all
@@ -93422,6 +93472,7 @@
 ||flowpad.trade^$all
 ||app.staging.flowx.trade^$all
 ||fntm-v2.trade^$all
+||genesis-zama.trade^$all
 ||genesis-zksync.trade^$all
 ||gewuasset.trade^$all
 ||governance-pool.trade^$all
@@ -103166,6 +103217,7 @@
 ||vote-zebecnetwork.xyz^$all
 ||vote-zetarium.xyz^$all
 ||vote-zicoin.xyz^$all
+||vote-zigchain.xyz^$all
 ||vote-zipcoin.xyz^$all
 ||voteasterdex.xyz^$all
 ||voted-flarenetwork.xyz^$all
@@ -103602,6 +103654,7 @@
 ||preview.wwweigenlayer.xyz^$all
 ||www2.wwweigenlayer.xyz^$all
 ||wxgyu.xyz^$all
+||wxrpn-evernorths.xyz^$all
 ||wyagyu.xyz^$all
 ||wygyu.xyz^$all
 ||wyne-coin.xyz^$all
