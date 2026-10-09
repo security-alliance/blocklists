@@ -37327,6 +37327,7 @@ phantom-activate.com
 app.phantom-agent.com
 data.phantom-agent.com
 phantom-bitplc.com
+phantom-en.com
 phantom-exchange.com
 phantom-my.com
 phantom-pro.com
