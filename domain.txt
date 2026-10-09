@@ -35129,7 +35129,6 @@ metamaskenabled.com
 pay.metamaskgrup.com
 metamaskimport.com
 metamaskindia.com
-metamaskinsure.com
 metamasklock.com
 metamasknetwork.com
 metamaskonline.com
@@ -76892,6 +76891,7 @@ app.aethercascade.net
 aevachain.net
 afi-protocol.net
 agbexplorercheck.net
+completedg00gle.agilents.net
 ai-infras.net
 aigti.net
 aiinvest.net
