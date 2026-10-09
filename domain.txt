@@ -28224,7 +28224,6 @@ dashboard.zebec.io.defi-chains.com
 defi-finance-tracker.com
 defi-hyperliquid.com
 defi-kong.com
-defi-lama.com
 defi-sunrise.com
 defi-trustpad.com
 defi35.com
