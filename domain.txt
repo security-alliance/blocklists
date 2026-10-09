@@ -17487,7 +17487,6 @@ season5-etherfi.click
 secure-acces.click
 secure-confirmation.click
 secure-connection.click
-secure-id4132.click
 secure-verification.click
 securego-update.click
 securities-uydq.click
@@ -20499,7 +20498,6 @@ coinbase.248311.com
 280328-coinbase.com
 280642-blockfi.com
 280825-ledger.com
-281721-crypto.com
 281940-crypto.com
 282127-binance.com
 282192-coinbase.com
@@ -23810,9 +23808,6 @@ auth-log-into-services-homeportal.com
 auth-log-myaccount0a6b4doaxf8e-portal-service-taskid.com
 auth-long-check-validation02-4b8c2a6f.com
 auth-mailer-myaccount.com
-auth-msfthome.com
-auth-msftlogin.com
-auth-msftpage.com
 auth-passkey0.com
 auth-pollymarket.com
 auth-review.com
@@ -26051,7 +26046,6 @@ claim-extendedexchange.com
 claim-fi.com
 claim-firelight.com
 claim-flare.com
-claim-flareevm.com
 claim-flarenetwork.com
 claim-flrelight.com
 claim-flt.com
@@ -26079,7 +26073,6 @@ claim-orbiter.com
 claim-pal.com
 claim-peipeicoin.com
 claim-pepenode.com
-claim-peponk.com
 claim-plrl.com
 claim-polymarket.com
 claim-project.com
@@ -87831,7 +87824,6 @@ workflowin.sbs
 worldcollectiveoilreserve.sbs
 worldcupcoin.sbs
 worldxyz.sbs
-www-dappradar.sbs
 app.www-gokite.sbs
 event.www-gokite.sbs
 portal.www-gokite.sbs
@@ -89308,7 +89300,6 @@ card-trust.space
 cards-tw.space
 ciun.space
 claim-center.space
-claim-gate.space
 claims-firelight.space
 cleanusdt.space
 clickandfixx.space

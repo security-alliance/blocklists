@@ -17487,7 +17487,6 @@
 ||secure-acces.click^$all
 ||secure-confirmation.click^$all
 ||secure-connection.click^$all
-||secure-id4132.click^$all
 ||secure-verification.click^$all
 ||securego-update.click^$all
 ||securities-uydq.click^$all
@@ -20499,7 +20498,6 @@
 ||280328-coinbase.com^$all
 ||280642-blockfi.com^$all
 ||280825-ledger.com^$all
-||281721-crypto.com^$all
 ||281940-crypto.com^$all
 ||282127-binance.com^$all
 ||282192-coinbase.com^$all
@@ -23810,9 +23808,6 @@
 ||auth-log-myaccount0a6b4doaxf8e-portal-service-taskid.com^$all
 ||auth-long-check-validation02-4b8c2a6f.com^$all
 ||auth-mailer-myaccount.com^$all
-||auth-msfthome.com^$all
-||auth-msftlogin.com^$all
-||auth-msftpage.com^$all
 ||auth-passkey0.com^$all
 ||auth-pollymarket.com^$all
 ||auth-review.com^$all
@@ -26051,7 +26046,6 @@
 ||claim-fi.com^$all
 ||claim-firelight.com^$all
 ||claim-flare.com^$all
-||claim-flareevm.com^$all
 ||claim-flarenetwork.com^$all
 ||claim-flrelight.com^$all
 ||claim-flt.com^$all
@@ -26079,7 +26073,6 @@
 ||claim-pal.com^$all
 ||claim-peipeicoin.com^$all
 ||claim-pepenode.com^$all
-||claim-peponk.com^$all
 ||claim-plrl.com^$all
 ||claim-polymarket.com^$all
 ||claim-project.com^$all
@@ -87831,7 +87824,6 @@
 ||worldcollectiveoilreserve.sbs^$all
 ||worldcupcoin.sbs^$all
 ||worldxyz.sbs^$all
-||www-dappradar.sbs^$all
 ||app.www-gokite.sbs^$all
 ||event.www-gokite.sbs^$all
 ||portal.www-gokite.sbs^$all
@@ -89308,7 +89300,6 @@
 ||cards-tw.space^$all
 ||ciun.space^$all
 ||claim-center.space^$all
-||claim-gate.space^$all
 ||claims-firelight.space^$all
 ||cleanusdt.space^$all
 ||clickandfixx.space^$all
