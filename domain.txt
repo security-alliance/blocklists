@@ -18498,7 +18498,6 @@ celo.stakingsreward.club
 eigen.stakingsreward.club
 interface-scallops.stakingsreward.club
 interface-scas.stakingsreward.club
-nxm.stakingsreward.club
 scallop.stakingsreward.club
 scallops.stakingsreward.club
 space-n-time.stakingsreward.club
