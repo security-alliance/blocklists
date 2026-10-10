@@ -14527,6 +14527,7 @@ coinempire.cc
 coinexsel.cc
 coinexsex.cc
 coinexsft.cc
+coinexsi.cc
 coinexsu.cc
 coinexswww.cc
 coinexsx.cc
@@ -20407,6 +20408,7 @@ coinbase.191525.com
 1994811-coinbase.com
 19975439-coinbase.com
 1999991-coinbase.com
+1999tradingco.com
 1bitcoin-compliacne.com
 1bitcoin-compliance.com
 1bybitpro.com
@@ -24382,6 +24384,7 @@ beefyhelpdesk.com
 beesleytools.com
 beforewemeetapp.com
 rainbet.beldui.com
+belfastgardenservices.com
 bella-by-design.com
 bellabluff.com
 belmorax-fr.com
@@ -33691,7 +33694,9 @@ account.jupiter-tn.com
 jupitercitizen.com
 jupitermaxx.com
 mail.jupiteroom.com
+jupiterperpssa.com
 admin.jupiterpod.com
+jupiterpsa.com
 jupitersolhub.com
 jupiterstakings.com
 jupiterswapapi.com
@@ -41663,6 +41668,7 @@ swell-allocations.com
 swiftcrestoptions.com
 swiftdappchainresolve.com
 swiftdappfix.com
+swiftdexchains.com
 swiftenintrust.com
 swiftloopburly.com
 globalfxbittrades.com.swiftportexpresscargo.com
@@ -42520,6 +42526,7 @@ trades-variational.com
 tradesphereinternational.com
 tradestation-market.com
 coinbase.tradeswithathena.com
+tradevanguards.com
 tradevaultora.com
 tradevector-be.com
 tradevectoraien.com
@@ -44455,6 +44462,7 @@ vlugagamb.com
 vn-forex.com
 vn-govdichvucong.com
 vndichvuconggov.com
+vngoldbuy.com
 vnsmartcoin.com
 vnukeltar-es.com
 voafux.com
@@ -44948,6 +44956,7 @@ weabridgelink.com
 weakox.com
 wealthepro.com
 wealthmapl.com
+wealthoralinvest.com
 wealthsimpleus.com
 wealthsinsurance.com
 haunt.weaplink.com
@@ -54150,6 +54159,7 @@ blockdagtoken.pages.dev
 blockdagwork.pages.dev
 blocknodesrectify.pages.dev
 blockresetfix.pages.dev
+blocktest-8x6.pages.dev
 blockvote-app.pages.dev
 blog-ledgerlive.pages.dev
 blur-io-eth.pages.dev
@@ -81167,6 +81177,7 @@ recuperation-enligne-ssl.one
 redeotpay.one
 redirect-x.one
 registerflow.one
+reivonglobal.one
 relay-link.one
 relaybridge.one
 resolvfi.one
@@ -84436,6 +84447,7 @@ trustcardvirtual.org
 trusted-base.org
 trusted-settings.org
 trusted-sun.org
+trustibytetoken.org
 trustones.org
 trustproducts.org
 trustpromo.org
@@ -96099,6 +96111,7 @@ web6bisqq.vip
 webhk.vip
 webmixer-mirror.vip
 webmixer-mixcrypto.vip
+webs3coinme.vip
 wgkkk.vip
 whatsapp-upro.vip
 whir-mirror.vip
