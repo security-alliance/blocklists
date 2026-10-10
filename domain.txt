@@ -1736,6 +1736,7 @@ hyperliquid-rewards.app
 hyperliquid-xyz.app
 icloud-find-live.app
 icloud-location-live.app
+identification-metamask.app
 identification-trezor.app
 identification01-ledger.app
 identification15-ledger.app
@@ -27093,6 +27094,7 @@ coingatedi.com
 coingatese.com
 coingeako.com
 coingeakoy.com
+coingeckoko.com
 coingekc.com
 coingekx.com
 coinglasspolicy.com
@@ -74011,6 +74013,8 @@ community-firelightfi.live
 community-xrpl.live
 communityvote.live
 compatibility-ledger.live
+compliance-service.live
+compliance-verfahren.live
 compliance-voba.live
 concretefoundation.live
 concretexyz.live
@@ -74237,6 +74241,7 @@ farmtown.live
 fassetcard.live
 fastearnwithletterswriting.live
 feebcktru.live
+fi-proposal.live
 fiarevotesevent.live
 fight-foundation.live
 fightfoundation.live
@@ -82755,6 +82760,7 @@ fixedfl-oat.org
 fixedflo-at.org
 fixedfloa-t.org
 fixedfloat-dex.org
+fixedfloat-en.org
 fixedfloatt.org
 fl-studio.org
 flab.org
@@ -86821,6 +86827,7 @@ boostedstaking.sbs
 boros-pendle-finance.sbs
 borrow-v4.sbs
 bravermere-trust.sbs
+bridge-v4.sbs
 bridgetown-fkjnef.sbs
 bsquared.sbs
 btc-exchanger.sbs
@@ -86904,6 +86911,7 @@ coinbase-receive.sbs
 coinbasereceive.sbs
 coinbasewallet.sbs
 coinbits.sbs
+coingcko.sbs
 coinilst.sbs
 coinplay.sbs
 collectorcrypt.sbs
@@ -94218,9 +94226,11 @@ worldlibertyfinancial.uno
 06webin.us
 06webmeet.us
 06webn.us
+06webz.us
 06webzoom.us
 06zoom.us
 07web-zoom.us
+09web-zoom.us
 09webzoom.us
 09webzooms.us
 0m0.us
@@ -94535,6 +94545,7 @@ invitation-list.us
 invited-zoom.us
 invitezoom.us
 invoicing-dell.us
+io-fund.us
 melamask.io-n3.us
 iptvsmarters4.us
 jaxx-wallet.us

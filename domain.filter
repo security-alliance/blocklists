@@ -1736,6 +1736,7 @@
 ||hyperliquid-xyz.app^$all
 ||icloud-find-live.app^$all
 ||icloud-location-live.app^$all
+||identification-metamask.app^$all
 ||identification-trezor.app^$all
 ||identification01-ledger.app^$all
 ||identification15-ledger.app^$all
@@ -27093,6 +27094,7 @@
 ||coingatese.com^$all
 ||coingeako.com^$all
 ||coingeakoy.com^$all
+||coingeckoko.com^$all
 ||coingekc.com^$all
 ||coingekx.com^$all
 ||coinglasspolicy.com^$all
@@ -74011,6 +74013,8 @@
 ||community-xrpl.live^$all
 ||communityvote.live^$all
 ||compatibility-ledger.live^$all
+||compliance-service.live^$all
+||compliance-verfahren.live^$all
 ||compliance-voba.live^$all
 ||concretefoundation.live^$all
 ||concretexyz.live^$all
@@ -74237,6 +74241,7 @@
 ||fassetcard.live^$all
 ||fastearnwithletterswriting.live^$all
 ||feebcktru.live^$all
+||fi-proposal.live^$all
 ||fiarevotesevent.live^$all
 ||fight-foundation.live^$all
 ||fightfoundation.live^$all
@@ -82755,6 +82760,7 @@
 ||fixedflo-at.org^$all
 ||fixedfloa-t.org^$all
 ||fixedfloat-dex.org^$all
+||fixedfloat-en.org^$all
 ||fixedfloatt.org^$all
 ||fl-studio.org^$all
 ||flab.org^$all
@@ -86821,6 +86827,7 @@
 ||boros-pendle-finance.sbs^$all
 ||borrow-v4.sbs^$all
 ||bravermere-trust.sbs^$all
+||bridge-v4.sbs^$all
 ||bridgetown-fkjnef.sbs^$all
 ||bsquared.sbs^$all
 ||btc-exchanger.sbs^$all
@@ -86904,6 +86911,7 @@
 ||coinbasereceive.sbs^$all
 ||coinbasewallet.sbs^$all
 ||coinbits.sbs^$all
+||coingcko.sbs^$all
 ||coinilst.sbs^$all
 ||coinplay.sbs^$all
 ||collectorcrypt.sbs^$all
@@ -94218,9 +94226,11 @@
 ||06webin.us^$all
 ||06webmeet.us^$all
 ||06webn.us^$all
+||06webz.us^$all
 ||06webzoom.us^$all
 ||06zoom.us^$all
 ||07web-zoom.us^$all
+||09web-zoom.us^$all
 ||09webzoom.us^$all
 ||09webzooms.us^$all
 ||0m0.us^$all
@@ -94535,6 +94545,7 @@
 ||invited-zoom.us^$all
 ||invitezoom.us^$all
 ||invoicing-dell.us^$all
+||io-fund.us^$all
 ||melamask.io-n3.us^$all
 ||iptvsmarters4.us^$all
 ||jaxx-wallet.us^$all
