@@ -11232,6 +11232,7 @@ vertexdeployenvironment.web.app
 walletconnectrpc.web.app
 wallnets-nodefix.web.app
 worldlibertys-financials.web.app
+xapp-folks-finance.web.app
 xn--birdee-0rf.web.app
 xubipagosonlinex.web.app
 yieldfarm.web.app
