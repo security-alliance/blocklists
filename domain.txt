@@ -99689,7 +99689,6 @@ incsols.xyz
 app.infiex.xyz
 app.infiinex.xyz
 app.infinnex.xyz
-app.infinxe.xyz
 info-jumper.xyz
 info-veniceai.xyz
 injective-airdrop.xyz
