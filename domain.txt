@@ -33971,6 +33971,7 @@ kraken-response.com
 kraken-security-department.com
 kraken-ssylka-na-vhod.com
 kraken-tw.com
+kraken-update.com
 kraken-verifizierung.com
 pay.kraken-x.com
 captcha.kraken2trfqodidvlh4aa337cpzfrhdlfldhve5.com
@@ -86634,7 +86635,6 @@ aavefinances.sbs
 abeta.sbs
 account-appid-v5.sbs
 account-appid-verification.sbs
-account-google-login.sbs
 accurategainvest.sbs
 accuxgvests.sbs
 adoreaderfileshared.sbs
@@ -88705,7 +88705,6 @@ docupdate.services
 drop-box.services
 ledger-live.services
 melaniatrump.services
-microsofttech.services
 okxwallet.services
 phantom-app.services
 mobile.quilter-ltd.services
@@ -89535,7 +89534,6 @@ microsoftbilling.site
 microsoftenline.site
 microsoftoffice.site
 microsolftlive365update.site
-microsotf.site
 microssfi.site
 microzooms.site
 midnight-airdrop.site
@@ -92747,7 +92745,6 @@ movemoney.top
 movemoney-appvote.top
 movemoneyvote.top
 movevote-app.top
-ms-teamsmeeting.top
 msaccess.top
 msbooking-invite.top
 msconnect.top
@@ -94087,7 +94084,6 @@ glveaways-metamasks-assets.infy.uk
 metamaask.infy.uk
 luckyblock-casino.uk
 master-list.uk
-micros0ft-0365-login.uk
 microsoft-co.uk
 org-app.uk
 binance-support.org.uk
