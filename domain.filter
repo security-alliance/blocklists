@@ -16659,6 +16659,7 @@
 ||sitemv258gzk9bfx.cfd^$all
 ||sitemv26mpbvjio8.cfd^$all
 ||sitemv280wfvrke8.cfd^$all
+||sitemv29g72rmt88.cfd^$all
 ||skyecos.cfd^$all
 ||skyecosystem.cfd^$all
 ||skysavings.cfd^$all
@@ -52169,6 +52170,7 @@
 ||1-proposal-synthra.pages.dev^$all
 ||1-proposal-zama.pages.dev^$all
 ||1-proposals-aero.pages.dev^$all
+||1-proposals-papertrade.pages.dev^$all
 ||1-ramses-events.pages.dev^$all
 ||1-ramsesapp.pages.dev^$all
 ||1-reallocate-flare.pages.dev^$all
@@ -52229,6 +52231,7 @@
 ||10-saturncredit.pages.dev^$all
 ||10-tge-extended.pages.dev^$all
 ||10-venice.pages.dev^$all
+||10-vote-argusworld.pages.dev^$all
 ||10-zamaprotocol.pages.dev^$all
 ||10-zipcoin.pages.dev^$all
 ||10rc0nbasexvwork.pages.dev^$all
@@ -52294,6 +52297,7 @@
 ||12-derivexyz-6ky.pages.dev^$all
 ||12-ethenamoney.pages.dev^$all
 ||12-fluidio.pages.dev^$all
+||12-gov-argus.pages.dev^$all
 ||12-gov-ramses.pages.dev^$all
 ||12-governance-kinetiq.pages.dev^$all
 ||12-hyperlinkapp-86x.pages.dev^$all
@@ -52468,6 +52472,7 @@
 ||16-predictfun.pages.dev^$all
 ||16-proposal-3jane.pages.dev^$all
 ||16-proposal-argus.pages.dev^$all
+||16-proposal-computersrh.pages.dev^$all
 ||16-proposal-derive.pages.dev^$all
 ||16-proposal-globaldollar.pages.dev^$all
 ||16-proposal-loanmeme.pages.dev^$all
@@ -52514,6 +52519,7 @@
 ||17-zipcoin.pages.dev^$all
 ||18-0xfluid.pages.dev^$all
 ||18-allocation-abstract.pages.dev^$all
+||18-allocation-yieldfields.pages.dev^$all
 ||18-allowlist-ascendlaunch.pages.dev^$all
 ||18-argus-pad.pages.dev^$all
 ||18-arguseco.pages.dev^$all
@@ -52560,6 +52566,7 @@
 ||19-proposal-derive.pages.dev^$all
 ||19-proposal-globaldollar.pages.dev^$all
 ||19-proposal-loanmeme.pages.dev^$all
+||19-proposal-prjx.pages.dev^$all
 ||19-proposal-synthra.pages.dev^$all
 ||19-ramses-events.pages.dev^$all
 ||19-reallocate-flare.pages.dev^$all
@@ -52646,6 +52653,7 @@
 ||20-argusworlds-933.pages.dev^$all
 ||20-derivexyz.pages.dev^$all
 ||20-gov-ramses.pages.dev^$all
+||20-governance-kinetiq.pages.dev^$all
 ||20-netnet.pages.dev^$all
 ||20-pons.pages.dev^$all
 ||20-ponsfamily.pages.dev^$all
@@ -52668,6 +52676,7 @@
 ||21-derivexyz.pages.dev^$all
 ||21-gov-ramses.pages.dev^$all
 ||21-netnet.pages.dev^$all
+||21-ponsfamily.pages.dev^$all
 ||21-predeposit-papertrade.pages.dev^$all
 ||21-predictfun.pages.dev^$all
 ||21-proposal-3jane.pages.dev^$all
@@ -52742,16 +52751,19 @@
 ||25-argusworld.pages.dev^$all
 ||25-derivexyz.pages.dev^$all
 ||25-netnet.pages.dev^$all
+||25-predeposit-papertrade.pages.dev^$all
 ||25-proposal-3jane.pages.dev^$all
 ||25-proposal-globaldollar.pages.dev^$all
 ||25-proposal-loanmeme.pages.dev^$all
 ||25-ramses-events.pages.dev^$all
 ||25-reallocate-flare.pages.dev^$all
+||25-reallocation-concrete.pages.dev^$all
 ||25-saturncredit.pages.dev^$all
 ||25-tge-extended.pages.dev^$all
 ||25-venice.pages.dev^$all
 ||26-0xfluid.pages.dev^$all
 ||26-allowlist-ascendlaunch.pages.dev^$all
+||26-arguseco.pages.dev^$all
 ||26-argusworld.pages.dev^$all
 ||26-derivexyz.pages.dev^$all
 ||26-netnet.pages.dev^$all
@@ -52908,6 +52920,7 @@
 ||36-argusworld.pages.dev^$all
 ||36-derivexyz.pages.dev^$all
 ||36-netnet.pages.dev^$all
+||36-proposal-globaldollar.pages.dev^$all
 ||36-reallocate-flare.pages.dev^$all
 ||36-saturncredit.pages.dev^$all
 ||37-0xfluid.pages.dev^$all
@@ -53008,6 +53021,7 @@
 ||42-0xfluid.pages.dev^$all
 ||42-allowlist-ascendlaunch.pages.dev^$all
 ||42-argusworld.pages.dev^$all
+||42-derivexyz.pages.dev^$all
 ||42-netnet.pages.dev^$all
 ||42-reallocate-flare.pages.dev^$all
 ||42-saturncredit.pages.dev^$all
@@ -53031,6 +53045,7 @@
 ||46-saturncredit.pages.dev^$all
 ||47-0xfluid.pages.dev^$all
 ||47-argusworld.pages.dev^$all
+||47-reallocate-flare.pages.dev^$all
 ||48-0xfluid.pages.dev^$all
 ||48-argusworld.pages.dev^$all
 ||49-0xfluid.pages.dev^$all
@@ -53072,7 +53087,9 @@
 ||5-proposal-argus-epf.pages.dev^$all
 ||5-proposal-computersrh.pages.dev^$all
 ||5-proposal-derive.pages.dev^$all
+||5-proposal-ethos.pages.dev^$all
 ||5-proposal-globaldollar.pages.dev^$all
+||5-proposal-jumper.pages.dev^$all
 ||5-proposal-loanmeme.pages.dev^$all
 ||5-proposal-prjx.pages.dev^$all
 ||5-proposal-synthra.pages.dev^$all
@@ -53086,6 +53103,7 @@
 ||5-tge-extended.pages.dev^$all
 ||5-venice.pages.dev^$all
 ||5-vote-argusworld.pages.dev^$all
+||5-vote-ponsfamily.pages.dev^$all
 ||5-zamaprotocol.pages.dev^$all
 ||5-zipcoin.pages.dev^$all
 ||50-0xfluid.pages.dev^$all
@@ -53099,6 +53117,7 @@
 ||53-argusworld.pages.dev^$all
 ||54-0xfluid.pages.dev^$all
 ||54-argusworld.pages.dev^$all
+||55-0xfluid.pages.dev^$all
 ||55-argusworld.pages.dev^$all
 ||56-argusworld.pages.dev^$all
 ||57-argusworld.pages.dev^$all
@@ -53122,6 +53141,7 @@
 ||6-ethenamoney.pages.dev^$all
 ||6-fluidio.pages.dev^$all
 ||6-gov-argus.pages.dev^$all
+||6-gov-concrete.pages.dev^$all
 ||6-gov-ramses.pages.dev^$all
 ||6-governance-kinetiq.pages.dev^$all
 ||6-hyperlinkapp-86x.pages.dev^$all
@@ -60443,6 +60463,7 @@
 ||vote-okxpolls-524.pages.dev^$all
 ||vote-okxpolls-825.pages.dev^$all
 ||vote-opinions.pages.dev^$all
+||vote-papertrade.pages.dev^$all
 ||vote-perleslabs.pages.dev^$all
 ||vote-ponsfamily.pages.dev^$all
 ||vote-raydiumprotocol.pages.dev^$all
@@ -97132,6 +97153,7 @@
 ||appsmultipli.xyz^$all
 ||appsvirtuals.xyz^$all
 ||appsyncsmartsversal.xyz^$all
+||appusepaid.xyz^$all
 ||appveniceai.xyz^$all
 ||appvevirtuals.xyz^$all
 ||appvirtuals.xyz^$all
@@ -101054,6 +101076,7 @@
 ||otc-vote.xyz^$all
 ||otc-votes.xyz^$all
 ||otc-voting.xyz^$all
+||otcallocation.xyz^$all
 ||otccrate.xyz^$all
 ||otcdesks.xyz^$all
 ||otcholder.xyz^$all
@@ -103039,6 +103062,7 @@
 ||tokendisbursement.xyz^$all
 ||tokendistribux.xyz^$all
 ||tokenguide-migration.xyz^$all
+||tokenhyperfoundation.xyz^$all
 ||tokenization-ondofinance.xyz^$all
 ||tokenop.xyz^$all
 ||tokenrave.xyz^$all
@@ -103475,6 +103499,7 @@
 ||vault-login.xyz^$all
 ||vault-morpho.xyz^$all
 ||vault-otc.xyz^$all
+||vault-stonkfun.xyz^$all
 ||vault-usepaid.xyz^$all
 ||elgenlayer.vaultgrid.xyz^$all
 ||vaulthedge.xyz^$all
@@ -103690,6 +103715,7 @@
 ||vote-otc.xyz^$all
 ||vote-otomato.xyz^$all
 ||vote-outcome.xyz^$all
+||vote-papertrade.xyz^$all
 ||vote-peaq.xyz^$all
 ||vote-pendlefi.xyz^$all
 ||vote-pendlefinance.xyz^$all
