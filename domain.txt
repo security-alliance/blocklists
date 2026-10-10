@@ -88172,6 +88172,7 @@ pancakesvvap.sbs
 pancakeswap-finance-v4-exchange.sbs
 papentradexyz.sbs
 paperdaoxyz.sbs
+paperstrategy.sbs
 papertrade.sbs
 papertrade-hub.sbs
 papertrade-register.sbs
