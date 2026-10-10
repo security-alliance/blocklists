@@ -63572,7 +63572,6 @@ attention-x.fun
 automated-meme-treasury.fun
 ayohsee.fun
 backlosses-pump.fun
-backpack-check.fun
 backs-pump.fun
 basedfoundation.fun
 batononpunnp.fun
@@ -63690,7 +63689,6 @@ dao-fwa.fun
 dao-pump.fun
 dapp-nearpad.fun
 dappos.fun
-dashboard-backpack.fun
 dashboard-embercurve.fun
 dashboard-fwa.fun
 dashboard-pump.fun
@@ -65344,7 +65342,6 @@ bonus-wheel.icu
 boros-pendlefinance.icu
 bouncebit.icu
 bozei.icu
-bp-app.icu
 brestaq.icu
 bridge-ref2.icu
 bridge-ref3.icu
