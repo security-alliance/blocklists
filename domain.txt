@@ -1509,6 +1509,7 @@ events-usepaid.app
 exodus-app.app
 exodusportfolio.app
 exolix.app
+exploit2026-ledger.app
 extendedexchange.app
 ezbtc.app
 facemeet.app
