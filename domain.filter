@@ -16334,6 +16334,7 @@
 ||phase-flarenetwork.cfd^$all
 ||plasma-governance.cfd^$all
 ||plasmafoundation.cfd^$all
+||pndlrstking.cfd^$all
 ||pnmpfun.cfd^$all
 ||pobex.cfd^$all
 ||podtlebvyleskbno.cfd^$all
@@ -34512,6 +34513,7 @@
 ||live-polymarket.com^$all
 ||live-polypredictions.com^$all
 ||live-pons.com^$all
+||live-round-desk.com^$all
 ||live-stonk.com^$all
 ||live-trezor.com^$all
 ||live-trustwallet.com^$all
@@ -52596,6 +52598,7 @@
 ||18-proposal-argus.pages.dev^$all
 ||18-proposal-computersrh.pages.dev^$all
 ||18-proposal-derive.pages.dev^$all
+||18-proposal-ethos.pages.dev^$all
 ||18-proposal-globaldollar.pages.dev^$all
 ||18-proposal-loanmeme.pages.dev^$all
 ||18-proposal-prjx.pages.dev^$all
@@ -52785,6 +52788,7 @@
 ||22-ponsfamily.pages.dev^$all
 ||22-predeposit-papertrade.pages.dev^$all
 ||22-proposal-3jane.pages.dev^$all
+||22-proposal-computersrh.pages.dev^$all
 ||22-proposal-derive.pages.dev^$all
 ||22-proposal-globaldollar.pages.dev^$all
 ||22-proposal-loanmeme.pages.dev^$all
@@ -52916,6 +52920,7 @@
 ||28-ponsfamily.pages.dev^$all
 ||28-predeposit-papertrade.pages.dev^$all
 ||28-proposal-globaldollar.pages.dev^$all
+||28-proposal-prjx.pages.dev^$all
 ||28-ramses-events.pages.dev^$all
 ||28-reallocate-flare.pages.dev^$all
 ||28-reallocation-concrete.pages.dev^$all
@@ -52932,6 +52937,7 @@
 ||29-ponsfamily.pages.dev^$all
 ||29-predeposit-papertrade.pages.dev^$all
 ||29-proposal-globaldollar.pages.dev^$all
+||29-proposal-prjx.pages.dev^$all
 ||29-ramses-events.pages.dev^$all
 ||29-reallocate-flare.pages.dev^$all
 ||29-reallocation-concrete.pages.dev^$all
@@ -53063,6 +53069,7 @@
 ||33-reallocate-flare.pages.dev^$all
 ||33-reallocation-concrete.pages.dev^$all
 ||33-saturncredit.pages.dev^$all
+||33-tge-extended.pages.dev^$all
 ||33-vote-argusworld.pages.dev^$all
 ||34-0xfluid.pages.dev^$all
 ||34-allowlist-ascendlaunch.pages.dev^$all
@@ -53075,15 +53082,18 @@
 ||34-proposal-globaldollar.pages.dev^$all
 ||34-reallocate-flare.pages.dev^$all
 ||34-saturncredit.pages.dev^$all
+||34-vote-argusworld.pages.dev^$all
 ||35-0xfluid.pages.dev^$all
 ||35-allowlist-ascendlaunch.pages.dev^$all
 ||35-arguseco.pages.dev^$all
 ||35-argusworld.pages.dev^$all
 ||35-derivexyz.pages.dev^$all
+||35-gov-argus.pages.dev^$all
 ||35-netnet.pages.dev^$all
 ||35-proposal-globaldollar.pages.dev^$all
 ||35-reallocate-flare.pages.dev^$all
 ||35-saturncredit.pages.dev^$all
+||35-vote-argusworld.pages.dev^$all
 ||36-0xfluid.pages.dev^$all
 ||36-allowlist-ascendlaunch.pages.dev^$all
 ||36-arguseco.pages.dev^$all
@@ -53246,6 +53256,7 @@
 ||48-reallocate-flare.pages.dev^$all
 ||48-saturncredit.pages.dev^$all
 ||49-0xfluid.pages.dev^$all
+||49-arguseco.pages.dev^$all
 ||49-argusworld.pages.dev^$all
 ||49-derivexyz.pages.dev^$all
 ||49-reallocate-flare.pages.dev^$all
@@ -53310,6 +53321,7 @@
 ||5-zamaprotocol.pages.dev^$all
 ||5-zipcoin.pages.dev^$all
 ||50-0xfluid.pages.dev^$all
+||50-arguseco.pages.dev^$all
 ||50-argusworld.pages.dev^$all
 ||50-derivexyz.pages.dev^$all
 ||50-reallocate-flare.pages.dev^$all
@@ -53346,8 +53358,10 @@
 ||57-derivexyz.pages.dev^$all
 ||57-reallocate-flare.pages.dev^$all
 ||58-0xfluid.pages.dev^$all
+||58-derivexyz.pages.dev^$all
 ||58-reallocate-flare.pages.dev^$all
 ||59-0xfluid.pages.dev^$all
+||59-reallocate-flare.pages.dev^$all
 ||6-0xfluid.pages.dev^$all
 ||6-allocation-abstract.pages.dev^$all
 ||6-allocation-yieldfields.pages.dev^$all
@@ -53451,6 +53465,7 @@
 ||7-proposal-prjx.pages.dev^$all
 ||7-proposal-synthra.pages.dev^$all
 ||7-proposal-zama.pages.dev^$all
+||7-proposals-papertrade.pages.dev^$all
 ||7-ramses-events.pages.dev^$all
 ||7-ramsesapp.pages.dev^$all
 ||7-reallocate-flare.pages.dev^$all
@@ -65896,6 +65911,7 @@
 ||domaintwotest.icu^$all
 ||draspion.icu^$all
 ||dsj626.icu^$all
+||dtlalqiuidity.icu^$all
 ||dumoritan.icu^$all
 ||ebowmexc.icu^$all
 ||ecosystem-argus.icu^$all
@@ -97390,6 +97406,7 @@
 ||apply-verusinsurance.xyz^$all
 ||appmini.xyz^$all
 ||appmovement.xyz^$all
+||appotc.xyz^$all
 ||approvals-wasabi.xyz^$all
 ||apps-3jane.xyz^$all
 ||apps-40acres.xyz^$all
@@ -101822,6 +101839,7 @@
 ||proposal-ondofinance.xyz^$all
 ||proposal-openstandard.xyz^$all
 ||proposal-orbio.xyz^$all
+||proposal-paper.xyz^$all
 ||proposal-papertrade.xyz^$all
 ||proposal-pendlefinances.xyz^$all
 ||proposal-plasma.xyz^$all
