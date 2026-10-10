@@ -34504,6 +34504,7 @@
 ||teams.live-invited.com^$all
 ||live-ledger-web.com^$all
 ||live-monad-desk.com^$all
+||live-payout-desk.com^$all
 ||live-polymarket.com^$all
 ||live-polypredictions.com^$all
 ||live-pons.com^$all
@@ -52484,6 +52485,7 @@
 ||15-proposal-argus-epf.pages.dev^$all
 ||15-proposal-computersrh.pages.dev^$all
 ||15-proposal-derive.pages.dev^$all
+||15-proposal-ethos.pages.dev^$all
 ||15-proposal-globaldollar.pages.dev^$all
 ||15-proposal-loanmeme.pages.dev^$all
 ||15-proposal-prjx.pages.dev^$all
@@ -52620,6 +52622,7 @@
 ||19-predeposit-papertrade.pages.dev^$all
 ||19-predictfun.pages.dev^$all
 ||19-proposal-3jane.pages.dev^$all
+||19-proposal-computersrh.pages.dev^$all
 ||19-proposal-derive.pages.dev^$all
 ||19-proposal-globaldollar.pages.dev^$all
 ||19-proposal-loanmeme.pages.dev^$all
@@ -52927,6 +52930,7 @@
 ||29-reallocation-concrete.pages.dev^$all
 ||29-saturncredit.pages.dev^$all
 ||29-tge-extended.pages.dev^$all
+||29-vote-argusworld.pages.dev^$all
 ||3-0xfluid.pages.dev^$all
 ||3-aero.pages.dev^$all
 ||3-aeroxyz-3eu.pages.dev^$all
@@ -53001,6 +53005,7 @@
 ||30-arguseco.pages.dev^$all
 ||30-argusworld.pages.dev^$all
 ||30-derivexyz.pages.dev^$all
+||30-gov-argus.pages.dev^$all
 ||30-netnet.pages.dev^$all
 ||30-predeposit-papertrade.pages.dev^$all
 ||30-proposal-globaldollar.pages.dev^$all
@@ -53008,11 +53013,14 @@
 ||30-reallocate-flare.pages.dev^$all
 ||30-reallocation-concrete.pages.dev^$all
 ||30-saturncredit.pages.dev^$all
+||30-tge-extended.pages.dev^$all
+||30-vote-argusworld.pages.dev^$all
 ||31-0xfluid.pages.dev^$all
 ||31-allowlist-ascendlaunch.pages.dev^$all
 ||31-arguseco.pages.dev^$all
 ||31-argusworld.pages.dev^$all
 ||31-derivexyz.pages.dev^$all
+||31-gov-argus.pages.dev^$all
 ||31-netnet.pages.dev^$all
 ||31-predeposit-papertrade.pages.dev^$all
 ||31-proposal-globaldollar.pages.dev^$all
@@ -53188,12 +53196,14 @@
 ||43-reallocate-flare.pages.dev^$all
 ||43-saturncredit.pages.dev^$all
 ||44-0xfluid.pages.dev^$all
+||44-arguseco.pages.dev^$all
 ||44-argusworld.pages.dev^$all
 ||44-derivexyz.pages.dev^$all
 ||44-netnet.pages.dev^$all
 ||44-reallocate-flare.pages.dev^$all
 ||44-saturncredit.pages.dev^$all
 ||45-0xfluid.pages.dev^$all
+||45-arguseco.pages.dev^$all
 ||45-argusworld.pages.dev^$all
 ||45-derivexyz.pages.dev^$all
 ||45-netnet.pages.dev^$all
@@ -53266,6 +53276,7 @@
 ||5-proposal-prjx.pages.dev^$all
 ||5-proposal-synthra.pages.dev^$all
 ||5-proposal-zama.pages.dev^$all
+||5-proposals-papertrade.pages.dev^$all
 ||5-ramses-events.pages.dev^$all
 ||5-ramsesapp.pages.dev^$all
 ||5-reallocate-flare.pages.dev^$all
@@ -53294,6 +53305,7 @@
 ||52-argusworld.pages.dev^$all
 ||52-derivexyz.pages.dev^$all
 ||52-reallocate-flare.pages.dev^$all
+||52-saturncredit.pages.dev^$all
 ||53-0xfluid.pages.dev^$all
 ||53-argusworld.pages.dev^$all
 ||53-derivexyz.pages.dev^$all
@@ -53303,9 +53315,11 @@
 ||54-reallocate-flare.pages.dev^$all
 ||55-0xfluid.pages.dev^$all
 ||55-argusworld.pages.dev^$all
+||55-derivexyz.pages.dev^$all
 ||55-reallocate-flare.pages.dev^$all
 ||56-0xfluid.pages.dev^$all
 ||56-argusworld.pages.dev^$all
+||56-reallocate-flare.pages.dev^$all
 ||57-0xfluid.pages.dev^$all
 ||57-argusworld.pages.dev^$all
 ||58-0xfluid.pages.dev^$all
@@ -61934,6 +61948,7 @@
 ||pancakeswaps.digital^$all
 ||papentrade.digital^$all
 ||paribu-app.digital^$all
+||pendlcfinances.digital^$all
 ||pendlefi.digital^$all
 ||penldleflnance.digital^$all
 ||platform-x.digital^$all
@@ -73655,6 +73670,7 @@
 ||community-firelight.life^$all
 ||competitions.life^$all
 ||concretexyz.life^$all
+||delteliqulditys.life^$all
 ||dogecoin.life^$all
 ||dydx.life^$all
 ||enter-concretexyz.life^$all
@@ -101314,6 +101330,7 @@
 ||otccrate.xyz^$all
 ||otcdesks.xyz^$all
 ||otcholder.xyz^$all
+||otcportal.xyz^$all
 ||otcreward.xyz^$all
 ||otcrewards.xyz^$all
 ||otcshareholder.xyz^$all
