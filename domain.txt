@@ -70349,7 +70349,6 @@ altlayer-chain.github.io
 aml-bot-site.github.io
 ape-board.github.io
 apex-exchange-site.github.io
-app-arbitrum.github.io
 app-cetus.github.io
 app-chainlink.github.io
 app-debridge.github.io
