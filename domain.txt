@@ -48141,7 +48141,6 @@ metamskext-webapps.wixstudio.com
 metamskextension-app.wixstudio.com
 metamskguide.wixstudio.com
 metamskhelp-ext.wixstudio.com
-metamskhelped.wixstudio.com
 metamskhelpp.wixstudio.com
 metamskio-eng.wixstudio.com
 metamskio-extension.wixstudio.com
