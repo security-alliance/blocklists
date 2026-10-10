@@ -16670,6 +16670,7 @@ superbonuslife.cfd
 superbonusmonster.cfd
 superbonusonline.cfd
 superbonusteam.cfd
+superinteliigence.cfd
 syncn.cfd
 t-auth.cfd
 tapir328krw.cfd
