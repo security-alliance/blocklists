@@ -15953,6 +15953,7 @@ appsecureguard1829.cfd
 appsmultipli.cfd
 apyxfi.cfd
 arcustrade.cfd
+arcustradexyz.cfd
 arcusxyz.cfd
 arcwallet.cfd
 argus-world.cfd
