@@ -46460,7 +46460,6 @@ en-moonpey-cdn.wixstudio.com
 en-mtsmask.wixstudio.com
 en-new-tangemm.wixstudio.com
 en-open-base-ext.wixstudio.com
-en-phantomwallet-ios.wixstudio.com
 en-rabbyy.wixstudio.com
 en-rabbyy-webstart.wixstudio.com
 en-rabyappsextension.wixstudio.com
@@ -48744,7 +48743,6 @@ performs-monpay-io.wixstudio.com
 performs-monpayapps.wixstudio.com
 performs-monpaycdn.wixstudio.com
 performs-moonpayapps.wixstudio.com
-phaantomgr.wixstudio.com
 phaltom.wixstudio.com
 phanntomwallet.wixstudio.com
 phantamm.wixstudio.com
