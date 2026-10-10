@@ -34503,6 +34503,7 @@
 ||live-app-access.com^$all
 ||live-coincommunities.com^$all
 ||live-connects.com^$all
+||live-epoch-desk.com^$all
 ||live-iive.com^$all
 ||edge.live-invited.com^$all
 ||teams.live-invited.com^$all
@@ -52562,6 +52563,7 @@
 ||17-proposal-argus.pages.dev^$all
 ||17-proposal-computersrh.pages.dev^$all
 ||17-proposal-derive.pages.dev^$all
+||17-proposal-ethos.pages.dev^$all
 ||17-proposal-globaldollar.pages.dev^$all
 ||17-proposal-loanmeme.pages.dev^$all
 ||17-proposal-prjx.pages.dev^$all
@@ -52756,6 +52758,7 @@
 ||21-predeposit-papertrade.pages.dev^$all
 ||21-predictfun.pages.dev^$all
 ||21-proposal-3jane.pages.dev^$all
+||21-proposal-computersrh.pages.dev^$all
 ||21-proposal-derive.pages.dev^$all
 ||21-proposal-globaldollar.pages.dev^$all
 ||21-proposal-loanmeme.pages.dev^$all
@@ -52935,6 +52938,7 @@
 ||29-reallocation-concrete.pages.dev^$all
 ||29-saturncredit.pages.dev^$all
 ||29-tge-extended.pages.dev^$all
+||29-venice.pages.dev^$all
 ||29-vote-argusworld.pages.dev^$all
 ||3-0xfluid.pages.dev^$all
 ||3-aero.pages.dev^$all
@@ -53046,22 +53050,27 @@
 ||32-reallocate-flare.pages.dev^$all
 ||32-reallocation-concrete.pages.dev^$all
 ||32-saturncredit.pages.dev^$all
+||32-tge-extended.pages.dev^$all
+||32-vote-argusworld.pages.dev^$all
 ||33-0xfluid.pages.dev^$all
 ||33-allowlist-ascendlaunch.pages.dev^$all
 ||33-arguseco.pages.dev^$all
 ||33-argusworld.pages.dev^$all
 ||33-derivexyz.pages.dev^$all
+||33-gov-argus.pages.dev^$all
 ||33-netnet.pages.dev^$all
 ||33-predeposit-papertrade.pages.dev^$all
 ||33-proposal-globaldollar.pages.dev^$all
 ||33-reallocate-flare.pages.dev^$all
 ||33-reallocation-concrete.pages.dev^$all
 ||33-saturncredit.pages.dev^$all
+||33-vote-argusworld.pages.dev^$all
 ||34-0xfluid.pages.dev^$all
 ||34-allowlist-ascendlaunch.pages.dev^$all
 ||34-arguseco.pages.dev^$all
 ||34-argusworld.pages.dev^$all
 ||34-derivexyz.pages.dev^$all
+||34-gov-argus.pages.dev^$all
 ||34-netnet.pages.dev^$all
 ||34-predeposit-papertrade.pages.dev^$all
 ||34-proposal-globaldollar.pages.dev^$all
@@ -53225,12 +53234,14 @@
 ||46-reallocate-flare.pages.dev^$all
 ||46-saturncredit.pages.dev^$all
 ||47-0xfluid.pages.dev^$all
+||47-arguseco.pages.dev^$all
 ||47-argusworld.pages.dev^$all
 ||47-derivexyz.pages.dev^$all
 ||47-netnet.pages.dev^$all
 ||47-reallocate-flare.pages.dev^$all
 ||47-saturncredit.pages.dev^$all
 ||48-0xfluid.pages.dev^$all
+||48-arguseco.pages.dev^$all
 ||48-argusworld.pages.dev^$all
 ||48-derivexyz.pages.dev^$all
 ||48-reallocate-flare.pages.dev^$all
@@ -53333,8 +53344,10 @@
 ||56-reallocate-flare.pages.dev^$all
 ||57-0xfluid.pages.dev^$all
 ||57-argusworld.pages.dev^$all
+||57-derivexyz.pages.dev^$all
 ||57-reallocate-flare.pages.dev^$all
 ||58-0xfluid.pages.dev^$all
+||58-reallocate-flare.pages.dev^$all
 ||59-0xfluid.pages.dev^$all
 ||6-0xfluid.pages.dev^$all
 ||6-allocation-abstract.pages.dev^$all
@@ -53379,6 +53392,7 @@
 ||6-proposal-prjx.pages.dev^$all
 ||6-proposal-synthra.pages.dev^$all
 ||6-proposal-zama.pages.dev^$all
+||6-proposals-papertrade.pages.dev^$all
 ||6-ramses-events.pages.dev^$all
 ||6-ramsesapp.pages.dev^$all
 ||6-reallocate-flare.pages.dev^$all
@@ -59776,6 +59790,7 @@
 ||testtest-de4.pages.dev^$all
 ||testusdc.pages.dev^$all
 ||tge-extended.pages.dev^$all
+||tge-predict-a3i.pages.dev^$all
 ||thalea-poc-verify.pages.dev^$all
 ||the-artificers-ledger.pages.dev^$all
 ||the-astoria-ledger.pages.dev^$all
@@ -91527,6 +91542,7 @@
 ||defiautoresolvedapp.tech^$all
 ||deltafi.tech^$all
 ||deltaliquidity.tech^$all
+||deltallocation.tech^$all
 ||demoplacepg.tech^$all
 ||derivexyz.tech^$all
 ||docsend.tech^$all
@@ -91597,6 +91613,7 @@
 ||paperstrateqy.tech^$all
 ||pendle.tech^$all
 ||pendlefinance.tech^$all
+||pendlestaking.tech^$all
 ||dashboard.phantompentest.tech^$all
 ||plasmafoundation.tech^$all
 ||polyclaude.tech^$all
@@ -101341,6 +101358,7 @@
 ||otc-votes.xyz^$all
 ||otc-voting.xyz^$all
 ||otcallocation.xyz^$all
+||otccheck.xyz^$all
 ||otcclaim.xyz^$all
 ||otcclaims.xyz^$all
 ||otccrate.xyz^$all
@@ -102118,6 +102136,7 @@
 ||register-lidofinance.xyz^$all
 ||register-monads.xyz^$all
 ||register-neverland.xyz^$all
+||register-paper.xyz^$all
 ||register-papertrade.xyz^$all
 ||register-pharosnetwork.xyz^$all
 ||register-phase3-firelight.xyz^$all
