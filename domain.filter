@@ -1735,7 +1735,6 @@
 ||hyperliquid-rewards.app^$all
 ||hyperliquid-xyz.app^$all
 ||icloud-find-live.app^$all
-||icloud-location-live.app^$all
 ||identification-metamask.app^$all
 ||identification-trezor.app^$all
 ||identification01-ledger.app^$all
@@ -14016,7 +14015,6 @@
 ||changenow.casa^$all
 ||claim-unlswap.casa^$all
 ||cointermenal.casa^$all
-||cryptomus-in.casa^$all
 ||app.curvance.casa^$all
 ||devwatchaudit.casa^$all
 ||dinari.casa^$all
@@ -33795,7 +33793,6 @@
 ||kelly-gemini.com^$all
 ||kelp-aave.com^$all
 ||kelpdao-proposal.com^$all
-||kelpdaoeligibility.com^$all
 ||kelprecovery.com^$all
 ||kemocalls.com^$all
 ||kenda-najd.com^$all
@@ -34172,7 +34169,6 @@
 ||launchsuite-trezorsuite.com^$all
 ||launchtopaid.com^$all
 ||laureann.com^$all
-||lawsuit-blockfi.com^$all
 ||lawyer-x.com^$all
 ||layer2savings.com^$all
 ||layer3stack.com^$all
@@ -53585,7 +53581,6 @@
 ||backpack-9g2.pages.dev^$all
 ||backpack-dapp.pages.dev^$all
 ||backpackaward.pages.dev^$all
-||bankless.pages.dev^$all
 ||banner-ledger.pages.dev^$all
 ||base-arc-usdc-mobile.pages.dev^$all
 ||base-ledger-app.pages.dev^$all
@@ -63187,7 +63182,6 @@
 ||coinomize.forum^$all
 ||collateral-zojp.forum^$all
 ||cryptomixer.forum^$all
-||cryptomus.forum^$all
 ||cyberleek.forum^$all
 ||debit-hlqt.forum^$all
 ||dropchain.forum^$all
@@ -72574,7 +72568,6 @@
 ||appplasma.lat^$all
 ||appvirtualsio.lat^$all
 ||apyx-finance.lat^$all
-||apyxvieweb.lat^$all
 ||arcnetwork.lat^$all
 ||arcusdigital.lat^$all
 ||arcusnet.lat^$all
@@ -76158,7 +76151,6 @@
 ||airdrops-we.lol^$all
 ||airdrops-xc.lol^$all
 ||aleostudy.lol^$all
-||aliabdaaltoken.lol^$all
 ||allocate-firelight.lol^$all
 ||allocates-firelight.lol^$all
 ||allocation-hylo.lol^$all
@@ -76508,7 +76500,6 @@
 ||niulai.lol^$all
 ||nodeclaim.lol^$all
 ||officialonsol.lol^$all
-||oillesscoin.lol^$all
 ||okxwallet.lol^$all
 ||online-omben-crypto.lol^$all
 ||onlinemonitoringi-crypto-obmennikov.lol^$all
@@ -84257,7 +84248,6 @@
 ||vote-hash256.org^$all
 ||vote-kirwan.org^$all
 ||vote-liquity.org^$all
-||vote-orca.org^$all
 ||vote-plume.org^$all
 ||vote-r2.org^$all
 ||vote-spectra.org^$all
@@ -84266,7 +84256,6 @@
 ||voteokx.org^$all
 ||votes-base.org^$all
 ||votes-hash256.org^$all
-||votes-kmno.org^$all
 ||votes-megaeth.org^$all
 ||votes-octra.org^$all
 ||votes-zama.org^$all
@@ -89124,7 +89113,6 @@
 ||tronxi.shop^$all
 ||truffle-autumngift.shop^$all
 ||welcomecard.trust-crd.shop^$all
-||trust-tradecryptocard.shop^$all
 ||trusted-bonus.shop^$all
 ||trusthubwallet.shop^$all
 ||trustonlinecard.shop^$all
@@ -92853,7 +92841,6 @@
 ||onlinebiz.top^$all
 ||onre-finance.top^$all
 ||onyxapp.top^$all
-||opalbot.top^$all
 ||open-trust-card.top^$all
 ||openairdrops.top^$all
 ||openclawaix.top^$all
@@ -92979,7 +92966,6 @@
 ||pumpfu.top^$all
 ||pumplivesol.top^$all
 ||pumpz.top^$all
-||pumq-online.top^$all
 ||pupms.top^$all
 ||purple-rewards.top^$all
 ||putrug.top^$all
@@ -93775,7 +93761,6 @@
 ||claim-sui.trade^$all
 ||claimer.trade^$all
 ||cngck-portfolio.trade^$all
-||coin-trade.trade^$all
 ||coinegcko.trade^$all
 ||coingecko.trade^$all
 ||coinilst.trade^$all
@@ -96574,7 +96559,6 @@
 ||alignedlayers-hub.xyz^$all
 ||alignelayer.xyz^$all
 ||alignlayers.xyz^$all
-||allchaindapps.xyz^$all
 ||allchainfix.xyz^$all
 ||alloc-robinhood.xyz^$all
 ||allocate-firelight.xyz^$all
@@ -96896,7 +96880,6 @@
 ||app-puffer.xyz^$all
 ||app-re.xyz^$all
 ||app-ready.xyz^$all
-||app-reprotocol.xyz^$all
 ||app-resolvlabs.xyz^$all
 ||app-rxusd.xyz^$all
 ||app-saphyre.xyz^$all
@@ -103399,7 +103382,6 @@
 ||vote-beefys1.xyz^$all
 ||vote-beezie.xyz^$all
 ||vote-bioprotocol.xyz^$all
-||vote-bittensor.xyz^$all
 ||vote-brix.xyz^$all
 ||vote-bsquared.xyz^$all
 ||vote-bulltheleader.xyz^$all

@@ -1735,7 +1735,6 @@ hyperliquid-events.app
 hyperliquid-rewards.app
 hyperliquid-xyz.app
 icloud-find-live.app
-icloud-location-live.app
 identification-metamask.app
 identification-trezor.app
 identification01-ledger.app
@@ -14016,7 +14015,6 @@ cakewallet.casa
 changenow.casa
 claim-unlswap.casa
 cointermenal.casa
-cryptomus-in.casa
 app.curvance.casa
 devwatchaudit.casa
 dinari.casa
@@ -33795,7 +33793,6 @@ kekkonch.com
 kelly-gemini.com
 kelp-aave.com
 kelpdao-proposal.com
-kelpdaoeligibility.com
 kelprecovery.com
 kemocalls.com
 kenda-najd.com
@@ -34172,7 +34169,6 @@ launchpad-prxvt.com
 launchsuite-trezorsuite.com
 launchtopaid.com
 laureann.com
-lawsuit-blockfi.com
 lawyer-x.com
 layer2savings.com
 layer3stack.com
@@ -53585,7 +53581,6 @@ backend-service.pages.dev
 backpack-9g2.pages.dev
 backpack-dapp.pages.dev
 backpackaward.pages.dev
-bankless.pages.dev
 banner-ledger.pages.dev
 base-arc-usdc-mobile.pages.dev
 base-ledger-app.pages.dev
@@ -63187,7 +63182,6 @@ coinbase-wallet.forum
 coinomize.forum
 collateral-zojp.forum
 cryptomixer.forum
-cryptomus.forum
 cyberleek.forum
 debit-hlqt.forum
 dropchain.forum
@@ -72574,7 +72568,6 @@ appleonsol.lat
 appplasma.lat
 appvirtualsio.lat
 apyx-finance.lat
-apyxvieweb.lat
 arcnetwork.lat
 arcusdigital.lat
 arcusnet.lat
@@ -76158,7 +76151,6 @@ airdrops-v0.lol
 airdrops-we.lol
 airdrops-xc.lol
 aleostudy.lol
-aliabdaaltoken.lol
 allocate-firelight.lol
 allocates-firelight.lol
 allocation-hylo.lol
@@ -76508,7 +76500,6 @@ niggacoin.lol
 niulai.lol
 nodeclaim.lol
 officialonsol.lol
-oillesscoin.lol
 okxwallet.lol
 online-omben-crypto.lol
 onlinemonitoringi-crypto-obmennikov.lol
@@ -84257,7 +84248,6 @@ vote-diresta.org
 vote-hash256.org
 vote-kirwan.org
 vote-liquity.org
-vote-orca.org
 vote-plume.org
 vote-r2.org
 vote-spectra.org
@@ -84266,7 +84256,6 @@ votemenow.org
 voteokx.org
 votes-base.org
 votes-hash256.org
-votes-kmno.org
 votes-megaeth.org
 votes-octra.org
 votes-zama.org
@@ -89124,7 +89113,6 @@ trongas.shop
 tronxi.shop
 truffle-autumngift.shop
 welcomecard.trust-crd.shop
-trust-tradecryptocard.shop
 trusted-bonus.shop
 trusthubwallet.shop
 trustonlinecard.shop
@@ -92853,7 +92841,6 @@ online-zoom.top
 onlinebiz.top
 onre-finance.top
 onyxapp.top
-opalbot.top
 open-trust-card.top
 openairdrops.top
 openclawaix.top
@@ -92979,7 +92966,6 @@ pummp.top
 pumpfu.top
 pumplivesol.top
 pumpz.top
-pumq-online.top
 pupms.top
 purple-rewards.top
 putrug.top
@@ -93775,7 +93761,6 @@ claim-pengu.trade
 claim-sui.trade
 claimer.trade
 cngck-portfolio.trade
-coin-trade.trade
 coinegcko.trade
 coingecko.trade
 coinilst.trade
@@ -96574,7 +96559,6 @@ aligned-rewards.xyz
 alignedlayers-hub.xyz
 alignelayer.xyz
 alignlayers.xyz
-allchaindapps.xyz
 allchainfix.xyz
 alloc-robinhood.xyz
 allocate-firelight.xyz
@@ -96896,7 +96880,6 @@ app-propr.xyz
 app-puffer.xyz
 app-re.xyz
 app-ready.xyz
-app-reprotocol.xyz
 app-resolvlabs.xyz
 app-rxusd.xyz
 app-saphyre.xyz
@@ -103399,7 +103382,6 @@ vote-basedfdn.xyz
 vote-beefys1.xyz
 vote-beezie.xyz
 vote-bioprotocol.xyz
-vote-bittensor.xyz
 vote-brix.xyz
 vote-bsquared.xyz
 vote-bulltheleader.xyz
