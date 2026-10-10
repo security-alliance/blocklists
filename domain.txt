@@ -16655,6 +16655,7 @@ soneuim-votes.cfd
 sparkdotfi.cfd
 sparkfi.cfd
 sparkfinance.cfd
+sparksfi.cfd
 springsprangsprung.cfd
 sqanta-reward6.cfd
 squidrouter.cfd
@@ -72743,6 +72744,7 @@ enter-fables.lat
 enter-frontiertrader.lat
 enter-morpho.lat
 enter-skyeco.lat
+enter-skyecosystem.lat
 enter-skymoney.lat
 entropy.lat
 eth-test.lat
@@ -88369,6 +88371,7 @@ skinportess.sbs
 skinsmonkeyy.sbs
 skyecosystem.sbs
 skymoney.sbs
+skymoneyfdn.sbs
 slimflow.sbs
 sliofinance.sbs
 so-v2.sbs
@@ -97306,7 +97309,6 @@ boros-pendle.xyz
 boros-pendlefi.xyz
 boros-pendlefinance.xyz
 bouina-sol.xyz
-bpdrop.xyz
 bpizqthl.xyz
 brewfamily-proposal.xyz
 brewfamily-proposals.xyz
