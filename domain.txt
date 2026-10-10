@@ -70331,7 +70331,6 @@ jtx-trade.io
 jup-rewards.io
 jupcitizen.io
 jupcitizens.io
-jupidashboard.io
 juprewards.io
 k-lite.io
 kakaochat.io
