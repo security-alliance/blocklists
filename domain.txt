@@ -1512,6 +1512,7 @@ exodus-app.app
 exodusportfolio.app
 exolix.app
 exploit2026-ledger.app
+exploits2026-ledger.app
 extendedexchange.app
 ezbtc.app
 facemeet.app
@@ -66805,7 +66806,6 @@ rainbet.im
 rufus.im
 sideshift.im
 streamyard.im
-tapme.im
 trezor-suite.im
 upholdvip.im
 us05meetingcle.im
