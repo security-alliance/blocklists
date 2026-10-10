@@ -1734,7 +1734,6 @@
 ||hyperliquid-events.app^$all
 ||hyperliquid-rewards.app^$all
 ||hyperliquid-xyz.app^$all
-||icloud-find-live.app^$all
 ||identification-metamask.app^$all
 ||identification-trezor.app^$all
 ||identification01-ledger.app^$all
@@ -63863,7 +63862,6 @@
 ||live-pumpstreamchat.fun^$all
 ||live-pumpstreams.fun^$all
 ||live-stream-pump.fun^$all
-||live-streams.fun^$all
 ||live-streams-pump.fun^$all
 ||livepumpchat.fun^$all
 ||livepumpfun.fun^$all
@@ -76300,7 +76298,6 @@
 ||cryptostorage.lol^$all
 ||cryptovault.lol^$all
 ||crypto.cryptoworld.lol^$all
-||crystalxrat.lol^$all
 ||ctpm.lol^$all
 ||curiositylife.lol^$all
 ||cyber-leek.lol^$all
@@ -82890,7 +82887,6 @@
 ||hyperliquida.org^$all
 ||hyperliquidpc.org^$all
 ||hyperliquids-distribution.org^$all
-||hyperloundation.org^$all
 ||hyperstake.org^$all
 ||hypurrfi.org^$all
 ||ibibifc.org^$all
@@ -95691,7 +95687,6 @@
 ||moonshot-listings.vote^$all
 ||moonshot-trending.vote^$all
 ||moontok-listings.vote^$all
-||amlcheck.vu^$all
 ||base-dapp.vu^$all
 ||ledger.com.vu^$all
 ||confirmation.vu^$all
