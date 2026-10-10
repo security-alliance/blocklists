@@ -101424,6 +101424,7 @@ proposal-offyield.xyz
 proposal-ondofinance.xyz
 proposal-openstandard.xyz
 proposal-orbio.xyz
+proposal-papertrade.xyz
 proposal-pendlefinances.xyz
 proposal-plasma.xyz
 proposal-pools.xyz
