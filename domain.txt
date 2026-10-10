@@ -47560,7 +47560,6 @@ io-metamask.wixstudio.com
 io-metamask-ext.wixstudio.com
 io-metamaskcdn.wixstudio.com
 io-metamaskglobal.wixstudio.com
-io-metamsek.wixstudio.com
 io-metamsk-apps.wixstudio.com
 io-metamskapps.wixstudio.com
 io-metamsuk.wixstudio.com
