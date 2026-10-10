@@ -15313,7 +15313,6 @@ soladrop.cc
 solana-mining.cc
 solanacard.cc
 solanadrop.cc
-solanafaucet.cc
 solanchor.cc
 solander.cc
 solatoll.cc

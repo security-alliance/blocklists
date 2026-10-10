@@ -15313,7 +15313,6 @@
 ||solana-mining.cc^$all
 ||solanacard.cc^$all
 ||solanadrop.cc^$all
-||solanafaucet.cc^$all
 ||solanchor.cc^$all
 ||solander.cc^$all
 ||solatoll.cc^$all
