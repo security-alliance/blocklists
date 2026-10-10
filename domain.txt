@@ -66750,6 +66750,7 @@ orca.masyamin.my.id
 mexczexa.my.id
 debank.myf.my.id
 savings.my.id
+bot.squadairdrop.my.id
 teams-live.my.id
 trmlabscoin.my.id
 verify35132-email.my.id
