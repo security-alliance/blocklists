@@ -52522,6 +52522,7 @@
 ||16-proposal-argus.pages.dev^$all
 ||16-proposal-computersrh.pages.dev^$all
 ||16-proposal-derive.pages.dev^$all
+||16-proposal-ethos.pages.dev^$all
 ||16-proposal-globaldollar.pages.dev^$all
 ||16-proposal-loanmeme.pages.dev^$all
 ||16-proposal-prjx.pages.dev^$all
@@ -52725,6 +52726,7 @@
 ||20-predeposit-papertrade.pages.dev^$all
 ||20-predictfun.pages.dev^$all
 ||20-proposal-3jane.pages.dev^$all
+||20-proposal-computersrh.pages.dev^$all
 ||20-proposal-derive.pages.dev^$all
 ||20-proposal-globaldollar.pages.dev^$all
 ||20-proposal-loanmeme.pages.dev^$all
@@ -52913,6 +52915,7 @@
 ||28-reallocation-concrete.pages.dev^$all
 ||28-saturncredit.pages.dev^$all
 ||28-tge-extended.pages.dev^$all
+||28-venice.pages.dev^$all
 ||29-0xfluid.pages.dev^$all
 ||29-allowlist-ascendlaunch.pages.dev^$all
 ||29-arguseco.pages.dev^$all
@@ -53026,10 +53029,13 @@
 ||31-reallocate-flare.pages.dev^$all
 ||31-reallocation-concrete.pages.dev^$all
 ||31-saturncredit.pages.dev^$all
+||31-tge-extended.pages.dev^$all
+||31-vote-argusworld.pages.dev^$all
 ||32-0xfluid.pages.dev^$all
 ||32-allowlist-ascendlaunch.pages.dev^$all
 ||32-arguseco.pages.dev^$all
 ||32-argusworld.pages.dev^$all
+||32-gov-argus.pages.dev^$all
 ||32-netnet.pages.dev^$all
 ||32-predeposit-papertrade.pages.dev^$all
 ||32-proposal-globaldollar.pages.dev^$all
@@ -53209,6 +53215,7 @@
 ||45-saturncredit.pages.dev^$all
 ||459358h.pages.dev^$all
 ||46-0xfluid.pages.dev^$all
+||46-arguseco.pages.dev^$all
 ||46-argusworld.pages.dev^$all
 ||46-derivexyz.pages.dev^$all
 ||46-reallocate-flare.pages.dev^$all
@@ -53308,6 +53315,7 @@
 ||53-argusworld.pages.dev^$all
 ||53-derivexyz.pages.dev^$all
 ||53-reallocate-flare.pages.dev^$all
+||53-saturncredit.pages.dev^$all
 ||54-0xfluid.pages.dev^$all
 ||54-argusworld.pages.dev^$all
 ||54-reallocate-flare.pages.dev^$all
@@ -53317,9 +53325,11 @@
 ||55-reallocate-flare.pages.dev^$all
 ||56-0xfluid.pages.dev^$all
 ||56-argusworld.pages.dev^$all
+||56-derivexyz.pages.dev^$all
 ||56-reallocate-flare.pages.dev^$all
 ||57-0xfluid.pages.dev^$all
 ||57-argusworld.pages.dev^$all
+||57-reallocate-flare.pages.dev^$all
 ||58-0xfluid.pages.dev^$all
 ||59-0xfluid.pages.dev^$all
 ||6-0xfluid.pages.dev^$all
@@ -55534,6 +55544,7 @@
 ||exdoustwallet-en-us.pages.dev^$all
 ||exdoustwallet-lrn.pages.dev^$all
 ||exdswllet-secrty.pages.dev^$all
+||exdus--web3.pages.dev^$all
 ||exdus-login-wallet.pages.dev^$all
 ||exdus-wallet-extenstion.pages.dev^$all
 ||exdus-web-doc.pages.dev^$all
@@ -97879,6 +97890,7 @@
 ||checkingbusiness.xyz^$all
 ||checkingcrypto.xyz^$all
 ||checklighter.xyz^$all
+||checkotc.xyz^$all
 ||checkpoly.xyz^$all
 ||checks-hyperfoundation.xyz^$all
 ||checks-lighter.xyz^$all
@@ -99792,6 +99804,7 @@
 ||governance-zestprotocol.xyz^$all
 ||governance-zigchain.xyz^$all
 ||governanceflr.xyz^$all
+||governancehyperfoundation.xyz^$all
 ||governancekinetiq.xyz^$all
 ||governances-3jane.xyz^$all
 ||governances-check-ore.xyz^$all
@@ -102614,6 +102627,7 @@
 ||signup-firelightfi.xyz^$all
 ||signup-flarenetworks.xyz^$all
 ||signup-guild.xyz^$all
+||signup-paper.xyz^$all
 ||signup-papertrade.xyz^$all
 ||signup-transit.xyz^$all
 ||silverchainnft.xyz^$all
