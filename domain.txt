@@ -84446,6 +84446,7 @@ trust-wallet-card.org
 trust-wc.org
 trust-web3.org
 k57.trust-xpay.org
+uk.trust-xpay.org
 ws3.trust-xpay.org
 trustauction.org
 trustcardapp.org
@@ -88635,6 +88636,7 @@ onre-finance.sbs
 ontvang-204554-nu.sbs
 openclaw-ai.sbs
 opentrustcard.sbs
+opentrustcards.sbs
 opentrustwalletcard.sbs
 opentrustwcard.sbs
 opentrustwcards.sbs
