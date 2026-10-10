@@ -73163,6 +73163,7 @@ org-cop.lat
 osero.lat
 pancakeswap-dashboard.lat
 pancakewapsite.lat
+papentrade.lat
 paperdao.lat
 papertrade-desk.lat
 papertrade-register.lat
@@ -78561,6 +78562,7 @@ bybitprow.net
 bydfin.net
 bytevmgen.net
 user.ca-userzone.net
+cakeswallet.net
 capcut-pro.net
 capcutapkpro.net
 capitalprolificinvestments.net
