@@ -66419,6 +66419,7 @@
 ||trust-digital-store.icu^$all
 ||trust-get.icu^$all
 ||trust-secure-device.icu^$all
+||trust-vcc-card.icu^$all
 ||trustaml.icu^$all
 ||trustcarrd.icu^$all
 ||trustdigitalcard.icu^$all
