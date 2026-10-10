@@ -101095,6 +101095,7 @@ perenadashboard.xyz
 perenaeligibility.xyz
 perle-foundation.xyz
 permit-jumper.xyz
+permit-netnet.xyz
 peropanel.xyz
 perp-v1.xyz
 trade.perphl.xyz
@@ -103684,6 +103685,7 @@ vote-zebec.xyz
 vote-zebecnetwork.xyz
 vote-zetarium.xyz
 vote-zicoin.xyz
+vote-zigchain.xyz
 vote-zipcoin.xyz
 voteasterdex.xyz
 voted-flarenetwork.xyz
