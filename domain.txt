@@ -30292,6 +30292,7 @@ usual-portal.firebaseapp.com
 vangrid.firebaseapp.com
 vangrid-hub.firebaseapp.com
 wallnet-nodefix.firebaseapp.com
+xapp-folks-finance.firebaseapp.com
 yieldfarms.firebaseapp.com
 zerion-portfolio.firebaseapp.com
 zerion-scan.firebaseapp.com
