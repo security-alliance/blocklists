@@ -17150,6 +17150,7 @@ boros-finance.click
 boros-pendlefinance.click
 bozei.click
 bravee.click
+brevis.click
 buy-trx.click
 cakewallet.click
 calling-zoom.click
