@@ -26455,16 +26455,12 @@ m.cncoinbase.com
 cnct-roobet.com
 cnear.com
 co-opfraud.com
-1lnch-home.co.com
-1lnchcom.co.com
 a-wallet.co.com
 aave-fr.co.com
 aaveapp.co.com
 aaveoriginal.co.com
 aaveswap.co.com
-aerobrone.co.com
 aerodrome.co.com
-aerodrome-fi.co.com
 allycu.co.com
 anvent.co.com
 anydesk.co.com
@@ -26482,8 +26478,6 @@ arvestfcu.co.com
 asterdex-home.co.com
 auriofled.co.com
 b-wallet.co.com
-balamcer-flnance.co.com
-balancer-flnance.co.com
 bc-games.co.com
 betgrw.co.com
 bitpie.co.com
@@ -26503,11 +26497,7 @@ changellys.co.com
 coinbase.co.com
 compound-fi.co.com
 cowfi.co.com
-cowsvvap.co.com
-cowswop.co.com
 criicfytv.co.com
-crv-swap-home.co.com
-crv-v3-home.co.com
 currve.co.com
 curve-fi.co.com
 curvefinance.co.com
@@ -26556,8 +26546,6 @@ fsbank.co.com
 fusebox-elaivonportal.co.com
 fusebox-elavonportal.co.com
 guarde.co.com
-home-jup.co.com
-home-odos.co.com
 httpblockchain-wallet.co.com
 httpgo-trust.co.com
 httpsafepal-app.co.com
@@ -26566,16 +26554,11 @@ httpsdeltagroup.co.com
 httpskasinonutansvensklicens.co.com
 httpslebger.co.com
 httpswww1.co.com
-hyberliquid.co.com
-hyperllquld.co.com
 hyperswap.co.com
 i-exodus.co.com
 itrustcapital.co.com
-jup-home.co.com
 help.kraken-tor.co.com
 krakencrypto.co.com
-kyberswap-home.co.com
-kyperswop-home.co.com
 ldg.co.com
 ldgr.co.com
 ldgrlive.co.com
@@ -26620,7 +26603,6 @@ navyfedral.co.com
 ncbank.co.com
 new-ledger.co.com
 nfcufederal.co.com
-odos-home.co.com
 openclow.co.com
 paybis.co.com
 phantom-my.co.com
@@ -26635,8 +26617,6 @@ rainbetca.co.com
 rainbetcasino.co.com
 rainbetcasinocanada.co.com
 rainbets.co.com
-rangoschamge.co.com
-rangoschenge-home.co.com
 raydiulm.co.com
 raydium-swap.co.com
 rbfederal.co.com
@@ -26695,8 +26675,6 @@ trust-my.co.com
 trustplus.co.com
 trzr.co.com
 uniswapp.co.com
-unswap.co.com
-unswop.co.com
 us-cakewallet.co.com
 us-mymonero.co.com
 us-phantom.co.com
@@ -33622,7 +33600,6 @@ julywins.com
 jumper-desk.com
 jumper-dex.com
 jumper-exchamge-home.com
-jumper-exchange-home.com
 jumper-exchange-swap-and-bridge.com
 jumpere-exschange.com
 juniper-ledger.com
@@ -68374,7 +68351,6 @@ graniteassets.investments
 kta.investments
 0gfoundation.io
 0riginndefi.io
-1inch-protocol.io
 2026trump.io
 249202-trezor.io
 24bets.io
@@ -68462,7 +68438,6 @@ hedera-demo.apps.arkivist.io
 arvest.io
 assistance-trezor.io
 assisttrezor.io
-asterdex-home.io
 asterixatx.io
 atlas-system.io
 atlasswap.io
@@ -68562,7 +68537,6 @@ cordinex.io
 user.cornerstonecapital.io
 cosmoswallet.io
 cowswap.io
-cowswop.io
 criptomixer.io
 cryptomasters.io
 cryptomlxer.io
@@ -68570,7 +68544,6 @@ cryptoslam-agency.io
 crystaldiskinfo.io
 crystaldiskmark.io
 cumberlandflowcapital.io
-curve-swap-home.io
 customers-trezor.io
 cvariational.io
 cx-investment.io
@@ -70333,14 +70306,11 @@ hbuilderx.io
 helixtrade.io
 helptrezor.io
 hemi-genesisdrop.io
-home-aerodrome.io
-home-odos.io
 hub-blosk.io
 hwinfo.io
 hyper-swap.io
 hyperliquid-apps.io
 hyperliquid-exchanges.io
-hyperllquid.io
 official-coinbase-helpcenter.inblog.io
 infinity-wallet.io
 infura-de.io
@@ -70352,7 +70322,6 @@ jaimin.io
 jaxwallet.io
 jaxxlibertywallet.io
 jtx-trade.io
-jup-home.io
 jup-rewards.io
 jupcitizen.io
 jupcitizens.io
@@ -70375,7 +70344,6 @@ kollabit.io
 koltools.io
 kryptomixer.io
 kumibot.io
-kyperswap.io
 l-7007.io
 labrys-ir.io
 labrys-market.io
@@ -70567,7 +70535,6 @@ raibby.io
 rain-bet.io
 rainbetcasino-nl.io
 rainbetpromocode.io
-rangoschange.io
 rarecanvas.io
 raydiumdesktop.io
 reach-trezor.io
@@ -70837,7 +70804,6 @@ unirwa.io
 uniswap-app-exchange.io
 uniswap-v3.io
 uniswaps-apps.io
-unli-swap.io
 unlswop.io
 webtrader.upbitai.io
 updateblocker.io
