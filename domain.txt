@@ -102545,7 +102545,6 @@ stable-attestor.xyz
 stage2morpho.xyz
 stage6-asterdex.xyz
 stairwaytogold.xyz
-stake-degen.xyz
 stake-embercurve.xyz
 stake-firelight.xyz
 stake-firelightfi.xyz
