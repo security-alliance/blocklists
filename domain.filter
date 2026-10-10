@@ -11222,6 +11222,7 @@
 ||ultraneural-smartsystem.web.app^$all
 ||validationwebportal.web.app^$all
 ||vangrid-hub.web.app^$all
+||variational-io.web.app^$all
 ||vertexdeployenvironment.web.app^$all
 ||walletconnectrpc.web.app^$all
 ||wallnets-nodefix.web.app^$all
