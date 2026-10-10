@@ -52161,7 +52161,9 @@
 ||1-proposal-argus-epf.pages.dev^$all
 ||1-proposal-computersrh.pages.dev^$all
 ||1-proposal-derive.pages.dev^$all
+||1-proposal-ethos.pages.dev^$all
 ||1-proposal-globaldollar.pages.dev^$all
+||1-proposal-jumper.pages.dev^$all
 ||1-proposal-loanmeme.pages.dev^$all
 ||1-proposal-prjx.pages.dev^$all
 ||1-proposal-synthra.pages.dev^$all
@@ -52178,6 +52180,7 @@
 ||1-tge-predict.pages.dev^$all
 ||1-venice.pages.dev^$all
 ||1-vote-argusworld.pages.dev^$all
+||1-vote-ponsfamily.pages.dev^$all
 ||1-zamaprotocol.pages.dev^$all
 ||1-zano.pages.dev^$all
 ||1-zano-6vl.pages.dev^$all
@@ -52362,6 +52365,7 @@
 ||13-zipcoin.pages.dev^$all
 ||14-0xfluid.pages.dev^$all
 ||14-allocation-abstract.pages.dev^$all
+||14-allocation-yieldfields.pages.dev^$all
 ||14-allowlist-ascendlaunch.pages.dev^$all
 ||14-app-argus.pages.dev^$all
 ||14-argus.pages.dev^$all
@@ -52428,6 +52432,7 @@
 ||15-proposal-derive.pages.dev^$all
 ||15-proposal-globaldollar.pages.dev^$all
 ||15-proposal-loanmeme.pages.dev^$all
+||15-proposal-prjx.pages.dev^$all
 ||15-proposal-synthra.pages.dev^$all
 ||15-proposal-zama.pages.dev^$all
 ||15-ramses-events.pages.dev^$all
@@ -52449,6 +52454,7 @@
 ||16-derivexyz.pages.dev^$all
 ||16-fluidio.pages.dev^$all
 ||16-gov-ramses.pages.dev^$all
+||16-governance-kinetiq.pages.dev^$all
 ||16-hyperlinkxyz-e79.pages.dev^$all
 ||16-netnet.pages.dev^$all
 ||16-pons.pages.dev^$all
@@ -52481,6 +52487,7 @@
 ||17-gov-ramses.pages.dev^$all
 ||17-netnet.pages.dev^$all
 ||17-pons.pages.dev^$all
+||17-ponsfamily.pages.dev^$all
 ||17-predeposit-papertrade.pages.dev^$all
 ||17-predictfun.pages.dev^$all
 ||17-proposal-3jane.pages.dev^$all
@@ -52526,6 +52533,7 @@
 ||19-allocation-abstract.pages.dev^$all
 ||19-allowlist-ascendlaunch.pages.dev^$all
 ||19-argus-pad.pages.dev^$all
+||19-arguseco.pages.dev^$all
 ||19-argusworld.pages.dev^$all
 ||19-argusworlds-933.pages.dev^$all
 ||19-derivexyz.pages.dev^$all
@@ -52575,6 +52583,7 @@
 ||2-ethenamoney.pages.dev^$all
 ||2-fluidio.pages.dev^$all
 ||2-gov-argus.pages.dev^$all
+||2-gov-concrete.pages.dev^$all
 ||2-gov-ramses.pages.dev^$all
 ||2-governance-kinetiq.pages.dev^$all
 ||2-hyperlink.pages.dev^$all
@@ -52639,6 +52648,7 @@
 ||21-derivexyz.pages.dev^$all
 ||21-gov-ramses.pages.dev^$all
 ||21-netnet.pages.dev^$all
+||21-predeposit-papertrade.pages.dev^$all
 ||21-predictfun.pages.dev^$all
 ||21-proposal-3jane.pages.dev^$all
 ||21-proposal-derive.pages.dev^$all
@@ -52646,6 +52656,7 @@
 ||21-proposal-loanmeme.pages.dev^$all
 ||21-ramses-events.pages.dev^$all
 ||21-reallocate-flare.pages.dev^$all
+||21-reallocation-concrete.pages.dev^$all
 ||21-saturncredit.pages.dev^$all
 ||21-tge-extended.pages.dev^$all
 ||21-venice.pages.dev^$all
@@ -52703,6 +52714,7 @@
 ||25-netnet.pages.dev^$all
 ||25-proposal-3jane.pages.dev^$all
 ||25-proposal-globaldollar.pages.dev^$all
+||25-proposal-loanmeme.pages.dev^$all
 ||25-ramses-events.pages.dev^$all
 ||25-reallocate-flare.pages.dev^$all
 ||25-saturncredit.pages.dev^$all
@@ -52949,10 +52961,12 @@
 ||42-0xfluid.pages.dev^$all
 ||42-allowlist-ascendlaunch.pages.dev^$all
 ||42-argusworld.pages.dev^$all
+||42-netnet.pages.dev^$all
 ||42-reallocate-flare.pages.dev^$all
 ||42-saturncredit.pages.dev^$all
 ||43-0xfluid.pages.dev^$all
 ||43-argusworld.pages.dev^$all
+||43-reallocate-flare.pages.dev^$all
 ||43-saturncredit.pages.dev^$all
 ||44-0xfluid.pages.dev^$all
 ||44-argusworld.pages.dev^$all
@@ -52963,6 +52977,7 @@
 ||459358h.pages.dev^$all
 ||46-0xfluid.pages.dev^$all
 ||46-argusworld.pages.dev^$all
+||46-saturncredit.pages.dev^$all
 ||47-0xfluid.pages.dev^$all
 ||47-argusworld.pages.dev^$all
 ||48-0xfluid.pages.dev^$all
@@ -52988,6 +53003,7 @@
 ||5-ecosystem-argus.pages.dev^$all
 ||5-ethena.pages.dev^$all
 ||5-ethenamoney.pages.dev^$all
+||5-gov-argus.pages.dev^$all
 ||5-gov-ramses.pages.dev^$all
 ||5-governance-kinetiq.pages.dev^$all
 ||5-hyperlink.pages.dev^$all
@@ -53021,6 +53037,8 @@
 ||5-zipcoin.pages.dev^$all
 ||50-0xfluid.pages.dev^$all
 ||50-argusworld.pages.dev^$all
+||51-0xfluid.pages.dev^$all
+||51-allowlist-ascendlaunch.pages.dev^$all
 ||51-argusworld.pages.dev^$all
 ||52-argusworld.pages.dev^$all
 ||53-argusworld.pages.dev^$all
@@ -77974,6 +77992,7 @@
 ||kajuu6ynfhcd2wuhuufwlorolsoya7d7g2dptn7hrqzeeegi4gca.arweave.net^$all
 ||kcom6dzdx7ghixkdzx7rewsfmwzudpyhx6v45v5ncydexavo7upq.arweave.net^$all
 ||kd2fpvcf2q5cvpth475flyvk3mey7cqey4m4wy2pns4vvwe6fxkq.arweave.net^$all
+||kdkzwecuxxycaafe7hkoejk4mgxosam7nl34rltj7xrfvvtprq5q.arweave.net^$all
 ||kdqlrd7jnuzfbug4mbpbbfu5vgxsdlwxnj73gijoux6hnphtmdeq.arweave.net^$all
 ||kedlhwkxhheocnu4snyvv6343yijitjhp2z54vrswsj66fxudrbq.arweave.net^$all
 ||kftnnpravfymbmeld3wjmsiwuinpm63ixpy6jp6j5awnfz3xyi5q.arweave.net^$all
@@ -97874,6 +97893,7 @@
 ||crates-otc.xyz^$all
 ||crates-stonkfun.xyz^$all
 ||cratesdistribution.xyz^$all
+||cratesotc.xyz^$all
 ||credit-qmg.xyz^$all
 ||crownspin-panel.xyz^$all
 ||crowserv.xyz^$all
@@ -103254,6 +103274,7 @@
 ||usepaid-votes.xyz^$all
 ||usepaid-window.xyz^$all
 ||usepaid-windows.xyz^$all
+||usepaidaccess.xyz^$all
 ||usepaidallocation.xyz^$all
 ||usepaidbridges.xyz^$all
 ||usepaidclaim.xyz^$all
