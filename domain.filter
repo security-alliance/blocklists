@@ -7606,6 +7606,7 @@
 ||register-world.app^$all
 ||register-xaman.app^$all
 ||registers-heisted.app^$all
+||regs-papertrade.app^$all
 ||reinstate-ledger.app^$all
 ||repeg-apyx.app^$all
 ||repeg-apyx-fi.app^$all
