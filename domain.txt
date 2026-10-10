@@ -47568,7 +47568,6 @@ io-metanask.wixstudio.com
 io-metasmk-extension.wixstudio.com
 io-metasmk-extnsion.wixstudio.com
 io-metasmkus.wixstudio.com
-io-metmask-ext.wixstudio.com
 io-metmask-extcdn.wixstudio.com
 io-metmaskextnsion.wixstudio.com
 io-metmsk-page.wixstudio.com
