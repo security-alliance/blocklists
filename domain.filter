@@ -63127,7 +63127,6 @@
 ||governance-theindex.finance^$all
 ||governance-tread.finance^$all
 ||governance-umia.finance^$all
-||governances-ethena.finance^$all
 ||governances-firelight.finance^$all
 ||governances-hyperlend.finance^$all
 ||governances-mainstreet.finance^$all
@@ -94321,7 +94320,6 @@
 ||register-jtx.trade^$all
 ||register-paper.trade^$all
 ||relay-swap.trade^$all
-||revokes-drift.trade^$all
 ||revolut-exchange.trade^$all
 ||rewards-pools.trade^$all
 ||rocketx.trade^$all

@@ -63127,7 +63127,6 @@ governance-rysk.finance
 governance-theindex.finance
 governance-tread.finance
 governance-umia.finance
-governances-ethena.finance
 governances-firelight.finance
 governances-hyperlend.finance
 governances-mainstreet.finance
@@ -94321,7 +94320,6 @@ recovery-drift.trade
 register-jtx.trade
 register-paper.trade
 relay-swap.trade
-revokes-drift.trade
 revolut-exchange.trade
 rewards-pools.trade
 rocketx.trade
