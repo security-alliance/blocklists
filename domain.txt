@@ -100051,7 +100051,6 @@ hypersol-eligibility.xyz
 hypersol-rewards.xyz
 hyperstakingcow.xyz
 hyperstakingzora.xyz
-hypertiquid.xyz
 hypesol-claim.xyz
 hypevote.xyz
 hypurr-liquidl.xyz
