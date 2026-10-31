@@ -98649,7 +98649,6 @@ okxwallet.surf
 palmai-v2.surf
 pegasusjackpot.surf
 portallogonapp.surf
-pudgy-penguins.surf
 simlpwsap.surf
 solcoin.surf
 sparkfi.surf
