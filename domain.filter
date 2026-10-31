@@ -1937,6 +1937,7 @@
 ||ledger-com-wallet.app^$all
 ||ledger-desk.app^$all
 ||ledger-live-start.app^$all
+||ledger-review.app^$all
 ||ledger-services.app^$all
 ||ledger-site.app^$all
 ||ledgerdiagnostics.app^$all
@@ -12187,6 +12188,7 @@
 ||pdv.topper.dpscloud.com.ar^$all
 ||hyperliquid.com.ar^$all
 ||coinbaseaccount.konkor.com.ar^$all
+||nexoclaims.com.ar^$all
 ||diamondreels.ar^$all
 ||hyperliquid.ar^$all
 ||aavc.art^$all
@@ -16231,6 +16233,7 @@
 ||straitsx.cc^$all
 ||straitsxe.cc^$all
 ||suiswap.cc^$all
+||sushi-dex.cc^$all
 ||sutwin.cc^$all
 ||swap-eth-route-chain-v4.cc^$all
 ||synoxnft.cc^$all
@@ -21789,6 +21792,7 @@
 ||19417kraken.com^$all
 ||194483coinbase.com^$all
 ||194683-kraken.com^$all
+||194827-crypto.com^$all
 ||194827-ledger.com^$all
 ||195022-coinbase.com^$all
 ||1950925-coinbase.com^$all
@@ -26272,6 +26276,7 @@
 ||bitgethelp.com^$all
 ||bitgetprohelp.com^$all
 ||bitgetw3.com^$all
+||bitgetwithdrawal.com^$all
 ||bitgetworld.com^$all
 ||bitgetxwallet.com^$all
 ||bitglobalcards.com^$all
@@ -28496,6 +28501,7 @@
 ||coinbase-ticketaccess.com^$all
 ||coinbase-ticketcase.com^$all
 ||coinbase-ticketreview.com^$all
+||coinbase-uk.com^$all
 ||coinbase-usercare.com^$all
 ||coinbase-vaulting.com^$all
 ||coinbase-verify.com^$all
@@ -30996,6 +31002,7 @@
 ||polymarket.peter.privat.e-tech-ag.com^$all
 ||e-tradeapex.com^$all
 ||e-transfdepoca.com^$all
+||e-trustwallet.com^$all
 ||e8-ledger.com^$all
 ||eaglonproedge.com^$all
 ||eainbet.com^$all
@@ -36212,6 +36219,7 @@
 ||ledger-tw.com^$all
 ||ledger-validation.com^$all
 ||ledger-view.com^$all
+||ledger-web-app.com^$all
 ||base.ledger123.com^$all
 ||ledgerapphelp.com^$all
 ||ledgercommunityupdates.com^$all
@@ -43778,6 +43786,7 @@
 ||supportdmca-x.com^$all
 ||supportfiles-x.com^$all
 ||supportpage-google.com^$all
+||supportphantomwallet.com^$all
 ||supportreceive-x.com^$all
 ||supportrequest-x.com^$all
 ||supportreview-x.com^$all
@@ -45412,6 +45421,7 @@
 ||ttkxbf.com^$all
 ||ttm-t.com^$all
 ||ttmgm.com^$all
+||ttonkeeper.com^$all
 ||ttsseed.com^$all
 ||tttdss.com^$all
 ||tu-jugada.com^$all
@@ -45854,6 +45864,7 @@
 ||uphold-policyreview.com^$all
 ||uphold-safevault.com^$all
 ||uphold-safewallet.com^$all
+||uphold-support.com^$all
 ||upholdcex.com^$all
 ||upholddex.com^$all
 ||upholdhelp-desk.com^$all
@@ -70203,6 +70214,7 @@
 ||pabncakeswap.finance^$all
 ||pancakeiswap.finance^$all
 ||pancakesswaps.finance^$all
+||pancakeswa.finance^$all
 ||pancakeswap-claim.finance^$all
 ||pancakeswap-token.finance^$all
 ||pancakeswap-v1.finance^$all
@@ -73941,6 +73953,7 @@
 ||fi-uk.web.id^$all
 ||keeta.web.id^$all
 ||krakensi.web.id^$all
+||ledgerwallet.web.id^$all
 ||portfolio-adit.web.id^$all
 ||savings.web.id^$all
 ||trmlabscoin.web.id^$all
@@ -86675,6 +86688,7 @@
 ||multiplifoundation.net^$all
 ||mybcm.net^$all
 ||myfinanceflow.net^$all
+||mymonerowallet.net^$all
 ||user.mystationpanel.net^$all
 ||nasdaq666.net^$all
 ||natixisglobe.net^$all
@@ -93135,6 +93149,7 @@
 ||headquartershealth9.pro^$all
 ||hederafunds.pro^$all
 ||heisted.pro^$all
+||help-kraken.pro^$all
 ||helpdesk-kraken.pro^$all
 ||hestwin255.pro^$all
 ||hexowin167.pro^$all
@@ -93976,6 +93991,7 @@
 ||krab4-kraken-ssilka.ru^$all
 ||kraken----zerkalo.ru^$all
 ||kraken--shop.ru^$all
+||kraken-check.ru^$all
 ||kraken-krab4-at.ru^$all
 ||kraken-onion-krab.ru^$all
 ||kraken-slon-krab.ru^$all
@@ -96070,6 +96086,7 @@
 ||trezoracces-support-portal.sbs^$all
 ||triysty.sbs^$all
 ||tronairdrop.sbs^$all
+||trst-wallet.sbs^$all
 ||trstw-card.sbs^$all
 ||trstwcard.sbs^$all
 ||trumpair.sbs^$all
@@ -97711,6 +97728,7 @@
 ||voteflr.site^$all
 ||w3-dapps.site^$all
 ||staging.wirexpay.w3us.site^$all
+||waave.site^$all
 ||wallet-backup-centr.site^$all
 ||wallet-connect.site^$all
 ||wallet-official.site^$all
@@ -99705,6 +99723,7 @@
 ||bitfiru.top^$all
 ||bitforex168.top^$all
 ||bitgetair.top^$all
+||bitgetuseesservices.top^$all
 ||bithumbcc.top^$all
 ||biticryption.top^$all
 ||bitmartbtc.top^$all
@@ -101663,6 +101682,7 @@
 ||torogluelektronik.com.tr^$all
 ||tvgarden.com.tr^$all
 ||verify-icioud.com.tr^$all
+||polymarket.net.tr^$all
 ||polymarket.tr^$all
 ||1inch.trade^$all
 ||24bets.trade^$all
@@ -111342,6 +111362,7 @@
 ||trumpmemetokendistribution.xyz^$all
 ||trusrwallet.xyz^$all
 ||trust-ccard.xyz^$all
+||trust-web3.xyz^$all
 ||trustaml.xyz^$all
 ||trustcardpay.xyz^$all
 ||trustcardz.xyz^$all
