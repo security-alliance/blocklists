@@ -24184,7 +24184,6 @@ accountpolicy-x.com
 accountprotect-x.com
 accountreview-x.com
 accounts-googleauth.com
-accounts-googledrive.com
 accounts-reports.com
 accounts-validation.com
 accounts-zoom.com
@@ -24838,7 +24837,6 @@ aojiong.com
 aokdije.com
 aotentiecates.com
 ap-start.com
-ap01web.com
 ap2-zoominfo.com
 apedice.com
 apeon-portal.com
@@ -37435,7 +37433,6 @@ micronosoft.com
 microran0192.com
 microrosoftnline.com
 micros0fft-verification.com
-micros0ft-account.com
 micros0ft-login.com
 microscft.com
 microscft-online.com
@@ -38439,7 +38436,6 @@ notgamb.com
 notice-trezor.com
 noticed-x.com
 noticedmca-x.com
-notices-google.com
 noticesdmca-x.com
 notif-info-bitkub.com
 notif-inform-bitkub.com
@@ -43359,7 +43355,6 @@ sskinclub.com
 ssksigortasorgulama.com
 ssl-worldlibertyfinancial.com
 sso-bitso.com
-sso-gateway.com
 ssozoomevents.com
 ssusshi.com
 ssvvapp.com
@@ -44212,7 +44207,6 @@ terminals-trustwallet.com
 terminate-cbna.com
 terminate-web13secureinternetbank.com
 termlnal-megaeth.com
-terms-updattes.com
 termsdmca-x.com
 termsfaq-x.com
 termsliue.com
@@ -100622,7 +100616,6 @@ mexcnet.top
 miccrosofteams.top
 miccrosoftteams.top
 miccrossofteam.top
-miccrrosofteam.top
 microsoffteamm.top
 microsofsteaminvite.top
 microsoft-ai-claude.top
