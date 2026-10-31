@@ -934,7 +934,6 @@ cavepay.app
 exodussupport.cercel.app
 cexio.app
 chainlist.app
-check-aave.app
 check-base.app
 check-firelight.app
 check-hylo.app
@@ -29330,7 +29329,6 @@ comp-swap.com
 companyease.com
 compel-x.com
 compensation-apyx.com
-compensation-kelpdao.com
 compensation-kerneldao.com
 compensation-lido.com
 compensations-aave.com
@@ -31348,7 +31346,6 @@ enter-solsticefinance.com
 enter-sparkdex.com
 enter-umbraprivacy.com
 enter-usefelix.com
-enters-aave.com
 entrecorres.com
 entrepreneurialpeoplesearch.com
 entropy-check-portal.com
@@ -39984,7 +39981,6 @@ portale-ledger.com
 portallink-whatsapp.com
 flare.portalnets.com
 portalredir.com
-portals-aave.com
 portals-chainlink.com
 portals-distributionid-083485.com
 portals-ethena.com
@@ -39996,7 +39992,6 @@ portals-papertrade.com
 portals-rabby.com
 portalsoneium.com
 portaltmgmm.com
-portfolio-aave.com
 portfolio-firelight.com
 portfolio-kraken.com
 portfolio-megaeth.com
@@ -106121,7 +106116,6 @@ djgja242dfa.xyz
 dlicom.xyz
 dnau-getfkdwhocares123.xyz
 docs-hyperfoundation.xyz
-document-kelpdao.xyz
 docupdate.xyz
 dodoex.xyz
 app.dogecoininvest.xyz
