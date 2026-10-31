@@ -1714,7 +1714,6 @@ govern-ethena.app
 governace-flarenetwork.app
 governace-flarenetworks.app
 governaces-flarenetworks.app
-governance-aave.app
 governance-apyx.app
 governance-apyxfi.app
 governance-curve.app
@@ -14741,7 +14740,6 @@ unicornspinsvip.cam
 unsikik.cam
 user-poiymarket.cam
 user-polynarket.cam
-v1-aave.cam
 v1-d2.cam
 v2-d2.cam
 veboxem.cam
@@ -17873,6 +17871,7 @@ hyperliquid-airdrop.claims
 hyperliquid-genesis.claims
 iota.claims
 ledgerlive.claims
+meteora.claims
 vote.metisl2io.claims
 quest.metisl2protocol.claims
 ww38.metisl2protocol.claims
@@ -17972,7 +17971,7 @@ allocation-flyingtulip.click
 allocation-mantle.click
 allocation-multipli.click
 allocation-ponsecosystem.click
-checker.allocation-saturncredit.click
+allocation-saturncredit.click
 allocation-up33.click
 allocation-usenosh.click
 allocation-wardenprotocol.click
@@ -17994,6 +17993,7 @@ app-defituna.click
 app-drift.click
 app-ethenafi.click
 app-firelightfoundation.click
+app-flarenetworks.click
 app-flrfoundation.click
 app-hyperliqiud.click
 app-lido.click
@@ -18271,10 +18271,12 @@ gov-flarenetwork.click
 governance-arc.click
 governance-ascendlaunch.click
 governance-deltaliquidity.click
+governance-enterforever.click
 governance-flare-network.click
 governance-flarenetwork.click
 governance-flarenetworks.click
 governance-mantle.click
+governance-pons.click
 governance-sparkdex.click
 governance-themutual.click
 governance-treadfi.click
@@ -18450,7 +18452,7 @@ payout-validation.click
 paytrust.click
 paytrustcard.click
 pdfviewonline.click
-governance.pendle-rewards.click
+pendle-rewards.click
 pendlefinance.click
 phatominstallwallet.click
 phoenixtrade.click
@@ -18536,7 +18538,8 @@ reward-myvip.click
 reward-quiz.click
 reward-vip.click
 rewards-airpoints.click
-season5.rewards-etherfi.click
+rewards-etherfi.click
+rewards-flarenetwork.click
 rewards-stable.click
 rewardss.click
 rheafinance.click
@@ -24050,21 +24053,15 @@ aarotrade.com
 aarumcard.com
 aaterrainc.com
 aave-app-v3.com
-aave-capital.com
 aave-compensation.com
 aave-compensations.com
 aave-compensationss.com
-aave-desktopwalletinstaller.com
-aave-finance.com
 aave-funded.com
 aave-hub.com
 aave-liquidity.com
 aave-phase2.com
 aave-pool.com
-aave-pro.com
 aave-recovery.com
-aave-reimbursement.com
-aave-v3swap.com
 aave-voting.com
 aavebase-dashboard.com
 aavebasedashboard.com
@@ -24529,7 +24526,6 @@ allnodesupport.com
 alloc-xrpl.com
 allocate-jupuary.com
 allocation-0gai.com
-allocation-aave.com
 allocation-arc.com
 allocation-artificialinu.com
 allocation-bifrostwallet.com
@@ -29321,8 +29317,6 @@ communitystatus-x.com
 comp-swap.com
 companyease.com
 compel-x.com
-compensate-aave.com
-compensation-aave.com
 compensation-apyx.com
 compensation-kelpdao.com
 compensation-kerneldao.com
@@ -31786,13 +31780,11 @@ exomegatrade.com
 exovalttrade94.com
 expertzoomroom.com
 expguides-de-bank.com
-exploit-aave.com
 exploit-ledger.com
 exploit-poly.com
 exploit-polymarket.com
 exploit-wasabi.com
 exploit2026-ledger.com
-exploits-aave.com
 exploits-wasabi.com
 explore-blockchain.com
 exploreamlbot.com
@@ -33673,6 +33665,7 @@ governance-kinetiq.com
 governance-kinetiqfnd.com
 governance-layer.com
 governance-lienfi.com
+governance-lightcr.com
 governance-network.com
 governance-neverland.com
 governance-octra.com
@@ -34740,6 +34733,7 @@ hyperliquidx-season3.com
 hyperlliquidd.com
 hyperphpqeowon11122.com
 hyperreco.com
+hyperrecosystem.com
 hypersapp.com
 hypersol-trading.com
 hypersui-claim.com
@@ -40278,6 +40272,7 @@ proposal-flarenetwork.com
 proposal-flarenetworks.com
 proposal-genius.com
 proposal-hachiko.com
+proposal-hip3.com
 proposal-hive.com
 proposal-hyperecosystem.com
 proposal-kelpdao.com
@@ -40288,6 +40283,7 @@ proposal-kit.com
 proposal-kledai.com
 proposal-labs.com
 proposal-layerzero.com
+proposal-lightcr.com
 proposal-liquid.com
 proposal-listadao.com
 proposal-loanmeme.com
@@ -41357,12 +41353,10 @@ recompensation-aave.com
 recompensation-apyx.com
 recompensations-apyx.com
 recompensations-kerneldao.com
-recover-aave.com
 recover-base.com
 recover-cloud.com
 recover-google-account.com
 recover-trezor.com
-recovery-aave.com
 recovery-apyx.com
 recovery-ekubo.com
 recovery-help.com
@@ -41438,7 +41432,6 @@ refund-pennyguard.com
 refund-right.com
 refund-tesla.com
 refund-vertex.com
-refunds-aave.com
 refunds-coinmarketcap.com
 refunds-dominionmarket.com
 refunds-kelpdao.com
@@ -41499,7 +41492,6 @@ reign--allocation.com
 reign-allocation.com
 reimagin8d.com
 reimburse-aavc.com
-reimbursement-aave.com
 reinbet.com
 reinerviera.com
 reirax.com
@@ -43734,7 +43726,6 @@ supersapp-zebec.com
 supersporte-hr.com
 suporte-enlinea.com
 suppcrt.com
-supply-aave.com
 supplymetamask.com
 coinbase.support-834179.com
 support-binance.com
@@ -46277,9 +46268,7 @@ v26-dappconnection.com
 v27-dappconnection.com
 v28-dappconnection.com
 v29-dappconnection.com
-v2s-aave.com
 v3-1inch.com
-v3-aave.com
 v3-balancer.com
 app.v3-bfy.com
 v3-changelly.com
@@ -70874,8 +70863,9 @@ allocation-morpho.fun
 allocation-mysterythefrog.fun
 allocation-net.fun
 allocation-plasma.fun
+allocation-predict.fun
 allocation-pump.fun
-checker.allocation-saturncredit.fun
+allocation-saturncredit.fun
 allocation-toes.fun
 allocation-trololol.fun
 allocation-uplift.fun
@@ -70919,7 +70909,7 @@ app-nukes.fun
 app-onyxecosystem.fun
 app-pendlefinance.fun
 app-plasmaecosystem.fun
-app.app-ponsecosystem.fun
+app-ponsecosystem.fun
 app-stonk.fun
 app-termmax-ts.fun
 app-torchpad.fun
@@ -71083,7 +71073,7 @@ distribution-fwa.fun
 distribution-long.fun
 distribution-pump.fun
 distributions-fwa.fun
-governance.dopplerecosystem.fun
+dopplerecosystem.fun
 doughsolana.fun
 drop-interface.fun
 dropbase.fun
@@ -71145,7 +71135,7 @@ firelight-fxrp.fun
 firelight-governance.fun
 firelight-rewards.fun
 firelightecosystems.fun
-app.firelightfoundation.fun
+firelightfoundation.fun
 fireligth.fun
 fiwgod.fun
 flare-allocation.fun
@@ -71198,6 +71188,7 @@ gov-predict.fun
 gov-torchpad.fun
 gov-zipcoin.fun
 governance-aka.fun
+governance-ascendlaunch.fun
 governance-bliss.fun
 governance-embercurve.fun
 governance-etherfi.fun
@@ -71378,7 +71369,7 @@ nuvex-wl.fun
 meow.oakar.fun
 official-byvotes.fun
 grass.onsol.fun
-app.onyxecosystem.fun
+onyxecosystem.fun
 open-embercurve.fun
 openclawxlive.fun
 openclawxonline.fun
@@ -71392,6 +71383,7 @@ participate-fwa.fun
 particlelife.fun
 pawsofsherwood.fun
 pdmp.fun
+pendle-rewards.fun
 pendlefinance.fun
 phantom-pump.fun
 pikanad.fun
@@ -71430,6 +71422,7 @@ proposal-fwa.fun
 proposal-hookr.fun
 proposal-minara.fun
 proposal-nukes.fun
+proposal-predict.fun
 proposal-s5-etherfi.fun
 proposal-salt.fun
 proposal-stonkbrokers.fun
@@ -71582,6 +71575,7 @@ rewards-bitmoon.fun
 rewards-bobobear.fun
 rewards-earnidle.fun
 rewards-embercurve.fun
+rewards-etherfi.fun
 rewards-firelight.fun
 rewards-flap.fun
 rewards-fwa.fun
@@ -71727,15 +71721,16 @@ trollusdcpump.fun
 trondefi.fun
 trongas.fun
 trumpaccountsusd1.fun
+txflowecosystem.fun
 usdc.uarc.fun
-app.umiaecosystem.fun
+umiaecosystem.fun
 umiafinance.fun
 unceroid.fun
 up-x.fun
 upcoin.fun
 usd-ai.fun
 usdai-governance.fun
-app.usdaiecosystem.fun
+usdaiecosystem.fun
 usdcat.fun
 usdcball.fun
 usdccoin.fun
@@ -72621,11 +72616,11 @@ allocation-morpho.icu
 allocation-multipli.icu
 allocation-nado.icu
 allocation-near.icu
-vote.allocation-net.icu
+allocation-net.icu
 allocation-netnet.icu
 allocation-plasma.icu
 allocation-ponsecosystem.icu
-checker.allocation-saturncredit.icu
+allocation-saturncredit.icu
 allocation-solvfinance.icu
 allocation-standardreserve.icu
 allocation-stockereum.icu
@@ -72678,6 +72673,7 @@ app-axisrobotics.icu
 app-basedfoundation.icu
 app-concrete.icu
 app-concretefoundation.icu
+app-deltaliquidity.icu
 app-doppler.icu
 app-dopplerfinance.icu
 app-ethersfi.icu
@@ -72695,7 +72691,7 @@ app-pendle.icu
 app-ponsecosystem.icu
 app-soil.icu
 app-standardreserve.icu
-app.app-umiaecosystem.icu
+app-umiaecosystem.icu
 app.app-usdai.icu
 app-wardenecosystem.icu
 app-xaman.icu
@@ -72710,7 +72706,7 @@ appsvirtuals.icu
 app.arbtirum.icu
 arc-ecosystem.icu
 arcas.icu
-community.arcecosystem.icu
+arcecosystem.icu
 community.arcecosystems.icu
 arcportal.icu
 arcuis.icu
@@ -73059,6 +73055,7 @@ governance-ascendlaunch.icu
 governance-concrete.icu
 governance-curvefinance.icu
 governance-deltaliquidity.icu
+governance-enterforever.icu
 governance-eqxlabs.icu
 governance-ethenafi.icu
 governance-etherfi.icu
@@ -73087,8 +73084,10 @@ governance-orbio.icu
 governance-otcdesks.icu
 governance-papertradexyz.icu
 governance-plasma.icu
+governance-pons.icu
 governance-ponsfamily.icu
 governance-pools.icu
+governance-predict.icu
 governance-priorstrade.icu
 governance-prjx.icu
 governance-raacfi.icu
@@ -73101,6 +73100,7 @@ governance-stonkbrokers.icu
 governance-themutual.icu
 governance-torch.icu
 governance-torchpad.icu
+governance-treadfi.icu
 governance-umiafinance.icu
 governance-up33.icu
 governance-usdai.icu
@@ -73397,7 +73397,7 @@ pay-travla.icu
 paycards.icu
 payueimu.icu
 pendle-ecosystem.icu
-governance.pendle-rewards.icu
+pendle-rewards.icu
 pendle-staking.icu
 app.pendlefinance.icu
 pendlefoundation.icu
@@ -73448,6 +73448,7 @@ proposal-derive.icu
 proposal-embervalegame.icu
 proposal-fablesfi.icu
 proposal-flarenetwork.icu
+proposal-flarenetworks.icu
 proposal-hookrfun.icu
 proposal-kinetiq.icu
 proposal-metric.icu
@@ -73469,6 +73470,7 @@ proposals-aave.icu
 proposals-aero.icu
 proposals-argus.icu
 proposals-ethenafi.icu
+proposals-flarenetwork.icu
 proposals-stable.icu
 proposals-xstocks.icu
 proposals-zama.icu
@@ -73519,8 +73521,9 @@ rewards-aave.icu
 rewards-access.icu
 rewards-concrete.icu
 rewards-concretefoundation.icu
-season5.rewards-etherfi.icu
+rewards-etherfi.icu
 rewards-firelight.icu
+rewards-flarenetwork.icu
 rewards-jup-ag.icu
 rewards-lookup.icu
 rewards-plasma.icu
@@ -74307,6 +74310,7 @@ anyonefnd.info
 anzaskr.info
 apestore.info
 app-argus.info
+app-fables.info
 app-firelight.info
 app-fluid.info
 app-hype.info
@@ -80362,6 +80366,7 @@ flare--network.lat
 flare-foundations.lat
 flare-network.lat
 flare-networks.lat
+flarefnd.lat
 flarenetwokrs.lat
 flarenetwork.lat
 flarenetworks.lat
@@ -81805,6 +81810,7 @@ exo-dus-wallt.live
 exohubextension.live
 expertmarketpro.live
 pumpstreams.expl.live
+fables-update.live
 farmtown.live
 fassetcard.live
 fastearnwithletterswriting.live
@@ -84063,6 +84069,7 @@ plasma-allocations.lol
 plasma-enroll.lol
 plasma-rewards.lol
 plasma-staking.lol
+plasmafoundation.lol
 playbiscotti.lol
 points-gifts.lol
 polyclaude.lol
@@ -85177,7 +85184,6 @@ a-m-l-scan.net
 a1-kraken.net
 aaaventures.net
 aave-checker.net
-aave-portals.net
 aave-recover.net
 aavebase.net
 aaves.net
@@ -95976,6 +95982,7 @@ spcxmeme.sbs
 squidrouter.sbs
 ss-trustwallet.sbs
 ss-v3.sbs
+stake-lido.sbs
 starbucksevent.sbs
 starknetbtc.sbs
 starknetss.sbs
@@ -96163,6 +96170,7 @@ virtualsvote.sbs
 virtualwalletcard.sbs
 vote-etherfi.sbs
 vote-frax.sbs
+vote-predictfun.sbs
 vote-termmax.sbs
 vote-xaman.sbs
 vote-zipcoin.sbs
@@ -96837,6 +96845,7 @@ app-moonwell.site
 app-moonwellfi.site
 app-morpho.site
 app-ondo-finance.site
+app-ponsecosystem.site
 app-smartchalngpt.site
 appcasei.site
 appflarexrp.site
@@ -97111,6 +97120,7 @@ kaufen-645327.site
 kavino.site
 keepass.site
 keepssxc.site
+kinetiqfnd.site
 kintetiqfndn.site
 knight-owl-call-4e8b2d.site
 ksi-online-bonus.site
@@ -99555,11 +99565,14 @@ app-moonwellfi.top
 app-movemoney.top
 app-multipliecosystem.top
 app-notepad-plus-plus-v1.top
+app-onyxecosystem.top
 app-pendle.top
 app-pendlefinance.top
-app.app-ponsecosystem.top
+app-ponsecosystem.top
 app-saturn.top
-app.app-umiaecosystem.top
+app-umiaecosystem.top
+app-usdai.top
+app-wardenecosystem.top
 app-yieldbasis.top
 governance.app-yieldfields.top
 app-zama.top
@@ -99722,6 +99735,7 @@ br5ve.top
 bravee.top
 bright-cloud-world.top
 btadoms.top
+btc-eligibility.top
 h5.btc0288.top
 btc1inch.top
 btcpayment-cashapp.top
@@ -99939,7 +99953,7 @@ dedexvps.top
 defend1vip.top
 defi-exchange.top
 degen-rewards.top
-governance.deltaliquidity.top
+deltaliquidity.top
 deribitex.top
 deribitus.top
 derip.top
@@ -100059,6 +100073,7 @@ ethkit.top
 ethlab.top
 ethstudio.top
 eti-qulickpay.top
+event-eligibility.top
 event-firelight.top
 events-firelight.top
 ex-plotio.top
@@ -100078,6 +100093,7 @@ ezoom.top
 f2ber.top
 f4ith.top
 f7wzz0om.top
+fablesfiofficial.top
 fackgo.top
 faergth.top
 falconcoin.top
@@ -100159,6 +100175,7 @@ fluxch.top
 fnlive.top
 fomo-family.top
 fomo-listings.top
+fomo-rewards.top
 forabet.top
 formsushi.top
 fortbys.top
@@ -100243,8 +100260,10 @@ gov-ramses.top
 gov-solsticefinance.top
 gov-zipcoin.top
 governance-arc.top
+governance-ascendlaunch.top
 governance-firelight.top
 governance-flare-network.top
+governance-flarenetworks.top
 governance-mantle.top
 governance-plasma.top
 governance-ponsfamily.top
@@ -100612,7 +100631,7 @@ moonslogin.top
 moonwell-vote.top
 app.morpho-org.top
 morphocoin.top
-allocation.morphofdn.top
+morphofdn.top
 morphos.top
 movement-reward.top
 movemoney.top
@@ -100793,7 +100812,7 @@ polymarketapp.top
 polytmarket.top
 ponfamily.top
 ponsdotfams.top
-app.ponsecosystem.top
+ponsecosystem.top
 ponsfamily.top
 ponsfcmly.top
 ponsfi.top
@@ -100932,7 +100951,7 @@ revodefi1.top
 reward-foundation.top
 reward-foundation2025.top
 reward-morpho.top
-season5.rewards-etherfi.top
+rewards-etherfi.top
 rewards-firelight.top
 rewards-morpho.top
 rewards-my.top
@@ -102315,7 +102334,6 @@ cueceu.us
 customerreward.us
 customerrewards.us
 dantelabs.us
-dashboard-aave.us
 defiswap.us
 defri.us
 demfy.us
@@ -102835,6 +102853,7 @@ wordlibertyfinance.us
 workspace-zoommeeting.us
 workspace-zoomsession.us
 worldlibertyfi.us
+wormhole-foundation.us
 ww0.us
 www-cloud-support.us
 www-login-encontrarcol.us
@@ -104258,7 +104277,6 @@ aagyu.xyz
 aave-compensate.xyz
 aave-compensation.xyz
 aave-core.xyz
-aave-eligibility.xyz
 aave-governance.xyz
 aave-paperwalet.xyz
 aave-payments.xyz
@@ -104769,6 +104787,7 @@ app-nexus.xyz
 app-northstake.xyz
 app-ondofinance.xyz
 app-ondoperps.xyz
+app-onyxecosystem.xyz
 app-osero.xyz
 app-paperfoundation.xyz
 app-papertrade.xyz
@@ -104777,6 +104796,7 @@ app-pendlefinance.xyz
 app-piggybank.xyz
 app-plasmaecosystem.xyz
 app-polarisfinance.xyz
+app-ponsecosystem.xyz
 app-ponsfamily.xyz
 app-pools.xyz
 app-propr.xyz
@@ -108024,6 +108044,7 @@ kinetiq-rewards.xyz
 kinetiq-shareholders.xyz
 kinetiq-snapshot.xyz
 kinetiq-snapshots.xyz
+kinetiq-staking.xyz
 kinetiq-stakings.xyz
 kinetiq-vote.xyz
 kinetiq-votings.xyz
@@ -111533,10 +111554,8 @@ usepaidtokens.xyz
 usepaidvault.xyz
 usepaidvote.xyz
 usepaidvotes.xyz
-user-aave.xyz
 user-cashmere.xyz
 user-guild.xyz
-users-aave.xyz
 users-cashmere.xyz
 users-flarenetwork.xyz
 users-megaeth.xyz
@@ -111577,9 +111596,7 @@ useyapvoting.xyz
 useyapvotings.xyz
 ustokins.xyz
 v-usdai.xyz
-v1-aave.xyz
 v1-d2.xyz
-v2-aave.xyz
 v2-flop.xyz
 v2-ihujs3.xyz
 v2-jb1asj.xyz
@@ -111589,7 +111606,6 @@ v3-guild.xyz
 v3-nra7sr.xyz
 v3-uyu5ff.xyz
 v3aave.xyz
-v4-aave.xyz
 v4-d2.xyz
 rabby-wallet.v4-oi1a8.xyz
 validator-hyperfoundation.xyz

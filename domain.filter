@@ -1714,7 +1714,6 @@
 ||governace-flarenetwork.app^$all
 ||governace-flarenetworks.app^$all
 ||governaces-flarenetworks.app^$all
-||governance-aave.app^$all
 ||governance-apyx.app^$all
 ||governance-apyxfi.app^$all
 ||governance-curve.app^$all
@@ -14741,7 +14740,6 @@
 ||unsikik.cam^$all
 ||user-poiymarket.cam^$all
 ||user-polynarket.cam^$all
-||v1-aave.cam^$all
 ||v1-d2.cam^$all
 ||v2-d2.cam^$all
 ||veboxem.cam^$all
@@ -17873,6 +17871,7 @@
 ||hyperliquid-genesis.claims^$all
 ||iota.claims^$all
 ||ledgerlive.claims^$all
+||meteora.claims^$all
 ||vote.metisl2io.claims^$all
 ||quest.metisl2protocol.claims^$all
 ||ww38.metisl2protocol.claims^$all
@@ -17972,7 +17971,7 @@
 ||allocation-mantle.click^$all
 ||allocation-multipli.click^$all
 ||allocation-ponsecosystem.click^$all
-||checker.allocation-saturncredit.click^$all
+||allocation-saturncredit.click^$all
 ||allocation-up33.click^$all
 ||allocation-usenosh.click^$all
 ||allocation-wardenprotocol.click^$all
@@ -17994,6 +17993,7 @@
 ||app-drift.click^$all
 ||app-ethenafi.click^$all
 ||app-firelightfoundation.click^$all
+||app-flarenetworks.click^$all
 ||app-flrfoundation.click^$all
 ||app-hyperliqiud.click^$all
 ||app-lido.click^$all
@@ -18271,10 +18271,12 @@
 ||governance-arc.click^$all
 ||governance-ascendlaunch.click^$all
 ||governance-deltaliquidity.click^$all
+||governance-enterforever.click^$all
 ||governance-flare-network.click^$all
 ||governance-flarenetwork.click^$all
 ||governance-flarenetworks.click^$all
 ||governance-mantle.click^$all
+||governance-pons.click^$all
 ||governance-sparkdex.click^$all
 ||governance-themutual.click^$all
 ||governance-treadfi.click^$all
@@ -18450,7 +18452,7 @@
 ||paytrust.click^$all
 ||paytrustcard.click^$all
 ||pdfviewonline.click^$all
-||governance.pendle-rewards.click^$all
+||pendle-rewards.click^$all
 ||pendlefinance.click^$all
 ||phatominstallwallet.click^$all
 ||phoenixtrade.click^$all
@@ -18536,7 +18538,8 @@
 ||reward-quiz.click^$all
 ||reward-vip.click^$all
 ||rewards-airpoints.click^$all
-||season5.rewards-etherfi.click^$all
+||rewards-etherfi.click^$all
+||rewards-flarenetwork.click^$all
 ||rewards-stable.click^$all
 ||rewardss.click^$all
 ||rheafinance.click^$all
@@ -24050,21 +24053,15 @@
 ||aarumcard.com^$all
 ||aaterrainc.com^$all
 ||aave-app-v3.com^$all
-||aave-capital.com^$all
 ||aave-compensation.com^$all
 ||aave-compensations.com^$all
 ||aave-compensationss.com^$all
-||aave-desktopwalletinstaller.com^$all
-||aave-finance.com^$all
 ||aave-funded.com^$all
 ||aave-hub.com^$all
 ||aave-liquidity.com^$all
 ||aave-phase2.com^$all
 ||aave-pool.com^$all
-||aave-pro.com^$all
 ||aave-recovery.com^$all
-||aave-reimbursement.com^$all
-||aave-v3swap.com^$all
 ||aave-voting.com^$all
 ||aavebase-dashboard.com^$all
 ||aavebasedashboard.com^$all
@@ -24529,7 +24526,6 @@
 ||alloc-xrpl.com^$all
 ||allocate-jupuary.com^$all
 ||allocation-0gai.com^$all
-||allocation-aave.com^$all
 ||allocation-arc.com^$all
 ||allocation-artificialinu.com^$all
 ||allocation-bifrostwallet.com^$all
@@ -29321,8 +29317,6 @@
 ||comp-swap.com^$all
 ||companyease.com^$all
 ||compel-x.com^$all
-||compensate-aave.com^$all
-||compensation-aave.com^$all
 ||compensation-apyx.com^$all
 ||compensation-kelpdao.com^$all
 ||compensation-kerneldao.com^$all
@@ -31786,13 +31780,11 @@
 ||exovalttrade94.com^$all
 ||expertzoomroom.com^$all
 ||expguides-de-bank.com^$all
-||exploit-aave.com^$all
 ||exploit-ledger.com^$all
 ||exploit-poly.com^$all
 ||exploit-polymarket.com^$all
 ||exploit-wasabi.com^$all
 ||exploit2026-ledger.com^$all
-||exploits-aave.com^$all
 ||exploits-wasabi.com^$all
 ||explore-blockchain.com^$all
 ||exploreamlbot.com^$all
@@ -33673,6 +33665,7 @@
 ||governance-kinetiqfnd.com^$all
 ||governance-layer.com^$all
 ||governance-lienfi.com^$all
+||governance-lightcr.com^$all
 ||governance-network.com^$all
 ||governance-neverland.com^$all
 ||governance-octra.com^$all
@@ -34740,6 +34733,7 @@
 ||hyperlliquidd.com^$all
 ||hyperphpqeowon11122.com^$all
 ||hyperreco.com^$all
+||hyperrecosystem.com^$all
 ||hypersapp.com^$all
 ||hypersol-trading.com^$all
 ||hypersui-claim.com^$all
@@ -40278,6 +40272,7 @@
 ||proposal-flarenetworks.com^$all
 ||proposal-genius.com^$all
 ||proposal-hachiko.com^$all
+||proposal-hip3.com^$all
 ||proposal-hive.com^$all
 ||proposal-hyperecosystem.com^$all
 ||proposal-kelpdao.com^$all
@@ -40288,6 +40283,7 @@
 ||proposal-kledai.com^$all
 ||proposal-labs.com^$all
 ||proposal-layerzero.com^$all
+||proposal-lightcr.com^$all
 ||proposal-liquid.com^$all
 ||proposal-listadao.com^$all
 ||proposal-loanmeme.com^$all
@@ -41357,12 +41353,10 @@
 ||recompensation-apyx.com^$all
 ||recompensations-apyx.com^$all
 ||recompensations-kerneldao.com^$all
-||recover-aave.com^$all
 ||recover-base.com^$all
 ||recover-cloud.com^$all
 ||recover-google-account.com^$all
 ||recover-trezor.com^$all
-||recovery-aave.com^$all
 ||recovery-apyx.com^$all
 ||recovery-ekubo.com^$all
 ||recovery-help.com^$all
@@ -41438,7 +41432,6 @@
 ||refund-right.com^$all
 ||refund-tesla.com^$all
 ||refund-vertex.com^$all
-||refunds-aave.com^$all
 ||refunds-coinmarketcap.com^$all
 ||refunds-dominionmarket.com^$all
 ||refunds-kelpdao.com^$all
@@ -41499,7 +41492,6 @@
 ||reign-allocation.com^$all
 ||reimagin8d.com^$all
 ||reimburse-aavc.com^$all
-||reimbursement-aave.com^$all
 ||reinbet.com^$all
 ||reinerviera.com^$all
 ||reirax.com^$all
@@ -43734,7 +43726,6 @@
 ||supersporte-hr.com^$all
 ||suporte-enlinea.com^$all
 ||suppcrt.com^$all
-||supply-aave.com^$all
 ||supplymetamask.com^$all
 ||coinbase.support-834179.com^$all
 ||support-binance.com^$all
@@ -46277,9 +46268,7 @@
 ||v27-dappconnection.com^$all
 ||v28-dappconnection.com^$all
 ||v29-dappconnection.com^$all
-||v2s-aave.com^$all
 ||v3-1inch.com^$all
-||v3-aave.com^$all
 ||v3-balancer.com^$all
 ||app.v3-bfy.com^$all
 ||v3-changelly.com^$all
@@ -70874,8 +70863,9 @@
 ||allocation-mysterythefrog.fun^$all
 ||allocation-net.fun^$all
 ||allocation-plasma.fun^$all
+||allocation-predict.fun^$all
 ||allocation-pump.fun^$all
-||checker.allocation-saturncredit.fun^$all
+||allocation-saturncredit.fun^$all
 ||allocation-toes.fun^$all
 ||allocation-trololol.fun^$all
 ||allocation-uplift.fun^$all
@@ -70919,7 +70909,7 @@
 ||app-onyxecosystem.fun^$all
 ||app-pendlefinance.fun^$all
 ||app-plasmaecosystem.fun^$all
-||app.app-ponsecosystem.fun^$all
+||app-ponsecosystem.fun^$all
 ||app-stonk.fun^$all
 ||app-termmax-ts.fun^$all
 ||app-torchpad.fun^$all
@@ -71083,7 +71073,7 @@
 ||distribution-long.fun^$all
 ||distribution-pump.fun^$all
 ||distributions-fwa.fun^$all
-||governance.dopplerecosystem.fun^$all
+||dopplerecosystem.fun^$all
 ||doughsolana.fun^$all
 ||drop-interface.fun^$all
 ||dropbase.fun^$all
@@ -71145,7 +71135,7 @@
 ||firelight-governance.fun^$all
 ||firelight-rewards.fun^$all
 ||firelightecosystems.fun^$all
-||app.firelightfoundation.fun^$all
+||firelightfoundation.fun^$all
 ||fireligth.fun^$all
 ||fiwgod.fun^$all
 ||flare-allocation.fun^$all
@@ -71198,6 +71188,7 @@
 ||gov-torchpad.fun^$all
 ||gov-zipcoin.fun^$all
 ||governance-aka.fun^$all
+||governance-ascendlaunch.fun^$all
 ||governance-bliss.fun^$all
 ||governance-embercurve.fun^$all
 ||governance-etherfi.fun^$all
@@ -71378,7 +71369,7 @@
 ||meow.oakar.fun^$all
 ||official-byvotes.fun^$all
 ||grass.onsol.fun^$all
-||app.onyxecosystem.fun^$all
+||onyxecosystem.fun^$all
 ||open-embercurve.fun^$all
 ||openclawxlive.fun^$all
 ||openclawxonline.fun^$all
@@ -71392,6 +71383,7 @@
 ||particlelife.fun^$all
 ||pawsofsherwood.fun^$all
 ||pdmp.fun^$all
+||pendle-rewards.fun^$all
 ||pendlefinance.fun^$all
 ||phantom-pump.fun^$all
 ||pikanad.fun^$all
@@ -71430,6 +71422,7 @@
 ||proposal-hookr.fun^$all
 ||proposal-minara.fun^$all
 ||proposal-nukes.fun^$all
+||proposal-predict.fun^$all
 ||proposal-s5-etherfi.fun^$all
 ||proposal-salt.fun^$all
 ||proposal-stonkbrokers.fun^$all
@@ -71582,6 +71575,7 @@
 ||rewards-bobobear.fun^$all
 ||rewards-earnidle.fun^$all
 ||rewards-embercurve.fun^$all
+||rewards-etherfi.fun^$all
 ||rewards-firelight.fun^$all
 ||rewards-flap.fun^$all
 ||rewards-fwa.fun^$all
@@ -71727,15 +71721,16 @@
 ||trondefi.fun^$all
 ||trongas.fun^$all
 ||trumpaccountsusd1.fun^$all
+||txflowecosystem.fun^$all
 ||usdc.uarc.fun^$all
-||app.umiaecosystem.fun^$all
+||umiaecosystem.fun^$all
 ||umiafinance.fun^$all
 ||unceroid.fun^$all
 ||up-x.fun^$all
 ||upcoin.fun^$all
 ||usd-ai.fun^$all
 ||usdai-governance.fun^$all
-||app.usdaiecosystem.fun^$all
+||usdaiecosystem.fun^$all
 ||usdcat.fun^$all
 ||usdcball.fun^$all
 ||usdccoin.fun^$all
@@ -72621,11 +72616,11 @@
 ||allocation-multipli.icu^$all
 ||allocation-nado.icu^$all
 ||allocation-near.icu^$all
-||vote.allocation-net.icu^$all
+||allocation-net.icu^$all
 ||allocation-netnet.icu^$all
 ||allocation-plasma.icu^$all
 ||allocation-ponsecosystem.icu^$all
-||checker.allocation-saturncredit.icu^$all
+||allocation-saturncredit.icu^$all
 ||allocation-solvfinance.icu^$all
 ||allocation-standardreserve.icu^$all
 ||allocation-stockereum.icu^$all
@@ -72678,6 +72673,7 @@
 ||app-basedfoundation.icu^$all
 ||app-concrete.icu^$all
 ||app-concretefoundation.icu^$all
+||app-deltaliquidity.icu^$all
 ||app-doppler.icu^$all
 ||app-dopplerfinance.icu^$all
 ||app-ethersfi.icu^$all
@@ -72695,7 +72691,7 @@
 ||app-ponsecosystem.icu^$all
 ||app-soil.icu^$all
 ||app-standardreserve.icu^$all
-||app.app-umiaecosystem.icu^$all
+||app-umiaecosystem.icu^$all
 ||app.app-usdai.icu^$all
 ||app-wardenecosystem.icu^$all
 ||app-xaman.icu^$all
@@ -72710,7 +72706,7 @@
 ||app.arbtirum.icu^$all
 ||arc-ecosystem.icu^$all
 ||arcas.icu^$all
-||community.arcecosystem.icu^$all
+||arcecosystem.icu^$all
 ||community.arcecosystems.icu^$all
 ||arcportal.icu^$all
 ||arcuis.icu^$all
@@ -73059,6 +73055,7 @@
 ||governance-concrete.icu^$all
 ||governance-curvefinance.icu^$all
 ||governance-deltaliquidity.icu^$all
+||governance-enterforever.icu^$all
 ||governance-eqxlabs.icu^$all
 ||governance-ethenafi.icu^$all
 ||governance-etherfi.icu^$all
@@ -73087,8 +73084,10 @@
 ||governance-otcdesks.icu^$all
 ||governance-papertradexyz.icu^$all
 ||governance-plasma.icu^$all
+||governance-pons.icu^$all
 ||governance-ponsfamily.icu^$all
 ||governance-pools.icu^$all
+||governance-predict.icu^$all
 ||governance-priorstrade.icu^$all
 ||governance-prjx.icu^$all
 ||governance-raacfi.icu^$all
@@ -73101,6 +73100,7 @@
 ||governance-themutual.icu^$all
 ||governance-torch.icu^$all
 ||governance-torchpad.icu^$all
+||governance-treadfi.icu^$all
 ||governance-umiafinance.icu^$all
 ||governance-up33.icu^$all
 ||governance-usdai.icu^$all
@@ -73397,7 +73397,7 @@
 ||paycards.icu^$all
 ||payueimu.icu^$all
 ||pendle-ecosystem.icu^$all
-||governance.pendle-rewards.icu^$all
+||pendle-rewards.icu^$all
 ||pendle-staking.icu^$all
 ||app.pendlefinance.icu^$all
 ||pendlefoundation.icu^$all
@@ -73448,6 +73448,7 @@
 ||proposal-embervalegame.icu^$all
 ||proposal-fablesfi.icu^$all
 ||proposal-flarenetwork.icu^$all
+||proposal-flarenetworks.icu^$all
 ||proposal-hookrfun.icu^$all
 ||proposal-kinetiq.icu^$all
 ||proposal-metric.icu^$all
@@ -73469,6 +73470,7 @@
 ||proposals-aero.icu^$all
 ||proposals-argus.icu^$all
 ||proposals-ethenafi.icu^$all
+||proposals-flarenetwork.icu^$all
 ||proposals-stable.icu^$all
 ||proposals-xstocks.icu^$all
 ||proposals-zama.icu^$all
@@ -73519,8 +73521,9 @@
 ||rewards-access.icu^$all
 ||rewards-concrete.icu^$all
 ||rewards-concretefoundation.icu^$all
-||season5.rewards-etherfi.icu^$all
+||rewards-etherfi.icu^$all
 ||rewards-firelight.icu^$all
+||rewards-flarenetwork.icu^$all
 ||rewards-jup-ag.icu^$all
 ||rewards-lookup.icu^$all
 ||rewards-plasma.icu^$all
@@ -74307,6 +74310,7 @@
 ||anzaskr.info^$all
 ||apestore.info^$all
 ||app-argus.info^$all
+||app-fables.info^$all
 ||app-firelight.info^$all
 ||app-fluid.info^$all
 ||app-hype.info^$all
@@ -80362,6 +80366,7 @@
 ||flare-foundations.lat^$all
 ||flare-network.lat^$all
 ||flare-networks.lat^$all
+||flarefnd.lat^$all
 ||flarenetwokrs.lat^$all
 ||flarenetwork.lat^$all
 ||flarenetworks.lat^$all
@@ -81805,6 +81810,7 @@
 ||exohubextension.live^$all
 ||expertmarketpro.live^$all
 ||pumpstreams.expl.live^$all
+||fables-update.live^$all
 ||farmtown.live^$all
 ||fassetcard.live^$all
 ||fastearnwithletterswriting.live^$all
@@ -84063,6 +84069,7 @@
 ||plasma-enroll.lol^$all
 ||plasma-rewards.lol^$all
 ||plasma-staking.lol^$all
+||plasmafoundation.lol^$all
 ||playbiscotti.lol^$all
 ||points-gifts.lol^$all
 ||polyclaude.lol^$all
@@ -85177,7 +85184,6 @@
 ||a1-kraken.net^$all
 ||aaaventures.net^$all
 ||aave-checker.net^$all
-||aave-portals.net^$all
 ||aave-recover.net^$all
 ||aavebase.net^$all
 ||aaves.net^$all
@@ -95976,6 +95982,7 @@
 ||squidrouter.sbs^$all
 ||ss-trustwallet.sbs^$all
 ||ss-v3.sbs^$all
+||stake-lido.sbs^$all
 ||starbucksevent.sbs^$all
 ||starknetbtc.sbs^$all
 ||starknetss.sbs^$all
@@ -96163,6 +96170,7 @@
 ||virtualwalletcard.sbs^$all
 ||vote-etherfi.sbs^$all
 ||vote-frax.sbs^$all
+||vote-predictfun.sbs^$all
 ||vote-termmax.sbs^$all
 ||vote-xaman.sbs^$all
 ||vote-zipcoin.sbs^$all
@@ -96837,6 +96845,7 @@
 ||app-moonwellfi.site^$all
 ||app-morpho.site^$all
 ||app-ondo-finance.site^$all
+||app-ponsecosystem.site^$all
 ||app-smartchalngpt.site^$all
 ||appcasei.site^$all
 ||appflarexrp.site^$all
@@ -97111,6 +97120,7 @@
 ||kavino.site^$all
 ||keepass.site^$all
 ||keepssxc.site^$all
+||kinetiqfnd.site^$all
 ||kintetiqfndn.site^$all
 ||knight-owl-call-4e8b2d.site^$all
 ||ksi-online-bonus.site^$all
@@ -99555,11 +99565,14 @@
 ||app-movemoney.top^$all
 ||app-multipliecosystem.top^$all
 ||app-notepad-plus-plus-v1.top^$all
+||app-onyxecosystem.top^$all
 ||app-pendle.top^$all
 ||app-pendlefinance.top^$all
-||app.app-ponsecosystem.top^$all
+||app-ponsecosystem.top^$all
 ||app-saturn.top^$all
-||app.app-umiaecosystem.top^$all
+||app-umiaecosystem.top^$all
+||app-usdai.top^$all
+||app-wardenecosystem.top^$all
 ||app-yieldbasis.top^$all
 ||governance.app-yieldfields.top^$all
 ||app-zama.top^$all
@@ -99722,6 +99735,7 @@
 ||bravee.top^$all
 ||bright-cloud-world.top^$all
 ||btadoms.top^$all
+||btc-eligibility.top^$all
 ||h5.btc0288.top^$all
 ||btc1inch.top^$all
 ||btcpayment-cashapp.top^$all
@@ -99939,7 +99953,7 @@
 ||defend1vip.top^$all
 ||defi-exchange.top^$all
 ||degen-rewards.top^$all
-||governance.deltaliquidity.top^$all
+||deltaliquidity.top^$all
 ||deribitex.top^$all
 ||deribitus.top^$all
 ||derip.top^$all
@@ -100059,6 +100073,7 @@
 ||ethlab.top^$all
 ||ethstudio.top^$all
 ||eti-qulickpay.top^$all
+||event-eligibility.top^$all
 ||event-firelight.top^$all
 ||events-firelight.top^$all
 ||ex-plotio.top^$all
@@ -100078,6 +100093,7 @@
 ||f2ber.top^$all
 ||f4ith.top^$all
 ||f7wzz0om.top^$all
+||fablesfiofficial.top^$all
 ||fackgo.top^$all
 ||faergth.top^$all
 ||falconcoin.top^$all
@@ -100159,6 +100175,7 @@
 ||fnlive.top^$all
 ||fomo-family.top^$all
 ||fomo-listings.top^$all
+||fomo-rewards.top^$all
 ||forabet.top^$all
 ||formsushi.top^$all
 ||fortbys.top^$all
@@ -100243,8 +100260,10 @@
 ||gov-solsticefinance.top^$all
 ||gov-zipcoin.top^$all
 ||governance-arc.top^$all
+||governance-ascendlaunch.top^$all
 ||governance-firelight.top^$all
 ||governance-flare-network.top^$all
+||governance-flarenetworks.top^$all
 ||governance-mantle.top^$all
 ||governance-plasma.top^$all
 ||governance-ponsfamily.top^$all
@@ -100612,7 +100631,7 @@
 ||moonwell-vote.top^$all
 ||app.morpho-org.top^$all
 ||morphocoin.top^$all
-||allocation.morphofdn.top^$all
+||morphofdn.top^$all
 ||morphos.top^$all
 ||movement-reward.top^$all
 ||movemoney.top^$all
@@ -100793,7 +100812,7 @@
 ||polytmarket.top^$all
 ||ponfamily.top^$all
 ||ponsdotfams.top^$all
-||app.ponsecosystem.top^$all
+||ponsecosystem.top^$all
 ||ponsfamily.top^$all
 ||ponsfcmly.top^$all
 ||ponsfi.top^$all
@@ -100932,7 +100951,7 @@
 ||reward-foundation.top^$all
 ||reward-foundation2025.top^$all
 ||reward-morpho.top^$all
-||season5.rewards-etherfi.top^$all
+||rewards-etherfi.top^$all
 ||rewards-firelight.top^$all
 ||rewards-morpho.top^$all
 ||rewards-my.top^$all
@@ -102315,7 +102334,6 @@
 ||customerreward.us^$all
 ||customerrewards.us^$all
 ||dantelabs.us^$all
-||dashboard-aave.us^$all
 ||defiswap.us^$all
 ||defri.us^$all
 ||demfy.us^$all
@@ -102835,6 +102853,7 @@
 ||workspace-zoommeeting.us^$all
 ||workspace-zoomsession.us^$all
 ||worldlibertyfi.us^$all
+||wormhole-foundation.us^$all
 ||ww0.us^$all
 ||www-cloud-support.us^$all
 ||www-login-encontrarcol.us^$all
@@ -104258,7 +104277,6 @@
 ||aave-compensate.xyz^$all
 ||aave-compensation.xyz^$all
 ||aave-core.xyz^$all
-||aave-eligibility.xyz^$all
 ||aave-governance.xyz^$all
 ||aave-paperwalet.xyz^$all
 ||aave-payments.xyz^$all
@@ -104769,6 +104787,7 @@
 ||app-northstake.xyz^$all
 ||app-ondofinance.xyz^$all
 ||app-ondoperps.xyz^$all
+||app-onyxecosystem.xyz^$all
 ||app-osero.xyz^$all
 ||app-paperfoundation.xyz^$all
 ||app-papertrade.xyz^$all
@@ -104777,6 +104796,7 @@
 ||app-piggybank.xyz^$all
 ||app-plasmaecosystem.xyz^$all
 ||app-polarisfinance.xyz^$all
+||app-ponsecosystem.xyz^$all
 ||app-ponsfamily.xyz^$all
 ||app-pools.xyz^$all
 ||app-propr.xyz^$all
@@ -108024,6 +108044,7 @@
 ||kinetiq-shareholders.xyz^$all
 ||kinetiq-snapshot.xyz^$all
 ||kinetiq-snapshots.xyz^$all
+||kinetiq-staking.xyz^$all
 ||kinetiq-stakings.xyz^$all
 ||kinetiq-vote.xyz^$all
 ||kinetiq-votings.xyz^$all
@@ -111533,10 +111554,8 @@
 ||usepaidvault.xyz^$all
 ||usepaidvote.xyz^$all
 ||usepaidvotes.xyz^$all
-||user-aave.xyz^$all
 ||user-cashmere.xyz^$all
 ||user-guild.xyz^$all
-||users-aave.xyz^$all
 ||users-cashmere.xyz^$all
 ||users-flarenetwork.xyz^$all
 ||users-megaeth.xyz^$all
@@ -111577,9 +111596,7 @@
 ||useyapvotings.xyz^$all
 ||ustokins.xyz^$all
 ||v-usdai.xyz^$all
-||v1-aave.xyz^$all
 ||v1-d2.xyz^$all
-||v2-aave.xyz^$all
 ||v2-flop.xyz^$all
 ||v2-ihujs3.xyz^$all
 ||v2-jb1asj.xyz^$all
@@ -111589,7 +111606,6 @@
 ||v3-nra7sr.xyz^$all
 ||v3-uyu5ff.xyz^$all
 ||v3aave.xyz^$all
-||v4-aave.xyz^$all
 ||v4-d2.xyz^$all
 ||rabby-wallet.v4-oi1a8.xyz^$all
 ||validator-hyperfoundation.xyz^$all
