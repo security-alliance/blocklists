@@ -1489,7 +1489,6 @@ coinbase-securedwithdrawal-fthzzbzyg7.edgeone.app
 echo-os-dpsg5vbom90h.edgeone.app
 echo-os2-dpod45gkramj.edgeone.app
 smooth-rose-ykvsmcdjmu-oikpzq7x9o.edgeone.app
-wise-violet-6tgyh9mtaj-789nui1429.edgeone.app
 edgex-exchange.app
 eggonhype.app
 ekubo.app
