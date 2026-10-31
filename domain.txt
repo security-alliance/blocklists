@@ -16173,7 +16173,6 @@ solledger.cc
 solmap.cc
 solmesh.cc
 solmonkey.cc
-solnest.cc
 solnew.cc
 solpayd.cc
 solplex.cc

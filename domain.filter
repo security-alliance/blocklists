@@ -16173,7 +16173,6 @@
 ||solmap.cc^$all
 ||solmesh.cc^$all
 ||solmonkey.cc^$all
-||solnest.cc^$all
 ||solnew.cc^$all
 ||solpayd.cc^$all
 ||solplex.cc^$all
