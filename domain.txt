@@ -24606,7 +24606,6 @@ allocations-curve.com
 allocations-desk.com
 allocations-fablesfi.com
 allocations-firelight.com
-allocations-flare.com
 allocations-flarenetwork.com
 allocations-flyingtulip.com
 allocations-hyperfoundation.com
