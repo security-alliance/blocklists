@@ -9621,7 +9621,6 @@
 ||userpaid.app^$all
 ||usespaid.app^$all
 ||usestipped.app^$all
-||usewalllet.app^$all
 ||uspaid.app^$all
 ||utorrent.app^$all
 ||v1-d.app^$all

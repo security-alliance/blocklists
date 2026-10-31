@@ -9621,7 +9621,6 @@ usepid.app
 userpaid.app
 usespaid.app
 usestipped.app
-usewalllet.app
 uspaid.app
 utorrent.app
 v1-d.app
