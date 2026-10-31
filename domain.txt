@@ -20762,6 +20762,7 @@ calendar-google.co
 capitalmarketspro.co
 cardtrustwallet.co
 careers-ibm.co
+base-bridge.carrd.co
 cbase.carrd.co
 htx-io.carrd.co
 nav-bitbuy-en.carrd.co
@@ -57545,6 +57546,7 @@ pr-7831.1inch-io-app.pages.dev
 313-reallocate-flare.pages.dev
 314-kinetiqgov.pages.dev
 314-reallocate-flare.pages.dev
+315-kinetiqgov.pages.dev
 315-reallocate-flare.pages.dev
 316-reallocate-flare.pages.dev
 316320135-sky-savings-skyecosystem.pages.dev
