@@ -51022,7 +51022,6 @@ rubbyweb.wixstudio.com
 rubbyy-webcdn.wixstudio.com
 rubbyyapps.wixstudio.com
 run-base-extension.wixstudio.com
-run-coiinbase.wixstudio.com
 safe-extension-hub.wixstudio.com
 safe-metamask.wixstudio.com
 safe-metamask-io.wixstudio.com
@@ -51056,7 +51055,6 @@ setup-jaxlibertyapps.wixstudio.com
 setup-jaxxlibertycdn.wixstudio.com
 share-robnhod.wixstudio.com
 sign-kraken.wixstudio.com
-signin-startedapp.wixstudio.com
 simplechnge.wixstudio.com
 simpleswaxchange.wixstudio.com
 smart-ex-odus-ext.wixstudio.com
