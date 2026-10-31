@@ -57471,6 +57471,7 @@ pr-7831.1inch-io-app.pages.dev
 31-gov-concrete.pages.dev
 31-gov-netnetcap.pages.dev
 31-governance-aero.pages.dev
+31-governance-curvefinance.pages.dev
 31-governance-kinetiq.pages.dev
 31-governance-orbio.pages.dev
 31-governance-venice.pages.dev
@@ -58845,6 +58846,7 @@ pr-7831.1inch-io-app.pages.dev
 51-vote-cashmereexchange.pages.dev
 51-vote-papertrade.pages.dev
 510-reallocate-flare.pages.dev
+511-reallocate-flare.pages.dev
 52-0xfluid.pages.dev
 52-allocation-yieldfields.pages.dev
 52-allowlist-ascendlaunch.pages.dev

@@ -57471,6 +57471,7 @@
 ||31-gov-concrete.pages.dev^$all
 ||31-gov-netnetcap.pages.dev^$all
 ||31-governance-aero.pages.dev^$all
+||31-governance-curvefinance.pages.dev^$all
 ||31-governance-kinetiq.pages.dev^$all
 ||31-governance-orbio.pages.dev^$all
 ||31-governance-venice.pages.dev^$all
@@ -58845,6 +58846,7 @@
 ||51-vote-cashmereexchange.pages.dev^$all
 ||51-vote-papertrade.pages.dev^$all
 ||510-reallocate-flare.pages.dev^$all
+||511-reallocate-flare.pages.dev^$all
 ||52-0xfluid.pages.dev^$all
 ||52-allocation-yieldfields.pages.dev^$all
 ||52-allowlist-ascendlaunch.pages.dev^$all
