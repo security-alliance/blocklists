@@ -70244,6 +70244,7 @@ ondoperps.finance
 onod.finance
 onyc.finance
 oondo.finance
+origami.finance
 ow.finance
 pabncakeswap.finance
 pancakeiswap.finance
@@ -90432,6 +90433,7 @@ hibtpor.org
 hifibridge.org
 hifiswap.org
 app.hniswap.org
+app.home-chanlgpt.org
 homegecko.org
 hoodevent.org
 hoodkus.org
