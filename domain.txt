@@ -36913,7 +36913,6 @@ max-coinbase.com
 max-coinbse.com
 maxairtw.com
 maxapp-whatsapp.com
-maxbarkod.com
 maxbets-ro.com
 maxchat-whatsapp.com
 maxcoinbase.com
@@ -45562,7 +45561,6 @@ tzr-tool.com
 u-auth.com
 u-i-connect.com
 u-mirror.com
-u-no-kyc-swap.com
 u-torrent.com
 u2ethereum.com
 u2udefi.com
