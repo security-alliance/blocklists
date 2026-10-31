@@ -32556,7 +32556,6 @@ freedbet.com
 freefilesync.com
 freeqr-codegenerator.com
 freesolairdrop.com
-freesolclaim.com
 freight-ledger.com
 freighterwebwallet.com
 fret-rx.com
@@ -110855,7 +110854,6 @@ solccnet.xyz
 solclaims.xyz
 solcryptospin.xyz
 soldesk.xyz
-soldropy.xyz
 solenpulse.xyz
 solfalls.xyz
 solfen.xyz
