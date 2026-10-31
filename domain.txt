@@ -20363,7 +20363,6 @@ w-bybit.com.cn
 w0-binance.com.cn
 w1-okx.com.cn
 w3-okx.com.cn
-w6-okx.com.cn
 wap-htx.com.cn
 ylk.wdu-okgx.com.cn
 web-dd-whatsapp.com.cn
