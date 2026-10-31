@@ -20996,7 +20996,6 @@ interface-megaeth.co
 io-suite-auth.co
 io-suiteaccess.co
 join-firelight.co
-join-kelpdao.co
 join-megaeth.co
 joinlivemeeting.co
 jointeamsapp.co
@@ -35729,7 +35728,6 @@ keisuke-shiba.com
 kekkonch.com
 kelly-gemini.com
 kelpdao-proposal.com
-kelprecovery.com
 kemocalls.com
 kenda-najd.com
 kendrick-coinbase.com
@@ -39931,7 +39929,6 @@ portal-hyperfoundation.com
 portal-jup.com
 portal-jupiter.com
 portal-keeta.com
-portal-kelpdao.com
 portal-kutxabank.com
 portal-lighter.com
 portal-morpho.com
