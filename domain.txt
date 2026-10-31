@@ -34296,7 +34296,6 @@ helpcoinbase.com
 helpdepartement-x.com
 helpdesk-coinbase.com
 helpdesk-microsoft.com
-helpdesk-support-crypto.com
 helpdesk-trezor.com
 coinbase.helpdeskbase.com
 helpdeskpro-ledger.com
@@ -34966,7 +34965,6 @@ info-spx-6900.com
 info-trezorsuite.com
 info-uniswap.com
 infocoinbasewallet.com
-infodesk-crypto.com
 infodmca-x.com
 infomail-coinbase.com
 infometamask.com
@@ -36009,7 +36007,6 @@ kuailianquick.com
 kubukami.com
 kucoin-airdrop.com
 kucoin-compliance.com
-kucoin-global.com
 kucoin-login.com
 kucoin-withdraw.com
 kucoinblock.com
@@ -42665,7 +42662,6 @@ serviceactivation-google.com
 servicefitzer.com
 servicenow-desk.com
 services-authh.com
-servicing-crypto.com
 servicioslegalesjf.com
 servugamb.com
 sessclone.com
@@ -53395,7 +53391,6 @@ trustwalletsupport.company
 tw-card.company
 ur1.company
 variationalvaults.company
-vrf-chatbot.company
 x-platform.company
 ensou.computer
 speccy.computer
@@ -53926,7 +53921,6 @@ googlemeet.date
 rainbet.date
 tradexyz.date
 xingyuan.date
-airpoints-reward.day
 airspoint-reward.day
 plinko.day
 rewards-airpoint.day
@@ -68693,7 +68687,6 @@ bitgetrro.digital
 bitslot.digital
 blacksbullsol.digital
 blockportal.digital
-bnbprinter.digital
 btcmiami.digital
 bybit-votes.digital
 c8ntinuum.digital
@@ -74347,7 +74340,6 @@ astredex.info
 atomicdex.info
 auth-code-check.info
 auth-id-browser.info
-auth-login.info
 authorization-cdn-press-enter.info
 authorization-code.info
 authorization-code-cdn.info
@@ -81474,7 +81466,6 @@ ch-secure-pay.live
 chainlinkairdrop.live
 chalx.live
 changenow.live
-chatbot-auth.live
 check-monad.live
 check-secure.live
 checker-aave.live
@@ -89535,7 +89526,6 @@ ainftswap.org
 aiobais.org
 airdropsol.org
 airobotwallet.org
-airpoints-reward.org
 airtwt.org
 aitrade-us.org
 alien-base.org
@@ -90120,7 +90110,6 @@ ellipal.org
 ellipalwallet.org
 elmars.org
 eloncas.org
-elvanbit.org
 en-changelly.org
 en-changenow.org
 en-csmoney.org
@@ -99493,7 +99482,6 @@ airdrop001.top
 airdrop002.top
 airdrop003.top
 tac.airdropalert.top
-airpoints-rewards.top
 ajrc6kw.top
 ajus05df.top
 al7ar.top
