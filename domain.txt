@@ -17988,6 +17988,7 @@ app-curve.click
 app-defituna.click
 app-drift.click
 app-ethenafi.click
+app-firelight.click
 app-firelightfoundation.click
 app-flarenetworks.click
 app-flrfoundation.click
