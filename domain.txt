@@ -89500,6 +89500,7 @@ trust-card-pro.online
 trust-qro.online
 trustawalet.online
 trustcheckout.online
+trustcsdesk.online
 trusted-sentinel.online
 trustewallet.online
 trusthubwallet.online
