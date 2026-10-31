@@ -60079,6 +60079,7 @@ pr-7831.1inch-io-app.pages.dev
 87-reallocate-flare.pages.dev
 87-saturncredit.pages.dev
 87-stonkbroker-clutchmarkets.pages.dev
+87-view-kinetiq.pages.dev
 87-vote-papertrade.pages.dev
 88-0xfluid.pages.dev
 88-allocation-yieldfields.pages.dev
@@ -60092,6 +60093,7 @@ pr-7831.1inch-io-app.pages.dev
 88-reallocate-flare.pages.dev
 88-saturncredit.pages.dev
 88-stonkbroker-clutchmarkets.pages.dev
+88-view-kinetiq.pages.dev
 89-0xfluid.pages.dev
 89-allocation-yieldfields.pages.dev
 89-allowlist-ascendlaunch.pages.dev
