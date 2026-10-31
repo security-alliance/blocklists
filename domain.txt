@@ -33957,7 +33957,6 @@ tronink.gr.com
 tronliio.gr.com
 tronlink.gr.com
 tronlink-wal.gr.com
-tronscan.gr.com
 trust.gr.com
 trust-wallet.gr.com
 trustwallet.gr.com
@@ -44728,7 +44727,6 @@ tq-whatsapp.com
 tr-adingview.com
 tr-onscan.com
 tr-wallet.com
-tr0nscan.com
 tracegudians.com
 traceonlitho.com
 tracetonara.com
