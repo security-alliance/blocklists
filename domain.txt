@@ -48513,7 +48513,6 @@ coin-apps-extension.wixstudio.com
 coin-base-apps.wixstudio.com
 coin-base-ext-aoth.wixstudio.com
 coin-base-hub.wixstudio.com
-coin-base-intro.wixstudio.com
 coin-base-wallet.wixstudio.com
 coin-baseapps.wixstudio.com
 coin-extension.wixstudio.com
@@ -48535,7 +48534,6 @@ coinbase-help-index.wixstudio.com
 coinbase-io-exten.wixstudio.com
 coinbase-login0.wixstudio.com
 coinbase-page.wixstudio.com
-coinbase-portal.wixstudio.com
 coinbase-pro-logon.wixstudio.com
 coinbase-ssocdn.wixstudio.com
 coinbase-stared.wixstudio.com
@@ -48626,7 +48624,6 @@ connect-tangam.wixstudio.com
 connect-velodrome.wixstudio.com
 connect-webexedus.wixstudio.com
 connect-zerioncdn.wixstudio.com
-connecthomepage.wixstudio.com
 connectrabbyy-io.wixstudio.com
 connects-base-ext.wixstudio.com
 connects-coinblze-ex.wixstudio.com
@@ -51242,7 +51239,6 @@ startedcoinbasapps.wixstudio.com
 startedhelp-lgrwallt.wixstudio.com
 startedio-moonpay.wixstudio.com
 startedio-moonpayio.wixstudio.com
-startediocoiinbace.wixstudio.com
 startedmetamaskcdn.wixstudio.com
 startedphantom.wixstudio.com
 starteds-ledge.wixstudio.com
