@@ -99075,7 +99075,6 @@ pvzk.team
 monad-app.r1m.team
 r4v.team
 rainbet.team
-refundtransfer.team
 rmxb.team
 rndr.team
 s2r.team
