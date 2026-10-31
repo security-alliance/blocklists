@@ -13918,7 +13918,6 @@ lhfesjfz.bond
 lhszynqq.bond
 likehtmvpu.bond
 listenahaxo.bond
-app.lite-crv.bond
 lkmnygstaff.bond
 lloopparent.bond
 lmplpzmuch.bond
@@ -29140,7 +29139,10 @@ com-polybet-q07.com
 com-polybet-q08.com
 com-polybet-q09.com
 com-polybet-q10.com
+docs.com-polybet-q109.com
+status.com-polybet-q109.com
 com-polybet-q11.com
+docs.com-polybet-q110.com
 help.com-polybet-q110.com
 status.com-polybet-q110.com
 docs.com-polybet-q111.com
