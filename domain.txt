@@ -57715,6 +57715,7 @@ pr-7831.1inch-io-app.pages.dev
 35-gov-argus.pages.dev
 35-gov-concrete.pages.dev
 35-gov-netnetcap.pages.dev
+35-governance-curvefinance.pages.dev
 35-governance-kinetiq.pages.dev
 35-governance-orbio.pages.dev
 35-governance-venice.pages.dev
