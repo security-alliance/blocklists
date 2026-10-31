@@ -28054,7 +28054,6 @@ ldg.cn.com
 team.lives.cn.com
 rainbet.cn.com
 safepal.cn.com
-cncbuildsaustralia.com
 m.cncoinbase.com
 cnct-roobet.com
 cnear.com
@@ -29898,7 +29897,6 @@ cryptoslotsroyal.com
 cryptosort.com
 cryptosrt.com
 cryptostt.com
-cryptotradeassetplc.com
 cryptotradequotes.com
 cryptotradingdesk-dapp.com
 cryptotradingquotes.com
@@ -30030,7 +30028,6 @@ cw-max.com
 base.cwticketingsystem.com
 cxansex.com
 cxasex.com
-cxbull.com
 cxmfmarkets.com
 cxzafqeeq.com
 cxzfasfq.com
@@ -33046,7 +33043,6 @@ ggxcexgx.com
 coinbase.ghe.com
 trustwallet.ghe.com
 ghostgamb.com
-ghostgunsaustralia.com
 giavanghangngay.com
 gidoc1c1.com
 gifga.com
@@ -38627,7 +38623,6 @@ okcoinjobs.com
 oklahomatransactioncoordination.com
 okltc.com
 okqoa.com
-okta20.com
 okweb3dq.com
 okx-aml.com
 okx-cases.com
@@ -42105,7 +42100,6 @@ royroll.com
 rozalbet.com
 rozawin.com
 rpc-ledger.com
-rpc-refresh.com
 rpc-reload.com
 rpc-restore-modal.com
 rpc-seamlessprotocol.com
@@ -71069,7 +71063,6 @@ dapp-nearpad.fun
 dappos.fun
 dashboard-embercurve.fun
 dashboard-fwa.fun
-dashboard-pump.fun
 deepbook.fun
 deexscreener.fun
 definexus.fun
@@ -71120,7 +71113,6 @@ emberscurve.fun
 enroll-alt.fun
 enter-alt.fun
 etherbid.fun
-etherealclient.fun
 event-chooserich.fun
 event-degencoin.fun
 event-embercurve.fun
@@ -71614,7 +71606,6 @@ rugs-pump.fun
 rugsback-pump.fun
 rugsback-pumps.fun
 rugsol.fun
-rugspull-pump.fun
 rugspulls-pump.fun
 rupeeo.fun
 s1-embercurve.fun
@@ -74305,7 +74296,6 @@ allowlist-ascend.info
 allowlist-ascendlaunch.info
 almeida-exchange.info
 alturax.info
-ameliaodell.info
 aml-check.info
 aml-riskscore.info
 ansemlabs.info
@@ -93297,7 +93287,6 @@ oroviento.pro
 osmsois.pro
 otcdesks.pro
 pancaekswap.pro
-panswap-finance.pro
 paribascredit.pro
 paylivery.pro
 payout-greenside.pro
