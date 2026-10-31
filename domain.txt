@@ -8450,7 +8450,6 @@ rpccleaner.app
 rpcfixed.app
 rpcnoderesolver.app
 phantom.rpwallet.app
-rubic-exchange.app
 rubicexchange.app
 rufusio.app
 runsly.app
@@ -13694,7 +13693,6 @@ dpkqvaol.bond
 dptyarxx.bond
 dreamhtwobv.bond
 drgqofficer.bond
-drop-portal.bond
 drpcrwraise.bond
 drvngupon.bond
 dsknkmls.bond
@@ -26133,7 +26131,6 @@ binancegm.com
 binancegs.com
 binanceintelligence-binance.com
 binanceit.com
-binancelife-bnb.com
 binanceof.com
 binancepm.com
 binanceportal.com
@@ -27039,7 +27036,6 @@ jaxcnincluuuqdbogjmktnvqmitdceqc.bzeyhl.com
 qykotiityuqnagaowicrihtrraijekrn.bzeyhl.com
 wildcard.bzeyhl.com
 c-hangelly.com
-c-hangenow.com
 c-trustwallet.com
 c0in1ar.com
 c6sjymdb.com
@@ -27091,7 +27087,6 @@ cambridgecambri.com
 camelot-dex.com
 camelot-v3.com
 cametag.com
-camonsolana.com
 campaign-desk.com
 campaign-purinta.com
 campaign-round.com
@@ -27465,7 +27460,6 @@ cgb-invest.com
 cgg-allocation.com
 cgr-bogota.com
 ch-angelly.com
-ch-angenow.com
 ch-coinledger.com
 ch-reprogrammez.com
 ch-wh-whatsappo.com
@@ -27483,8 +27477,6 @@ ch-zn-whatsappo.com
 ch-zs-whatsappo.com
 ch-zv-whatsappo.com
 ch-zx-whatsappo.com
-cha-ngelly.com
-cha-ngenow.com
 chain-account.com
 chain-allocation.com
 chain-justlend.com
@@ -27546,12 +27538,9 @@ challenges-x.com
 chalnanalysis.com
 chamber-coinbase.com
 champleaks.com
-chan-gelly.com
-chan-genow.com
 chance-firelight.com
 changboucpa.com
 changcoinpay.com
-change-lly.com
 changecoinpay.com
 changeley.com
 changell-y.com
@@ -27573,7 +27562,6 @@ changellydex.com
 changellyex.com
 changellyexchange.com
 changellyreviews.com
-changen-ow.com
 changenovv-io.com
 changenow--io.com
 changenow-app.com
@@ -27589,7 +27577,6 @@ changenow-io.com
 changenow-live.com
 changenow-swap.com
 changenow-us.com
-changenow-v2.com
 changenow-wallet.com
 changenow-web.com
 changenowdex.com
@@ -30332,7 +30319,6 @@ defitronwork.com
 defituna-app.com
 defituna-dex.com
 defituna-swap.com
-defituna-v2.com
 defitunadex.com
 defiwebeusdt.com
 defiwebusdt.com
@@ -30887,7 +30873,6 @@ clubzap.dreamhosters.com
 drefxvip.com
 drfdl.com
 drift-meet.com
-drift-scan.com
 driftinlakeshore.com
 driftinwoodline.com
 drifttoporta.com
@@ -31980,8 +31965,6 @@ fezowin.com
 ff-exchange.com
 ff-io-change.com
 ff-io-en.com
-ff-io-exchange.com
-ff-io-swap.com
 ff-io-us.com
 ff-io-v2.com
 ff-lo.com
@@ -32257,10 +32240,7 @@ fixbet8080.com
 fixdappscam.com
 fixed-floats.com
 fixedf-loat.com
-fixedfl-oat.com
 fixedfl0at.com
-fixedflo-at.com
-fixedfloa-t.com
 fixedfloat-en.com
 fixedfloat-eu.com
 fixedfloat-us.com
@@ -33061,7 +33041,6 @@ metamask-claim-airdrop.giize.com
 gimppp.com
 gingobet.com
 giorex.com
-girin-desktopwalletinstaller.com
 git-clash.com
 git-tanstack.com
 github-team.com
@@ -35601,7 +35580,6 @@ juphaven.com
 jupiater-sawp.com
 jupiter-ag-swap.com
 jupiter-bridge.com
-jupiter-exchange-ag.com
 jupiter-foundaton.com
 jupiter-launchpad.com
 jupiter-perps.com
@@ -42760,7 +42738,6 @@ shuffex.com
 mainan.shuinuanchuang.com
 shw33.com
 si-google.com
-si-mpleswap.com
 sicheres-banking.com
 sicherheit-safepal.com
 sicknessvnm.com
@@ -42795,15 +42772,11 @@ silvereconomycongress.com
 silversapnm.com
 silverstonebridgeltd.com
 silverwavetradingmarkets.com
-sim-pleswap.com
-simp-leswap.com
-simpl-eswap.com
 simple-swap-io.com
 simplebaseswap.com
 simplegamb.com
 simplepromotionuu.com
 simplerestaurant.com
-simpleswa-p.com
 simpleswap-app.com
 simpleswap-core.com
 simpleswap-en.com
@@ -43498,7 +43471,6 @@ steakhouse-vault-epoch.com
 steakhousedesk.com
 steakhousefi.com
 steakhousefinance.com
-stealth-ex.com
 steamdt-cs2.com
 steenssyrup.com
 stella-erp.com
@@ -89518,7 +89490,6 @@ a2a-ledger.org
 aave-app.org
 aave-checker.org
 aave-dashboard.org
-aave-defi.org
 aave-open.org
 aavebase.org
 aavedashboard.org
@@ -89839,7 +89810,6 @@ cdefi-mantanetwork.org
 cetusspace.org
 cetusswap.org
 cexiopros.org
-ch-angenow.org
 ch-twint-service.org
 chain-account.org
 chain-list.org
@@ -89850,8 +89820,6 @@ chainliist.org
 chainlinkdefiglobal.org
 chainnova.org
 chamber-ua.org
-chan-genow.org
-chang-enow.org
 changelly-app.org
 changelly-dex.org
 changelly-en.org
@@ -89860,14 +89828,11 @@ changelly-eu.org
 changelly-swap.org
 changellyex.org
 changellyy.org
-changen-ow.org
-changeno-w.org
 changenovv.org
 changenow-app.org
 changenow-en.org
 changenow-eng.org
 changenow-io.org
-changenow-v2.org
 changenow-v3.org
 changenowex.org
 changenoww.org
@@ -90053,7 +90018,6 @@ defillanna.org
 defisafepal.org
 defituna-app.org
 defiway-bridge.org
-deftiuna.org
 delpho.org
 deltaliquidity.org
 deriverse-dex.org
@@ -90239,7 +90203,6 @@ explorecoin.org
 extension-wallet.org
 extention-coinbase.org
 fakeexodus.org
-fakeseen.org
 falcon-finances.org
 falconfin.org
 fashionandfreedom.org
@@ -90251,11 +90214,9 @@ featherwalllet.org
 fedora-it.org
 fenix-finance.org
 fexoglobal.org
-ff-app.org
 ff-io-swap.org
 ff-io-v2.org
 fi-trust.org
-fi-xedfloat.org
 file-zilla.org
 filecoinwallet.org
 fillezilia-project.org
@@ -90272,10 +90233,6 @@ firmwareupdate.org
 first-ledgers.org
 firstjetair.org
 fivebridgesltd.org
-fixe-dfloat.org
-fixedfl-oat.org
-fixedflo-at.org
-fixedfloa-t.org
 fixedfloat-dex.org
 fixedfloat-en.org
 fixedfloat-eu.org
@@ -90504,7 +90461,6 @@ jupag.org
 jupdex.org
 jupilerexchange.org
 jupiter-allocation.org
-jupiter-exchange-ag.org
 jupiter-foundation.org
 jupiter-swap.org
 juprewards.org
@@ -91257,9 +91213,6 @@ sidradex.org
 silk-suite.org
 silkroadholding.org
 silksuite.org
-sim-pleswap.org
-simpl-eswap.org
-simples-wap.org
 simpleswa-p.org
 simpleswaap.org
 simpleswap-c.org
@@ -91738,7 +91691,6 @@ v2-debank.org
 v2-exodus.org
 v2-jupiterswap.org
 v2-ledger.org
-v2-pumpswap.org
 v2-trezor.org
 v2-tronscan.org
 v3-changenow.org
@@ -94073,7 +94025,6 @@ curvsewap.run
 cygnusfi.run
 dawae.run
 deepbook.run
-defiunited.run
 dexe.run
 dexsport.run
 staging-phantom-breakpoint-2026.domino.run
@@ -104594,7 +104545,6 @@ allocation-pumpbtc.xyz
 allocation-raacfi.xyz
 allocation-relayprotocol.xyz
 checker.allocation-saturncredit.xyz
-allocation-scan.xyz
 allocation-shiftrwa.xyz
 allocation-signup.xyz
 allocation-solstice.xyz
@@ -104937,7 +104887,6 @@ apyxfi.xyz
 apyxfinance.xyz
 aquadrop.xyz
 ar-io.xyz
-arb-eligibility.xyz
 arbisys.xyz
 arbitrum-vote.xyz
 arc-bridge.xyz
@@ -105940,7 +105889,6 @@ dashboard-proof.xyz
 dashboard-sierra.xyz
 dashboard-sophon.xyz
 dashboard-take.xyz
-dashboard-token.xyz
 dashboard-usepaid.xyz
 dashboard-useyap.xyz
 dashboard-v3.xyz
