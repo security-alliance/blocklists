@@ -529,10 +529,8 @@ rewards.0gfnd.app
 0gfoundation.app
 0x2c97-ledger.app
 1inchswap.app
-20491.app
 3049931.app
 3jane-xyz.app
-40192.app
 40291.app
 47050.app
 4750a1.app
@@ -546,7 +544,6 @@ rewards.0gfnd.app
 4750hn1.app
 4750js1.app
 48190.app
-49010.app
 inkchaindapp-aryhrk91-0xambivert.4everland.app
 starknet_retroactive-4y8unely.4everland.app
 starknet_retroactive-wbanuyv6.4everland.app
@@ -569,7 +566,6 @@ starknet_retroactive-wbanuyv6.4everland.app
 55520hn1.app
 55520js1.app
 58619.app
-59102.app
 60080a1.app
 60080b1.app
 60080c1.app
@@ -21544,7 +21540,6 @@ robinhood.114501.com
 119282coinbase.com
 11928coinbase.com
 11ledger.com
-11markets.com
 11rolls.com
 12-trustwallet.com
 120583-crypto.com
@@ -25270,7 +25265,6 @@ generator.astellarsurplusrecovery.com
 aster-defi.com
 aster-pro.com
 asteraxtrade.com
-asterbex-home.com
 astercharts.com
 asterdesk.com
 asterdex-desktop.com
@@ -25733,7 +25727,6 @@ bag-fumble.com
 bagfumbied.com
 bags-fumbled.com
 bagsfumbled.com
-baiancer-flnance.com
 wildcard.kasld.baimaizhongyi.com
 ymwzwdwuwywbszziiumdmycrljqljkzpzgphjukfjfdpblebyt.kasld.baimaizhongyi.com
 zmupdhwrdasthjakdyrnssmldvjyqhkfqbiuwgxmwhvmthvpuo.kasld.baimaizhongyi.com
@@ -25747,7 +25740,6 @@ balancer-app.com
 balancer-chainlink.com
 balancer-evm.com
 balancer-fi.com
-balancer-flnance.com
 balancer-v2.com
 ballotsync.com
 bancolombiainvest.com
@@ -26423,7 +26415,6 @@ bitstampex.com
 bitstampio.com
 bitstampvip.com
 bitstarkltd.com
-bitstarzca.com
 bitstoks.com
 echo.bitstone.com
 bitsuperget.com
@@ -29654,10 +29645,8 @@ counterobjection-x.com
 courexpresst.com
 cover-ledger.com
 cover-safepal.com
-covvswop.com
 cow-dapp.com
 cow-swop.com
-cowswop.com
 cpcutpro.com
 cpiler.com
 cpinbase.com
@@ -30016,8 +30005,6 @@ curve-finance-info.com
 curve-finances.com
 curve-finanse.com
 curve-swap.com
-curve-swap-home.com
-curve-swop-home.com
 curvedaor.com
 curvefinance-app.com
 curvefinance-gid.com
@@ -30900,14 +30887,12 @@ drefxvip.com
 drfdl.com
 drift-meet.com
 drift-scan.com
-drift-trade-home.com
 driftinlakeshore.com
 driftinwoodline.com
 drifttoporta.com
 drive-auth-verify.com
 driverslaptop.com
 drkcas.com
-drlft-trade.com
 dromprotrading.com
 droneequipmentsupply.com
 drop-alemdad.com
@@ -31921,7 +31906,6 @@ fasowin.com
 fassets-flarenetwork.com
 fassetvisa.com
 thegraph.fast-airdrops.com
-fastfood-jd-clt.com
 fastigiumoption.com
 fastlanemarket.com
 fastlink-whatsapp.com
@@ -34462,9 +34446,6 @@ holphex.com
 holstersplus.com
 holycas.com
 homazex.com
-home-aerobrome.com
-home-aerodrome.com
-home-asterdex.com
 home-bitpie.com
 penguins.home-dapp.com
 pudgy.home-dapp.com
@@ -34472,10 +34453,6 @@ redirect.home-dapp.com
 wlfirevenueshare.home-dapps.com
 home-huobi.com
 home-kalshi.com
-home-obos.com
-home-odos.com
-home-pancake-swap.com
-home-pancakeswap.com
 home-raydiurn.com
 home-whatapps.com
 homebissell.com
@@ -34701,7 +34678,6 @@ hvixgamb.com
 hvper-1.com
 hw-monitor.com
 hxcshw.com
-hyberliquid.com
 hybriditpoint.com
 hydrextge.com
 hyfysh1118.com
@@ -34765,7 +34741,6 @@ hyperliquidexclusivenft.com
 hyperliquidkorea.com
 hyperliquidx-season3.com
 hyperlliquidd.com
-hyperllquld.com
 hyperphpqeowon11122.com
 hyperreco.com
 hypersapp.com
@@ -35585,7 +35560,6 @@ juancitosportdominicana.com
 juancitosportrd.com
 juancitosports.com
 juarax.com
-jub-home.com
 jubileecasinomexico.com
 jubileecasinomx.com
 jubileemonterrey.com
