@@ -20910,6 +20910,7 @@ h.crypito.co
 cryptgeon.co
 cryptoswap.co
 crystaldiskinfo.co
+curvedai.co
 curvefi.co
 curvefinancetranscript.co
 cyrca-inc-googlemeet-interview.co
@@ -105916,6 +105917,7 @@ curvancefoundation.xyz
 curve-proposal.xyz
 curve-swap.xyz
 m.curvefin.xyz
+curvefinanc.xyz
 cyberleektoken.xyz
 cybernleek.xyz
 d00dsnft.xyz
