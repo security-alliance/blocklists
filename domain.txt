@@ -83406,7 +83406,6 @@ tgl1m.live
 tgl1rm.live
 tgl2m.live
 tgl2rm.live
-thegraph-migration.live
 therealworlduniversities.live
 thesoudis.live
 ticschain.live
