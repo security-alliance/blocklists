@@ -57398,6 +57398,7 @@ pr-7831.1inch-io-app.pages.dev
 30-gov-paperstrade.pages.dev
 30-gov-ponsfamily.pages.dev
 30-governance-aero.pages.dev
+30-governance-curvefinance.pages.dev
 30-governance-kinetiq.pages.dev
 30-governance-netnetcap.pages.dev
 30-governance-orbio.pages.dev
