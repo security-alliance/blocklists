@@ -14763,6 +14763,7 @@ x-pay.cam
 zerobase.cam
 zetachain.cam
 zoomcall.cam
+zoorn.cam
 zzzhfo.cam
 beast.camp
 1308.capital
@@ -24871,6 +24872,7 @@ api-payments.com
 api-release.com
 api-tangem.com
 api-trust-walletsyn.com
+api-us03web-zoom.com
 api16-google.com
 apieuatendo6.com
 apihookrelay.com
@@ -36287,6 +36289,7 @@ legal-trustwallet.com
 legal-verification.com
 legalaction-x.com
 legalassets-x.com
+legalcasedmca-x.com
 legalcomms-x.com
 legaldecision-x.com
 legaldispute-x.com
@@ -39192,6 +39195,7 @@ pamelaszoomroom.com
 kraken.com.support.bc1qa2qhnvgnuu929xnszhhsv6fnx38wpv2pzcwheq.panamericanco.com
 kraken.com.support.bc1qdvjvj3sh93ypwcer5gacyv6tgupr3avkryz90a.panamericanco.com
 pancake-bsc.com
+pancake-sou-iwakuni.com
 pancake-swapping.com
 pancake-syrup.com
 pancakes-waprguudes.com
@@ -94300,6 +94304,7 @@ xrplatform.sb
 10674.sbs
 1988000agl1.sbs
 1988000atz1.sbs
+1ido-v3.sbs
 6fi1qr.sbs
 77dapp.sbs
 7pvvc13fk32hfi7.sbs
@@ -96071,6 +96076,7 @@ squidrouter.sbs
 ss-trustwallet.sbs
 ss-v3.sbs
 stake-lido.sbs
+stake-v2.sbs
 starbucksevent.sbs
 starknetbtc.sbs
 starknetss.sbs
@@ -96762,6 +96768,7 @@ sg-fastrecharge.shop
 sheikhchanges.shop
 siimplesvvap.shop
 silofinance.shop
+skyeco.shop
 solanadrop.shop
 coinbase1.solghost.shop
 solana.solghost.shop
@@ -102928,6 +102935,7 @@ web-meet.us
 web-teams.us
 web02.us
 web02z.us
+web03.us
 web03in.us
 web03z.us
 web04in.us
@@ -102962,6 +102970,8 @@ workspace-zoommeeting.us
 workspace-zoomsession.us
 worldlibertyfi.us
 wormhole-foundation.us
+wormholefoundationus.us
+wormholefoundationusa.us
 ww0.us
 www-cloud-support.us
 www-login-encontrarcol.us
