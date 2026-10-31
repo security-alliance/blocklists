@@ -51181,7 +51181,6 @@ started-atmicapps.wixstudio.com
 started-atmiccdn.wixstudio.com
 started-base-now.wixstudio.com
 started-chngnow.wixstudio.com
-started-coiinbasepro.wixstudio.com
 started-en-yoroi.wixstudio.com
 started-eng-exadus.wixstudio.com
 started-eternlcdn.wixstudio.com
@@ -57656,6 +57655,7 @@ pr-7831.1inch-io-app.pages.dev
 34-gov-argus.pages.dev
 34-gov-concrete.pages.dev
 34-gov-netnetcap.pages.dev
+34-governance-curvefinance.pages.dev
 34-governance-kinetiq.pages.dev
 34-governance-orbio.pages.dev
 34-governance-venice.pages.dev
