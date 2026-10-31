@@ -56841,6 +56841,7 @@ pr-7831.1inch-io-app.pages.dev
 26-gov-ponsfamily.pages.dev
 26-gov-ramses.pages.dev
 26-governance-aero.pages.dev
+26-governance-curvefinance.pages.dev
 26-governance-kinetiq.pages.dev
 26-governance-netnetcap.pages.dev
 26-governance-orbio.pages.dev
