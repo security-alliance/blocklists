@@ -12837,6 +12837,7 @@ devtltie.beauty
 gtcki.eth-tokens.beauty
 finance-checked-node-resume.beauty
 app-pendle.finance-real-gateway-sync.beauty
+finance-urban-legit-account-redirect.beauty
 finance-valid-wallet-connect-quick.beauty
 finance-visual-secured-node-connect.beauty
 io-active-real-network-auth.beauty
