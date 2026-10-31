@@ -131,7 +131,6 @@ https://sites.google.com/view/bitbuy-ennr/home
 https://sites.google.com/view/bitbuy-group/home
 https://sites.google.com/view/bitbuy-home/home
 https://sites.google.com/view/bitbuy-in-login/home
-https://sites.google.com/view/bitbuy-log-en/home
 https://sites.google.com/view/bitbuy-log-in/home
 https://sites.google.com/view/bitbuy-logi/home
 https://sites.google.com/view/bitbuy-login-com/home
@@ -139,13 +138,11 @@ https://sites.google.com/view/bitbuy-logo/home
 https://sites.google.com/view/bitbuy-logoni/home
 https://sites.google.com/view/bitbuy-page-hub/home
 https://sites.google.com/view/bitbuy-page-web/home
-https://sites.google.com/view/bitbuy-pages/home
 https://sites.google.com/view/bitbuy-secur-page/home
 https://sites.google.com/view/bitbuy-secure-hub/home
 https://sites.google.com/view/bitbuy-secure-page/home
 https://sites.google.com/view/bitbuy-secure-pages/home
 https://sites.google.com/view/bitbuy-user/home
-https://sites.google.com/view/bitbuyapp/home
 https://sites.google.com/view/bitbuyappcdsee/home
 https://sites.google.com/view/bitbuyappsss/home
 https://sites.google.com/view/bitbuybiz-/home
@@ -153,8 +150,6 @@ https://sites.google.com/view/bitbuye-app-hub/home
 https://sites.google.com/view/bitbuye-app-hubs/home
 https://sites.google.com/view/bitbuye-app-nov/home
 https://sites.google.com/view/bitbuye-apps---/home
-https://sites.google.com/view/bitbuye-apps-/home
-https://sites.google.com/view/bitbuye-en-us/home
 https://sites.google.com/view/bitbuye-home/home
 https://sites.google.com/view/bitbuylog/home
 https://sites.google.com/view/bitbuylogin-saf/home
@@ -441,8 +436,6 @@ https://sites.google.com/view/helpmetamask/home
 https://sites.google.com/view/hepfulwaystoconnectwithtrustwa/home
 https://sites.google.com/view/hfssjfsjdf/home
 https://sites.google.com/view/home-bitbuy--/home
-https://sites.google.com/view/home-bitbuy/home
-https://sites.google.com/view/home-bitbuyyapp/home
 https://sites.google.com/view/home-coin-extension/home
 https://sites.google.com/view/home-extension-us/home
 https://sites.google.com/view/home-extensions-web/home
@@ -592,7 +585,6 @@ https://sites.google.com/view/log-bitbuye-pages/home
 https://sites.google.com/view/log-bitbuysecure/home
 https://sites.google.com/view/log-in-bitbbuy-/home
 https://sites.google.com/view/log-in-bitbuy-/home
-https://sites.google.com/view/log-in-bitbuyy/home
 https://sites.google.com/view/log-in-krae/home
 https://sites.google.com/view/log-inmetamak/home
 https://sites.google.com/view/log-inmetamsk/home
@@ -612,7 +604,6 @@ https://sites.google.com/view/login-trust-wallet
 https://sites.google.com/view/loginbitbuy-guide/home
 https://sites.google.com/view/loginbitbuy-page-/home
 https://sites.google.com/view/loginbitbuycryptoexchange/home
-https://sites.google.com/view/loginbitbuys/home
 https://sites.google.com/view/loginkrakennn/home
 https://sites.google.com/view/loginmetamask-app/home
 https://sites.google.com/view/loginmetamask-getting/home
@@ -877,7 +868,6 @@ https://sites.google.com/view/small-sellhow-to-sell-and-with/home
 https://sites.google.com/view/sso-bitbycd/home
 https://sites.google.com/view/ssobitby-cdn/home
 https://sites.google.com/view/ssomy-bitbueycd/home
-https://sites.google.com/view/ssomybitbuycdn---/home
 https://sites.google.com/view/start-coinbseextn/home
 https://sites.google.com/view/start-new-coinapp/home
 https://sites.google.com/view/started--metamask/home
