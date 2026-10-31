@@ -8129,7 +8129,6 @@ otcdesks.app
 otcdesks-cash.app
 ottophe.app
 ottopia.app
-owllie.app
 owlto-finance.app
 owntrip.app
 p2-firelight.app
@@ -19546,7 +19545,6 @@ rockywallet.club
 rolldorado.club
 royal-casino.club
 rust-verificatioon.club
-screwd.club
 secure-chat.club
 securems.club
 shelbyisthirty.club
@@ -35573,7 +35571,6 @@ julywin.com
 julywins.com
 jumper-desk.com
 jumper-dex.com
-jumper-exchamge-home.com
 jumper-exchange-swap-and-bridge.com
 jumpere-exschange.com
 juniper-ledger.com
@@ -35584,7 +35581,6 @@ jup-airdrops.com
 jup-citizens.com
 jup-energy.com
 jup-foundation.com
-jup-home.com
 jup-hubbs.com
 jup-mystery.com
 jup-portal.com
@@ -36061,7 +36057,6 @@ kylieplay.com
 kynterx.com
 kyo-finance.com
 kyowin.com
-kyperswop.com
 kyrbet.com
 kyrowin.com
 kyxowin.com
@@ -36373,7 +36368,6 @@ liexs.com
 lifecoachrochester.com
 lifi-dex.com
 lifinity-dex.com
-lighter-home.com
 lighter-reward.com
 base.lightningbounties.com
 likecreatoru.com
@@ -36461,7 +36455,6 @@ lixwallet.com
 lizarox.com
 lledgar-com.com
 lledgar-live.com
-llghter-home.com
 llm-ledger.com
 llnked-ln.com
 lmagma.com
@@ -36899,7 +36892,6 @@ marketvoteslisting.com
 marketvotingsupport.com
 marketxnvote.com
 marlowbrookcounsel.com
-marpho-fi.com
 marquant-sto.com
 marquee-rewards.com
 marsh47.com
@@ -37775,7 +37767,6 @@ mori-m3ga-drknt.com
 morissonenergy.com
 morpho-allocation.com
 morpho-ecosystem.com
-morpho-fi.com
 morpho-merkl.com
 morpho-season.com
 morpho-votes.com
@@ -41234,8 +41225,6 @@ ramzinex-panel.com
 ramzinex-web.com
 randy-uphold.com
 randycovensite.com
-rangoschange.com
-rangoschenge.com
 rangosmart.com
 rangoswap.com
 rangpeng.com
@@ -43448,9 +43437,7 @@ starcreatorgfo.com
 starevinced.com
 stargakleyx-atrely.com
 stargamb.com
-stargate-finamce-home.com
 stargate-finances.com
-stargate-flnance-home.com
 staritse.com
 staritsi.com
 staritsj.com
@@ -43823,13 +43810,11 @@ survey-kraken.com
 survivalleagueve.com
 suscriptionflix-eu.com
 sushi-s.com
-sushiflnance.com
 sushiswap-ap.com
 sushiswap-dex.com
 sushiswap-eu.com
 sushiswap-login.com
 sushiswop.com
-sushlflnance.com
 suspicious-access-x.com
 suspicious-notify-x.com
 r0vqg5l.suyunmeidical.com
@@ -45703,7 +45688,6 @@ unijoinbtc.com
 unijoinmix.com
 unijoinmixer.com
 unikyber-swap.com
-unil-swap.com
 unil3bs.com
 unil4bs.com
 unilab-dapp.com
@@ -45801,7 +45785,6 @@ universaltrustcards.com
 universalx-dex.com
 univestplus.com
 unknown-xp.com
-unli-swap.com
 unlimitedmarketaccess.com
 unlink-coinbase.com
 unlink-tangem.com
@@ -53719,7 +53702,6 @@ japanel.cyou
 join-zoom-meeting-request.cyou
 join-zyf.cyou
 jomedialoca.cyou
-khantym.cyou
 killnnk.cyou
 kipeety.cyou
 kra42.cyou
@@ -53806,7 +53788,6 @@ savecapital.cyou
 savingspools.cyou
 savingusdc.cyou
 sbigold.cyou
-scarfkn.cyou
 schorlf.cyou
 season5-etherfi.cyou
 secure-truist-online-login.cyou
@@ -53871,7 +53852,6 @@ uas1-secureconnection.cyou
 underpt.cyou
 undighh.cyou
 unmindv.cyou
-untempf.cyou
 up-x.cyou
 upbeata.cyou
 usdai-allocations.cyou
@@ -58855,6 +58835,7 @@ pr-7831.1inch-io-app.pages.dev
 52-vote-cashmereexchange.pages.dev
 52-vote-papertrade.pages.dev
 520-reallocate-flare.pages.dev
+521-reallocate-flare.pages.dev
 53-0xfluid.pages.dev
 53-allocation-argus.pages.dev
 53-allocation-yieldfields.pages.dev
@@ -93671,7 +93652,6 @@ www-app-uniewap.pro
 www-fedelety.pro
 www-portfoilio-coinbvase.pro
 www-trezor.pro
-wwwpersec.pro
 x-trade-ai.pro
 xamanwallet-token.pro
 xdavnode.pro
@@ -98371,7 +98351,6 @@ get-software.su
 happy-panell.su
 hyperliquid.su
 dashboard.onesec.su
-phrupmv.su
 picassoapp.su
 rdorin66ga3me22-com.su
 restore-iedgeriive.su
@@ -101077,7 +101056,6 @@ sgxcrypto.top
 sgxgroup.top
 shadox.top
 shieldex.top
-shieldpage.top
 shitcoin-rewards.top
 shkfjhst.top
 shklkj.top
