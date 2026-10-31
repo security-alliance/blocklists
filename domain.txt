@@ -66213,6 +66213,7 @@ stake-tier-x.pages.dev
 stake-zircult.pages.dev
 staking-aixcbcapital.pages.dev
 stargazezone.pages.dev
+starknet-vote.pages.dev
 starknetgov.pages.dev
 starknetgovernance.pages.dev
 starkware-malicious-dapp.pages.dev
