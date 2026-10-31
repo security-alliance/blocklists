@@ -8358,6 +8358,7 @@ creditoubii--creditoubiipago.replit.app
 creditoubii--ubiicreditodisp.replit.app
 creditoubii--ubiipagoscred.replit.app
 creditoubiidisponible--creditoubiipago.replit.app
+creditoubiienlinea--ubiicredito.replit.app
 creditoubiienlinea--ubiiservicio3.replit.app
 creditoubiii--creditoubiii.replit.app
 informacioncredit--ubiicredit00.replit.app
