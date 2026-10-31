@@ -274,6 +274,7 @@ https://sites.google.com/view/coinbasewallet-public--/home
 https://sites.google.com/view/coinbasewallet-public-/home
 https://sites.google.com/view/coinbasewalletext/home
 https://sites.google.com/view/coinbasewalletrecoveryissues/home
+https://sites.google.com/view/coinbasewallettobankaccout/home
 https://sites.google.com/view/coinbasse-wallet/home
 https://sites.google.com/view/coinbawallet-extension/home
 https://sites.google.com/view/coinbse-com-wallet/home
@@ -485,6 +486,7 @@ https://sites.google.com/view/howtotradeontrustwallet/home
 https://sites.google.com/view/howtotransfermoneyrobinhood/home
 https://sites.google.com/view/howtowithdrawfromrobinhoodcard
 https://sites.google.com/view/howtowithdrawfromrobinhoodcard/home
+https://sites.google.com/view/howwithdrawcryptofromcoinbase/home
 https://sites.google.com/view/hub-coinbpro/home
 https://sites.google.com/view/hub-extension-base/home
 https://sites.google.com/view/imtokenwalletextension
