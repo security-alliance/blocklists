@@ -338,6 +338,7 @@ https://sites.google.com/view/exdos-us-/home
 https://sites.google.com/view/exdos-us-en/home
 https://sites.google.com/view/exdus-brows/home
 https://sites.google.com/view/exdus-web3-pages/home
+https://sites.google.com/view/exduswebs-wallet/home
 https://sites.google.com/view/exeduso-/home
 https://sites.google.com/view/exedusoo-/home
 https://sites.google.com/view/exo-dus-info/home
@@ -351,8 +352,11 @@ https://sites.google.com/view/exodus-blockchain-/home
 https://sites.google.com/view/exodus-browse/home
 https://sites.google.com/view/exodus-doc/home
 https://sites.google.com/view/exodus-enus/home
+https://sites.google.com/view/exodus-enusu/home
 https://sites.google.com/view/exodus-login1/home
 https://sites.google.com/view/exodus-recovery-with-cieldx/home
+https://sites.google.com/view/exodus-useb/home
+https://sites.google.com/view/exodus-vs-cieldx-en/home
 https://sites.google.com/view/exodus-wallet-download/home
 https://sites.google.com/view/exodus-wallet-eng-/home
 https://sites.google.com/view/exodus-wallet-eng/home
@@ -373,11 +377,15 @@ https://sites.google.com/view/exodus-websspo/home
 https://sites.google.com/view/exodus-webus/home
 https://sites.google.com/view/exodus-wecomus/home
 https://sites.google.com/view/exodus-weeb3/home
+https://sites.google.com/view/exodus-wevb/home
 https://sites.google.com/view/exodusse-web3/home
 https://sites.google.com/view/exodustransactionconfirmedbut
+https://sites.google.com/view/exodusweb-beginner/home
 https://sites.google.com/view/exodusweb-homes/home
+https://sites.google.com/view/exodusweb-safe/home
 https://sites.google.com/view/exodusweb3-browser/home
 https://sites.google.com/view/exodusweb3-extension/home
+https://sites.google.com/view/exodusweb3-homepage/home
 https://sites.google.com/view/exodusweb3e/home
 https://sites.google.com/view/exodusweb3walle/home
 https://sites.google.com/view/exodusweb3walletexodusbrowser/home
@@ -527,6 +535,7 @@ https://sites.google.com/view/launch-trezor-desktop-apps/
 https://sites.google.com/view/learn-bitbuy-ca/home
 https://sites.google.com/view/learn-exdus-browse/home
 https://sites.google.com/view/learn-exodus-en/home
+https://sites.google.com/view/learn-exodus-hub/home
 https://sites.google.com/view/learn-extension-base/home
 https://sites.google.com/view/learn-how-to-file-a-co/home
 https://sites.google.com/view/learn-how-to-file-a-comp
