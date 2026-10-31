@@ -32125,7 +32125,6 @@ vangrid-hub.firebaseapp.com
 wallnet-nodefix.firebaseapp.com
 xapp-folks-finance.firebaseapp.com
 yieldfarms.firebaseapp.com
-zerion-portfolio.firebaseapp.com
 zerionwallet-tracker.firebaseapp.com
 zerionwatch.firebaseapp.com
 firecas.com
