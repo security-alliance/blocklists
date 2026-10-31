@@ -9630,7 +9630,6 @@
 ||userpaid.app^$all
 ||usespaid.app^$all
 ||usestipped.app^$all
-||usewallet.app^$all
 ||usewalllet.app^$all
 ||uspaid.app^$all
 ||utorrent.app^$all
@@ -58847,6 +58846,7 @@
 ||51-vote-argusworld.pages.dev^$all
 ||51-vote-cashmereexchange.pages.dev^$all
 ||51-vote-papertrade.pages.dev^$all
+||510-reallocate-flare.pages.dev^$all
 ||52-0xfluid.pages.dev^$all
 ||52-allocation-yieldfields.pages.dev^$all
 ||52-allowlist-ascendlaunch.pages.dev^$all
