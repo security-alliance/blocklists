@@ -73756,7 +73756,6 @@ upshiftfi-allocations.icu
 trust.usd777.icu
 usdai-governance.icu
 usdai-proposal.icu
-usdcsavings.icu
 usdt-airdrop.icu
 usdtairdrop.icu
 usdtdrop.icu
