@@ -14575,7 +14575,6 @@ apro.cam
 aptos.cam
 asksurf.cam
 badger.cam
-basezh.cam
 bcbbs-vip.cam
 beefy.cam
 betparibu-resmigir.cam
@@ -14928,7 +14927,6 @@ simlpewsap.casa
 ssov.casa
 ssv-v2.casa
 ssv-v4-swap.casa
-stakingreward.casa
 tonkeeper.casa
 tronlink.casa
 upheavalfi.casa
@@ -16385,7 +16383,6 @@ us8-zoom.cc
 us8zoom.cc
 usdc-eth.cc
 cdfjkm.usdc-mining.cc
-usdds.cc
 usdgift.cc
 usdsavings.cc
 usdt-cards.cc
@@ -43171,7 +43168,6 @@ sourcepiler.com
 sourcesex.com
 south-ledger.com
 southseamot.com
-southshoresawyer.com
 souzox.com
 sovexplay.com
 sowinex.com
@@ -83977,7 +83973,6 @@ fraxfinance.lol
 friesfgasdfknow.lol
 frogecoinrbh.lol
 fun-vote.lol
-funshare.lol
 fxtrading.lol
 get-musebook.lol
 getdrained.lol
@@ -87688,7 +87683,6 @@ flarexrpfi.network
 flcer.network
 fllaer.network
 fllares.network
-fllere.network
 floer.network
 flore.network
 foundation-canopy.network
@@ -89577,7 +89571,6 @@ allocation-yeetoken.org
 allocations-hyperbeat.org
 blowfish.alodev.org
 alogin.org
-alpha-ai-bot.org
 alpha-card.org
 alpha-win.org
 ambient-finance.org
@@ -93776,7 +93769,6 @@ trustwalletcustomerservicephonenumber.blogspot.qa
 aerodrome.qpon
 asdww.qpon
 app.astar.qpon
-base.qpon
 basefxo.qpon
 bcbbs-vip.qpon
 coinbase.qpon
@@ -98207,7 +98199,6 @@ gestion-trustwallet.store
 getmydigi.store
 gta6rockstar.store
 helblis.store
-high-endquality.store
 imtoken-wallet.store
 invictus-meets-infinity.store
 io-backup.store
@@ -105045,7 +105036,6 @@ auth-profile.xyz
 auth-withdrawhyperliquid.xyz
 autogentai.xyz
 autotradoaw.xyz
-avax-eligibility.xyz
 avaxnetworks.xyz
 aveai.xyz
 aveforge.xyz
@@ -105939,7 +105929,6 @@ dashboard-noble.xyz
 dashboard-octant.xyz
 dashboard-paimon.xyz
 dashboard-pancake.xyz
-dashboard-paragraph.xyz
 dashboard-pharos.xyz
 dashboard-poiymarket.xyz
 dashboard-pools.xyz
@@ -105949,7 +105938,6 @@ dashboard-prjx-checker.xyz
 dashboard-proof.xyz
 dashboard-sierra.xyz
 dashboard-sophon.xyz
-dashboard-st0x.xyz
 dashboard-take.xyz
 dashboard-token.xyz
 dashboard-usepaid.xyz
@@ -106340,7 +106328,6 @@ embercurvetoken.xyz
 emberprotocol.xyz
 emberust.xyz
 emrtoken.xyz
-enj-eligibility.xyz
 enlist-3jane.xyz
 enroll-dopplerfinance.xyz
 enroll-kinetiq.xyz
@@ -107911,7 +107898,6 @@ join-apyxfi.xyz
 join-ascendlaunch.xyz
 join-asterdex.xyz
 join-citrea.xyz
-join-cryptsync.xyz
 join-elysium.xyz
 join-ethena.xyz
 join-etherfi.xyz
@@ -108452,7 +108438,6 @@ merkl-vote.xyz
 merkl-votes.xyz
 merkl-voting.xyz
 merklxyz.xyz
-merkrel.xyz
 merrywilsodd.xyz
 mesola.xyz
 messaridesktop.xyz
