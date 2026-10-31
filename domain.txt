@@ -48254,7 +48254,6 @@ auth-monpay.wixstudio.com
 auth-moonpya.wixstudio.com
 auth-rabbyyweb.wixstudio.com
 auth-sso-krakn.wixstudio.com
-auth-webio.wixstudio.com
 authen-robihood.wixstudio.com
 authkrakn.wixstudio.com
 authmyrobinhoud.wixstudio.com
@@ -48540,7 +48539,6 @@ coinbase-stared.wixstudio.com
 coinbase-user.wixstudio.com
 coinbase-wlletext.wixstudio.com
 coinbasechromeexte.wixstudio.com
-coinbaseextensionhub.wixstudio.com
 coinbaseio.wixstudio.com
 coinbaseioext.wixstudio.com
 coinbasenpro.wixstudio.com
@@ -49397,7 +49395,6 @@ home-jaxxlibertycdn.wixstudio.com
 home-jaxxlibretycdn.wixstudio.com
 home-jupiterio.wixstudio.com
 home-koinapps-ext.wixstudio.com
-home-koinbase.wixstudio.com
 home-koinbasecdn.wixstudio.com
 home-krakkn.wixstudio.com
 home-kraknapps.wixstudio.com
@@ -50126,7 +50123,6 @@ loginkraken-us.wixstudio.com
 loginmeta.wixstudio.com
 loginmmeta.wixstudio.com
 logintrezu.wixstudio.com
-loginwebpage.wixstudio.com
 logkrakei.wixstudio.com
 logkrrakekin.wixstudio.com
 logn-bitbuy-ca.wixstudio.com
@@ -50920,7 +50916,6 @@ platform-rubby.wixstudio.com
 platform-trxosuites.wixstudio.com
 platform-usrabby-app.wixstudio.com
 platformetamaskcdn.wixstudio.com
-platformlearn.wixstudio.com
 platforms-kcoin.wixstudio.com
 platforms-metmaskext.wixstudio.com
 point-jcxxliberty.wixstudio.com
