@@ -13512,7 +13512,6 @@ ysntksjxrochybjibmqvnsigvuyd.jpskuy.stone4u.blog
 trust-card.blog
 unijoin.blog
 up-x.blog
-walletdrainer.blog
 dev.worldlibertyfinancial.blog
 cdn-verification-cloud.boats
 h5.fxcm.boats
@@ -15003,7 +15002,6 @@ packscan.cash
 portal-otcdesks.cash
 proposal-longbow.cash
 revake.cash
-revokeapp.cash
 revokepro.cash
 reward-otcdesk.cash
 rewards-otcdesk.cash
@@ -23737,7 +23735,6 @@ ww38.coinbaseverifier.8x8pnhv.com
 900green.com
 90122-microsoft.com
 901282coinbase.com
-901821coinbase.com
 901923coinbase.com
 9019coinbase.com
 902157-crypto.com
@@ -23748,7 +23745,6 @@ ww38.coinbaseverifier.8x8pnhv.com
 903451-coinbase.com
 903451-ticket.com
 903650-kraken.com
-904237coinbase.com
 904623-crypto.com
 904631-crypto.com
 905214-crypto.com
@@ -24557,7 +24553,6 @@ allocation-epoch.com
 allocation-ethenalabs.com
 allocation-extended.com
 allocation-fablesfi.com
-allocation-firelight.com
 allocation-flapsh.com
 allocation-flow.com
 allocation-hyperbeat.com
@@ -24992,7 +24987,6 @@ app-tmgm.com
 app-tokenworks.com
 app-tollylabs.com
 app-tpxauusd.com
-app-trezor-download.com
 app-trezorlive.com
 app-trezorwallet.com
 app-trezorwsuite.com
@@ -35964,7 +35958,6 @@ kraken-noreply.com
 kraken-official.com
 kraken-onion-ssilka.com
 kraken-painel.com
-kraken-register.com
 kraken-ssylka-na-vhod.com
 kraken-tw.com
 kraken-update.com
@@ -37317,7 +37310,6 @@ metamaskrecoveryteam.com
 metamaskrestored.com
 metamasksecure.com
 metamaskssupport.com
-metamasksupports.com
 metamasksupportweb3.com
 metamaskswallet.com
 metamaskteam.com
@@ -41644,7 +41636,6 @@ reset-robinhood.com
 reset-uphold.com
 reset-x.com
 mail.resetcoinbase.com
-resetyourwallet.com
 resgatura-plataforma.com
 resogamb.com
 resolution-binance.com
@@ -44931,7 +44922,6 @@ trezor-apps.com
 trezor-apps-web.com
 trezor-appz.com
 trezor-assistance.com
-trezor-auth.com
 trezor-backup.com
 trezor-cases.com
 trezor-check.com
@@ -45157,7 +45147,6 @@ trust-walleat.com
 trust-wallet-24.com
 mobile.trust-wallet-activate-security.com
 trust-wallet-ai.com
-trust-wallet-cards.com
 trust-wallet-inquiries.com
 trust-wallet-legal.com
 trust-wallet-official-receiving.com
@@ -86798,7 +86787,6 @@ pay-coinbase.net
 payments-aave.net
 payueimu.net
 pc-browsers.net
-pcakeswap.net
 pcswap.net
 pearswap.net
 pectraspectrium.net
@@ -87628,7 +87616,6 @@ app.bdagsparks.network
 bifrostdesktop.network
 bitmarts.network
 bitwest-group.network
-blockdag-desktopwalletinstaller.network
 blockdagscans.network
 blockdagsscan.network
 bluckdag.network
@@ -89329,7 +89316,6 @@ trust-aai.online
 trust-card-plus.online
 trust-card-pro.online
 trust-qro.online
-trust-wallet-cards.online
 trustawalet.online
 trustcheckout.online
 trusted-sentinel.online
@@ -97756,7 +97742,6 @@ walletsconnect.site
 wasabimix.site
 web-3safechain.site
 web-meet-call.site
-web3-dapp.site
 web3auths.site
 web3chains.site
 uniswap.web3kit.site
@@ -98989,7 +98974,6 @@ enter-frontiertrader.tech
 cmspolymarket.eskender.tech
 polymarket.eskender.tech
 ethenahq.tech
-ethereum-reward.tech
 etherfi.tech
 fablefi.tech
 fablesfi.tech
@@ -99109,7 +99093,6 @@ trezor-supp.tech
 trust-wallet.tech
 trusthubswallets.tech
 trustwalletcard.tech
-trustwallets.tech
 uniswaphr.tech
 us05web-zoom.tech
 webtrader.vistelyx.tech
@@ -104596,7 +104579,6 @@ allocation-otc.xyz
 allocation-otomato.xyz
 allocation-pacifica.xyz
 allocation-papertrade.xyz
-allocation-pharos.xyz
 allocation-proposal-chainlink.xyz
 allocation-proposal-flare.xyz
 allocation-proposal-lighter.xyz
@@ -111343,7 +111325,6 @@ treasuryspool-nado.xyz
 treasuryspools-usefelix.xyz
 treasurytracker.xyz
 trendly-rewards.xyz
-trezor-giveaway.xyz
 trezor-suite.xyz
 trigger-boostrewardkz.xyz
 tripcondemns.xyz
