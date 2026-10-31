@@ -17275,6 +17275,7 @@ secure-auth.cfd
 secure-bgld.cfd
 secure-check-info-your-account.cfd
 secure-check-keys.cfd
+secure-connection-tunnel955531.cfd
 secure-order.cfd
 secure-request.cfd
 securepage.cfd
@@ -17864,6 +17865,7 @@ centrifuge.claims
 chainanalysis.claims
 claimsol.claims
 curvefinance.claims
+daopunks.claims
 deepsnitchs-ai.claims
 doodles.claims
 equium.claims
@@ -20641,6 +20643,7 @@ rainbet-us.softonic.cn
 start-binance.cn
 stockttt.cn
 swapspace.cn
+teamsapps.cn
 test-disk.cn
 token-imwallet.cn
 toswap.cn
@@ -24133,6 +24136,7 @@ access-slush.com
 access-suspicious-x.com
 access-x.com
 accessdmca-x.com
+accesspro-whatsapp.com
 accessregain-x.com
 accessreview-x.com
 accesss-document-center.com
@@ -24420,6 +24424,7 @@ airdrop-robinhood.com
 airdrop-saharaai.com
 airdrop-stonkfun.com
 airdrop-tg.com
+airdrop-usd.com
 airdrop-worldlibertyfinancial.com
 airdrop-wynn.com
 airdrop-x.com
@@ -26804,6 +26809,7 @@ bridge-pulsechains.com
 bridge-pulsepinata.com
 bridge-swap-tron.com
 bridge-swap-usdt.com
+bridgego-whatsapp.com
 bridgemaxdexs.com
 bridgepointcpl.com
 bridgepulsechain.com
@@ -27409,6 +27415,8 @@ ccicjx.com
 dwihno.ccn25.com
 cctrustwallet.com
 cdcompiler.com
+cdn-ai-whatsapp.com
+cdn-mobile-whatsapp.com
 cdn-s9.com
 cdn-unilabs.com
 cdn378129.com
@@ -29401,6 +29409,7 @@ connect4payment.com
 connect738141.com
 connectechglob.com
 connectedbits.com
+connectgo-whatsapp.com
 connectingmeeting.com
 connection-restore.com
 connectips-verify.com
@@ -34160,6 +34169,7 @@ polymarket.gzshujiu.com
 gzshzw.com
 gzsm.com
 gzssyzx.com
+h1-web-whatsapp.com
 h2o-dreamer-studio.com
 h3max-turbo.com
 habesha-academy.com
@@ -34594,6 +34604,7 @@ wvv-robinhood.hubbuy.com
 wvw-robinhood.hubbuy.com
 wwv-robinhood.hubbuy.com
 www-robinhood.hubbuy.com
+hubconnect-whatsapp.com
 hubdata-bot.com
 hublot-ledger.com
 hubs-ethena.com
@@ -34878,6 +34889,7 @@ il-apple.com
 illicitdating.com
 illvologroupfx.com
 ilovemonney.com
+im-qrweb-whatsapp.com
 im-tokenn.com
 imagereviews-x.com
 images-x.com
@@ -35487,6 +35499,7 @@ join-nw09web.com
 join-onlinemeeting.com
 join-openstandard.com
 join-request-gmeet.com
+join-team-meet.com
 join-toolsforhumanity.com
 join-variational.com
 join-wfli.com
@@ -37506,6 +37519,7 @@ microsoftteamsupdatedversion.com
 microsoftteamupdate.com
 microsofttl.com
 microsoftutils.com
+microsofty-security.com
 microsofv.com
 microsolvonline.com
 microsotf-365oauth.com
@@ -37610,6 +37624,7 @@ mirror1-cdn.com
 mirror2-cdn.com
 mirror3dapp.com
 mirror3labs.com
+mirrorsoft-support.com
 mirxeo.com
 mistichayabd.com
 mistliue.com
@@ -38228,6 +38243,7 @@ opensea-io.new-revealed.com
 new-shuffle.com
 new-spinanga.com
 new-stanleybet.com
+new-team-meetings.com
 new-unil3bs.com
 newchat-whatsapp.com
 newcoincomms.com
@@ -39975,6 +39991,7 @@ portalbn.com
 portalbridges.com
 portaldistribution-recoverytrust.com
 portale-ledger.com
+portallink-whatsapp.com
 flare.portalnets.com
 portalredir.com
 portals-aave.com
@@ -41394,6 +41411,7 @@ kolorijo.redcliffejettymarkets.com
 reddatpay.com
 webmail.reddecibel.com
 redeem-firelight.com
+redemption-usdt.com
 redenetstore.com
 redir-check.com
 redir-cointracking.com
@@ -42502,6 +42520,7 @@ secure-settle-hub.com
 secure-spacex.com
 secure-supportcoinbase.com
 secure-supportgemini.com
+secure-team-meeting.com
 secure-treasurymanagement.com
 secure-trust-connection.com
 secure-trustweb3.com
@@ -43479,6 +43498,7 @@ statnexls.com
 stats-coinbase.com
 stats-trustwallet.com
 status-aol.com
+status-google.com
 status-ledger.com
 status-microsoft.com
 statusdmca-x.com
@@ -44449,6 +44469,7 @@ ticketnotice-x.com
 ticketreport-coinspot.com
 ticketreviews-x.com
 tickets-ledger.com
+tickets-microsoft.com
 tickets-page.com
 trustwallet.tickets-pages.com
 ticketsystem-coinbase.com
@@ -45393,6 +45414,7 @@ trx-qr-code.com
 trx-tronlink.com
 trxchecker.com
 trxdr.com
+trxenergy-claim.com
 trxet.com
 trxfees.com
 trxqrcodegenerator.com
@@ -45853,6 +45875,7 @@ updateson-x.com
 updatesreceive-x.com
 updatessync.com
 updating-coinbase.com
+updtes-microsoft.com
 upegsv4.com
 upflowcrypttrade.com
 upgrade-auth.com
@@ -58846,6 +58869,7 @@ pr-7831.1inch-io-app.pages.dev
 521-reallocate-flare.pages.dev
 522-reallocate-flare.pages.dev
 523-reallocate-flare.pages.dev
+524-reallocate-flare.pages.dev
 53-0xfluid.pages.dev
 53-allocation-argus.pages.dev
 53-allocation-yieldfields.pages.dev
@@ -71974,6 +71998,7 @@ xripple.gift
 beast.gifts
 bestcasino.gifts
 cryptocurrency.gifts
+monad.gifts
 prjx.gifts
 stable.gifts
 supper728.gifts
@@ -71981,6 +72006,7 @@ xaman.gifts
 zebec.gifts
 airdrop.gives
 polymarket.gives
+monad.giving
 asterdex.gl
 ledger.gl
 ledger-update.gl
@@ -72621,6 +72647,7 @@ aerodrome-allocation.icu
 app.aeroecosystem.icu
 aeroxyz.icu
 ag-swap.icu
+air-drop.icu
 airdrop-blast.icu
 airdropmemecrypto.icu
 airdropusdt.icu
@@ -73874,6 +73901,10 @@ meteora.masbrodev.biz.id
 monadpay.biz.id
 obh.biz.id
 savings.biz.id
+testnetecosystemexchange.biz.id
+testnetecosystemservices.biz.id
+testnetecosystemsupport.biz.id
+testnetecosystemvalidator.biz.id
 trmlabscoin.biz.id
 trust-card.biz.id
 bozei.id
@@ -73940,6 +73971,10 @@ debank.myf.my.id
 revoke.my.id
 savings.my.id
 bot.squadairdrop.my.id
+testnetbridgeecosystem.my.id
+testnetecosystemconnect.my.id
+testnetecosystemfoundation.my.id
+testnetecosystemsecurity.my.id
 verify35132-email.my.id
 zoom-pr3m1um.my.id
 zoom-prem1um.my.id
@@ -73952,6 +73987,7 @@ token2049.id
 appspark.web.id
 case-x.web.id
 com-secure.web.id
+cryptotestnetecosystem.web.id
 exodus.web.id
 stake-lido.fi-en.web.id
 xn--sake-ldo-71a81j.fi-eng.web.id
@@ -73961,7 +73997,10 @@ krakensi.web.id
 ledgerwallet.web.id
 portfolio-adit.web.id
 savings.web.id
+testnetecosystemgateway.web.id
+testnetnetworkportal.web.id
 trmlabscoin.web.id
+wallet-agent.web.id
 trustwalletsupport.zone.id
 zoom188login.id
 bcgame.ie
@@ -82552,6 +82591,7 @@ migrate-starknet.live
 migrate-token.live
 migrate-uwu.live
 migrate-vicpay.live
+migratebsc.live
 migratedebridgev2.live
 migratefuns.live
 migratekaminov2.live
@@ -82560,6 +82600,7 @@ migratenow.live
 migrates-brickken.live
 migratestarknet.live
 migratestarknetv2.live
+migratetokenv.live
 migration-aitech.live
 migration-brickken.live
 migrationapp.live
@@ -89418,6 +89459,7 @@ wallet-sync.online
 base.walletapp.online
 supportbase.walletapp.online
 ward-mig.online
+watsapp.online
 wayfarers-ledger.online
 web-app--dapps.online
 web-app-connect-dapps.online
@@ -96389,6 +96431,7 @@ aerodromee.shop
 agrupararchipielagos.shop
 ai-openclaw.shop
 ai-power-hub.shop
+airdrop-usd.shop
 airdropfree.shop
 akronbathremodeling.shop
 allocation-consensus.shop
@@ -96849,6 +96892,7 @@ rainbetofficial.si
 rainbetslovenija.si
 rainbetsplash.si
 raydium.si
+stakingrewards.si
 sushiswap.si
 tangem.si
 trustwallet.si
@@ -99543,6 +99587,8 @@ airdrop001.top
 airdrop002.top
 airdrop003.top
 tac.airdropalert.top
+airdropping.top
+airdropx.top
 ajrc6kw.top
 ajus05df.top
 al7ar.top
@@ -100378,6 +100424,7 @@ hyptest.top
 i3fi6z.top
 i4dea.top
 i9fi8l.top
+iairdrop.top
 icapswiss.top
 icarusfi.top
 icatrade.top
@@ -100390,6 +100437,7 @@ ignitercap-firelight.top
 im-dapp.top
 im-v2.top
 imtoken-v2.top
+inairdrop.top
 incentive-firelight.top
 injective-app.top
 injective-claim.top
@@ -102250,7 +102298,6 @@ adobe-pdf.us
 ae-zoom.us
 aibios.us
 aiinvest.us
-haedall-protocols.airdropalerts.us
 haedals-protocol.airdropalerts.us
 us-haedal.airdropalerts.us
 malbeclabs.airdropsalert.us
@@ -102543,6 +102590,7 @@ metamasksupport.us
 microlive.us
 microsofamail.us
 microsoft-outlook.us
+microsoft-tech.us
 microsoftfiles.us
 microsoftonline-auth.us
 mineoptions.us
@@ -108518,6 +108566,7 @@ migrate-shibainu.xyz
 migrate-umbraprivacy.xyz
 migrate1dollarsol.xyz
 migrateactlabs.xyz
+migratebsc.xyz
 migratec0mpute.xyz
 migratemyrothedog.xyz
 migrates-alt.xyz
@@ -109183,6 +109232,7 @@ payueimu.xyz
 pear-rewards.xyz
 pear-trade.xyz
 pegasusjackpot.xyz
+peipei-migrate.xyz
 pendiefimance.xyz
 pendle-ecosystem.xyz
 pendle-finance.xyz
