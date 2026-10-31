@@ -21705,6 +21705,7 @@
 ||176232-crypto.com^$all
 ||178268-google.com^$all
 ||178281coinbase.com^$all
+||17829-crypto.com^$all
 ||17829coinbase.com^$all
 ||17829ledger.com^$all
 ||178372-crypto.com^$all
@@ -28481,6 +28482,7 @@
 ||mail.coinbase-recoveries.com^$all
 ||coinbase-recoveryportal.com^$all
 ||coinbase-referral.com^$all
+||coinbase-review.com^$all
 ||coinbase-reviewcase.com^$all
 ||coinbase-roi.com^$all
 ||smart-safety.coinbase-route.com^$all
@@ -29382,6 +29384,7 @@
 ||conn-whatsapp.com^$all
 ||connect-1inch.com^$all
 ||connect-center.com^$all
+||connect-jupiter.com^$all
 ||connect-ledger.com^$all
 ||connect-phantom.com^$all
 ||connect-recover-ledger.com^$all
@@ -36002,6 +36005,7 @@
 ||kubukami.com^$all
 ||kucoin-airdrop.com^$all
 ||kucoin-compliance.com^$all
+||kucoin-faq.com^$all
 ||kucoin-login.com^$all
 ||kucoin-withdraw.com^$all
 ||kucoinblock.com^$all
@@ -36240,6 +36244,7 @@
 ||ledgerwallet-dashboard.com^$all
 ||ledgerwalletdeviceupdate.com^$all
 ||ledgerwalletfixer.com^$all
+||ledgerwalletsecurityupdates.com^$all
 ||ledgerwalletsupportweb.com^$all
 ||ledgerweb3support.com^$all
 ||ledgerweb3update.com^$all
@@ -43797,6 +43802,7 @@
 ||survivalleagueve.com^$all
 ||suscriptionflix-eu.com^$all
 ||sushi-s.com^$all
+||sushi-swaps.com^$all
 ||sushiswap-ap.com^$all
 ||sushiswap-dex.com^$all
 ||sushiswap-eu.com^$all
@@ -45246,6 +45252,8 @@
 ||trustwallet-transactions.com^$all
 ||trustwallet-transfer.com^$all
 ||trustwallet-ugf.com^$all
+||trustwallet-update.com^$all
+||trustwallet-vc.com^$all
 ||trustwallet-verifcation.com^$all
 ||trustwallet-verify.com^$all
 ||trustwallet-virtualcard.com^$all
@@ -45332,6 +45340,7 @@
 ||trustwalletsupportinfo.com^$all
 ||trustwalletsupportofficial.com^$all
 ||trustwalletsupportteam.com^$all
+||trustwalletsupportticket.com^$all
 ||trustwalletsystem.com^$all
 ||trustwallettc.com^$all
 ||trustwallettq.com^$all
@@ -68771,6 +68780,7 @@
 ||hylo.digital^$all
 ||hyperlinkxyz.digital^$all
 ||hyperliqiud.digital^$all
+||hyperliquid.digital^$all
 ||hyperpredict.digital^$all
 ||ili-rica.digital^$all
 ||invoicecoinbase.digital^$all
@@ -68974,6 +68984,7 @@
 ||gradient.directory^$all
 ||starknet.directory^$all
 ||up-x.directory^$all
+||hyperliquid.discount^$all
 ||kraken.discount^$all
 ||redotpay.discount^$all
 ||tron.discount^$all
@@ -74402,6 +74413,7 @@
 ||bullrealty.info^$all
 ||busdminer.info^$all
 ||butcher-exchange.info^$all
+||bybitportal.info^$all
 ||cafenft.info^$all
 ||cakewallet-guide.info^$all
 ||campaign-ethena.info^$all
@@ -75764,6 +75776,7 @@
 ||help-triyst.ink^$all
 ||hyper1iquid.ink^$all
 ||hyperbeat.ink^$all
+||hyperliquid.ink^$all
 ||ickaorlb.ink^$all
 ||ickaoyz.ink^$all
 ||identity-validation.ink^$all
@@ -98453,6 +98466,7 @@
 ||trezordevicescheck.support^$all
 ||trezorsdevices.support^$all
 ||trezorwallet.support^$all
+||trust-eu.support^$all
 ||trustwallet-assistance.support^$all
 ||trustwalletcard.support^$all
 ||trustwallethelp.support^$all
@@ -100445,6 +100459,7 @@
 ||krakena.top^$all
 ||krakenbi.top^$all
 ||krakenbj.top^$all
+||krakenhk.top^$all
 ||krakenx.top^$all
 ||kratg.top^$all
 ||krkn-shop.top^$all

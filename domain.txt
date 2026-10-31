@@ -21705,6 +21705,7 @@ coinbase.172545a.com
 176232-crypto.com
 178268-google.com
 178281coinbase.com
+17829-crypto.com
 17829coinbase.com
 17829ledger.com
 178372-crypto.com
@@ -28481,6 +28482,7 @@ coinbase-recive.com
 mail.coinbase-recoveries.com
 coinbase-recoveryportal.com
 coinbase-referral.com
+coinbase-review.com
 coinbase-reviewcase.com
 coinbase-roi.com
 smart-safety.coinbase-route.com
@@ -29382,6 +29384,7 @@ coninbase-wallet.com
 conn-whatsapp.com
 connect-1inch.com
 connect-center.com
+connect-jupiter.com
 connect-ledger.com
 connect-phantom.com
 connect-recover-ledger.com
@@ -36002,6 +36005,7 @@ kuailianquick.com
 kubukami.com
 kucoin-airdrop.com
 kucoin-compliance.com
+kucoin-faq.com
 kucoin-login.com
 kucoin-withdraw.com
 kucoinblock.com
@@ -36240,6 +36244,7 @@ ledgerwaliet.com
 ledgerwallet-dashboard.com
 ledgerwalletdeviceupdate.com
 ledgerwalletfixer.com
+ledgerwalletsecurityupdates.com
 ledgerwalletsupportweb.com
 ledgerweb3support.com
 ledgerweb3update.com
@@ -43797,6 +43802,7 @@ survey-kraken.com
 survivalleagueve.com
 suscriptionflix-eu.com
 sushi-s.com
+sushi-swaps.com
 sushiswap-ap.com
 sushiswap-dex.com
 sushiswap-eu.com
@@ -45246,6 +45252,8 @@ trustwallet-team.com
 trustwallet-transactions.com
 trustwallet-transfer.com
 trustwallet-ugf.com
+trustwallet-update.com
+trustwallet-vc.com
 trustwallet-verifcation.com
 trustwallet-verify.com
 trustwallet-virtualcard.com
@@ -45332,6 +45340,7 @@ trustwalletsupport24.com
 trustwalletsupportinfo.com
 trustwalletsupportofficial.com
 trustwalletsupportteam.com
+trustwalletsupportticket.com
 trustwalletsystem.com
 trustwallettc.com
 trustwallettq.com
@@ -68771,6 +68780,7 @@ hydrexfi.digital
 hylo.digital
 hyperlinkxyz.digital
 hyperliqiud.digital
+hyperliquid.digital
 hyperpredict.digital
 ili-rica.digital
 invoicecoinbase.digital
@@ -68974,6 +68984,7 @@ plinko.direct
 gradient.directory
 starknet.directory
 up-x.directory
+hyperliquid.discount
 kraken.discount
 redotpay.discount
 tron.discount
@@ -74402,6 +74413,7 @@ bullcattoken.info
 bullrealty.info
 busdminer.info
 butcher-exchange.info
+bybitportal.info
 cafenft.info
 cakewallet-guide.info
 campaign-ethena.info
@@ -75764,6 +75776,7 @@ guickwasp.ink
 help-triyst.ink
 hyper1iquid.ink
 hyperbeat.ink
+hyperliquid.ink
 ickaorlb.ink
 ickaoyz.ink
 identity-validation.ink
@@ -98453,6 +98466,7 @@ trezor-help.support
 trezordevicescheck.support
 trezorsdevices.support
 trezorwallet.support
+trust-eu.support
 trustwallet-assistance.support
 trustwalletcard.support
 trustwallethelp.support
@@ -100445,6 +100459,7 @@ kraken-official.top
 krakena.top
 krakenbi.top
 krakenbj.top
+krakenhk.top
 krakenx.top
 kratg.top
 krkn-shop.top
