@@ -8035,7 +8035,6 @@ uniswap11.netlify.app
 uniswapv3-holesky.netlify.app
 upcommunitycollectivevotingselection.netlify.app
 uphol-sso-cloud.netlify.app
-usdt-trust-wallet.netlify.app
 usdtrustwalletofficial.netlify.app
 v2-spookyswap.netlify.app
 variatoinal.netlify.app
