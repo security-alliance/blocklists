@@ -15462,6 +15462,7 @@ m.currencyexus.cc
 cursor-ai.cc
 curvance.cc
 curve-finance.cc
+cuveda.cc
 cxab.cc
 dainfo.cc
 dapp-tracker.cc
@@ -49949,7 +49950,6 @@ krakin-apps.wixstudio.com
 krakinlogin.wixstudio.com
 krakken-trading.wixstudio.com
 krakn-logon.wixstudio.com
-krakn-trade.wixstudio.com
 kraknlog.wixstudio.com
 krakunprologin.wixstudio.com
 krecken-assets.wixstudio.com
@@ -50919,7 +50919,6 @@ prefixexoduscdn.wixstudio.com
 primary-metamaskcdn.wixstudio.com
 pro-coin-base.wixstudio.com
 pro-engcoinbase.wixstudio.com
-pro-krakeenoro.wixstudio.com
 pro-krakencom.wixstudio.com
 proappa-metamaskext.wixstudio.com
 problem-cooinbase.wixstudio.com

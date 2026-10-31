@@ -15462,6 +15462,7 @@
 ||cursor-ai.cc^$all
 ||curvance.cc^$all
 ||curve-finance.cc^$all
+||cuveda.cc^$all
 ||cxab.cc^$all
 ||dainfo.cc^$all
 ||dapp-tracker.cc^$all
@@ -49949,7 +49950,6 @@
 ||krakinlogin.wixstudio.com^$all
 ||krakken-trading.wixstudio.com^$all
 ||krakn-logon.wixstudio.com^$all
-||krakn-trade.wixstudio.com^$all
 ||kraknlog.wixstudio.com^$all
 ||krakunprologin.wixstudio.com^$all
 ||krecken-assets.wixstudio.com^$all
@@ -50919,7 +50919,6 @@
 ||primary-metamaskcdn.wixstudio.com^$all
 ||pro-coin-base.wixstudio.com^$all
 ||pro-engcoinbase.wixstudio.com^$all
-||pro-krakeenoro.wixstudio.com^$all
 ||pro-krakencom.wixstudio.com^$all
 ||proappa-metamaskext.wixstudio.com^$all
 ||problem-cooinbase.wixstudio.com^$all
