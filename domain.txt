@@ -18706,7 +18706,6 @@ solaroid.click
 solarphantomportal.click
 solcash.click
 solcheck.click
-solmint.click
 solstreamer.click
 soluckchance.click
 solvex-cashreward.click
