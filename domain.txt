@@ -736,7 +736,6 @@ allocation-doppler.app
 allocation-enosys.app
 allocation-extended.app
 allocation-firelight.app
-allocation-flare.app
 allocation-hulo.app
 allocation-hylo.app
 allocation-hyperfoundation.app
