@@ -1724,8 +1724,6 @@ governance-flarenetwork.app
 governance-flarenetworks.app
 governance-hyperfoundation.app
 governance-kinetiq.app
-governance-layerzero.app
-governance-lido.app
 governance-morpho.app
 governance-octra.app
 governance-pendle.app
@@ -30512,7 +30510,6 @@ dex-screener.com
 dex-votes.com
 dexcake.com
 dexcreener-votings.com
-dexcreeners-voting.com
 dexewallet.com
 dexgat.com
 dexgrm.com
@@ -46998,7 +46995,6 @@ voting-xstocksfi.com
 voting-yieldbasis.com
 voting-zebec.com
 votingmonad.com
-votingokx.com
 votingondo.com
 votingplasma.com
 votings-embervalegame.com
