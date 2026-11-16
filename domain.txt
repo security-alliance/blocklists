@@ -16418,6 +16418,7 @@ wcasx.cc
 wealthgroundbreakers.cc
 web-dist.cc
 web-us.cc
+web1inch.cc
 web3-app.cc
 web3-conind.cc
 web3-hongkong.cc
@@ -92286,6 +92287,7 @@ hyper-lend.net
 hyperi1quid.net
 hyperliquid-allocation.net
 hyperliquidpolicy.net
+hyperstake.net
 hyprerlane.net
 hyprerswap.net
 ibericainvest.net
