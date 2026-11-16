@@ -118352,7 +118352,6 @@ vote-pons.xyz
 vote-pools.xyz
 vote-portal-flarefoundation.xyz
 vote-pyth.xyz
-vote-raydium.xyz
 vote-relayprotocol.xyz
 vote-rheafinance.xyz
 vote-rippie.xyz
