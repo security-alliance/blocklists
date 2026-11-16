@@ -14616,6 +14616,7 @@ ciawdbotatg.cam
 cmejp.cam
 coingeckorguide.cam
 coinme.cam
+glm.golem.network.colnlist.cam
 comex.cam
 compensationaave.cam
 cow-dapp.cam
@@ -96655,7 +96656,6 @@ off-ledger.org
 office365-update.org
 officeclient.org
 officialwlfi.org
-og-base.org
 okvallet.org
 okxwallet-v1.org
 ollamamodels.org
@@ -106442,6 +106442,7 @@ jumper-gov.top
 jumperapp.top
 jumperapp-allocation.top
 jumperxyz.top
+jumperxyz-boost.top
 jup-portal.top
 jup-verify.top
 jupitertrd.top
