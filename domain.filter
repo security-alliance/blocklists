@@ -16296,6 +16296,7 @@
 ||tw-pay.cc^$all
 ||twcrd.cc^$all
 ||twget.cc^$all
+||twplus-wallet.cc^$all
 ||twspays.cc^$all
 ||twt-refund.cc^$all
 ||twt-yourcard.cc^$all
