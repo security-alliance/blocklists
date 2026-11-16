@@ -12678,7 +12678,6 @@ rubic.at
 s1-safepal.at
 scotiaconnect-business.at
 sefepal.at
-121deo.senes.at
 121hiu.senes.at
 121jio.senes.at
 shop-ledger.at
