@@ -723,6 +723,7 @@ https://sites.google.com/view/exodus-wallet-pages/home
 https://sites.google.com/view/exodus-wallet-user/home
 https://sites.google.com/view/exodus-wallet/home
 https://sites.google.com/view/exodus-wallete/home
+https://sites.google.com/view/exodus-walletexod/home
 https://sites.google.com/view/exodus-web3-enus/home
 https://sites.google.com/view/exodus-web3-helps/home
 https://sites.google.com/view/exodus-web3-learn/home
@@ -741,6 +742,7 @@ https://sites.google.com/view/exodus-webus/home
 https://sites.google.com/view/exodus-wecomus/home
 https://sites.google.com/view/exodus-weeb3/home
 https://sites.google.com/view/exodus-wevb/home
+https://sites.google.com/view/exoduss-web/home
 https://sites.google.com/view/exodusse-web3/home
 https://sites.google.com/view/exodussweb3e/home
 https://sites.google.com/view/exodustransactionconfirmedbut
