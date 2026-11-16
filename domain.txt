@@ -81251,6 +81251,7 @@ onlineportaal-wetgevingspagina.info
 onstreampro.info
 oovefest.info
 opencard.info
+openvirtual-trust.info
 order-id0979.info
 org-coin.info
 org-flare.info
@@ -101310,6 +101311,7 @@ gambleeee.sbs
 gemini-coins.sbs
 gemini-eth.sbs
 get-refunds.sbs
+get-tw-card.sbs
 giewor.sbs
 gift-web.sbs
 giftcenter-web.sbs
