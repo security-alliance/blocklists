@@ -62400,6 +62400,7 @@
 ||5-governance-venice.pages.dev^$all
 ||5-governance-voltafamily.pages.dev^$all
 ||5-governance-zama.pages.dev^$all
+||5-governance-zamahub.pages.dev^$all
 ||5-governance-zamaorg.pages.dev^$all
 ||5-hookrfun.pages.dev^$all
 ||5-hub-centrifugegov.pages.dev^$all
@@ -110099,6 +110100,7 @@
 ||assetprotocols.world^$all
 ||astrono.world^$all
 ||atlantisdex.world^$all
+||1inchmainnetwork11.atoms.world^$all
 ||1inchnetwallet.atoms.world^$all
 ||1inchnetworkk.atoms.world^$all
 ||1inchnetworkings.pub.atoms.world^$all
