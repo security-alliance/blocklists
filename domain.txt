@@ -11748,7 +11748,6 @@ vote-spectrafinance.app
 vote-standardreserve.app
 vote-starknet.app
 vote-threews.app
-vote-troll.app
 vote-umbra.app
 vote-umbraprivacy.app
 vote-upeg.app
@@ -32718,7 +32717,6 @@ flarenetwork-security.com
 flarenetworkdapp.com
 flarenetworker.com
 flarenetworkportal.com
-flarenetworks-foundation.com
 flarenetworks-goverance.com
 flarenetworks-proposal.com
 flarenetworks-rewards.com
@@ -52255,7 +52253,6 @@ xaman-eligible.com
 xaman-invest.com
 xaman-redirect.com
 xaman-voting.com
-xaman-wallet.com
 xaman-xrplservice.com
 xamanappdesktop.com
 xamandesktopdapp.com
@@ -86230,7 +86227,6 @@ assets-fwa.lat
 asterdexvote.lat
 auth-verifua.lat
 avantis.lat
-babytroll.lat
 babytrollcoins.lat
 inky.beefy-hub.lat
 betw.lat
@@ -86388,7 +86384,6 @@ geospot.lat
 get-embercruve.lat
 getit.lat
 gls-grouy.lat
-goblin.lat
 gokiteai.lat
 googlemeet.lat
 gov-argus.lat
@@ -86430,7 +86425,6 @@ id-verification-server.lat
 iddeea.lat
 ifc-invest.lat
 ifcinvest.lat
-ilit.lat
 im-token-hk-cdn.lat
 im-tokens.lat
 incentive-firelight.lat
@@ -86450,7 +86444,6 @@ kaio.lat
 katanafdn.lat
 kinetiqxyz.lat
 kinocas.lat
-kittencrew.lat
 lighter.lat
 liminalmoney.lat
 linera.lat
@@ -112188,7 +112181,6 @@ ecosystem-solv.xyz
 ecosystem-standardreserve.xyz
 ecosystem-starknet.xyz
 ecosystem-stonkfun.xyz
-ecosystem-unipix.xyz
 ecosystem-usdai.xyz
 ecosystem-virtual.xyz
 ecosystem-virtualprotocol.xyz
@@ -112330,7 +112322,6 @@ enter-kintsu.xyz
 enter-lido.xyz
 enter-lidofi.xyz
 enter-lidofinance.xyz
-enter-lienfiapp.xyz
 enter-lighter.xyz
 enter-matrica.xyz
 enter-merkl.xyz
@@ -113058,7 +113049,6 @@ fomorobinhoodreward.xyz
 fomosolcomplete.xyz
 forgotten-eth.xyz
 fortune-bdg.xyz
-forum-arc.xyz
 forum-hyperfoundation.xyz
 forum-pool-discover.xyz
 found-mantle.xyz
@@ -118543,7 +118533,6 @@ wahyu.xyz
 waifu-treasury.xyz
 waitlist-arcus.xyz
 waitlist-kaleidofi.xyz
-wallet-aave.xyz
 wallet-backup-centr.xyz
 wallet-dominionmarket.xyz
 wallet-fablesfi.xyz
