@@ -57457,6 +57457,7 @@ oskarkregar.dev
 pr-7831.1inch-io-app.pages.dev
 1inch-prod-ui-d1k.pages.dev
 1morphoairdrop.pages.dev
+1walletconnect.pages.dev
 1xv.pages.dev
 2-0xfluid.pages.dev
 2-aave-allocations.pages.dev

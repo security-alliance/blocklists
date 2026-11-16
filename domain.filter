@@ -57457,6 +57457,7 @@
 ||pr-7831.1inch-io-app.pages.dev^$all
 ||1inch-prod-ui-d1k.pages.dev^$all
 ||1morphoairdrop.pages.dev^$all
+||1walletconnect.pages.dev^$all
 ||1xv.pages.dev^$all
 ||2-0xfluid.pages.dev^$all
 ||2-aave-allocations.pages.dev^$all
