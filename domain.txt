@@ -12845,7 +12845,6 @@ coinbase.com.bayern
 hdstreamz.com.bd
 binance.be
 97ee6.blogspot.be
-logincoinbasewallet.blogspot.be
 staking2portfolio.blogspot.be
 staking3portfolio.blogspot.be
 staking4portfolio.blogspot.be
