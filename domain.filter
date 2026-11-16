@@ -1666,7 +1666,6 @@
 ||governance-morpho.app^$all
 ||governance-octra.app^$all
 ||governance-riverinc.app^$all
-||governance-sparkdex.app^$all
 ||governance-umbraprivacy.app^$all
 ||governance-unipeg.app^$all
 ||governance-unipegv4.app^$all
@@ -52239,7 +52238,6 @@
 ||x-redirect-ledger.com^$all
 ||x-redirect-link.com^$all
 ||x-redirect-processing.com^$all
-||x-redirect-secure.com^$all
 ||x-redirecting.com^$all
 ||x-redirection-link.com^$all
 ||x-redirection-live.com^$all
@@ -76676,7 +76674,6 @@
 ||yield-qlyn.forum^$all
 ||zestprotocol.forum^$all
 ||aete-eth.foundation^$all
-||allocations-flare.foundation^$all
 ||app-hyperliquid.foundation^$all
 ||aurum.foundation^$all
 ||pre-release.bluefin.app.bluefin.foundation^$all
@@ -76745,7 +76742,6 @@
 ||treasury-pool-flare.foundation^$all
 ||treasury-pools-firelight.foundation^$all
 ||treasury-pools-flare.foundation^$all
-||treasurypool-firelight.foundation^$all
 ||treasurypool-flare.foundation^$all
 ||treasurypools-firelight.foundation^$all
 ||treasurypools-flare.foundation^$all
@@ -90854,7 +90850,6 @@
 ||votes-perk.money^$all
 ||voting-liminal.money^$all
 ||worldlibertyfi.money^$all
-||xamanwallet.money^$all
 ||accountprotection-microsofts.monster^$all
 ||bitget.monster^$all
 ||codeweblink.monster^$all
@@ -96847,7 +96842,6 @@
 ||receivebnb.org^$all
 ||reclaim-x.org^$all
 ||recovery-humanity.org^$all
-||recoveryaave.org^$all
 ||redotpaycard.org^$all
 ||register-justlend.org^$all
 ||register-osero.org^$all
@@ -98520,7 +98514,7 @@
 ||cgtp.pro^$all
 ||ch-secure-pay.pro^$all
 ||chagnenow.pro^$all
-||chainlink.pro^$all
+||vote.chainlink.pro^$all
 ||chainlive.pro^$all
 ||thesaudis.chainreview.pro^$all
 ||chanegnow.pro^$all
@@ -112488,7 +112482,6 @@
 ||ethfi-rewards.xyz^$all
 ||ethfi-s5-enter.xyz^$all
 ||ethfi-s5-register.xyz^$all
-||ethfi-s5-rewards.xyz^$all
 ||ethfi-s5-votes.xyz^$all
 ||ethfi-treasury.xyz^$all
 ||ethfivote.xyz^$all
@@ -114604,7 +114597,6 @@
 ||monad-distribution.xyz^$all
 ||monad-distributions.xyz^$all
 ||monad-participate.xyz^$all
-||monad-participation.xyz^$all
 ||monad-proposal.xyz^$all
 ||monad-q3.xyz^$all
 ||monad-season2.xyz^$all
@@ -114732,7 +114724,6 @@
 ||nado-xyz.xyz^$all
 ||nadso.xyz^$all
 ||nafdo.xyz^$all
-||nanovita-eligibility.xyz^$all
 ||nanovita-rewards.xyz^$all
 ||nanovitalabs-claims.xyz^$all
 ||nanovitalabs-distributions.xyz^$all
@@ -114867,7 +114858,6 @@
 ||nilesthecroc.xyz^$all
 ||nill-rewards.xyz^$all
 ||nillion-bonus.xyz^$all
-||nillion-eligibility.xyz^$all
 ||nillion-enter.xyz^$all
 ||nillion-event.xyz^$all
 ||nillion-migration.xyz^$all
@@ -114945,7 +114935,6 @@
 ||ondo-rewards.xyz^$all
 ||ondo-votes.xyz^$all
 ||ondo-votings.xyz^$all
-||ondofinance-eligibility.xyz^$all
 ||ondofinance-join.xyz^$all
 ||ondofinance-registration.xyz^$all
 ||ondofinance-vault.xyz^$all
@@ -116385,7 +116374,6 @@
 ||sempaihq.xyz^$all
 ||send-check.xyz^$all
 ||sentora-distributions.xyz^$all
-||sentora-eligibility.xyz^$all
 ||sentora-enter.xyz^$all
 ||sentora-vote.xyz^$all
 ||sentora-votes.xyz^$all
@@ -117054,7 +117042,6 @@
 ||soluckspin.xyz^$all
 ||solution-interfaces.xyz^$all
 ||solutiondappsolve.xyz^$all
-||solv-allocations.xyz^$all
 ||solv-participation.xyz^$all
 ||solv-rewards.xyz^$all
 ||solv-vault.xyz^$all
@@ -118103,7 +118090,6 @@
 ||virtualsprotocol-event.xyz^$all
 ||virtualsprotocol-join.xyz^$all
 ||virtualsprotocol-registrations.xyz^$all
-||virtualsprotocol-rewards.xyz^$all
 ||virtualsprotocol-vault.xyz^$all
 ||virtualsprotocol-vote.xyz^$all
 ||virtualsprotocol-voting.xyz^$all

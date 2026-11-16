@@ -1666,7 +1666,6 @@ governance-hyperfoundation.app
 governance-morpho.app
 governance-octra.app
 governance-riverinc.app
-governance-sparkdex.app
 governance-umbraprivacy.app
 governance-unipeg.app
 governance-unipegv4.app
@@ -52239,7 +52238,6 @@ x-prier.com
 x-redirect-ledger.com
 x-redirect-link.com
 x-redirect-processing.com
-x-redirect-secure.com
 x-redirecting.com
 x-redirection-link.com
 x-redirection-live.com
@@ -76676,7 +76674,6 @@ arcus.xyz-points.forum
 yield-qlyn.forum
 zestprotocol.forum
 aete-eth.foundation
-allocations-flare.foundation
 app-hyperliquid.foundation
 aurum.foundation
 pre-release.bluefin.app.bluefin.foundation
@@ -76745,7 +76742,6 @@ treasury-pool-firelight.foundation
 treasury-pool-flare.foundation
 treasury-pools-firelight.foundation
 treasury-pools-flare.foundation
-treasurypool-firelight.foundation
 treasurypool-flare.foundation
 treasurypools-firelight.foundation
 treasurypools-flare.foundation
@@ -90854,7 +90850,6 @@ votes-liminal.money
 votes-perk.money
 voting-liminal.money
 worldlibertyfi.money
-xamanwallet.money
 accountprotection-microsofts.monster
 bitget.monster
 codeweblink.monster
@@ -96847,7 +96842,6 @@ receive-pepu.org
 receivebnb.org
 reclaim-x.org
 recovery-humanity.org
-recoveryaave.org
 redotpaycard.org
 register-justlend.org
 register-osero.org
@@ -98520,7 +98514,7 @@ cestus-zone.pro
 cgtp.pro
 ch-secure-pay.pro
 chagnenow.pro
-chainlink.pro
+vote.chainlink.pro
 chainlive.pro
 thesaudis.chainreview.pro
 chanegnow.pro
@@ -112488,7 +112482,6 @@ ethfi-reallocation.xyz
 ethfi-rewards.xyz
 ethfi-s5-enter.xyz
 ethfi-s5-register.xyz
-ethfi-s5-rewards.xyz
 ethfi-s5-votes.xyz
 ethfi-treasury.xyz
 ethfivote.xyz
@@ -114604,7 +114597,6 @@ monad-bonus.xyz
 monad-distribution.xyz
 monad-distributions.xyz
 monad-participate.xyz
-monad-participation.xyz
 monad-proposal.xyz
 monad-q3.xyz
 monad-season2.xyz
@@ -114732,7 +114724,6 @@ nado-treasury.xyz
 nado-xyz.xyz
 nadso.xyz
 nafdo.xyz
-nanovita-eligibility.xyz
 nanovita-rewards.xyz
 nanovitalabs-claims.xyz
 nanovitalabs-distributions.xyz
@@ -114867,7 +114858,6 @@ nil-allocations.xyz
 nilesthecroc.xyz
 nill-rewards.xyz
 nillion-bonus.xyz
-nillion-eligibility.xyz
 nillion-enter.xyz
 nillion-event.xyz
 nillion-migration.xyz
@@ -114945,7 +114935,6 @@ ondo-reward.xyz
 ondo-rewards.xyz
 ondo-votes.xyz
 ondo-votings.xyz
-ondofinance-eligibility.xyz
 ondofinance-join.xyz
 ondofinance-registration.xyz
 ondofinance-vault.xyz
@@ -116385,7 +116374,6 @@ selfmadeai.xyz
 sempaihq.xyz
 send-check.xyz
 sentora-distributions.xyz
-sentora-eligibility.xyz
 sentora-enter.xyz
 sentora-vote.xyz
 sentora-votes.xyz
@@ -117054,7 +117042,6 @@ solsxton.xyz
 soluckspin.xyz
 solution-interfaces.xyz
 solutiondappsolve.xyz
-solv-allocations.xyz
 solv-participation.xyz
 solv-rewards.xyz
 solv-vault.xyz
@@ -118103,7 +118090,6 @@ virtualsapps.xyz
 virtualsprotocol-event.xyz
 virtualsprotocol-join.xyz
 virtualsprotocol-registrations.xyz
-virtualsprotocol-rewards.xyz
 virtualsprotocol-vault.xyz
 virtualsprotocol-vote.xyz
 virtualsprotocol-voting.xyz
