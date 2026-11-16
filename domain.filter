@@ -14670,6 +14670,7 @@
 ||ledgerguides.cam^$all
 ||lives.cam^$all
 ||us.login-pollymarket.cam^$all
+||m365online-microsoft.cam^$all
 ||magiceden.cam^$all
 ||mantie.cam^$all
 ||mashoope.cam^$all
@@ -24569,6 +24570,7 @@
 ||access-slush.com^$all
 ||access-suspicious-x.com^$all
 ||access-x.com^$all
+||access365online.com^$all
 ||accessdmca-x.com^$all
 ||accesspro-whatsapp.com^$all
 ||accessregain-x.com^$all
@@ -34077,6 +34079,7 @@
 ||google-meetlive.com^$all
 ||google-static-1a1a4b54e838aa62859eaaf9d2b0b199.com^$all
 ||google-verifynow.com^$all
+||google34589.com^$all
 ||googleauditing.com^$all
 ||googlegemini-earlyaccess.com^$all
 ||googlegeminiearly-access.com^$all
@@ -34085,6 +34088,8 @@
 ||googleplaydeutsche.com^$all
 ||googleplaypro.com^$all
 ||googleportalrep.com^$all
+||googlereviewactivity.com^$all
+||googlesupporticket.com^$all
 ||googletrustandsaftey.com^$all
 ||googlewalletextension.com^$all
 ||googlewalletsextension.com^$all
@@ -46318,6 +46323,7 @@
 ||lldoapps.us.com^$all
 ||fifththird.loginonline.us.com^$all
 ||luckyblock.us.com^$all
+||meeting.us.com^$all
 ||metamask.us.com^$all
 ||pemdle-protocole.us.com^$all
 ||ponsfamily.us.com^$all
@@ -46354,12 +46360,15 @@
 ||us03zoom.us.com^$all
 ||us05zoom.us.com^$all
 ||us06zoom.us.com^$all
+||us08zoom.us.com^$all
 ||us09zoom.us.com^$all
 ||us10zoom.us.com^$all
 ||us11zoom.us.com^$all
 ||us12zoom.us.com^$all
 ||us13zoom.us.com^$all
 ||us14zoom.us.com^$all
+||us15zoom.us.com^$all
+||us16zoom.us.com^$all
 ||usbankhcbc.us.com^$all
 ||usdcrypto.us.com^$all
 ||variational.us.com^$all
@@ -108965,6 +108974,7 @@
 ||us70web-zoom.us^$all
 ||us71webzoom.us^$all
 ||us722web.us^$all
+||us75webzoom.us^$all
 ||us76webzoom.us^$all
 ||us78webzoom.us^$all
 ||us80web-zoom.us^$all

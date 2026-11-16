@@ -14670,6 +14670,7 @@ yqbd--.laxmihotels-us.cam
 ledgerguides.cam
 lives.cam
 us.login-pollymarket.cam
+m365online-microsoft.cam
 magiceden.cam
 mantie.cam
 mashoope.cam
@@ -24569,6 +24570,7 @@ access-phantom.com
 access-slush.com
 access-suspicious-x.com
 access-x.com
+access365online.com
 accessdmca-x.com
 accesspro-whatsapp.com
 accessregain-x.com
@@ -34077,6 +34079,7 @@ google-meet-app.com
 google-meetlive.com
 google-static-1a1a4b54e838aa62859eaaf9d2b0b199.com
 google-verifynow.com
+google34589.com
 googleauditing.com
 googlegemini-earlyaccess.com
 googlegeminiearly-access.com
@@ -34085,6 +34088,8 @@ googlemeetnew.com
 googleplaydeutsche.com
 googleplaypro.com
 googleportalrep.com
+googlereviewactivity.com
+googlesupporticket.com
 googletrustandsaftey.com
 googlewalletextension.com
 googlewalletsextension.com
@@ -46318,6 +46323,7 @@ liwe.us.com
 lldoapps.us.com
 fifththird.loginonline.us.com
 luckyblock.us.com
+meeting.us.com
 metamask.us.com
 pemdle-protocole.us.com
 ponsfamily.us.com
@@ -46354,12 +46360,15 @@ uniqlo.us.com
 us03zoom.us.com
 us05zoom.us.com
 us06zoom.us.com
+us08zoom.us.com
 us09zoom.us.com
 us10zoom.us.com
 us11zoom.us.com
 us12zoom.us.com
 us13zoom.us.com
 us14zoom.us.com
+us15zoom.us.com
+us16zoom.us.com
 usbankhcbc.us.com
 usdcrypto.us.com
 variational.us.com
@@ -108965,6 +108974,7 @@ us64webzoom.us
 us70web-zoom.us
 us71webzoom.us
 us722web.us
+us75webzoom.us
 us76webzoom.us
 us78webzoom.us
 us80web-zoom.us
