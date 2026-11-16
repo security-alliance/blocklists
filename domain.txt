@@ -75173,7 +75173,6 @@ laruletaaleatoria.es
 ll-ledger.es
 luciaesclapez.es
 myneweftbook.es
-onedriive.es
 coinbase.org.es
 kalshi.org.es
 polymarket.org.es
@@ -94953,7 +94952,6 @@ teamcoinbasesupport.online
 teams-interviews-mail.online
 teams-invitation.online
 teams-meeting-calendar-event-schedule.online
-teams-mircosoft.online
 teams-room.online
 teamsinvite.online
 teamsmeetingshq.online
@@ -108752,7 +108750,6 @@ virtualconnect.us
 virtualcountry.us
 virtualreviewstat.us
 virtualsession.us
-vizmeet.us
 metamask.vv8.us
 vveb04.us
 w05zoom.us
