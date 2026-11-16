@@ -118556,7 +118556,6 @@ wallet-ore.xyz
 walletconnect-airdrop.xyz
 wallets-bitget.xyz
 wallets-fablesfi.xyz
-wallets-flare.xyz
 wallets-infinifi.xyz
 wallets-kinetiq.xyz
 wallets-lighter.xyz
