@@ -90121,7 +90121,6 @@ unijoin.love
 97ee6.blogspot.lt
 coinbase-login.blogspot.lt
 coinbase-my-account.blogspot.lt
-logincoinbasewallet.blogspot.lt
 detect.lt
 polymarket.apps.imi.lt
 polymarket-v2.apps.imi.lt
@@ -94852,7 +94851,6 @@ qa-prmo.online
 qb-ledger.online
 qfsweb3quantumvault.online
 webtrader.quantumcapltd.online
-app.quest-lab.online
 quickmeetup.online
 quicktrx.online
 rain-bet.online
