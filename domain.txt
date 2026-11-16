@@ -31665,7 +31665,6 @@ en-us-us-coinbase.com
 en-us-usaa.com
 en-usa-rainbet.com
 en-usa-stake.com
-across.app.bridge.en-v4.com
 trezor.en-vaults.com
 en-yoroi-wallet.com
 enable-cibcalerts.com
@@ -34753,7 +34752,6 @@ home-whatapps.com
 homebissell.com
 homeenergy-ledger.com
 homeinspectionsdelaware.com
-homepage-secure.com
 homes4vetsllc.com
 world-liberty-financial-token.homizbags.com
 homnifi.com
@@ -47590,7 +47588,6 @@ web3novas.com
 web3okxe.com
 web3openvk.com
 web3phantledgar-defi.com
-web3protocol-earn.com
 web3pvz.com
 web3river5vip.com
 web3river6vip.com
@@ -73274,7 +73271,6 @@ vote-teaprotocol-com.pages.dev
 vote-teaprotocol-net.pages.dev
 vote-terminal.pages.dev
 vote-thena.pages.dev
-vote-theos.pages.dev
 vote-tokensworks-net.pages.dev
 vote-torchpad.pages.dev
 vote-usenest.pages.dev
@@ -113226,7 +113222,6 @@ gover-flr.xyz
 gover-kinetiqfoundation.xyz
 gover-paperfoundation.xyz
 govern-aave.xyz
-govern-firelight.xyz
 govern-jumper.xyz
 govern-kinetiq.xyz
 govern-lighter.xyz
