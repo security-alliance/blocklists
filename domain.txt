@@ -14328,7 +14328,6 @@ aerodrome.8ao0i9oa.buzz
 90m.buzz
 accountprotection-microsofts.buzz
 accounts-google.buzz
-apinaga5btd.buzz
 argusworld.buzz
 basefxo.buzz
 basket168-gemini.buzz
@@ -14351,7 +14350,6 @@ gift-web.buzz
 giftcenter-web.buzz
 gifts-gifts.buzz
 gragonmoney-bonus.buzz
-mailaccount-sales-cash.buzz
 melaniascam.buzz
 memescancore.buzz
 memescandata.buzz
@@ -14834,7 +14832,6 @@ aazuencorxax.casa
 acrs.casa
 acrsoss.casa
 aerodrome.casa
-apinaga1vxr.casa
 auth-www-secure3-connect.casa
 birfost.casa
 blacksbullsol.casa
@@ -15318,7 +15315,6 @@ cardmesh.cc
 cards-tw.cc
 cardtrustwallet.cc
 carpro-coin.cc
-cash-app.cc
 cashscat.cc
 casiflow.cc
 casihead.cc
@@ -16708,10 +16704,6 @@ api-signer.cfd
 api-stream.cfd
 api-v1-sync.cfd
 api-worker.cfd
-apids-cloud.cfd
-apids-clouds.cfd
-apinaga4bql.cfd
-apinaga7xpd.cfd
 aple-id-verification.cfd
 aple-id-verification-services.cfd
 apleidserver-verification.cfd
@@ -33552,7 +33544,6 @@ gimppp.com
 ginelle-coinbase.com
 gingobet.com
 git-google.com
-git-tanstack.com
 github-team.com
 giunovamx.com
 giveaway-trustwallet.com
@@ -53533,8 +53524,6 @@ looprx166-tpui.blogspot.com.cy
 robinhood-login-en.blogspot.com.cy
 trust-wallet-login.blogspot.com.cy
 trustwalletcustomerservicephonenumber.blogspot.com.cy
-0auth.cyou
-2api.cyou
 aave-governance.cyou
 abcoeuer-minvip.cyou
 account-appid-verification.cyou
@@ -53722,7 +53711,6 @@ mypoints-gift.cyou
 nanguang.cyou
 neglecm.cyou
 netnetcapital.cyou
-new-api.cyou
 norbeasurveylink.cyou
 onchian.cyou
 openauthentication.cyou
@@ -76602,7 +76590,6 @@ vote-libertyswap.finance
 vote-lido.finance
 vote-mainstreet.finance
 vote-mainstreets.finance
-vote-maple.finance
 vote-marinade.finance
 vote-metronome.finance
 vote-multipli.finance
@@ -76998,7 +76985,6 @@ airdrop-fobo.fun
 airdropair.fun
 airdropalert.fun
 airdroppy.fun
-aiweb3.fun
 allocate-embercurve.fun
 allocation-agencypad.fun
 allocation-embercurve.fun
@@ -77721,7 +77707,6 @@ reviesallchatverserride.fun
 reward-backpack.fun
 reward-embercurve.fun
 reward-fwa.fun
-reward-vip.fun
 rewards-alt.fun
 rewards-arcium.fun
 rewards-bitmoon.fun
@@ -78745,7 +78730,6 @@ air-drop.icu
 airdrop-blast.icu
 airdropmemecrypto.icu
 airdropusdt.icu
-aishimint.icu
 aligned.icu
 alivadis.icu
 allocate-concretefoundation.icu
@@ -78818,7 +78802,6 @@ amltrustanalyse.icu
 amltrustchecker.icu
 ansem.icu
 apexclaim-info24.icu
-api-beyond.icu
 apmcacoin.icu
 rewards.app-3jane.icu
 app-arcusgovernance.icu
@@ -79564,7 +79547,6 @@ kucoinus.icu
 kuliba.icu
 kwgyaf.icu
 laptoptoken.icu
-layer0.icu
 layooo.icu
 ledger-com-app.icu
 ledger-com-apps.icu
@@ -86363,10 +86345,6 @@ allocation-usepaid.lat
 alphax.lat
 ansemcoin.lat
 apiary.lat
-apids-cloud.lat
-apids-clouds.lat
-apinaga1kdx.lat
-apinaga5vwr.lat
 aple-id-verification.lat
 aple-id-verification-services.lat
 app-aerosxyz.lat
@@ -89795,7 +89773,6 @@ ansems.lol
 ansemsol.lol
 apexforge.lol
 apibigiet.lol
-apids-cloud.lol
 aple-id-verification.lol
 aple-id-verification-services.lol
 apleidserver-verification.lol
@@ -90021,7 +89998,6 @@ lordi-film1.lol
 lordi-film2.lol
 luciarh.lol
 lumpum.lol
-mailaccount-sales-cash.lol
 makealiensgreatagain.lol
 marinadestakes.lol
 mate-wallet.lol
@@ -90213,7 +90189,6 @@ toad-coin.lol
 tpwallet.lol
 tpwallet-web.lol
 tpwallet-web3.lol
-tpwalletweb3.lol
 treasury-netnet.lol
 treasury-plasma.lol
 trezor-suite.lol
@@ -91017,7 +90992,6 @@ coin-strike-app.monster
 cryptomixer.monster
 ghosttracebuildhaze.monster
 hyperliquid.monster
-mailaccount-sales-cash.monster
 my-rewards.monster
 myis-rewards.monster
 mythino.monster
@@ -100281,10 +100255,6 @@ amlfastscan.sbs
 analytic-web3.sbs
 anyone-migration.sbs
 api-biubiu.sbs
-apids-cloud.sbs
-apids-clouds.sbs
-apinaga5vtr.sbs
-apinaga7kql.sbs
 aple-id-verification.sbs
 aple-id-verification-services.sbs
 apleidserver-verification.sbs
@@ -100340,7 +100310,6 @@ auth-securepage.sbs
 auth-verify.sbs
 authenticbookchannel.sbs
 authenticlearncourse.sbs
-authenticpodtalk.sbs
 authenticvideoaid.sbs
 autofamr.sbs
 awardsfd.sbs
@@ -101919,7 +101888,6 @@ secure-deal.sbs
 flareclaim-accessnetwork.secure-servers.sbs
 secure-token.sbs
 secure-tyndall.sbs
-secure-web.sbs
 secureamacqi.sbs
 secured-connecting-v2.sbs
 secured-connecting-v3.sbs
@@ -105423,7 +105391,6 @@ kpkzg7ewba.056139-com0.top
 17nishuodeac.top
 197441.top
 197841.top
-1fi0j.top
 1iibgfi7.top
 23236721.top
 ccaekpkje5.2333385-com0.top
@@ -105436,7 +105403,6 @@ nyqkpkwepq.2333385-com0.top
 3jane.top
 3jane-allocation.top
 3lrxwe.top
-3yfi3.top
 42htx.top
 53hcusas.top
 53htx.top
@@ -105454,7 +105420,6 @@ bs.856435.top
 874ikjda.top
 vwdgbn.888coin.top
 894975.top
-8fi5n.top
 8q45vb.top
 93htx.top
 95ftx.top
@@ -105578,7 +105543,6 @@ annvvesf-online.top
 annvvesf-wev.top
 anonsolana.top
 ansemonsol.top
-api-check.top
 api-sync.top
 api-x.top
 apip2p.top
@@ -105791,9 +105755,6 @@ bold-bridge-io.top
 bold-bridge-pro.top
 bold-cloud-app.top
 bonk-inu.top
-bonus-rewards.top
-bonus-rewardsh.top
-bonus-rewardsz.top
 booklivemeeting.top
 boxa.top
 boysclubandy.top
@@ -105870,9 +105831,6 @@ claims-firelight.top
 claims-flarenetwork.top
 claims-rewards.top
 claims-usdai.top
-claro-rewardsd.top
-claro-rewardsn.top
-claro-rewardsq.top
 classicelegance.top
 clean-route-studio.top
 clear-hub-io.top
@@ -106361,7 +106319,6 @@ gicus.top
 giftcenter-web.top
 giftsol.top
 gisnz.top
-give-get.top
 gjjlwimtmtngqynimultgxotqngjkyzamqbgaaadkhdgabhd0sqgd.top
 global-sync-program.top
 globalfcc.top
@@ -107157,8 +107114,6 @@ rewards-my.top
 rewards-usdaiecosystem.top
 rewards-yieldbasis.top
 rewards-zama.top
-rewardsaue.top
-rewardsyou.top
 rfi8d9ql.top
 richguy-rewards.top
 app.risefoundation.top
@@ -107230,7 +107185,6 @@ season5-proposal-etherfi.top
 seasons2-firelight.top
 seccuredocumennt.top
 secure-8988882.top
-secure-doc.top
 secure-doc-top.top
 secure-invitess.top
 secure-spin-casino.top
@@ -107483,7 +107437,6 @@ tp79276.top
 tp79472.top
 tp79760.top
 tpolymarket.top
-tpwallet-web3.top
 trade-phantom.top
 trade-sushi.top
 tradesushi.top
@@ -107570,7 +107523,6 @@ upgrade-aero.top
 upgrade-aeroxyz.top
 upgrader-now.top
 upwardform.top
-us-coin.top
 us00web-meeting.top
 us02web-zoom.top
 usaweb3-lsegg.top
