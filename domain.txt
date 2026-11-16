@@ -32587,7 +32587,6 @@ firelight-portal2.com
 firelight-rewards2.com
 firelight-round.com
 firelight-round2.com
-firelight-s2.com
 firelight-snapshot2.com
 firelight-tge.com
 firelight-vault.com
@@ -76340,7 +76339,6 @@ seasons2-firelight.finance
 secure-moonwell.finance
 security-moonwell.finance
 security-tectonic.finance
-set-firelight.finance
 signup-ondo.finance
 silstice.finance
 simbiosis.finance
@@ -81325,7 +81323,6 @@ proposal-bananagun.info
 proposal-chainink.info
 proposal-ethena.info
 proposal-etherfi.info
-proposal-firelight.info
 proposal-frax.info
 proposal-fwa.info
 proposal-injective.info
