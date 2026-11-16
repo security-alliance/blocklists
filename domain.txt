@@ -162,7 +162,6 @@ bwrnoexodus-wallet-sso.framer.ai
 canetcoinappcdn.framer.ai
 cloud-trzors.framer.ai
 coenbaze.framer.ai
-coinbase-pro-login.framer.ai
 coinbse-sso.framer.ai
 coinpro-cdn-authe.framer.ai
 coinsquare-cdn-en-home.framer.ai
