@@ -11475,7 +11475,6 @@
 ||umbra-web-v2.vercel.app^$all
 ||uni-app-web.vercel.app^$all
 ||uni-lab-rosy.vercel.app^$all
-||uniswap-2-0.vercel.app^$all
 ||uniswap-8n36nbtuo-tidbitsjs.vercel.app^$all
 ||uniswap-app-dusky.vercel.app^$all
 ||uniswap-azure.vercel.app^$all
@@ -19108,7 +19107,6 @@
 ||flarenetworks-vote.cloud^$all
 ||flarenetworks-votes.cloud^$all
 ||flarenetworks-xrp.cloud^$all
-||trustwallet.flow-network.cloud^$all
 ||flt-event.cloud^$all
 ||flt-genesis.cloud^$all
 ||dao.fluid-finance.cloud^$all
