@@ -1632,6 +1632,7 @@ getmask.app
 getpikashow.app
 gets-usepaid.app
 gettrustcard.app
+gettrustsupport.app
 getusdd.app
 gitdex.app
 gitlawb.app
@@ -45422,6 +45423,7 @@ trustswallets.com
 trusttws.com
 trustvaullltx.com
 trustvvallet.com
+trustwa1let.com
 trustwalat.com
 trustwalet-card.com
 trustwall-card.com
