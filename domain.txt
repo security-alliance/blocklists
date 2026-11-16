@@ -1941,6 +1941,7 @@ trustwallet-supporthelp.lovable.app
 trustwalletcustomersupportserviceteam.lovable.app
 trustwalletservice.lovable.app
 trustwalletsupport-center.lovable.app
+walletconnectorg.lovable.app
 luckyblock-casino.app
 lvvas.app
 echo-cr6.madethis.app
@@ -45435,6 +45436,7 @@ trustwallet-cryptocard.com
 trustwallet-dapps.com
 trustwallet-download.com
 trustwallet-europ.com
+trustwallet-event.com
 trustwallet-fr.com
 trustwallet-goldcard.com
 trustwallet-guide.com
@@ -45531,6 +45533,7 @@ trustwalletdocs.com
 trustwalletdownload.com
 trustwalletdual.com
 trustwalletecard.com
+trustwalletelite.com
 trustwalletemergencydeposit.com
 trustwalletescrowsupport.com
 trustwalletexchange.com
@@ -108910,6 +108913,7 @@ metamask-wallett.blogspot.com.uy
 metamaskextension-us.blogspot.com.uy
 metamasklogink.blogspot.com.uy
 trezor-suite.blogspot.com.uy
+trustwallet-secure.blogspot.com.uy
 obsidian-os.uz
 a16zcrypto.vc
 coinbase.com.vc
