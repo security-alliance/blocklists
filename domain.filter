@@ -3435,6 +3435,7 @@
 ||evmcheck.netlify.app^$all
 ||evmchecker.netlify.app^$all
 ||evmcheckers.netlify.app^$all
+||exodus-tecnoclin.netlify.app^$all
 ||exoduswallet-support.netlify.app^$all
 ||faq-cloud-uphold.netlify.app^$all
 ||firelightfi42.netlify.app^$all
@@ -76740,7 +76741,6 @@
 ||tge--flare.foundation^$all
 ||treasury-espresso.foundation^$all
 ||treasury-ethena.foundation^$all
-||treasury-flare.foundation^$all
 ||treasury-pool-firelight.foundation^$all
 ||treasury-pool-flare.foundation^$all
 ||treasury-pools-firelight.foundation^$all
@@ -116380,6 +116380,7 @@
 ||secz-track.xyz^$all
 ||seedocu.xyz^$all
 ||seihires.xyz^$all
+||selcuksportv.xyz^$all
 ||selfmadeai.xyz^$all
 ||sempaihq.xyz^$all
 ||send-check.xyz^$all

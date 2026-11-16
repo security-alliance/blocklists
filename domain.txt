@@ -3435,6 +3435,7 @@ evm-yn.netlify.app
 evmcheck.netlify.app
 evmchecker.netlify.app
 evmcheckers.netlify.app
+exodus-tecnoclin.netlify.app
 exoduswallet-support.netlify.app
 faq-cloud-uphold.netlify.app
 firelightfi42.netlify.app
@@ -76740,7 +76741,6 @@ sunrisedefi.foundation
 tge--flare.foundation
 treasury-espresso.foundation
 treasury-ethena.foundation
-treasury-flare.foundation
 treasury-pool-firelight.foundation
 treasury-pool-flare.foundation
 treasury-pools-firelight.foundation
@@ -116380,6 +116380,7 @@ securityonedrivehome.xyz
 secz-track.xyz
 seedocu.xyz
 seihires.xyz
+selcuksportv.xyz
 selfmadeai.xyz
 sempaihq.xyz
 send-check.xyz
