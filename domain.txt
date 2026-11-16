@@ -31672,7 +31672,6 @@ en-us-us-coinbase.com
 en-us-usaa.com
 en-usa-rainbet.com
 en-usa-stake.com
-app.across.en-v4.com
 across.app.bridge.en-v4.com
 trezor.en-vaults.com
 en-yoroi-wallet.com
