@@ -1436,7 +1436,6 @@ arcdomains-fkjbxqbmtg.edgeone.app
 arclendreally-m8x8ugdmr0.edgeone.app
 echo-os-dpsg5vbom90h.edgeone.app
 echo-os2-dpod45gkramj.edgeone.app
-smooth-rose-ykvsmcdjmu-oikpzq7x9o.edgeone.app
 edgex-exchange.app
 eggonhype.app
 ekubo.app
