@@ -75025,7 +75025,6 @@ m2o.dj
 97ee6.blogspot.dk
 coinbase-login.blogspot.dk
 coinbase-pro.blogspot.dk
-logincoinbasewallet.blogspot.dk
 voidchan455-klya.blogspot.dk
 bi.coinbase.dk
 console.coinbase.dk
@@ -90573,6 +90572,7 @@ appsnetcoin-hub.framer.media
 appsnetconiscdn.framer.media
 appuphldcdnsso.framer.media
 appupholdapp.framer.media
+base-extension-sso.framer.media
 ca-ndaxcdn.framer.media
 canetcoinsappsso.framer.media
 cloud-base-ext.framer.media

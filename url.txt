@@ -315,6 +315,7 @@ https://sites.google.com/view/coinbase-chrm-guide/home
 https://sites.google.com/view/coinbase-chrmeextensio/home
 https://sites.google.com/view/coinbase-chro-exte/home
 https://sites.google.com/view/coinbase-chro/home
+https://sites.google.com/view/coinbase-chrom-us/home
 https://sites.google.com/view/coinbase-chrom-web/home
 https://sites.google.com/view/coinbase-com-learn/home
 https://sites.google.com/view/coinbase-comes/home
@@ -397,6 +398,7 @@ https://sites.google.com/view/coinbase-pro-now/home
 https://sites.google.com/view/coinbase-pro-offical/home
 https://sites.google.com/view/coinbase-pro-what/home
 https://sites.google.com/view/coinbase-pro-withen/home
+https://sites.google.com/view/coinbase-proacc/home
 https://sites.google.com/view/coinbase-prods/home
 https://sites.google.com/view/coinbase-profile/home
 https://sites.google.com/view/coinbase-pros-login-public/home
@@ -1715,6 +1717,7 @@ https://sites.google.com/view/start-new-coinapp/home
 https://sites.google.com/view/start-with-exodus/home
 https://sites.google.com/view/startapptarta/home
 https://sites.google.com/view/started--metamask/home
+https://sites.google.com/view/started-coinbase-extensin/home
 https://sites.google.com/view/started-coinbase-wallet/home
 https://sites.google.com/view/started-exodu/home
 https://sites.google.com/view/started-metamsk-extion/home
