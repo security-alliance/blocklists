@@ -98729,6 +98729,7 @@
 ||defendercontrol.pro^$all
 ||defi-risk.pro^$all
 ||defialma.pro^$all
+||deifllama.pro^$all
 ||derivexyz.pro^$all
 ||dex-app.pro^$all
 ||dexscerener.pro^$all
@@ -100454,6 +100455,7 @@
 ||dex-app.sbs^$all
 ||dexsport-v2.sbs^$all
 ||app.dfllma.sbs^$all
+||app.dfllrna.sbs^$all
 ||diagnostics-check.sbs^$all
 ||digexexpertflux.sbs^$all
 ||digital-bimo.sbs^$all
