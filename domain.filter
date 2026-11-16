@@ -15079,6 +15079,8 @@
 ||258vvv.cc^$all
 ||30256.cc^$all
 ||3leaf.cc^$all
+||5eu-zoom.cc^$all
+||5us-zoom.cc^$all
 ||5web.cc^$all
 ||5z30.cc^$all
 ||600105.cc^$all
@@ -79491,6 +79493,7 @@
 ||based.one-eco.icu^$all
 ||based.one-ecosystem.icu^$all
 ||based.one-foundation.icu^$all
+||onenotelive-sharedocu.icu^$all
 ||online-wsevvc.icu^$all
 ||onregov.icu^$all
 ||governance.onyx-allocations.icu^$all
@@ -94603,6 +94606,7 @@
 ||meeting-in.online^$all
 ||meeting-join-setup.online^$all
 ||meeting-on.online^$all
+||meeting-zoom-room.online^$all
 ||meetnewmeet.online^$all
 ||meetng.online^$all
 ||meetngs.online^$all
@@ -101961,6 +101965,7 @@
 ||zenkoprotocol.sbs^$all
 ||zipcoin.sbs^$all
 ||zoom-meeting.sbs^$all
+||zoom-sharingfiles.sbs^$all
 ||zoom01webin.sbs^$all
 ||zoom06webin.sbs^$all
 ||zoomapk.sbs^$all
@@ -108659,6 +108664,7 @@
 ||us04webmeetinginvite.us^$all
 ||us04webzoominvite.us^$all
 ||us05-web-zoom.us^$all
+||us05-webzoom.us^$all
 ||us05lives.us^$all
 ||us05st1meetingroom.us^$all
 ||us05web-zoom-meet.us^$all

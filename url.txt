@@ -445,6 +445,7 @@ https://sites.google.com/view/coinbase-wallet-logs/home
 https://sites.google.com/view/coinbase-wallet-portfolio/home
 https://sites.google.com/view/coinbase-wallet-pro/home
 https://sites.google.com/view/coinbase-wallet-run/home
+https://sites.google.com/view/coinbase-wallet-xtension/home
 https://sites.google.com/view/coinbase-wallete-guide/home
 https://sites.google.com/view/coinbase-wallete-pro/home
 https://sites.google.com/view/coinbase-walletext/home
@@ -512,6 +513,7 @@ https://sites.google.com/view/coinbextension-hub-en/home
 https://sites.google.com/view/coinbextension-us/home
 https://sites.google.com/view/coinbpro-enen/home
 https://sites.google.com/view/coinbpro-max-en/home
+https://sites.google.com/view/coinbs-extson/home
 https://sites.google.com/view/coinbs-gettings/home
 https://sites.google.com/view/coinbs-wallet-ext/home
 https://sites.google.com/view/coinbs-wallet/home
@@ -546,6 +548,7 @@ https://sites.google.com/view/coinextension-en-co/home
 https://sites.google.com/view/coinextension-getting--/home
 https://sites.google.com/view/coinextension-getting-/home
 https://sites.google.com/view/coinextension-pro/home
+https://sites.google.com/view/coinextension-us/home
 https://sites.google.com/view/coinn-app/home
 https://sites.google.com/view/coinn-base/home
 https://sites.google.com/view/coinnextension/home
@@ -803,6 +806,7 @@ https://sites.google.com/view/extensioncom-enapp/home
 https://sites.google.com/view/extensiongetting-qoin/home
 https://sites.google.com/view/extensionmax-en/home
 https://sites.google.com/view/extensions-koin-begin/home
+https://sites.google.com/view/extensionweb/home
 https://sites.google.com/view/extensionwebcoinbase/home
 https://sites.google.com/view/extenson-en-us/home
 https://sites.google.com/view/extenson-hub/home
@@ -1513,6 +1517,7 @@ https://sites.google.com/view/new-metamsk-app/home
 https://sites.google.com/view/new-trust-wallet/home
 https://sites.google.com/view/newapp-us--pro/home
 https://sites.google.com/view/newapps-extension-en/home
+https://sites.google.com/view/newextension-hub/home
 https://sites.google.com/view/next-cdncoinbase/home
 https://sites.google.com/view/next-coinspotcdn/home
 https://sites.google.com/view/nextcoinbaapps/home

@@ -15079,6 +15079,8 @@ strendus.cat
 258vvv.cc
 30256.cc
 3leaf.cc
+5eu-zoom.cc
+5us-zoom.cc
 5web.cc
 5z30.cc
 600105.cc
@@ -79491,6 +79493,7 @@ based.one-allocations.icu
 based.one-eco.icu
 based.one-ecosystem.icu
 based.one-foundation.icu
+onenotelive-sharedocu.icu
 online-wsevvc.icu
 onregov.icu
 governance.onyx-allocations.icu
@@ -94603,6 +94606,7 @@ meeting-connect.online
 meeting-in.online
 meeting-join-setup.online
 meeting-on.online
+meeting-zoom-room.online
 meetnewmeet.online
 meetng.online
 meetngs.online
@@ -101961,6 +101965,7 @@ superapp.zebecs.sbs
 zenkoprotocol.sbs
 zipcoin.sbs
 zoom-meeting.sbs
+zoom-sharingfiles.sbs
 zoom01webin.sbs
 zoom06webin.sbs
 zoomapk.sbs
@@ -108659,6 +108664,7 @@ us04live.us
 us04webmeetinginvite.us
 us04webzoominvite.us
 us05-web-zoom.us
+us05-webzoom.us
 us05lives.us
 us05st1meetingroom.us
 us05web-zoom-meet.us
