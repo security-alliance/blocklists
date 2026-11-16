@@ -16101,6 +16101,7 @@ solcpi.cc
 solcrew.cc
 soldock.cc
 soldot.cc
+solfactory.cc
 solfast.cc
 solfatara.cc
 solflux.cc
@@ -19252,7 +19253,6 @@ astar-networks.stakingreward.cloud
 blue.stakingreward.cloud
 bluefin.stakingreward.cloud
 bluefins.stakingreward.cloud
-bluefln.stakingreward.cloud
 bob.stakingreward.cloud
 bobb.stakingreward.cloud
 build-on-bob.stakingreward.cloud

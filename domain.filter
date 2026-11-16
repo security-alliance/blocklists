@@ -16101,6 +16101,7 @@
 ||solcrew.cc^$all
 ||soldock.cc^$all
 ||soldot.cc^$all
+||solfactory.cc^$all
 ||solfast.cc^$all
 ||solfatara.cc^$all
 ||solflux.cc^$all
@@ -19252,7 +19253,6 @@
 ||blue.stakingreward.cloud^$all
 ||bluefin.stakingreward.cloud^$all
 ||bluefins.stakingreward.cloud^$all
-||bluefln.stakingreward.cloud^$all
 ||bob.stakingreward.cloud^$all
 ||bobb.stakingreward.cloud^$all
 ||build-on-bob.stakingreward.cloud^$all
