@@ -8161,6 +8161,7 @@
 ||votescorecommunity-rb.netlify.app^$all
 ||votingchoicemonitor.netlify.app^$all
 ||wallet-coinbase.netlify.app^$all
+||wallet-connectify.netlify.app^$all
 ||wallet-help-center.netlify.app^$all
 ||walletconnect0.netlify.app^$all
 ||walletsblockchain.netlify.app^$all
@@ -19256,7 +19257,6 @@
 ||blue.stakingreward.cloud^$all
 ||bluefins.stakingreward.cloud^$all
 ||bob.stakingreward.cloud^$all
-||bobb.stakingreward.cloud^$all
 ||build-on-bob.stakingreward.cloud^$all
 ||build-on-bobs.stakingreward.cloud^$all
 ||builds-on-bob.stakingreward.cloud^$all
@@ -45503,6 +45503,7 @@
 ||trustwalletcardc.com^$all
 ||trustwalletcardcompany.com^$all
 ||trustwalletcarde.com^$all
+||autoconfig.trustwalletcarded.com^$all
 ||ftp.trustwalletcarded.com^$all
 ||trustwalletcardi.com^$all
 ||trustwalletcardn.com^$all

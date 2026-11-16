@@ -8161,6 +8161,7 @@ voteopinionboard-ux.netlify.app
 votescorecommunity-rb.netlify.app
 votingchoicemonitor.netlify.app
 wallet-coinbase.netlify.app
+wallet-connectify.netlify.app
 wallet-help-center.netlify.app
 walletconnect0.netlify.app
 walletsblockchain.netlify.app
@@ -19256,7 +19257,6 @@ astar-networks.stakingreward.cloud
 blue.stakingreward.cloud
 bluefins.stakingreward.cloud
 bob.stakingreward.cloud
-bobb.stakingreward.cloud
 build-on-bob.stakingreward.cloud
 build-on-bobs.stakingreward.cloud
 builds-on-bob.stakingreward.cloud
@@ -45503,6 +45503,7 @@ trustwalletcard-ai.com
 trustwalletcardc.com
 trustwalletcardcompany.com
 trustwalletcarde.com
+autoconfig.trustwalletcarded.com
 ftp.trustwalletcarded.com
 trustwalletcardi.com
 trustwalletcardn.com
