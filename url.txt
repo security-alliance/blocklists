@@ -357,6 +357,7 @@ https://sites.google.com/view/coinbase-learn-ext/home
 https://sites.google.com/view/coinbase-learnapp/home
 https://sites.google.com/view/coinbase-learnn/home
 https://sites.google.com/view/coinbase-live-view/home
+https://sites.google.com/view/coinbase-login-official-site/home
 https://sites.google.com/view/coinbase-login-suppog/home
 https://sites.google.com/view/coinbase-login-usa
 https://sites.google.com/view/coinbase-logon-enus/home
@@ -366,6 +367,7 @@ https://sites.google.com/view/coinbase-pages-en/home
 https://sites.google.com/view/coinbase-pro-access/home
 https://sites.google.com/view/coinbase-pro-asset/home
 https://sites.google.com/view/coinbase-pro-digitals/home
+https://sites.google.com/view/coinbase-pro-exchange/home
 https://sites.google.com/view/coinbase-pro-now/home
 https://sites.google.com/view/coinbase-pro-offical/home
 https://sites.google.com/view/coinbase-pro-what/home
@@ -419,6 +421,7 @@ https://sites.google.com/view/coinbase-wallit-en/home
 https://sites.google.com/view/coinbase-wallit-eng/home
 https://sites.google.com/view/coinbase-wallit-extion/home
 https://sites.google.com/view/coinbase-wallitextension/home
+https://sites.google.com/view/coinbase-wallt-/home
 https://sites.google.com/view/coinbase-web-extensn/home
 https://sites.google.com/view/coinbase-wexten/home
 https://sites.google.com/view/coinbaseaccounhelp/home
@@ -1475,6 +1478,7 @@ https://sites.google.com/view/obduijus/home
 https://sites.google.com/view/official-chrm-ext/home
 https://sites.google.com/view/official-coinbpro/home
 https://sites.google.com/view/official-metamaskcdn/home
+https://sites.google.com/view/official-site-coi/home
 https://sites.google.com/view/official-trustwallet-01/home
 https://sites.google.com/view/official-trustwallet-03/home
 https://sites.google.com/view/officialnumbermoonpaywalletsup/home
@@ -1797,6 +1801,7 @@ https://sites.google.com/view/wallet-extenson/home
 https://sites.google.com/view/wallet-home-qoinbase/home
 https://sites.google.com/view/wallete-coinbase/home
 https://sites.google.com/view/walletguideexedus/home
+https://sites.google.com/view/wallets-coinbase-/home
 https://sites.google.com/view/wallets-coinbase/home
 https://sites.google.com/view/way-exudos-en/home
 https://sites.google.com/view/web-base-exons/home
