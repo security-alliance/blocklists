@@ -1670,7 +1670,6 @@ governance-octra.app
 governance-riverinc.app
 governance-umbraprivacy.app
 governance-unipeg.app
-governance-unipegv4.app
 governance-xaman.app
 governance-zebec.app
 governances-hyperfoundation.app
@@ -21582,7 +21581,6 @@ virtualschain.co
 virtualsclaim.co
 virtualsoneth.co
 voice-changer.co
-vote-firelight.co
 vote-flap.co
 vote-hyperfoundation.co
 vote-soil.co
@@ -25631,7 +25629,6 @@ aster-pro.com
 asteraxtrade.com
 astercharts.com
 asterdesk.com
-asterdex-governance.com
 asterdex-testnet.com
 asteresdex.com
 asterextrade.com
@@ -46008,7 +46005,6 @@ unilabs-dapps.com
 union-post.com
 union82.com
 unipeg-v4.com
-unipegsv4.com
 unipints.com
 unique-finance.com
 unirockgestion.com
@@ -96925,7 +96921,6 @@ reclaim-x.org
 recovery-humanity.org
 redotpaycard.org
 register-justlend.org
-register-osero.org
 register-pengu.org
 reimaginepower.org
 rejfdkalwme.org
@@ -111751,7 +111746,6 @@ claimusepaid.xyz
 0gfoundatlon.clalmdash.xyz
 clalmpanelhq.xyz
 claudepad.xyz
-claudersfun.xyz
 clearpool-finance.xyz
 clearpoolfi.xyz
 clearpoolfinance.xyz
@@ -111860,7 +111854,6 @@ confirm-ore.xyz
 confirms-ore.xyz
 congecko.xyz
 omni.connect-app.xyz
-connect-arc.xyz
 connect-basedust.xyz
 connect-basedustsw.xyz
 connect-echoprotocol.xyz
