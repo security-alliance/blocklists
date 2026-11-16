@@ -44242,6 +44242,7 @@ taiko-labs.com
 tairanchina.com
 tairnet.com
 taiwan-coinp.com
+kraken.com.support.bc1q8h9fa65h0nd86gzqzwl3f3vajzsmlwf2t7g9qa.tajuj-group.com
 kraken.com.support.bc1qm7qhqyuz6a5zwywy32at6hwzpvt0k9dj2zr63x.tajuj-group.com
 taka-gmail.com
 taka2-gmail.com
@@ -115447,7 +115448,6 @@ pool-flarenetworks.xyz
 pool-maid-prosper.xyz
 pool-quantnetwork.xyz
 poolls.xyz
-pools-flare.xyz
 pools-flarenetworks.xyz
 pools-lighter.xyz
 pools-raacfi.xyz
