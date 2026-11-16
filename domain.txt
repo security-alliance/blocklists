@@ -99535,7 +99535,6 @@ awatson.properties
 kraken.com.support.bc1q8zca56ds9j9zwxvln3e96p9em55h62048q04py.sevvel.properties
 crypto.com.ps
 kuda-business-banking-app.apkcafe.pt
-logincoinbasewallet.blogspot.pt
 coinbase.carolrocha.pt
 atomic.com.pt
 polymarket.com.pt
