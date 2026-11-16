@@ -87556,6 +87556,7 @@
 ||coinbase-us.live^$all
 ||jumper.coindrop.live^$all
 ||coinmarketcap-vote.live^$all
+||coinnewscap.live^$all
 ||coinonchain.live^$all
 ||colizeum.live^$all
 ||collect-flarefn.live^$all

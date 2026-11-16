@@ -87556,6 +87556,7 @@ coinbase-desktopapp.live
 coinbase-us.live
 jumper.coindrop.live
 coinmarketcap-vote.live
+coinnewscap.live
 coinonchain.live
 colizeum.live
 collect-flarefn.live
