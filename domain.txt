@@ -52973,12 +52973,9 @@ zillowverification.com
 zionexce.com
 zionsbanksupportcenter.com
 zionsbankverifycall.com
-zk-xwallet.com
 m.zkcjyc.com
 zkdarkpool.com
 zksyncxdashboard.com
-zkx-wallet.com
-zkxwallets.com
 zlogamb.com
 zmoku.com
 znyrgl.com
@@ -76168,8 +76165,6 @@ krkn-site.finance
 kta.finance
 kumibot.finance
 lca.finance
-liberty-swap.finance
-librertyswap.finance
 libretryswap.finance
 lidoo.finance
 lifeyield.finance
