@@ -11898,7 +11898,6 @@ flow-en.web.app
 funpumpofficial.web.app
 geminidappchain.web.app
 geometrydash.web.app
-gitconnect-online.web.app
 goldfishgold.web.app
 gominningminerdev.web.app
 jupiter-dash.web.app
@@ -70465,7 +70464,6 @@ official-trusts-wallet.pages.dev
 official-uniswap-helpcentre-hub.pages.dev
 official-uniswap-support-crypto-exchange.pages.dev
 official-web-ledgr-io.pages.dev
-officialgithubweb3.pages.dev
 officials-exo--us.pages.dev
 officials-exous.pages.dev
 officls--exous.pages.dev
@@ -106925,7 +106923,6 @@ s4fi5l.top
 s5-etherfi.top
 s7ethena.top
 sadasdasdasdasd.top
-safe3.top
 safeguards.top
 safepa.top
 safepaa.top
