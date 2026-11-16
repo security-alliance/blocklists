@@ -117955,7 +117955,6 @@ vegapoly.xyz
 veilarc.xyz
 velltoken.xyz
 velnixpay.xyz
-velodrome-allocations.xyz
 velodrome-register.xyz
 velodrome-vote.xyz
 velodrome-voting.xyz
