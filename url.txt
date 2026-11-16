@@ -298,6 +298,7 @@ https://sites.google.com/view/coinbase--getting-/home
 https://sites.google.com/view/coinbase--getting-started/home
 https://sites.google.com/view/coinbase--homes/home
 https://sites.google.com/view/coinbase--loginn/home
+https://sites.google.com/view/coinbase--public-/home
 https://sites.google.com/view/coinbase--walletextension/home
 https://sites.google.com/view/coinbase-adds/home
 https://sites.google.com/view/coinbase-advance-pro/home
@@ -375,6 +376,7 @@ https://sites.google.com/view/coinbase-logon-enus/home
 https://sites.google.com/view/coinbase-ne-getting/home
 https://sites.google.com/view/coinbase-open-us/home
 https://sites.google.com/view/coinbase-pages-en/home
+https://sites.google.com/view/coinbase-portals/home
 https://sites.google.com/view/coinbase-pro-access/home
 https://sites.google.com/view/coinbase-pro-asset/home
 https://sites.google.com/view/coinbase-pro-digitals/home
@@ -408,6 +410,7 @@ https://sites.google.com/view/coinbase-textens/home
 https://sites.google.com/view/coinbase-used/home
 https://sites.google.com/view/coinbase-user-/home
 https://sites.google.com/view/coinbase-user-app/home
+https://sites.google.com/view/coinbase-user-wallet/home
 https://sites.google.com/view/coinbase-userr/home
 https://sites.google.com/view/coinbase-verifyaap/home
 https://sites.google.com/view/coinbase-view-org/home
@@ -538,6 +541,7 @@ https://sites.google.com/view/coins-extension-word/home
 https://sites.google.com/view/coinweb-extension/home
 https://sites.google.com/view/complete-guide-anytime/coinbase
 https://sites.google.com/view/comproextension/home
+https://sites.google.com/view/conbase-pro/home
 https://sites.google.com/view/conbse-wallets/home
 https://sites.google.com/view/connect-base-extension/home
 https://sites.google.com/view/connect-bitbuycd-/home
@@ -1188,6 +1192,7 @@ https://sites.google.com/view/mask-extensions/home
 https://sites.google.com/view/mask-login
 https://sites.google.com/view/maskmeta-extenson/home
 https://sites.google.com/view/mata-crome-ext/home
+https://sites.google.com/view/max-proweb-us/home
 https://sites.google.com/view/max-proweb-usen/home
 https://sites.google.com/view/maxextension-web/home
 https://sites.google.com/view/meamask-login/home
