@@ -51225,7 +51225,6 @@ startingup-trezr.wixstudio.com
 startinrabby-ioapps.wixstudio.com
 startio-apps-trexor.wixstudio.com
 startio-dydaxx.wixstudio.com
-startio-dydxx.wixstudio.com
 startio-lacecdn.wixstudio.com
 startio-ledgr-en.wixstudio.com
 startio-metamasken.wixstudio.com
@@ -84035,6 +84034,7 @@ grass-foundation.io
 grassfoundations.io
 kraken.grizzlebear.io
 gtcberlin.io
+harborwallet.io
 hbuilderx.io
 helixtrade.io
 helptrezor.io
