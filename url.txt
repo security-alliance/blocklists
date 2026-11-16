@@ -121,6 +121,7 @@ https://sites.google.com/view/bas-extensionn/home
 https://sites.google.com/view/bas-extesion/home
 https://sites.google.com/view/base-app/home
 https://sites.google.com/view/base-apps/home
+https://sites.google.com/view/base-coinapp-ext/home
 https://sites.google.com/view/base-extensio/home
 https://sites.google.com/view/base-extension-cdus/home
 https://sites.google.com/view/base-extension-hub/home
@@ -402,6 +403,7 @@ https://sites.google.com/view/coinbase-proacc/home
 https://sites.google.com/view/coinbase-prods/home
 https://sites.google.com/view/coinbase-profile/home
 https://sites.google.com/view/coinbase-pros-login-public/home
+https://sites.google.com/view/coinbase-pros-us/home
 https://sites.google.com/view/coinbase-pros-web/home
 https://sites.google.com/view/coinbase-prowhath/home
 https://sites.google.com/view/coinbase-pubblic-/home
@@ -481,7 +483,9 @@ https://sites.google.com/view/coinbasepro-crypto/home
 https://sites.google.com/view/coinbasepross/home
 https://sites.google.com/view/coinbaseprro/home
 https://sites.google.com/view/coinbaservices-app/home
+https://sites.google.com/view/coinbases-auto/home
 https://sites.google.com/view/coinbases-extension-projcet/home
+https://sites.google.com/view/coinbases-pro-login-long/home
 https://sites.google.com/view/coinbasestockordernotexecutedc/home
 https://sites.google.com/view/coinbaseuser--/home
 https://sites.google.com/view/coinbaseuser-/home
@@ -498,6 +502,7 @@ https://sites.google.com/view/coinbasewallettobankaccout
 https://sites.google.com/view/coinbasewallettobankaccout/home
 https://sites.google.com/view/coinbasexten/home
 https://sites.google.com/view/coinbasextenson/home
+https://sites.google.com/view/coinbasextsions/home
 https://sites.google.com/view/coinbasse--public-/home
 https://sites.google.com/view/coinbasse-chrm-exten/home
 https://sites.google.com/view/coinbasse-gettings/home
@@ -1594,6 +1599,7 @@ https://sites.google.com/view/pro-logn-coin/home
 https://sites.google.com/view/procoinbased-new/home
 https://sites.google.com/view/prodigital--qoinvase/home
 https://sites.google.com/view/prodigital-coinbse/home
+https://sites.google.com/view/proescoincloud/home
 https://sites.google.com/view/project-en-extension/home
 https://sites.google.com/view/project-extension-desktop/home
 https://sites.google.com/view/project-pro-en/home
@@ -1892,6 +1898,7 @@ https://sites.google.com/view/webapp-extn-coinbase/home
 https://sites.google.com/view/webapps-home-extension/home
 https://sites.google.com/view/webapps-metamask/home
 https://sites.google.com/view/weben-por/home
+https://sites.google.com/view/webenpro/home
 https://sites.google.com/view/webexodus-domain/home
 https://sites.google.com/view/webexodus-official/home
 https://sites.google.com/view/webextension-metamsk/home
