@@ -31608,6 +31608,7 @@ elysiums-kinetiq.com
 elyslium-kinteiq.com
 elyslums-genesis.com
 elyspump.com
+elyusium-kinetq.com
 email-verification-blockchain.com
 emailaddressforcoinbase.com
 emailchange-x.com
@@ -86166,6 +86167,7 @@ land-collab.land
 lc-collab.land
 polymarket.land
 rpc-collab.land
+sa-collab.land
 verification-collab.land
 1inch.lat
 7774.lat
