@@ -19338,7 +19338,6 @@ us-sophoon.stakingreward.cloud
 us-strk.stakingreward.cloud
 us-sui-wallet.stakingreward.cloud
 us-suins.stakingreward.cloud
-uscurves.stakingreward.cloud
 event.standx.cloud
 strata-markets.cloud
 strata-snapshot.cloud
@@ -90418,6 +90417,8 @@ crediii-ubi-portal.hstn.me
 proyectoescularppa.hstn.me
 rloninbradxae.hstn.me
 servicio-ubiapp.hstn.me
+solicitudubiipagoscreditos.hstn.me
+solicitudubiipagoscreditosw.hstn.me
 ubiipagosanoiwerisfd.hstn.me
 ubiwesay-online.hstn.me
 idlebet.me

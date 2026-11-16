@@ -19338,7 +19338,6 @@
 ||us-strk.stakingreward.cloud^$all
 ||us-sui-wallet.stakingreward.cloud^$all
 ||us-suins.stakingreward.cloud^$all
-||uscurves.stakingreward.cloud^$all
 ||event.standx.cloud^$all
 ||strata-markets.cloud^$all
 ||strata-snapshot.cloud^$all
@@ -90418,6 +90417,8 @@
 ||proyectoescularppa.hstn.me^$all
 ||rloninbradxae.hstn.me^$all
 ||servicio-ubiapp.hstn.me^$all
+||solicitudubiipagoscreditos.hstn.me^$all
+||solicitudubiipagoscreditosw.hstn.me^$all
 ||ubiipagosanoiwerisfd.hstn.me^$all
 ||ubiwesay-online.hstn.me^$all
 ||idlebet.me^$all
