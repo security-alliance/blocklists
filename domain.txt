@@ -91064,6 +91064,7 @@ jupi.my
 k-exe.my
 ketqylwhlx.my
 kinetiq-xyz.my
+kraken-wallet.my
 lcloud-locate.my
 ld-applecr.my
 lvvas.my
@@ -91077,6 +91078,7 @@ okxpay.my
 onchains.my
 onxynsgiae.my
 osejp.my
+ou-kraken.my
 pancake-swapping.my
 pancakeswaps.my
 polymarket-trade.my
@@ -91104,6 +91106,7 @@ trustwallets.my
 unijoin.my
 unsiki.my
 ventracore.my
+vip-kraken.my
 votesblock.my
 web3.my
 wwfgfgd333.my
