@@ -32145,6 +32145,7 @@ evergreen-ledger.com
 evergreenfundopportunity.com
 everlightmfg.com
 everstakepolicy.com
+everydaycryptostrade.com
 evixgamb.com
 evm-cmms.com
 evm-cnct.com
@@ -76807,7 +76808,6 @@ treasury-pool-firelight.foundation
 treasury-pool-flare.foundation
 treasury-pools-firelight.foundation
 treasury-pools-flare.foundation
-treasurypool-flare.foundation
 treasurypools-firelight.foundation
 treasurypools-flare.foundation
 treasurys-firelight.foundation
