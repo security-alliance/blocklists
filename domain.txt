@@ -32545,6 +32545,7 @@ finst-trade.com
 firaprotocol.com
 akuna-wallet-ultrastellar.firebaseapp.com
 auctions-zealousswap.firebaseapp.com
+backpackextensions.firebaseapp.com
 cancel569-coinbase.firebaseapp.com
 cancel5839502-coinbase-com.firebaseapp.com
 cancel7481104-coinbase-com.firebaseapp.com
@@ -44646,6 +44647,7 @@ thepicartapk.com
 thepicartz.com
 thepicsarts.com
 thepikashowapks.com
+thepolymarketbot.com
 thepolymarketportal.com
 thepolymarketportal-2026.com
 theportal-pinetwork2026.com
