@@ -17690,6 +17690,7 @@ app-hyperliquid.ch
 bijouteriedulac.ch
 uniswap.uzheths.blockchain-group.ch
 logincoinbasewallet.blogspot.ch
+trustwallet-secure.blogspot.ch
 buy-tron.ch
 buy-trx.ch
 casinorainbet.ch
@@ -19256,7 +19257,6 @@ alpha-finances.stakingreward.cloud
 astar-networks.stakingreward.cloud
 blue.stakingreward.cloud
 bluefins.stakingreward.cloud
-bob.stakingreward.cloud
 build-on-bob.stakingreward.cloud
 build-on-bobs.stakingreward.cloud
 builds-on-bob.stakingreward.cloud
@@ -30774,6 +30774,7 @@ degenfoundation.com
 degenhud.com
 degentime.com
 deitastar.com
+delavoni.com
 delay-binance.com
 delay-coinspot.com
 delegate-strk.com
