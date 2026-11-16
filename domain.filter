@@ -78527,7 +78527,6 @@
 ||secure-chat.host^$all
 ||silofinance.host^$all
 ||1inchwallet.stakingreward.host^$all
-||across-protocol.stakingreward.host^$all
 ||across-protocols.stakingreward.host^$all
 ||acrossprotocol.stakingreward.host^$all
 ||us-across-protocol.stakingreward.host^$all
