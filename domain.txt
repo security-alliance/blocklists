@@ -31550,6 +31550,7 @@ eeame.com
 efgcapitalltd.com
 area.eg-prime.com
 ege319.com
+ledger-live-com-firmwareupdate.eggpco.com
 ehandadevelopment.com
 ehgedv.com
 eigenlaunch.com
@@ -36544,6 +36545,7 @@ ledger-com-wallet.com
 ledger-compliance.com
 ledger-cover.com
 ledger-customer-care.com
+ledger-desktop-download.com
 ledger-en.com
 ledger-en-live.com
 ledger-eng.com
@@ -47443,6 +47445,7 @@ wallethelp-coinbase.com
 walletmultiversx.com
 walletpolymarket.com
 walletreclaim.com
+walletrecov-ledger.com
 wallets-kucoin.com
 walletsdapp.com
 walletsecure-trezor.com
