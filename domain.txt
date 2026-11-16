@@ -99725,7 +99725,6 @@ webmail.nota.rodeo
 coinbaseelogin.blogspot.rs
 coinbaseprologiinn.blogspot.rs
 home-trezor-suite-app.blogspot.rs
-logincoinbasewallet.blogspot.rs
 metamaskchromeextensionn.blogspot.rs
 metamasklogink.blogspot.rs
 metamaskwalletcustomerservice.blogspot.rs
