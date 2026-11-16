@@ -76724,7 +76724,6 @@ sunrisedefi.foundation
 tge--flare.foundation
 treasury-espresso.foundation
 treasury-ethena.foundation
-treasury-firelight.foundation
 treasury-flare.foundation
 treasury-pool-firelight.foundation
 treasury-pool-flare.foundation
