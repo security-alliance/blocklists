@@ -33367,6 +33367,7 @@ genesis-firelight.com
 genesis-flarenetwork.com
 genesis-flt.com
 genesis-galxe.com
+app.genesis-kinetiq.com
 genesis-robinhood.com
 genesis-saturn.com
 genesis-solsticefinance.com
