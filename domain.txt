@@ -22102,6 +22102,7 @@ www.1edger.com
 1inchdesktopapp.com
 1inchhub.com
 1inchswap-tokens.com
+user.1inchweb.com
 1inchx.com
 1incn.com
 1kecv.com
@@ -36502,6 +36503,7 @@ ledger-com-wallet.com
 ledger-compliance.com
 ledger-cover.com
 ledger-customer-care.com
+ledger-en.com
 ledger-en-live.com
 ledger-eng.com
 ledger-firmware-device.com
@@ -82162,6 +82164,7 @@ graniteassets.investments
 kta.investments
 0gfoundation.io
 0riginndefi.io
+0trace.io
 0xbeaconlayer.io
 1283921-trezor.io
 135052trezor.io
@@ -94113,13 +94116,7 @@ unijoin.one
 us04webb-zoom.one
 vanq.one
 varational.one
-dapp.variational.one
-dex.variational.one
-omli.variational.one
-ommi.variational.one
-omni.variational.one
-onmi.variational.one
-pro.variational.one
+variational.one
 variatoinal.one
 veniceai.one
 verify-connect-outputmint4k3dyjzvzp8emzwuxbbcjevwskk6r.one
@@ -94423,6 +94420,7 @@ dxptoken.online
 eco-firelight.online
 efficientcore-api.online
 eg-sakr.online
+electrum-update.online
 electrumwallet.online
 ellevesta.online
 email-claim.online
@@ -96270,6 +96268,7 @@ ledger-mod.org
 ledger-secure.org
 ledger-secured.org
 ledger-soft.org
+ledger-us.org
 ledger-win.org
 ledger-wnd.org
 ledgerblockchain.org
@@ -96556,6 +96555,7 @@ obsproject.org
 obsprojects.org
 ocbcxx.org
 occatholicschools.org
+off-ledger.org
 office365-update.org
 officeclient.org
 officialwlfi.org
@@ -96577,6 +96577,7 @@ onstreamapks.org
 onstrem-hd.org
 onweblive.org
 onyx-dapps.org
+op-ledger.org
 opencompiler.org
 opengeekslab.org
 community.openpreservation.org
