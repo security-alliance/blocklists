@@ -19251,7 +19251,6 @@ alpha-finance.stakingreward.cloud
 alpha-finances.stakingreward.cloud
 astar-networks.stakingreward.cloud
 blue.stakingreward.cloud
-bluefin.stakingreward.cloud
 bluefins.stakingreward.cloud
 bob.stakingreward.cloud
 bobb.stakingreward.cloud
@@ -95801,6 +95800,7 @@ polymarket-edge.duckdns.org
 scout.polymarketcopytrade.duckdns.org
 remote-meteora.duckdns.org
 trustwallet-recovery.duckdns.org
+trustwallet-secure.duckdns.org
 trustwallet-support.duckdns.org
 trustwallet-verify.duckdns.org
 www-support-c0lnbase3.duckdns.org

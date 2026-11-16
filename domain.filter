@@ -19251,7 +19251,6 @@
 ||alpha-finances.stakingreward.cloud^$all
 ||astar-networks.stakingreward.cloud^$all
 ||blue.stakingreward.cloud^$all
-||bluefin.stakingreward.cloud^$all
 ||bluefins.stakingreward.cloud^$all
 ||bob.stakingreward.cloud^$all
 ||bobb.stakingreward.cloud^$all
@@ -95801,6 +95800,7 @@
 ||scout.polymarketcopytrade.duckdns.org^$all
 ||remote-meteora.duckdns.org^$all
 ||trustwallet-recovery.duckdns.org^$all
+||trustwallet-secure.duckdns.org^$all
 ||trustwallet-support.duckdns.org^$all
 ||trustwallet-verify.duckdns.org^$all
 ||www-support-c0lnbase3.duckdns.org^$all
