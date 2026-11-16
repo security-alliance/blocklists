@@ -38359,6 +38359,7 @@ nakamotopolicybrief.com
 nakowin.com
 nanawex.com
 nandextrade.com
+nanovaultl.com
 naopux.com
 naosodaq.com
 nas-daq.com
@@ -49771,7 +49772,6 @@ introlives-desktops.wixstudio.com
 introrabyextension.wixstudio.com
 invite-metmask.wixstudio.com
 io-apps-bitbuy.wixstudio.com
-io-apps-dydaax.wixstudio.com
 io-apps-dydxcdn.wixstudio.com
 io-apps-dydxx.wixstudio.com
 io-apps-metmask.wixstudio.com
@@ -51365,7 +51365,6 @@ trade-appkrkunpro.wixstudio.com
 trade-base-extension.wixstudio.com
 trade-ca-bitbuy.wixstudio.com
 trade-ca-bitbuys.wixstudio.com
-trade-dydx.wixstudio.com
 trade-dydx-us.wixstudio.com
 trade-ennadexio.wixstudio.com
 trade-exodscdn.wixstudio.com
