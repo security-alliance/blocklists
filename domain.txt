@@ -77642,6 +77642,7 @@ seasons5-etherfi.fun
 secure-yieldfields.fun
 secureddegenkapital.fun
 shieldscan.fun
+slrv.fun
 snapshot-embercurve.fun
 sniperbotsols.fun
 snipersolbot.fun
@@ -105108,6 +105109,7 @@ uniswaps.to
 unlswap.to
 us-tronlink.to
 usdtmixer.to
+usdto.to
 v2-changelly.to
 vyroso777.to
 wasewin142.to
