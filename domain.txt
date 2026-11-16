@@ -41721,7 +41721,6 @@ redirectionsx-secured.com
 redirects-secure.com
 redirects-secure-x.com
 redirectsecures.com
-redirectsszecurity.com
 redirsportal.com
 redmorningbnb.com
 redot-pay.com
@@ -97534,7 +97533,6 @@ votes-octra.org
 votes-zama.org
 votesokx.org
 votezone.org
-voting-hash256.org
 voting-octra.org
 voting-works.org
 voting-xamam.org
@@ -110503,7 +110501,6 @@ aave-governance.xyz
 aave-paperwalet.xyz
 aave-payments.xyz
 aave-recover.xyz
-aave-recovery.xyz
 aavebase-dashboard.xyz
 aavebaseapp.xyz
 aavebasedashboard.xyz
@@ -111815,7 +111812,6 @@ community-xrpl.xyz
 communitybanner.xyz
 communityvote.xyz
 compensate-aave.xyz
-compensation-kelpdao.xyz
 compensationaave.xyz
 completederivative.xyz
 compliance-verfahren.xyz
