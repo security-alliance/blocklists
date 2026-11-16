@@ -364,8 +364,10 @@ https://sites.google.com/view/coinbase-ne-getting/home
 https://sites.google.com/view/coinbase-open-us/home
 https://sites.google.com/view/coinbase-pages-en/home
 https://sites.google.com/view/coinbase-pro-access/home
+https://sites.google.com/view/coinbase-pro-asset/home
 https://sites.google.com/view/coinbase-pro-digitals/home
 https://sites.google.com/view/coinbase-pro-now/home
+https://sites.google.com/view/coinbase-pro-offical/home
 https://sites.google.com/view/coinbase-pro-what/home
 https://sites.google.com/view/coinbase-pro-withen/home
 https://sites.google.com/view/coinbase-profile/home
@@ -392,6 +394,7 @@ https://sites.google.com/view/coinbase-userr/home
 https://sites.google.com/view/coinbase-view-org/home
 https://sites.google.com/view/coinbase-walet-exten/home
 https://sites.google.com/view/coinbase-waletextensio/home
+https://sites.google.com/view/coinbase-waletextension/home
 https://sites.google.com/view/coinbase-wallert/home
 https://sites.google.com/view/coinbase-wallet-docs/home
 https://sites.google.com/view/coinbase-wallet-explore/home
