@@ -31669,7 +31669,6 @@ en-usa-rainbet.com
 en-usa-stake.com
 app.across.en-v4.com
 across.app.bridge.en-v4.com
-app.across.to.en-v4.com
 trezor.en-vaults.com
 en-yoroi-wallet.com
 enable-cibcalerts.com
