@@ -10049,7 +10049,6 @@ coinbase-clone-silk.vercel.app
 coinbase-cloned.vercel.app
 coinbase-com-wallet.vercel.app
 coinbase-connetct.vercel.app
-coinbase-coral.vercel.app
 coinbase-event.vercel.app
 coinbase-event-kw3xve13t-arafs-projects.vercel.app
 coinbase-event-lovat.vercel.app
