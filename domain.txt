@@ -12480,7 +12480,6 @@ changenow-io.at
 changenow-v2.at
 cn-trustwallet.at
 coinbase-logins.blogspot.co.at
-logincoinbasewallet.blogspot.co.at
 exodus.co.at
 kalshi.co.at
 polymarket.co.at
