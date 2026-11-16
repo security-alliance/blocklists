@@ -84541,6 +84541,7 @@ solve-trezor.io
 video.sora2-ai.io
 video.soro2.io
 sovereign-ledger.io
+temp-swap-zksync.spacefi.io
 sparrow-wallet.io
 sparrw.io
 spectrafinance.io
