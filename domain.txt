@@ -17903,6 +17903,7 @@ allocation-axisrobotics.click
 allocation-cashmere-exchange.click
 allocation-dopplerfinance.click
 allocation-firelightecosystems.click
+allocation-firelightfi.click
 allocation-flyingtulip.click
 allocation-mantle.click
 allocation-multipli.click
@@ -41955,6 +41956,7 @@ revoke-api-ledger.com
 revoke-bitgetwallet.com
 revoke-crypto.com
 revoke-fluid.com
+revoke-guard-approvals.com
 revoke-humanity.com
 revoke-kelpdao.com
 revoke-kraken.com
@@ -42008,6 +42010,7 @@ rewards-crypto.com
 rewards-desk-xrp.com
 rewards-dexscreener.com
 rewards-epoch.com
+rewards-ethenfi.com
 rewards-etherfi.com
 rewards-fables.com
 rewards-fablesfi.com
@@ -42040,6 +42043,7 @@ rewards-ore.com
 rewards-participe.com
 rewards-peipei.com
 rewards-pendle.com
+rewards-pendlefinance.com
 rewards-plus.com
 rewards-powergacha.com
 rewards-rabby.com
@@ -76992,6 +76996,7 @@ claim-kinetiq.fun
 claim-nukes.fun
 claim-portal.fun
 claim-rlusd.fun
+claim-sol-twitter.fun
 claim-unlswap.fun
 claim-usepaid.fun
 claimdrops.fun
@@ -77315,6 +77320,7 @@ meowdomination.fun
 migrate-mumu.fun
 migration.fun
 migrationdesk.fun
+mihao-airdrop.fun
 mini-yieldfields.fun
 mint-yieldfields.fun
 mints-yieldfields.fun
@@ -78958,6 +78964,7 @@ enter-kinetiqhub.icu
 enter-kinetiqsxyz.icu
 enter-papertrade.icu
 enterclaimera.icu
+ethena.icu
 ethena-fi.icu
 ethenafi.icu
 ethenagov.icu
@@ -79682,6 +79689,7 @@ rewards-concretefoundation.icu
 rewards-deltaliquidity.icu
 rewards-etherfi.icu
 rewards-firelight.icu
+rewards-firelightfi.icu
 rewards-flarenetwork.icu
 rewards-flr.icu
 rewards-flr-ecosystem.icu
@@ -80646,6 +80654,7 @@ claim-wlfi.info
 claim-zora.info
 claims-arugs.info
 claims-base.info
+claims-hyperliquid.info
 claims-lighter.info
 claims-zama.info
 clearpoolfinance.info
@@ -81416,6 +81425,7 @@ rewards-availproject.info
 rewards-bitlightlabs.info
 rewards-firelight.info
 rewards-pendle.info
+rewards-pendlefi.info
 rewards-skymoney.info
 rewards-zebec.info
 rewrads-merkl.info
@@ -87144,6 +87154,7 @@ allocation-consensus.live
 allocation-firelightfi.live
 allocation-flarefoundation.live
 allocation-grvt.live
+allocation-katana.live
 allocation-kinetiq.live
 allocation-soljup.live
 allocation-uplift.live
@@ -87416,6 +87427,7 @@ claim-kinetiq.live
 claim-lawofattraction.live
 claim-linera.live
 claim-littleguymeme.live
+claim-lombard-finance.live
 claim-npc.live
 claim-pear.live
 claim-pepeeth.live
@@ -87440,6 +87452,7 @@ claims-firelightfi.live
 claims-flarefdn.live
 claims-flarefn.live
 claims-flarefoundation.live
+claims-hyperliquid.live
 claims-mitosis.live
 claims-neosoul.live
 claims-pear.live
@@ -88130,6 +88143,7 @@ humanprot.live
 hype-ventuals.live
 hyperlinkxyz.live
 hyperliquid-claim-airdrop.live
+hyperliquid-claims.live
 hyperliquidapp.live
 hyperliquiddesktop.live
 hyperliquidpc.live
@@ -88817,6 +88831,7 @@ rewards-flarefoundation.live
 rewards-flarefoundations.live
 rewards-flarenetworks.live
 rewards-pendle.live
+rewards-pendlefi.live
 rewards-threews.live
 rewards-ventuals.live
 rewards-xaman.live
@@ -102189,6 +102204,7 @@ com-vivid.shop
 com-vivid-hub.shop
 concretexyz.shop
 conmigoyaddicol.shop
+crypto-reward.shop
 csfloat-cs2.shop
 csmoney-cs2.shop
 curvefinance.shop
@@ -103072,6 +103088,7 @@ reward-lot.site
 reward-zone.site
 rewards-ethenfi.site
 rewards-hub.site
+rewards-pendlefi.site
 rocketorigindefipro.site
 rpc2-fix.site
 rugproof-pool.site
@@ -104236,6 +104253,7 @@ reviewresolutiondesk.support
 reviewresolutionhelp.support
 reviewresolutionportal.support
 reviewresolutionpro.support
+revoke.support
 rexasfinace.support
 rexasfinance.support
 secure-access-auth5734.support
@@ -105874,6 +105892,7 @@ ethbaseapp.top
 ethe-reum.top
 ethena.top
 ethenafi.top
+ethenafi-appmultiplier.top
 ethenafi-multiplier.top
 ethenafinance.top
 ethenalive.top
@@ -111040,6 +111059,7 @@ bank-tw.xyz
 bankrbott.xyz
 base-azul.xyz
 base-checkingdev.xyz
+base-claim.xyz
 base-claims.xyz
 base-gettingready.xyz
 base-ripsconnect.xyz
@@ -111413,6 +111433,7 @@ claim-ansem.xyz
 claim-arcium.xyz
 claim-ascendlaunch.xyz
 claim-attentioncoin.xyz
+claim-aztecnetwork.xyz
 claim-beranect.xyz
 claim-billions.xyz
 claim-busd.xyz
@@ -111527,6 +111548,7 @@ claims-flaregovernance.xyz
 claims-flarenetwork.xyz
 claims-folks-finance.xyz
 claims-hyperfoundation.xyz
+claims-hyperliquid.xyz
 claims-interlinklabs.xyz
 claims-joinopenstandard.xyz
 claims-lit.xyz
@@ -113671,8 +113693,10 @@ hyperfoundationvault.xyz
 hyperfoundationwindow.xyz
 hyperfoundatlons.xyz
 hyperfuondation.xyz
+hyperiiquid-claims.xyz
 app.hyperlfquid.xyz
 hyperlighter.xyz
+hyperliquid-claims.xyz
 hyperliquid-distribution.xyz
 hyperliquid-eligibility.xyz
 hyperliquid-en.xyz
@@ -114464,6 +114488,7 @@ migrate-gateway.xyz
 migrate-ice.xyz
 migrate-mumuthebull.xyz
 migrate-re.xyz
+migrate-stonk.xyz
 migrate-stonkfun.xyz
 migrate-umbraprivacy.xyz
 migrate1dollarsol.xyz
