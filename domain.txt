@@ -9784,6 +9784,7 @@ winter-summit-treasure-9357.vercel-83316.app
 1inch-trade-in.vercel.app
 1inch-wallet-exe.vercel.app
 1inchcom-main.vercel.app
+1inche-kanban-us.vercel.app
 1wait-wait-wait.vercel.app
 4-proclasr.vercel.app
 7702sweeper.vercel.app
