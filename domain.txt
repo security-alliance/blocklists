@@ -11901,6 +11901,7 @@ geminidappchain.web.app
 geometrydash.web.app
 goldfishgold.web.app
 gominningminerdev.web.app
+guardianwalletx.web.app
 jupiter-dash.web.app
 kamino-finances.web.app
 kinetiq-en.web.app
@@ -27318,6 +27319,7 @@ bydfie.com
 www.bydzts.com
 byekascend.com
 byekpro.com
+xgpara.byethost10.com
 byfedai.com
 byitanr.com
 byitenr.com
@@ -103506,6 +103508,7 @@ wallet-official.site
 wallet-verify.site
 walletcards.site
 walletcards-tw.site
+walletcomect.site
 wasabimix.site
 web-3safechain.site
 web-meet-call.site
