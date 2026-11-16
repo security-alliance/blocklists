@@ -1903,7 +1903,6 @@ live-pump-fun.app
 live-usepaid.app
 livecom.app
 liveteam.app
-livevoice.app
 llamasw.app
 lledqer.app
 lobstrdesktop.app
@@ -38069,7 +38068,6 @@ ms-secure-notify.com
 ms-teams-meetings.com
 ms-ventureslink.com
 ms-verify.com
-ms-webb.com
 ms365-device.com
 ms365-live.com
 ms365-online.com
@@ -94965,7 +94963,6 @@ t-rast.online
 teamcoinbasesupport.online
 teams-interviews-mail.online
 teams-invitation.online
-teams-meet.online
 teams-meeting-calendar-event-schedule.online
 teams-mircosoft.online
 teams-room.online
@@ -95072,7 +95069,6 @@ us009webzconnectmeetsessionurbanfm.online
 us02live.online
 us02web-zoom-us.online
 us04web-zoom-workspace9786677402028402.online
-us04webb-zoom.online
 us05cloud.online
 us05live.online
 us05web.online

@@ -1903,7 +1903,6 @@
 ||live-usepaid.app^$all
 ||livecom.app^$all
 ||liveteam.app^$all
-||livevoice.app^$all
 ||llamasw.app^$all
 ||lledqer.app^$all
 ||lobstrdesktop.app^$all
@@ -38069,7 +38068,6 @@
 ||ms-teams-meetings.com^$all
 ||ms-ventureslink.com^$all
 ||ms-verify.com^$all
-||ms-webb.com^$all
 ||ms365-device.com^$all
 ||ms365-live.com^$all
 ||ms365-online.com^$all
@@ -94965,7 +94963,6 @@
 ||teamcoinbasesupport.online^$all
 ||teams-interviews-mail.online^$all
 ||teams-invitation.online^$all
-||teams-meet.online^$all
 ||teams-meeting-calendar-event-schedule.online^$all
 ||teams-mircosoft.online^$all
 ||teams-room.online^$all
@@ -95072,7 +95069,6 @@
 ||us02live.online^$all
 ||us02web-zoom-us.online^$all
 ||us04web-zoom-workspace9786677402028402.online^$all
-||us04webb-zoom.online^$all
 ||us05cloud.online^$all
 ||us05live.online^$all
 ||us05web.online^$all
