@@ -12613,6 +12613,7 @@
 ||rainbet.or.at^$all
 ||orbiterfinance.at^$all
 ||org-tronlink.at^$all
+||pancakeswap-finance.at^$all
 ||pancakeswap-v2.at^$all
 ||phantom-app.at^$all
 ||phantom-my.at^$all
@@ -12701,7 +12702,9 @@
 ||un1-wap.at^$all
 ||unisat.at^$all
 ||uniswap.at^$all
+||uniswap-app.at^$all
 ||uniswap-us.at^$all
+||uniswaps.at^$all
 ||uniwap.at^$all
 ||us-changenow.at^$all
 ||us-fairwinds.at^$all
@@ -15138,7 +15141,11 @@
 ||amkeu.cc^$all
 ||aml-crypto.cc^$all
 ||aml-guard.cc^$all
+||aml-wallet-app.cc^$all
+||amlcrypto-app.cc^$all
+||amlcrypto-info.cc^$all
 ||amlix.cc^$all
+||amlwallet-app.cc^$all
 ||amm-cumberland.cc^$all
 ||amm-wincent.cc^$all
 ||amznai.cc^$all
@@ -16597,6 +16604,7 @@
 ||aavehq.cfd^$all
 ||abstractlszyz.cfd^$all
 ||acbde.cfd^$all
+||accesscrypto-com.cfd^$all
 ||account-appid-v5.cfd^$all
 ||account-appid-verification.cfd^$all
 ||accountbridge.cfd^$all
@@ -16714,6 +16722,8 @@
 ||basefxo.cfd^$all
 ||bashirias.cfd^$all
 ||basis-bluetick.cfd^$all
+||bbridge30.cfd^$all
+||bbridge52.cfd^$all
 ||bcbkeorl.cfd^$all
 ||bebit.cfd^$all
 ||bestell95901.cfd^$all
@@ -17641,6 +17651,7 @@
 ||wallet-merchant-gateway.cfd^$all
 ||wallet-receive-checkout.cfd^$all
 ||wallet-transfer-payout.cfd^$all
+||web-api-point.cfd^$all
 ||web3-trustwallet.cfd^$all
 ||web3-trx.cfd^$all
 ||webjoin.cfd^$all
@@ -78842,6 +78853,7 @@
 ||pay-bitrefill.com-bd04-gift-esim.icu^$all
 ||bitrefill.com-c04-gift-esim.icu^$all
 ||pay-bitrefill.com-c04-gift-esim.icu^$all
+||com-cr-gift-card.icu^$all
 ||bitrefill.com-d04-gift-esim.icu^$all
 ||pay-bitrefill.com-d04-gift-esim.icu^$all
 ||bitrefill.com-e04-gift-esim.icu^$all
@@ -89964,6 +89976,7 @@
 ||solana-spin.lol^$all
 ||solana-testingun.lol^$all
 ||solana-tst.lol^$all
+||solanapact.lol^$all
 ||solanax.lol^$all
 ||solanspin.lol^$all
 ||solcheck-gb.lol^$all
@@ -100145,6 +100158,7 @@
 ||bgcore.sbs^$all
 ||bgsdfav23432.sbs^$all
 ||big-event-eligibility.sbs^$all
+||binance-exchange.sbs^$all
 ||bingxportal.sbs^$all
 ||birks.sbs^$all
 ||aave.bitfox.sbs^$all
@@ -101932,6 +101946,7 @@
 ||wallet-aml-check.sbs^$all
 ||walletcrypto.sbs^$all
 ||flare.wanacat.sbs^$all
+||web-api-point.sbs^$all
 ||web-giftcenter.sbs^$all
 ||web03.sbs^$all
 ||web03us.sbs^$all
@@ -107271,6 +107286,11 @@
 ||twcardvcc.top^$all
 ||two-rew.top^$all
 ||twtv5.top^$all
+||ty99api0001.top^$all
+||ty99api0002.top^$all
+||ty99api0011.top^$all
+||ty99api1001.top^$all
+||ty99api2001.top^$all
 ||iamkpkizte.tzdhxl056139.top^$all
 ||pc.ubsss.top^$all
 ||uinvain.top^$all

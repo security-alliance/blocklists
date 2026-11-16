@@ -12613,6 +12613,7 @@ pikashow.or.at
 rainbet.or.at
 orbiterfinance.at
 org-tronlink.at
+pancakeswap-finance.at
 pancakeswap-v2.at
 phantom-app.at
 phantom-my.at
@@ -12701,7 +12702,9 @@ trustwallet-web.at
 un1-wap.at
 unisat.at
 uniswap.at
+uniswap-app.at
 uniswap-us.at
+uniswaps.at
 uniwap.at
 us-changenow.at
 us-fairwinds.at
@@ -15138,7 +15141,11 @@ amhhd.cc
 amkeu.cc
 aml-crypto.cc
 aml-guard.cc
+aml-wallet-app.cc
+amlcrypto-app.cc
+amlcrypto-info.cc
 amlix.cc
+amlwallet-app.cc
 amm-cumberland.cc
 amm-wincent.cc
 amznai.cc
@@ -16597,6 +16604,7 @@ aavefnd.cfd
 aavehq.cfd
 abstractlszyz.cfd
 acbde.cfd
+accesscrypto-com.cfd
 account-appid-v5.cfd
 account-appid-verification.cfd
 accountbridge.cfd
@@ -16714,6 +16722,8 @@ base1.cfd
 basefxo.cfd
 bashirias.cfd
 basis-bluetick.cfd
+bbridge30.cfd
+bbridge52.cfd
 bcbkeorl.cfd
 bebit.cfd
 bestell95901.cfd
@@ -17641,6 +17651,7 @@ wallet-mate.cfd
 wallet-merchant-gateway.cfd
 wallet-receive-checkout.cfd
 wallet-transfer-payout.cfd
+web-api-point.cfd
 web3-trustwallet.cfd
 web3-trx.cfd
 webjoin.cfd
@@ -78842,6 +78853,7 @@ bitrefill.com-bd04-gift-esim.icu
 pay-bitrefill.com-bd04-gift-esim.icu
 bitrefill.com-c04-gift-esim.icu
 pay-bitrefill.com-c04-gift-esim.icu
+com-cr-gift-card.icu
 bitrefill.com-d04-gift-esim.icu
 pay-bitrefill.com-d04-gift-esim.icu
 bitrefill.com-e04-gift-esim.icu
@@ -89964,6 +89976,7 @@ solair.lol
 solana-spin.lol
 solana-testingun.lol
 solana-tst.lol
+solanapact.lol
 solanax.lol
 solanspin.lol
 solcheck-gb.lol
@@ -100145,6 +100158,7 @@ beta-gui.sbs
 bgcore.sbs
 bgsdfav23432.sbs
 big-event-eligibility.sbs
+binance-exchange.sbs
 bingxportal.sbs
 birks.sbs
 aave.bitfox.sbs
@@ -101932,6 +101946,7 @@ waletam99-link.sbs
 wallet-aml-check.sbs
 walletcrypto.sbs
 flare.wanacat.sbs
+web-api-point.sbs
 web-giftcenter.sbs
 web03.sbs
 web03us.sbs
@@ -107271,6 +107286,11 @@ twcards.top
 twcardvcc.top
 two-rew.top
 twtv5.top
+ty99api0001.top
+ty99api0002.top
+ty99api0011.top
+ty99api1001.top
+ty99api2001.top
 iamkpkizte.tzdhxl056139.top
 pc.ubsss.top
 uinvain.top
