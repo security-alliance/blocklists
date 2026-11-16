@@ -103050,6 +103050,7 @@ playsgame.site
 pluggable-stack-station.site
 pluggableclient.site
 pollymarket.site
+pollymarkets.site
 membership.polymaket.site
 polymarket-demo.site
 uphold-log.pop.site
