@@ -1483,6 +1483,7 @@ https://sites.google.com/view/official-trustwallet-01/home
 https://sites.google.com/view/official-trustwallet-03/home
 https://sites.google.com/view/officialnumbermoonpaywalletsup/home
 https://sites.google.com/view/officialsitecoipro/home
+https://sites.google.com/view/online-coinbase/home
 https://sites.google.com/view/online-extension-wallet/home
 https://sites.google.com/view/online-metamask-app/home
 https://sites.google.com/view/ons-metamaske/home
@@ -1522,6 +1523,7 @@ https://sites.google.com/view/parenthow-to-turn-trust-wallet/home
 https://sites.google.com/view/phantom-wallet-manual-withdraw/home
 https://sites.google.com/view/phantomextension-official/home
 https://sites.google.com/view/platform-coinbase/home
+https://sites.google.com/view/platforms-qoin-proo/home
 https://sites.google.com/view/pmtokme/downloads
 https://sites.google.com/view/port-web--metamask/home
 https://sites.google.com/view/portal-web3-extension/home
@@ -1562,6 +1564,7 @@ https://sites.google.com/view/publish-base-ext/home
 https://sites.google.com/view/publish-new-metamask/home
 https://sites.google.com/view/publish-webmetmask/home
 https://sites.google.com/view/puytxm
+https://sites.google.com/view/qoinb-pro/home
 https://sites.google.com/view/qoinbase--chrme--extension/home
 https://sites.google.com/view/qoinbase-extens/home
 https://sites.google.com/view/qoinbase-extension-us/home
