@@ -84312,6 +84312,7 @@ mywallet-metamask.io
 nab0x.io
 naorisswap.io
 nearswap.io
+nft-opensea.io
 ngraveapp.io
 ngravewalletapp.io
 phantom-walle.nicepage.io
