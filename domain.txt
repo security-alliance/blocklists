@@ -39237,7 +39237,6 @@ account.oorcaa.com
 opal-bridge.com
 opap-casino2026.com
 opecob.com
-open-firelight.com
 open-gradients.com
 open-seaconnect.com
 open-web-platform.com
@@ -78518,7 +78517,6 @@ asterdex.host
 cloud-gps.host
 coinmintone.host
 docupdate.host
-firelight.host
 hotmart.host
 huddle01.host
 joinme.host
@@ -113842,7 +113840,6 @@ interface-0.xyz
 interface-initia.xyz
 interfaces-firelight.xyz
 interfaces-flare.xyz
-interfaces-megaeth.xyz
 intergraredule.xyz
 intuition-checker.xyz
 intuition-reward.xyz
@@ -114239,7 +114236,6 @@ lidofinance-enter.xyz
 lidofinance-register.xyz
 lidofinance-registrations.xyz
 lidomigrate.xyz
-lienfiapp.xyz
 lienfin.xyz
 lienlfi.xyz
 lightchainmaiinnet.xyz
