@@ -11728,7 +11728,6 @@
 ||vote-centrifuge.app^$all
 ||vote-doppler.app^$all
 ||vote-ethena.app^$all
-||vote-ether.app^$all
 ||vote-ethfi.app^$all
 ||vote-firelightfinance.app^$all
 ||vote-flare-network.app^$all
@@ -45048,7 +45047,6 @@
 ||treasury-crypto.com^$all
 ||treasury-dca.com^$all
 ||treasury-fetch.com^$all
-||treasury-firelight.com^$all
 ||treasury-flap.com^$all
 ||treasury-flyingtulip.com^$all
 ||treasury-kintara.com^$all
