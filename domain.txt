@@ -37626,6 +37626,7 @@ allocation.metisl2coin.com
 quest.metisl2financedefi.com
 allocation.metisl2tokenfi.com
 ww38.metisl2tokenfi.com
+metmaask.com
 metmsk-extension.com
 metpoliceportal.com
 metric-finance.com
@@ -74490,6 +74491,7 @@ eu.itnerest-yieldbasis.workers.dev
 crpcm-iejn.janiyah441.workers.dev
 crpcm-ncdk.janiyah441.workers.dev
 crpcm-oekd.janiyah441.workers.dev
+mtamswlt-b4jf.janiyah441.workers.dev
 run-59d76ed2.jasperseven7.workers.dev
 cnbd-wlt-on.jfdh34.workers.dev
 lc-wlt-ext.jfdh34.workers.dev
@@ -100439,6 +100441,7 @@ exchange-bridge.sbs
 exchange-vv.sbs
 jupiter-ag.exchange-walletgateway.sbs
 exclnange-buildonv3.sbs
+exoduscard.sbs
 exprespecsk.sbs
 fablefi.sbs
 fables-votes.sbs
@@ -103612,6 +103615,7 @@ pro-coinbase.blogspot.sn
 trustwalletcustomerservicephonenumber.blogspot.sn
 kucoin.sn
 coinsquar-sso.apper.so
+en-exo-duss.apper.so
 en-exodus.apper.so
 exodsweb.apper.so
 i-trustcapital.apper.so
