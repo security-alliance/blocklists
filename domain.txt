@@ -118156,7 +118156,6 @@ velodrome-voting.xyz
 velodromefi-distribution.xyz
 velodromefi-vote.xyz
 venezuelaairdrop.xyz
-venica.xyz
 venice-hub.xyz
 venice-proposal.xyz
 venice-proposals.xyz
