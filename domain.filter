@@ -14809,7 +14809,6 @@
 ||trustalpha.cards^$all
 ||trustchain.cards^$all
 ||trustdebit.cards^$all
-||trustswallet.cards^$all
 ||trustvisa.cards^$all
 ||trustwallet.cards^$all
 ||trustwalletcrypto.cards^$all

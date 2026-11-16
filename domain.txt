@@ -14809,7 +14809,6 @@ thetrust.cards
 trustalpha.cards
 trustchain.cards
 trustdebit.cards
-trustswallet.cards
 trustvisa.cards
 trustwallet.cards
 trustwalletcrypto.cards
