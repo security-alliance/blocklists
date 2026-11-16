@@ -45603,7 +45603,7 @@ trustwllt-extension.com
 trustwollat.com
 trustxmining.com
 trustycrip.com
-bot.trustyewallet.com
+trustyewallet.com
 trustyourselfcard.com
 truswallets.com
 truthfinity.com
@@ -104282,6 +104282,7 @@ trustwalletcard.support
 trustwallethelp.support
 trustwallethelpdesk.support
 trustwalletinsurance.support
+trustwalletsupports.support
 us-iobit.support
 vaultgateway.support
 worldlibertyfi.support
