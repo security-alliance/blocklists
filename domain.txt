@@ -74408,6 +74408,7 @@ blue-ant-1091.colddust2496.workers.dev
 moonpyydc.collyn.workers.dev
 com-walletconnect.workers.dev
 eu.concrteeapp.workers.dev
+meta-masked.confirm-online.workers.dev
 phan-tom-wallt.confirm-online.workers.dev
 trust-app-wllt.confirm-online.workers.dev
 trust-apps.confirm-online.workers.dev
@@ -103696,6 +103697,7 @@ ledger.com.sl
 pro-coinbase.blogspot.sn
 trustwalletcustomerservicephonenumber.blogspot.sn
 kucoin.sn
+apps-metamask-extensions.apper.so
 coinsquar-sso.apper.so
 en-exo-duss.apper.so
 en-exodus.apper.so
@@ -119082,6 +119084,7 @@ ledger.yt
 phantom.yt
 draftnet629-zqxq.blogspot.co.za
 metamaskextension-us.blogspot.co.za
+metamsklogn.blogspot.co.za
 metamusk-en.blogspot.co.za
 hdstreamz.co.za
 webmail.ledger360.co.za
