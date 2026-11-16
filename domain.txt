@@ -91068,6 +91068,7 @@ kinetiq-xyz.my
 kraken-jiaoyisuo.my
 kraken-vip.my
 kraken-wallet.my
+kraken-zh.my
 lcloud-locate.my
 ld-applecr.my
 lvvas.my
@@ -91118,6 +91119,7 @@ x8x9.my
 xoxdknnl.my
 yomix.my
 zebec.my
+zh-kraken.my
 zoommeeting.my
 exodus.co.mz
 changenow.name
