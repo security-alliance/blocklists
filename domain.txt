@@ -16547,7 +16547,6 @@ bitmain.center
 centrifuge.center
 coinbase-wallet.center
 com-verification.center
-fiare.center
 flarenetwork.center
 hyperliquid.center
 icloudphotos.center
@@ -17802,7 +17801,6 @@ curvefinance.claims
 daopunks.claims
 deepsnitchs-ai.claims
 doodles.claims
-equium.claims
 firelight.claims
 genesis-hyperliquid.claims
 grovedotfinance.claims
@@ -47908,6 +47906,7 @@ global-jaxxcdn.wixsite.com
 global-trustapps.wixsite.com
 global-trustext-cdn.wixsite.com
 hkvbtips.wixsite.com
+home-trustapps-cdn.wixsite.com
 home-trustext-web.wixsite.com
 hubbase-extensions.wixsite.com
 jebscc.wixsite.com
@@ -111731,7 +111730,6 @@ connect-basedustsw.xyz
 connect-echoprotocol.xyz
 connect-fables.xyz
 connect-fablesfi.xyz
-connect-firelight.xyz
 connect-flareecosystem.xyz
 connect-flarenetworks.xyz
 connect-kelpdao.xyz

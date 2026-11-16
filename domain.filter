@@ -16547,7 +16547,6 @@
 ||centrifuge.center^$all
 ||coinbase-wallet.center^$all
 ||com-verification.center^$all
-||fiare.center^$all
 ||flarenetwork.center^$all
 ||hyperliquid.center^$all
 ||icloudphotos.center^$all
@@ -17802,7 +17801,6 @@
 ||daopunks.claims^$all
 ||deepsnitchs-ai.claims^$all
 ||doodles.claims^$all
-||equium.claims^$all
 ||firelight.claims^$all
 ||genesis-hyperliquid.claims^$all
 ||grovedotfinance.claims^$all
@@ -47908,6 +47906,7 @@
 ||global-trustapps.wixsite.com^$all
 ||global-trustext-cdn.wixsite.com^$all
 ||hkvbtips.wixsite.com^$all
+||home-trustapps-cdn.wixsite.com^$all
 ||home-trustext-web.wixsite.com^$all
 ||hubbase-extensions.wixsite.com^$all
 ||jebscc.wixsite.com^$all
@@ -111731,7 +111730,6 @@
 ||connect-echoprotocol.xyz^$all
 ||connect-fables.xyz^$all
 ||connect-fablesfi.xyz^$all
-||connect-firelight.xyz^$all
 ||connect-flareecosystem.xyz^$all
 ||connect-flarenetworks.xyz^$all
 ||connect-kelpdao.xyz^$all
