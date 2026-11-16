@@ -17963,7 +17963,6 @@ app-yieldbasis.click
 app-yieldfields.click
 appie-findapp.click
 applicantportalacess.click
-applicationwork.click
 appsign.click
 apyx.click
 apyxfi.click
@@ -18043,7 +18042,6 @@ claim-market.click
 claim-metadrops-online.click
 claim-xmagnetic.click
 claim-your-bonus.click
-clashofapp.click
 claude-gavno.click
 clearing-pig.click
 clearpathtrd.click
@@ -18326,7 +18324,6 @@ lido-eth.click
 lido-stake.click
 lido-swap.click
 liminalmoney.click
-liquiddecentralized.click
 liquidity-qzu.click
 listadao.click
 listadaofnd.click
@@ -24449,7 +24446,6 @@ aavef93y177hz-7af2.com
 aavegovernance.com
 aavegovernances.com
 aaveloan.com
-aavemini.com
 aavenaver.com
 aaverage.com
 aaversublime.com
@@ -24757,7 +24753,6 @@ aiproapp-ai.com
 aiprreviewer.com
 aiquantifylab.com
 aiquantitativefund.com
-air-dropfrsol.com
 air-fill.com
 coinbasefinance.airbnbouffe.com
 airdrop-1win.com
@@ -39413,7 +39408,6 @@ packs-fuzzyxrpl.com
 packs-monshoot.com
 padreapp.com
 padrerewards.com
-paducahprintables.com
 paegax.com
 paemex.com
 paerax.com
@@ -41752,7 +41746,6 @@ reign--allocation.com
 reign-allocation.com
 reimagin8d.com
 reinbet.com
-reinerviera.com
 reirax.com
 reivonglobal.com
 rejuve-detox.com
@@ -77465,7 +77458,6 @@ pump-streamcast.fun
 pump-streamchat.fun
 pump-streamchats.fun
 pump-streamerchat.fun
-pump-streamerlive.fun
 pump-streamfor.fun
 pump-streamhub.fun
 pump-streamin.fun
@@ -83742,7 +83734,6 @@ mav-protocol.github.io
 maverick-protocolo.github.io
 maverickprotocolo.github.io
 mazineezz.github.io
-megaevm.github.io
 melvingoodman7507.github.io
 mempol-space.github.io
 mempoolspaecs.github.io
@@ -91682,7 +91673,6 @@ betatesports.net
 betgrw-casino.net
 betitorguncel.net
 betmeme.net
-betorocasino.net
 betweome.net
 bezoi.net
 bgcore.net
@@ -99395,7 +99385,6 @@ uniswapbase.pro
 uniwsap.pro
 updateskraken.pro
 upgrade-sei.pro
-uripix.pro
 us-rabby-wallet.pro
 us05webzoom-business.pro
 usdmixer.pro
@@ -103453,7 +103442,6 @@ rabbitx-io.turbologo.site
 tw-provider.site
 umiafinance.site
 web-rabbyext.uncody.site
-unipegart.site
 uniswapdex.site
 uniswapex.site
 uniswaphr.site
@@ -105114,7 +105102,6 @@ ethenafiapp-vote.today
 ethers.today
 falconvote-app.today
 hydrex.today
-idos.today
 khelmantra.today
 lienfi.today
 lienlfi.today
@@ -107761,7 +107748,6 @@ hyperliquidfoundation.trade
 hyperpredict.trade
 intefrace.trade
 intentx.trade
-jtxsol.trade
 jupiter-verified.trade
 juptier.trade
 keeta.trade
@@ -110867,7 +110853,6 @@ appdoppler.xyz
 appertrade.xyz
 appethenafi-vote.xyz
 appgrvt.xyz
-appildo.xyz
 appintegrateverse-click.xyz
 coinapibase.appletteron2fa.xyz
 appliquidhyper.xyz
@@ -111891,7 +111876,6 @@ dashboard-sophon.xyz
 dashboard-take.xyz
 dashboard-usepaid.xyz
 dashboard-useyap.xyz
-dashboard-v3.xyz
 dashboard-venice.xyz
 dashboard-wlfi.xyz
 dashboardbase.xyz
@@ -111914,7 +111898,6 @@ dashboards-take.xyz
 dashboards-usepaid.xyz
 dashboards-valtherix.xyz
 dashboards-xaman.xyz
-dashboardv3.xyz
 datasetbaisant.xyz
 date-fablesfi.xyz
 date-kinetiq.xyz
@@ -113718,7 +113701,6 @@ hyperlquid-airdrop.xyz
 hyperrecosystem.xyz
 hyperrgovernance.xyz
 hypersapp.xyz
-hypersol-eligibility.xyz
 hypersol-rewards.xyz
 hypevote.xyz
 hypurr-liquidl.xyz
@@ -114175,7 +114157,6 @@ lab-usepaid.xyz
 labs-usepaid.xyz
 lagrangereward.xyz
 lancelotlabs.xyz
-landbids.xyz
 landshaare.xyz
 metamaskd.h.landtoken.xyz
 laptop-proposal.xyz
@@ -114301,7 +114282,6 @@ listandvoting.xyz
 listaorg.xyz
 listing-community-v1.xyz
 lit-rewards.xyz
-littlepepeclaim.xyz
 littlepepesss.xyz
 live-citrea.xyz
 live-claims.xyz
@@ -117991,7 +117971,6 @@ vaultsafepay.xyz
 zbcn.vaultspilot.xyz
 vaultstonkfun.xyz
 vaultusepaid.xyz
-vcniec.xyz
 vegapoly.xyz
 veilarc.xyz
 velltoken.xyz
@@ -118547,7 +118526,6 @@ wallets-ore.xyz
 wallets-treadfi.xyz
 walletssolver.xyz
 wallstreetbullstore.xyz
-waronusd1mig.xyz
 waronusdairdrop.xyz
 watyu.xyz
 wavyu.xyz
