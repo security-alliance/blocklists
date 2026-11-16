@@ -9784,6 +9784,7 @@ winter-summit-treasure-9357.vercel-83316.app
 1inch-protocol-dapp-interface-v334.vercel.app
 1inch-protocol-dapp-interface-v70.vercel.app
 1inch-protocol-dapp-interface-v772.vercel.app
+1inch-test-task.vercel.app
 1inch-trade-in.vercel.app
 1inch-wallet-exe.vercel.app
 1inchcom-main.vercel.app
