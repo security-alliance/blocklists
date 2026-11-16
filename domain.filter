@@ -9775,6 +9775,7 @@
 ||1inch-interface-connect-dapp-v172.vercel.app^$all
 ||1inch-interface-connect-dapp-v466.vercel.app^$all
 ||1inch-interface-connect-dapp-v637.vercel.app^$all
+||1inch-migrate-au.vercel.app^$all
 ||1inch-protocol-dapp-interface-v1036.vercel.app^$all
 ||1inch-protocol-dapp-interface-v136.vercel.app^$all
 ||1inch-protocol-dapp-interface-v334.vercel.app^$all
@@ -75724,7 +75725,6 @@
 ||balancerdao.fi^$all
 ||benqii.fi^$all
 ||coinbaselogine.blogspot.fi^$all
-||logincoinbasewallet.blogspot.fi^$all
 ||buytrx.fi^$all
 ||c9w.fi^$all
 ||camelot.fi^$all
@@ -90963,7 +90963,6 @@
 ||app-solstice.my^$all
 ||app-zebec.my^$all
 ||en-trezorstart.blogspot.my^$all
-||logincoinbasewallet.blogspot.my^$all
 ||trustwalletlogin.blogspot.my^$all
 ||cazextedcoin.my^$all
 ||gas-eth.chains.my^$all
