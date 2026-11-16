@@ -30546,6 +30546,7 @@ dapp-polymarket.com
 dapp-raydium-route.com
 dapp-secscont.com
 dapp-tronlink.com
+dapp-zebec.com
 dapp1638.com
 dappallweb3.com
 metamask.dappbind.com
@@ -91322,7 +91323,6 @@ ekoqlm6lpjilbp6kilw2szp2mkocdrn6db2kvj34dtze76tdrusa.arweave.net
 elf673yu3nkhjmsdk2hdq2f2zyyh4eywq6onjqb3omnrsqqaumxa.arweave.net
 eu4nugumsfiq2m2e3p4ucjqjsqoaajpxd6krcxgmatrbkn6psyaa.arweave.net
 ewdouhaxeh3lkhsdlghoixkf6lilasuu4qrwkxahdflkjv3kdixq.arweave.net
-f3qvfjhd7ekd3gh2mefsi7l5wrvqfvrnaijpzf2qbsjcejffinpa.arweave.net
 f45mpfg5ifrjc5m3tciheyjdpvi7orkgrvfoetyfeaszbsveojlq.arweave.net
 f4wkg7hupzrgrz7oghzgtr4kkxw3wvd4naz6cdbhilpc4uakklhq.arweave.net
 fcps7lmksamjsnlyhwr6olzfh3fspi3x7xbuaagufjx3bnrnzuca.arweave.net
