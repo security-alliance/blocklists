@@ -46926,6 +46926,7 @@ virl-rewards.com
 virtuais-events.com
 virtual-sprint.com
 virtual-vvv.com
+virtualcreditsplastic.com
 virtuals-app.com
 virtuals-protocol.com
 virtuals-protocols.com
@@ -107565,6 +107566,7 @@ governance.yieldbasis-allocation.top
 governance.yieldbasis-allocations.top
 governance.yieldbasis-proposal.top
 yio1inch.top
+ymuij.top
 yuggj.top
 yuliortiz.top
 z0sadkwqm12zcx.top
