@@ -8818,7 +8818,6 @@ trezorsafe7.app
 trezorsafesuite.app
 trip-ledger.app
 trojanbot.app
-troll-coin.app
 tron-energy.app
 tronamlscan.app
 troncardpre.app
@@ -13482,7 +13481,6 @@ xyz-brook.biz
 xyz-global.biz
 xyz-wave.biz
 xyz-wave-hub.biz
-yzinetwork.biz
 zestprotocol.biz
 jito-demo.noir.black
 rainbet.black
@@ -27559,7 +27557,6 @@ cas-roobet.com
 cas-rubyfortune.com
 casa-pariurilors.com
 casapariurilor-new.com
-casasuazo.com
 cascade-meet.com
 case-38645.com
 case-394845-crypto.com
@@ -33270,6 +33267,7 @@ gamdomscasino.com
 game-bc.com
 game-field.com
 game-fuzzy.com
+gameaxieinfinity.com
 gamelogiin.com
 gameonlasertag.com
 gameplay-google.com
@@ -44170,7 +44168,6 @@ swyftxhelp.com
 sxsvi.com
 sxxc-support.com
 sycn-trezor.com
-sygnum-link.com
 symbiosis-finance.com
 symbiotic-community.com
 symbioticfnd.com
@@ -44956,7 +44953,7 @@ tokens-gacha.com
 tokens-jeanphil.com
 tokens-netnetcapital.com
 tokens-rabby.com
-littlepepe.tokensdao.com
+claim.littlepepe.tokensdao.com
 claim.simonscat.tokensdao.com
 tokensrabby.com
 toknepocket.com
@@ -45277,7 +45274,6 @@ tripwex.com
 tristero-dex.com
 tristwallet.com
 tristwel.com
-triveniinterio.com
 trivoxcceec.com
 triycker.com
 trmlabsassetsrecovery.com
@@ -73324,7 +73320,6 @@ vote-orbio.pages.dev
 vote-paperstrategy.pages.dev
 vote-papertrade.pages.dev
 vote-pendle.pages.dev
-vote-perleslabs.pages.dev
 vote-pons-99hub.pages.dev
 vote-ponsfamily.pages.dev
 vote-portal-172.pages.dev
@@ -76816,7 +76811,6 @@ treasurys-flare.foundation
 treasurys-pool-firelight.foundation
 treasurys-pool-flare.foundation
 treasurys-pools-flare.foundation
-treasuryspool-firelight.foundation
 treasuryspool-flare.foundation
 treasuryspools-firelight.foundation
 treasuryspools-flare.foundation
@@ -87287,7 +87281,6 @@ assist-ledger.live
 asteraxtrade.live
 asterdexchain.live
 asterextrade.live
-atlasora-claim.live
 aurawallet.live
 aussumanyrnas.live
 auth-firelight.live
@@ -89536,7 +89529,6 @@ xrpl-xananwallet.live
 xrplatform.live
 xrplreward.live
 xrplrewards.live
-xrpswipe.live
 xrpweb3portal.live
 xstocksfidashboard.live
 xtrememoon.live
@@ -89714,7 +89706,6 @@ bitfinex.lol
 bitget.lol
 blacksbullsol.lol
 blockchainfx.lol
-bonksol.lol
 botcoinbsc.lol
 breezetracker.lol
 brianbase.lol
@@ -89738,7 +89729,6 @@ claim-gake.lol
 claim-hype.lol
 claim-unlswap.lol
 claim-usdai.lol
-claimantrophic.lol
 claimbaseline.lol
 claimbullseye.lol
 claimcatgpt.lol
@@ -92389,7 +92379,7 @@ inveswfg.net
 invetixer.net
 io-app-suite.net
 io-crypto.net
-io-customer.net
+metamask.io-customer.net
 io-n.net
 io-simpleswap.net
 ipusd.net
@@ -93736,7 +93726,6 @@ aerodromefi.news
 aerodromes.news
 alignedlayer.news
 announcements.news
-arcnetwork.news
 aztec.news
 caldaro.news
 despite-everything.news
@@ -95385,7 +95374,6 @@ allocations-hyperbeat.org
 blowfish.alodev.org
 alogin.org
 alpha-card.org
-alpha-win.org
 ambient-finance.org
 ambientfinance.org
 amgindonesia.org
@@ -95518,7 +95506,6 @@ backpackwallet.org
 balancer-chainlink.org
 bank-tw.org
 barbados-exchange.org
-base-badge.org
 basedapp.org
 basemorpho.org
 basetake.org
@@ -108691,7 +108678,6 @@ slotocash.us
 snapcoin.us
 soccer-shoes.us
 sol-flare-wallt.us
-sol-secure.us
 soleraholding.us
 solflare-wall.us
 spinnix.us
@@ -111710,7 +111696,6 @@ claimshyperfoundation.xyz
 claimsotc.xyz
 claimsstonkfun.xyz
 claimstable.xyz
-claimstakelink.xyz
 claimstonkfun.xyz
 claimsusepaid.xyz
 pengu.claimtokens.xyz
@@ -111894,7 +111879,6 @@ cryptocurrencymigrate.xyz
 cryptofixer.xyz
 cryptoiin.xyz
 cryptoiinpro.xyz
-cryptomusaml.xyz
 cryptomusgate.xyz
 cryptonightmare.xyz
 cryptopayment.xyz
@@ -116007,7 +115991,6 @@ restorecord-verifi.xyz
 restorecord-verification-boted.xyz
 retrieve-rechain.xyz
 returnbitnestfipool.xyz
-returnbitnestfipoolc.xyz
 returns-vvr.xyz
 reusd-re.xyz
 rev-cash.xyz
