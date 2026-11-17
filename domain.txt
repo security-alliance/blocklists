@@ -44539,7 +44539,6 @@ tgl3rm.com
 tgl4rm.com
 tglrm1.com
 tglrm17.com
-pc.tgoldfxuni.com
 thacuisinet.com
 wwv-robinhood.thammayatra.com
 www-robinhood.thammayatra.com
@@ -81844,6 +81843,7 @@ app-tronlink.ing
 changenow.ing
 gleam.ing
 io-web.ing
+polymarket.ing
 safepal.ing
 trustwallet.ing
 v3-changelly.ing
