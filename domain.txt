@@ -111012,7 +111012,6 @@ app-hyperfnd.xyz
 app-hyperliquidity.xyz
 app-hyperllquld.xyz
 app-islands.xyz
-app-jitonetwork.xyz
 app-kiln.xyz
 app-kinetiq.xyz
 app-kintara.xyz
