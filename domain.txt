@@ -17924,6 +17924,7 @@ airdrop9.click
 airdropfree.click
 airdrophunting.click
 airdroptrx.click
+railgun.airdrpsalerts.click
 yield.airdrpsalerts.click
 airtether.click
 al-lart.click
