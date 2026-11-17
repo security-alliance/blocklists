@@ -977,7 +977,6 @@ com-start-wallets.app
 com-support-devices.app
 com-wailet-live.app
 com-wallet-live.app
-xn--edgr-u0a3246b.com-wallets-live.app
 cometbridge.app
 gmgn.community-activities.app
 community-firelight.app
