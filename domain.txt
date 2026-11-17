@@ -78773,7 +78773,6 @@ asterdex-reallocations.icu
 asterdexvote.icu
 asteroidshiba.icu
 atlasonclouds.icu
-auth-rackspace.icu
 authenticatedocument-e-driveshared-928d5.icu
 authenticsourcing-org.icu
 avrtcf-online.icu
@@ -90029,7 +90028,6 @@ trezor-suite.lol
 tronliink.lol
 trump-fund.lol
 trumpfundrobin.lol
-trumpmemecardsclaim.lol
 trustwalletbestmobilecryptowal.lol
 update-v4.lol
 usdai.lol
@@ -101496,7 +101494,6 @@ muglcbaiicu.sbs
 my-rewards.sbs
 myauclaim-lodgment.sbs
 mybrand-x.sbs
-mycrypto.sbs
 mygift-web.sbs
 mypoints-gift.sbs
 mystvox.sbs
@@ -101793,7 +101790,6 @@ stuckfunds.sbs
 sumcoust-personal.sbs
 sup-binance.sbs
 superinteliigence.sbs
-supportauthentic.sbs
 sushi-dex.sbs
 sushidex.sbs
 grt.sushifinance.sbs
@@ -105658,7 +105654,6 @@ claim-unlswap.top
 claim-usdai.top
 claims-firelight.top
 claims-flarenetwork.top
-claims-rewards.top
 claims-usdai.top
 classicelegance.top
 clean-route-studio.top
@@ -105807,7 +105802,6 @@ dapp-contract.top
 dapp-contrat.top
 dapp-secscont.top
 dapp-uni.top
-dapp-unibase.top
 dasad.top
 dashboardappv1.top
 dashboardlife.top
@@ -107363,7 +107357,6 @@ usdcb3ysx1orfd.top
 usdcbdeqzwl.top
 usdcdkrfa1tw.top
 usdcspin.top
-usdcstaking.top
 usdt1inch.top
 usdtaave.top
 usdtdex02.top
