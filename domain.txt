@@ -99121,7 +99121,6 @@ obsidian-wallet.pro
 jumper-xp-calculator.ochain.pro
 worldlibertyfinancial.ochain.pro
 metamask.officialapps.pro
-exodus.officialwallet.pro
 okpay.pro
 okx-wallet.pro
 ominisx.pro
