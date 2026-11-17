@@ -75616,7 +75616,6 @@ phantomwall.exchange
 pharoah.exchange
 pitaes.exchange
 piteas.exchange
-polyusd.exchange
 portalbridge.exchange
 prjx.exchange
 proposal-jumper.exchange
