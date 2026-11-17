@@ -75169,7 +75169,6 @@
 ||googlemeet.download^$all
 ||hdstreamzz.download^$all
 ||io-apps.download^$all
-||io-apps-suite.download^$all
 ||io-start.download^$all
 ||io-starts.download^$all
 ||io-web.download^$all
@@ -87540,7 +87539,6 @@
 ||com-8941.live^$all
 ||com-9567829.live^$all
 ||com-app.live^$all
-||com-app-wallet.live^$all
 ||com-appstart.live^$all
 ||com-assets.live^$all
 ||com-call.live^$all
@@ -105981,6 +105979,7 @@
 ||elysium-allocations.top^$all
 ||elysium-ecosystem.top^$all
 ||elysium-mainnet.top^$all
+||elysiumapp-ecosystem.top^$all
 ||kinetiq.elysiumecosystem.top^$all
 ||embercurve.top^$all
 ||emerald-ledger.top^$all
