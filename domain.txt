@@ -73865,6 +73865,7 @@ yuxin-ledger.pages.dev
 yuxin-ledger-staging.pages.dev
 yz-ledger.pages.dev
 zam-votehub1.pages.dev
+zama-ecohub68.pages.dev
 zama-vote.pages.dev
 zama-votes.pages.dev
 zama-voting.pages.dev
