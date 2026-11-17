@@ -40086,6 +40086,7 @@ polymarket-italy.com
 polymarket-jit.com
 polymarket-kr.com
 polymarket-kreo.com
+polymarket-labs.com
 m.polymarket-login.com
 polymarket-migration.com
 polymarket-monitor-cxyy.com
@@ -96657,6 +96658,7 @@ polymarket-get.org
 polymarket-trading.org
 polymarket-try.org
 polymarket-uk.org
+polymarketai.org
 polymarketbtc.org
 polymarketfrance.org
 polymarketkr.org
