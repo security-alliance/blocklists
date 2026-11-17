@@ -52566,6 +52566,7 @@ xn--suite-trezr-389e.com
 xn--tefll-m4ad9zxo.com
 xn--tr-bnance-j5a.com
 xn--tradrjoexyz-5qb.com
+xn--treor-6y1b.com
 xn--trstwallet-s43e.com
 xn--trustwalet-g0b.com
 xn--trustwalet-h0b.com
@@ -118136,6 +118137,7 @@ vote-hyperbeat.xyz
 vote-hyperecosystem.xyz
 vote-hyperfndn.xyz
 vote-hyperfoundation.xyz
+vote-hyperlidquid.xyz
 vote-hyperlqd.xyz
 vote-ika.xyz
 vote-inco.xyz
