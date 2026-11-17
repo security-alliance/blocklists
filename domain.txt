@@ -78612,6 +78612,7 @@ aeroxyz.icu
 ag-swap.icu
 usd.ai-reward.icu
 usd.ai-rewards.icu
+aipolymarket.icu
 air-drop.icu
 airdrop-blast.icu
 airdrop-ritual.icu
