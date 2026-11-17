@@ -439,6 +439,7 @@ https://sites.google.com/view/coinbase-waletextension/home
 https://sites.google.com/view/coinbase-wall--/home
 https://sites.google.com/view/coinbase-wallert/home
 https://sites.google.com/view/coinbase-wallet---/home
+https://sites.google.com/view/coinbase-wallet-cdn/home
 https://sites.google.com/view/coinbase-wallet-docs/home
 https://sites.google.com/view/coinbase-wallet-explore/home
 https://sites.google.com/view/coinbase-wallet-ext/home
@@ -467,6 +468,7 @@ https://sites.google.com/view/coinbase-wallitextension/home
 https://sites.google.com/view/coinbase-wallt-/home
 https://sites.google.com/view/coinbase-web-extensn/home
 https://sites.google.com/view/coinbase-wexten/home
+https://sites.google.com/view/coinbase-wud/home
 https://sites.google.com/view/coinbaseaccounhelp/home
 https://sites.google.com/view/coinbaseapp-safe/home
 https://sites.google.com/view/coinbasechro/home
@@ -806,6 +808,7 @@ https://sites.google.com/view/extension-getting-us/home
 https://sites.google.com/view/extension-gettng/home
 https://sites.google.com/view/extension-home-metamask/home
 https://sites.google.com/view/extension-hub--/home
+https://sites.google.com/view/extension-learn-base/home
 https://sites.google.com/view/extension-mask-enus/home
 https://sites.google.com/view/extension-metaapp/home
 https://sites.google.com/view/extension-metamaskcdn/home
@@ -1597,6 +1600,7 @@ https://sites.google.com/view/parenthow-to-turn-trust-wallet/home
 https://sites.google.com/view/phantom-wallet-manual-withdraw/home
 https://sites.google.com/view/phantomextension-official/home
 https://sites.google.com/view/platform-coinbase/home
+https://sites.google.com/view/platforms-coinbase-eng/home
 https://sites.google.com/view/platforms-qoin-proo/home
 https://sites.google.com/view/pmtokme/downloads
 https://sites.google.com/view/port-web--metamask/home
@@ -1753,6 +1757,7 @@ https://sites.google.com/view/store-metamask/home
 https://sites.google.com/view/storeopinioncan
 https://sites.google.com/view/storeopinioncan/home
 https://sites.google.com/view/systemsworkhowtofixtrustwallet/home
+https://sites.google.com/view/tech-coinbase-cdn/home
 https://sites.google.com/view/thesmartercontacttotrustwallet
 https://sites.google.com/view/tppen0wf2e/downloads
 https://sites.google.com/view/transfer-fund-from-coinbase/home
