@@ -84634,7 +84634,6 @@ help-upholdcom-io.tem3.io
 help-uphuld-feqs.tem3.io
 learn-uphoold-log-in.tem3.io
 log-in-uphold-faq.tem3.io
-log-uphold-com-auth.tem3.io
 logiin-uphold-faqs.tem3.io
 login-up-hold-bigain.tem3.io
 login-uphold--auth.tem3.io
@@ -84645,7 +84644,6 @@ login-upholld-secure.tem3.io
 nav-upholde-update.tem3.io
 portal-com-uphold-cdn.tem3.io
 portal-enhelp-uphold.tem3.io
-portal-login-up-hold.tem3.io
 portal-up-hold-docs.tem3.io
 portal-uphold-com-n-auth.tem3.io
 portal-uphold-com-x-auth.tem3.io
