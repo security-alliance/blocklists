@@ -66596,7 +66596,6 @@
 ||connect-bridge-trzr-en.pages.dev^$all
 ||connect-bridge-trzzar.pages.dev^$all
 ||connect-en-desktop-ledgr.pages.dev^$all
-||connect-exodus-wallet.pages.dev^$all
 ||connect-exoduswallet.pages.dev^$all
 ||connect-faq-ledgr.pages.dev^$all
 ||connect-home-trezor-wallet.pages.dev^$all
@@ -67581,7 +67580,6 @@
 ||exodus-wallet--start.pages.dev^$all
 ||exodus-wallet-cc.pages.dev^$all
 ||exodus-wallet-em.pages.dev^$all
-||exodus-wallet-engl.pages.dev^$all
 ||exodus-wallet-ens.pages.dev^$all
 ||exodus-wallet-explo.pages.dev^$all
 ||exodus-wallet-explor.pages.dev^$all
@@ -67593,7 +67591,6 @@
 ||exodus-wallet-use-in.pages.dev^$all
 ||exodus-wallet-uso.pages.dev^$all
 ||exodus-walletextension.pages.dev^$all
-||exodus-wallets.pages.dev^$all
 ||exodus-wallets-en.pages.dev^$all
 ||exodus-walletweb.pages.dev^$all
 ||exodus-walletweb3.pages.dev^$all
@@ -67604,7 +67601,6 @@
 ||exodus-web3-login.pages.dev^$all
 ||exodus-web3-s.pages.dev^$all
 ||exodus-web3-wall.pages.dev^$all
-||exodus-web3-wallet-cdn.pages.dev^$all
 ||exodus-web3-wallet-en.pages.dev^$all
 ||exodus-web3-wallet-faq.pages.dev^$all
 ||exodus-web3-wallets.pages.dev^$all
