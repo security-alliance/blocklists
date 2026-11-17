@@ -456,6 +456,7 @@ tempbot.ai
 thinkmarket.ai
 tphantom.ai
 trade-web3.ai
+tradepolymarket.ai
 trezorwallet.ai
 tronlink.ai
 trumpaccounts.ai
@@ -40180,6 +40181,7 @@ polymarketservices.com
 polymarketsim.com
 polymarketsports.com
 auth.polymarketspro.com
+polymarketti.com
 polymarkettraders.com
 polymarketutilities.com
 polymarketw.com
@@ -115305,6 +115307,7 @@ polymarket-trust.xyz
 polymarket-twt.xyz
 polymarketbets.xyz
 polymarketspin.xyz
+polymarketwatch.xyz
 polymarketweather.xyz
 polymatch.xyz
 polytote.xyz
