@@ -18905,6 +18905,7 @@
 ||zoom-connect.click^$all
 ||zoom-invite.click^$all
 ||zoom-live-connect.click^$all
+||zoom-meet.click^$all
 ||zoom-meeting.click^$all
 ||zoominvitation.click^$all
 ||zoominvite.click^$all
@@ -33973,7 +33974,6 @@
 ||goldbetix.com^$all
 ||goldbytbitvn.com^$all
 ||goldcardverify.com^$all
-||golddeliverys.com^$all
 ||golddigitalmkt.com^$all
 ||golddoorma.com^$all
 ||golden-digest.com^$all
@@ -47712,6 +47712,7 @@
 ||webex-us2.com^$all
 ||webex-usa.com^$all
 ||webexconferencemeeting.com^$all
+||webexmeets.com^$all
 ||webexteammeeting.com^$all
 ||webfdappq.com^$all
 ||webfirelightmainnet.com^$all
@@ -73832,7 +73833,9 @@
 ||zoom-app-pt17kq.pages.dev^$all
 ||zoom-connect-95999345.pages.dev^$all
 ||zoom-metting-1.pages.dev^$all
+||zoom-update.pages.dev^$all
 ||zoom-video-online-meeting12569989.pages.dev^$all
+||zoom0s-auth0paymentonline17ac.pages.dev^$all
 ||zoomin-ledger.pages.dev^$all
 ||zoominvite0u7.pages.dev^$all
 ||zoominviteus05.pages.dev^$all
@@ -82156,6 +82159,7 @@
 ||yieldbasis.ink^$all
 ||yoroi-wallet.ink^$all
 ||zama.ink^$all
+||zoom-meet.ink^$all
 ||bitget.institute^$all
 ||polymarket.institute^$all
 ||ledgersupport.insure^$all
@@ -86438,7 +86442,6 @@
 ||id-verification-s3.lat^$all
 ||id-verification-s7.lat^$all
 ||id-verification-server.lat^$all
-||ifc-invest.lat^$all
 ||ifcinvest.lat^$all
 ||im-token-hk-cdn.lat^$all
 ||im-tokens.lat^$all
@@ -107128,6 +107131,7 @@
 ||super-inu.top^$all
 ||claim.superformfoundation.top^$all
 ||supermarketwe.top^$all
+||zoom-invite.supportcentar.top^$all
 ||sure-bridge-plus.top^$all
 ||sushi-dex.top^$all
 ||sushi-trade.top^$all
@@ -108200,6 +108204,7 @@
 ||benchmarksteelinc.us^$all
 ||betai.us^$all
 ||betspinmania.us^$all
+||zoom-invite.billingcentar.us^$all
 ||bitcoin-coin.us^$all
 ||bitcoinlogin.us^$all
 ||bitcoinwallet-t.us^$all
@@ -108700,6 +108705,7 @@
 ||us09-web-zoom.us^$all
 ||us09live.us^$all
 ||us16web-zoom.us^$all
+||us305web-zoom.us^$all
 ||us33webzoom.us^$all
 ||us34webzoom.us^$all
 ||us35web-zoom.us^$all
@@ -118845,6 +118851,7 @@
 ||zksyncerayield.xyz^$all
 ||zone-allocation.xyz^$all
 ||zoom-81245678912.xyz^$all
+||zoom-meet.xyz^$all
 ||zoomappupdate.xyz^$all
 ||zoomchains.xyz^$all
 ||zoominvitemeet.xyz^$all

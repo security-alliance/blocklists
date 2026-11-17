@@ -18905,6 +18905,7 @@ zenvorix-luckyreward.click
 zoom-connect.click
 zoom-invite.click
 zoom-live-connect.click
+zoom-meet.click
 zoom-meeting.click
 zoominvitation.click
 zoominvite.click
@@ -33973,7 +33974,6 @@ gold-polymarket.com
 goldbetix.com
 goldbytbitvn.com
 goldcardverify.com
-golddeliverys.com
 golddigitalmkt.com
 golddoorma.com
 golden-digest.com
@@ -47712,6 +47712,7 @@ ibm.webefex.com
 webex-us2.com
 webex-usa.com
 webexconferencemeeting.com
+webexmeets.com
 webexteammeeting.com
 webfdappq.com
 webfirelightmainnet.com
@@ -73832,7 +73833,9 @@ zone-package.pages.dev
 zoom-app-pt17kq.pages.dev
 zoom-connect-95999345.pages.dev
 zoom-metting-1.pages.dev
+zoom-update.pages.dev
 zoom-video-online-meeting12569989.pages.dev
+zoom0s-auth0paymentonline17ac.pages.dev
 zoomin-ledger.pages.dev
 zoominvite0u7.pages.dev
 zoominviteus05.pages.dev
@@ -82156,6 +82159,7 @@ xyz-or.ink
 yieldbasis.ink
 yoroi-wallet.ink
 zama.ink
+zoom-meet.ink
 bitget.institute
 polymarket.institute
 ledgersupport.insure
@@ -86438,7 +86442,6 @@ hyperliquid-register.lat
 id-verification-s3.lat
 id-verification-s7.lat
 id-verification-server.lat
-ifc-invest.lat
 ifcinvest.lat
 im-token-hk-cdn.lat
 im-tokens.lat
@@ -107128,6 +107131,7 @@ sunsocfrblvnlon-online.top
 super-inu.top
 claim.superformfoundation.top
 supermarketwe.top
+zoom-invite.supportcentar.top
 sure-bridge-plus.top
 sushi-dex.top
 sushi-trade.top
@@ -108200,6 +108204,7 @@ basedapp.us
 benchmarksteelinc.us
 betai.us
 betspinmania.us
+zoom-invite.billingcentar.us
 bitcoin-coin.us
 bitcoinlogin.us
 bitcoinwallet-t.us
@@ -108700,6 +108705,7 @@ us08live.us
 us09-web-zoom.us
 us09live.us
 us16web-zoom.us
+us305web-zoom.us
 us33webzoom.us
 us34webzoom.us
 us35web-zoom.us
@@ -118845,6 +118851,7 @@ zkswapmigrate.xyz
 zksyncerayield.xyz
 zone-allocation.xyz
 zoom-81245678912.xyz
+zoom-meet.xyz
 zoomappupdate.xyz
 zoomchains.xyz
 zoominvitemeet.xyz
