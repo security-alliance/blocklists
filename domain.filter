@@ -100024,6 +100024,7 @@
 ||resupply.run^$all
 ||rhnio.run^$all
 ||ripe.run^$all
+||roinnwallet.run^$all
 ||rollbit.run^$all
 ||simplsewap.run^$all
 ||accounts.slingshot.run^$all
