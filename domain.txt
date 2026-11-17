@@ -118845,6 +118845,7 @@ xrpl-xrp-xmn.xyz
 xrpledger-proposal.xyz
 xslocks.xyz
 xstocks-allocations.xyz
+xstocks-rewards.xyz
 xstocksclaimvault.xyz
 xswapprotocol.xyz
 xuniswap.xyz
