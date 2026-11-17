@@ -111282,6 +111282,7 @@ cap-reg.xyz
 cap-register.xyz
 cap-registration.xyz
 capappgov.xyz
+capapphq.xyz
 capital-tdgm.xyz
 capitalization-qbxp.xyz
 capitaloptionprofit.xyz
