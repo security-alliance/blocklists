@@ -8164,6 +8164,7 @@
 ||wallet-coinbase.netlify.app^$all
 ||wallet-connectify.netlify.app^$all
 ||wallet-help-center.netlify.app^$all
+||walletconnect--stellar-vault.netlify.app^$all
 ||walletconnect0.netlify.app^$all
 ||walletsblockchain.netlify.app^$all
 ||web3-chains.netlify.app^$all
