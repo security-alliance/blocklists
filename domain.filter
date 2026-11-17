@@ -103614,6 +103614,7 @@
 ||ledger.com.so^$all
 ||uphold.com.so^$all
 ||hyperliquid.so^$all
+||lobstr.so^$all
 ||polymarket.so^$all
 ||echo.rac.so^$all
 ||rewards-hylo.so^$all
@@ -117754,6 +117755,7 @@
 ||usdai-governance.xyz^$all
 ||usdai-reallocation.xyz^$all
 ||usdaiecosystem.xyz^$all
+||nansen.usdash.xyz^$all
 ||usdc-reward.xyz^$all
 ||usdsol.xyz^$all
 ||usdt-allocation.xyz^$all

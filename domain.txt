@@ -103614,6 +103614,7 @@ gemini.com.so
 ledger.com.so
 uphold.com.so
 hyperliquid.so
+lobstr.so
 polymarket.so
 echo.rac.so
 rewards-hylo.so
@@ -117754,6 +117755,7 @@ usdai-community.xyz
 usdai-governance.xyz
 usdai-reallocation.xyz
 usdaiecosystem.xyz
+nansen.usdash.xyz
 usdc-reward.xyz
 usdsol.xyz
 usdt-allocation.xyz
