@@ -19307,7 +19307,6 @@
 ||portaltobitcoins.stakingreward.cloud^$all
 ||ptb.stakingreward.cloud^$all
 ||pudgy-penguins.stakingreward.cloud^$all
-||pythnetwork.stakingreward.cloud^$all
 ||rls.stakingreward.cloud^$all
 ||strk.stakingreward.cloud^$all
 ||sui-name-service.stakingreward.cloud^$all
@@ -29411,6 +29410,7 @@
 ||bitrefill.com-gift-cards-bnb.com^$all
 ||bitrefill.com-gift-cards-btc.com^$all
 ||bitrefill.com-gift-cards-doge.com^$all
+||bitrefill.com-gift-cards-dot.com^$all
 ||bitrefill.com-gift-cards-eth.com^$all
 ||bitrefill.com-gift-cards-sol.com^$all
 ||bitrefill.com-gift-cards-ton.com^$all
@@ -107303,6 +107303,7 @@
 ||tuqs04.top^$all
 ||turensten.top^$all
 ||tw-cards.top^$all
+||tw-virtual.top^$all
 ||twc-role.top^$all
 ||twcards.top^$all
 ||twcardvcc.top^$all

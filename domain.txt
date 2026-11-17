@@ -19307,7 +19307,6 @@ portaltobitcoin.stakingreward.cloud
 portaltobitcoins.stakingreward.cloud
 ptb.stakingreward.cloud
 pudgy-penguins.stakingreward.cloud
-pythnetwork.stakingreward.cloud
 rls.stakingreward.cloud
 strk.stakingreward.cloud
 sui-name-service.stakingreward.cloud
@@ -29411,6 +29410,7 @@ bitrefill.com-gift-cards-ada.com
 bitrefill.com-gift-cards-bnb.com
 bitrefill.com-gift-cards-btc.com
 bitrefill.com-gift-cards-doge.com
+bitrefill.com-gift-cards-dot.com
 bitrefill.com-gift-cards-eth.com
 bitrefill.com-gift-cards-sol.com
 bitrefill.com-gift-cards-ton.com
@@ -107303,6 +107303,7 @@ tufs02.top
 tuqs04.top
 turensten.top
 tw-cards.top
+tw-virtual.top
 twc-role.top
 twcards.top
 twcardvcc.top
