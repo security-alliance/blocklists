@@ -40009,6 +40009,7 @@ polamarket.com
 polar-tensor.com
 polderhold.com
 polexbot.com
+polexbotpro.com
 policy-process-x.com
 policycompliancereview.com
 policydecision-x.com
@@ -51423,7 +51424,6 @@ trade-krkakenapp.wixstudio.com
 trade-krkakencdn.wixstudio.com
 trade-krkakencdns.wixstudio.com
 trade-krkakenscdn.wixstudio.com
-trade-krkanpro.wixstudio.com
 trade-krkanprolog.wixstudio.com
 trade-krkanpros.wixstudio.com
 trade-krkunpros.wixstudio.com
