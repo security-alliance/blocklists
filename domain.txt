@@ -64037,6 +64037,7 @@ pr-7831.1inch-io-app.pages.dev
 7-governance-venice.pages.dev
 7-governance-voltafamily.pages.dev
 7-governance-zama.pages.dev
+7-governance-zamahub.pages.dev
 7-hookrfun.pages.dev
 7-hub-centrifugegov.pages.dev
 7-hub-concretegov.pages.dev
