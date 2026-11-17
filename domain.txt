@@ -74833,7 +74833,6 @@ computerrh.digital
 rewards.concretesxyz.digital
 concretexgz.digital
 concretexyz.digital
-cowprotocol.digital
 cryptoinvoice.digital
 cryptomixer.digital
 cryptomus.digital
