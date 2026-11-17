@@ -40458,7 +40458,6 @@ privanot.com
 privatalbum.com
 trustwallet.private-payments.com
 private-pegasus.com
-private-zoom.com
 privateaviationai.com
 privatether.com
 privatezoommeeting.com
@@ -53037,7 +53036,6 @@ zone-stonk.com
 zonewex.com
 zoom-12a-pq7-lm0d-qiwu2.com
 zoom-auth.com
-zoom-av.com
 zoom-call.com
 zoom-communications.com
 zoom-en.com
@@ -53045,7 +53043,6 @@ zoom-enterprise-updates.com
 zoom-help.com
 zoom-id.com
 zoom-invitation.com
-zoom-join.com
 zoom-justin.com
 zoom-kaiyuangame.com
 zoom-kaiyuangames.com
@@ -53059,7 +53056,6 @@ zoom-meetingss.com
 zoom-pdf.com
 zoom-secure.com
 zoom-securelogin.com
-zoom-united.com
 zoom-us-988654328-pwd-8tfhddytheqatrfsg.com
 zoom-us02-meeting.com
 zoom-whatsapp.com
