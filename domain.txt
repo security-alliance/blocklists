@@ -14395,7 +14395,6 @@ swap.bz
 trustwallet.bz
 whir.bz
 abeobaseball.ca
-accesso.ca
 ainbet.ca
 ali-express.ca
 arinbet.ca
@@ -17569,7 +17568,6 @@ tge-dopplerfinance.cfd
 theindexfi.cfd
 theindexfinance.cfd
 theindexfinances.cfd
-tochamushi.cfd
 token-auth.cfd
 token-ledger.cfd
 top-gift.cfd
@@ -20490,7 +20488,6 @@ unitree-binance.com.cn
 upbit-binance.com.cn
 upbit-htx.com.cn
 url-htx.com.cn
-us-teams.com.cn
 uscc-okx.com.cn
 usda-binance.com.cn
 use-binance.com.cn
@@ -21317,7 +21314,6 @@ meetusapaymentsync.co
 mefaichain.co
 megaethchain.co
 melaniatrump.co
-metamasck.co
 metamask-airdrop.co
 metamask-cards.co
 metamask-security.co
@@ -22780,7 +22776,6 @@ ndpghi.35hua.com
 3jane-proposal.com
 3pj14.com
 3pj66.com
-3samut.com
 3spinup.com
 3trustwallet.com
 3xcoinbase.com
@@ -26268,7 +26263,6 @@ claim.bedrerockdao.com
 beefyhelpdesk.com
 beesleytools.com
 befakiko.com
-beforewemeetapp.com
 begemewo.com
 rainbet.beldui.com
 belfastgardenservices.com
@@ -31246,7 +31240,6 @@ doc0194584903423478.com
 doccupdateed.com
 dock-pay.com
 docs-solana.com
-docsdriveiecloud.com
 docsend-app.com
 docsend-e-signature.com
 docshare-doc.com
@@ -33547,7 +33540,6 @@ gmail-verificationform.com
 gmails-google.com
 gmbcoin.com
 gmecoinrbh.com
-gmeet-invite.com
 gmgn-terminal.com
 gmgnguide.com
 gminding.com
@@ -34866,7 +34858,6 @@ traderjeoxyz.hpage.com
 tronscan.hpage.com
 hpedbit.com
 hpliquid.com
-hpsett.com
 hqi18.com
 hqi19.com
 hqi22.com
@@ -36491,7 +36482,6 @@ lbportfoliomanager.com
 lbrdao.com
 lcdgcr-live.com
 lcdgerliv.com
-lcldv.com
 login.lcoinbase.com
 lcoudflare.com
 ldattct.com
@@ -37776,7 +37766,6 @@ microsoft08610.com
 microsoft363.com
 microsoft365-updates.com
 microsoft365-verify.com
-microsoft365alert.com
 microsoft365businessbasic.com
 microsoft365verification.com
 microsoftaccess365.com
@@ -39144,7 +39133,6 @@ onekey-app.com
 onekey-desktop.com
 onekeywalletcoin.com
 onelnch.com
-onenote-microsftoffice365.com
 oneplus-fx.com
 oneprofiz.com
 oneriverad.com
@@ -42799,7 +42787,6 @@ securefxtrd.com
 securehelpmicrosoft.com
 securehelps-coinbase.com
 secureid-loginca.com
-securelinkbank.com
 securelinkvault.com
 securelivechat9289182-trezor.com
 securelogin-googleportal.com
@@ -42938,7 +42925,6 @@ sestrirh.com
 settings-binance.com
 settings-coinbase.com
 settings-kalshi.com
-settlewises.com
 setup-trezor.com
 setupmeetingjoins.com
 seukasecurity.com
@@ -44907,7 +44893,6 @@ token2049sgp.com
 token2049tickets.com
 sol.tokenfundingdesk.com
 tokenfundingindex.com
-tokengeneratormailer.com
 tokengfomarket.com
 tokenhubportal.com
 tokenizationondo.com
@@ -53564,7 +53549,6 @@ governance-firelight.cyou
 growth-iju.cyou
 growth-xxdu.cyou
 gstrading.cyou
-highliferewardarena.cyou
 hunting-airdrop.cyou
 huntithgton.cyou
 imtookon.cyou
@@ -81493,7 +81477,6 @@ secure-gmail.info
 secure-icloud.info
 secure-lisk.info
 secure-notify.info
-secure-update.info
 secure-verification-portal.info
 secureservice-network.info
 securetransfer-ca.info
@@ -87215,7 +87198,6 @@ asteraxtrade.live
 asterdexchain.live
 asterextrade.live
 aurawallet.live
-aussumanyrnas.live
 auth-firelight.live
 auth-firelightfi.live
 auth-gateway-service.live
@@ -88170,7 +88152,6 @@ invitation-meeting.live
 invitationlivezoom.live
 invite-teams.live
 invitesmeeting.live
-inviteteams.live
 inviteteams-meeting.live
 invitezoom-meeting.live
 invoice-portal.live
@@ -88253,7 +88234,6 @@ lcairelaunch.live
 ledgerwallets.live
 leeks.live
 legacy-ledger.live
-lgn-mygouonline.live
 lgnsrelaunch.live
 lgnsresolve.live
 lido-migrate.live
@@ -88290,7 +88270,6 @@ login-teams.live
 logins-firelightfi.live
 logins-ondoperps.live
 logins-pendlefi.live
-logntnotifys.live
 logtkn.live
 longbow-proposal.live
 lootbet.live
@@ -88362,7 +88341,6 @@ microsftsupp.live
 microsoft-login.live
 microsoft-meet.live
 microsoft-ms-vitual.live
-microsoft-office.live
 microsoft-team.live
 microsoft-workspace.live
 microsoftcn.live
@@ -92442,7 +92420,6 @@ luxzone.net
 lvvas.net
 mafedex.net
 mafiaprosperity.net
-mail-currenntly.net
 mailbuy.net
 mainstreetcredit.net
 mainstreetcreditalliance.net
@@ -94952,7 +94929,6 @@ stakebusd.online
 stakingrewards.online
 standardreserve.online
 statepulse.online
-stealthwailer.online
 stellarsterm.online
 stonk-rewards.online
 stonkfuns.online
@@ -99263,7 +99239,6 @@ season7-ethena.pro
 securedeficustody.pro
 selectorx.pro
 sendtransfer.pro
-sharedmailclouddocuments.pro
 shbiainu.pro
 webmail.shelby-growth.pro
 shield-ledger.pro
@@ -101299,7 +101274,6 @@ gifts-gifts.sbs
 glassnode.sbs
 glbuniquetrade.sbs
 gmgn-portfolio.sbs
-goformation.sbs
 gokiteai.sbs
 goodboyrocky.sbs
 googlenow.sbs
@@ -101481,7 +101455,6 @@ ms-meetmeeting-teams.sbs
 msmeet.sbs
 muglcbaiicu.sbs
 my-rewards.sbs
-myauclaim-lodgment.sbs
 mybrand-x.sbs
 mygift-web.sbs
 mypoints-gift.sbs
@@ -105648,7 +105621,6 @@ clean-route-studio.top
 clear-hub-io.top
 client-support-verification24139.top
 cloudpublish.top
-cloudshareit.top
 cloudupdated.top
 clutch-markets.top
 clutchmarkets.top
@@ -106496,7 +106468,6 @@ microsoft-google.top
 microsoft-office.top
 microsoft-onlin.top
 microsoft365copilot.top
-microsofteaams.top
 microsofteaminvites.top
 microsofteamms.top
 microsofteamsbookingz.top
@@ -106533,7 +106504,6 @@ microstgoffces.top
 micrrosoftinvites.top
 midnight-pd.top
 migration-dashboard.top
-miicrosoftteams.top
 minehoodio.top
 minesol.top
 mixeroshop.top
@@ -106998,7 +106968,6 @@ secure-tools.top
 secure-works.top
 secured-docsp1.top
 secureeaccess.top
-secureupdates.top
 security-flarenetwork.top
 securreaccess.top
 senate-ledger.top
@@ -107326,7 +107295,6 @@ up-sol.top
 up-x-ggfi16.top
 up33-governance.top
 update-base.top
-updatedoc.top
 updatezdoc.top
 upgrade-aero.top
 upgrade-aeroxyz.top
