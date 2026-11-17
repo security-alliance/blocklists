@@ -84622,7 +84622,6 @@ cloud-uphld-logne-cdn-n.tem3.io
 cloud-uphold-log-en.tem3.io
 cloud-uphold-login-auth.tem3.io
 conect-uphold-login-us.tem3.io
-en-uphold-login-auth.tem3.io
 faq-log-in-uphold.tem3.io
 faq-metamask-login-help.tem3.io
 faq-uphold-log-in.tem3.io
@@ -84673,7 +84672,6 @@ uphold-login.tem3.io
 uphold-login-help.tem3.io
 upholde-access-again.tem3.io
 upholdlogiin-en.tem3.io
-uphoold-secure.tem3.io
 web--uphold-us-being.tem3.io
 web-uphold-login-cdn.tem3.io
 web-user-uphold-us-en.tem3.io
