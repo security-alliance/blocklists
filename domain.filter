@@ -102070,6 +102070,7 @@
 ||amlsec.services^$all
 ||app-metamask.services^$all
 ||app-phantom.services^$all
+||apps-phantom.services^$all
 ||dev.ronin-wallet-website.axieinfinity.services^$all
 ||basesupport.services^$all
 ||btcmix.services^$all
