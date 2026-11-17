@@ -34050,6 +34050,7 @@ goomeetinglive.com
 goongrove.com
 gooqlesmeet-live.com
 goosefx-dex.com
+gopolymarket.com
 gorainbetfr.com
 gork-x.com
 gorvixo.com
@@ -75697,6 +75698,7 @@ git.coinbase.exposed
 tokenmanager.coinbase.exposed
 wallet.coinbase.exposed
 rainbet.express
+polymarket.fail
 claim-brew.family
 como.family
 crates-familiars.family
