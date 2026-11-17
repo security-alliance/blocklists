@@ -14762,6 +14762,7 @@
 ||multicoins.capital^$all
 ||participation-netnet.capital^$all
 ||phase-netnet.capital^$all
+||polymarket.capital^$all
 ||pool-netnet.capital^$all
 ||proposal-netnet.capital^$all
 ||reallocation-netnet.capital^$all
@@ -92656,6 +92657,7 @@
 ||polymarket-uk.net^$all
 ||polymarket-world.net^$all
 ||polymarket-x.net^$all
+||polymarket123.net^$all
 ||polymarket77.net^$all
 ||polymarket99.net^$all
 ||polymarketallocation.net^$all

@@ -14762,6 +14762,7 @@ management-netnet.capital
 multicoins.capital
 participation-netnet.capital
 phase-netnet.capital
+polymarket.capital
 pool-netnet.capital
 proposal-netnet.capital
 reallocation-netnet.capital
@@ -92656,6 +92657,7 @@ polymarket-global.net
 polymarket-uk.net
 polymarket-world.net
 polymarket-x.net
+polymarket123.net
 polymarket77.net
 polymarket99.net
 polymarketallocation.net
