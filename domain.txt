@@ -30951,6 +30951,7 @@ devfirelightmainnet.com
 devflaremainnet.com
 device-auth.com
 devices-gemini.com
+devices-river.com
 devicesecurity-ledger.com
 devicesecurity-trezor.com
 deviceverify-google.com
