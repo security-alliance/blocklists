@@ -9358,7 +9358,6 @@ sso--login--trezor--io-cdn.typedream.app
 sso--robimhood-auth-com.typedream.app
 sso--trezor-io-logn.typedream.app
 sso--trezor-io-logn-en.typedream.app
-sso--uphold-cdn.typedream.app
 sso-_kra-ken-com-x-auth.typedream.app
 sso-auth-support-robinhhoode-logi-x-auth.typedream.app
 sso-auth-trust--walet-auth.typedream.app
