@@ -47140,7 +47140,6 @@ vote-tradexyz.com
 vote-treadfi.com
 vote-trololol.com
 vote-umbra.com
-vote-unipegv4.com
 vote-usdd.com
 vote-variational.com
 vote-venice.com
@@ -95368,7 +95367,6 @@ app-atomic.org
 app-curvance.org
 app-dydx.org
 app-exodus.org
-app-hash256.org
 app-hyperilquid.org
 app-ledgerwallet.org
 app-metamask.org
