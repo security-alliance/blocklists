@@ -71421,6 +71421,7 @@ rewards-argus.pages.dev
 rewards-axisrobotics.pages.dev
 rewards-cashcat.pages.dev
 rewards-desk.pages.dev
+rewards-firelightfi.pages.dev
 rewards-fluid.pages.dev
 rewards-hoodrat.pages.dev
 rewards-kucoin.pages.dev
