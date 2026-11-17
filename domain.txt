@@ -79557,7 +79557,6 @@ mfhkhder.icu
 microsoftt.icu
 migos.icu
 miloer.icu
-monadfin.icu
 monadgov.icu
 mongodb-react.icu
 montramarkets.icu
