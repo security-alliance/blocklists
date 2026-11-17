@@ -121,7 +121,6 @@ decibels.ai
 app.foundationwellness.elyonsci.ai
 enaou.ai
 flubless.ai
-access-coinbse-com-sign.framer.ai
 access-krakkn-cdn.framer.ai
 access-trazore.framer.ai
 access-trez-suit--en.framer.ai
@@ -244,7 +243,6 @@ learn-trust-us.framer.ai
 learn-trzor.framer.ai
 learn-us-suits.framer.ai
 learnioweb-metamasks-home.framer.ai
-log-coinbase-in.framer.ai
 login-coinsqures.framer.ai
 m-uphold-sso.framer.ai
 manage-io-rabby.framer.ai
@@ -49513,7 +49511,6 @@ home-apps-tronlink.wixstudio.com
 home-apps-trxzor.wixstudio.com
 home-appsrabbycdn.wixstudio.com
 home-base-extension.wixstudio.com
-home-base-extensions.wixstudio.com
 home-base-pagecdn.wixstudio.com
 home-base-wallt.wixstudio.com
 home-basecdn-ext.wixstudio.com
