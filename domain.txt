@@ -103730,6 +103730,7 @@ i-trustcapital.apper.so
 metamask-extesion.apper.so
 my-itrusstcapital.apper.so
 webapp-rabby.apper.so
+webapps-base-extension.apper.so
 baseswap.so
 gemini.com.so
 ledger.com.so
