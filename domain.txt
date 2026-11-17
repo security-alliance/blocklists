@@ -40069,6 +40069,7 @@ polymarket-b.com
 polymarket-baji.com
 polymarket-betaversion.com
 polymarket-bg.com
+polymarket-bots.com
 polymarket-ca.com
 polymarket-canada.com
 polymarket-chat.com
@@ -107835,6 +107836,7 @@ phatnomwallet.trade
 pheonix.trade
 phoenixswap.trade
 platform-x.trade
+polymarketbot.trade
 polymarkets.trade
 ponsterminal.trade
 pooles.trade
