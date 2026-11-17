@@ -17914,6 +17914,7 @@ allocation-dopplerfinance.click
 allocation-firelightecosystems.click
 allocation-firelightfi.click
 allocation-flyingtulip.click
+allocation-hyperlend.click
 allocation-mantle.click
 allocation-multipli.click
 allocation-ponsecosystem.click
@@ -18345,6 +18346,7 @@ lorozunopexi.click
 luckyauracasino.click
 luckytiger.click
 mantlegovernance.click
+mantleofficial.click
 mantleofficials.click
 marketcap-community.click
 marketprimehoriz.click
@@ -18900,6 +18902,7 @@ zealyio.click
 zenvorix-bonusflare.click
 zenvorix-jackpotreward.click
 zenvorix-luckyreward.click
+zestprotocol-claim.click
 zoom-connect.click
 zoom-invite.click
 zoom-live-connect.click
@@ -19475,6 +19478,7 @@ coingecko.club
 coinmarketcap-vote.club
 coinme.club
 coinone.club
+connect-flare.club
 crycoin.club
 trustwallet.cryptodyor.club
 cryptoexpro.club
@@ -21675,6 +21679,7 @@ melania.coffee
 018294-crypto.com
 018392-crypto.com
 01895729-ledger.com
+0190-binance.com
 019252-microsoft.com
 019282coinbase.com
 019382-crypto.com
@@ -22714,6 +22719,7 @@ ndpghi.35hua.com
 383723coinbase.com
 383921coinbase.com
 383938coinbase.com
+38423-crypto.com
 384232apple.com
 384238-apple.com
 384238apple.com
@@ -22990,6 +22996,7 @@ client.475238-cb.com
 491281-coinbase.com
 491282-cb.com
 491736-crypto.com
+49183854-coinbase.com
 491857-crypto.com
 49192-coinbase.com
 4919201-aol.com
@@ -23640,6 +23647,7 @@ client.758340-cb.com
 764398coinbase.com
 76481-icloud.com
 764951-coinbase.com
+76513-crypto.com
 765469-crypto.com
 765483-icloud.com
 765889-crypto.com
@@ -23936,6 +23944,7 @@ client.843971-cb.com
 847216-crypto.com
 847231-crypto.com
 8473-kraken.com
+847312-coinbase.com
 847321coinbase.com
 847333-binance.com
 support.847352-coinbase.com
@@ -25023,6 +25032,7 @@ allocations-perpl.com
 allocations-polymarket.com
 allocations-ponsfamily.com
 allocations-prjx.com
+allocations-rabby.com
 allocations-robinhood.com
 allocations-satrush.com
 allocations-saturn.com
@@ -28142,6 +28152,7 @@ claim-kaio.com
 claim-kalshi.com
 claim-kintara.com
 claim-laptoptoken.com
+claim-ledger.com
 claim-lombard.com
 claim-manifestingxs.com
 claim-matching.com
@@ -28164,6 +28175,7 @@ claim-ripple-xrp-reward.com
 claim-rlusd.com
 claim-robbieonrh.com
 claim-robinhood-rewards.com
+claim-ryft.com
 claim-search.com
 claim-season3.com
 claim-securywallet.com
@@ -31126,6 +31138,7 @@ distribution-flarenetwork.com
 distribution-focus.com
 distribution-fxrp.com
 distribution-gacha.com
+distribution-hyperliquid.com
 distribution-kintara.com
 distribution-netnetcapital.com
 distribution-papertrade.com
@@ -77011,6 +77024,7 @@ claim-kinetiq.fun
 claim-nukes.fun
 claim-portal.fun
 claim-rlusd.fun
+claim-ryft.fun
 claim-sol-twitter.fun
 claim-unlswap.fun
 claim-usepaid.fun
@@ -78451,6 +78465,7 @@ trustwalletmeta.help
 trustwalletsupport.help
 trustwalletsupportportal.help
 turnover-bwd.help
+uniswap.help
 unlock-worldlibertyfinancial.help
 upholdsupport-center.help
 upholdsupports-center.help
@@ -78590,6 +78605,7 @@ usd.ai-reward.icu
 usd.ai-rewards.icu
 air-drop.icu
 airdrop-blast.icu
+airdrop-ritual.icu
 airdropmemecrypto.icu
 airdropusdt.icu
 aligned.icu
@@ -79720,6 +79736,7 @@ rewards-zama.icu
 rewardstrx-daily.icu
 app.risefoundation.icu
 risex.icu
+ritual-airdrop.icu
 river-vip.icu
 roadmap-firelight.icu
 rolldice.icu
@@ -92119,6 +92136,10 @@ flare-portal.net
 flarefnd.net
 flarenetwork.net
 flarenetwork-portal.net
+flarenetworkreporting.net
+flarenetworktaxdocsinfo.net
+flarenetworktaxinfo.net
+flarenetworktaxnotice.net
 flareportals.net
 flaretokens.net
 fljh.net
@@ -102510,6 +102531,7 @@ co.colnbase.si
 cryptocom.si
 dydx.si
 falconfinance.si
+flarenetwork.si
 google-account.si
 ledgerwallet.si
 lidodao.si
@@ -102788,13 +102810,15 @@ fi-en-us.site
 fi-invite.site
 fi-relay-node.site
 fi-sweetbezklo18goku1.site
-pendle.finance-claim.site
+fi-vote.site
+finance-claim.site
+finance-claims.site
 pendle.finance-entry.site
 finance-katana.site
 finance-rewards.site
 pendle.finance-safe.site
 finance-swap.site
-pendle.finance-vote.site
+finance-vote.site
 finbridge.site
 firelightecosystem.site
 firelightfi.site
@@ -103844,6 +103868,7 @@ tangem.com.ss
 trezor.com.ss
 67568.st
 68932.st
+app-uniswap.st
 asterdex.st
 balancer.st
 btc-tradingview.st
@@ -110554,6 +110579,7 @@ allocation-dphn.xyz
 allocation-egon.xyz
 allocation-embercurve.xyz
 allocation-fablesfi.xyz
+allocation-firelight.xyz
 allocation-firelightfi.xyz
 allocation-firelightfinance.xyz
 allocation-flap.xyz
@@ -110568,6 +110594,7 @@ allocation-hype.xyz
 allocation-hypereco.xyz
 allocation-hyperfoundation.xyz
 allocation-hyperfoundation2.xyz
+allocation-hyperlend.xyz
 allocation-idle.xyz
 allocation-jeanphil.xyz
 allocation-jtx.xyz
@@ -111743,6 +111770,7 @@ zksync-official.crew3.xyz
 crownspin-panel.xyz
 crowserv.xyz
 cry-pto.xyz
+crypto-airdrop.xyz
 crypto-ocbc.xyz
 crypto-ocbcx.xyz
 crypto-wallet.xyz

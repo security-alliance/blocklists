@@ -17914,6 +17914,7 @@
 ||allocation-firelightecosystems.click^$all
 ||allocation-firelightfi.click^$all
 ||allocation-flyingtulip.click^$all
+||allocation-hyperlend.click^$all
 ||allocation-mantle.click^$all
 ||allocation-multipli.click^$all
 ||allocation-ponsecosystem.click^$all
@@ -18345,6 +18346,7 @@
 ||luckyauracasino.click^$all
 ||luckytiger.click^$all
 ||mantlegovernance.click^$all
+||mantleofficial.click^$all
 ||mantleofficials.click^$all
 ||marketcap-community.click^$all
 ||marketprimehoriz.click^$all
@@ -18900,6 +18902,7 @@
 ||zenvorix-bonusflare.click^$all
 ||zenvorix-jackpotreward.click^$all
 ||zenvorix-luckyreward.click^$all
+||zestprotocol-claim.click^$all
 ||zoom-connect.click^$all
 ||zoom-invite.click^$all
 ||zoom-live-connect.click^$all
@@ -19475,6 +19478,7 @@
 ||coinmarketcap-vote.club^$all
 ||coinme.club^$all
 ||coinone.club^$all
+||connect-flare.club^$all
 ||crycoin.club^$all
 ||trustwallet.cryptodyor.club^$all
 ||cryptoexpro.club^$all
@@ -21675,6 +21679,7 @@
 ||018294-crypto.com^$all
 ||018392-crypto.com^$all
 ||01895729-ledger.com^$all
+||0190-binance.com^$all
 ||019252-microsoft.com^$all
 ||019282coinbase.com^$all
 ||019382-crypto.com^$all
@@ -22714,6 +22719,7 @@
 ||383723coinbase.com^$all
 ||383921coinbase.com^$all
 ||383938coinbase.com^$all
+||38423-crypto.com^$all
 ||384232apple.com^$all
 ||384238-apple.com^$all
 ||384238apple.com^$all
@@ -22990,6 +22996,7 @@
 ||491281-coinbase.com^$all
 ||491282-cb.com^$all
 ||491736-crypto.com^$all
+||49183854-coinbase.com^$all
 ||491857-crypto.com^$all
 ||49192-coinbase.com^$all
 ||4919201-aol.com^$all
@@ -23640,6 +23647,7 @@
 ||764398coinbase.com^$all
 ||76481-icloud.com^$all
 ||764951-coinbase.com^$all
+||76513-crypto.com^$all
 ||765469-crypto.com^$all
 ||765483-icloud.com^$all
 ||765889-crypto.com^$all
@@ -23936,6 +23944,7 @@
 ||847216-crypto.com^$all
 ||847231-crypto.com^$all
 ||8473-kraken.com^$all
+||847312-coinbase.com^$all
 ||847321coinbase.com^$all
 ||847333-binance.com^$all
 ||support.847352-coinbase.com^$all
@@ -25023,6 +25032,7 @@
 ||allocations-polymarket.com^$all
 ||allocations-ponsfamily.com^$all
 ||allocations-prjx.com^$all
+||allocations-rabby.com^$all
 ||allocations-robinhood.com^$all
 ||allocations-satrush.com^$all
 ||allocations-saturn.com^$all
@@ -28142,6 +28152,7 @@
 ||claim-kalshi.com^$all
 ||claim-kintara.com^$all
 ||claim-laptoptoken.com^$all
+||claim-ledger.com^$all
 ||claim-lombard.com^$all
 ||claim-manifestingxs.com^$all
 ||claim-matching.com^$all
@@ -28164,6 +28175,7 @@
 ||claim-rlusd.com^$all
 ||claim-robbieonrh.com^$all
 ||claim-robinhood-rewards.com^$all
+||claim-ryft.com^$all
 ||claim-search.com^$all
 ||claim-season3.com^$all
 ||claim-securywallet.com^$all
@@ -31126,6 +31138,7 @@
 ||distribution-focus.com^$all
 ||distribution-fxrp.com^$all
 ||distribution-gacha.com^$all
+||distribution-hyperliquid.com^$all
 ||distribution-kintara.com^$all
 ||distribution-netnetcapital.com^$all
 ||distribution-papertrade.com^$all
@@ -77011,6 +77024,7 @@
 ||claim-nukes.fun^$all
 ||claim-portal.fun^$all
 ||claim-rlusd.fun^$all
+||claim-ryft.fun^$all
 ||claim-sol-twitter.fun^$all
 ||claim-unlswap.fun^$all
 ||claim-usepaid.fun^$all
@@ -78451,6 +78465,7 @@
 ||trustwalletsupport.help^$all
 ||trustwalletsupportportal.help^$all
 ||turnover-bwd.help^$all
+||uniswap.help^$all
 ||unlock-worldlibertyfinancial.help^$all
 ||upholdsupport-center.help^$all
 ||upholdsupports-center.help^$all
@@ -78590,6 +78605,7 @@
 ||usd.ai-rewards.icu^$all
 ||air-drop.icu^$all
 ||airdrop-blast.icu^$all
+||airdrop-ritual.icu^$all
 ||airdropmemecrypto.icu^$all
 ||airdropusdt.icu^$all
 ||aligned.icu^$all
@@ -79720,6 +79736,7 @@
 ||rewardstrx-daily.icu^$all
 ||app.risefoundation.icu^$all
 ||risex.icu^$all
+||ritual-airdrop.icu^$all
 ||river-vip.icu^$all
 ||roadmap-firelight.icu^$all
 ||rolldice.icu^$all
@@ -92119,6 +92136,10 @@
 ||flarefnd.net^$all
 ||flarenetwork.net^$all
 ||flarenetwork-portal.net^$all
+||flarenetworkreporting.net^$all
+||flarenetworktaxdocsinfo.net^$all
+||flarenetworktaxinfo.net^$all
+||flarenetworktaxnotice.net^$all
 ||flareportals.net^$all
 ||flaretokens.net^$all
 ||fljh.net^$all
@@ -102510,6 +102531,7 @@
 ||cryptocom.si^$all
 ||dydx.si^$all
 ||falconfinance.si^$all
+||flarenetwork.si^$all
 ||google-account.si^$all
 ||ledgerwallet.si^$all
 ||lidodao.si^$all
@@ -102788,13 +102810,15 @@
 ||fi-invite.site^$all
 ||fi-relay-node.site^$all
 ||fi-sweetbezklo18goku1.site^$all
-||pendle.finance-claim.site^$all
+||fi-vote.site^$all
+||finance-claim.site^$all
+||finance-claims.site^$all
 ||pendle.finance-entry.site^$all
 ||finance-katana.site^$all
 ||finance-rewards.site^$all
 ||pendle.finance-safe.site^$all
 ||finance-swap.site^$all
-||pendle.finance-vote.site^$all
+||finance-vote.site^$all
 ||finbridge.site^$all
 ||firelightecosystem.site^$all
 ||firelightfi.site^$all
@@ -103844,6 +103868,7 @@
 ||trezor.com.ss^$all
 ||67568.st^$all
 ||68932.st^$all
+||app-uniswap.st^$all
 ||asterdex.st^$all
 ||balancer.st^$all
 ||btc-tradingview.st^$all
@@ -110554,6 +110579,7 @@
 ||allocation-egon.xyz^$all
 ||allocation-embercurve.xyz^$all
 ||allocation-fablesfi.xyz^$all
+||allocation-firelight.xyz^$all
 ||allocation-firelightfi.xyz^$all
 ||allocation-firelightfinance.xyz^$all
 ||allocation-flap.xyz^$all
@@ -110568,6 +110594,7 @@
 ||allocation-hypereco.xyz^$all
 ||allocation-hyperfoundation.xyz^$all
 ||allocation-hyperfoundation2.xyz^$all
+||allocation-hyperlend.xyz^$all
 ||allocation-idle.xyz^$all
 ||allocation-jeanphil.xyz^$all
 ||allocation-jtx.xyz^$all
@@ -111743,6 +111770,7 @@
 ||crownspin-panel.xyz^$all
 ||crowserv.xyz^$all
 ||cry-pto.xyz^$all
+||crypto-airdrop.xyz^$all
 ||crypto-ocbc.xyz^$all
 ||crypto-ocbcx.xyz^$all
 ||crypto-wallet.xyz^$all
