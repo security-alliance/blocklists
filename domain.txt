@@ -1313,7 +1313,6 @@ cricfy-official.app
 cricfystv.app
 crypto-ads.app
 crypto-guru.app
-crypto-options.app
 cryptobubbles.app
 cryptokosmos.app
 cryptospunks.app
@@ -21439,7 +21438,6 @@ promo-company.co
 proposal-hyperiiquid.co
 proposal-hyperliquid.co
 proposal-pendle.co
-proposal-stacks.co
 proposal-virtuals.co
 pulsechainapp.co
 pump-swap.co
@@ -22211,7 +22209,6 @@ web.20334-coinbase.com
 216485-crypto.com
 216513-apple.com
 216513-gmail.com
-217822-crypto.com
 217974-crypto.com
 ab.21835-coinbase.com
 alba.21835-coinbase.com
@@ -22299,7 +22296,6 @@ a212.21chongwu.com
 232333-coinbase.com
 234126141234126.com
 2342742523456314512.com
-23441-crypto.com
 234599-binance.com
 23568-gmail.com
 2357486897234q6r4589342165oiuf.com
@@ -23292,7 +23288,6 @@ arbitrum.58bbq.com
 592361google.com
 59275coinbase.com
 592843-ledger.com
-592942-coinspot.com
 592953-ledger.com
 593014coinbase.com
 593021-crypto.com
@@ -23564,7 +23559,6 @@ coinbase.675128.com
 72341-coinbase.com
 723494-binance.com
 72351coinbase.com
-723812-crypto.com
 724526-binance.com
 724910-crypto.com
 72523-coinbase.com
@@ -23831,7 +23825,6 @@ client.758340-cb.com
 819465-crypto.com
 819616.com
 820193-crypto.com
-820200-crypto.com
 820391-crypto.com
 820481-crypto.com
 820491-crypto.com
@@ -24211,7 +24204,6 @@ ww38.coinbaseverifier.8x8pnhv.com
 918402-crypto.com
 918516-crypto.com
 919496coinbase.com
-920200-crypto.com
 920437-crypto.com
 921479-binance.com
 921586google.com
@@ -24592,7 +24584,6 @@ account-safety-bitvavo.com
 account-safety-coinbase.com
 account-safety-river.com
 account-secure-coinbase.com
-account-security-coinbase.com
 account-security-trezor.com
 account-support-trezor.com
 account-tangem.com
@@ -25042,7 +25033,6 @@ allocations-desk.com
 allocations-fablesfi.com
 allocations-firelight.com
 allocations-flarenetwork.com
-allocations-flyingtulip.com
 allocations-gato.com
 allocations-hyperfoundation.com
 allocations-laptoptoken.com
@@ -30318,7 +30308,6 @@ crypto-rainbet.com
 crypto-roobet.com
 crypto-spend.com
 crypto-spends.com
-crypto-swapzero.com
 crypto-traderbro.com
 crypto-ust.com
 crypto-wallet-connector.com
@@ -32686,7 +32675,6 @@ firelightfi-airdrop.com
 firelightfi-app.com
 firelightfi-finance.com
 firelightfi-fxrp.com
-firelightfi-loan.com
 firelightfi-mainnet.com
 firelightfi-rewards.com
 firelightfi-staking.com
@@ -34410,8 +34398,6 @@ gritsnow.com
 gro24h-coinpwire.com
 gro24h-cointelegraph.com
 gro24h-cryptoslate.com
-gro58e-cointelegraph.com
-gro58e-cryptoslate.com
 gro98h-cointelegraph.com
 gro98h-cryptoslate.com
 grogshop.com
@@ -35345,7 +35331,6 @@ indomitaboutique.com
 indonesia-polymarket.com
 indpolymarket.com
 indrasol-compliance.com
-industry-coin-base.com
 indxmarkets.com
 infamousbitcoin.com
 infiniteglobalcompany.com
@@ -36418,7 +36403,6 @@ kucoin-airdrop.com
 kucoin-compliance.com
 kucoin-faq.com
 kucoin-login.com
-kucoin-withdraw.com
 kucoinblock.com
 kucoinchain.com
 kucoindeep.com
@@ -37163,7 +37147,6 @@ mail-huobi.com
 mail-logins.com
 admin.mail-solana.com
 mail-swissborg.com
-mail-trust-wallet.com
 mail22101-ripple.com
 mail27993-ripple.com
 mail39790-ripple.com
@@ -37632,7 +37615,6 @@ metamaskbackup.com
 metamaskcare.com
 metamaskcasinoes.com
 metamaskchecker.com
-metamaskck.com
 metamaskcoporationinversions.com
 metamaskdao.com
 metamaskdata.com
@@ -40281,7 +40263,6 @@ pool-keeta.com
 pool-netnetcapital.com
 pool-quantnetwork.com
 pool-quantnetworks.com
-pool-uniswap.com
 pool2-flare.com
 pools-firelight.com
 pools-onyx.com
@@ -42082,7 +42063,6 @@ reward-click.com
 reward-connect.com
 reward-desk.com
 reward-desk-xrp.com
-reward-dexscreener.com
 reward-firelight.com
 reward-flarenetwork.com
 reward-goldfishgold.com
@@ -57816,6 +57796,7 @@ pr-7831.1inch-io-app.pages.dev
 2-metric-vote.pages.dev
 2-metricxyz.pages.dev
 2-montramarkets.pages.dev
+2-morpho.pages.dev
 2-multiplifi-allocation.pages.dev
 2-netnet.pages.dev
 2-orbioeco.pages.dev
@@ -74957,7 +74938,6 @@ listingcommunity.digital
 listingsupport.digital
 listingvote.digital
 lombardfi.digital
-mail-secure-login.digital
 maker-projects.digital
 marinaprotocol.digital
 marketcouncil.digital
@@ -76686,7 +76666,6 @@ anonymixer.forum
 capital-ajc.forum
 castvote.forum
 claimbonus-revo.forum
-coinbase-wallet.forum
 coinomize.forum
 collateral-zojp.forum
 cryptomixer.forum
@@ -80853,7 +80832,6 @@ crypto-check.info
 cryptocasinorainbet.info
 cs-securemeetingdoc.info
 ct-concrete.info
-curry-allocation.info
 curvedao.info
 customershelpservices.info
 cwallet.info
@@ -81418,7 +81396,6 @@ polymarketupdate.info
 ponsdotfam.info
 ponsdotfamily.info
 ponsfamily.info
-pool-firelight.info
 pool3-firelight.info
 portal-altura.info
 pplprofile.info
@@ -84555,7 +84532,6 @@ rewards-fluid.io
 traders.rewards-variational.io
 rewards-zebec.io
 phantom.richx.io
-ripple-crypto.io
 robinhoodburner.io
 robinhoodrpc.io
 rollbitcasino.io
@@ -87245,7 +87221,6 @@ access-exchange-online-auth-sync-001.live
 access-firelightfi.live
 access-flarefoundation.live
 access-secure.live
-access-web-auth-58154.live
 account-assistance-auth398.live
 active-commerce.live
 activepumpfunsol.live
@@ -87722,7 +87697,6 @@ derivio.live
 desk-jumper.live
 destra-networks.live
 devz.live
-dex-firelight.live
 dexbit.live
 dexexchange.live
 dexscanvote.live
@@ -89347,7 +89321,6 @@ unlock-flarefn.live
 unlock-worldlibertyfinancial.live
 unstoppabledesktop.live
 up-x.live
-update-firelight.live
 update-id94385m33.live
 update05-ledger.live
 update06-ledger.live
@@ -92081,7 +92054,6 @@ cricfyy.net
 crickfy.net
 crosshairx.net
 crypto-connect.net
-crypto-options.net
 crypto-support-center.net
 crypto-trust.net
 cryptoarenas.net
@@ -94408,7 +94380,6 @@ blockchainfx-app.online
 blockdagnetwork-live.online
 blockportal.online
 me.bnvts.online
-bonus-claim-center.online
 bozona.online
 bridgetoarc.online
 brokersolana.online
@@ -95744,7 +95715,6 @@ chromcn.org
 circle-quantum-tracker.org
 circle-rewards.org
 civicnewsstand.org
-claim-chainlink.org
 claim-chroniclelabs.org
 claim-evr.org
 claim-gushwork.org
@@ -110611,7 +110581,6 @@ aero-allocation.xyz
 aero-allocations.xyz
 aero-finance.xyz
 aerocheck-cdev.xyz
-aerodrome-allocations.xyz
 aerodrome-app.xyz
 aerodrome-eligibility.xyz
 aerodrome-proposals.xyz
@@ -110729,7 +110698,6 @@ airsolproject.xyz
 aiw3-rewards.xyz
 ajc888.xyz
 alchemix-airdrop.xyz
-alchemix-allocation.xyz
 alchemix-rewards.xyz
 alchemixfi-allocation.xyz
 alchemixfi-allocations.xyz
@@ -110837,7 +110805,6 @@ allocation-velvet.xyz
 allocation-wbtc.xyz
 allocation-world.xyz
 allocation-worldieworld.xyz
-allocation-xaman.xyz
 allocation-yieldbasis.xyz
 allocation-zama.xyz
 allocation-zest.xyz
@@ -111288,7 +111255,6 @@ based-rewards.xyz
 basedaphub.xyz
 basedbot-app.xyz
 basedelephant.xyz
-basedfoundation-allocation.xyz
 basedfoundation-claims.xyz
 basedfoundation-register.xyz
 basedfoundation-rewards.xyz
@@ -111963,11 +111929,8 @@ zksync-official.crew3.xyz
 crownspin-panel.xyz
 crowserv.xyz
 cry-pto.xyz
-crypto-connect.xyz
 crypto-ocbc.xyz
 crypto-ocbcx.xyz
-crypto-pond.xyz
-crypto-sphere.xyz
 crypto-wallet.xyz
 cryptobtci.xyz
 metamask.cryptocardz.xyz
@@ -112044,7 +112007,6 @@ dapp-resolverprotocol.xyz
 dapp-solayer.xyz
 dapp-trustepads.xyz
 dapp-trustpade.xyz
-dapp-unibase.xyz
 dapp-web-connnect.xyz
 dapp-xrpl.xyz
 dapp-zerolend.xyz
@@ -112895,7 +112857,6 @@ firelightfilaunch.xyz
 firelightfilaunchpad.xyz
 firelightfilaunchpads.xyz
 firelightfilaunchs.xyz
-firelightfinance.xyz
 firelightfireward.xyz
 firelightfirewards.xyz
 firelightfishareholder.xyz
@@ -113535,7 +113496,6 @@ governance-onyx.xyz
 governance-paperdao.xyz
 governance-paperstrategy.xyz
 governance-papertrade.xyz
-governance-pendle.xyz
 governance-perpl.xyz
 governance-pieverse.xyz
 governance-plasma.xyz
@@ -114617,7 +114577,6 @@ membershyperfoundation.xyz
 memdev.xyz
 meme-en.xyz
 cap.meme-sushi.xyz
-memebank-rewards.xyz
 memecoinstoken.xyz
 memecointokens.xyz
 memememelania.xyz
@@ -114637,7 +114596,6 @@ mercade.xyz
 mercortalents.xyz
 meridian-register.xyz
 meridianecosystem.xyz
-merkl-allocation.xyz
 merkl-allocations.xyz
 merkl-distirbution.xyz
 merkl-distribution.xyz
