@@ -113338,7 +113338,6 @@ governance-plasma.xyz
 governance-predictfun.xyz
 governance-pufferfi.xyz
 governance-quantus.xyz
-governance-redstone.xyz
 governance-slopcash.xyz
 governance-solsticefinance.xyz
 governance-spectra.xyz
