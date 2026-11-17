@@ -116006,7 +116006,6 @@ rewards-asterdex.xyz
 rewards-avax.xyz
 rewards-axisrobotics.xyz
 rewards-bio.xyz
-rewards-citrea.xyz
 rewards-concrete.xyz
 rewards-degen.xyz
 rewards-deltaliquidity.xyz
