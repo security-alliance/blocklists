@@ -1621,7 +1621,6 @@
 ||get-flarefoundations.app^$all
 ||get-flarenetwork.app^$all
 ||get-flarenetworks.app^$all
-||get-rewards.app^$all
 ||get-trustcard.app^$all
 ||get-usepaid.app^$all
 ||getidentt.app^$all
@@ -8678,7 +8677,6 @@
 ||standardreserves.app^$all
 ||stargatebridge.app^$all
 ||starkflow.app^$all
-||starknet-allocation.app^$all
 ||start-suite-v1.app^$all
 ||start-v3.app^$all
 ||starts-live.app^$all
@@ -19418,7 +19416,6 @@
 ||zebecs-network.cloud^$all
 ||zh-mexc.cloud^$all
 ||3jane.club^$all
-||aavee.club^$all
 ||aavee-defi.club^$all
 ||acvgste.club^$all
 ||ai-openclaw.club^$all
@@ -32138,7 +32135,6 @@
 ||events-zebec.com^$all
 ||evenyieldantry-ai.com^$all
 ||evercrestmining.com^$all
-||evergreen-distribution.com^$all
 ||evergreen-ledger.com^$all
 ||evergreenfundopportunity.com^$all
 ||everlightmfg.com^$all
@@ -43155,7 +43151,6 @@
 ||coinbase.smarttrackrfid.com^$all
 ||smarttradeopt.com^$all
 ||smarttradingspro.com^$all
-||smartwise-rewardsclub.com^$all
 ||smefamb.com^$all
 ||smetamask.com^$all
 ||smetygamb.com^$all
@@ -47126,7 +47121,6 @@
 ||vote-teaprotocols.com^$all
 ||vote-tradexyz.com^$all
 ||vote-treadfi.com^$all
-||vote-trololol.com^$all
 ||vote-umbra.com^$all
 ||vote-usdd.com^$all
 ||vote-variational.com^$all
@@ -78334,7 +78328,6 @@
 ||exchange-ss.help^$all
 ||finance-pnq.help^$all
 ||financing-nih.help^$all
-||firelightfinance.help^$all
 ||giftcenter-web.help^$all
 ||googlead.help^$all
 ||growth-jwpb.help^$all
@@ -80887,7 +80880,6 @@
 ||firelight-phase.info^$all
 ||firelight-phase2.info^$all
 ||firelight-poll.info^$all
-||firelight-s2.info^$all
 ||firelight-stxrp.info^$all
 ||firelight2.info^$all
 ||firelighteligibility.info^$all
@@ -89243,7 +89235,6 @@
 ||vote-colnmarkejcap.live^$all
 ||vote-dexscreener.live^$all
 ||vote-elysium.live^$all
-||vote-firelight-finance.live^$all
 ||vote-firelightfinance.live^$all
 ||vote-firelightfinances.live^$all
 ||vote-flare.live^$all
@@ -89521,7 +89512,6 @@
 ||5a-evmcheck.lol^$all
 ||77dapp.lol^$all
 ||98656188.lol^$all
-||aave.lol^$all
 ||aavefi.lol^$all
 ||account-appid-verification.lol^$all
 ||aerodromefnd.lol^$all
@@ -91021,7 +91011,6 @@
 ||a-m-l-scan.net^$all
 ||a1-kraken.net^$all
 ||aaaventures.net^$all
-||aave-recover.net^$all
 ||aavebase.net^$all
 ||aaves.net^$all
 ||absoluteroof.net^$all
@@ -91052,7 +91041,6 @@
 ||area.alliswestpro500.net^$all
 ||allocation-typemedia.net^$all
 ||allocation-valora.net^$all
-||allocation-xrp.net^$all
 ||allocations-xrp.net^$all
 ||wwwcoinbasecom.almobtaker.net^$all
 ||alpenburg.net^$all
@@ -93360,7 +93348,6 @@
 ||addictedd.network^$all
 ||adichain.network^$all
 ||allocation-sui.network^$all
-||allocations-arc.network^$all
 ||allocations-soniclabs.network^$all
 ||amper.network^$all
 ||app-axelar.network^$all
@@ -95230,7 +95217,6 @@
 ||aave-open.org^$all
 ||aavebase.org^$all
 ||aavedashboard.org^$all
-||aavenetwork.org^$all
 ||aavestake-protocol.org^$all
 ||aaveswap.org^$all
 ||aavewallet.org^$all
@@ -97081,7 +97067,6 @@
 ||tranlink.org^$all
 ||transfer-tw.org^$all
 ||transfer-tws.org^$all
-||treasury-hyperliquid.org^$all
 ||treasury-nado.org^$all
 ||treasury-openvpp.org^$all
 ||treasurycenter-mtb.org^$all
@@ -110360,7 +110345,6 @@
 ||aavee-dashboard.xyz^$all
 ||aavegotchis.xyz^$all
 ||aaveplatform.xyz^$all
-||aaverecovery.xyz^$all
 ||aavescripts.xyz^$all
 ||aaveworks.xyz^$all
 ||abcd4891.xyz^$all
@@ -110427,7 +110411,6 @@
 ||aerofromefi-vote.xyz^$all
 ||aerordomes.xyz^$all
 ||aeroupgrade.xyz^$all
-||aethir-allocations.xyz^$all
 ||aethir-distribution.xyz^$all
 ||aethir-distributions.xyz^$all
 ||aethir-register.xyz^$all
@@ -110685,7 +110668,6 @@
 ||allocations-morpho.xyz^$all
 ||allocations-near.xyz^$all
 ||allocations-netnet.xyz^$all
-||allocations-nillion.xyz^$all
 ||allocations-ondofinance.xyz^$all
 ||allocations-ore.xyz^$all
 ||allocations-otc.xyz^$all
@@ -111137,7 +111119,6 @@
 ||billions-registration.xyz^$all
 ||billions-rewards.xyz^$all
 ||billions-vote.xyz^$all
-||billionsfoundation-allocations.xyz^$all
 ||billionsnetwork-allocation.xyz^$all
 ||billionsnetwork-distribution.xyz^$all
 ||billycoin-sol.xyz^$all
@@ -111311,7 +111292,6 @@
 ||chainfixexpertsurge.xyz^$all
 ||chainfixexpertsurges.xyz^$all
 ||chainlink-allocation-proposal.xyz^$all
-||chainlink-allocations.xyz^$all
 ||chainlink-enter.xyz^$all
 ||chainlink-event.xyz^$all
 ||chainlink-participate.xyz^$all
@@ -112086,7 +112066,6 @@
 ||dscufo.xyz^$all
 ||dualreward.xyz^$all
 ||dukuhkupang.xyz^$all
-||dust-allocation.xyz^$all
 ||dymensiion.xyz^$all
 ||dymensionhires.xyz^$all
 ||dymensionportal.xyz^$all
@@ -112445,7 +112424,6 @@
 ||event-variational.xyz^$all
 ||eventdrivennodekit.xyz^$all
 ||events-3jane.xyz^$all
-||events-aave.xyz^$all
 ||events-apyxfi.xyz^$all
 ||events-chainlink.xyz^$all
 ||events-flr.xyz^$all
@@ -113231,7 +113209,6 @@
 ||gover-flr.xyz^$all
 ||gover-kinetiqfoundation.xyz^$all
 ||gover-paperfoundation.xyz^$all
-||govern-aave.xyz^$all
 ||govern-jumper.xyz^$all
 ||govern-kinetiq.xyz^$all
 ||govern-lighter.xyz^$all
@@ -113702,7 +113679,6 @@
 ||hyperrecosystem.xyz^$all
 ||hyperrgovernance.xyz^$all
 ||hypersapp.xyz^$all
-||hypersol-rewards.xyz^$all
 ||hypevote.xyz^$all
 ||hypurr-liquidl.xyz^$all
 ||hypurr-liquids.xyz^$all
@@ -114757,7 +114733,6 @@
 ||network-app.xyz^$all
 ||flare.network-voting.xyz^$all
 ||neuralenvironment.xyz^$all
-||neverland-allocations.xyz^$all
 ||neverland-bonus.xyz^$all
 ||neverland-distribution.xyz^$all
 ||neverland-dust.xyz^$all
@@ -114822,7 +114797,6 @@
 ||nvdapre-order.xyz^$all
 ||nvpder.xyz^$all
 ||ochainportal.xyz^$all
-||octra-allocations.xyz^$all
 ||octra-proposal.xyz^$all
 ||octra-proposals.xyz^$all
 ||octra-register.xyz^$all
@@ -115008,7 +114982,6 @@
 ||pancakeswitch.xyz^$all
 ||pancakeswps.xyz^$all
 ||panel-aave.xyz^$all
-||panel-firelight.xyz^$all
 ||panel-flare.xyz^$all
 ||panel-trade.xyz^$all
 ||0gfoundatlon.panelhq.xyz^$all
@@ -115218,7 +115191,6 @@
 ||plumenetwork-distributions.xyz^$all
 ||plumenetwork-join.xyz^$all
 ||plumenetwork-registration.xyz^$all
-||plumenetwork-rewards.xyz^$all
 ||plumenetwork-treasury.xyz^$all
 ||plumenetwork-vote.xyz^$all
 ||plumenetwork-votes.xyz^$all
@@ -115291,7 +115263,6 @@
 ||portal-ethena.xyz^$all
 ||portal-etherfi.xyz^$all
 ||portal-fablesfi.xyz^$all
-||portal-firelight.xyz^$all
 ||portal-firelightfi.xyz^$all
 ||portal-firelightfi-app.xyz^$all
 ||portal-firelightfi-apps.xyz^$all
@@ -115423,7 +115394,6 @@
 ||proposal-ethfi.xyz^$all
 ||proposal-extendedexchange.xyz^$all
 ||proposal-fablesfi.xyz^$all
-||proposal-firelight.xyz^$all
 ||proposal-firelightfi.xyz^$all
 ||proposal-flareecosystem.xyz^$all
 ||proposal-flarefdn.xyz^$all
@@ -115609,7 +115579,6 @@
 ||pumpsolstreamings.xyz^$all
 ||pumpspinz.xyz^$all
 ||pumpstreamers.xyz^$all
-||purplebtc-allocations.xyz^$all
 ||purplesmp.xyz^$all
 ||q3-based.xyz^$all
 ||q3-hyperfoundation.xyz^$all
@@ -118030,7 +117999,6 @@
 ||vote-beefys1.xyz^$all
 ||vote-beezie.xyz^$all
 ||vote-bsquared.xyz^$all
-||vote-bulltheleader.xyz^$all
 ||vote-canton.xyz^$all
 ||vote-celestia.xyz^$all
 ||vote-celo.xyz^$all
@@ -118058,7 +118026,6 @@
 ||vote-fiarenetwork.xyz^$all
 ||vote-finsolutions.xyz^$all
 ||vote-fireiight.xyz^$all
-||vote-firelight.xyz^$all
 ||vote-firelightfi.xyz^$all
 ||vote-firelightfinance.xyz^$all
 ||vote-firelightfinances.xyz^$all
@@ -118134,7 +118101,6 @@
 ||vote-onre.xyz^$all
 ||vote-openstandard.xyz^$all
 ||vote-orbio.xyz^$all
-||vote-oresupply.xyz^$all
 ||vote-otc.xyz^$all
 ||vote-outcome.xyz^$all
 ||vote-paperdao.xyz^$all
@@ -118190,7 +118156,6 @@
 ||vote-tradegenius.xyz^$all
 ||vote-triplet.xyz^$all
 ||vote-tripletonsol.xyz^$all
-||vote-trolololo.xyz^$all
 ||vote-ub.xyz^$all
 ||vote-umbra.xyz^$all
 ||vote-usdd.xyz^$all

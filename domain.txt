@@ -1621,7 +1621,6 @@ get-flarefnd.app
 get-flarefoundations.app
 get-flarenetwork.app
 get-flarenetworks.app
-get-rewards.app
 get-trustcard.app
 get-usepaid.app
 getidentt.app
@@ -8678,7 +8677,6 @@ standardreserve.app
 standardreserves.app
 stargatebridge.app
 starkflow.app
-starknet-allocation.app
 start-suite-v1.app
 start-v3.app
 starts-live.app
@@ -19418,7 +19416,6 @@ zebecs.cloud
 zebecs-network.cloud
 zh-mexc.cloud
 3jane.club
-aavee.club
 aavee-defi.club
 acvgste.club
 ai-openclaw.club
@@ -32138,7 +32135,6 @@ events-ventuals.com
 events-zebec.com
 evenyieldantry-ai.com
 evercrestmining.com
-evergreen-distribution.com
 evergreen-ledger.com
 evergreenfundopportunity.com
 everlightmfg.com
@@ -43155,7 +43151,6 @@ smartrecruitersplatform.com
 coinbase.smarttrackrfid.com
 smarttradeopt.com
 smarttradingspro.com
-smartwise-rewardsclub.com
 smefamb.com
 smetamask.com
 smetygamb.com
@@ -47126,7 +47121,6 @@ vote-starknet.com
 vote-teaprotocols.com
 vote-tradexyz.com
 vote-treadfi.com
-vote-trololol.com
 vote-umbra.com
 vote-usdd.com
 vote-variational.com
@@ -78334,7 +78328,6 @@ exchange-gg.help
 exchange-ss.help
 finance-pnq.help
 financing-nih.help
-firelightfinance.help
 giftcenter-web.help
 googlead.help
 growth-jwpb.help
@@ -80887,7 +80880,6 @@ firelight-multiply.info
 firelight-phase.info
 firelight-phase2.info
 firelight-poll.info
-firelight-s2.info
 firelight-stxrp.info
 firelight2.info
 firelighteligibility.info
@@ -89243,7 +89235,6 @@ vote-asteroideth.live
 vote-colnmarkejcap.live
 vote-dexscreener.live
 vote-elysium.live
-vote-firelight-finance.live
 vote-firelightfinance.live
 vote-firelightfinances.live
 vote-flare.live
@@ -89521,7 +89512,6 @@ usearckit.locker
 5a-evmcheck.lol
 77dapp.lol
 98656188.lol
-aave.lol
 aavefi.lol
 account-appid-verification.lol
 aerodromefnd.lol
@@ -91021,7 +91011,6 @@ a-ave-onguides.net
 a-m-l-scan.net
 a1-kraken.net
 aaaventures.net
-aave-recover.net
 aavebase.net
 aaves.net
 absoluteroof.net
@@ -91052,7 +91041,6 @@ alien-base.net
 area.alliswestpro500.net
 allocation-typemedia.net
 allocation-valora.net
-allocation-xrp.net
 allocations-xrp.net
 wwwcoinbasecom.almobtaker.net
 alpenburg.net
@@ -93360,7 +93348,6 @@ zoomwithrobert.net
 addictedd.network
 adichain.network
 allocation-sui.network
-allocations-arc.network
 allocations-soniclabs.network
 amper.network
 app-axelar.network
@@ -95230,7 +95217,6 @@ aave-dashboard.org
 aave-open.org
 aavebase.org
 aavedashboard.org
-aavenetwork.org
 aavestake-protocol.org
 aaveswap.org
 aavewallet.org
@@ -97081,7 +97067,6 @@ ethereum-casino.nl.traffborris1.org
 tranlink.org
 transfer-tw.org
 transfer-tws.org
-treasury-hyperliquid.org
 treasury-nado.org
 treasury-openvpp.org
 treasurycenter-mtb.org
@@ -110360,7 +110345,6 @@ aavecopilot.xyz
 aavee-dashboard.xyz
 aavegotchis.xyz
 aaveplatform.xyz
-aaverecovery.xyz
 aavescripts.xyz
 aaveworks.xyz
 abcd4891.xyz
@@ -110427,7 +110411,6 @@ aeroeco.xyz
 aerofromefi-vote.xyz
 aerordomes.xyz
 aeroupgrade.xyz
-aethir-allocations.xyz
 aethir-distribution.xyz
 aethir-distributions.xyz
 aethir-register.xyz
@@ -110685,7 +110668,6 @@ allocations-moonwell.xyz
 allocations-morpho.xyz
 allocations-near.xyz
 allocations-netnet.xyz
-allocations-nillion.xyz
 allocations-ondofinance.xyz
 allocations-ore.xyz
 allocations-otc.xyz
@@ -111137,7 +111119,6 @@ billions-distribution.xyz
 billions-registration.xyz
 billions-rewards.xyz
 billions-vote.xyz
-billionsfoundation-allocations.xyz
 billionsnetwork-allocation.xyz
 billionsnetwork-distribution.xyz
 billycoin-sol.xyz
@@ -111311,7 +111292,6 @@ chaiinlink.xyz
 chainfixexpertsurge.xyz
 chainfixexpertsurges.xyz
 chainlink-allocation-proposal.xyz
-chainlink-allocations.xyz
 chainlink-enter.xyz
 chainlink-event.xyz
 chainlink-participate.xyz
@@ -112086,7 +112066,6 @@ dropsradar.xyz
 dscufo.xyz
 dualreward.xyz
 dukuhkupang.xyz
-dust-allocation.xyz
 dymensiion.xyz
 dymensionhires.xyz
 dymensionportal.xyz
@@ -112445,7 +112424,6 @@ event-stonkfun.xyz
 event-variational.xyz
 eventdrivennodekit.xyz
 events-3jane.xyz
-events-aave.xyz
 events-apyxfi.xyz
 events-chainlink.xyz
 events-flr.xyz
@@ -113231,7 +113209,6 @@ gover-flarenetworks.xyz
 gover-flr.xyz
 gover-kinetiqfoundation.xyz
 gover-paperfoundation.xyz
-govern-aave.xyz
 govern-jumper.xyz
 govern-kinetiq.xyz
 govern-lighter.xyz
@@ -113702,7 +113679,6 @@ hyperlquid-airdrop.xyz
 hyperrecosystem.xyz
 hyperrgovernance.xyz
 hypersapp.xyz
-hypersol-rewards.xyz
 hypevote.xyz
 hypurr-liquidl.xyz
 hypurr-liquids.xyz
@@ -114757,7 +114733,6 @@ netruns.xyz
 network-app.xyz
 flare.network-voting.xyz
 neuralenvironment.xyz
-neverland-allocations.xyz
 neverland-bonus.xyz
 neverland-distribution.xyz
 neverland-dust.xyz
@@ -114822,7 +114797,6 @@ nullfee.xyz
 nvdapre-order.xyz
 nvpder.xyz
 ochainportal.xyz
-octra-allocations.xyz
 octra-proposal.xyz
 octra-proposals.xyz
 octra-register.xyz
@@ -115008,7 +114982,6 @@ pancakeswapsfinance.xyz
 pancakeswitch.xyz
 pancakeswps.xyz
 panel-aave.xyz
-panel-firelight.xyz
 panel-flare.xyz
 panel-trade.xyz
 0gfoundatlon.panelhq.xyz
@@ -115218,7 +115191,6 @@ plumenetwork-distribution.xyz
 plumenetwork-distributions.xyz
 plumenetwork-join.xyz
 plumenetwork-registration.xyz
-plumenetwork-rewards.xyz
 plumenetwork-treasury.xyz
 plumenetwork-vote.xyz
 plumenetwork-votes.xyz
@@ -115291,7 +115263,6 @@ portal-equium.xyz
 portal-ethena.xyz
 portal-etherfi.xyz
 portal-fablesfi.xyz
-portal-firelight.xyz
 portal-firelightfi.xyz
 portal-firelightfi-app.xyz
 portal-firelightfi-apps.xyz
@@ -115423,7 +115394,6 @@ proposal-etherfinances.xyz
 proposal-ethfi.xyz
 proposal-extendedexchange.xyz
 proposal-fablesfi.xyz
-proposal-firelight.xyz
 proposal-firelightfi.xyz
 proposal-flareecosystem.xyz
 proposal-flarefdn.xyz
@@ -115609,7 +115579,6 @@ pumpsolstreamer.xyz
 pumpsolstreamings.xyz
 pumpspinz.xyz
 pumpstreamers.xyz
-purplebtc-allocations.xyz
 purplesmp.xyz
 q3-based.xyz
 q3-hyperfoundation.xyz
@@ -118030,7 +117999,6 @@ vote-based.xyz
 vote-beefys1.xyz
 vote-beezie.xyz
 vote-bsquared.xyz
-vote-bulltheleader.xyz
 vote-canton.xyz
 vote-celestia.xyz
 vote-celo.xyz
@@ -118058,7 +118026,6 @@ vote-fiare.xyz
 vote-fiarenetwork.xyz
 vote-finsolutions.xyz
 vote-fireiight.xyz
-vote-firelight.xyz
 vote-firelightfi.xyz
 vote-firelightfinance.xyz
 vote-firelightfinances.xyz
@@ -118134,7 +118101,6 @@ vote-ondoperps.xyz
 vote-onre.xyz
 vote-openstandard.xyz
 vote-orbio.xyz
-vote-oresupply.xyz
 vote-otc.xyz
 vote-outcome.xyz
 vote-paperdao.xyz
@@ -118190,7 +118156,6 @@ vote-trade.xyz
 vote-tradegenius.xyz
 vote-triplet.xyz
 vote-tripletonsol.xyz
-vote-trolololo.xyz
 vote-ub.xyz
 vote-umbra.xyz
 vote-usdd.xyz
