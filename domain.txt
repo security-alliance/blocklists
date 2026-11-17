@@ -49204,7 +49204,6 @@ exeduso-en.wixstudio.com
 exiodus-web-connect.wixstudio.com
 exo-ducwallet.wixstudio.com
 exo-dus-en-ext.wixstudio.com
-exod-walete.wixstudio.com
 exodas-app.wixstudio.com
 exoddus-homeext.wixstudio.com
 exodos-en-home-learn.wixstudio.com
