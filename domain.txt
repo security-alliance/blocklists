@@ -11988,7 +11988,6 @@ solidity-compiler-v2-0-5.web.app
 staking-chain-link.web.app
 stargatefinances.web.app
 sui-alkimi.web.app
-swiftnetblockchain.web.app
 swiftnodesolution.web.app
 swiftwalletschain.web.app
 telcoinstaking.web.app
@@ -21213,7 +21212,6 @@ dcentwalletpc.co
 dcentwebwallet.co
 dealmaster.co
 dex-byreal.co
-dexbit.co
 displaydriveruninstaller.co
 doge20chain.co
 dashboard.doo-group.co
