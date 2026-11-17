@@ -87568,7 +87568,6 @@ defi-flarenetworks.live
 defi-ventuals.live
 defi-xrpl.live
 definodes.live
-demixdigitalmarkets.live
 deploy-flarefn.live
 derivio.live
 desk-jumper.live
@@ -103882,6 +103881,7 @@ tronlink.st
 typhon.st
 unisat.st
 uniswap.st
+us-polymarket.st
 v2-phantom.st
 velora.st
 vespr.st
