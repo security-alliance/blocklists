@@ -13385,6 +13385,7 @@ gamesbc.biz
 geminiex.biz
 get-citrea.biz
 goldpocket.biz
+gravia-polymarket.biz
 gxpex.biz
 hash256.biz
 hexnet.biz
@@ -40129,6 +40130,7 @@ polymarket1.com
 polymarket2.com
 polymarket2026.com
 polymarket365.com
+polymarketalerts.com
 polymarketalertsbot.com
 polymarketallocation.com
 polymarketapi.com
