@@ -97613,7 +97613,6 @@ trezo-io-staart.mmm.page
 web-rabbyextension.mmm.page
 app-staging.orcas.page
 thank-cobsea-web.pineapple.page
-web-uphld-com.pineapple.page
 welcome-metamassk-cdnn.pineapple.page
 polymarket.page
 dashboard.proximity.page
