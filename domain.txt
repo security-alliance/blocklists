@@ -50568,7 +50568,6 @@ nav-jaxxliberty-apps.wixstudio.com
 nav-jaxxlibertyapp.wixstudio.com
 nav-jaxxlibertyy.wixstudio.com
 nav-jxxliberty.wixstudio.com
-nav-kkrkne-io.wixstudio.com
 nav-koinbase.wixstudio.com
 nav-koinbase-apps.wixstudio.com
 nav-koinbase-ext.wixstudio.com
@@ -103098,7 +103097,6 @@ rugproof-pool.site
 rulesbased-gatewaynode-max.site
 ruto77nl1.site
 rvlt-bonus.site
-safeguardsmartprotocol.site
 salarox.site
 satsterminal.site
 sbivip.site
