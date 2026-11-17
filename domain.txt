@@ -114704,13 +114704,11 @@ moerevoke.xyz
 molinfx.xyz
 mollyonmonad.xyz
 mon-claims.xyz
-mon-distribution.xyz
 mon-participation.xyz
 mon-rewards.xyz
 monad-allocation-proposal.xyz
 monad-apr.xyz
 monad-bonus.xyz
-monad-distribution.xyz
 monad-distributions.xyz
 monad-participate.xyz
 monad-proposal.xyz
