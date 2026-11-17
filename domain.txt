@@ -32010,6 +32010,7 @@ ledgr.eu.com
 live.eu.com
 live-microsoft.eu.com
 lives.eu.com
+meetings.eu.com
 meets.eu.com
 pons-family.eu.com
 ponsfamily.eu.com
