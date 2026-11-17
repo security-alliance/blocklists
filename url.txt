@@ -704,6 +704,7 @@ https://sites.google.com/view/exodus-doc/home
 https://sites.google.com/view/exodus-enus/home
 https://sites.google.com/view/exodus-enusu/home
 https://sites.google.com/view/exodus-guide-app/home
+https://sites.google.com/view/exodus-home-page/home
 https://sites.google.com/view/exodus-hub-en/home
 https://sites.google.com/view/exodus-hubb/home
 https://sites.google.com/view/exodus-login1/home
@@ -742,6 +743,7 @@ https://sites.google.com/view/exodus-webs-org/home
 https://sites.google.com/view/exodus-websspo/home
 https://sites.google.com/view/exodus-webus/home
 https://sites.google.com/view/exodus-wecomus/home
+https://sites.google.com/view/exodus-weeb/home
 https://sites.google.com/view/exodus-weeb3/home
 https://sites.google.com/view/exodus-wevb/home
 https://sites.google.com/view/exoduss-web/home
