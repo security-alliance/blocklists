@@ -15761,7 +15761,6 @@ krakenoffice.cc
 down.krakenpa.cc
 krakenprotect.cc
 krakex2.cc
-kraweb.cc
 krkm8.cc
 krknn.cc
 krticket.cc
@@ -30390,7 +30389,6 @@ cryptoweb3-pro-1.com
 cryptoweb3evip.com
 cryptoweb3lvip.com
 cryptoweb3nvip.com
-cryptoweb3pro.com
 cryptox-bank.com
 cryptoxom.com
 cryptoxweb3.com
