@@ -18755,7 +18755,6 @@ synthetix.click
 t-wallets.click
 teambull.click
 teamsconnect.click
-teamsmicrosoft.click
 telcoin.click
 termmax.click
 test-apiserv-ssq.click
@@ -66894,7 +66893,6 @@ doc--exdus--wed.pages.dev
 doc--exdus--weeb.pages.dev
 doc--exdus-web.pages.dev
 doc--exduss-web.pages.dev
-doc--exodus--web.pages.dev
 doc--exodus-web3wallet.pages.dev
 doc--exxodus--web.pages.dev
 doc--exxodus--web3.pages.dev
@@ -95300,7 +95298,6 @@ pay.0gfoundation.org
 2026trumplive.org
 252826.org
 26trump.org
-2fa-live.org
 360-browser.org
 888-casino-onlinee.org
 a2a-ledger.org
@@ -103077,7 +103074,6 @@ password-checker.site
 patriotsweb3blockchain.site
 payxrex-io.site
 pdf-zoom.site
-pdfview.site
 pepegreen.site
 performantbunker.site
 phantom-trade.site
