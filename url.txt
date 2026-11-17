@@ -774,6 +774,7 @@ https://sites.google.com/view/extension--/home
 https://sites.google.com/view/extension--metamask/home
 https://sites.google.com/view/extension-app-/home
 https://sites.google.com/view/extension-app-io/home
+https://sites.google.com/view/extension-base-web/home
 https://sites.google.com/view/extension-coin/home
 https://sites.google.com/view/extension-coinbase-eng/home
 https://sites.google.com/view/extension-coinbase-hub/home
