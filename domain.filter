@@ -75702,6 +75702,7 @@
 ||git.coinbase.exposed^$all
 ||tokenmanager.coinbase.exposed^$all
 ||wallet.coinbase.exposed^$all
+||polymarket.exposed^$all
 ||rainbet.express^$all
 ||polymarket.fail^$all
 ||claim-brew.family^$all

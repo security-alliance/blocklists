@@ -75702,6 +75702,7 @@ trustwallet.expert
 git.coinbase.exposed
 tokenmanager.coinbase.exposed
 wallet.coinbase.exposed
+polymarket.exposed
 rainbet.express
 polymarket.fail
 claim-brew.family
