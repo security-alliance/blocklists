@@ -19296,7 +19296,6 @@
 ||interface-lidofinance.stakingreward.cloud^$all
 ||interface-links.stakingreward.cloud^$all
 ||interface-railguns.stakingreward.cloud^$all
-||interface-strk.stakingreward.cloud^$all
 ||interface-wxt.stakingreward.cloud^$all
 ||mmt.stakingreward.cloud^$all
 ||navi-protocols.stakingreward.cloud^$all
@@ -19311,7 +19310,6 @@
 ||pyth-network.stakingreward.cloud^$all
 ||pythnetwork.stakingreward.cloud^$all
 ||rls.stakingreward.cloud^$all
-||starknet.stakingreward.cloud^$all
 ||strk.stakingreward.cloud^$all
 ||sui-name-service.stakingreward.cloud^$all
 ||sui-wallet.stakingreward.cloud^$all

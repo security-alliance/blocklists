@@ -19296,7 +19296,6 @@ interface-lido-finance.stakingreward.cloud
 interface-lidofinance.stakingreward.cloud
 interface-links.stakingreward.cloud
 interface-railguns.stakingreward.cloud
-interface-strk.stakingreward.cloud
 interface-wxt.stakingreward.cloud
 mmt.stakingreward.cloud
 navi-protocols.stakingreward.cloud
@@ -19311,7 +19310,6 @@ pudgy-penguins.stakingreward.cloud
 pyth-network.stakingreward.cloud
 pythnetwork.stakingreward.cloud
 rls.stakingreward.cloud
-starknet.stakingreward.cloud
 strk.stakingreward.cloud
 sui-name-service.stakingreward.cloud
 sui-wallet.stakingreward.cloud
