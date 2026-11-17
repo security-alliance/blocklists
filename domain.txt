@@ -8653,7 +8653,6 @@ solmobile.app
 solomonslab.app
 solroll.app
 solspn.app
-solstice-reallocation.app
 solsticefinance.app
 solsticefinances.app
 points.solsticesfinance.app
