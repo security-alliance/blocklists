@@ -3572,6 +3572,7 @@ inquisitive-granita-54edb0.netlify.app
 jptcheckstatus-ui.netlify.app
 jupiter-8uauu.netlify.app
 juplter-drop.netlify.app
+kinetiq-hyperliquid.netlify.app
 kraken-support.netlify.app
 kraken-trade.netlify.app
 krakensupp0rt.netlify.app
