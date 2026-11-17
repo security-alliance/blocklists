@@ -86443,7 +86443,6 @@ hyperliquid-register.lat
 id-verification-s3.lat
 id-verification-s7.lat
 id-verification-server.lat
-ifcinvest.lat
 im-token-hk-cdn.lat
 im-tokens.lat
 incentive-firelight.lat
