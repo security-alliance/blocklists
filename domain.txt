@@ -1939,6 +1939,7 @@ trustwalletcustomersupportserviceteam.lovable.app
 trustwalletservice.lovable.app
 trustwalletsupport-center.lovable.app
 walletconnectorg.lovable.app
+walletconnectpulse.lovable.app
 luckyblock-casino.app
 lvvas.app
 echo-cr6.madethis.app
