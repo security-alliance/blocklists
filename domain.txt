@@ -76840,7 +76840,6 @@ treasuryspools-firelight.foundation
 treasuryspools-flare.foundation
 trustwallet.foundation
 truswallet.foundation
-unipeg.foundation
 usepaid.foundation
 vote-edgex.foundation
 vote-xrpl.foundation
@@ -76967,7 +76966,6 @@ allocation-plasma.fun
 allocation-predict.fun
 allocation-saturncredit.fun
 allocation-toes.fun
-allocation-trololol.fun
 allocation-uplift.fun
 allocation-usepaid.fun
 allocation-worldcup.fun
