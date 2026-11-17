@@ -67818,6 +67818,7 @@ faqs-trezor-io.pages.dev
 faqs-trezorr--login.pages.dev
 faqs-trezr.pages.dev
 fassets-flare-testing-now.pages.dev
+fassets-portal.pages.dev
 fcn-ledger-q7m4.pages.dev
 fdg-trezr-strt.pages.dev
 fdhuc4tbr7intb36f3.pages.dev
