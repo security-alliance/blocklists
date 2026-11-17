@@ -106324,6 +106324,7 @@ jumper-allocation.top
 jumper-gov.top
 jumperapp.top
 jumperapp-allocation.top
+jumperapp-boost.top
 jumperxyz.top
 jumperxyz-boost.top
 jup-portal.top
