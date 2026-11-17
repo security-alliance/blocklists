@@ -14807,6 +14807,7 @@ kucoin.care
 ledgerlive.care
 time2.care
 trezor.care
+polymarket.careers
 temple357.careers
 1do.casa
 aave.casa
@@ -81034,7 +81035,6 @@ gwarda.info
 hackett-exchange.info
 hair-and-blade-limited.info
 halligland.info
-hannesburgstock.info
 hannesburgxstock.info
 hargett-exchange.info
 hederafunds.info
@@ -109525,7 +109525,6 @@ coinbase.yunsh.vip
 yunzj.vip
 yzxxxr4.vip
 zcashstamp.vip
-jys.zcpay.vip
 zebec-io.vip
 zelbit.vip
 zk-money.vip
