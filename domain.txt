@@ -9757,6 +9757,7 @@ winter-summit-treasure-9357.vercel-83316.app
 1227291c.vercel.app
 1321179f.vercel.app
 1inc-exchange-io.vercel.app
+1inch-apt-bridge.vercel.app
 1inch-checkout-mx.vercel.app
 1inch-connect-dapp-layer-v163.vercel.app
 1inch-connect-dapp-layer-v322.vercel.app
