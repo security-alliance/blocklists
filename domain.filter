@@ -79173,6 +79173,7 @@
 ||governance-ethfi.icu^$all
 ||governance-fablesfi.icu^$all
 ||governance-firelight.icu^$all
+||governance-firelightfi.icu^$all
 ||governance-flare-network.icu^$all
 ||governance-flarenetwork.icu^$all
 ||governance-flarenetworks.icu^$all
@@ -102854,7 +102855,6 @@
 ||meta.hwallet.site^$all
 ||idempotent-scheduler-pool.site^$all
 ||idletron.site^$all
-||ifc-invest.site^$all
 ||info-debribge.site^$all
 ||instant-bastion-guard.site^$all
 ||invest-tvc.site^$all

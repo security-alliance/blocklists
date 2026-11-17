@@ -79173,6 +79173,7 @@ governance-etherfi.icu
 governance-ethfi.icu
 governance-fablesfi.icu
 governance-firelight.icu
+governance-firelightfi.icu
 governance-flare-network.icu
 governance-flarenetwork.icu
 governance-flarenetworks.icu
@@ -102854,7 +102855,6 @@ hunterbidenlaptop.site
 meta.hwallet.site
 idempotent-scheduler-pool.site
 idletron.site
-ifc-invest.site
 info-debribge.site
 instant-bastion-guard.site
 invest-tvc.site
