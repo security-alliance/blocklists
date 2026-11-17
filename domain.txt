@@ -48226,7 +48226,6 @@ apps-koinbasecdn.wixstudio.com
 apps-koinbazewllt.wixstudio.com
 apps-koinext-page.wixstudio.com
 apps-koinsbase-ext.wixstudio.com
-apps-kraikan.wixstudio.com
 apps-krakeincdn.wixstudio.com
 apps-krakencdn.wixstudio.com
 apps-krakenpro.wixstudio.com
@@ -50573,7 +50572,6 @@ nav-koinbase-page.wixstudio.com
 nav-koinbasee-ext.wixstudio.com
 nav-krakeen-io.wixstudio.com
 nav-krakkencdn.wixstudio.com
-nav-krakn-apps.wixstudio.com
 nav-kreknn.wixstudio.com
 nav-krkencdn.wixstudio.com
 nav-krrakan-page.wixstudio.com
