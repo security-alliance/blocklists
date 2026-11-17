@@ -18755,7 +18755,6 @@ tornado-v3.click
 tour028.click
 tradepools.click
 treadfi.click
-tria-airdrop.click
 trigger-boostrewardkz.click
 trmlabscoin.click
 tronairdrop.click
@@ -30348,7 +30347,6 @@ cryptonimttk.com
 cryptonschain.com
 cryptootcmarket.com
 cryptopro-web3-1.com
-cryptoprocessing-auth.com
 cryptoprofitra.com
 cryptoqrkid.com
 cryptoqrtool.com
@@ -47333,9 +47331,7 @@ wallet-download-ledger.com
 wallet-es.com
 wallet-fixerror45.com
 wallet-grok.com
-wallet-h5-kaiyun.com
 wallet-infohelp.com
-wallet-kaiyun.com
 wallet-latchdock.com
 wallet-ledgerlive.com
 wallet-login.com
@@ -87380,7 +87376,6 @@ claim-firelightfi.live
 claim-flarefdn.live
 claim-flarefoundation.live
 claim-flarenetwork.live
-claim-frxusd.live
 anchor.claim-gate.live
 claim-grvt.live
 claim-jupiter.live
@@ -91760,7 +91755,6 @@ claim-it.net
 claim-nodepay.net
 claim-pilot.net
 claim-re.net
-claim-resolv.net
 claim-stake.net
 claim-wlfi.net
 claim-xrpl.net
@@ -99383,7 +99377,6 @@ vartiaonal.pro
 vaultbitcapi.pro
 velvetreoskslaon.pro
 veridex12.pro
-verify-auth30-cookies.pro
 verify-rainmaker.pro
 verify-rainmakerapp.pro
 verify-wallet-ownership.pro
@@ -107642,7 +107635,6 @@ chanigpt.trade
 claim-altura.trade
 claim-monday.trade
 claim-pendle.trade
-claim-pengu.trade
 claim-sui.trade
 claimer.trade
 cngck-portfolio.trade
