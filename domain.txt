@@ -15186,6 +15186,7 @@ armdrug.cc
 armycoin.cc
 asianmarketa.cc
 aspin.cc
+asset9.cc
 at-i.cc
 at-markets.cc
 atc-brokers.cc
@@ -16333,6 +16334,7 @@ finance.us.cc
 hyperliquid.us.cc
 inviteme.us.cc
 variational.io.us.cc
+kta.us.cc
 kucoin.us.cc
 myzoomapmeet.us.cc
 us05web.us.cc
@@ -25811,6 +25813,7 @@ autopilot-aero.com
 autotradecta.com
 autth-update.com
 auxgw.com
+auxusd.com
 auxusdc.com
 av-avast.com
 avablabsa.com
@@ -26869,6 +26872,9 @@ blockvestix.com
 blockwisepod.com
 m.blocxhuba.com
 www.blocxhuba.com
+blocxhubc.com
+blocxhubo.com
+blocxhubs.com
 m.blocxopsz.com
 blofin-cn.com
 blog-sunswap.com
@@ -30230,6 +30236,7 @@ cricfytvapkpro.com
 cricfyx.com
 cricfyy.com
 crikfy.com
+crimfoxcapital.com
 crine-portivenza.com
 criptopayments.com
 criptoprimes.com
@@ -31074,6 +31081,7 @@ digital-walletx.com
 digitalassetcryptopro.com
 digitalassets-vault.com
 digitalbasistax.com
+digitalchartist.com
 digitaldmca-x.com
 digitaldropshipaja.com
 digitalenterprise2026.com
@@ -32901,6 +32909,7 @@ forexcapitals15.com
 forexcapitals17.com
 forexcapitals18.com
 forexcapitals19.com
+forexcapitals2.com
 forexcapitals26.com
 forexcapitals27.com
 forexcapitals28.com
@@ -33220,6 +33229,7 @@ galaxyetherchain.com
 galaxyexc.com
 galaxygtr.com
 galaxyneofin.com
+galaxyneowave.com
 galaxyverify.com
 galfuture.com
 gallxee.com
@@ -35660,6 +35670,7 @@ efwf.it.com
 cashmere.eligibility.it.com
 concrete-tracker-seven.eligibility.it.com
 concretefoundation.eligibility.it.com
+foxtalez.it.com
 fx-go.it.com
 krakenpro.it.com
 krakensi.it.com
@@ -37273,6 +37284,7 @@ mastercloudventure.com
 mastertradmarket.com
 matcha-swap.com
 matchpoly.com
+matchprfxx.com
 mateodeairtm.com
 mathdesktopwallet.com
 matictradeses.com
@@ -37620,6 +37632,7 @@ metampay.com
 metanask.com
 metanask-download.com
 metanaskapp.com
+metaprotraders.com
 metatg-revoke.com
 metatronneuralnet.com
 metawalletcoin.com
@@ -38598,6 +38611,7 @@ nexocryptoinfo.com
 nexocryptollc.com
 nexodesktopwallet.com
 nexoraro.com
+nexoraro-ex.com
 nexoraro-trade.com
 nexorkpl.com
 nexosecured.com
@@ -38848,6 +38862,7 @@ oanda-international.com
 oandaofficial.com
 oauth-kaiyun.com
 oauth-secure.com
+oaxio.com
 objectiondmca-x.com
 objectionfaq-x.com
 obs-project.com
@@ -39381,6 +39396,7 @@ org-updatesendgrid.com
 org-vaults.com
 orginfi.com
 orionelectricllc.com
+ornliners.com
 orsimpleswap.com
 ortexgrid.com
 ortexnova.com
@@ -47284,6 +47300,7 @@ vspring-event.com
 vstorag4.com
 vstorag5.com
 vtmarketsro.com
+vtrocket.com
 vuabux.com
 vuafux.com
 vuahox.com
@@ -52345,6 +52362,7 @@ xbtairdrop.com
 xcakewallet.com
 xcases-profile.com
 xchainos.com
+xchangetdlive.com
 xchibi-allocation.com
 xcoin-finance.com
 xcoinschange.com
@@ -73474,6 +73492,7 @@ vro105ry.pages.dev
 vro1qi5xe.pages.dev
 vro1zc360.pages.dev
 vtyvv.pages.dev
+vueapp-9er.pages.dev
 wa-fae-trust.pages.dev
 waalettrezor-public.pages.dev
 waiitrlive-ledgr.pages.dev
@@ -87366,6 +87385,7 @@ brickken-updates.live
 bridgearc.live
 briefspeak.live
 brokerfarm.live
+bscap.live
 bscweb3protocol.live
 btcbullcrypto.live
 btcbulllaunch.live
@@ -92314,6 +92334,7 @@ hyprerlane.net
 hyprerswap.net
 ibericainvest.net
 icatrade.net
+iclientstate.net
 id-jtx.net
 ifxlite.net
 ig-market.net
@@ -92898,6 +92919,8 @@ royalcore.net
 royalinvestment.net
 ruqvexa.net
 ruqvexabit.net
+ruqvexapro.net
+ruqvexavip.net
 ruqvexc.net
 rwagrvt.net
 rysk-finance.net
@@ -93231,6 +93254,7 @@ v3-lido.net
 v3-sushi.net
 v3-uniswap.net
 v3dex.net
+vairnport.net
 valdreni.net
 valdrenix.net
 valdrenixpro.net
@@ -96917,6 +96941,8 @@ rpcresolvehub.org
 rtronlink.org
 rubic-exchange.org
 ruqvex.org
+ruqvexabit.org
+ruqvexapro.org
 ruqvexavip.org
 ruqvexc.org
 russianearabroad.org
@@ -106250,6 +106276,7 @@ bb.hjksdd.top
 hkbtc.top
 hketreads.top
 hkweb3coin.top
+hlstock.top
 hood-votedate.top
 hoppyonsol.top
 hr-google.top
@@ -108972,6 +108999,7 @@ admin.consensys.vc
 sitemap.consensys.vc
 webdisk.consensys.vc
 hyperliquid.vc
+kta.vc
 pikashow.vc
 shape3.vc
 shit.vc
