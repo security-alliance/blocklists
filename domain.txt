@@ -39594,6 +39594,7 @@ pay-bitrgifts.com
 pay-butrefill.com
 pay-bybit.com
 pay-bytrust.com
+coinbase.pay-cb.com
 pay-crlprorefill.com
 pay-latchdock.com
 pay-okx.com
