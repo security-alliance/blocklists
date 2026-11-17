@@ -1122,7 +1122,6 @@ https://sites.google.com/view/learnpage-metamask/home
 https://sites.google.com/view/learnpro-max/home
 https://sites.google.com/view/learrn-metamsk/home
 https://sites.google.com/view/ledger-add-ons/home
-https://sites.google.com/view/ledger-app-access
 https://sites.google.com/view/ledger-app-api
 https://sites.google.com/view/ledger-app-backup/ledger-wallet
 https://sites.google.com/view/ledger-app-eu/ledger-wallet
