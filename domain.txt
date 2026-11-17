@@ -16623,7 +16623,6 @@ account-appid-verification.cfd
 accountbridge.cfd
 activate-bluetick.cfd
 adichain.cfd
-aerocrypton-tw.cfd
 cake.aerofinance.cfd
 aerosxyz.cfd
 aerosxyz-news.cfd
@@ -16988,7 +16987,6 @@ jumperrewards-votes.cfd
 kaitoai.cfd
 kamino.cfd
 kinetiqfnd.cfd
-krakenstorm-tw.cfd
 l50731420-pment.cfd
 lanterne-v99.cfd
 cruceqskpk.levoro.cfd
@@ -17000,7 +16998,6 @@ lolo1212.cfd
 lxysbh1.cfd
 manageservices.cfd
 mate-wallet.cfd
-megacrypton-tw.cfd
 melania-trump.cfd
 melaniameme.cfd
 melvory1eld.cfd
@@ -17152,7 +17149,6 @@ qqqxx.cfd
 r9c6ps7nubpkgbs.cfd
 rainbet.cfd
 ramsesdex.cfd
-rapidqube-tw.cfd
 ray-diun.cfd
 raydiun.cfd
 raydliun.cfd
@@ -17671,7 +17667,6 @@ xstocks.cfd
 xstocks-voting.cfd
 yield-flarenetwork.cfd
 yieldbasis-allocation.cfd
-yottacrypton-tw.cfd
 app.z-i-r.cfd
 zaptrx.cfd
 zentra-rewards.cfd
@@ -65786,7 +65781,6 @@ apro-8vl.pages.dev
 aptos-apt-com.pages.dev
 apyxgovernance.pages.dev
 ar-ledger-web.pages.dev
-arbitrium-specs.pages.dev
 arbitrmnscan.pages.dev
 arbitrum-gas-faucet.pages.dev
 arc-allowance.pages.dev
