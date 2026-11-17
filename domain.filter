@@ -101593,7 +101593,6 @@
 ||mny-v2.sbs^$all
 ||mny-v3.sbs^$all
 ||monad-migration.sbs^$all
-||cards.monad.sbs^$all
 ||moneyhub-agewedapipu.sbs^$all
 ||moneyhub-ecomesijapi.sbs^$all
 ||moneyhub-fujehiduvus.sbs^$all
@@ -113301,7 +113300,6 @@
 ||getflareassets.xyz^$all
 ||getflr.xyz^$all
 ||getmetacard.xyz^$all
-||getmonad.xyz^$all
 ||getmybin.xyz^$all
 ||getpumpspin.xyz^$all
 ||getrxusd.xyz^$all

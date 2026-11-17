@@ -101593,7 +101593,6 @@ mmmmmoney.sbs
 mny-v2.sbs
 mny-v3.sbs
 monad-migration.sbs
-cards.monad.sbs
 moneyhub-agewedapipu.sbs
 moneyhub-ecomesijapi.sbs
 moneyhub-fujehiduvus.sbs
@@ -113301,7 +113300,6 @@ getfkdwhocares123.xyz
 getflareassets.xyz
 getflr.xyz
 getmetacard.xyz
-getmonad.xyz
 getmybin.xyz
 getpumpspin.xyz
 getrxusd.xyz
