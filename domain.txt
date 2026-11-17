@@ -88423,6 +88423,7 @@ migrate-quant.live
 migrate-sanchan.live
 migrate-solareum.live
 migrate-starknet.live
+migrate-stonkfun.live
 migrate-token.live
 migrate-uwu.live
 migrate-vicpay.live
