@@ -51893,6 +51893,7 @@ wl-c-uxv1.com
 wl-jpegs.com
 wlfgtrump.com
 wlfi-desk.com
+wlfi-forms.com
 wlfi-one.com
 wlfi-rewards.com
 wlfi-staking.com
@@ -96251,6 +96252,7 @@ joinopenstandard.org
 jointmeetingpoint.org
 joinzoommeeting.org
 jojobet-google.org
+jorpho.org
 jstswap.org
 jumper-dex.org
 jumper-exchange.org
@@ -96291,6 +96293,7 @@ klitecodec.org
 kmm-htx.org
 kolipfet.org
 kollabit.org
+korpho.org
 kra-ken-company.org
 kraken-ssilka-tor.org
 kraken-vhod.org
