@@ -18451,6 +18451,7 @@ plasmafoundation.click
 pollymarket.click
 poly-market.click
 polymarket-labs.click
+polyrnarket.click
 ponsdot.click
 governance.ponsfamily-distributions.click
 poolsfun.click
@@ -40158,6 +40159,7 @@ polymarketnorge.com
 polymarketnry.com
 polymarketofficial.com
 polymarketoficial.com
+polymarketp.com
 polymarketphilippines.com
 polymarketpod.com
 polymarketpolicy.com
@@ -98595,6 +98597,7 @@ comp-swap.pro
 concreteyield.pro
 conferencebtc.pro
 connect-app.pro
+connect-polymarket.pro
 connected-api.pro
 core-ledger.pro
 core-v3.pro
