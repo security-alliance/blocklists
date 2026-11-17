@@ -26650,7 +26650,6 @@ bitnexmarket.com
 bitnexreviewltd.com
 bitone-syst.com
 bitopexchange.com
-bitoptionsfinance.com
 bitoq.com
 bitoraex.com
 bitpanda-desktop.com
@@ -93705,6 +93704,7 @@ nyvppk.coinbase.ngo
 asterdex.ninja
 canton-wallet.nodeops.ninja
 utility.utila-canton-devnet.nodeops.ninja
+polymarket.ninja
 05web.nl
 kuda-business-banking-app.apkcafe.nl
 bitcoinbank-ai.nl
