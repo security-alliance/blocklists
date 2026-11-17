@@ -19317,7 +19317,6 @@ sui.stakingreward.cloud
 sui-name-service.stakingreward.cloud
 sui-wallet.stakingreward.cloud
 suinameservice.stakingreward.cloud
-suins.stakingreward.cloud
 suiwallet.stakingreward.cloud
 typus-finance.stakingreward.cloud
 us-alpha-finances.stakingreward.cloud
