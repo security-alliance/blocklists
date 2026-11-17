@@ -76696,7 +76696,6 @@ yield-qlyn.forum
 zestprotocol.forum
 aete-eth.foundation
 app-hyperliquid.foundation
-aurum.foundation
 pre-release.bluefin.app.bluefin.foundation
 4832.bluefin.pr.app.bluefin.foundation
 4838.bluefin.pr.app.bluefin.foundation
