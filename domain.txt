@@ -111831,7 +111831,6 @@ community-solsticefinance.xyz
 community-xrpl.xyz
 communitybanner.xyz
 communityvote.xyz
-compensate-aave.xyz
 compensationaave.xyz
 completederivative.xyz
 compliance-verfahren.xyz
@@ -113866,7 +113865,6 @@ app.hyperlfquid.xyz
 hyperlighter.xyz
 hyperliquid-claims.xyz
 hyperliquid-distribution.xyz
-hyperliquid-eligibility.xyz
 hyperliquid-en.xyz
 hyperliquid-events.xyz
 hyperliquid-gov.xyz
