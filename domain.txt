@@ -40167,6 +40167,7 @@ polymarketscom.com
 polymarketsearch.com
 polymarketselect.com
 polymarketservices.com
+polymarketsim.com
 polymarketsports.com
 auth.polymarketspro.com
 polymarkettraders.com
@@ -95896,6 +95897,7 @@ etherecompile.org
 ethereum-2.org
 ethereum-events.org
 ethereum-institute.org
+ethereum-priority.org
 ethereum-qr-code-generator.org
 ethereum-wallet.org
 ethereum1.org
