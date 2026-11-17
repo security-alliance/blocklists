@@ -82529,7 +82529,7 @@ ethswapx.io
 ethtradx.io
 ethwrkz.io
 ethyldu.io
-eu-en.io
+metamask.eu-en.io
 euroslots.io
 coinbase-showcase-fund.everygoodwork.io
 execbridge.io
