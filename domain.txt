@@ -19313,7 +19313,6 @@ pythnetwork.stakingreward.cloud
 rls.stakingreward.cloud
 starknet.stakingreward.cloud
 strk.stakingreward.cloud
-sui.stakingreward.cloud
 sui-name-service.stakingreward.cloud
 sui-wallet.stakingreward.cloud
 typus-finance.stakingreward.cloud
