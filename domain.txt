@@ -17787,12 +17787,7 @@ metamsklogin.blogspot.cl
 trustwallet-secure.blogspot.cl
 trustwalletcustomerservicephonenumber.blogspot.cl
 trustwalletlogin.blogspot.cl
-blueclip.cl
-capax.cl
 eholistic.cl
-elilien.cl
-fibarra.cl
-ibahia.cl
 polymarket-cl.cl
 polymarketchile.cl
 solcasino-chile.cl
@@ -26575,7 +26570,6 @@ bitcryptoforesta.com
 bitcryptoforestb.com
 bitcvc.com
 bitdefhub.com
-bitead.com
 bitecoxe.com
 bitecoxekyy.com
 bitecoxeyyk.com
@@ -30553,7 +30547,6 @@ daddysdogg.com
 daedaluswallet-eu.com
 daekox.com
 daftwin.com
-dagmaar.com
 dai-lgns-origindefi.com
 daianadeairtm.com
 dailyaljazeera.com
@@ -31470,7 +31463,6 @@ dyydxst.com
 dyydxstd.com
 e-activhub.com
 e-ae-topup.com
-e-alon.com
 e-mailmicrosoft.com
 e-menaxher.com
 e-portal-v4.com
@@ -31629,7 +31621,6 @@ ellipaldesktopapps.com
 ellipaldevice.com
 ellipalinsure.com
 ellipalpcpro.com
-elmirador360.com
 elmswoodgroup.com
 eloisacleans.com
 elompakko.com
@@ -33493,7 +33484,6 @@ trustwallet.ghe.com
 ghostgamb.com
 giavanghangngay.com
 gidoc1c1.com
-gifga.com
 gift-ousd.com
 gift-polymarket.com
 gift-to-desktop-app-users.com
@@ -35735,7 +35725,6 @@ jacobmawulisatsofia.com
 jadran-kapitura.com
 jadybet.com
 jafpay.com
-jafva.com
 jake-coinbase.com
 jakkakaskakasj.com
 jakored.com
@@ -35752,7 +35741,6 @@ pc.jardentop.com
 m.jardenusltd.com
 jaredbot.com
 jaroldeairtm.com
-jarvo.com
 jason-coinbase.com
 jasonszoomlink.com
 jasydeairtm.com
@@ -36202,7 +36190,6 @@ kipf3.com
 kipr2.com
 kipv5.com
 kirbnjayshvac-proposals.com
-kirchmeiers.com
 kirilvip.com
 kirinue.com
 kirinuz.com
@@ -37732,7 +37719,6 @@ mgroaq.com
 mgroav.com
 mhhmarkets.com
 quicknode.mhkelec.com
-mhume.com
 miamipcsupport.com
 mica-binance.com
 exodus.mica-framework.com
@@ -39728,7 +39714,6 @@ perpdexguide.com
 perphawk.com
 perps-polymarket.com
 perpspadsfun.com
-persoy.com
 pesodolarapp.com
 peterkinshipping.com
 petesun-google.com
@@ -39821,7 +39806,6 @@ phase2firelightfinance.com
 phase2flare.com
 phatom-apps.com
 phazal.com
-philflex.com
 phnixlabs.com
 phntom-apps.com
 phoenix-drop.com
@@ -40875,7 +40859,6 @@ qvexora.com
 qw4c12qqqqoepwq.com
 qwblock.com
 qweuyquigwebq.com
-qwezt.com
 qxhtkxwwlp.com
 r-e-f-7842134.com
 r-ob.com
@@ -43580,7 +43563,6 @@ spx85k-cryptoslate.com
 spy77go2.com
 spylegamb.com
 sqapuz.com
-sqldb2.com
 circle.squaredeyes.com
 appstart-ledgr.squarespace.com
 appstart-ledgrcdn.squarespace.com
@@ -75109,7 +75091,6 @@ tron.discount
 basefxo.diy
 coinw.diy
 money-x.diy
-m2o.dj
 97ee6.blogspot.dk
 coinbase-login.blogspot.dk
 coinbase-pro.blogspot.dk
@@ -75341,7 +75322,6 @@ coinplaycasino.eu
 compliance-ok-x.eu
 cryptoier.eu
 cryptomixer.eu
-csfl.eu
 verify-web3metamask.ddnss.eu
 deushack.eu
 device-ledger.eu
@@ -76802,7 +76782,6 @@ treasurys-flare.foundation
 treasurys-pool-firelight.foundation
 treasurys-pool-flare.foundation
 treasurys-pools-flare.foundation
-treasuryspool-flare.foundation
 treasuryspools-firelight.foundation
 treasuryspools-flare.foundation
 trustwallet.foundation
@@ -78608,7 +78587,6 @@ coinbaselogine.blogspot.hr
 metamask-l0gin.blogspot.hr
 phantomwalletextensiondownload.blogspot.hr
 trustwalletcustomerservicephonenumber.blogspot.hr
-fandf.hr
 coinbase.com.ht
 crypto.com.ht
 gemini.com.ht
@@ -80556,7 +80534,6 @@ acetrader.info
 actualisatie-formulier-0626.info
 actzenbloom.info
 adipredictstreet.info
-adriaticeuroregion.info
 aero-treasury.info
 aerodromes-treasury.info
 aeros.info
@@ -80569,7 +80546,6 @@ support.trustwallet.afmil.info
 ag-claim.info
 ag-rewards.info
 agentur-zoom.info
-agrarnik.info
 airdrop-ether.info
 airdrop-flt.info
 airdropservice.info
@@ -80690,7 +80666,6 @@ braxton-exchange.info
 brophy-legacy.info
 btveix.info
 bullcattoken.info
-bullrealty.info
 busdminer.info
 butcher-exchange.info
 bybitportal.info
@@ -80723,8 +80698,6 @@ checker-squidrouter.info
 checker-xdc.info
 checkfirelight.info
 checkflare.info
-cheniere.info
-chorzowska50.info
 ckbrrs.info
 claim-inkonchain.info
 claim-it.info
@@ -80800,7 +80773,6 @@ crate-collectorcrypt.info
 creatorsupport-x.info
 cricfy-tv.info
 crl3.info
-crushlovely.info
 crypto-check.info
 cryptocasinorainbet.info
 cs-securemeetingdoc.info
@@ -80864,7 +80836,6 @@ early-firelight.info
 earn-aave.info
 earthmetaai.info
 easytrustcard.info
-eboards.info
 eco-accesso.info
 ecosystem-firelightfi.info
 egld.info
@@ -80992,7 +80963,6 @@ fomovote.info
 forecastgov.info
 forms-eid.info
 fort-inventory.info
-fraktur.info
 fraxfoundation.info
 legithub.freeflaretoken.info
 fudthepug.info
@@ -81077,7 +81047,6 @@ grovedotfinance.info
 gwarda.info
 hackett-exchange.info
 hair-and-blade-limited.info
-halligland.info
 hannesburgxstock.info
 hargett-exchange.info
 hederafunds.info
@@ -81168,7 +81137,6 @@ krakensecure.info
 kumibot.info
 kurwa-bonus.info
 kuviai.info
-kweli-magazine.info
 kyroslab.info
 lackey-exchange.info
 ladymarian.info
@@ -81207,14 +81175,11 @@ macbriefing.info
 macdaybook.info
 macdayline.info
 macroutine.info
-mainerestaurant.info
-mainerestaurants.info
 mainnet-flare.info
 mainnetvariational.info
 map-exact.info
 map-searchphone.info
 marcus-exchange.info
-maxillofazial.info
 mayacollection.info
 mccune-allocation.info
 mcommunitypower.info
@@ -86841,7 +86806,6 @@ trezor-io-startt.blogspot.li
 trustwalletcustomerservicephonenumber.blogspot.li
 duty-free-test-test.li
 space-x.li
-tatto.li
 trustcreditcards.li
 118scalemodel.life
 1wfqxn.life
@@ -90526,7 +90490,6 @@ pancakeswaps.me
 id.phantm.me
 orca.phibiflo.me
 portallogonlogs.me
-quoteti.me
 rainbovv.me
 rainbowfn.me
 fixedfloat.ratepath.me
@@ -92015,7 +91978,6 @@ cupsey.net
 customefex.net
 cw-max.net
 cwdex.net
-cwqso.net
 cx-investment.net
 cyphereth.net
 daedaluswallet.net
@@ -95392,7 +95354,6 @@ amltrc20.org
 amlverify.org
 amlview.org
 amlxbybit.org
-amorins.org
 an-sem.org
 angel-coin.org
 anonymixer.org
@@ -96166,7 +96127,6 @@ hifibridge.org
 hifiswap.org
 app.hniswap.org
 app.home-chanlgpt.org
-homegecko.org
 hoodevent.org
 hoodkus.org
 hub-onyx.org
@@ -96342,7 +96302,6 @@ lidopoints.org
 lidoprotocol.org
 lightzenryx.org
 limitless-uk.org
-limnet.org
 lineabridge.org
 link-hub.org
 linkgift.org
@@ -99769,7 +99728,6 @@ rainbet.com.ro
 rainbet-casino.com.ro
 rainbetcasino-ro.com.ro
 damiluna.ro
-evobyt.ro
 faceboock.ro
 mattnordic.ro
 metamask.ro
@@ -102130,7 +102088,6 @@ trust-wallet-aml.services
 trustwalletcard.services
 update-microsoft-data.services
 coinbaselogine.blogspot.sg
-jemix.sg
 rainbet.sg
 roobet.sg
 orca-boxd-fork-orca-7afce6e7-1ad3-43bb-8.boxd.sh
@@ -103630,7 +103587,6 @@ zoow.site
 97ee6.blogspot.sk
 metamaskextension-us.blogspot.sk
 trezor.icc.sk
-ostrovsky.sk
 rain-bet.sk
 rainbet.sk
 rainbet-sk.sk
@@ -104195,7 +104151,6 @@ hdstreams.stream
 hyperliquid.stream
 onstreamapk.stream
 riverside.stream
-shemales.stream
 stake-casino.stream
 trezor.stream
 worldwideweb.stream
@@ -109016,7 +108971,6 @@ hyperliquid.vc
 kta.vc
 pikashow.vc
 shape3.vc
-shit.vc
 unthinkable.vc
 binance.com.ve
 ledger.com.ve
