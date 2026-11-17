@@ -76230,7 +76230,6 @@ icecreamswap.finance
 ignitercap-firelight.finance
 ignition-spark.finance
 incentivcs-pendle.finance
-incentive-firelight.finance
 incident-moonwell.finance
 infastructure.finance
 infrastructures.finance
@@ -92933,7 +92932,6 @@ ruqvexabit.net
 ruqvexc.net
 rwagrvt.net
 rysk-finance.net
-s2-flare.net
 s2-tokenpocket.net
 safepal-com.net
 safepal-io.net
