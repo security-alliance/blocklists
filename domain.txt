@@ -79197,6 +79197,7 @@ governance.flarenetwork-community.icu
 governance.flarenetwork-dao.icu
 flarenetwork-dashboard.icu
 flarenetwork-portal.icu
+flarenetwork-proposal.icu
 flarenetwork-vote.icu
 governance.flarenetwork-x.icu
 flarenetworks.icu
