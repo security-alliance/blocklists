@@ -63340,6 +63340,7 @@ pr-7831.1inch-io-app.pages.dev
 6-governance-venice.pages.dev
 6-governance-voltafamily.pages.dev
 6-governance-zama.pages.dev
+6-governance-zamahub.pages.dev
 6-hookrfun.pages.dev
 6-hub-centrifugegov.pages.dev
 6-hub-concretegov.pages.dev
