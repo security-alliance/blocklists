@@ -29402,6 +29402,7 @@ bitrefill.com-gift-cards-btc.com
 bitrefill.com-gift-cards-doge.com
 bitrefill.com-gift-cards-eth.com
 bitrefill.com-gift-cards-sol.com
+bitrefill.com-gift-cards-ton.com
 bitrefill.com-gift-cards-trx.com
 com-gift-cards-usdt.com
 com-gift-esim-a04.com
@@ -32886,8 +32887,6 @@ forensics-verification.com
 forex-okx.com
 forex-tmgm.com
 forex-web3.com
-forexcapitals11.com
-forexcapitals13.com
 forexcapitals14.com
 forexcapitals15.com
 forexcapitals16.com
