@@ -12128,7 +12128,6 @@ appnetcoines.zapier.app
 appscoinsnet.zapier.app
 appsupholld.zapier.app
 apptrust.zapier.app
-appuplodd.zapier.app
 bitbuy-apps.zapier.app
 bitbuy-ca.zapier.app
 bitebuye.zapier.app
