@@ -94482,7 +94482,6 @@ flashusdtapps.online
 flashusdttrc20.online
 fomolivestream.online
 foodfighters.online
-forttresorique.online
 free-reward.online
 fund-qizy.online
 fxaladdin.online
