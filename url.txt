@@ -1829,7 +1829,6 @@ https://sites.google.com/view/trezor-web-crypto-app
 https://sites.google.com/view/trezor-web-crypto-app/trezor-suite
 https://sites.google.com/view/trezor-web-download/trezor-suite
 https://sites.google.com/view/trezor-web-one/trezor-suite
-https://sites.google.com/view/trezor-web-setup/trezor-suite
 https://sites.google.com/view/trezor-web-start
 https://sites.google.com/view/trezor-web-start/
 https://sites.google.com/view/trezor-web-us
