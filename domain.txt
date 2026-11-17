@@ -111992,7 +111992,6 @@ deficheckers.xyz
 deficoresolver.xyz
 definodes.xyz
 defiwallets.xyz
-degodsfound.xyz
 dekabase.xyz
 delorian.xyz
 demo123.xyz
