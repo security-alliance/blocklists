@@ -47963,6 +47963,7 @@ czuwfpu.wixsite.com
 emiturner03.wixsite.com
 eng-extensions-cdn.wixsite.com
 eng-jaxxlibrety-cdn.wixsite.com
+exodus-hubstart.wixsite.com
 explore-trust-ext.wixsite.com
 global-base-extcdn.wixsite.com
 global-bse-extcdn.wixsite.com
@@ -65644,6 +65645,7 @@ app-eng-ledger-live.pages.dev
 app-ethos.pages.dev
 app-exdusweb.pages.dev
 app-exxodas-io-en.pages.dev
+app-exxodusweb.pages.dev
 app-harambetoken-ai.pages.dev
 app-help-suit-trze.pages.dev
 app-hyperliquid-a6j.pages.dev
