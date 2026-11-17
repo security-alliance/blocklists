@@ -31962,6 +31962,7 @@ mail.ethereumclassicwallet.com
 ethereumcormax14x.com
 ethereumcormax70.com
 api.staging.ethereumetp.com
+ethereumfixedmatch.com
 ethereumfoundationreturns.com
 ethereumhub003.com
 ethereumprowallet.com
