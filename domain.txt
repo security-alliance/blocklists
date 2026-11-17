@@ -91994,7 +91994,6 @@ defi-coin.net
 defi-kong.net
 defi-trustpad.net
 defi-trustpads.net
-defiprov12.net
 deflllama.net
 deltapredict.net
 democragy.net
