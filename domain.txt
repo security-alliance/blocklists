@@ -12282,7 +12282,6 @@ governance-unipeg.art
 grvt-rewards.art
 hub-unipeg.art
 jup-rewards.art
-l00p-live.art
 messenger-verification.art
 minifinish.art
 mintable.art
@@ -15700,7 +15699,6 @@ hk-web3.cc
 h5.hke66acto.cc
 h5.hkeyjlppa.cc
 base.ho-google.cc
-admin.hongkong-web3.cc
 hoodfun.cc
 hoodfuns.cc
 hoodname.cc
@@ -24652,7 +24650,6 @@ activitiy-linkedin.com
 activity-account-verification.com
 activitylog-kraken.com
 actuallyapanda.com
-webtrader.acutenelys-rilogys.com
 ad-3482929-ledger.com
 ad-kalshi.com
 ad-usdc-bridge.com
@@ -26874,7 +26871,6 @@ blockvestix.com
 blockwisepod.com
 m.blocxhuba.com
 www.blocxhuba.com
-m-pdti.blocxopen.com
 m.blocxopsz.com
 blofin-cn.com
 blog-sunswap.com
@@ -28975,7 +28971,6 @@ coinexsft.com
 coinexsx.com
 coinfey.com
 coinflipreturn.com
-coinflowaitv.com
 coinflowtv.com
 coinfuturex.com
 coin.coinfxo.com
@@ -30894,7 +30889,6 @@ derewex.com
 deribit-login.com
 deribit-market.com
 deribit-markets.com
-admin.deribit-trade.com
 deribit-web3.com
 deribitpro.com
 derivaxex.com
@@ -31979,7 +31973,6 @@ ethfond.com
 ethgasprotocols.com
 ethguanfangweiyilianjie.com
 ethog.com
-ethpols.com
 ethscn.com
 ethtake.com
 ethtaptap.com
@@ -32452,7 +32445,6 @@ fernleighcounsel.com
 fernogamb.com
 ferro-protocol.com
 ferznew.com
-fetchaiz.com
 fethiyemarenavillam.com
 fetonex.com
 fetorex.com
@@ -33242,7 +33234,6 @@ galaxorbit.com
 galaxydigeitasecrypto.com
 galaxydigeitaseecryptosssg.com
 galaxydigeitaseercypto.com
-galaxydigeitaserrcy.com
 galaxyetherchain.com
 galaxyexc.com
 galaxygtr.com
@@ -38743,7 +38734,6 @@ nodev1.com
 nodevium.com
 nodexcoins.com
 nodexdex.com
-nodexscoin.com
 noecux.com
 noepox.com
 noergamb.com
@@ -67502,7 +67492,6 @@ exdust-walet-eng.pages.dev
 exdusweb3-io.pages.dev
 exedus-us-en.pages.dev
 exo--dus-web3.pages.dev
-exo--duswebs-us.pages.dev
 exo-dus-web3-bwv.pages.dev
 exo-pro-dusweb3.pages.dev
 exob-web.pages.dev
@@ -67753,7 +67742,6 @@ faq-suiets-trzer.pages.dev
 faq-suite-trezor-app-io-us.pages.dev
 faq-terezer-suiets.pages.dev
 faq-terezor-suiets.pages.dev
-faq-terezr-suiets.pages.dev
 faq-trezor-io-starts.pages.dev
 faq-trezor-login-help.pages.dev
 faq-trezor-strt.pages.dev
@@ -72381,7 +72369,6 @@ treser-suite-eng.pages.dev
 tresor-bridg.pages.dev
 tresor-log.pages.dev
 tresor-suite-efo.pages.dev
-tresor-suite-en.pages.dev
 tresor-suite-io.pages.dev
 trest-wallet-com.pages.dev
 trest-wallet-en.pages.dev
@@ -75117,7 +75104,6 @@ bi.coinbase.dk
 console.coinbase.dk
 live.coinbase.dk
 reporting.coinbase.dk
-crypto.dk
 nygaardskaffe.dk
 pancake-factory.dk
 planbsince2018.dk
@@ -81986,7 +81972,6 @@ crvlite.ink
 crypto-payment-v2.ink
 cryptomixer.ink
 cryptomusgate.ink
-cryptouc.ink
 crytpobubbles.ink
 cuerlty.ink
 cuvrefi.ink
@@ -90192,7 +90177,6 @@ exodus-wallet.ltd
 exoduspro.ltd
 exoduspros.ltd
 user.exreu.ltd
-user.finabel.ltd
 findigitalbkin.ltd
 findigitalbkins.ltd
 foundationcapital.ltd
@@ -92016,7 +92000,6 @@ wallet.cryptolect.net
 cryptomixerbtc.net
 cryptomuspay.net
 cryptoniex.net
-cryptouc.net
 cryptovoting.net
 crystal-diskinfo.net
 crystalbitcoin.net
@@ -102508,7 +102491,6 @@ sultry-ledger.shop
 swaptrx.shop
 sweetempire.shop
 t3microselect.shop
-tasmanfx.shop
 tavionode.shop
 teams-live.shop
 techcoding-copss.shop
@@ -106307,8 +106289,6 @@ icatrade.top
 icloud-v6.top
 icueoe.top
 ifcdevp.top
-ifcgrow.top
-ifconwe.top
 ignitercap-firelight.top
 im-dapp.top
 im-v2.top
@@ -106362,7 +106342,6 @@ bb.jferrttwer.top
 cc.jferrttwer.top
 jghjdfy.top
 jherryr.top
-jifengcn.top
 arc.jishugua.top
 jjhnw.top
 jngl.top
@@ -106658,7 +106637,6 @@ mysol.top
 mystery-rewards.top
 mz999.top
 nafavex.top
-nasdaqmax.top
 nasxzuawa.top
 navymelon.top
 nb3b5v0imiwzs15fi5lz3ary1.top
@@ -108581,7 +108559,6 @@ on06.us
 onlinecall.us
 onlinecalls.us
 onlinemicrosoftteams.us
-onlives.us
 onliveweb.us
 onneragroup.us
 onwebcall.us
