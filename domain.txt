@@ -92774,7 +92774,6 @@ proxelbit2.net
 pt-pendle.net
 pulsechain-bridge.net
 pulsechian.net
-pulsechlan.net
 pulsecoinlist.net
 pulseswap.net
 pumpfunlive.net
@@ -92942,7 +92941,6 @@ arbitrum-rpc.riv-holding.net
 river-marketotc.net
 rmatcha.net
 rnatcha.net
-rnegaeth.net
 rocketclouds.net
 rocketpoolstake.net
 rocketzone.net
