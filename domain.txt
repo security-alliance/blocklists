@@ -30630,6 +30630,7 @@ dappshub-rectify.com
 darewex.com
 dariclabs.com
 darkexcom.com
+darkpolymarket.com
 darkstardiagnostics.com
 darmabet.com
 darowex.com
@@ -33450,6 +33451,7 @@ getonstreams.com
 getpayboxed.com
 getpikashow.com
 getpocketvault.com
+getpolymarketbot.com
 getsecurecard.com
 getsirkonia.com
 getslotocash.com
