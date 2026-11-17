@@ -21598,7 +21598,6 @@ voice-changer.co
 vote-flap.co
 vote-hyperfoundation.co
 vote-soil.co
-vote-stacks.co
 votes-ethena.co
 votesblock.co
 vvww-ledger-com.co
@@ -67749,7 +67748,6 @@ faq-suiets-trezor.pages.dev
 faq-suiets-trezr.pages.dev
 faq-suiets-trzer.pages.dev
 faq-suite-trezor-app-io-us.pages.dev
-faq-terezer-suiet.pages.dev
 faq-terezer-suiets.pages.dev
 faq-terezor-suiets.pages.dev
 faq-terezr-suiets.pages.dev
