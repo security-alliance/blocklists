@@ -71651,6 +71651,7 @@ sign-coiinbase-en.pages.dev
 sign-coiinbase-us.pages.dev
 sign-coinbase-pro-us-x.pages.dev
 sign-ledgrlive-desk.pages.dev
+sign-pro-krkenn.pages.dev
 sign-trezor-bridge.pages.dev
 sign-trezor-wallet.pages.dev
 signup-meta-mask-io.pages.dev

@@ -71651,6 +71651,7 @@
 ||sign-coiinbase-us.pages.dev^$all
 ||sign-coinbase-pro-us-x.pages.dev^$all
 ||sign-ledgrlive-desk.pages.dev^$all
+||sign-pro-krkenn.pages.dev^$all
 ||sign-trezor-bridge.pages.dev^$all
 ||sign-trezor-wallet.pages.dev^$all
 ||signup-meta-mask-io.pages.dev^$all
