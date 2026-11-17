@@ -19307,7 +19307,6 @@ portaltobitcoin.stakingreward.cloud
 portaltobitcoins.stakingreward.cloud
 ptb.stakingreward.cloud
 pudgy-penguins.stakingreward.cloud
-pyth-network.stakingreward.cloud
 pythnetwork.stakingreward.cloud
 rls.stakingreward.cloud
 strk.stakingreward.cloud
@@ -89204,6 +89203,7 @@ twcards.live
 twt-tron.live
 twt-wallet.live
 twt-wallet-app.live
+twtcard.live
 ultron-cash.live
 umia-migrate.live
 umiafinance.live

@@ -19307,7 +19307,6 @@
 ||portaltobitcoins.stakingreward.cloud^$all
 ||ptb.stakingreward.cloud^$all
 ||pudgy-penguins.stakingreward.cloud^$all
-||pyth-network.stakingreward.cloud^$all
 ||pythnetwork.stakingreward.cloud^$all
 ||rls.stakingreward.cloud^$all
 ||strk.stakingreward.cloud^$all
@@ -89204,6 +89203,7 @@
 ||twt-tron.live^$all
 ||twt-wallet.live^$all
 ||twt-wallet-app.live^$all
+||twtcard.live^$all
 ||ultron-cash.live^$all
 ||umia-migrate.live^$all
 ||umiafinance.live^$all
