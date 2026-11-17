@@ -79105,6 +79105,7 @@ flare-networks.icu
 flare-proposal.icu
 flarefoundation.icu
 flarenetwork.icu
+flarenetwork-allocations.icu
 governance.flarenetwork-app.icu
 governance.flarenetwork-community.icu
 governance.flarenetwork-dao.icu
