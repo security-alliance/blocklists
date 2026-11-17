@@ -29414,6 +29414,7 @@ pay-bitrefill.com-f01-esim-gift.com
 com-fichiers.com
 bitrefill.com-g01-esim-gift.com
 bitrefill.com-gift-cards-ada.com
+bitrefill.com-gift-cards-avax.com
 bitrefill.com-gift-cards-bnb.com
 bitrefill.com-gift-cards-btc.com
 bitrefill.com-gift-cards-doge.com
