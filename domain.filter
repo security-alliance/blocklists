@@ -99713,6 +99713,7 @@
 ||bitget.rentals^$all
 ||aml-wallet.report^$all
 ||betpanda.report^$all
+||ethscan.report^$all
 ||wallet-aml.report^$all
 ||melaniatrump.republican^$all
 ||accountprotection-microsofts.rest^$all
