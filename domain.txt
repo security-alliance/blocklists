@@ -49199,7 +49199,6 @@ ex-en-odus-ext.wixstudio.com
 ex-odus-extn.wixstudio.com
 ex-odusappcdn.wixstudio.com
 ex0dusapp.wixstudio.com
-exadus-my.wixstudio.com
 exdous-app.wixstudio.com
 exedousapp.wixstudio.com
 exeduso-en.wixstudio.com
