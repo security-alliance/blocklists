@@ -116307,7 +116307,6 @@ s2hyperfoundation.xyz
 s3-hyper.xyz
 s3-lighter.xyz
 s3-morpho.xyz
-s8-soneium.xyz
 safe-enclave-stack.xyz
 safeadapter-kitx.xyz
 safedeals.xyz
