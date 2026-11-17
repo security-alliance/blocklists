@@ -76765,7 +76765,6 @@
 ||treasury-pool-flare.foundation^$all
 ||treasury-pools-firelight.foundation^$all
 ||treasury-pools-flare.foundation^$all
-||treasurypools-flare.foundation^$all
 ||treasurys-flare.foundation^$all
 ||treasurys-pool-firelight.foundation^$all
 ||treasurys-pool-flare.foundation^$all
@@ -95324,7 +95323,6 @@
 ||allistonwstbry.org^$all
 ||allocation-arc.org^$all
 ||allocation-checker-octra.org^$all
-||allocation-hash256.org^$all
 ||allocation-raacfi.org^$all
 ||allocation-spaceandtime.org^$all
 ||allocation-starknet.org^$all
@@ -107774,7 +107772,6 @@
 ||farm-v2.trade^$all
 ||farm-v3.trade^$all
 ||fiexdfloat.trade^$all
-||firstledger.trade^$all
 ||fix-fload.trade^$all
 ||fixedlfoat.trade^$all
 ||flowpad.trade^$all
