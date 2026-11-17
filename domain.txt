@@ -32886,8 +32886,6 @@ forensics-verification.com
 forex-okx.com
 forex-tmgm.com
 forex-web3.com
-forexcapitals1.com
-forexcapitals10.com
 forexcapitals11.com
 forexcapitals13.com
 forexcapitals14.com
@@ -92064,6 +92062,7 @@ ethgas-foundation.net
 ets2planet.net
 eu-atomicwallet.net
 eu-changelly.net
+eu-polymarket.net
 eu-safepal.net
 eu-uniswap.net
 euler-flnancesx.net
