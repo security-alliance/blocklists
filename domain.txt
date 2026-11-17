@@ -80,6 +80,7 @@ okx.com.ag
 rainbow.com.ag
 safepal.com.ag
 trezor.com.ag
+trustwallet.com.ag
 jupdao.ag
 jups.ag
 studio.jupx.ag
