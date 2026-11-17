@@ -109282,7 +109282,6 @@ one-rewards.vip
 onrefinance.vip
 h5mx.openmall.vip
 ose-jp.vip
-osejp.vip
 osk19a.vip
 pancake-swap.vip
 pancake-swapping.vip
