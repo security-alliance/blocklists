@@ -29424,8 +29424,10 @@ bitrefill.com-g01-esim-gift.com
 bitrefill.com-gift-cards-ada.com
 bitrefill.com-gift-cards-bnb.com
 bitrefill.com-gift-cards-btc.com
+bitrefill.com-gift-cards-doge.com
 bitrefill.com-gift-cards-eth.com
 bitrefill.com-gift-cards-sol.com
+bitrefill.com-gift-cards-trx.com
 com-gift-cards-usdt.com
 com-gift-esim-a04.com
 bitrefill.com-gift-esim-aa04.com
