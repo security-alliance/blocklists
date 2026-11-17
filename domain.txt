@@ -12658,7 +12658,6 @@ rainbett.at
 97ee1.ralind.at
 raydium-swp.at
 readles.at
-regamb.at
 review-integrate.at
 rlive.at
 rnonero.at
@@ -15890,7 +15889,6 @@ nexo-qw.cc
 nexte.cc
 nexte-amm.cc
 nextepochmarket.cc
-nextgamb.cc
 nexwin.cc
 nezxx.cc
 nftopensea.cc
@@ -15954,7 +15952,6 @@ plotline.cc
 po-t.cc
 pogamb.cc
 polaris-vip.cc
-polgamb.cc
 polimarket.cc
 politician407.cc
 poll-moonshot.cc
@@ -30766,7 +30763,6 @@ deepseek-earlyaccess.com
 deepsnitcch.com
 deezbet.com
 defaazz.com
-defareo.com
 deffi-laama.com
 defi-carrot.com
 dashboard.zebec.io.defi-chains.com
@@ -37502,7 +37498,6 @@ merowin.com
 merrill-claims.com
 merry-glade.com
 mes-documents-cm.com
-mescaz.com
 mese-uk.com
 messaging-kraken.com
 meta-accountsverification.com
@@ -45701,7 +45696,6 @@ tunnel-fundingv8.com
 tunorex.com
 tuodux.com
 tup-proposal.com
-tupewin.com
 tuq-proposal.com
 turboswap-dex.com
 turkvestcapital.com
@@ -66427,7 +66421,6 @@ coinbase-support-ip2.pages.dev
 coinbaseaml.pages.dev
 coinbaselogin-wel.pages.dev
 coinbaselogins.pages.dev
-coinbasewalltapp.pages.dev
 coinbasse-help-logd.pages.dev
 coinbaze-io.pages.dev
 coinbaze-login.pages.dev
@@ -74728,7 +74721,6 @@ avalabs.digital
 basedfndn.digital
 bind-24.digital
 bitgetrro.digital
-bitslot.digital
 blacksbullsol.digital
 blockportal.digital
 btcmiami.digital
@@ -108275,7 +108267,6 @@ cueceu.us
 dantelabs.us
 defiswap.us
 defri.us
-demfy.us
 dex-screener.us
 digital-joinzoom.us
 digitalzoom.us
