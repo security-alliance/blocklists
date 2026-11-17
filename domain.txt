@@ -19276,7 +19276,6 @@ doublezeros.stakingreward.cloud
 eigen.stakingreward.cloud
 eigen-foundation.stakingreward.cloud
 eigenfoundations.stakingreward.cloud
-gitcoin.stakingreward.cloud
 gtc.stakingreward.cloud
 interface-cgpt.stakingreward.cloud
 interface-chaingpt.stakingreward.cloud
