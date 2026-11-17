@@ -52924,7 +52924,6 @@ zebec-snapshot.com
 zebec-vote.com
 zebec-votes.com
 zebecapp.com
-zebecpc.com
 zebecsuperapp-mainnet.com
 zebuwon.com
 zecwallet.com
