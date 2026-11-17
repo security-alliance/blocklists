@@ -8322,7 +8322,6 @@ porsche-token.app
 malbeclabs.portal-drops.app
 mayanfinance.portal-drops.app
 thedefiant.portal-drops.app
-portal-flaremainnet.app
 portal-flarenetwork.app
 portal-hylo.app
 portal-kinetiq.app
@@ -32359,7 +32358,6 @@ fairgomobile.com
 fairlesstoycupboard.com
 pc.fairmarkets-fx.com
 fakeusdtsenderofficialsite.com
-falarenetwork.com
 falcon-votes.com
 falcons-drop.com
 falconxco.com
