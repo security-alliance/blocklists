@@ -19292,7 +19292,6 @@ eigen.stakingreward.cloud
 eigen-foundation.stakingreward.cloud
 eigenfoundations.stakingreward.cloud
 gitcoin.stakingreward.cloud
-goat-networks.stakingreward.cloud
 gtc.stakingreward.cloud
 interface-cgpt.stakingreward.cloud
 interface-chaingpt.stakingreward.cloud
