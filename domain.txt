@@ -18069,6 +18069,7 @@ coinbase-update.click
 coinbasebackup.click
 webmail.coinbasecheckout.click
 coinbasecommerce-invoicepay.click
+coincare.click
 coinexsi.click
 coinomize.click
 com-24.click

@@ -18069,6 +18069,7 @@
 ||coinbasebackup.click^$all
 ||webmail.coinbasecheckout.click^$all
 ||coinbasecommerce-invoicepay.click^$all
+||coincare.click^$all
 ||coinexsi.click^$all
 ||coinomize.click^$all
 ||com-24.click^$all
