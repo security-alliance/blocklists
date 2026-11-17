@@ -54508,6 +54508,7 @@ oskarkregar.dev
 1-voting.pages.dev
 1-voting-hookr.pages.dev
 1-voting-torchpad.pages.dev
+1-wlfi-allocations.pages.dev
 1-xstocks-allocation.pages.dev
 1-zamagov.pages.dev
 1-zamaprotocol.pages.dev
