@@ -70228,7 +70228,6 @@
 ||meta-threshold-6fx.pages.dev^$all
 ||metaa-wallet--ai.pages.dev^$all
 ||metafundsclaim.pages.dev^$all
-||metalx-lending.pages.dev^$all
 ||metam-ask-wal-let.pages.dev^$all
 ||metamask-8h5.pages.dev^$all
 ||metamask-chrome-extension-dev.pages.dev^$all
@@ -73823,6 +73822,7 @@
 ||yuxin-ledger.pages.dev^$all
 ||yuxin-ledger-staging.pages.dev^$all
 ||yz-ledger.pages.dev^$all
+||zam-votehub1.pages.dev^$all
 ||zama-vote.pages.dev^$all
 ||zama-votes.pages.dev^$all
 ||zama-voting.pages.dev^$all
@@ -98419,6 +98419,7 @@
 ||aavevote.pro^$all
 ||account-auths.pro^$all
 ||acrsos.pro^$all
+||aero-fi.pro^$all
 ||aero-upgrade.pro^$all
 ||aeroupgrade.pro^$all
 ||ai-follow.pro^$all
@@ -104971,6 +104972,7 @@
 ||accross.to^$all
 ||acrossut.to^$all
 ||aero-info.to^$all
+||aerodromefinance.to^$all
 ||app-notify.to^$all
 ||app-rabby.to^$all
 ||app-tronlink.to^$all
