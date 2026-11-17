@@ -9949,7 +9949,6 @@ base-bridge-site.vercel.app
 base-bridges.vercel.app
 base-checklist.vercel.app
 base-drop-azure.vercel.app
-base-mock-airdrop-allocation.vercel.app
 base-nc23lqn98-coinbase-vercel.vercel.app
 base-verify-onchain-demo.vercel.app
 baseservices.vercel.app
