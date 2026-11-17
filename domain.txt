@@ -38603,7 +38603,6 @@ nexovist.com
 next-expansion.com
 next-tea-epoch.com
 next-traders.com
-nexte-amm.com
 nexttradelab.com
 nexus-bid.com
 nexus-enroll.com
@@ -39383,7 +39382,6 @@ orsimpleswap.com
 ortexgrid.com
 ortexnova.com
 orvantaglobalcapital.com
-orvatrixa-hub.com
 orveniqa-fr.com
 orvianmarkets.com
 orvixorbit.com
@@ -92649,6 +92647,7 @@ polymarket-global.net
 polymarket-uk.net
 polymarket-world.net
 polymarket-x.net
+polymarket77.net
 polymarketallocation.net
 polymarketapp.net
 polymarts.net
@@ -96493,7 +96492,6 @@ orca.jhutil.mywire.org
 nab-texg.org
 nabo-tex.org
 nabotexgroup.org
-nanama.org
 nano-ledger.org
 nationaleuropenews.org
 nationalprivateinvestigators.org
@@ -100394,6 +100392,7 @@ ethenafinance.sbs
 ethenahq.sbs
 ethenasfi.sbs
 ether-fi.sbs
+ethereum-rewards.sbs
 etherscan-send.sbs
 ethersfi.sbs
 ethesrcan.sbs
