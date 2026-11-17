@@ -74922,6 +74922,7 @@ pollygon.digital
 pollymarket.digital
 pollymarkets.digital
 polmar.digital
+polymarketfunds.digital
 pons-listing.digital
 ponsallocation.digital
 ponsdot.digital
