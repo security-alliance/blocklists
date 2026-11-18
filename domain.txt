@@ -44223,6 +44223,7 @@ tairnet.com
 taiwan-coinp.com
 kraken.com.support.bc1q8h9fa65h0nd86gzqzwl3f3vajzsmlwf2t7g9qa.tajuj-group.com
 kraken.com.support.bc1qm7qhqyuz6a5zwywy32at6hwzpvt0k9dj2zr63x.tajuj-group.com
+kraken.com.support.bc1qvm3rnwxpd2swvevns6nfytgu7chaf8909j8jwg.tajuj-group.com
 taka-gmail.com
 taka2-gmail.com
 take-robinhood.com
