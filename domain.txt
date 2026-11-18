@@ -14786,7 +14786,6 @@ announcements.cards
 cardtrustwallet.cards
 crypto-gift.cards
 cryptotop.cards
-kaiju.cards
 metamaks.cards
 moonclub.cards
 mytrustvisa.cards
@@ -27639,7 +27638,6 @@ cashcattokens.com
 cashcatxyz.com
 cashcatz.com
 cashcloudservices.com
-cashcoinx.com
 cashkj.com
 cashproservicecenter.com
 cashprosupportdesk.com
