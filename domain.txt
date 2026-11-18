@@ -15582,6 +15582,7 @@ wisere.eu.cc
 xzxx.eu.cc
 eu5-zoom.cc
 eugamb.cc
+evmplanet.cc
 pc.ex1eevioaixcut2ep21.cc
 exbeast.cc
 m.exerecetpxiexi.cc
@@ -70325,6 +70326,7 @@ migrate-kinggrippy.pages.dev
 migrate-sheeshafinance.pages.dev
 migrates-singularity-ai.pages.dev
 migration-anyone-ator.pages.dev
+migration-auth.pages.dev
 migration-eth.pages.dev
 migration-playzap-en.pages.dev
 migration-robinhood.pages.dev
@@ -78575,6 +78577,7 @@ devwatchback.homes
 devwatchdeploy.homes
 devwatchstack.homes
 flarenetwork.homes
+foome.homes
 melaniatrump.homes
 micrsoftoflce.homes
 moonwellfi.homes
@@ -102026,6 +102029,7 @@ zebecnetwork.sbs
 superapp.zebecs.sbs
 zenkoprotocol.sbs
 zipcoin.sbs
+zkverify.sbs
 zoom-meeting.sbs
 zoom-sharingfiles.sbs
 zoom01webin.sbs
@@ -112589,6 +112593,7 @@ falconfinances-vote.xyz
 falconfinances-votes.xyz
 familiars-proposal.xyz
 fastuniswap.xyz
+faucetstrk.xyz
 fauci-sol.xyz
 faulttolerant-clearing.xyz
 fausetsol.xyz
@@ -113080,6 +113085,7 @@ fomo-pays.xyz
 fomo-trends.xyz
 fomorobinhoodreward.xyz
 fomosolcomplete.xyz
+foomefoundation.xyz
 forgotten-eth.xyz
 fortune-bdg.xyz
 forum-hyperfoundation.xyz
@@ -118881,6 +118887,7 @@ zipcoins-proposal.xyz
 zipscoin.xyz
 zipscoincash.xyz
 zjoee.xyz
+zksophon.xyz
 zkswapmigrate.xyz
 zksyncerayield.xyz
 zone-allocation.xyz
