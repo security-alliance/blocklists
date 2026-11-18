@@ -76453,7 +76453,6 @@ view-firelight.finance
 vote-apyx.finance
 vote-bonzo.finance
 vote-curve.finance
-vote-doppler.finance
 vote-ethena.finance
 vote-ether.finance
 vote-fables.finance
@@ -76721,7 +76720,6 @@ ilayerzero.foundation
 interest-flare.foundation
 interests-flare.foundation
 loopscale.foundation
-mainnet-flare.foundation
 multiplier-flare.foundation
 pool-flare.foundation
 proposal-edgex.foundation

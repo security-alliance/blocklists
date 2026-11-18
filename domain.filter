@@ -76453,7 +76453,6 @@
 ||vote-apyx.finance^$all
 ||vote-bonzo.finance^$all
 ||vote-curve.finance^$all
-||vote-doppler.finance^$all
 ||vote-ethena.finance^$all
 ||vote-ether.finance^$all
 ||vote-fables.finance^$all
@@ -76721,7 +76720,6 @@
 ||interest-flare.foundation^$all
 ||interests-flare.foundation^$all
 ||loopscale.foundation^$all
-||mainnet-flare.foundation^$all
 ||multiplier-flare.foundation^$all
 ||pool-flare.foundation^$all
 ||proposal-edgex.foundation^$all
