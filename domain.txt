@@ -14328,6 +14328,7 @@ gift-web.buzz
 giftcenter-web.buzz
 gifts-gifts.buzz
 gragonmoney-bonus.buzz
+housebets.buzz
 melaniascam.buzz
 memescancore.buzz
 memescandata.buzz
@@ -39172,6 +39173,7 @@ ondotokenization.com
 ondovoting.com
 one-listings.com
 one-rewards.com
+one-vv4108.com
 one1-gmail.com
 one2pay-home.com
 onechanpro.com
@@ -65806,6 +65808,7 @@ ar-ledger-web.pages.dev
 arbitrmnscan.pages.dev
 arbitrum-gas-faucet.pages.dev
 arbitrum-vote.pages.dev
+arbitrum-voting.pages.dev
 arc-allowance.pages.dev
 arc-badge-8ab.pages.dev
 arc-batch-4pm.pages.dev
