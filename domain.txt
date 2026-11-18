@@ -37179,7 +37179,6 @@ mainnet-dapps.com
 mainnet-elysiumeco.com
 mainnet-elysiumfnd.com
 mainnet-flaer.com
-mainnet-flare.com
 collab.mainnet-land.com
 mainnet-steakhouse.com
 mainnetdappfix.com
