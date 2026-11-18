@@ -32073,7 +32073,6 @@ trustedwallet.eu.com
 trustwallet.eu.com
 trzr.eu.com
 vote-plasma.eu.com
-xaman-wallet.eu.com
 microsoft.eu01hub.com
 eu01web.com
 eu03hub.com
@@ -80911,7 +80910,6 @@ firelightst.info
 firelightstge.info
 firelightstxrp.info
 fixnow-app.info
-flare-fassets.info
 flare-foundation.info
 flare-genesis.info
 flare-institution.info
@@ -104897,7 +104895,6 @@ ledger.com.tn
 1inch-info.to
 aave-app.to
 aboutfixedfloat.to
-accross.to
 acrossut.to
 aero-info.to
 aerodromefinance.to
