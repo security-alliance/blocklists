@@ -27961,7 +27961,6 @@ chartchampionsleak.com
 chartchampz.com
 charteredcryptotrading.com
 chartleaker.com
-charts-firelight.com
 chasecoinbase.com
 chat-brave.com
 chat-ledger.com
@@ -117077,7 +117076,6 @@ standbynear.xyz
 starcomplete.xyz
 stargate-finance.xyz
 stargatefix.xyz
-starknet-allocation.xyz
 starknet-allocations.xyz
 starknet-distribution.xyz
 starknet-faucet.xyz
