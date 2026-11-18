@@ -18275,7 +18275,6 @@ hyper-exchange.click
 hyperliquid-eth.click
 hyperliquid-exchange.click
 hyperliquid-v3.click
-hyperliuqid.click
 hypermission200.click
 icloudrelock.click
 id-verification-s3.click
@@ -77407,7 +77406,6 @@ poly-preregister.fun
 polymarketasia.fun
 polymarketflip.fun
 polymarketjs.fun
-ponkverse.fun
 app.ponsecosystem.fun
 poogoo.fun
 poopcash.fun
@@ -77465,7 +77463,6 @@ pump-joinstream.fun
 pump-strcam.fun
 pump-stream-live.fun
 pump-streamcast.fun
-pump-streamchat.fun
 pump-streamchats.fun
 pump-streamfor.fun
 pump-streamhub.fun
@@ -84034,7 +84031,6 @@ ivariational.io
 jaimin.io
 jaxwallet.io
 jaxxlibertywallet.io
-jtx-trade.io
 jumperbridge.io
 jup-rewards.io
 jupcitizen.io
@@ -90312,7 +90308,6 @@ poseidon-fcj.celeria.me
 centresinfo.me
 chainlist.me
 charlieonsol.me
-claimhub.me
 coin-casino.me
 coinbasedefi.me
 coinme.me
