@@ -21212,6 +21212,7 @@ exoduswallet.co
 femya.co
 fi-connections.co
 finance90-officiis56.co
+finances-skyeco.co
 fintevex.co
 firelight-finance.co
 firelightfi.co
@@ -72799,7 +72800,6 @@ trezr-io-sart-wall.pages.dev
 trezr-io-sute.pages.dev
 trezr-startt.pages.dev
 trezr-suiet.pages.dev
-trezr-suit.pages.dev
 trezr-suit-info.pages.dev
 trezr-suite-lern.pages.dev
 trezr-sute-hlp.pages.dev
@@ -113637,6 +113637,7 @@ hyperfoundationwindow.xyz
 hyperfoundatlons.xyz
 hyperfuondation.xyz
 hyperiiquid-claims.xyz
+hyperlend-allocation.xyz
 app.hyperlfquid.xyz
 hyperlighter.xyz
 hyperliquid-claims.xyz
@@ -113971,6 +113972,7 @@ kast-login.xyz
 kastcard.xyz
 kastcards.xyz
 kastlogincoin.xyz
+katana-finance.xyz
 katana-season1.xyz
 katanafdn.xyz
 vote.keeta-allocations.xyz
