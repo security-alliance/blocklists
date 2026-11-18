@@ -29168,6 +29168,7 @@ colectorcrypt.com
 colis-ups.com
 coliseo-digital.com
 collab-land-link.com
+collab-land-query.com
 collab-land-solid.com
 collab-land-unlock.com
 collab-moonshot.com
@@ -38031,7 +38032,6 @@ monad-voting.com
 monadapes.com
 monadbase.com
 monadfaucet.com
-monadvisian.com
 monal-wealth.com
 monarchwealthbrokers.com
 moncompte-okx.com
@@ -92698,7 +92698,6 @@ pmpredict.net
 pmsignals.net
 pn5rig.net
 pnconlinebanking.net
-pocketmarket.net
 points-variational.net
 polaris-vip.net
 polexbot.net
@@ -113389,6 +113388,7 @@ governance-hyperlendfinance.xyz
 governance-hyperlink.xyz
 governance-hyperliquidpolicy.xyz
 governance-hyperunit.xyz
+governance-inkonchain.xyz
 governance-jitonetwork.xyz
 governance-jtx.xyz
 governance-jumper.xyz
@@ -113510,6 +113510,7 @@ gtniobfhaijvla.xyz
 guarded-shield-router.xyz
 arc-console.gudman.xyz
 guildauth2.xyz
+guildco.xyz
 gunicorn.xyz
 gynha.xyz
 gyroscope-protocol.xyz
