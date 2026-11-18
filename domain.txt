@@ -76472,7 +76472,6 @@ secure-moonwell.finance
 security-moonwell.finance
 security-tectonic.finance
 signup-ondo.finance
-silstice.finance
 simbiosis.finance
 skyusd.finance
 snap-hyperlend.finance
