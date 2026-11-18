@@ -76798,7 +76798,6 @@ flare-fassets.foundation
 fuzzyxrp.foundation
 hylo.foundation
 ilayerzero.foundation
-interest-flare.foundation
 loopscale.foundation
 multiplier-flare.foundation
 pool-flare.foundation
