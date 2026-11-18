@@ -11085,6 +11085,7 @@ seedify-fund-burn.vercel.app
 send-bep20surge.vercel.app
 send-clickdt.vercel.app
 send-secure-trustwallet-usdt-bip20.vercel.app
+send-usdt-12.vercel.app
 send-usdt-45.vercel.app
 sentrii-research.vercel.app
 server-azure-tau.vercel.app

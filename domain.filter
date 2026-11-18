@@ -11085,6 +11085,7 @@
 ||send-bep20surge.vercel.app^$all
 ||send-clickdt.vercel.app^$all
 ||send-secure-trustwallet-usdt-bip20.vercel.app^$all
+||send-usdt-12.vercel.app^$all
 ||send-usdt-45.vercel.app^$all
 ||sentrii-research.vercel.app^$all
 ||server-azure-tau.vercel.app^$all
