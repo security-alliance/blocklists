@@ -106242,6 +106242,7 @@ governance-treadfi.top
 governance-umiafinance.top
 governance-wardenprotocol.top
 governance-yieldbasis.top
+governance-zama.top
 graniteassets.top
 grove-app.top
 grvt.top
