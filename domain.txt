@@ -47935,6 +47935,7 @@ wivoth-trading.com
 asterdex1.wixsite.com
 auth-rabbyapps.wixsite.com
 ballcoachie7.wixsite.com
+base-extensions-en.wixsite.com
 begin-rabbyext-apps.wixsite.com
 begin-trustapps.wixsite.com
 begin-trustcdn.wixsite.com
@@ -47972,6 +47973,7 @@ trezorsupportio.wixsite.com
 trrezorstartio.wixsite.com
 upheld-ssoen.wixsite.com
 view-jaxxlibretycdn.wixsite.com
+web-extension-base.wixsite.com
 webapps-trustt.wixsite.com
 webs-base-extension.wixsite.com
 aapcanetconscdn.wixstudio.com
