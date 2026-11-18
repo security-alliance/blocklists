@@ -35080,7 +35080,6 @@ hyperfoundation-checker.com
 hyperfoundation-eligibility.com
 hyperfoundation-holders.com
 hyperfoundation-secure.com
-hyperiiquid.com
 hyperiiquid-claims.com
 hyperlaneapp.com
 hyperlaneinbridge.com
@@ -112265,7 +112264,6 @@ enter-citrea.xyz
 enter-concrete.xyz
 enter-curvance.xyz
 enter-destranetwork.xyz
-enter-ena.xyz
 enter-etherfi.xyz
 enter-firelightfi.xyz
 enter-flarenetworks.xyz
