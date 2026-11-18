@@ -103626,6 +103626,7 @@ pro-coinbase.blogspot.sn
 trustwalletcustomerservicephonenumber.blogspot.sn
 kucoin.sn
 apps-metamask-extensions.apper.so
+apps-metamaskcdn.apper.so
 coinsquar-sso.apper.so
 en-exo-duss.apper.so
 en-exodus.apper.so
