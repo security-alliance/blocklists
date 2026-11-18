@@ -10834,7 +10834,6 @@ openseaclicks2k.vercel.app
 openseaclicks3k.vercel.app
 openseaclicks4k.vercel.app
 openseaclicks5k.vercel.app
-openseaclicks6k.vercel.app
 openseaclicks8k.vercel.app
 openseaclicks9k.vercel.app
 openseafree-mint37.vercel.app
