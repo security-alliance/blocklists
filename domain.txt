@@ -8782,6 +8782,7 @@ tge-jumper.app
 tge-rabby.app
 tge-solsticefinance.app
 tge-trade.app
+tgpolymarket.app
 thebitcoinbulls.app
 theo-claim.app
 thewhitebull.app
