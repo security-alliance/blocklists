@@ -669,6 +669,7 @@ https://sites.google.com/view/eng-exods--wlt/home
 https://sites.google.com/view/eng-exodu/home
 https://sites.google.com/view/eng-exodus-ext/home
 https://sites.google.com/view/eng-metamask-faqs/home
+https://sites.google.com/view/eng-metamask-web/home
 https://sites.google.com/view/eng-metamskcdn/home
 https://sites.google.com/view/eng-start/home
 https://sites.google.com/view/eng-us-base-extension/home
@@ -1418,6 +1419,7 @@ https://sites.google.com/view/metamask-web-apps/home
 https://sites.google.com/view/metamask-web-begin/home
 https://sites.google.com/view/metamask-web-en-us/home
 https://sites.google.com/view/metamask-web-nov/home
+https://sites.google.com/view/metamask-web-xtn/home
 https://sites.google.com/view/metamask-webapp/home
 https://sites.google.com/view/metamask-webs/home
 https://sites.google.com/view/metamask-wixst-/home
