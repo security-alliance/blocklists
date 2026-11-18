@@ -37179,7 +37179,6 @@
 ||mainnet-dapps.com^$all
 ||mainnet-elysiumeco.com^$all
 ||mainnet-elysiumfnd.com^$all
-||mainnet-flaer.com^$all
 ||collab.mainnet-land.com^$all
 ||mainnet-steakhouse.com^$all
 ||mainnetdappfix.com^$all
@@ -63897,6 +63896,7 @@
 ||69-gov-hyperlend.pages.dev^$all
 ||69-governance-curvefinance.pages.dev^$all
 ||69-governance-jumperapp.pages.dev^$all
+||69-governance-kinetiq.pages.dev^$all
 ||69-governance-orbio.pages.dev^$all
 ||69-governance-venice.pages.dev^$all
 ||69-hub-treadeco.pages.dev^$all

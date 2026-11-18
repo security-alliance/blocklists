@@ -37179,7 +37179,6 @@ mainnet-access.com
 mainnet-dapps.com
 mainnet-elysiumeco.com
 mainnet-elysiumfnd.com
-mainnet-flaer.com
 collab.mainnet-land.com
 mainnet-steakhouse.com
 mainnetdappfix.com
@@ -63897,6 +63896,7 @@ pr-7831.1inch-io-app.pages.dev
 69-gov-hyperlend.pages.dev
 69-governance-curvefinance.pages.dev
 69-governance-jumperapp.pages.dev
+69-governance-kinetiq.pages.dev
 69-governance-orbio.pages.dev
 69-governance-venice.pages.dev
 69-hub-treadeco.pages.dev
