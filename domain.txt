@@ -21008,7 +21008,6 @@ babyswap.co
 badrp.co
 www.bairdrop.co
 balkanexch.co
-basedsai.co
 bdagchain.co
 beaconlayer.co
 benqi.co
@@ -21207,7 +21206,6 @@ ellevesta.co
 ellipalwallet.co
 en-lobstr.co
 enter-thorchain.co
-erebusbuild.co
 esunchainx.co
 ethcasino.co
 ethena-reward.co
@@ -21382,7 +21380,6 @@ payboxsh.co
 pciymarket.co
 pendle-finance.co
 pepurelaunch.co
-perpolator.co
 phantomqenis.co
 pikashow-apk.co
 pikashowapks.co
@@ -21398,7 +21395,6 @@ polytmarket.co
 portal-monad.co
 portal-neutrl.co
 promo-company.co
-proposal-hyperiiquid.co
 proposal-hyperliquid.co
 proposal-pendle.co
 proposal-virtuals.co
@@ -110736,7 +110732,6 @@ app-cashcat.xyz
 app-celo.xyz
 app-cheesecakeswap-flnance.xyz
 app-claiming.xyz
-app-claudersfun.xyz
 app-coldcard.xyz
 app-concrete.xyz
 app-dexcheck.xyz
@@ -115234,7 +115229,6 @@ portal-chiliz.xyz
 portal-citrea.xyz
 portal-dopplenfinance.xyz
 portal-doppler.xyz
-portal-equium.xyz
 portal-ethena.xyz
 portal-etherfi.xyz
 portal-fablesfi.xyz
@@ -115263,7 +115257,6 @@ portal-netnetcapital.xyz
 portal-ondofinance.xyz
 portal-ore.xyz
 portal-otc.xyz
-portal-papertrade.xyz
 portal-polydata.xyz
 governance.portal-standardreserve.xyz
 portal-standx.xyz
