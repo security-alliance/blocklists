@@ -12036,6 +12036,7 @@ window-xaman.app
 window-xarman.app
 winner-hypernova.app
 wirexdesktop.app
+wirexltd.app
 wlfi-claim.app
 wlfi-distribution.app
 worid.app
@@ -95223,6 +95224,7 @@ worldwse.online
 wvww-ledgar-app.online
 wvww-ledger-app.online
 www-trezor-io.online
+wwwirex.online
 x-clarification.online
 x-resolution.online
 x-twitter.online
