@@ -32777,7 +32777,6 @@ flarechainline.com
 flareclaimnetworks.com
 flareclaimtoken.com
 flaredao.com
-flaredatabaseserver.com
 flaredisburse.com
 flarednetworks.com
 ftp.flaredrop-network.com
