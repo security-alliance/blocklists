@@ -52659,7 +52659,6 @@ xrpl-hub.com
 xrpl-live.com
 xrpl-official.com
 xrpl-payout.com
-xrpl-phnix.com
 xrpl-portal.com
 xrpl-receive.com
 xrpl-rewards-hub.com
@@ -114296,7 +114295,6 @@ lidofinance-enter.xyz
 lidofinance-register.xyz
 lidofinance-registrations.xyz
 lidomigrate.xyz
-lienfin.xyz
 lienlfi.xyz
 lightchainmaiinnet.xyz
 lightchainmainnet.xyz
