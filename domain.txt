@@ -76269,7 +76269,6 @@ pontem.finance
 portal-aerodrome.finance
 portal-ethena.finance
 portal-mainstreet.finance
-portal-solstice.finance
 portal-theindex.finance
 portals-ether.finance
 premarket-ondo.finance
