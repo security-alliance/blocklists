@@ -56673,6 +56673,7 @@ oskarkregar.dev
 16-reallocate-flare.pages.dev
 16-reallocation-concrete.pages.dev
 16-register-elysium.pages.dev
+16-rewards-firelightfi.pages.dev
 16-saturncredit.pages.dev
 16-slippyclub.pages.dev
 16-stonkbroker-clutchmarkets.pages.dev
@@ -64230,6 +64231,7 @@ pr-7831.1inch-io-app.pages.dev
 71-gov-hyperlend.pages.dev
 71-governance-curvefinance.pages.dev
 71-governance-jumperapp.pages.dev
+71-governance-kinetiq.pages.dev
 71-governance-orbio.pages.dev
 71-governance-venice.pages.dev
 71-hub-treadeco.pages.dev
@@ -114609,7 +114611,6 @@ moerevoke.xyz
 molinfx.xyz
 mollyonmonad.xyz
 mon-claims.xyz
-mon-participation.xyz
 mon-rewards.xyz
 monad-allocation-proposal.xyz
 monad-apr.xyz

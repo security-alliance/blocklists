@@ -56673,6 +56673,7 @@
 ||16-reallocate-flare.pages.dev^$all
 ||16-reallocation-concrete.pages.dev^$all
 ||16-register-elysium.pages.dev^$all
+||16-rewards-firelightfi.pages.dev^$all
 ||16-saturncredit.pages.dev^$all
 ||16-slippyclub.pages.dev^$all
 ||16-stonkbroker-clutchmarkets.pages.dev^$all
@@ -64230,6 +64231,7 @@
 ||71-gov-hyperlend.pages.dev^$all
 ||71-governance-curvefinance.pages.dev^$all
 ||71-governance-jumperapp.pages.dev^$all
+||71-governance-kinetiq.pages.dev^$all
 ||71-governance-orbio.pages.dev^$all
 ||71-governance-venice.pages.dev^$all
 ||71-hub-treadeco.pages.dev^$all
@@ -114609,7 +114611,6 @@
 ||molinfx.xyz^$all
 ||mollyonmonad.xyz^$all
 ||mon-claims.xyz^$all
-||mon-participation.xyz^$all
 ||mon-rewards.xyz^$all
 ||monad-allocation-proposal.xyz^$all
 ||monad-apr.xyz^$all
