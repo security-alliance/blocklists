@@ -11574,7 +11574,6 @@ uniswap-protocol-dex-relay-v367.vercel.app
 uniswap-protocol-dex-relay-v79.vercel.app
 uniswap-rfki1rgbc-leviethung2403.vercel.app
 uniswap-ritesh-15.vercel.app
-uniswap-swarm-web.vercel.app
 uniswap-ui-fork-98orlk3jo-fntokens-gmailcom.vercel.app
 uniswap-v1-clone-ruby.vercel.app
 uniswap-v2-clone-sanjay-sugunan.vercel.app
