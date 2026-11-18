@@ -2050,10 +2050,8 @@
 ||1inch-dapp-router-v64.netlify.app^$all
 ||1inch-dapp-router-v88.netlify.app^$all
 ||1inchnft.netlify.app^$all
-||6a03d38141d9a000080d3f2d--allora-claimdrop.netlify.app^$all
 ||6a041fef9c05790008ec93fc--allora-claimdrop.netlify.app^$all
 ||6a0420b529859d0008c654e7--allora-claimdrop.netlify.app^$all
-||6a04ba78176dc00008c141b6--allora-claimdrop.netlify.app^$all
 ||6a04ba847309bd0008e016b3--allora-claimdrop.netlify.app^$all
 ||6a13ba5f9f268a0008723533--allora-claimdrop.netlify.app^$all
 ||6a16510495bb4800087add48--allora-claimdrop.netlify.app^$all
@@ -52000,6 +51998,7 @@
 ||workspace-activitylogskraken.com^$all
 ||workspace-docs.com^$all
 ||workspacegooglemeet.com^$all
+||workwithkraken.com^$all
 ||world-operator.com^$all
 ||world-operators.com^$all
 ||worldable.com^$all
