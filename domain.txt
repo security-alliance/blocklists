@@ -64686,6 +64686,7 @@ pr-7831.1inch-io-app.pages.dev
 8-proposal-argus-epf.pages.dev
 8-proposal-computersrh.pages.dev
 8-proposal-derive.pages.dev
+8-proposal-elysium.pages.dev
 8-proposal-ethos.pages.dev
 8-proposal-extendedexchange.pages.dev
 8-proposal-fablesfi.pages.dev
