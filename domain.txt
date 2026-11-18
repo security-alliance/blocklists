@@ -114080,6 +114080,7 @@ kinetiq-foundation-rewards.xyz
 kinetiq-foundation-vote.xyz
 kinetiq-foundation-votes.xyz
 kinetiq-foundations.xyz
+kinetiq-genesis2.xyz
 kinetiq-govern.xyz
 kinetiq-governance.xyz
 kinetiq-governances.xyz
