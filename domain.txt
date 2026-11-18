@@ -76805,7 +76805,6 @@ defi-flare.foundation
 desk-xrpl.foundation
 docupdate.foundation
 dominionmarket.foundation
-flare-fassets.foundation
 fuzzyxrp.foundation
 hylo.foundation
 ilayerzero.foundation
