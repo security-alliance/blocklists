@@ -76379,7 +76379,6 @@ saltswap.finance
 saucerswapdesktop.finance
 scroil.finance
 season-firelight.finance
-season-solstice.finance
 season1-firelight.finance
 season7-ethena.finance
 seasons2-firelight.finance
