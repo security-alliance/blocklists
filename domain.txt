@@ -111786,7 +111786,6 @@ connect-echoprotocol.xyz
 connect-fables.xyz
 connect-fablesfi.xyz
 connect-flareecosystem.xyz
-connect-flarenetworks.xyz
 connect-kelpdao.xyz
 connect-mellowprotocol.xyz
 connect-moonbirds.xyz
