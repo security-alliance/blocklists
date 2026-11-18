@@ -38351,6 +38351,7 @@ trezohdwllaet.mystrikingly.com
 trezoriostarts.mystrikingly.com
 trezorx--wallet-docs.mystrikingly.com
 trezrr-suite.mystrikingly.com
+trustwalletapp.mystrikingly.com
 mytoolwallet.com
 mytrustpaycard.com
 solana-spin.myusdtreward.com
@@ -94986,7 +94987,7 @@ trustwallet-codegen.online
 trustwallet-help.online
 trustwallet-mobile.online
 trustwallet-org.online
-autoconfig.trustwallet-secure.online
+trustwallet-secure.online
 trustwallet-security.online
 trustwallet-suport.online
 trustwallet-support.online
