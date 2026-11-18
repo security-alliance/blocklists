@@ -21330,6 +21330,7 @@ metawin.co
 mexcproe.co
 microsaft.co
 microsoft-notification.co
+microsoft-services.co
 microsofteams.co
 microssystems.co
 microstream.co
@@ -42910,6 +42911,7 @@ serviceactivation-google.com
 servicefitzer.com
 servicenow-desk.com
 servicioslegalesjf.com
+servlce-helpdesk.com
 servugamb.com
 sessclone.com
 session-support-live.com
@@ -83970,6 +83972,7 @@ terra-station0.github.io
 terra-stations.github.io
 tezbox-de.github.io
 tezetyrweter-ops.github.io
+theajack.github.io
 tornadocash-v2.github.io
 tr0nscan.github.io
 traderibo123.github.io
@@ -88217,6 +88220,7 @@ join-flarefoundation.live
 join-zoom-now.live
 joincall.live
 joingooglemeet.live
+joinmeetiing.live
 joinzoom.live
 jtx-trade.live
 jumper-sale.live
@@ -91093,6 +91097,7 @@ alpenburg.net
 alpha-pay.net
 trustwallet.alphafaq.net
 alt-layer.net
+altlayer.net
 altura-trade.net
 moonpay-com.amailroute.net
 ambientfinance.net
@@ -92176,6 +92181,7 @@ gasrefund.net
 gatherix.net
 gathero.net
 raydium.gb.net
+gearbox-finance.net
 geminitrading.net
 gemxglobal.net
 genboxx.net
@@ -104680,6 +104686,7 @@ support-google.team
 t8nv.team
 tamatonga.team
 teams-meet.team
+teams-meetings.team
 termmaxfi.team
 tfmq.team
 tikchain.team
@@ -113074,6 +113081,7 @@ gain-xrpl.xyz
 gainfirelight.xyz
 gambrixx.xyz
 garden-boss-pen.xyz
+gaslessbastion-link.xyz
 gate-papertrade.xyz
 gatebtc-xau.xyz
 gatesolanaphantom.xyz
