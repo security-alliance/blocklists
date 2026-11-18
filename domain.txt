@@ -741,6 +741,7 @@ anyswap.app
 apeonfone.app
 api-ox.app
 apiclouds.app
+cake.apinets.app
 apissl.app
 coinbase-buy-crypto-stocks-android.sv.apkdownloader.app
 app-ledgar.app
