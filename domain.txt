@@ -118167,7 +118167,6 @@ votes-etherfinances.xyz
 votes-fables.xyz
 votes-falconfinance.xyz
 votes-falconfinances.xyz
-votes-firelight.xyz
 votes-firelightfi.xyz
 votes-firelightfinance.xyz
 votes-flare.xyz
