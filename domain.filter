@@ -1050,7 +1050,6 @@
 ||en-upheld-io.created.app^$all
 ||en-upheld-us.created.app^$all
 ||en-uphold.created.app^$all
-||en-uphold-auth.created.app^$all
 ||en-uphold-log.created.app^$all
 ||en-uphold-login.created.app^$all
 ||en-upholdapp.created.app^$all
@@ -1066,7 +1065,6 @@
 ||eng-uphold-cdn.created.app^$all
 ||eng-uphold-sso.created.app^$all
 ||eng-upholdd.created.app^$all
-||eng-uphuld.created.app^$all
 ||eng-uphulld-webs.created.app^$all
 ||engdesktop.created.app^$all
 ||enguphold-cdn.created.app^$all
@@ -1156,7 +1154,6 @@
 ||support-uphold.created.app^$all
 ||support-uphold-cdn.created.app^$all
 ||support-uphold-web.created.app^$all
-||support-uphuld-io.created.app^$all
 ||t-uphols-cdn.created.app^$all
 ||teacl-uphild-web.created.app^$all
 ||trust-org.created.app^$all

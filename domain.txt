@@ -1050,7 +1050,6 @@ en-started.created.app
 en-upheld-io.created.app
 en-upheld-us.created.app
 en-uphold.created.app
-en-uphold-auth.created.app
 en-uphold-log.created.app
 en-uphold-login.created.app
 en-upholdapp.created.app
@@ -1066,7 +1065,6 @@ eng-uphold.created.app
 eng-uphold-cdn.created.app
 eng-uphold-sso.created.app
 eng-upholdd.created.app
-eng-uphuld.created.app
 eng-uphulld-webs.created.app
 engdesktop.created.app
 enguphold-cdn.created.app
@@ -1156,7 +1154,6 @@ support-uphoeld.created.app
 support-uphold.created.app
 support-uphold-cdn.created.app
 support-uphold-web.created.app
-support-uphuld-io.created.app
 t-uphols-cdn.created.app
 teacl-uphild-web.created.app
 trust-org.created.app
