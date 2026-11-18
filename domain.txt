@@ -117365,7 +117365,6 @@ tge-dreamcash.xyz
 tge-firelight.xyz
 tge-hyperfoundation.xyz
 tge-jumper.xyz
-tge-solstice.xyz
 tge-spriteood.xyz
 tge-trade.xyz
 tgehyperfoundation.xyz
