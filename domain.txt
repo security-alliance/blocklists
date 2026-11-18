@@ -1836,6 +1836,7 @@ kinetiqshareholder.app
 kinetiqshareholders.app
 kinetiqvote.app
 kinetiqvotes.app
+kinetq.app
 kintaras.app
 klite.app
 kntq-staking.app
