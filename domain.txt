@@ -12099,7 +12099,6 @@ xrpdrops.app
 xrpfi-flare.app
 xrpfi-flarenetwork.app
 xrpfi-hub-flare.app
-xrpfi-xaman.app
 xrpl-allocation.app
 xrpl-claim.app
 xrplabs.app
