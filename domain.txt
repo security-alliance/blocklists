@@ -33422,7 +33422,6 @@ get-changenow.com
 get-cleanclaims.com
 get-cricfytv.com
 get-driverfix.com
-get-ethenafi.com
 get-flarenetwork.com
 get-hyperfoundation.com
 get-jailedfoundation.com
@@ -38293,6 +38292,7 @@ mynmonero.com
 myoimpex.com
 myonetheresa.com
 myonstream.com
+mypolymarketbot.com
 mypolymarketpass.com
 myprepaidscenter.com
 user.myprimeorbit.com
@@ -76737,7 +76737,6 @@ flare-fassets.foundation
 fuzzyxrp.foundation
 hylo.foundation
 ilayerzero.foundation
-interest-firelight.foundation
 interest-flare.foundation
 interests-flare.foundation
 loopscale.foundation
@@ -76756,7 +76755,6 @@ treasury-pool-firelight.foundation
 treasury-pool-flare.foundation
 treasury-pools-firelight.foundation
 treasury-pools-flare.foundation
-treasurys-flare.foundation
 treasurys-pool-firelight.foundation
 treasurys-pool-flare.foundation
 treasurys-pools-flare.foundation
