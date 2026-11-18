@@ -35513,7 +35513,6 @@ invitku.com
 invoice-base.com
 invoice-trustwallet.com
 invoices-binance.com
-walletconnect.inwebprotocols.com
 inwesteo-pl.com
 io-access.com
 io-access-app.com
