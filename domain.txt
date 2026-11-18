@@ -26885,7 +26885,8 @@ blockstreaminsured.com
 blockstridecapital.com
 blockvestix.com
 blockwisepod.com
-blocxhuba.com
+m.blocxhuba.com
+www.blocxhuba.com
 blocxhubc.com
 blocxhubh.com
 blocxhubo.com
@@ -30354,7 +30355,6 @@ cryptocoinfix.com
 cryptocomplianttrade.com
 cryptocreditra.com
 cryptocscex.com
-cryptocsscud.com
 opensea.cryptodeficonnect.com
 cryptodefilufeiq.com
 cryptoeprime.com
@@ -47353,7 +47353,6 @@ waitlist-registration.com
 wakasa-tsuribiyori.com
 walawear.com
 walk-whatsapp.com
-wallatbtca.com
 wallbox-charging.com
 wallet-account2.com
 wallet-airdrops.com
@@ -93412,7 +93411,6 @@ xrp-bonus.net
 xrp-gifts.net
 xrpairdrop.net
 xrpevent26.net
-xrpfi-flares.net
 xrpl-claim.net
 xrpl-promotion.net
 xrplarmytoken.net
