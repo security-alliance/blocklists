@@ -80265,7 +80265,6 @@ aerodrome.immo
 hausvermietung.immo
 0x13.in
 05meet.am.in
-adteam.am.in
 cap-cut.am.in
 coinbase.am.in
 cricfytv.am.in
@@ -80348,7 +80347,6 @@ docsend.in
 dogechain.in
 hdstreamz.dr.in
 orca-uat.enrichmoney.in
-eu06.in
 events-telco.in
 filmizila.in
 fndmy-apple.in
@@ -88352,7 +88350,6 @@ microsoftonline-outlook.live
 microsoftonline-sharepoint-com.live
 microsoftsteam.live
 microsoftsteams.live
-microssoft.live
 microteam.live
 microteams.live
 microtech0ffice.live
@@ -90231,7 +90228,6 @@ yak-earn.luxe
 yieldnest.luxe
 yieldnest-d2.luxe
 zkholdem.luxe
-team.asn.lv
 coinbase.lv
 polymarket.com.lv
 rainbet.com.lv
@@ -117338,7 +117334,6 @@ tea-app.xyz
 tea-claim.xyz
 teamisphere.xyz
 teamliuas.xyz
-teamms-com.xyz
 teams-meeting.xyz
 teams-room.xyz
 teamslink.xyz
