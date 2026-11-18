@@ -75437,7 +75437,6 @@ moonwelldefi.events
 morpholabs.events
 morphos.events
 nado.events
-nativemarkets.events
 netnetcapital.events
 nexuslabs.events
 normiesart.events
@@ -91545,7 +91544,6 @@ zb7567utmas4354gqmvrdmwhrpkknyr4t5wtdig4lyewj6gdovjq.arweave.net
 zev45bx64wradlgey7cfwhgn6ruuzmh64ozebxqb5rferkezqlra.arweave.net
 zhh5hgtele4fx3bgimxjkr7lxwia5o7pqc3xiybqrjlvtyf76vra.arweave.net
 zipljkeuvz3rqwyxt24sze6tpbwkyaaznkd2hj5uu5kfalwro4iq.arweave.net
-zkmfwwmo5y2c3orlgdce53bzujru4wpvt6hvkciavahhoy6y5k7q.arweave.net
 zojno3pjb5sonben2g2bsxli4sfrowos3xjt4kt4y44ae7bdwwtq.arweave.net
 zome7yo4mwc6zbx4jqbgi4thz6zw5kdz5c3phb4boprhi5slksva.arweave.net
 zqgngykl6zhed7uqbrzz32stxm2sibbmy5seuuxwualxhxq6eafq.arweave.net
@@ -118283,7 +118281,6 @@ voting-chainlink.xyz
 voting-edelfinance.xyz
 voting-ethenafi.xyz
 voting-fables.xyz
-voting-firelight.xyz
 voting-firelightfoundation.xyz
 voting-flareecosystem.xyz
 voting-flarefdn.xyz
