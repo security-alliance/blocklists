@@ -67516,7 +67516,6 @@ exodus-wallet-uso.pages.dev
 exodus-walletextension.pages.dev
 exodus-wallets-en.pages.dev
 exodus-walletweb.pages.dev
-exodus-wallut.pages.dev
 exodus-we3-wallet.pages.dev
 exodus-web-wlt.pages.dev
 exodus-web3-learn.pages.dev
