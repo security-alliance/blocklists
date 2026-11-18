@@ -10072,7 +10072,6 @@
 ||coinbase-supportdesk.vercel.app^$all
 ||coinbase-team-support.vercel.app^$all
 ||coinbase-uk-login.vercel.app^$all
-||coinbase-wallet-sdk-testapp-g8sa-git-341642-dargon789s-projects.vercel.app^$all
 ||coinbasechat.vercel.app^$all
 ||coinbaseticket.vercel.app^$all
 ||coinbasevault.vercel.app^$all
@@ -75764,7 +75763,6 @@
 ||4ffb850edb35.dynamic.coinbase.exposed^$all
 ||git.coinbase.exposed^$all
 ||tokenmanager.coinbase.exposed^$all
-||wallet.coinbase.exposed^$all
 ||polymarket.exposed^$all
 ||rainbet.express^$all
 ||polymarket.fail^$all

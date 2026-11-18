@@ -10072,7 +10072,6 @@ coinbase-support-portal.vercel.app
 coinbase-supportdesk.vercel.app
 coinbase-team-support.vercel.app
 coinbase-uk-login.vercel.app
-coinbase-wallet-sdk-testapp-g8sa-git-341642-dargon789s-projects.vercel.app
 coinbasechat.vercel.app
 coinbaseticket.vercel.app
 coinbasevault.vercel.app
@@ -75764,7 +75763,6 @@ trustwallet.expert
 4ffb850edb35.dynamic.coinbase.exposed
 git.coinbase.exposed
 tokenmanager.coinbase.exposed
-wallet.coinbase.exposed
 polymarket.exposed
 rainbet.express
 polymarket.fail
