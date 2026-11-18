@@ -67534,7 +67534,6 @@ exoduss-wallaet.pages.dev
 exoduss-wallet-io.pages.dev
 exoduss-web3-waliet.pages.dev
 exodust-wallet-home.pages.dev
-exoduswallet-extension.pages.dev
 exodusweb-3wallet.pages.dev
 exodusweb-uss.pages.dev
 exodusweb3-enter.pages.dev
