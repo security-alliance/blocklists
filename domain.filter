@@ -93352,7 +93352,6 @@
 ||bonkcoin.network^$all
 ||bridge-avax.network^$all
 ||cantone.network^$all
-||cantons.network^$all
 ||cases-celsius.network^$all
 ||cclcore.network^$all
 ||cclportal.network^$all
@@ -113481,7 +113480,6 @@
 ||hyloeligibility.xyz^$all
 ||hylogovernances.xyz^$all
 ||hype-allocations.xyz^$all
-||hype-canton.xyz^$all
 ||hype-eligibility.xyz^$all
 ||hype-governance.xyz^$all
 ||hype-hyperfoundation.xyz^$all

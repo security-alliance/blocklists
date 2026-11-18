@@ -93352,7 +93352,6 @@ bluckdag.network
 bonkcoin.network
 bridge-avax.network
 cantone.network
-cantons.network
 cases-celsius.network
 cclcore.network
 cclportal.network
@@ -113481,7 +113480,6 @@ hylodashboards.xyz
 hyloeligibility.xyz
 hylogovernances.xyz
 hype-allocations.xyz
-hype-canton.xyz
 hype-eligibility.xyz
 hype-governance.xyz
 hype-hyperfoundation.xyz
