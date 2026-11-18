@@ -24619,7 +24619,6 @@ accountsecurity-microsoft.com
 accountservicesgoogle.com
 accountsv3-gmail.com
 accountsz-verfy.com
-accountupdate-x.com
 accountverify-immediateaction.com
 accountverify-notify.com
 accountverify-x.com
