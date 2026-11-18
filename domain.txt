@@ -64112,6 +64112,7 @@ pr-7831.1inch-io-app.pages.dev
 7-proposal-ascendlaunch.pages.dev
 7-proposal-computersrh.pages.dev
 7-proposal-derive.pages.dev
+7-proposal-elysium.pages.dev
 7-proposal-ethos.pages.dev
 7-proposal-extendedexchange.pages.dev
 7-proposal-fablesfi.pages.dev
