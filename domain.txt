@@ -44618,7 +44618,6 @@ theaaveportal2026.com
 theaerodr-me.com
 securedalchemyfiles.thealchemyadministration.com
 theartofgrace-htx.com
-zfyxpjwawzlgwxjthzkzofyvmwfsol.kiwahhot.theartopen.com
 theatomicwallet.com
 thebase-portal2026.com
 thebeckercoin.com
@@ -64178,6 +64177,7 @@ pr-7831.1inch-io-app.pages.dev
 7-reallocation-concrete.pages.dev
 7-register-elysium.pages.dev
 7-registration-elysium.pages.dev
+7-rewards-firelightfi.pages.dev
 7-saturn-allocations.pages.dev
 7-saturncredit.pages.dev
 7-slippyclub.pages.dev
@@ -64756,6 +64756,7 @@ pr-7831.1inch-io-app.pages.dev
 8-reallocation-concrete.pages.dev
 8-register-elysium.pages.dev
 8-registration-elysium.pages.dev
+8-rewards-firelightfi.pages.dev
 8-robinhood.pages.dev
 8-saturn-allocations.pages.dev
 8-saturncredit.pages.dev
