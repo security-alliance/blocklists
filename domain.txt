@@ -29393,6 +29393,7 @@ bitrefill.com-gift-cards-doge.com
 bitrefill.com-gift-cards-dot.com
 bitrefill.com-gift-cards-eth.com
 bitrefill.com-gift-cards-link.com
+bitrefill.com-gift-cards-shib.com
 bitrefill.com-gift-cards-sol.com
 bitrefill.com-gift-cards-ton.com
 bitrefill.com-gift-cards-trx.com
