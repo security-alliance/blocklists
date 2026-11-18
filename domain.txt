@@ -46242,6 +46242,7 @@ tradxyz-v1.us.com
 tradxyz-v2.us.com
 tradxyz-v4.us.com
 tw-card.us.com
+tw-pay.us.com
 uniqlo.us.com
 us03zoom.us.com
 us05zoom.us.com
