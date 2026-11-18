@@ -1934,7 +1934,6 @@ https://sites.google.com/view/web-metamaske/home
 https://sites.google.com/view/web-metmaskhelp/home
 https://sites.google.com/view/web-trezor-connect
 https://sites.google.com/view/web-trezor-download/trezor-suite
-https://sites.google.com/view/web-trezor-start/trezor-suite
 https://sites.google.com/view/web-us-en/home
 https://sites.google.com/view/web-user-bitbuy/home
 https://sites.google.com/view/web3-wallet-extnsion/home
