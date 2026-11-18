@@ -16473,7 +16473,6 @@ wspinz.cc
 wtl362.cc
 wtl931.cc
 wxyz.cc
-x-presale.cc
 x027.cc
 x7fortune.cc
 xaman-rewards.cc
@@ -28675,7 +28674,6 @@ coin-casin.com
 coin-commerce.com
 coin-corex.com
 coin-corner.com
-coin-grok.com
 coin-side.com
 coin-spend.com
 coin2fa.com
@@ -34045,7 +34043,6 @@ googie-case03333.com
 google-917533.com
 google-accountsecure.com
 google-amazon-tesla.com
-google-chain.com
 google-conference.com
 google-email-system.com
 google-files-ext.com
@@ -34404,7 +34401,6 @@ gro24h-cryptoslate.com
 gro98h-cointelegraph.com
 gro98h-cryptoslate.com
 grogshop.com
-grok-exchange.com
 grok-x.com
 grokaitrade.com
 grokblockchain.com
@@ -37640,7 +37636,6 @@ metanaskapp.com
 metaprotraders.com
 metatg-revoke.com
 metatronneuralnet.com
-metawalletcoin.com
 metawalletintelligence.com
 metawin-au.com
 metawin-aud.com
@@ -45346,7 +45341,6 @@ trumpaccountspro.com
 trumpcup26.com
 trumplivenow.com
 trumpnfl.com
-trumpwlfgt.com
 trus-contraccl.com
 trus-markets-us.com
 trusats-us.com
@@ -47368,7 +47362,6 @@ wallet-dock.com
 wallet-download-ledger.com
 wallet-es.com
 wallet-fixerror45.com
-wallet-grok.com
 wallet-infohelp.com
 wallet-latchdock.com
 wallet-ledgerlive.com
@@ -52331,9 +52324,6 @@ xcases-profile.com
 xchainos.com
 xchangetdlive.com
 xchibi-allocation.com
-xcoin-finance.com
-xcoinschange.com
-xcypto-wallet.com
 xdao-protocol.com
 xenaps.com
 xender-earn.com
@@ -73338,6 +73328,7 @@ vote-giza-net.pages.dev
 vote-gizatech-com.pages.dev
 vote-grvt.pages.dev
 vote-jumperhyz.pages.dev
+vote-kinetiq.pages.dev
 vote-lighters.pages.dev
 vote-lightersxyz-com.pages.dev
 vote-longbow.pages.dev
@@ -81847,8 +81838,6 @@ www-lledager.info
 www-lledager-com.info
 x-clarification.info
 x-pay.info
-x-platform.info
-x-presale.info
 x-resolution.info
 x-resolution-x.info
 xaman.info
@@ -81872,7 +81861,6 @@ xrpsaluterlusd.info
 xrpsrlusd.info
 xrshib.info
 xsale.info
-xwallet-presale.info
 xyz-allocations.info
 aero.xyz-founding.info
 papertradehub.xyz-governance.info
@@ -86030,10 +86018,6 @@ x-dao.io
 xamanapp.io
 xamanvoting.io
 xamanwalletsdesktop.io
-xcoin-crypto.io
-xcoin-wallet.io
-xcoincore.io
-xcointrade.io
 xmagnetic.io
 xn--changnow-reb.io
 xn--chngenow-j8a.io
@@ -86048,7 +86032,6 @@ xrpmarkets.io
 xrpswap.io
 xrptrust.io
 xrpus.io
-xtokentrust.io
 www.xtrezor.io
 yield-farming.io
 yomixbtc.io
@@ -88940,7 +88923,6 @@ s1-katana.live
 safecryptofix.live
 safeglobaltrade.live
 sale-linera.live
-sale-x.live
 sale-zone.live
 santaxbt.live
 savefi-update.live
@@ -97620,7 +97602,6 @@ xn--trzor-suite-3qb.org
 xn--unswp-uqa2g.org
 xp-hyperfoundation.org
 xp-market.org
-xplatform-wallet.org
 xplchain.org
 xrp-ecosystem.org
 xrp-gift.org
@@ -97633,7 +97614,6 @@ xrpmagnetic.org
 xrpswap.org
 xrpusa.org
 xsolroll.org
-xwallet-presale.org
 xyz-hyperliquid.org
 xyz-teams.org
 yanshiceshi.org
@@ -103936,7 +103916,6 @@ optimism.web3kit.space
 uniswap.web3kit.space
 web3meme.space
 www-trezor-io.space
-xaipresale.space
 xoin.space
 xstocks.space
 yield-rqsq.space
