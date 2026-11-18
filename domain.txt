@@ -18104,7 +18104,6 @@ curve-fl.click
 curve-flnance.click
 curve-swap.click
 curve-v2.click
-curvefinance.click
 dachain.click
 dao-flarenetwork.click
 dapps-trezor.click
@@ -81218,7 +81217,6 @@ macbriefing.info
 macdaybook.info
 macdayline.info
 macroutine.info
-mainnet-flare.info
 mainnetvariational.info
 map-exact.info
 map-searchphone.info
