@@ -1932,7 +1932,6 @@ https://sites.google.com/view/web-extensionn/home
 https://sites.google.com/view/web-ledger-desktop/ledger
 https://sites.google.com/view/web-metamaske/home
 https://sites.google.com/view/web-metmaskhelp/home
-https://sites.google.com/view/web-trezor
 https://sites.google.com/view/web-trezor-connect
 https://sites.google.com/view/web-trezor-download/trezor-suite
 https://sites.google.com/view/web-trezor-start/trezor-suite
