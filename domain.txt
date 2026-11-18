@@ -66158,7 +66158,6 @@ candy-ledger.pages.dev
 cangka-ledger-13979.pages.dev
 canton-tge-com.pages.dev
 canton-tge-net.pages.dev
-canton-tges-co.pages.dev
 canton-tges-com.pages.dev
 canton-tges-net.pages.dev
 canton-vote.pages.dev
@@ -93351,7 +93350,6 @@ blockdagsscan.network
 bluckdag.network
 bonkcoin.network
 bridge-avax.network
-cantone.network
 cases-celsius.network
 cclcore.network
 cclportal.network
@@ -93465,7 +93463,6 @@ kta.network
 laptoptoken.network
 leapwallet.network
 lightchain-ai.network
-mainnet-canton.network
 mainvoiponline.network
 marketsvotingsupport.network
 marketvote.network
@@ -93649,7 +93646,6 @@ trezor.ng
 1pk4p1.coinbase.ngo
 nyvppk.coinbase.ngo
 asterdex.ninja
-canton-wallet.nodeops.ninja
 utility.utila-canton-devnet.nodeops.ninja
 polymarket.ninja
 05web.nl
@@ -110007,7 +110003,6 @@ bixiwuzulo.world
 bnbex.world
 boiledegg.world
 boxmaze.world
-canton-network.world
 carbontax.world
 card-trust.world
 order.cardstrust.world
@@ -111179,7 +111174,6 @@ byvotes-bybit.xyz
 cabal-sentralab.xyz
 calm-contain.xyz
 cambriagg.xyz
-cantonnetwork.xyz
 cap-app.xyz
 cap-reg.xyz
 cap-register.xyz

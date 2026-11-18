@@ -66158,7 +66158,6 @@
 ||cangka-ledger-13979.pages.dev^$all
 ||canton-tge-com.pages.dev^$all
 ||canton-tge-net.pages.dev^$all
-||canton-tges-co.pages.dev^$all
 ||canton-tges-com.pages.dev^$all
 ||canton-tges-net.pages.dev^$all
 ||canton-vote.pages.dev^$all
@@ -93351,7 +93350,6 @@
 ||bluckdag.network^$all
 ||bonkcoin.network^$all
 ||bridge-avax.network^$all
-||cantone.network^$all
 ||cases-celsius.network^$all
 ||cclcore.network^$all
 ||cclportal.network^$all
@@ -93465,7 +93463,6 @@
 ||laptoptoken.network^$all
 ||leapwallet.network^$all
 ||lightchain-ai.network^$all
-||mainnet-canton.network^$all
 ||mainvoiponline.network^$all
 ||marketsvotingsupport.network^$all
 ||marketvote.network^$all
@@ -93649,7 +93646,6 @@
 ||1pk4p1.coinbase.ngo^$all
 ||nyvppk.coinbase.ngo^$all
 ||asterdex.ninja^$all
-||canton-wallet.nodeops.ninja^$all
 ||utility.utila-canton-devnet.nodeops.ninja^$all
 ||polymarket.ninja^$all
 ||05web.nl^$all
@@ -110007,7 +110003,6 @@
 ||bnbex.world^$all
 ||boiledegg.world^$all
 ||boxmaze.world^$all
-||canton-network.world^$all
 ||carbontax.world^$all
 ||card-trust.world^$all
 ||order.cardstrust.world^$all
@@ -111179,7 +111174,6 @@
 ||cabal-sentralab.xyz^$all
 ||calm-contain.xyz^$all
 ||cambriagg.xyz^$all
-||cantonnetwork.xyz^$all
 ||cap-app.xyz^$all
 ||cap-reg.xyz^$all
 ||cap-register.xyz^$all
