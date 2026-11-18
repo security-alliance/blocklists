@@ -44417,6 +44417,7 @@ temposeidon.com
 temusik.com
 tenamex.com
 swap-cowfi-gateway.tenc3.com
+kraken-account-login.tendingtrw.com
 jrytwt.tengyubaozhuang.com
 tenmslize.com
 tenpoly.com
@@ -102896,6 +102897,7 @@ keepass.site
 keepssxc.site
 kgc108t.site
 kinetiqfnd.site
+kinetiqgenesis.site
 kintetiqfndn.site
 km1029u.site
 knight-owl-call-4e8b2d.site
