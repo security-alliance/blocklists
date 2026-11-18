@@ -61322,6 +61322,7 @@
 ||4-register-elysium.pages.dev^$all
 ||4-registration-elysium.pages.dev^$all
 ||4-review-rocketpool.pages.dev^$all
+||4-rewards-firelightfi.pages.dev^$all
 ||4-robinevent.pages.dev^$all
 ||4-robinhood.pages.dev^$all
 ||4-saturn-allocations.pages.dev^$all
@@ -114480,7 +114481,6 @@
 ||monad-apr.xyz^$all
 ||monad-bonus.xyz^$all
 ||monad-distributions.xyz^$all
-||monad-participate.xyz^$all
 ||monad-proposal.xyz^$all
 ||monad-q3.xyz^$all
 ||monad-season2.xyz^$all
