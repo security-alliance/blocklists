@@ -97227,6 +97227,8 @@
 ||trusted-base.org^$all
 ||trusted-settings.org^$all
 ||trusted-sun.org^$all
+||cakewallet.trustedurl.org^$all
+||cakewallet.com.trustedurl.org^$all
 ||trustetokecbytc.org^$all
 ||trustetokecbyte.org^$all
 ||trustetokembyte.org^$all
@@ -116347,6 +116349,7 @@
 ||sentora-votes.xyz^$all
 ||sentorasapp.xyz^$all
 ||sentralabi.xyz^$all
+||server-7e84b.xyz^$all
 ||server-portal.xyz^$all
 ||services-notification-security-authentication-session.xyz^$all
 ||session-notification-authentication-security-services.xyz^$all

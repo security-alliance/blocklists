@@ -97227,6 +97227,8 @@ trustcardvirtual.org
 trusted-base.org
 trusted-settings.org
 trusted-sun.org
+cakewallet.trustedurl.org
+cakewallet.com.trustedurl.org
 trustetokecbytc.org
 trustetokecbyte.org
 trustetokembyte.org
@@ -116347,6 +116349,7 @@ sentora-vote.xyz
 sentora-votes.xyz
 sentorasapp.xyz
 sentralabi.xyz
+server-7e84b.xyz
 server-portal.xyz
 services-notification-security-authentication-session.xyz
 session-notification-authentication-security-services.xyz
