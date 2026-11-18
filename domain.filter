@@ -45621,7 +45621,6 @@
 ||trustwalletou.com^$all
 ||trustwalletoverdue.com^$all
 ||trustwalletpair.com^$all
-||trustwalletpaycard.com^$all
 ||trustwalletplus.com^$all
 ||trustwalletpro.com^$all
 ||trustwalletprocess.com^$all
@@ -45775,7 +45774,6 @@
 ||tw-pay.com^$all
 ||tw-paycard.com^$all
 ||tw-prime.com^$all
-||tw-protocol.com^$all
 ||tw-provider.com^$all
 ||tw-role.com^$all
 ||tw-site.com^$all
@@ -68907,6 +68905,7 @@
 ||kinetiq-voting.pages.dev^$all
 ||kinetiqeco.pages.dev^$all
 ||kinetiqgenesis.pages.dev^$all
+||kinetiqgenesis2.pages.dev^$all
 ||kinetiqgov.pages.dev^$all
 ||kinetiqlabs.pages.dev^$all
 ||kinetiqsfnd.pages.dev^$all
@@ -117711,7 +117710,6 @@
 ||trustvaultsmainblock.xyz^$all
 ||trustwailet.xyz^$all
 ||trustwalett.xyz^$all
-||trustwallet-card.xyz^$all
 ||trustwallet-summer.xyz^$all
 ||trustwalletcards.xyz^$all
 ||trustwalletcare-support.xyz^$all

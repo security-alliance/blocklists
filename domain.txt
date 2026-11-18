@@ -45621,7 +45621,6 @@ trustwalletnfc.com
 trustwalletou.com
 trustwalletoverdue.com
 trustwalletpair.com
-trustwalletpaycard.com
 trustwalletplus.com
 trustwalletpro.com
 trustwalletprocess.com
@@ -45775,7 +45774,6 @@ tw-mint.com
 tw-pay.com
 tw-paycard.com
 tw-prime.com
-tw-protocol.com
 tw-provider.com
 tw-role.com
 tw-site.com
@@ -68907,6 +68905,7 @@ kinetiq-votes.pages.dev
 kinetiq-voting.pages.dev
 kinetiqeco.pages.dev
 kinetiqgenesis.pages.dev
+kinetiqgenesis2.pages.dev
 kinetiqgov.pages.dev
 kinetiqlabs.pages.dev
 kinetiqsfnd.pages.dev
@@ -117711,7 +117710,6 @@ trusttomade.xyz
 trustvaultsmainblock.xyz
 trustwailet.xyz
 trustwalett.xyz
-trustwallet-card.xyz
 trustwallet-summer.xyz
 trustwalletcards.xyz
 trustwalletcare-support.xyz
