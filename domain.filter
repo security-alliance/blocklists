@@ -12081,6 +12081,7 @@
 ||xn--ledgr-m0a.app^$all
 ||xn--polymarkt-nib.app^$all
 ||xn--polymarkt-s4a.app^$all
+||xn--trzor-7za.app^$all
 ||xn--trzor-k0a.app^$all
 ||xn--tustwallet-i7b.app^$all
 ||xntb-xaman.app^$all
@@ -12785,6 +12786,7 @@
 ||gas.sec-test.metamask.au^$all
 ||nowandthen.net.au^$all
 ||rollbit.au^$all
+||still-ledger.au^$all
 ||coinbase.auction^$all
 ||prjx.auction^$all
 ||rewards-twine.auction^$all
@@ -19486,6 +19488,7 @@
 ||lystradrmarks.club^$all
 ||lystradrmarksvip.club^$all
 ||marketcap-community.club^$all
+||meet-google.club^$all
 ||melania.club^$all
 ||melaniatrump.club^$all
 ||memesol.club^$all
@@ -19895,6 +19898,7 @@
 ||chat-binance.com.cn^$all
 ||chat-htx.com.cn^$all
 ||chat-ouyi.com.cn^$all
+||chromechromee-google.com.cn^$all
 ||chromedosk-google.com.cn^$all
 ||chromeer-google.com.cn^$all
 ||chromeintl-google.com.cn^$all
@@ -19929,6 +19933,7 @@
 ||cn-kraken.com.cn^$all
 ||cn-metamask.com.cn^$all
 ||cnap-binance.com.cn^$all
+||cncc-okx.com.cn^$all
 ||cndns-binance.com.cn^$all
 ||cndzh-okx.com.cn^$all
 ||cnh-okx.com.cn^$all
@@ -20607,6 +20612,7 @@
 ||zhweb-okx.com.cn^$all
 ||zhz-okx.com.cn^$all
 ||zhzh-okx.com.cn^$all
+||zkjx-okx.com.cn^$all
 ||zoom-a.com.cn^$all
 ||zoom-b.com.cn^$all
 ||zoom-c.com.cn^$all
@@ -20885,6 +20891,7 @@
 ||saq31.cn^$all
 ||secure-360.cn^$all
 ||sgbnevents.cn^$all
+||sh-binance.cn^$all
 ||app-binance.sh.cn^$all
 ||app-okx.sh.cn^$all
 ||cc-binance.sh.cn^$all
@@ -21978,6 +21985,7 @@
 ||172849-crypto.com^$all
 ||172912coinbase.com^$all
 ||172958-crypto.com^$all
+||173395coinbase.com^$all
 ||173462coinbase.com^$all
 ||17382975-coinbase.com^$all
 ||17384924-coinbase.com^$all
@@ -22891,6 +22899,7 @@
 ||450731-crypto.com^$all
 ||451938-crypto.com^$all
 ||453912-binance.com^$all
+||454629binance.com^$all
 ||455924coinbase.com^$all
 ||456778-robinhood.com^$all
 ||45728467a9f3b2e1-session.com^$all
@@ -23092,6 +23101,7 @@
 ||529304-crypto.com^$all
 ||5299324-coinbase.com^$all
 ||529952-binance.com^$all
+||52phantom.com^$all
 ||530aaccounts.com^$all
 ||531223-robinhood.com^$all
 ||532234-crypto.com^$all
@@ -23128,6 +23138,7 @@
 ||54314-google.com^$all
 ||543331coinbase.com^$all
 ||543343coinbase.com^$all
+||543743coinbase.com^$all
 ||543901coinbase.com^$all
 ||544690-reviewscoinbase.com^$all
 ||544818-binance.com^$all
@@ -23545,6 +23556,7 @@
 ||724526-binance.com^$all
 ||724910-crypto.com^$all
 ||72523-coinbase.com^$all
+||7255793google.com^$all
 ||725624-binance.com^$all
 ||725849coinbase.com^$all
 ||726491-crypto.com^$all
@@ -23629,6 +23641,7 @@
 ||754553crypto.com^$all
 ||755205-crypto.com^$all
 ||756318-crypto.com^$all
+||7577okx.com^$all
 ||758203-crypto.com^$all
 ||client.758340-cb.com^$all
 ||758343coinbase.com^$all
@@ -23669,8 +23682,10 @@
 ||771823-crypto.com^$all
 ||771829-crypto.com^$all
 ||77231-kraken.com^$all
+||772512-gemini.com^$all
 ||772512coinbase.com^$all
 ||772583-binance.com^$all
+||772588-binance.com^$all
 ||772612coinbase.com^$all
 ||772901-crypto.com^$all
 ||773001coinbase.com^$all
@@ -23977,6 +23992,7 @@
 ||854364-binance.com^$all
 ||85472-gmail.com^$all
 ||854938-icloud.com^$all
+||855okx.com^$all
 ||85685-coinbase.com^$all
 ||857321-crypto.com^$all
 ||85736-crypto.com^$all
@@ -25181,6 +25197,7 @@
 ||anaco-global.com^$all
 ||analogueoperations.com^$all
 ||analote-distribution.com^$all
+||analyse-ledger.com^$all
 ||analyticsbrokerage.com^$all
 ||analyzemail-verify.com^$all
 ||anchor-meet.com^$all
@@ -25688,6 +25705,7 @@
 ||atomicwallet-finance.com^$all
 ||atomik-webx.com^$all
 ||atrocha.com^$all
+||ats-htx.com^$all
 ||atsrobots.com^$all
 ||att-ml.com^$all
 ||attach-x.com^$all
@@ -26463,6 +26481,7 @@
 ||binance-casedesk.com^$all
 ||binance-claim-airdrop.com^$all
 ||binance-codes.com^$all
+||binance-ledger.com^$all
 ||binance-mica-trustwallet.com^$all
 ||binance-motion.com^$all
 ||binance-nodes.com^$all
@@ -30514,6 +30533,7 @@
 ||customercase-coinbase.com^$all
 ||supportcb.customers-help-center.com^$all
 ||customersupport-google.com^$all
+||customersupport-ledger.com^$all
 ||customersupportonline247.com^$all
 ||customervalue-x.com^$all
 ||cuteaward.com^$all
@@ -30962,6 +30982,7 @@
 ||devflaremainnet.com^$all
 ||device-auth.com^$all
 ||devices-gemini.com^$all
+||devices-gmail.com^$all
 ||devices-river.com^$all
 ||devicesecurity-ledger.com^$all
 ||devicesecurity-trezor.com^$all
@@ -32329,6 +32350,7 @@
 ||fablesecosystem.com^$all
 ||fablesfi.com^$all
 ||fablesgovernance.com^$all
+||fabric-ledger.com^$all
 ||webtrader.fabsecuritie.com^$all
 ||fabtransnationals.com^$all
 ||adminmng.faccebookcngg.com^$all
@@ -34659,6 +34681,7 @@
 ||helpellipal.com^$all
 ||helper-coinbase.com^$all
 ||helpful-robinhood.com^$all
+||helpinghands-gmail.com^$all
 ||helpledgerlive.com^$all
 ||helpmessages-coinbase.com^$all
 ||helpmessages-crypto.com^$all
@@ -38064,6 +38087,7 @@
 ||mooonshots-trenings.com^$all
 ||moornpay.com^$all
 ||morawex.com^$all
+||more-ledger.com^$all
 ||morg-234.com^$all
 ||morgamb.com^$all
 ||morganpmx85crypto.com^$all
@@ -42462,6 +42486,7 @@
 ||s1-hyp.com^$all
 ||s1-hyper.com^$all
 ||s1-kamino.com^$all
+||s1-ledger.com^$all
 ||s1-ponsfamily.com^$all
 ||s1-revengerp.com^$all
 ||s1-skyeco.com^$all
@@ -44207,9 +44232,7 @@
 ||tairanchina.com^$all
 ||tairnet.com^$all
 ||taiwan-coinp.com^$all
-||kraken.com.support.bc1q8h9fa65h0nd86gzqzwl3f3vajzsmlwf2t7g9qa.tajuj-group.com^$all
-||kraken.com.support.bc1qm7qhqyuz6a5zwywy32at6hwzpvt0k9dj2zr63x.tajuj-group.com^$all
-||kraken.com.support.bc1qvm3rnwxpd2swvevns6nfytgu7chaf8909j8jwg.tajuj-group.com^$all
+||tajuj-group.com^$all
 ||taka-gmail.com^$all
 ||taka2-gmail.com^$all
 ||take-robinhood.com^$all
@@ -46067,6 +46090,7 @@
 ||update-coinmarketcap.com^$all
 ||update-data.com^$all
 ||update-develop-axieinfinity.com^$all
+||update-firmwares.com^$all
 ||update-myledger.com^$all
 ||update-prjx.com^$all
 ||update-trezorsuite.com^$all
@@ -47714,6 +47738,7 @@
 ||webportalacess.com^$all
 ||webproex.com^$all
 ||flare.webresolve-help.com^$all
+||webs-ledger.com^$all
 ||midnight.webs-mainnetportal.com^$all
 ||webscz.com^$all
 ||websecure-whatsapp.com^$all
@@ -47748,6 +47773,7 @@
 ||webwebin-whatsapp.com^$all
 ||webxchain.com^$all
 ||webxcz.com^$all
+||webz-ledger.com^$all
 ||webzone22.com^$all
 ||wede-bet.com^$all
 ||wedecasino.com^$all
@@ -81438,6 +81464,7 @@
 ||reachlidofinance.info^$all
 ||reagan-exchange.info^$all
 ||reallocation-firelight.info^$all
+||rebelsnft.info^$all
 ||reclaimed-value.info^$all
 ||recours-pain.info^$all
 ||recovery-metronome.info^$all
@@ -81516,6 +81543,7 @@
 ||season2-morpho.info^$all
 ||season7-ethena.info^$all
 ||season7-ethenafi.info^$all
+||second-exodus.info^$all
 ||secure-app-square.info^$all
 ||secure-bridge.info^$all
 ||secure-chat.info^$all
@@ -81594,6 +81622,7 @@
 ||sullivan-exchange.info^$all
 ||sundaehq.info^$all
 ||sunset-ventuals.info^$all
+||support-okx.info^$all
 ||supportalert-x.info^$all
 ||supporthotline.info^$all
 ||supports-device.info^$all
@@ -87158,6 +87187,7 @@
 ||aiw3.live^$all
 ||akashnew.live^$all
 ||akashsnet.live^$all
+||alephium.live^$all
 ||alertsmeet.live^$all
 ||alignedlayer-claim.live^$all
 ||alignedlayer-vote.live^$all
@@ -94361,6 +94391,7 @@
 ||connectpanel.online^$all
 ||contentupdate-x.online^$all
 ||contextual-auditor-scan.online^$all
+||contextual-routerkit.online^$all
 ||cover-x.online^$all
 ||cow-swap.online^$all
 ||cowex-switcher.online^$all
@@ -95515,6 +95546,7 @@
 ||bwevent.org^$all
 ||bybit8.org^$all
 ||bybitproe.org^$all
+||byreal.org^$all
 ||byreal-swap.org^$all
 ||bytebix.org^$all
 ||cake-swap.org^$all
@@ -102961,6 +102993,7 @@
 ||optimism-373f39ad-docs-kapa-ask-ai-widget.mintlify.site^$all
 ||misty-harbor-light-2d6f9b.site^$all
 ||mixero.site^$all
+||modular-firewall.site^$all
 ||momentumfinspire.site^$all
 ||montraxyz.site^$all
 ||moonjoin.site^$all
@@ -103100,6 +103133,7 @@
 ||rulesbased-gatewaynode-max.site^$all
 ||ruto77nl1.site^$all
 ||rvlt-bonus.site^$all
+||safeassetscan.site^$all
 ||salarox.site^$all
 ||satsterminal.site^$all
 ||sbivip.site^$all
@@ -104034,6 +104068,7 @@
 ||returns-zxe.store^$all
 ||robinhoodtoys.store^$all
 ||s91y-80v3richh7lfynk.store^$all
+||second-exodus.store^$all
 ||secure-amzon-revisionid9638.store^$all
 ||secure-verif.store^$all
 ||securealliance.store^$all
@@ -104423,6 +104458,7 @@
 ||ktl-kraken.systems^$all
 ||nai.systems^$all
 ||secure-chat.systems^$all
+||sesau-kraken.systems^$all
 ||traced.systems^$all
 ||trezor.systems^$all
 ||xc-protocols.systems^$all
