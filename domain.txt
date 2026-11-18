@@ -106389,6 +106389,7 @@ kinetiqeco.top
 kinetiqecosystem.top
 kinetiqefi.top
 kinetiqfnd.top
+kinetiqgenesis2.top
 kinetiqsfnd.top
 kinetiqxyz.top
 kiteth.top
@@ -113391,6 +113392,7 @@ governance-wealthcoinsol.xyz
 governance-yieldbasis.xyz
 governance-yieldfields.xyz
 governance-zama.xyz
+governance-zamahub.xyz
 governance-zebec.xyz
 governance-zest.xyz
 governance-zestprotocol.xyz
