@@ -76824,7 +76824,6 @@ vote-xrpl.foundation
 worldlibertyfinance.foundation
 xrp-fi-flare.foundation
 xrpdesk.foundation
-xrpl-flare.foundation
 xrpldesk.foundation
 zebec.foundation
 adblock.fr
