@@ -66495,6 +66495,7 @@
 ||coinbse-pro-com-login.pages.dev^$all
 ||coinbse-pro-logn.pages.dev^$all
 ||coinbsepro-lgn.pages.dev^$all
+||coinbsepro-support.pages.dev^$all
 ||coinbsespr-login.pages.dev^$all
 ||coincommunities.pages.dev^$all
 ||coine-base.pages.dev^$all
@@ -68252,6 +68253,7 @@
 ||help-lgerr-live-en.pages.dev^$all
 ||help-lgers-live.pages.dev^$all
 ||help-login-coinbse.pages.dev^$all
+||help-manage-extn-coinbse.pages.dev^$all
 ||help-meta-mask-faq.pages.dev^$all
 ||help-metmask-hub-us.pages.dev^$all
 ||help-metmaskio-eng.pages.dev^$all
@@ -68598,6 +68600,7 @@
 ||info--trezor-io.pages.dev^$all
 ||info-coin-base-login.pages.dev^$all
 ||info-coin-baselogin.pages.dev^$all
+||info-coinbse-login.pages.dev^$all
 ||info-desk-ledgr.pages.dev^$all
 ||info-guide-ledgeer-io-com.pages.dev^$all
 ||info-io-en-trezor.pages.dev^$all
@@ -80288,6 +80291,7 @@
 ||stake-casino.ie^$all
 ||stake-ie.ie^$all
 ||97ee6.blogspot.co.il^$all
+||coinbaseaccounsele.blogspot.co.il^$all
 ||exodusdownload.blogspot.co.il^$all
 ||dev.polymarkets.co.il^$all
 ||urcod.co.il^$all
@@ -115424,7 +115428,6 @@
 ||portals-firelightfi.xyz^$all
 ||portals-firelightfi-app.xyz^$all
 ||portals-flarenetwork.xyz^$all
-||portals-flarenetworks.xyz^$all
 ||portals-hyperfoundation.xyz^$all
 ||portals-infinifi.xyz^$all
 ||portals-kinetiq.xyz^$all
