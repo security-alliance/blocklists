@@ -1211,7 +1211,6 @@ uphold-eng.created.app
 uphold-ilogin-account.created.app
 uphold-io.created.app
 uphold-lgagin.created.app
-uphold-lgn-connect.created.app
 uphold-lgn-en.created.app
 uphold-lo-sew.created.app
 uphold-log-doc.created.app
@@ -25084,7 +25083,6 @@ alphafaq.com
 getcoinbasehelp.com.alphahomecarelimited.com
 alphamaxdeffi.com
 alphamaxdefi.com
-alphanewsfaq.com
 alphapepee.com
 alphaq-dex.com
 alphastockspro.com
@@ -35846,7 +35844,6 @@ jmeholdingsinc.com
 jmniu.com
 jnwhcy.com
 jo-claim.com
-jobsinterviewteamstart.com
 jobuzny.com
 jodawin.com
 joeyinu.com
@@ -45413,7 +45410,6 @@ trust-xpay.com
 trustagestablecoin-login.com
 trustagestablecoinwallet.com
 trustairdrops.com
-trustalphafaq.com
 trustalphaguide.com
 trustarket-usa.com
 trustawallet.com
@@ -66100,7 +66096,6 @@ blockdag-network-io.pages.dev
 blockdag-network-miners.pages.dev
 revert-pr-277.blockdag-presale-website-41e.pages.dev
 blockdagnet-bu7.pages.dev
-blockdagpresales.pages.dev
 blockdags-ef6.pages.dev
 blockdagtoken.pages.dev
 blockdagwork.pages.dev
@@ -76297,7 +76292,6 @@ malamute.finance
 maplr.finance
 maqle.finance
 marimade.finance
-marinadedesktop.finance
 memenopoly.finance
 merlin.finance
 merlinswap.finance
@@ -76800,7 +76794,6 @@ defi-flare.foundation
 desk-xrpl.foundation
 docupdate.foundation
 dominionmarket.foundation
-fassets-flare.foundation
 flare-fassets.foundation
 fuzzyxrp.foundation
 hylo.foundation
@@ -80940,7 +80933,6 @@ extendedexchange.info
 falconfinance.info
 famichain.info
 farmtown.info
-fassets-flare.info
 fbtc-firelight.info
 ff-exchange.info
 fi-connect.info
@@ -87474,7 +87466,6 @@ claim-airdropkorfnd.live
 claim-alignedlayer.live
 claim-ansem.live
 claim-arc.live
-claim-asentum.live
 claim-cashcat.live
 claim-dgrid.live
 claim-doppler.live
@@ -95697,7 +95688,6 @@ coinbase247.org
 coinbasefxo.org
 ww25.mx.coinbasehelp.org
 ww25.webmail.coinbasehelp.org
-coinbaseupdate.org
 coinbasewithdrwal.org
 coincheck-hq.org
 coincommerce.org
@@ -96872,7 +96862,6 @@ rayis.org
 raynbet.org
 rayswap.org
 re-allocations.org
-re-xyz.org
 reallocation-pharos.org
 reallocations-pharos.org
 rebby.org
@@ -101890,7 +101879,6 @@ tronairdrop.sbs
 trst-wallet.sbs
 trstw-card.sbs
 trstwcard.sbs
-trumpair.sbs
 trust-vcc-card.sbs
 trust-wallet.sbs
 trustanalyseaml.sbs
@@ -110826,7 +110814,6 @@ amlsolscan.xyz
 anchoroption.xyz
 anonymixer.xyz
 ansem-airdrop-dapp.xyz
-antseed-app.xyz
 anymovies.xyz
 anyswapbot.xyz
 apeonfone-allocations.xyz
@@ -117645,7 +117632,6 @@ treasury-riverinc.xyz
 treasury-sparkdex.xyz
 treasury-starknet.xyz
 treasury-umbra.xyz
-treasury-usefelix.xyz
 treasury-virtuals.xyz
 treasury-xaman.xyz
 treasury-zama.xyz
