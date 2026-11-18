@@ -112172,6 +112172,7 @@ eligibility-jumper.xyz
 eligibility-jupag.xyz
 eligibility-monad.xyz
 eligibility-morpho.xyz
+eligibility-morphoapp.xyz
 eligibility-neet.xyz
 eligibility-ore.xyz
 eligibility-pools.xyz
