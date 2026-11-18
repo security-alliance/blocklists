@@ -42509,6 +42509,7 @@ s6apis.com
 s9mining.com
 app-app-varitional2.sa.com
 app-varitionals.sa.com
+solstice.dretroji.sa.com
 omni-variational.sa.com
 omnis-variariational-v1-v3.sa.com
 omnis-variational-io.sa.com
@@ -97301,7 +97302,6 @@ app.uniewap.org
 unigovernance.org
 unigovernance-v4rewards.org
 uniiswaap.org
-coinbase-wallet.unioni.org
 app.uniqwap.org
 app.unis2ap.org
 app.unis3ap.org
