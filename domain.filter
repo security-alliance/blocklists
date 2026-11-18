@@ -35854,7 +35854,6 @@
 ||join-openstandard.com^$all
 ||join-request-gmeet.com^$all
 ||join-team-meet.com^$all
-||join-toolsforhumanity.com^$all
 ||join-variational.com^$all
 ||join-wfli.com^$all
 ||join-worldid.com^$all
@@ -79105,6 +79104,7 @@
 ||governance.flarenetwork-community.icu^$all
 ||governance.flarenetwork-dao.icu^$all
 ||flarenetwork-dashboard.icu^$all
+||flarenetwork-distribution.icu^$all
 ||flarenetwork-portal.icu^$all
 ||flarenetwork-proposal.icu^$all
 ||flarenetwork-vote.icu^$all
