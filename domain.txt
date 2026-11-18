@@ -2047,7 +2047,6 @@ netlifi.app
 1inch-dapp-router-v64.netlify.app
 1inch-dapp-router-v88.netlify.app
 1inchnft.netlify.app
-6a041fef9c05790008ec93fc--allora-claimdrop.netlify.app
 6a0420b529859d0008c654e7--allora-claimdrop.netlify.app
 6a04ba847309bd0008e016b3--allora-claimdrop.netlify.app
 6a13ba5f9f268a0008723533--allora-claimdrop.netlify.app
