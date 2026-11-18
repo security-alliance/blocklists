@@ -848,7 +848,6 @@ bonus-flare.app
 bonus-flaresnetwork.app
 bonus-fluid.app
 bonus-usepaid.app
-boost-equium.app
 bozei.app
 braavosdesktop.app
 bridge-online.app
@@ -2003,7 +2002,6 @@ mintswap.app
 mira-net.app
 mnemonic-ledger.app
 claim.monad-portal.app
-moonblast.app
 moongem.app
 moonlisting.app
 moonshot-verif.app
@@ -18488,7 +18486,6 @@ qelvex-bonusvault.click
 qelvex-cashreward.click
 quantum-bonusvault.click
 quebec-mon.click
-quickswap.click
 quickswap-app.click
 quickswap-dex.click
 quickswap-eth.click
@@ -18533,7 +18530,6 @@ app.risefoundation.click
 riu2y.click
 rotorno.click
 round031.click
-rubic.click
 rubic-app.click
 rubic-en.click
 rubic-eth.click
@@ -18804,7 +18800,6 @@ v2-lido.click
 v2-pumpswap.click
 v2-quickswap.click
 v2-rubic-eth.click
-v2-sushi.click
 v2-sushiswap.click
 v3-aave.click
 v3-cowswap.click
@@ -31322,7 +31317,6 @@ dogecoinpaperwallet.com
 dogecoon.com
 dogeminerpro.com
 dogerig.com
-dogeshitmeme.com
 dogevolt.com
 dogtrainersgeorgia.com
 dollartree-giftcards.com
@@ -34593,7 +34587,6 @@ harowex.com
 haruno-room.com
 harvestcooks.com
 hash-ethereum.com
-hash256dotorg.com
 hashkeysglobal.com
 hashkeysvip.com
 hashkxjts.com
@@ -35131,7 +35124,6 @@ hyperliquidexclusivenft.com
 hyperliquidkorea.com
 hyperliquidx-season3.com
 hyperlliquidd.com
-hyperphpqeowon11122.com
 hyperreco.com
 hyperrecosystem.com
 hyperrecosystems.com
@@ -36848,7 +36840,6 @@ lndexfinances.com
 lnfww.com
 lnstruction-desjardlns.com
 account.coinbase.lo-g.com
-lo0pio.com
 load-coinbase.com
 loading-cointracking.com
 loaf24.com
@@ -36968,7 +36959,6 @@ looloobot.com
 loomis-allocation.com
 looping-collective.com
 loopscale-app.com
-loopscalelab.com
 loopwex.com
 lopugamb.com
 lopxbet.com
@@ -39487,7 +39477,6 @@ pack-rivals.com
 packs-fuzzyxrpl.com
 packs-monshoot.com
 padreapp.com
-padrerewards.com
 paegax.com
 paemex.com
 paerax.com
@@ -47183,7 +47172,6 @@ vote-xamanwallet.com
 vote-xmagnetic.com
 vote-xrpl.com
 vote-zama.com
-vote1-unipeg.com
 voteapp-aave.com
 voteasrtedex.com
 voteaster-dex.com
@@ -74823,7 +74811,6 @@ xbeta.dev
 xn--helus-1sa.dev
 zetacoin.dev
 uniswap.zpoken.dev
-aavee.digital
 aerodrcme.digital
 aerosxyz.digital
 aeroxyz.digital
@@ -88367,7 +88354,6 @@ live-kyc-verification.live
 livedrop-meme.live
 livepumpsolstreamers.live
 lledgar-apps.live
-lo0p-io.live
 login-falconfi.live
 login-firelight.live
 login-firelightfi.live

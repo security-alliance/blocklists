@@ -848,7 +848,6 @@
 ||bonus-flaresnetwork.app^$all
 ||bonus-fluid.app^$all
 ||bonus-usepaid.app^$all
-||boost-equium.app^$all
 ||bozei.app^$all
 ||braavosdesktop.app^$all
 ||bridge-online.app^$all
@@ -2003,7 +2002,6 @@
 ||mira-net.app^$all
 ||mnemonic-ledger.app^$all
 ||claim.monad-portal.app^$all
-||moonblast.app^$all
 ||moongem.app^$all
 ||moonlisting.app^$all
 ||moonshot-verif.app^$all
@@ -18488,7 +18486,6 @@
 ||qelvex-cashreward.click^$all
 ||quantum-bonusvault.click^$all
 ||quebec-mon.click^$all
-||quickswap.click^$all
 ||quickswap-app.click^$all
 ||quickswap-dex.click^$all
 ||quickswap-eth.click^$all
@@ -18533,7 +18530,6 @@
 ||riu2y.click^$all
 ||rotorno.click^$all
 ||round031.click^$all
-||rubic.click^$all
 ||rubic-app.click^$all
 ||rubic-en.click^$all
 ||rubic-eth.click^$all
@@ -18804,7 +18800,6 @@
 ||v2-pumpswap.click^$all
 ||v2-quickswap.click^$all
 ||v2-rubic-eth.click^$all
-||v2-sushi.click^$all
 ||v2-sushiswap.click^$all
 ||v3-aave.click^$all
 ||v3-cowswap.click^$all
@@ -31322,7 +31317,6 @@
 ||dogecoon.com^$all
 ||dogeminerpro.com^$all
 ||dogerig.com^$all
-||dogeshitmeme.com^$all
 ||dogevolt.com^$all
 ||dogtrainersgeorgia.com^$all
 ||dollartree-giftcards.com^$all
@@ -34593,7 +34587,6 @@
 ||haruno-room.com^$all
 ||harvestcooks.com^$all
 ||hash-ethereum.com^$all
-||hash256dotorg.com^$all
 ||hashkeysglobal.com^$all
 ||hashkeysvip.com^$all
 ||hashkxjts.com^$all
@@ -35131,7 +35124,6 @@
 ||hyperliquidkorea.com^$all
 ||hyperliquidx-season3.com^$all
 ||hyperlliquidd.com^$all
-||hyperphpqeowon11122.com^$all
 ||hyperreco.com^$all
 ||hyperrecosystem.com^$all
 ||hyperrecosystems.com^$all
@@ -36848,7 +36840,6 @@
 ||lnfww.com^$all
 ||lnstruction-desjardlns.com^$all
 ||account.coinbase.lo-g.com^$all
-||lo0pio.com^$all
 ||load-coinbase.com^$all
 ||loading-cointracking.com^$all
 ||loaf24.com^$all
@@ -36968,7 +36959,6 @@
 ||loomis-allocation.com^$all
 ||looping-collective.com^$all
 ||loopscale-app.com^$all
-||loopscalelab.com^$all
 ||loopwex.com^$all
 ||lopugamb.com^$all
 ||lopxbet.com^$all
@@ -39487,7 +39477,6 @@
 ||packs-fuzzyxrpl.com^$all
 ||packs-monshoot.com^$all
 ||padreapp.com^$all
-||padrerewards.com^$all
 ||paegax.com^$all
 ||paemex.com^$all
 ||paerax.com^$all
@@ -47183,7 +47172,6 @@
 ||vote-xmagnetic.com^$all
 ||vote-xrpl.com^$all
 ||vote-zama.com^$all
-||vote1-unipeg.com^$all
 ||voteapp-aave.com^$all
 ||voteasrtedex.com^$all
 ||voteaster-dex.com^$all
@@ -74823,7 +74811,6 @@
 ||xn--helus-1sa.dev^$all
 ||zetacoin.dev^$all
 ||uniswap.zpoken.dev^$all
-||aavee.digital^$all
 ||aerodrcme.digital^$all
 ||aerosxyz.digital^$all
 ||aeroxyz.digital^$all
@@ -88367,7 +88354,6 @@
 ||livedrop-meme.live^$all
 ||livepumpsolstreamers.live^$all
 ||lledgar-apps.live^$all
-||lo0p-io.live^$all
 ||login-falconfi.live^$all
 ||login-firelight.live^$all
 ||login-firelightfi.live^$all
