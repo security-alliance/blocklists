@@ -19262,7 +19262,6 @@ eigen.stakingreward.cloud
 eigen-foundation.stakingreward.cloud
 eigenfoundations.stakingreward.cloud
 gtc.stakingreward.cloud
-interface-cgpt.stakingreward.cloud
 interface-chaingpt.stakingreward.cloud
 interface-fuelnetwork.stakingreward.cloud
 interface-graphprotocol.stakingreward.cloud
