@@ -2071,6 +2071,7 @@ netlifi.app
 6ab062f59430c40008891bb0--eigenlayer2.netlify.app
 7reasonspudgy.netlify.app
 about-start-trezoio.netlify.app
+access-ledger-com.netlify.app
 access-trzr-io-info.netlify.app
 accessportal-87643-solana.netlify.app
 acemoneytransfer.netlify.app
@@ -3423,6 +3424,7 @@ evmchecker.netlify.app
 evmcheckers.netlify.app
 exodus-tecnoclin.netlify.app
 exoduswallet-support.netlify.app
+familyfinances-ledger.netlify.app
 faq-cloud-uphold.netlify.app
 firelightfi42.netlify.app
 firelightfinance.netlify.app
@@ -31614,6 +31616,7 @@ elitetradingoption.com
 elitetrustwallet.com
 mail.elitextrustwallet.com
 webmail.elitextrustwallet.com
+www.elitextrustwallet.com
 admin.arc.elkifah.com
 elklending.com
 ellectrum.com
@@ -66025,6 +66028,7 @@ bin-trezor-io-start.pages.dev
 binance-2fh.pages.dev
 binance-academy.pages.dev
 binance-contract-monitor-ui-2855649421.pages.dev
+binance-inv-adminnn.pages.dev
 binance-monitor2.pages.dev
 binance-pattern-scanner-5ddw3d.pages.dev
 binance-quick-order.pages.dev
@@ -66619,6 +66623,7 @@ crypto-radar-1c9.pages.dev
 crypto-wallets-ledger.pages.dev
 cryptoall-stars.pages.dev
 cryptoprizezone.pages.dev
+ctc-ledger.pages.dev
 cursor-trust-wallet.pages.dev
 custosglobal.pages.dev
 czrainbet-com-4ec5273aa6.pages.dev
@@ -66659,6 +66664,7 @@ dci-ledger-test197.pages.dev
 dclmetamask.pages.dev
 dddddds.pages.dev
 dealer-invoice-ledger.pages.dev
+deanam-ledger-web.pages.dev
 debadge.pages.dev
 debridge-7be.pages.dev
 debridge-secure.pages.dev
@@ -66695,11 +66701,13 @@ delta-wbot.pages.dev
 deltaf254-lab.pages.dev
 demo-trezor-io.pages.dev
 demo888-5bq.pages.dev
+dental-clinic-ledger.pages.dev
 dentry.pages.dev
 depiler.pages.dev
 deploy-ledgrcom-starts.pages.dev
 depot--ledger-helpe.pages.dev
 depot--ledger-helps.pages.dev
+dept-ledger.pages.dev
 deribit-36x.pages.dev
 derive-ezf.pages.dev
 derive-vote.pages.dev
@@ -66811,6 +66819,8 @@ dexlaunchpaddapp.pages.dev
 dextokenvote.pages.dev
 dextop-ledgr-strart.pages.dev
 dextop-ledgrrcom-start.pages.dev
+deying-ledger.pages.dev
+deying-ledger-app.pages.dev
 dfdfdufddfusdsds.pages.dev
 dfhdfhdfhdh.pages.dev
 dflow-claims.pages.dev
@@ -67618,12 +67628,14 @@ family-ledger-497.pages.dev
 family-ledger-5vr.pages.dev
 family-ledger-7o1.pages.dev
 family-ledger-bay.pages.dev
+family-ledger-bfr.pages.dev
 family-ledger-dmn.pages.dev
 family-ledger-home.pages.dev
 family-ledger-jvh.pages.dev
 family-ledger-mainland.pages.dev
 family-ledger-preview.pages.dev
 family-ledger-r4g.pages.dev
+family-ledger-tw.pages.dev
 family-ledger-yc5.pages.dev
 family-wealth-ledger.pages.dev
 fantastic4toys-bank-ledger.pages.dev
@@ -67779,6 +67791,7 @@ folio-ledger-hardware-wallet.pages.dev
 fomo-checker.pages.dev
 fomovotes.pages.dev
 food-ledger.pages.dev
+forever-guild-ledger.pages.dev
 foundation-bmo.pages.dev
 foundation-deck.pages.dev
 foxxtoken.pages.dev
@@ -67929,6 +67942,7 @@ go-trezoriostart.pages.dev
 go-trust-wallet.pages.dev
 goatmaximus.pages.dev
 godl-dapp.pages.dev
+godly-ledger.pages.dev
 golden-ledgers.pages.dev
 gonkadev.pages.dev
 goodegg-token.pages.dev
@@ -68308,6 +68322,7 @@ home-ledger-live-web-us.pages.dev
 home-ledger-llive.pages.dev
 home-ledger-lyv.pages.dev
 home-ledger-manage.pages.dev
+home-ledger-pwa.pages.dev
 home-ledgerlive.pages.dev
 home-ledgerlive--eng-4il.pages.dev
 home-ledgerr-live.pages.dev
@@ -68441,6 +68456,7 @@ hooommmee---logiiinnn---trezorr.pages.dev
 host-ledgr-eng.pages.dev
 host-trezor.pages.dev
 house-xrp-asset-manager.pages.dev
+household-ledger-1jr.pages.dev
 household-ledger-917.pages.dev
 household-ledger-9j7.pages.dev
 household-ledger-bsh.pages.dev
@@ -68448,6 +68464,7 @@ how-login-paybis.pages.dev
 how-paybis-login.pages.dev
 how-to-restore-trustwallet.pages.dev
 howto-restore-metamaskwallet.pages.dev
+howtoberich-ledger.pages.dev
 hrd-in-logn-trezr-ng-live.pages.dev
 hrdwre-ledgr.pages.dev
 huahua-ledger.pages.dev
@@ -68700,6 +68717,7 @@ io-trezorr-wallets.pages.dev
 io-trezorrstart-us.pages.dev
 io-trezors-eng.pages.dev
 io-trezorsuite-com.pages.dev
+io-trezostarts.pages.dev
 io-trezr-secure.pages.dev
 io-trezr-start-cdn.pages.dev
 io-trezrn-eng.pages.dev
@@ -68808,6 +68826,7 @@ k-3-kraken-com.pages.dev
 kaiko-family-ledger.pages.dev
 kaito-eco-hub3.pages.dev
 kaito-vote-hub.pages.dev
+kaitori-ledger-840.pages.dev
 kaitori-ledger-demo.pages.dev
 kakei-ledger.pages.dev
 kamino-481.pages.dev
@@ -68852,6 +68871,7 @@ kingdomkey-ledger.pages.dev
 kist-ledger.pages.dev
 kitchen-ledger-7f9.pages.dev
 kitkat-5kn.pages.dev
+kiwi-ledger.pages.dev
 klmnop.pages.dev
 kmv-ledger-1.pages.dev
 kndfchnfcafscncsfnigscyng.pages.dev
@@ -68900,6 +68920,7 @@ krakenn-log-in.pages.dev
 krakenos-org.pages.dev
 krakenplatform-cc.pages.dev
 krakensong-com.pages.dev
+krakenstone-questions.pages.dev
 krakenunbound-website.pages.dev
 krakken-help-us-oauth.pages.dev
 krakn-helplogn.pages.dev
@@ -69201,6 +69222,7 @@ ledger-eo-starts.pages.dev
 ledger-ets.pages.dev
 ledger-finanze.pages.dev
 ledger-flow-app.pages.dev
+ledger-g3pfi96a.pages.dev
 ledger-get-com-start.pages.dev
 ledger-get-live.pages.dev
 ledger-get-live-dbh.pages.dev
@@ -69382,6 +69404,8 @@ ledger-stert-feq.pages.dev
 ledger-strtt-com.pages.dev
 ledger-sttartt.pages.dev
 ledger-sulky-dr.pages.dev
+ledger-sync-9eb2fc.pages.dev
+ledger-sync-9eb2fc-383a.pages.dev
 ledger-system-2fa.pages.dev
 ledger-tanlear-omega.pages.dev
 ledger-trezor-io-start.pages.dev
@@ -69430,16 +69454,20 @@ ledgergift-web.pages.dev
 ledgerhardwear-engg.pages.dev
 ledgerkenju.pages.dev
 ledgerl-ogin.pages.dev
+ledgerleaf-billing.pages.dev
 ledgerlenses.pages.dev
 ledgerlenspro.pages.dev
 ledgerlgin.pages.dev
 ledgerli-ve-en.pages.dev
 ledgerliivedownload.pages.dev
 ledgerline-3zf.pages.dev
+ledgerline-dashboard.pages.dev
 ledgerline-deck-studio.pages.dev
 ledgerline-portal.pages.dev
+ledgerline-portal-1f2.pages.dev
 ledgerline-private.pages.dev
 ledgerling.pages.dev
+ledgerlite-alf.pages.dev
 ledgerliv-faq.pages.dev
 ledgerliv-home.pages.dev
 ledgerliv-learn.pages.dev
@@ -69479,7 +69507,9 @@ ledgerlivesktop.pages.dev
 ledgerloginlive-us-cdn.pages.dev
 ledgerly-cxv.pages.dev
 ledgerly-finance.pages.dev
+ledgerly-personal.pages.dev
 ledgerly-yds.pages.dev
+ledgermate-kommunikacio.pages.dev
 ledgeron-portal.pages.dev
 ledgeros.pages.dev
 ledgerpack-frontend.pages.dev
@@ -69553,6 +69583,8 @@ ledgerstrt.pages.dev
 ledgersyncdgdyushysgspathaiuhydiskbnxghidkbdghijshdvbjddjh.pages.dev
 ledgert-start.pages.dev
 ledgerus-com-start.pages.dev
+ledgerv.pages.dev
+ledgerv2-d0m.pages.dev
 ledgerwaletpages.pages.dev
 ledgerwalite-pages.pages.dev
 ledgerwallet-help.pages.dev
@@ -69938,6 +69970,7 @@ live-ledger-cdn.pages.dev
 live-ledger-cdn-us.pages.dev
 live-ledger-cloud.pages.dev
 live-ledger-co.pages.dev
+live-ledger-dsktop-co.pages.dev
 live-ledger-en-faqs.pages.dev
 live-ledger-en-wallet.pages.dev
 live-ledger-eng-io.pages.dev
@@ -70116,6 +70149,7 @@ lrn-desktop-ledgra-en--us.pages.dev
 lucky-ledger.pages.dev
 lulu-ledger.pages.dev
 luma-vintage-ledger.pages.dev
+lumiere-ledger.pages.dev
 m-amara.pages.dev
 m-arcus.pages.dev
 m-bill-z.pages.dev
@@ -70265,6 +70299,7 @@ minepepe.pages.dev
 minimal-ledger-app.pages.dev
 minocrernot.pages.dev
 mirageprivacy.pages.dev
+mithaq-ledger.pages.dev
 mk-ledger-system.pages.dev
 mm-finance.pages.dev
 mm-ledger-site.pages.dev
@@ -70345,12 +70380,15 @@ my-ledger-app.pages.dev
 my-ledger-chn.pages.dev
 my-ledger-ems.pages.dev
 my-ledger-evs.pages.dev
+my-money-ledger.pages.dev
 my700haulapp.pages.dev
 mynth2.pages.dev
 n-smartwebfix.pages.dev
 n-us-desktop-ledgr.pages.dev
+nak-ledger.pages.dev
 name-trezor-io.pages.dev
 nansen-cpu.pages.dev
+nasher-ledgers.pages.dev
 nav--exoodus-web3-io-com.pages.dev
 nav--login-trezor.pages.dev
 nav-base--learn.pages.dev
@@ -70433,6 +70471,7 @@ node-tulsones.pages.dev
 node-vector.pages.dev
 node-wector.pages.dev
 nodes-beams.pages.dev
+noren-ledger.pages.dev
 norway-ledger.pages.dev
 not-start-eng-trezr.pages.dev
 nova-arc1.pages.dev
@@ -70575,6 +70614,7 @@ ordinalchainsecured.pages.dev
 ore-ecosystem.pages.dev
 orrca-trade.pages.dev
 oss-krken-logn.pages.dev
+ot-ledger.pages.dev
 ourhome-ledger.pages.dev
 outbreak-ledger.pages.dev
 oven-customer-ledger.pages.dev
@@ -70643,6 +70683,7 @@ papertradegov.pages.dev
 paribus-claim.pages.dev
 paribus-protocol-interface.pages.dev
 participate-peaqnetwork.pages.dev
+pasabuy-receipt-ledger.pages.dev
 pastyx.pages.dev
 pay-bis-com-log.pages.dev
 pay-bis-logi.pages.dev
@@ -70763,6 +70804,7 @@ phaver-ert.pages.dev
 pho-mtqswallet.pages.dev
 phosphor-nostr.pages.dev
 pieverses-vote-upcoming-rewards-date-treasury-pool-reward.pages.dev
+pingpong-ledger.pages.dev
 pixel-oassemble.pages.dev
 pl-rainbet-com-6b97cdf11f.pages.dev
 plant-ledger-ax.pages.dev
@@ -70796,7 +70838,10 @@ pmh-ledger.pages.dev
 pnhs-school-ledger.pages.dev
 pnl-ledger.pages.dev
 pocket-ledger.pages.dev
+pocket-ledger-2bg.pages.dev
+pocket-ledger-60z.pages.dev
 pocket-ledger-div.pages.dev
+pocket-ledger-v02.pages.dev
 pocket-ledger-web-a2h.pages.dev
 pocket-ledgerv2.pages.dev
 podslushano-tme09339.pages.dev
@@ -70944,6 +70989,7 @@ projeto-coin.pages.dev
 promptrectifyapprove.pages.dev
 prooposal-yieldbasis-info.pages.dev
 property-ledger-4qn.pages.dev
+property-ledger-4z3.pages.dev
 proposal-3jane.pages.dev
 proposal-apyxfi.pages.dev
 proposal-argus.pages.dev
@@ -71298,6 +71344,7 @@ rainbetwin-org-9b367f1d.pages.dev
 ramses-events.pages.dev
 ramsesapp.pages.dev
 ramseseco.pages.dev
+ranch-ledger.pages.dev
 rapid-dock-x.pages.dev
 ray-dium.pages.dev
 raydiium-swaap-en-us.pages.dev
@@ -71485,6 +71532,7 @@ scarquest-whitelist.pages.dev
 school-trezorlogin.pages.dev
 scrollscr.pages.dev
 scrool-23x.pages.dev
+seat-ledger.pages.dev
 secess-trezor-ai.pages.dev
 second-ledger.pages.dev
 secour-desktop-ledgr.pages.dev
@@ -71570,6 +71618,7 @@ setup-trzor-io.pages.dev
 sf-studios-ledger.pages.dev
 sfonkbroker.pages.dev
 share-form.pages.dev
+shared-ledger-web.pages.dev
 shared-money-ledger-v06-validation.pages.dev
 shenghuo-ledger-27823ad.pages.dev
 shepsky-ai.pages.dev
@@ -72270,6 +72319,7 @@ tracer-renderer-144.pages.dev
 track-ledgerlive.pages.dev
 trade-bluefin.pages.dev
 trade-ledger-5ak.pages.dev
+trade-ledger-app.pages.dev
 tradego-finance-mike-preview.pages.dev
 traezar--suite-en.pages.dev
 traezar-suite-en.pages.dev
@@ -73206,6 +73256,7 @@ visit-layerzeronetwork.pages.dev
 visit-ledgr-live-faq.pages.dev
 visit-liive-ledgrr.pages.dev
 vitality-ledger-crm.pages.dev
+vitals-ledger-8zs.pages.dev
 vivaah-ledger.pages.dev
 vivewss.pages.dev
 vivoslot.pages.dev
@@ -73499,6 +73550,7 @@ wallt-live-ledgre.pages.dev
 wallts-ledgrrliv-eng-us.pages.dev
 walltt--live-ledgr-info-home.pages.dev
 waptrusttrade.pages.dev
+warwick-ledger.pages.dev
 water-whitelist.pages.dev
 water-whitelisting.pages.dev
 waytosecureyo-xpxtoksvpemil.pages.dev
@@ -73606,6 +73658,7 @@ web3studiov3.pages.dev
 webdebanknode.pages.dev
 webexodus-wallet.pages.dev
 webpage-desktop-en-ledgr.pages.dev
+webpage-edge-start-trezo.pages.dev
 webs-doc-exdus.pages.dev
 website-exds-wallet.pages.dev
 website-ledgr--access.pages.dev
@@ -73770,6 +73823,7 @@ xl-vo.pages.dev
 xlm-d1v.pages.dev
 xmega.pages.dev
 xn--cross-i11b.pages.dev
+xnm-trip-ledger.pages.dev
 xpfunxyz.pages.dev
 xqgl-ledger.pages.dev
 xrp-foundation.pages.dev
@@ -73780,6 +73834,7 @@ xrpl-events.pages.dev
 xrpl-portal.pages.dev
 xsolanaxraydium.pages.dev
 xstocks-allocation.pages.dev
+xuguo-ledger.pages.dev
 xxds-io-apps.pages.dev
 y45xb7uxr8bz611ama76ni1j.pages.dev
 yeifi-votings.pages.dev
@@ -92969,6 +93024,7 @@ tornadocash.net
 touchdown26.net
 tpglobalwallet.net
 trackintel.net
+ua.tradefaq.net
 tradegrok.net
 trademxai.net
 traderjoexyz.net
@@ -103248,6 +103304,7 @@ support-ledgr.square.site
 support-ledgrr.square.site
 support-nda-x.square.site
 terezor-io-cdn.square.site
+to-set-up-your-ledger-hardware-wallet-ledger.square.site
 trazor-iiostart.square.site
 trejar-suite.square.site
 trejr-suite.square.site
