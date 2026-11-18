@@ -78705,6 +78705,7 @@ allocation-stockereum.icu
 allocation-umiafinance.icu
 allocation-up33.icu
 checker.allocation-usdai.icu
+allocation-varlational.icu
 allocation-zipcoin.icu
 allocationfidelity.icu
 allocations-aero.icu
