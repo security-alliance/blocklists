@@ -65605,6 +65605,7 @@ allocation-octra.pages.dev
 allocation-orbiterfinance.pages.dev
 allocation-prismassets.pages.dev
 allocation-umiafinance.pages.dev
+allocation-varlational.pages.dev
 allocation-yieldfields.pages.dev
 allocation-zipcoin.pages.dev
 allocations-abs.pages.dev
