@@ -16222,7 +16222,6 @@
 ||token-imwallet.cc^$all
 ||tokenclaims.cc^$all
 ||tokencs.cc^$all
-||tokendistribution.cc^$all
 ||tokendistributions.cc^$all
 ||tokenpocketd.cc^$all
 ||tp-tokenpocket.cc^$all
@@ -68863,6 +68862,7 @@
 ||kinetiq-votes.pages.dev^$all
 ||kinetiq-voting.pages.dev^$all
 ||kinetiqeco.pages.dev^$all
+||kinetiqgenesis.pages.dev^$all
 ||kinetiqgov.pages.dev^$all
 ||kinetiqlabs.pages.dev^$all
 ||kinetiqsfnd.pages.dev^$all
