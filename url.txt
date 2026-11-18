@@ -1323,6 +1323,7 @@ https://sites.google.com/view/metamask-crypto-web/home
 https://sites.google.com/view/metamask-drive/home
 https://sites.google.com/view/metamask-en-extensin/home
 https://sites.google.com/view/metamask-en-us/home
+https://sites.google.com/view/metamask-en/home
 https://sites.google.com/view/metamask-eng-getting/home
 https://sites.google.com/view/metamask-enpro/home
 https://sites.google.com/view/metamask-ext-io/home
