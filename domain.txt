@@ -70220,6 +70220,7 @@ manage-bitbuylogin.pages.dev
 manage-device-connects-ledgrs.pages.dev
 manage-en-ledgr.pages.dev
 manage-exdus-wallet.pages.dev
+manage-io-coinbaze.pages.dev
 manage-ledger-livelogin.pages.dev
 manage-ledgr-live-sso.pages.dev
 manage-trezr-io-start.pages.dev
@@ -93603,6 +93604,7 @@ nexuslabs.network
 neyro.network
 onchainhub.network
 papertrade.network
+payments-layerzero.network
 points-turtle.network
 pondo.network
 ponsfamily.network

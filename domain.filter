@@ -70220,6 +70220,7 @@
 ||manage-device-connects-ledgrs.pages.dev^$all
 ||manage-en-ledgr.pages.dev^$all
 ||manage-exdus-wallet.pages.dev^$all
+||manage-io-coinbaze.pages.dev^$all
 ||manage-ledger-livelogin.pages.dev^$all
 ||manage-ledgr-live-sso.pages.dev^$all
 ||manage-trezr-io-start.pages.dev^$all
@@ -93603,6 +93604,7 @@
 ||neyro.network^$all
 ||onchainhub.network^$all
 ||papertrade.network^$all
+||payments-layerzero.network^$all
 ||points-turtle.network^$all
 ||pondo.network^$all
 ||ponsfamily.network^$all
