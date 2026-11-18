@@ -63421,6 +63421,7 @@ pr-7831.1inch-io-app.pages.dev
 6-proposal-ascendlaunch.pages.dev
 6-proposal-computersrh.pages.dev
 6-proposal-derive.pages.dev
+6-proposal-elysium.pages.dev
 6-proposal-embervalegame.pages.dev
 6-proposal-ethos.pages.dev
 6-proposal-extendedexchange.pages.dev
@@ -93483,7 +93484,6 @@ cases-celsius.network
 cclcore.network
 cclportal.network
 chain.network
-chart-flare.network
 checker-firelight.network
 checker-hylo.network
 arcbridge.chienlvm.network
@@ -106239,6 +106239,7 @@ governance-flare-network.top
 governance-flarenetworks.top
 governance-gauntleteco.top
 governance-kaminofi.top
+governance-kinetiq.top
 governance-launchonpeak.top
 governance-mantle.top
 governance-plasma.top

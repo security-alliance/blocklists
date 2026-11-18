@@ -63421,6 +63421,7 @@
 ||6-proposal-ascendlaunch.pages.dev^$all
 ||6-proposal-computersrh.pages.dev^$all
 ||6-proposal-derive.pages.dev^$all
+||6-proposal-elysium.pages.dev^$all
 ||6-proposal-embervalegame.pages.dev^$all
 ||6-proposal-ethos.pages.dev^$all
 ||6-proposal-extendedexchange.pages.dev^$all
@@ -93483,7 +93484,6 @@
 ||cclcore.network^$all
 ||cclportal.network^$all
 ||chain.network^$all
-||chart-flare.network^$all
 ||checker-firelight.network^$all
 ||checker-hylo.network^$all
 ||arcbridge.chienlvm.network^$all
@@ -106239,6 +106239,7 @@
 ||governance-flarenetworks.top^$all
 ||governance-gauntleteco.top^$all
 ||governance-kaminofi.top^$all
+||governance-kinetiq.top^$all
 ||governance-launchonpeak.top^$all
 ||governance-mantle.top^$all
 ||governance-plasma.top^$all
