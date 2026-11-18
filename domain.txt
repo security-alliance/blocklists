@@ -103936,7 +103936,6 @@ ga-zi.store
 gain-pcmn.store
 geckosolswap.store
 gemcoin.store
-geminipro.store
 gemtoken.store
 gestion-trustwallet.store
 getmydigi.store
