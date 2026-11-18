@@ -24934,6 +24934,7 @@ allocation-flow.com
 allocation-fluid.com
 allocation-gato.com
 allocation-hylo.com
+allocation-hyperlend.com
 allocation-infinifi.com
 allocation-jeanphil.com
 allocation-jumper.com
@@ -24960,6 +24961,7 @@ allocation-re.com
 allocation-robinhood.com
 allocation-round.com
 allocation-satrush.com
+allocation-saturn.com
 allocation-site.com
 allocation-soil.com
 allocation-solangelescity.com
@@ -36053,6 +36055,7 @@ kastcards.com
 kastlogin.com
 kastrowallet.com
 katana-dex.com
+katana-finance.com
 kaurux.com
 kautax.com
 kautux.com
@@ -43092,6 +43095,7 @@ sknsmonkey.com
 sky-craken.com
 skykrak-en.com.sky-kraken.com
 skyapexmining.com
+skyeco-finances.com
 skyeco-governance.com
 skyeco-money.com
 skyecorewards.com
