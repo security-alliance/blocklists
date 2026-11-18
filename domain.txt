@@ -87288,6 +87288,7 @@ bonusallocation.live
 bonusdrop.live
 bonushub.live
 bonusxrpl.live
+boost-aero.live
 bravermere-trust.live
 brayvonexplus.live
 brickken-migration.live
@@ -88063,6 +88064,7 @@ guardsafe.live
 guestsecure.live
 gvrt-claim.live
 hardwarewalletsdesktop.live
+harvest-pancakeswap.live
 hatrali.live
 hazeseas.live
 hederafund.live
@@ -110715,6 +110717,7 @@ app-cap.xyz
 app-cashcat.xyz
 app-celo.xyz
 app-cheesecakeswap-flnance.xyz
+app-claimera.xyz
 app-claiming.xyz
 app-coldcard.xyz
 app-concrete.xyz
@@ -118000,6 +118003,7 @@ vote-hyperecosystem.xyz
 vote-hyperfndn.xyz
 vote-hyperfoundation.xyz
 vote-hyperlidquid.xyz
+vote-hyperliuquid.xyz
 vote-hyperlqd.xyz
 vote-ika.xyz
 vote-inco.xyz
