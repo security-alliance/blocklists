@@ -1136,7 +1136,6 @@ secure-uphold-io.created.app
 secure-uphold-login.created.app
 sign-uphold.created.app
 sos-upload.created.app
-sso-coinbse-logi.created.app
 sso-io-uphold.created.app
 sso-up-hold-io.created.app
 sso-uphcld.created.app
@@ -90822,6 +90821,7 @@ csmoney.com.mx
 curve-finance.com.mx
 ethereumcasino.com.mx
 etherscan.com.mx
+ghazzy.com.mx
 hellcase.com.mx
 hyperliquid.com.mx
 inbetcasino.com.mx
