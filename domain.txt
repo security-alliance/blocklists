@@ -107,6 +107,7 @@ cbots.ai
 stage.circlecommerce.ai
 claim-open.ai
 clashx.ai
+claudetrading.ai
 coinbase50index.ai
 coinbaseinvestors.ai
 binance.com.ai
@@ -34170,6 +34171,7 @@ ejgfhjprj.gozoviews.com
 wildcard.gozoviews.com
 youmpcpqz.gozoviews.com
 gpt2vhub.com
+gptaitrade.com
 163buff.gr.com
 1iinch.gr.com
 1inch-swap.gr.com
@@ -34412,6 +34414,7 @@ grokaitrade.com
 grokblockchain.com
 grokbotportal.com
 groktradebot.com
+groktraderbot.com
 stellarbuild.grondon.com
 help-eng-coiinbasehelp-cdn.groovehq.com
 grosvnr.com
@@ -75761,7 +75764,6 @@ zap.exchange
 akash.expert
 dscrloanscalifornia.expert
 trustwallet.expert
-4ffb850edb35.dynamic.coinbase.exposed
 git.coinbase.exposed
 tokenmanager.coinbase.exposed
 polymarket.exposed
@@ -82394,6 +82396,7 @@ claim-remittix.io
 claimboard.io
 claimpudgy.io
 claimtrustwallet.io
+claudetradebot.io
 closure-cumberland.io
 codice-ledger.io
 coin-stats.io
@@ -84095,9 +84098,11 @@ goblinswap.io
 gonexora.io
 app.gophantom.io
 gov-centrifuge.io
+gramstake.io
 grass-foundation.io
 grassfoundations.io
 kraken.grizzlebear.io
+groktrade.io
 gtcberlin.io
 harborwallet.io
 hbuilderx.io
@@ -96106,6 +96111,7 @@ gphillymath.org
 graniteassets.org
 grant-zoobit.org
 greenshot.org
+groktradebot.org
 growthinktank.org
 growthrevenuecooperation.org
 grxchain.org
@@ -96990,6 +96996,7 @@ snapshot-humanity.org
 snapshot-justlend.org
 dashboard-opensea.snhge.org
 sniperxai.org
+snipex.org
 extension.soflare.org
 soft-ledger.org
 sol-crypto-casino.org
