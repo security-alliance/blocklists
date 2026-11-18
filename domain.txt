@@ -2503,7 +2503,6 @@ coinbase-chat-support.netlify.app
 coinbase-check.netlify.app
 coinbase-desktop-login.netlify.app
 coinbase-official.netlify.app
-coinbase-secure-login.netlify.app
 coinbase-secure-wallet.netlify.app
 coinbase-signup.netlify.app
 coinbase-supportcenter.netlify.app

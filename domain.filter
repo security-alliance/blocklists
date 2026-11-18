@@ -2503,7 +2503,6 @@
 ||coinbase-check.netlify.app^$all
 ||coinbase-desktop-login.netlify.app^$all
 ||coinbase-official.netlify.app^$all
-||coinbase-secure-login.netlify.app^$all
 ||coinbase-secure-wallet.netlify.app^$all
 ||coinbase-signup.netlify.app^$all
 ||coinbase-supportcenter.netlify.app^$all
