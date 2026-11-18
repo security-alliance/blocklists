@@ -86217,6 +86217,7 @@ ci-collab.land
 clv-collab.land
 core-collab.land
 cr-collab.land
+cve-collab.land
 d1c-collab.land
 d3c-collab.land
 dac-collab.land
