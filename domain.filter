@@ -16572,8 +16572,6 @@
 ||trustcard.center^$all
 ||up-x.center^$all
 ||virtuals.center^$all
-||x-appeal.center^$all
-||x-compliance.center^$all
 ||airdrop.ceo^$all
 ||coinbase.ceo^$all
 ||dasad.ceo^$all
@@ -52201,12 +52199,9 @@
 ||wzjsxx.com^$all
 ||wznsq.com^$all
 ||x-actions.com^$all
-||x-app-redirect.com^$all
 ||x-assetreview.com^$all
 ||x-change-password.com^$all
 ||x-clarification.com^$all
-||x-clarity.com^$all
-||x-communities.com^$all
 ||x-contentdispute.com^$all
 ||x-contentinquiries.com^$all
 ||x-contentinquiry.com^$all
@@ -52240,15 +52235,9 @@
 ||x-mek.com^$all
 ||x-messs.com^$all
 ||x-metadao.com^$all
-||x-newloginalerts.com^$all
-||x-newnotifications.com^$all
-||x-newpassword.com^$all
 ||x-norepy.com^$all
 ||x-noticecenter.com^$all
-||x-okx-fireblocks.com^$all
-||x-okx-flowdesk.com^$all
 ||x-okx-fwd.com^$all
-||x-okx-swisstronik.com^$all
 ||x-okx-sym-biotic.com^$all
 ||x-okx-unstoppable.com^$all
 ||x-omni.com^$all
@@ -52257,9 +52246,7 @@
 ||x-redirect-ledger.com^$all
 ||x-redirect-link.com^$all
 ||x-redirect-processing.com^$all
-||x-redirecting.com^$all
 ||x-redirection-link.com^$all
-||x-redirection-live.com^$all
 ||x-redirection-secured.com^$all
 ||x-redirects-secure.com^$all
 ||x-redirects-secures.com^$all
@@ -97545,7 +97532,6 @@
 ||wsteth.org^$all
 ||www-trezor.org^$all
 ||wwwcrypto.org^$all
-||x-security.org^$all
 ||x-sender.org^$all
 ||xaman-qualify.org^$all
 ||xaman-rewards.org^$all

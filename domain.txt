@@ -16572,8 +16572,6 @@ trust-card.center
 trustcard.center
 up-x.center
 virtuals.center
-x-appeal.center
-x-compliance.center
 airdrop.ceo
 coinbase.ceo
 dasad.ceo
@@ -52201,12 +52199,9 @@ wyyxau.com
 wzjsxx.com
 wznsq.com
 x-actions.com
-x-app-redirect.com
 x-assetreview.com
 x-change-password.com
 x-clarification.com
-x-clarity.com
-x-communities.com
 x-contentdispute.com
 x-contentinquiries.com
 x-contentinquiry.com
@@ -52240,15 +52235,9 @@ x-meg.com
 x-mek.com
 x-messs.com
 x-metadao.com
-x-newloginalerts.com
-x-newnotifications.com
-x-newpassword.com
 x-norepy.com
 x-noticecenter.com
-x-okx-fireblocks.com
-x-okx-flowdesk.com
 x-okx-fwd.com
-x-okx-swisstronik.com
 x-okx-sym-biotic.com
 x-okx-unstoppable.com
 x-omni.com
@@ -52257,9 +52246,7 @@ x-prier.com
 x-redirect-ledger.com
 x-redirect-link.com
 x-redirect-processing.com
-x-redirecting.com
 x-redirection-link.com
-x-redirection-live.com
 x-redirection-secured.com
 x-redirects-secure.com
 x-redirects-secures.com
@@ -97545,7 +97532,6 @@ wormhole-foundation.org
 wsteth.org
 www-trezor.org
 wwwcrypto.org
-x-security.org
 x-sender.org
 xaman-qualify.org
 xaman-rewards.org
