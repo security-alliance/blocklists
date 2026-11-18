@@ -105725,7 +105725,6 @@ coi12a.top
 coinbase.top
 coinbase-crypto.top
 coinbase-fogexter.top
-coinbase-globale.top
 coinbase-likeapp.top
 coinbase517.top
 coinbase55.top
