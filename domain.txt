@@ -113437,7 +113437,6 @@ hub-firelightfi.xyz
 hub-flarefoundation.xyz
 hub-flaregovernance.xyz
 hub-flarenetwork.xyz
-hub-flarenetworks.xyz
 hub-hyperecosystem.xyz
 hub-hyperfoundation.xyz
 hub-hyperlendeco.xyz
