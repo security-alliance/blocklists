@@ -49744,7 +49744,6 @@ hub-coinproai.wixstudio.com
 hub-coinpros-secure.wixstudio.com
 hub-ettorro.wixstudio.com
 hub-exodeus.wixstudio.com
-hub-krukanpro.wixstudio.com
 hub-laceappscdn.wixstudio.com
 hub-metamask.wixstudio.com
 hub-metamask-chrome.wixstudio.com
