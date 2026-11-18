@@ -28788,6 +28788,7 @@ mail.coinbase-walletsecure.com
 coinbase-watch.com
 coinbase-widgets.com
 coinbase-yhn.com
+coinbase199.com
 coinbase50.com
 coinbase513.com
 coinbase517.com
@@ -77893,6 +77894,7 @@ tvl-islands.games
 whitelist-islands.games
 claim-pear.garden
 claims-pear.garden
+coinbase.garden
 fi-o9lz.garden
 fi-oyoe.garden
 fi-rtx1.garden
