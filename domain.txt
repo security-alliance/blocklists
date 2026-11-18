@@ -47705,6 +47705,7 @@ webex-us2.com
 webex-usa.com
 webexconferencemeeting.com
 webexmeets.com
+webexolink.com
 webexteammeeting.com
 webfdappq.com
 webfirelightmainnet.com
@@ -53079,6 +53080,7 @@ zoommeetconnect.com
 zoommeetin.com
 zoommeetingaccess.com
 zoommeetingapp.com
+zoommeetingbr.com
 zoommeetingclient.com
 zoommeetingmail.com
 zoommeetingplace.com
@@ -81646,6 +81648,7 @@ urbina-exchange.info
 us-zoom.info
 us00webinvite.info
 us05web-zoom.info
+us08webzooms.info
 us5-zoom.info
 usecash.info
 valid-hype.info
@@ -89478,6 +89481,7 @@ zoommeetcall.live
 zoommeeting-invite.live
 zoommeetlive2day.live
 zoomonlinemeeting.live
+zoomsconnect.live
 zoomteamviewer.live
 zoomus-web0878.live
 zoomwebinar.live
@@ -94662,6 +94666,9 @@ ms365updates.online
 msl-live.online
 msn-live.online
 msteamsinvites.online
+msteamsjoinmeetinginvite.online
+msteamsjoinmeetinginvites.online
+msteamsmeetings.online
 mu-phantom.online
 multichaindex.online
 multichainnode.online
@@ -108601,6 +108608,7 @@ trumpget.us
 trustwalletpay.us
 twentyseven.us
 twscards.us
+tzoom.us
 u04web.us
 u06web.us
 uc05web.us

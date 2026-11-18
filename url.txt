@@ -596,7 +596,6 @@ https://sites.google.com/view/connect-ledger-desktop
 https://sites.google.com/view/connect-metamaskiohelp/home
 https://sites.google.com/view/connect-metmsk/home
 https://sites.google.com/view/connect-trezor-suite
-https://sites.google.com/view/connect-trezor-suite/desktop
 https://sites.google.com/view/connectcoinpro-us/home
 https://sites.google.com/view/connectwithmetamask/home
 https://sites.google.com/view/console-meta-eng/home

@@ -47705,6 +47705,7 @@
 ||webex-usa.com^$all
 ||webexconferencemeeting.com^$all
 ||webexmeets.com^$all
+||webexolink.com^$all
 ||webexteammeeting.com^$all
 ||webfdappq.com^$all
 ||webfirelightmainnet.com^$all
@@ -53079,6 +53080,7 @@
 ||zoommeetin.com^$all
 ||zoommeetingaccess.com^$all
 ||zoommeetingapp.com^$all
+||zoommeetingbr.com^$all
 ||zoommeetingclient.com^$all
 ||zoommeetingmail.com^$all
 ||zoommeetingplace.com^$all
@@ -81646,6 +81648,7 @@
 ||us-zoom.info^$all
 ||us00webinvite.info^$all
 ||us05web-zoom.info^$all
+||us08webzooms.info^$all
 ||us5-zoom.info^$all
 ||usecash.info^$all
 ||valid-hype.info^$all
@@ -89478,6 +89481,7 @@
 ||zoommeeting-invite.live^$all
 ||zoommeetlive2day.live^$all
 ||zoomonlinemeeting.live^$all
+||zoomsconnect.live^$all
 ||zoomteamviewer.live^$all
 ||zoomus-web0878.live^$all
 ||zoomwebinar.live^$all
@@ -94662,6 +94666,9 @@
 ||msl-live.online^$all
 ||msn-live.online^$all
 ||msteamsinvites.online^$all
+||msteamsjoinmeetinginvite.online^$all
+||msteamsjoinmeetinginvites.online^$all
+||msteamsmeetings.online^$all
 ||mu-phantom.online^$all
 ||multichaindex.online^$all
 ||multichainnode.online^$all
@@ -108601,6 +108608,7 @@
 ||trustwalletpay.us^$all
 ||twentyseven.us^$all
 ||twscards.us^$all
+||tzoom.us^$all
 ||u04web.us^$all
 ||u06web.us^$all
 ||uc05web.us^$all
