@@ -72988,7 +72988,6 @@
 ||trust-wallet-en-cmr.pages.dev^$all
 ||trust-wallet-en-dam.pages.dev^$all
 ||trust-wallet-eng.pages.dev^$all
-||trust-wallet-eng-cdn.pages.dev^$all
 ||trust-wallet-extension-en.pages.dev^$all
 ||trust-wallet-extension-us.pages.dev^$all
 ||trust-wallet-faq.pages.dev^$all
@@ -90355,7 +90354,6 @@
 ||rewardss.makeup^$all
 ||su-shiswaporguide.makeup^$all
 ||su-shiswaporguides.makeup^$all
-||trustwallet.management^$all
 ||xn--matrca-6va.management^$all
 ||capital-x.market^$all
 ||econft.market^$all
