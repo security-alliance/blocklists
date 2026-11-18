@@ -14227,6 +14227,7 @@ oabthe.arbitrum.com.br
 atende.bcmshop.com.br
 bitrefill.com.br
 metamaskwallett.blogspot.com.br
+trustwallet-secure.blogspot.com.br
 trustwalletlogin.blogspot.com.br
 centrodeinfusaocuritiba.com.br
 vww-robinhood.cincodm.com.br
@@ -94984,6 +94985,7 @@ trustwallet-codegen.online
 trustwallet-help.online
 trustwallet-mobile.online
 trustwallet-org.online
+autoconfig.trustwallet-secure.online
 trustwallet-security.online
 trustwallet-suport.online
 trustwallet-support.online
