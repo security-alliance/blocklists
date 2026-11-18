@@ -19679,6 +19679,7 @@ huobi.ac.cn
 kk-binance.ac.cn
 kk-okx.ac.cn
 trustwallet.ac.cn
+aevntrax.cn
 zh-binance.ah.cn
 ai-binance.cn
 ai-htx.cn
