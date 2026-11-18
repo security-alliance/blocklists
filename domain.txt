@@ -66427,6 +66427,7 @@ coin-base-pro-login.pages.dev
 coin-base-pro-loginn.pages.dev
 coin-base-pro-logn-io.pages.dev
 coin-base-pro-us.pages.dev
+coin-base-sign.pages.dev
 coin-base-sign-c67.pages.dev
 coin-base-startt-en.pages.dev
 coin-base-startt-eng.pages.dev
