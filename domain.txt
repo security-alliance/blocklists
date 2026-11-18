@@ -1726,7 +1726,6 @@ hypereco.app
 hyperecosystem.app
 hyperecosystems.app
 hyperliquid-claiming.app
-hyperliquid-events.app
 hyperliquid-foundation.app
 hyperliquid-reward.app
 hyperliquid-rewards.app
@@ -26558,7 +26557,6 @@ bitchainconnect.com
 bitcharmax.com
 bitcharplus.com
 bitcharpro.com
-bitcodexer.com
 bitcoin-crypto-portal.com
 bitcoin-login.com
 bitcoin-mix.com
@@ -30873,7 +30871,6 @@ deltatrade-dex.com
 demo-rainbet.com
 coinbase.demoproof.com
 demotopspot.com
-denadex.com
 denalitrdsgroupltd.com
 denial-apple.com
 dennisfedewa4supervisor.com
@@ -80884,7 +80881,6 @@ everything-inc.info
 everythinginc.info
 evmfi.info
 evmhub.info
-evmnet.info
 exact-map.info
 exodus-client.info
 exodus-recovery.info
@@ -87551,7 +87547,6 @@ cwallet.live
 cwdapp.live
 cyberleeksol.live
 dachain.live
-dailyfarm.live
 dapp-flareevent.live
 dapp-flarefdn.live
 dapp-flarefn.live
