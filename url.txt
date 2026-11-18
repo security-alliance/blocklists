@@ -1835,7 +1835,6 @@ https://sites.google.com/view/trezor-web-download/trezor-suite
 https://sites.google.com/view/trezor-web-one/trezor-suite
 https://sites.google.com/view/trezor-web-start
 https://sites.google.com/view/trezor-web-start/
-https://sites.google.com/view/trezor-web-us
 https://sites.google.com/view/trezoriostars/home
 https://sites.google.com/view/trezorr-hardwae/home
 https://sites.google.com/view/trezrio-login/home
