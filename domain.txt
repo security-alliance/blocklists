@@ -112853,6 +112853,7 @@ flaregovernance-vote.xyz
 flaregovernance-votes.xyz
 flaregovernance-voting.xyz
 flarenet-votes.xyz
+flarenetwork-allocations.xyz
 governance.flarenetwork-community.xyz
 flarenetwork-dashboard.xyz
 flarenetwork-event.xyz
