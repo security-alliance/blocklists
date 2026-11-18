@@ -12221,7 +12221,6 @@ xaman-com.zapier.app
 zcashstamp.app
 zealclaim.app
 zealearnings.app
-zebec-io.app
 zebecnetwork.app
 zeeverse.app
 zoom-pro.app
