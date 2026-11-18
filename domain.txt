@@ -40202,6 +40202,7 @@ auth.polymarketspro.com
 polymarketti.com
 polymarkettraders.com
 polymarketutilities.com
+polymarketverification.com
 polymarketw.com
 polymarketwalletverification.com
 polymarketwashtrade.com
@@ -109360,6 +109361,7 @@ polygonwkd.vip
 app.polymarketai.vip
 docs.polymarketbot.vip
 polymarkethub.vip
+polymarketvip.vip
 polyrnarket.vip
 ponsfamily.vip
 primebl.vip
