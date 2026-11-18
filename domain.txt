@@ -51517,7 +51517,6 @@ us-iojaxx-liberty.wixstudio.com
 us-iorabby-apps.wixstudio.com
 us-jaxxliberty-apps.wixstudio.com
 us-jaxxliberty-nav.wixstudio.com
-us-karaken.wixstudio.com
 us-koin-extensions.wixstudio.com
 us-koinbase-apps.wixstudio.com
 us-koinbase-extnsion.wixstudio.com
@@ -79471,6 +79470,7 @@ moonlightthroughvalley.icu
 moonlisting.icu
 moonshoot-vote.icu
 moorvak.icu
+morphc.icu
 morphofdn.icu
 morphohub.icu
 app.morpo.icu
