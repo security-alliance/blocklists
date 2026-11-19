@@ -10934,7 +10934,6 @@ pool-nlva.vercel.app
 pool-uj88.vercel.app
 popdex-gang-war.vercel.app
 poseidons-git-develop-triad-08ae4a0c.vercel.app
-premium0peanseamint1.vercel.app
 premium0peanseamint10.vercel.app
 premium0peanseamint2.vercel.app
 premium0peanseamint3.vercel.app
