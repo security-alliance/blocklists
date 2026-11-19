@@ -12047,7 +12047,6 @@ www-mexc.app
 wwwjup-ag.app
 x7pad.app
 xaipolicy.app
-xaman-allocations.app
 xaman-announcement.app
 xaman-dashboard.app
 xaman-home.app
@@ -24794,7 +24793,6 @@ aiinvest-us.com
 ail44.com
 aileensoto.com
 ailegacybot.com
-ailocationfinder.com
 aimetadataremove.com
 aiobais.com
 aiokraken.com
@@ -42561,7 +42559,6 @@ safepalcare.com
 safepalcase.com
 safepalweb.com
 safeportal-coinspot.com
-safeportalcustomer-coinbase.com
 safeportalvault-coinbase.com
 safespall.com
 safety-account-coinbase.com
@@ -44011,7 +44008,6 @@ support---crypto.com
 coinbase.support-834179.com
 support-binance.com
 support-bitrue.com
-support-case-kraken.com
 support-center.com
 support-coincover.com
 support-creneauoption.com
@@ -47393,7 +47389,6 @@ electrum.wallet-web.com
 sparrow.wallet-web.com
 wallet-web3.com
 wallet2qr.com
-walletaccountverification.com
 walletadapter-cdn-cloud.com
 walletbridgeapp.com
 walletc0re.com
@@ -47438,12 +47433,10 @@ walletsecure-trezor.com
 walletsetupupdate.com
 walletsfaq.com
 walletsmartsearch.com
-walletsolution.com
 walletstatementhub.com
 walletsupport-coinbase.com
 web.walletsync-dapp.com
 wallettcard.com
-wallettrustapp.com
 wallex-user.com
 walllet-app.com
 walllet-io.com
@@ -90491,7 +90484,6 @@ jimmyfla.me
 jrcorp.me
 keplr.me
 kracryptos.me
-kraken-dex.me
 krkm.me
 ledger-app.me
 ledger-wallet.me
@@ -108457,7 +108449,6 @@ hyperliquidx.us
 hyperswap.us
 hyperswappool.us
 ibpccorp.us
-icloudapp.us
 icloudapple.us
 iloginlost-applecol.us
 ilozeuam.us
@@ -108854,7 +108845,6 @@ w21zoom.us
 w22zoom.us
 wa-atomic.us
 wal-phantom-wallat.us
-waletam99-link.us
 wallet-atomic.us
 wallet-base.us
 wallet-tm-help.us
@@ -111901,7 +111891,6 @@ dapp-paperfoundation.xyz
 dapp-papertrade.xyz
 dapp-resolverprotocol.xyz
 dapp-solayer.xyz
-dapp-trustepads.xyz
 dapp-trustpade.xyz
 dapp-web-connnect.xyz
 dapp-xrpl.xyz
@@ -113512,8 +113501,6 @@ height-kite-core.xyz
 heliuss.xyz
 helmtrading.xyz
 help-checker-review-unlock-ai-24h7d-active-212509.xyz
-help-checker-review-unlock-recover-24h.xyz
-help-review-checker-unlock-007310.xyz
 heyaskr.xyz
 hipfunds.xyz
 hiptrade.xyz

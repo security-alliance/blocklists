@@ -12047,7 +12047,6 @@
 ||wwwjup-ag.app^$all
 ||x7pad.app^$all
 ||xaipolicy.app^$all
-||xaman-allocations.app^$all
 ||xaman-announcement.app^$all
 ||xaman-dashboard.app^$all
 ||xaman-home.app^$all
@@ -24794,7 +24793,6 @@
 ||ail44.com^$all
 ||aileensoto.com^$all
 ||ailegacybot.com^$all
-||ailocationfinder.com^$all
 ||aimetadataremove.com^$all
 ||aiobais.com^$all
 ||aiokraken.com^$all
@@ -42561,7 +42559,6 @@
 ||safepalcase.com^$all
 ||safepalweb.com^$all
 ||safeportal-coinspot.com^$all
-||safeportalcustomer-coinbase.com^$all
 ||safeportalvault-coinbase.com^$all
 ||safespall.com^$all
 ||safety-account-coinbase.com^$all
@@ -44011,7 +44008,6 @@
 ||coinbase.support-834179.com^$all
 ||support-binance.com^$all
 ||support-bitrue.com^$all
-||support-case-kraken.com^$all
 ||support-center.com^$all
 ||support-coincover.com^$all
 ||support-creneauoption.com^$all
@@ -47393,7 +47389,6 @@
 ||sparrow.wallet-web.com^$all
 ||wallet-web3.com^$all
 ||wallet2qr.com^$all
-||walletaccountverification.com^$all
 ||walletadapter-cdn-cloud.com^$all
 ||walletbridgeapp.com^$all
 ||walletc0re.com^$all
@@ -47438,12 +47433,10 @@
 ||walletsetupupdate.com^$all
 ||walletsfaq.com^$all
 ||walletsmartsearch.com^$all
-||walletsolution.com^$all
 ||walletstatementhub.com^$all
 ||walletsupport-coinbase.com^$all
 ||web.walletsync-dapp.com^$all
 ||wallettcard.com^$all
-||wallettrustapp.com^$all
 ||wallex-user.com^$all
 ||walllet-app.com^$all
 ||walllet-io.com^$all
@@ -90491,7 +90484,6 @@
 ||jrcorp.me^$all
 ||keplr.me^$all
 ||kracryptos.me^$all
-||kraken-dex.me^$all
 ||krkm.me^$all
 ||ledger-app.me^$all
 ||ledger-wallet.me^$all
@@ -108457,7 +108449,6 @@
 ||hyperswap.us^$all
 ||hyperswappool.us^$all
 ||ibpccorp.us^$all
-||icloudapp.us^$all
 ||icloudapple.us^$all
 ||iloginlost-applecol.us^$all
 ||ilozeuam.us^$all
@@ -108854,7 +108845,6 @@
 ||w22zoom.us^$all
 ||wa-atomic.us^$all
 ||wal-phantom-wallat.us^$all
-||waletam99-link.us^$all
 ||wallet-atomic.us^$all
 ||wallet-base.us^$all
 ||wallet-tm-help.us^$all
@@ -111901,7 +111891,6 @@
 ||dapp-papertrade.xyz^$all
 ||dapp-resolverprotocol.xyz^$all
 ||dapp-solayer.xyz^$all
-||dapp-trustepads.xyz^$all
 ||dapp-trustpade.xyz^$all
 ||dapp-web-connnect.xyz^$all
 ||dapp-xrpl.xyz^$all
@@ -113512,8 +113501,6 @@
 ||heliuss.xyz^$all
 ||helmtrading.xyz^$all
 ||help-checker-review-unlock-ai-24h7d-active-212509.xyz^$all
-||help-checker-review-unlock-recover-24h.xyz^$all
-||help-review-checker-unlock-007310.xyz^$all
 ||heyaskr.xyz^$all
 ||hipfunds.xyz^$all
 ||hiptrade.xyz^$all
