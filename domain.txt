@@ -12265,7 +12265,6 @@ mintora.art
 mpeg-unipeg.art
 nexushuba.art
 phantomdrop.art
-poiy-community.art
 polymarketbot.art
 proposal-unipeg.art
 proposals-unipeg.art
