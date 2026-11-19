@@ -743,7 +743,6 @@ https://sites.google.com/view/exodus-web3-enus/home
 https://sites.google.com/view/exodus-web3-helps/home
 https://sites.google.com/view/exodus-web3-learn/home
 https://sites.google.com/view/exodus-web3-page/home
-https://sites.google.com/view/exodus-web3-view/home
 https://sites.google.com/view/exodus-web3-wal/home
 https://sites.google.com/view/exodus-web3a/home
 https://sites.google.com/view/exodus-web3wallet--/home
@@ -767,8 +766,6 @@ https://sites.google.com/view/exodusweb3-authu/home
 https://sites.google.com/view/exodusweb3-extension/home
 https://sites.google.com/view/exodusweb3-home/home
 https://sites.google.com/view/exodusweb3-homepage/home
-https://sites.google.com/view/exodusweb3e/home
-https://sites.google.com/view/exoduswebhelp-en/home
 https://sites.google.com/view/exoduswebs-wallet/home
 https://sites.google.com/view/exoduswebwallet/home
 https://sites.google.com/view/exoduswec/home
@@ -1890,7 +1887,6 @@ https://sites.google.com/view/way-exudos-en/home
 https://sites.google.com/view/web-base-exons/home
 https://sites.google.com/view/web-coinbas/home
 https://sites.google.com/view/web-en-exodus/home
-https://sites.google.com/view/web-eng-exodus/home
 https://sites.google.com/view/web-exdus-en/home
 https://sites.google.com/view/web-exodos-en/home
 https://sites.google.com/view/web-exodus-walletcdn/home
@@ -1900,7 +1896,6 @@ https://sites.google.com/view/web-extensionn/home
 https://sites.google.com/view/web-metamaske/home
 https://sites.google.com/view/web-metmaskhelp/home
 https://sites.google.com/view/web-trezor-download/trezor-suite
-https://sites.google.com/view/web-us-en/home
 https://sites.google.com/view/web-user-bitbuy/home
 https://sites.google.com/view/web3-wallet-extnsion/home
 https://sites.google.com/view/web3exodus-wllet/home

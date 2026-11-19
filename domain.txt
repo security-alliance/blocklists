@@ -48375,7 +48375,6 @@ apps-moanpny.wixstudio.com
 apps-mompay.wixstudio.com
 apps-mompey.wixstudio.com
 apps-moonpaycdnn.wixstudio.com
-apps-moonpayio.wixstudio.com
 apps-moonpy.wixstudio.com
 apps-nav-iorabby.wixstudio.com
 apps-navrabby.wixstudio.com
