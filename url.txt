@@ -133,6 +133,7 @@ https://sites.google.com/view/base-nav-exodus/home
 https://sites.google.com/view/base-wallet-exten/home
 https://sites.google.com/view/base-wallet-extensionn/home
 https://sites.google.com/view/base-wallet-key/home
+https://sites.google.com/view/base-wallet-koinbase/home
 https://sites.google.com/view/baseapps-extension/home
 https://sites.google.com/view/basecoin-extension-/home
 https://sites.google.com/view/baseio-exten/home
@@ -301,6 +302,7 @@ https://sites.google.com/view/coinbase--getting-/home
 https://sites.google.com/view/coinbase--getting-started/home
 https://sites.google.com/view/coinbase--homes/home
 https://sites.google.com/view/coinbase--loginn/home
+https://sites.google.com/view/coinbase--logopro/home
 https://sites.google.com/view/coinbase--prodigital/home
 https://sites.google.com/view/coinbase--public-/home
 https://sites.google.com/view/coinbase--public/home
@@ -878,6 +880,7 @@ https://sites.google.com/view/get-browse-metmask/home
 https://sites.google.com/view/get-coinbaselog/home
 https://sites.google.com/view/get-extension-base/home
 https://sites.google.com/view/get-extension/home
+https://sites.google.com/view/get-live-coinbase/home
 https://sites.google.com/view/get-metamask-wallet/home
 https://sites.google.com/view/get-metamasksso/home
 https://sites.google.com/view/get-my-money-back-from-coinbas/home
@@ -967,6 +970,7 @@ https://sites.google.com/view/home-extension-us/home
 https://sites.google.com/view/home-extensionapps-/home
 https://sites.google.com/view/home-extensions--/home
 https://sites.google.com/view/home-extensions-web/home
+https://sites.google.com/view/home-extn-base/home
 https://sites.google.com/view/home-get-extension/home
 https://sites.google.com/view/home-metamask/home
 https://sites.google.com/view/home-qoinbase/home
@@ -1761,6 +1765,7 @@ https://sites.google.com/view/storeopinioncan
 https://sites.google.com/view/storeopinioncan/home
 https://sites.google.com/view/systemsworkhowtofixtrustwallet/home
 https://sites.google.com/view/tech-coinbase-cdn/home
+https://sites.google.com/view/terclesmulthe
 https://sites.google.com/view/thesmartercontacttotrustwallet
 https://sites.google.com/view/tppen0wf2e/downloads
 https://sites.google.com/view/transfer-fund-from-coinbase/home
