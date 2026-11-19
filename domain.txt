@@ -16476,6 +16476,7 @@ x7fortune.cc
 xaman-rewards.cc
 xbets.cc
 xdbot.cc
+xenolk.cc
 xinlvse.cc
 xinmljys.cc
 xmagnetic.cc
@@ -26606,6 +26607,7 @@ bitcointix.com
 bitcoinwalte.com
 bitcoinwell-desktop.com
 bitcompliancereview.com
+bitcotyrax.com
 bitcryptoforesta.com
 bitcryptoforestb.com
 bitcvc.com
@@ -30372,6 +30374,7 @@ cryptocoinfix.com
 cryptocomplianttrade.com
 cryptocreditra.com
 cryptocscex.com
+cryptocsscud.com
 opensea.cryptodeficonnect.com
 cryptodefilufeiq.com
 cryptoeprime.com
@@ -42427,6 +42430,7 @@ roviwell.com
 rovowin.com
 rowcas.com
 royacex.com
+royal-capaz-ex.com
 royal-capital-pro.com
 royal-captal-ex.com
 royal-captas-ex.com
@@ -46868,6 +46872,7 @@ ventraore.com
 venture-coinbase.com
 venture-startup.com
 venusearnersassets.com
+vephoraholdings.com
 vepoplumbers.com
 verdict-x.com
 vereed.com
@@ -47677,6 +47682,7 @@ web3connectpayments.com
 web3crypto-gate.com
 web3cryptogates.com
 web3dappsnetwork.com
+web3defimax.com
 web3evmpayconnect.com
 web3exblock.com
 web3exodusfixer.com
@@ -50437,7 +50443,6 @@ moonpayapps.wixstudio.com
 moonpaycdn.wixstudio.com
 moonpays-io.wixstudio.com
 moonpsaylogin.wixstudio.com
-moonpy-nav.wixstudio.com
 more-bitbuycdn.wixstudio.com
 more-jaxxlibrtty.wixstudio.com
 more-metmask-nav.wixstudio.com
@@ -53328,6 +53333,7 @@ zoom-connects.company
 ensou.computer
 speccy.computer
 chrisgreen.consulting
+quantumtokenomics.consulting
 hyper-liquid.contact
 onchain.contact
 support-meta-mask.contact
@@ -91997,6 +92003,7 @@ coinexsi.net
 coingeckorguide.net
 coingeckorguides.net
 coinhakxam.net
+coinhakxm.net
 coinhall.net
 coinhy.net
 coinmarkatcapvote.net
@@ -92214,6 +92221,7 @@ exodus-online.net
 ru1.exodus4.net
 exodusapp.net
 exoduscrypto.net
+exodusjn.net
 exodusonline.net
 exodusprox.net
 exodusui.net
@@ -92244,6 +92252,7 @@ fileharbor.net
 finalfunnel.net
 finance-community.net
 finanisweb3.net
+fincove.net
 finorixpro.net
 firelight-fxrp.net
 firelightfinance.net
@@ -92805,6 +92814,7 @@ prjxs.net
 prjxx.net
 processhacker.net
 procointrade.net
+profitlinefinance.net
 proinvestai.net
 promotwscrdc.net
 proposal-linera.net
@@ -92995,6 +93005,7 @@ ruqvexabit.net
 ruqvexapro.net
 ruqvexavip.net
 ruqvexc.net
+ruqvexs.net
 rwagrvt.net
 rysk-finance.net
 s2-tokenpocket.net
@@ -96119,6 +96130,7 @@ folksfinance.org
 fomovote.org
 forgefinance.org
 fortskins.org
+fqexplus.org
 frax-finance.org
 fraxswap.org
 kraken.kievithof.freeddns.org
@@ -99030,6 +99042,7 @@ finance99-similique46.pro
 finance99-ut52.pro
 finance99-ut60.pro
 finance99-ut91.pro
+fincoins.pro
 firstbet.pro
 fix-fload.pro
 flarefoundation.pro
@@ -101827,6 +101840,7 @@ service-compliance.sbs
 sfonkbroker.sbs
 shared-docu-cloud9.sbs
 shroomnetwork.sbs
+shtoken.sbs
 sigardovia.sbs
 sign-auth-key.sbs
 signinwith-microsoft.sbs
@@ -107448,6 +107462,8 @@ updatezdoc.top
 upgrade-aero.top
 upgrade-aeroxyz.top
 upwardform.top
+uranusvip.top
+uranuvip.top
 us00web-meeting.top
 us02web-zoom.top
 usaweb3-lsegg.top
@@ -109470,6 +109486,7 @@ river14.vip
 riversidevip1.vip
 rolldistrict.vip
 rollnex.vip
+royal-capaz-ex.vip
 royal-capital-pro.vip
 royal-captal-ex.vip
 royalspin.vip
@@ -109599,6 +109616,7 @@ webhk.vip
 webmixer-mirror.vip
 webmixer-mixcrypto.vip
 webs3coinme.vip
+weex-ex.vip
 wgkkk.vip
 whatsapp-upro.vip
 whir-mirror.vip
