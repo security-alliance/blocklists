@@ -16604,7 +16604,6 @@ account-appid-verification.cfd
 accountbridge.cfd
 activate-bluetick.cfd
 adichain.cfd
-cake.aerofinance.cfd
 aerosxyz.cfd
 aerosxyz-news.cfd
 aerovoting.cfd
