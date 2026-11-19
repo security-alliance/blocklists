@@ -21044,6 +21044,7 @@ cardtrustwallet.co
 careers-ibm.co
 base-bridge.carrd.co
 cbase.carrd.co
+getborrowell.carrd.co
 htx-io.carrd.co
 nav-bitbuy-en.carrd.co
 rabby-support-number.carrd.co
@@ -92096,6 +92097,7 @@ cyphereth.net
 daedaluswallet.net
 cow.dao-main.net
 dappstroe.net
+borrowell.dataprot.net
 datasyncllc.net
 dcentwallet.net
 dcgeeks.net
