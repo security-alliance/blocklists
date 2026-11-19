@@ -54133,6 +54133,7 @@ oskarkregar.dev
 1-governance-etherfi.pages.dev
 1-governance-ethosnetwork.pages.dev
 1-governance-fables.pages.dev
+1-governance-firelightfi.pages.dev
 1-governance-fluid.pages.dev
 1-governance-fobo.pages.dev
 1-governance-fobofun.pages.dev
