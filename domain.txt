@@ -10937,7 +10937,6 @@ poseidons-git-develop-triad-08ae4a0c.vercel.app
 premium0peanseamint10.vercel.app
 premium0peanseamint3.vercel.app
 premium0peanseamint6.vercel.app
-premium0peanseamint8.vercel.app
 premium0peanseamint9.vercel.app
 privara-dapps.vercel.app
 private-wallet-service.vercel.app
