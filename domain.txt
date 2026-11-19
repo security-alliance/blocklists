@@ -37931,6 +37931,7 @@ milkywayad.com
 milkywayjc.com
 milkywaz.com
 minbetlv.com
+mindoprotect.com
 dapp.minedetheconnect.com
 mineoverse.com
 mines-predictor.com
@@ -86292,6 +86293,7 @@ ci-collab.land
 clv-collab.land
 core-collab.land
 cr-collab.land
+cvb-collab.land
 cve-collab.land
 d1c-collab.land
 d3c-collab.land
@@ -92253,7 +92255,9 @@ flarenetworktaxinfo.net
 flarenetworktaxnotice.net
 flareportals.net
 flaretokens.net
+flipguard.net
 fljh.net
+flowprotect.net
 flrdrop.net
 flrtrustline-airdrop.net
 fluxbite.net
@@ -93974,6 +93978,7 @@ base-rewards.one
 baseazul.one
 eth.basechain.one
 basedx.one
+baseguard.one
 bcbbs.one
 bcgame-official.one
 beefyfinance.one
