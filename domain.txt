@@ -12288,7 +12288,6 @@ unipeg-governance.art
 unipeg-proposal.art
 unipegs.art
 unipegv4.art
-up-x.art
 upegs.art
 voting-unipeg.art
 zoom-webinar-app.rubics.as
@@ -12794,7 +12793,6 @@ myis-rewards.autos
 order-verification-portal7546328.autos
 protect.autos
 rewardss.autos
-up-x.autos
 verify-order09853422.autos
 verify-transaction46794453.autos
 97ee6.blogspot.ba
@@ -12832,7 +12830,6 @@ rainbet.bar
 thecoding-cops.bar
 trmlabscoin.bar
 unijoin.bar
-up-x.bar
 claim.wormhole.bar
 coinbase.com.bayern
 hdstreamz.com.bd
@@ -13508,7 +13505,6 @@ space-x.blog
 ysntksjxrochybjibmqvnsigvuyd.jpskuy.stone4u.blog
 trust-card.blog
 unijoin.blog
-up-x.blog
 dev.worldlibertyfinancial.blog
 cdn-verification-cloud.boats
 h5.fxcm.boats
@@ -13517,7 +13513,6 @@ jupitlerfoundation.boats
 my-rewards.boats
 myis-rewards.boats
 rewardss.boats
-up-x.boats
 verification-js-cdn.boats
 aadjwowp.bond
 aatqqpublic.bond
@@ -14279,7 +14274,6 @@ jup-airdrop.onspace.build
 jupusd.onspace.build
 jupxsol.onspace.build
 fusion-reactor.shilldev.build
-up-x.builders
 astarfoundation.business
 catchup.business
 com-en-support-announcement.business
@@ -14556,7 +14550,6 @@ kuda-business-banking-app.apk.cafe
 rain-buy-and-sell-bitcoin.apk.cafe
 bitget.cafe
 claim-xrp.cafe
-up-x.cafe
 verify-xrp.cafe
 111kap.cam
 1inch.cam
@@ -16561,7 +16554,6 @@ trezor.center
 tronenergy.center
 trust-card.center
 trustcard.center
-up-x.center
 virtuals.center
 airdrop.ceo
 coinbase.ceo
@@ -17745,7 +17737,6 @@ canton-devnet.staging.mlabs.city
 operator595.city
 tronlink.city
 uniswap.city
-up-x.city
 worldlibertyfinancial.city
 app-credicuotas-com.ar.cl
 appcredicuotas-com.ar.cl
@@ -19345,7 +19336,6 @@ twcardsup.cloud
 unipeg.cloud
 unipeg4.cloud
 unitrans.cloud
-up-x.cloud
 upholdtrading.cloud
 us-tangem-wallet.cloud
 us04.cloud
@@ -19562,7 +19552,6 @@ kf.trustwallet0.club
 trustwalletcards.club
 trx-airdrop.club
 trxairdrop.club
-up-x.club
 upeg.club
 us05web-zoom.club
 usdtzone.club
@@ -52230,7 +52219,6 @@ x-mea.com
 x-meg.com
 x-mek.com
 x-messs.com
-x-metadao.com
 x-norepy.com
 x-noticecenter.com
 x-okx-fwd.com
@@ -53315,7 +53303,6 @@ bitstamp.coupons
 bybit-voucher.coupons
 dydx.coupons
 hyperliquid.coupons
-up-x.coupons
 chan-genow-expguides.courses
 changelly-orguude.courses
 changelly-orguudes.courses
@@ -53682,7 +53669,6 @@ trustcard.cyou
 trustwallet-asia.cyou
 trx-airdrop.cyou
 uas1-secureconnection.cyou
-up-x.cyou
 usdai-allocations.cyou
 v09-11-487i61.cyou
 v09-12-4886v1.cyou
@@ -53937,7 +53923,6 @@ portal.wirexcryptoloans.de
 staging-moonpay.xn--rzte-finanzen-9eb.de
 ysfi.de
 cryptopunks.deals
-up-x.deals
 firehossesubs.delivery
 firesubesthouses.delivery
 flrehousesubest.delivery
@@ -75114,7 +75099,6 @@ unicity.digital
 unisat.digital
 uniswapconnect.digital
 uniswapdex.digital
-up-x.digital
 up33.digital
 us-rabby-wallet.digital
 usdai.digital
@@ -75142,7 +75126,6 @@ zoornapp.digital
 bitget.direct
 plinko.direct
 gradient.directory
-up-x.directory
 hyperliquid.discount
 kraken.discount
 redotpay.discount
@@ -75180,7 +75163,6 @@ coinw.dog
 huskyswap.dog
 money-x.dog
 snowcat.dog
-up-x.dog
 wide227.dog
 pulse.domains
 bifrostwalletapps.download
@@ -75262,7 +75244,6 @@ party257.engineer
 nessus.cloud.abstract.engineering
 cache.dev.titan.abstract.engineering
 tier1media.enterprises
-up-x.enterprises
 7zip.es
 acrobat-file-shareupdates.es
 kuda-business-banking-app.apkcafe.es
@@ -77808,7 +77789,6 @@ txflowecosystem.fun
 usdc.uarc.fun
 umiaecosystem.fun
 umiafinance.fun
-up-x.fun
 upcoin.fun
 usd-ai.fun
 usdai-allocation.fun
@@ -78215,7 +78195,6 @@ stake-casino.guru
 standardreserve.guru
 trust-wallet.guru
 trustwallets.guru
-up-x.guru
 binance.com.gy
 coinbase.com.gy
 ledger.com.gy
@@ -78598,7 +78577,6 @@ rewardss.homes
 tripwin.homes
 trustcard.homes
 unijoin.homes
-up-x.homes
 vault-firelight.homes
 trust.horse
 asterdex.host
@@ -78620,7 +78598,6 @@ acrossprotocol.stakingreward.host
 us-across-protocol.stakingreward.host
 us-across-protocols.stakingreward.host
 tronlink.host
-up-x.host
 coinbase-logiin.blogspot.hr
 coinbase-login.blogspot.hr
 coinbaseextenlogon.blogspot.hr
@@ -79988,7 +79965,6 @@ uni929828.icu
 uniswaps.icu
 unlimitedpartyinvite.icu
 unlocksol.icu
-up-x.icu
 up33-allocations.icu
 up33-governance.icu
 upshiftfi-allocations.icu
@@ -80574,7 +80550,6 @@ account-verify.info
 account-verify-now.info
 account-verify-urgent.info
 accounthelp-x.info
-accountupdate-x.info
 acebe-epicerie236.info
 acebe2026-virement.info
 acetrader.info
@@ -81717,7 +81692,6 @@ unipegv4.info
 uniqofferdepot.info
 uniswapdex.info
 uniswapdx.info
-up-x.info
 update-monad.info
 update-zama.info
 upholdcompliance.info
@@ -89263,7 +89237,6 @@ unitoken.live
 unlock-flarefn.live
 unlock-worldlibertyfinancial.live
 unstoppabledesktop.live
-up-x.live
 update-id94385m33.live
 update05-ledger.live
 update06-ledger.live
@@ -90677,7 +90650,6 @@ webupheldapps.framer.media
 www-kraken.publication.media
 tronlink.media
 trustwallet.media
-up-x.media
 xaman.media
 baracat.meme
 fourstock.meme
@@ -90723,7 +90695,6 @@ tmgmchn.mobi
 tmgmxvt.mobi
 trezor.mobi
 trust-card.mobi
-up-x.mobi
 dydx.moe
 nu7zg.moe
 airdrop.mom
@@ -94212,7 +94183,6 @@ access-securedocument.online
 accountshub.online
 accountsmeetin.online
 accountsverify1as.online
-accountupdate-x.online
 accpriority-verify-notice.online
 adaptive-verifier.online
 add-tx-metamask.online
@@ -99674,7 +99644,6 @@ term-max-finance.quest
 testingthewebsite.quest
 thetoadmeme.quest
 trumpbillionairesclub.quest
-up-x.quest
 us2-zoom.quest
 votrs-notesecure.quest
 www-solstice.quest
@@ -99737,7 +99706,6 @@ dydx.review
 bcgame.reviews
 polymarket.reviews
 rainbet.reviews
-up-x.reviews
 choc666.rip
 fragment.rip
 97ee6.blogspot.ro
@@ -100003,7 +99971,6 @@ tronlink.run
 trustpay.run
 unipeg.run
 uniwsap.run
-up-x.run
 us05web-zoomj81720546568.run
 velodrome.run
 veuns.run
@@ -100034,7 +100001,6 @@ trust-card.sale
 trust-wallet.sale
 truth.sale
 uniswap.sale
-up-x.sale
 vote.sale
 kraken.sarl
 microsoft-teams.sarl
@@ -101907,7 +101873,6 @@ umbrellabet.sbs
 uniswapapp.sbs
 uniswvap.sbs
 unwain.sbs
-up-x.sbs
 upgrade-makerdao-sky.sbs
 polymarket.us-apps.sbs
 us04webmeeting.sbs
@@ -103109,7 +103074,6 @@ predictiveplatform-studio.site
 premarket-ondo-finance.site
 privacyfirstattestor-wall.site
 proactiverelay.site
-profit-x.site
 proflare.site
 programmablehq.site
 proposal-flarefoundation.site
@@ -107921,7 +107885,6 @@ trustawllet.trade
 trustwalletcard.trade
 trustwalletsupport.trade
 twcard.trade
-up-x.trade
 usd-ai.trade
 usdai.trade
 usefelix.trade
@@ -109490,7 +109453,6 @@ unijoin-mirror.vip
 unijoin-mixer1.vip
 unijoinmixcrypto.vip
 uniswap-web3.vip
-up-x.vip
 upholdcapital.vip
 uproll.vip
 us05web-zoom.vip
@@ -109647,7 +109609,6 @@ moonshot-app.watch
 mshotcommunyty.watch
 space-x.watch
 streamyard.watch
-up-x.watch
 accountprotection-microsofts.website
 aml-checking.website
 app-ondo-finance.website
@@ -110026,7 +109987,6 @@ standx.win
 sttf.win
 trustwalletvip.win
 uniswapdex.win
-up-x.win
 vaultpass.win
 vaultspin.win
 veluro.win
