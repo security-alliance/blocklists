@@ -36965,6 +36965,7 @@ logsecure-office.com
 lolbuku.com
 lolikz.com
 lombardfinanc.com
+lombardfinancebroad.com
 lomiresto.com
 london-spin.com
 london-view-50m.com
@@ -92545,6 +92546,7 @@ log-my-auth-service-portal.net
 login-auth-server-gov-cent-service-portal.net
 login-auth-service-gov-portal.net
 login-help.net
+lombardfinancenewsletter.net
 looping-collective.net
 lottery-zerion.net
 loudflare.net
