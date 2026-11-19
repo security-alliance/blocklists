@@ -36331,6 +36331,7 @@ krakenxink.com
 krakexx.com
 krakotcwithdrawals.com
 krakstake.com
+kredyt-gdansk.com
 krgamb.com
 kriodep.com
 krispykreme-giftcards.com
@@ -71101,6 +71102,7 @@ public-ledgr-login.pages.dev
 public-livv-us-ledgr.pages.dev
 public-new-jupiter-swap.pages.dev
 public-new-orca-swap.pages.dev
+public-open-seaa.pages.dev
 public-trezor-en-us.pages.dev
 public-trezor-io.pages.dev
 publice-trezor-io-login.pages.dev
