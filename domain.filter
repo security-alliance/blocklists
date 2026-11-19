@@ -94459,7 +94459,6 @@
 ||coinbase.com-claim.online^$all
 ||com-hellp.online^$all
 ||com-id.online^$all
-||com-live-app.online^$all
 ||com-live-start.online^$all
 ||com-manage-address.online^$all
 ||com-money.online^$all
@@ -94650,7 +94649,6 @@
 ||io-inc.online^$all
 ||io-skin.online^$all
 ||io-start-app.online^$all
-||io-suites.online^$all
 ||io-sujte.online^$all
 ||io-wallet-suite.online^$all
 ||io-web-start.online^$all
