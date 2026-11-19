@@ -113776,7 +113776,6 @@ incentive-firelightfi.xyz
 incentive-hyperliquidx.xyz
 incentiveclaim.xyz
 incentives-aave.xyz
-incentives-firelight.xyz
 incentives-uniswap.xyz
 incentivesclaim.xyz
 incentivnet.xyz
