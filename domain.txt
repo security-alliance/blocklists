@@ -1561,7 +1561,6 @@ flarenetworks-proposal.app
 flarenetworks-vote.app
 flarenetworks-votes.app
 flarenetworks-voting.app
-vote.flarenetworks.app
 flarent-vote.app
 flaresvoting.app
 flarevote.app
@@ -19250,7 +19249,6 @@ eigen.stakingreward.cloud
 gtc.stakingreward.cloud
 interface-fuelnetwork.stakingreward.cloud
 interface-graphprotocol.stakingreward.cloud
-interface-lidofinance.stakingreward.cloud
 interface-links.stakingreward.cloud
 interface-railguns.stakingreward.cloud
 interface-wxt.stakingreward.cloud

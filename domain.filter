@@ -1561,7 +1561,6 @@
 ||flarenetworks-vote.app^$all
 ||flarenetworks-votes.app^$all
 ||flarenetworks-voting.app^$all
-||vote.flarenetworks.app^$all
 ||flarent-vote.app^$all
 ||flaresvoting.app^$all
 ||flarevote.app^$all
@@ -19250,7 +19249,6 @@
 ||gtc.stakingreward.cloud^$all
 ||interface-fuelnetwork.stakingreward.cloud^$all
 ||interface-graphprotocol.stakingreward.cloud^$all
-||interface-lidofinance.stakingreward.cloud^$all
 ||interface-links.stakingreward.cloud^$all
 ||interface-railguns.stakingreward.cloud^$all
 ||interface-wxt.stakingreward.cloud^$all
