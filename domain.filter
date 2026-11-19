@@ -1308,6 +1308,7 @@
 ||cricfystv.app^$all
 ||crypto-ads.app^$all
 ||crypto-guru.app^$all
+||crypto-ledger.app^$all
 ||cryptobubbles.app^$all
 ||cryptokosmos.app^$all
 ||cryptospunks.app^$all
@@ -1721,6 +1722,7 @@
 ||hylofnd.app^$all
 ||hylofoundation.app^$all
 ||hylofoundations.app^$all
+||hyperchecker.app^$all
 ||hypereco.app^$all
 ||hyperecosystem.app^$all
 ||hyperecosystems.app^$all
@@ -19833,6 +19835,7 @@
 ||c-bybit.com.cn^$all
 ||c2b-binance.com.cn^$all
 ||c5-binance.com.cn^$all
+||cao-okx.com.cn^$all
 ||cba-okx.com.cn^$all
 ||cc-bian.com.cn^$all
 ||cc-metamask.com.cn^$all
@@ -19889,8 +19892,10 @@
 ||cndns-binance.com.cn^$all
 ||cndzh-okx.com.cn^$all
 ||cne-okx.com.cn^$all
+||cnget-okx.com.cn^$all
 ||cnh-okx.com.cn^$all
 ||cnm-okx.com.cn^$all
+||cnnet-okx.com.cn^$all
 ||cno-okx.com.cn^$all
 ||cnpc-binance.com.cn^$all
 ||cnpc-okx.com.cn^$all
@@ -21259,6 +21264,7 @@
 ||inversionesjog.co^$all
 ||io-suite-auth.co^$all
 ||io-suiteaccess.co^$all
+||ionicdigital.co^$all
 ||jointeamsapp.co^$all
 ||jup-ag.co^$all
 ||jupag.co^$all
@@ -22953,6 +22959,7 @@
 ||483923-crypto.com^$all
 ||483923-voyager.com^$all
 ||484-acceweb-auth.com^$all
+||484743-crypto.com^$all
 ||48493-case-admin.com^$all
 ||485129-robinhood.com^$all
 ||485604-binance.com^$all
@@ -22996,6 +23003,7 @@
 ||493267-crypto.com^$all
 ||493335coinbase.com^$all
 ||49372google.com^$all
+||493734coinbase.com^$all
 ||493848coinbase.com^$all
 ||493885-coinspot.com^$all
 ||494734binance.com^$all
@@ -24158,6 +24166,7 @@
 ||905361-crypto.com^$all
 ||905821-crypto.com^$all
 ||907251-crypto.com^$all
+||907584coinbase.com^$all
 ||908233-icloud.com^$all
 ||908347-coinbase.com^$all
 ||909218-crypto.com^$all
@@ -27557,6 +27566,8 @@
 ||casa-pariurilors.com^$all
 ||casapariurilor-new.com^$all
 ||cascade-meet.com^$all
+||case-298393-apple.com^$all
+||case-349483-apple.com^$all
 ||case-38645.com^$all
 ||case-394845-crypto.com^$all
 ||case-compliance.com^$all
@@ -27767,6 +27778,7 @@
 ||cenavex.com^$all
 ||center-gmail.com^$all
 ||center-market.com^$all
+||centerstat-x.com^$all
 ||centralfloridapowerwash.com^$all
 ||collab.centrals-land.com^$all
 ||centralswissbank.com^$all
@@ -28573,6 +28585,7 @@
 ||supportcbase.co.com^$all
 ||sushifi.co.com^$all
 ||t-suite.co.com^$all
+||tangem.co.com^$all
 ||treckexs.co.com^$all
 ||trezorsuite-v2.co.com^$all
 ||trezorwallet.co.com^$all
@@ -29863,6 +29876,7 @@
 ||compior.com^$all
 ||complainant-x.com^$all
 ||complaintcases-x.com^$all
+||compliance-344343-apple.com^$all
 ||compliance-81237413.com^$all
 ||exodus.compliance-clarity-verify.com^$all
 ||exodus.compliance-clarity.com^$all
@@ -29874,11 +29888,14 @@
 ||compliance-reports-apple.com^$all
 ||compliance-review-id0651.com^$all
 ||compliance-trustnet.com^$all
+||compliancecase-apple.com^$all
 ||compliancecheck-x.com^$all
 ||complianced-x.com^$all
 ||compliancedmca-x.com^$all
+||complianceid-apple.com^$all
 ||compliancekraken.com^$all
 ||compliancemedia-x.com^$all
+||compliancereview-apple.com^$all
 ||complience-coinbase.com^$all
 ||comply-zoom.com^$all
 ||compound-authority.com^$all
@@ -31121,6 +31138,7 @@
 ||disconnection-coinbase.com^$all
 ||discover-trustwallet.com^$all
 ||discovers-trustwallet.com^$all
+||discovery-erp.com^$all
 ||discovesnfts.com^$all
 ||opensea-io.discovesu.com^$all
 ||opensea-io.discovexnfts.com^$all
@@ -34635,6 +34653,7 @@
 ||help-notification-x.com^$all
 ||help-notify-x.com^$all
 ||help-portal-coinbase.com^$all
+||help-safety-apple.com^$all
 ||help-strike.com^$all
 ||help-triyst.com^$all
 ||help-trustwallets.com^$all
@@ -34658,6 +34677,7 @@
 ||helper-coinbase.com^$all
 ||helpful-robinhood.com^$all
 ||helpid-coinbase.com^$all
+||helpid-kraken.com^$all
 ||helpinghands-gmail.com^$all
 ||helpledgerlive.com^$all
 ||helpmessages-coinbase.com^$all
@@ -34666,6 +34686,7 @@
 ||helpnsupport-microsoft.com^$all
 ||helpphantom.com^$all
 ||helpresolve-x.com^$all
+||helpreview-x.com^$all
 ||helpreviews-x.com^$all
 ||helps-metamask.com^$all
 ||helps-x.com^$all
@@ -34676,6 +34697,8 @@
 ||helpsolflare.com^$all
 ||helpssup-microsoft.com^$all
 ||helpssupport-microsoft.com^$all
+||helpstat-x.com^$all
+||helpstatus-x.com^$all
 ||helptelus.com^$all
 ||helpticket-x.com^$all
 ||helpupdates-x.com^$all
@@ -35357,6 +35380,7 @@
 ||informs-x.com^$all
 ||infowallets-coinbase.com^$all
 ||infozaem.com^$all
+||infra-cluster.com^$all
 ||infringed-x.com^$all
 ||infringement-x.com^$all
 ||infringementdesk-x.com^$all
@@ -35466,6 +35490,7 @@
 ||inv-fxgld.com^$all
 ||inv-intteractiveltd.com^$all
 ||inv1tesecure.com^$all
+||invalid-gmail.com^$all
 ||invariant-app.com^$all
 ||invariant-exchange.com^$all
 ||invcloud26reader.com^$all
@@ -38251,6 +38276,7 @@
 ||myauthverify.com^$all
 ||mybankapp.com^$all
 ||mycase-x.com^$all
+||mycases-x.com^$all
 ||dabatandamsteamworkspace.myclickfunnels.com^$all
 ||mycontacthere.com^$all
 ||mycraaccount-login.com^$all
@@ -38306,6 +38332,7 @@
 ||circleinfra.mysmartxs.com^$all
 ||myspbs.com^$all
 ||mysso-setup.com^$all
+||mystats-x.com^$all
 ||mystellarterm.com^$all
 ||mysterysoluck.com^$all
 ||acrossprotocol.mystrikingly.com^$all
@@ -40340,6 +40367,7 @@
 ||postrelated-x.com^$all
 ||postreport-x.com^$all
 ||postreviews-x.com^$all
+||postsreview-x.com^$all
 ||postupdates-x.com^$all
 ||postverify-x.com^$all
 ||pot-ledger.com^$all
@@ -40487,6 +40515,7 @@
 ||pro-ethbase.com^$all
 ||pro-htx.com^$all
 ||pro-phantom.com^$all
+||pro-v4.com^$all
 ||proapp-whatsapp.com^$all
 ||problem-coinbase.com^$all
 ||proccess-trustwallet.com^$all
@@ -42002,6 +42031,7 @@
 ||reviews-binance.com^$all
 ||reviews-ledger.com^$all
 ||reviews-yahoo.com^$all
+||reviewscheck-x.com^$all
 ||reviewsituation-x.com^$all
 ||reviewsmedia-x.com^$all
 ||reviewstatus-x.com^$all
@@ -42140,6 +42170,7 @@
 ||rewards-zestprotocol.com^$all
 ||rewardsteakhouse.com^$all
 ||rewardxripple.com^$all
+||rewievschecks-x.com^$all
 ||rewowin.com^$all
 ||rexigon-online.com^$all
 ||rexozis.com^$all
@@ -42882,6 +42913,7 @@
 ||seinetwork-voting.com^$all
 ||sekolahtoto-google.com^$all
 ||selerscope.com^$all
+||self-ticket.com^$all
 ||exoduss.sellodigitalagencia.com^$all
 ||selmavora.com^$all
 ||semewex.com^$all
@@ -44228,6 +44260,7 @@
 ||takisi-gmail.com^$all
 ||takisi1-gmail.com^$all
 ||tako356.com^$all
+||talean1985-gmail.com^$all
 ||metac.talentlinkpro-at.com^$all
 ||talk04eu.com^$all
 ||talk05eu.com^$all
@@ -44700,6 +44733,7 @@
 ||ticketid-kraken.com^$all
 ||ticketnotice-x.com^$all
 ||ticketreport-coinspot.com^$all
+||ticketrequest-x.com^$all
 ||ticketreviews-x.com^$all
 ||tickets-cancel-crypto.com^$all
 ||tickets-icloud-apple.com^$all
@@ -53300,6 +53334,7 @@
 ||rotunruprlu.courses^$all
 ||trons-can-expguides.courses^$all
 ||tronscan-expguides.courses^$all
+||ledger.fl.cr^$all
 ||app-saturn.credit^$all
 ||apr-saturn.credit^$all
 ||busey.credit^$all
@@ -53795,6 +53830,7 @@
 ||cyberduck.de^$all
 ||de-stake.de^$all
 ||defillamaa.de^$all
+||deltagramm.de^$all
 ||dermatologeberlin.de^$all
 ||docs-google.de^$all
 ||dogecoincasino1.de^$all
@@ -74256,6 +74292,7 @@
 ||sharp-base-da2.cf-hayrm6v1.workers.dev^$all
 ||quick-code-107.cf-heywsqgk.workers.dev^$all
 ||blue-hub-175.cf-hh8gm8qu.workers.dev^$all
+||cf-hlab3e2k.workers.dev^$all
 ||sharp-code-f6f.cf-hmqdwqv6.workers.dev^$all
 ||white-lab-256.cf-hx6eiudr.workers.dev^$all
 ||quick-wave-ca5.cf-i0e1ogmg.workers.dev^$all
@@ -75323,6 +75360,7 @@
 ||ll-ledger.es^$all
 ||luciaesclapez.es^$all
 ||myneweftbook.es^$all
+||no-binance.es^$all
 ||coinbase.org.es^$all
 ||kalshi.org.es^$all
 ||polymarket.org.es^$all
@@ -77180,6 +77218,7 @@
 ||droptoken.fun^$all
 ||dualspace.fun^$all
 ||early-alt.fun^$all
+||early-drop.fun^$all
 ||jupiter.earlydrop.fun^$all
 ||pons.earn-token.fun^$all
 ||earnsback-pump.fun^$all
@@ -77582,6 +77621,7 @@
 ||pumpdium.fun^$all
 ||pumpee.fun^$all
 ||pumpesoswapa.fun^$all
+||pumpey.fun^$all
 ||pumpf.fun^$all
 ||pumpfamily.fun^$all
 ||pumpfeeds.fun^$all
@@ -88578,6 +88618,7 @@
 ||optimumoptiontrade.live^$all
 ||optionbullmarket.live^$all
 ||optionteam.live^$all
+||orbinumnetwork.live^$all
 ||orcaclaim.live^$all
 ||orderbook.live^$all
 ||originslgnsdefi.live^$all
@@ -99072,6 +99113,7 @@
 ||lido-finance.pro^$all
 ||liodfinance.pro^$all
 ||liodo.pro^$all
+||liquidchainchecker.pro^$all
 ||littlepepetokens.pro^$all
 ||livemeets.pro^$all
 ||livemempool.pro^$all
@@ -102009,6 +102051,7 @@
 ||coinbase.com.sc^$all
 ||coindcx.com.sc^$all
 ||exodus.com.sc^$all
+||finance.com.sc^$all
 ||phantom.com.sc^$all
 ||safepal.com.sc^$all
 ||uphold.com.sc^$all
@@ -103053,6 +103096,7 @@
 ||patriotsweb3blockchain.site^$all
 ||pdf-zoom.site^$all
 ||pepegreen.site^$all
+||pepetochecker.site^$all
 ||performantbunker.site^$all
 ||phantom-trade.site^$all
 ||phantomhr.site^$all
