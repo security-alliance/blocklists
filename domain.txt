@@ -1496,7 +1496,6 @@ exedus.app
 exodus-app.app
 exodushelp.app
 exodusportfolio.app
-exolix.app
 exploit2026-ledger.app
 exploits2026-ledger.app
 explorer-xaman.app
@@ -15433,7 +15432,6 @@ derfy.cc
 m.deribitone.cc
 derip.cc
 derivax.cc
-dexalot.cc
 dexil.cc
 dexohhhttt.cc
 dextoken.cc
@@ -17926,7 +17924,6 @@ app-ponsecosystem.click
 app-priorseco.click
 app-pumpswap.click
 app-quickswap.click
-app-rubic.click
 app-sushi.click
 app-umiaecosystems.click
 app.app-usdai.click
@@ -18063,7 +18060,6 @@ cow-exchange.click
 cow-finance.click
 cow-protocol.click
 cow-swap-exchange.click
-cow-v2.click
 cowprotocol.click
 cowswap.click
 cowswap-en.click
@@ -18295,7 +18291,6 @@ earth.kumamo.click
 legacypoint.click
 legioncc.click
 lido-eth.click
-lido-stake.click
 lido-swap.click
 liminalmoney.click
 liquidity-qzu.click
@@ -18458,7 +18453,6 @@ pumpsolstreams.click
 pumpstreamer.click
 pumpswap-fun.click
 pumpswap-sol.click
-pumpswap-v2.click
 pumpswap-v3.click
 qcapplication.click
 qelvex-bonusvault.click
@@ -21289,7 +21283,6 @@ ledger-com-us.co
 ledgermlatam.co
 legder.co
 pay.lidofinancesystems.co
-lighterdex.co
 liquidcell.co
 powwi-cashback.livedemo.co
 lobstrdesktop.co
@@ -21301,7 +21294,6 @@ lumiwallet.co
 luxeplay.co
 marketlistingportal.co
 martianwallet.co
-maverickprotocol.co
 meet-in.co
 meet-live-videoscall.co
 meetteam.co
@@ -21396,7 +21388,6 @@ proposal-hyperliquid.co
 proposal-pendle.co
 proposal-virtuals.co
 pulsechainapp.co
-pump-swap.co
 pumpfunlive.co
 bridge.puslechain.co
 qevrion.co
@@ -21439,7 +21430,6 @@ serviceactivation-google.co
 shadegreenerltd.co
 shibinhood.co
 signin-com.co
-simple-swap.co
 simpleswapio.co
 sitesgoogle.co
 skyeco-finance.co
@@ -30500,7 +30490,6 @@ curv-s.com
 curvancefi.com
 curvapp.com
 curve-deskhelpfinance.com
-curve-dex.com
 curve-financ.com
 curve-finance-gid.com
 curve-finance-info.com
@@ -30835,7 +30824,6 @@ defitronwork.com
 defituna-app.com
 defituna-dex.com
 defituna-swap.com
-defitunadex.com
 defiwebeusdt.com
 defiwebusdt.com
 deflarenetwork.com
@@ -31927,7 +31915,6 @@ eth-lidostake.com
 eth-online-casino.com
 eth-pumpfun.com
 eth-qr-code.com
-eth-sushi.com
 eth-trustwallet.com
 ethamg26-fr.com
 ethantx.com
@@ -37114,7 +37101,6 @@ mafedox.com
 maga-win.com
 magical77889.com
 magicbettingcasinobelgique.com
-magiceden-io.com
 magicedenchest.com
 magicsolanas.com
 magikeden.com
@@ -96015,7 +96001,6 @@ fedora-it.org
 fenix-finance.org
 fexglobals.org
 fexoglobal.org
-ff-io-swap.org
 ff-io-v2.org
 file-zilla.org
 filecoinwallet.org
@@ -96254,7 +96239,6 @@ jupdex.org
 jupilerexchange.org
 jupiter-allocation.org
 jupiter-foundation.org
-jupiter-swap.org
 juprewards.org
 just-lend.org
 just-swap.org
@@ -96328,7 +96312,6 @@ legder-lives.org
 legderlive-sync.org
 legiler.org
 letsvpns.org
-lfjdex.org
 libredoc.org
 lido-en.org
 lidoex.org
@@ -96739,7 +96722,6 @@ prize-ondo.org
 prjcx.org
 processhacker.org
 projectobs.org
-projectxdex.org
 promo-base.org
 promo-p.org
 promo-settings.org
@@ -96758,12 +96740,10 @@ provestedstake.org
 pt-betano.org
 pt-betclic.org
 publishryze.org
-pumpfun-app.org
 pumpfunlive.org
 pumpsniper.org
 pumpsnipers.org
 pumpswap.org
-pumpswapdex.org
 purlkion.org
 pushchain.org
 pythnetworking.org
@@ -96944,7 +96924,6 @@ ruqvexavip.org
 ruqvexc.org
 ruqvexs.org
 russianearabroad.org
-s-impleswap.org
 s1-biancoin.org
 s1-lista.org
 s7-ethena.org
@@ -96978,7 +96957,6 @@ send-trust-wallet.org
 senuti.org
 shapeshiftdao.org
 shmonad.org
-si-mpleswap.org
 sidradex.org
 silk-suite.org
 silkroadholding.org

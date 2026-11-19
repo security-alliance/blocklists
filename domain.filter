@@ -1496,7 +1496,6 @@
 ||exodus-app.app^$all
 ||exodushelp.app^$all
 ||exodusportfolio.app^$all
-||exolix.app^$all
 ||exploit2026-ledger.app^$all
 ||exploits2026-ledger.app^$all
 ||explorer-xaman.app^$all
@@ -15433,7 +15432,6 @@
 ||m.deribitone.cc^$all
 ||derip.cc^$all
 ||derivax.cc^$all
-||dexalot.cc^$all
 ||dexil.cc^$all
 ||dexohhhttt.cc^$all
 ||dextoken.cc^$all
@@ -17926,7 +17924,6 @@
 ||app-priorseco.click^$all
 ||app-pumpswap.click^$all
 ||app-quickswap.click^$all
-||app-rubic.click^$all
 ||app-sushi.click^$all
 ||app-umiaecosystems.click^$all
 ||app.app-usdai.click^$all
@@ -18063,7 +18060,6 @@
 ||cow-finance.click^$all
 ||cow-protocol.click^$all
 ||cow-swap-exchange.click^$all
-||cow-v2.click^$all
 ||cowprotocol.click^$all
 ||cowswap.click^$all
 ||cowswap-en.click^$all
@@ -18295,7 +18291,6 @@
 ||legacypoint.click^$all
 ||legioncc.click^$all
 ||lido-eth.click^$all
-||lido-stake.click^$all
 ||lido-swap.click^$all
 ||liminalmoney.click^$all
 ||liquidity-qzu.click^$all
@@ -18458,7 +18453,6 @@
 ||pumpstreamer.click^$all
 ||pumpswap-fun.click^$all
 ||pumpswap-sol.click^$all
-||pumpswap-v2.click^$all
 ||pumpswap-v3.click^$all
 ||qcapplication.click^$all
 ||qelvex-bonusvault.click^$all
@@ -21289,7 +21283,6 @@
 ||ledgermlatam.co^$all
 ||legder.co^$all
 ||pay.lidofinancesystems.co^$all
-||lighterdex.co^$all
 ||liquidcell.co^$all
 ||powwi-cashback.livedemo.co^$all
 ||lobstrdesktop.co^$all
@@ -21301,7 +21294,6 @@
 ||luxeplay.co^$all
 ||marketlistingportal.co^$all
 ||martianwallet.co^$all
-||maverickprotocol.co^$all
 ||meet-in.co^$all
 ||meet-live-videoscall.co^$all
 ||meetteam.co^$all
@@ -21396,7 +21388,6 @@
 ||proposal-pendle.co^$all
 ||proposal-virtuals.co^$all
 ||pulsechainapp.co^$all
-||pump-swap.co^$all
 ||pumpfunlive.co^$all
 ||bridge.puslechain.co^$all
 ||qevrion.co^$all
@@ -21439,7 +21430,6 @@
 ||shadegreenerltd.co^$all
 ||shibinhood.co^$all
 ||signin-com.co^$all
-||simple-swap.co^$all
 ||simpleswapio.co^$all
 ||sitesgoogle.co^$all
 ||skyeco-finance.co^$all
@@ -30500,7 +30490,6 @@
 ||curvancefi.com^$all
 ||curvapp.com^$all
 ||curve-deskhelpfinance.com^$all
-||curve-dex.com^$all
 ||curve-financ.com^$all
 ||curve-finance-gid.com^$all
 ||curve-finance-info.com^$all
@@ -30835,7 +30824,6 @@
 ||defituna-app.com^$all
 ||defituna-dex.com^$all
 ||defituna-swap.com^$all
-||defitunadex.com^$all
 ||defiwebeusdt.com^$all
 ||defiwebusdt.com^$all
 ||deflarenetwork.com^$all
@@ -31927,7 +31915,6 @@
 ||eth-online-casino.com^$all
 ||eth-pumpfun.com^$all
 ||eth-qr-code.com^$all
-||eth-sushi.com^$all
 ||eth-trustwallet.com^$all
 ||ethamg26-fr.com^$all
 ||ethantx.com^$all
@@ -37114,7 +37101,6 @@
 ||maga-win.com^$all
 ||magical77889.com^$all
 ||magicbettingcasinobelgique.com^$all
-||magiceden-io.com^$all
 ||magicedenchest.com^$all
 ||magicsolanas.com^$all
 ||magikeden.com^$all
@@ -96015,7 +96001,6 @@
 ||fenix-finance.org^$all
 ||fexglobals.org^$all
 ||fexoglobal.org^$all
-||ff-io-swap.org^$all
 ||ff-io-v2.org^$all
 ||file-zilla.org^$all
 ||filecoinwallet.org^$all
@@ -96254,7 +96239,6 @@
 ||jupilerexchange.org^$all
 ||jupiter-allocation.org^$all
 ||jupiter-foundation.org^$all
-||jupiter-swap.org^$all
 ||juprewards.org^$all
 ||just-lend.org^$all
 ||just-swap.org^$all
@@ -96328,7 +96312,6 @@
 ||legderlive-sync.org^$all
 ||legiler.org^$all
 ||letsvpns.org^$all
-||lfjdex.org^$all
 ||libredoc.org^$all
 ||lido-en.org^$all
 ||lidoex.org^$all
@@ -96739,7 +96722,6 @@
 ||prjcx.org^$all
 ||processhacker.org^$all
 ||projectobs.org^$all
-||projectxdex.org^$all
 ||promo-base.org^$all
 ||promo-p.org^$all
 ||promo-settings.org^$all
@@ -96758,12 +96740,10 @@
 ||pt-betano.org^$all
 ||pt-betclic.org^$all
 ||publishryze.org^$all
-||pumpfun-app.org^$all
 ||pumpfunlive.org^$all
 ||pumpsniper.org^$all
 ||pumpsnipers.org^$all
 ||pumpswap.org^$all
-||pumpswapdex.org^$all
 ||purlkion.org^$all
 ||pushchain.org^$all
 ||pythnetworking.org^$all
@@ -96944,7 +96924,6 @@
 ||ruqvexc.org^$all
 ||ruqvexs.org^$all
 ||russianearabroad.org^$all
-||s-impleswap.org^$all
 ||s1-biancoin.org^$all
 ||s1-lista.org^$all
 ||s7-ethena.org^$all
@@ -96978,7 +96957,6 @@
 ||senuti.org^$all
 ||shapeshiftdao.org^$all
 ||shmonad.org^$all
-||si-mpleswap.org^$all
 ||sidradex.org^$all
 ||silk-suite.org^$all
 ||silkroadholding.org^$all
