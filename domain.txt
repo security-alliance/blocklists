@@ -12252,7 +12252,6 @@ enter-unipeg.art
 event-unipeg.art
 fiare-community.art
 fiare-foundation.art
-fvzzy-checker.art
 getphantom.art
 governance-unipeg.art
 grvt-rewards.art
@@ -12830,6 +12829,7 @@ coinbase.com.bayern
 hdstreamz.com.bd
 binance.be
 97ee6.blogspot.be
+metamasklogink.blogspot.be
 metmasksignin.blogspot.be
 staking2portfolio.blogspot.be
 staking3portfolio.blogspot.be
@@ -33794,6 +33794,7 @@ metamask-us_a-loogiin.godaddysites.com
 metamask_extension_login.godaddysites.com
 metamask_i_login3.godaddysites.com
 metamask_log1.godaddysites.com
+metamask_login3.godaddysites.com
 metamask_logix_now.godaddysites.com
 metamask_us_login8.godaddysites.com
 metamask_usa_login.godaddysites.com
