@@ -15395,7 +15395,6 @@ app.cowsawp.cc
 cowswap.cc
 cptmarkets-cs.cc
 cpuz.cc
-crashboost.cc
 cricfytv.cc
 cricfytvapk.cc
 crypto-coinme.cc
@@ -26279,7 +26278,6 @@ beastake.com
 beastnoxe.com
 beastroulette.com
 beastsino.com
-beasttrials.com
 beastxdice.com
 beatpolymarket.com
 beatrisekidaux.com
@@ -100341,7 +100339,6 @@ cowswap-v2.sbs
 crates-otcdesk.sbs
 crv-lite.sbs
 crvlt.sbs
-crycas.sbs
 crypto-hedge-fund.sbs
 crypto-sol.sbs
 cryptocrat.sbs
