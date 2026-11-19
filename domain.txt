@@ -37004,7 +37004,6 @@ lumingx.com
 luminroll.com
 lumzistudio.com
 lun-defi.com
-luna-community.com
 luna-crypto.com
 lunabutton.com
 lunacoin-launch.com
@@ -37967,7 +37966,7 @@ moeov.com
 moergamb.com
 moesax.com
 mofewex.com
-mohimen.com
+jup-dex-swap.mohimen.com
 quicknode.moivre.com
 mokhl.com
 moldinspectiondayton.com
@@ -82428,7 +82427,6 @@ cx-investment.io
 czksync.io
 dantelabs.io
 dao-bonus-origindefi.io
-dao-lgns-origindefi.io
 dapp-v3.io
 dasad.io
 dash-metamask.io
@@ -106352,8 +106350,6 @@ jup-verify.top
 jupitertrd.top
 jupiteso.top
 juppredict.top
-jupsolana-checker.top
-jupsolana-eligible.top
 jvcko.top
 polymarket.jwqnh.top
 kamino-season6.top
@@ -114527,7 +114523,6 @@ migration-profitxrp.xyz
 migration-wolfbyrrgis.xyz
 migration-yieldbasis.xyz
 migrationvenom-foundation.xyz
-miloiki.xyz
 minatalents.xyz
 mini-avabase.xyz
 mint-elysium.xyz
