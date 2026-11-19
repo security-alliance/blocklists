@@ -10537,6 +10537,7 @@ metamask-docs-f6powbg7h-consensys-ddffed67.vercel.app
 metamask-docs-git-2717-simplify-ux-consensys-ddffed67.vercel.app
 metamask-docs-git-arbitrum-archive-consensys-ddffed67.vercel.app
 metamask-docs-git-cursor-smart-accoun-330eda-consensys-ddffed67.vercel.app
+metamask-docs-git-dependabot-npmandya-5f7441-consensys-ddffed67.vercel.app
 metamask-docs-git-feat-7710-utils-consensys-ddffed67.vercel.app
 metamask-docs-git-feat-mm-connect-docs-consensys-ddffed67.vercel.app
 metamask-docs-git-fix-infura-redirects-consensys-ddffed67.vercel.app
@@ -78704,6 +78705,7 @@ gemini.com.ht
 ledger.com.ht
 uphold.com.ht
 aerodrome.hu
+metamaskchromeextensionn.blogspot.hu
 dash.petrawaves.hu
 rain-bet.hu
 rainbet.hu
