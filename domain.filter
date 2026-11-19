@@ -46058,6 +46058,7 @@
 ||update-wallet-apple.com^$all
 ||update-wallet-ledger.com^$all
 ||update-zebec.com^$all
+||update2-center.com^$all
 ||updateblocker.com^$all
 ||updatecoinbase.com^$all
 ||updatecontent-x.com^$all
@@ -85317,7 +85318,6 @@
 ||lobstrrlogin.webflow.io^$all
 ||lobstrrwallet.webflow.io^$all
 ||lobstrrwalletis.webflow.io^$all
-||lobstrs-walliet.webflow.io^$all
 ||lobstrswallet.webflow.io^$all
 ||lobstrvalletu.webflow.io^$all
 ||lobstrvalletus.webflow.io^$all

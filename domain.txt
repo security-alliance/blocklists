@@ -46058,6 +46058,7 @@ update-uphold.com
 update-wallet-apple.com
 update-wallet-ledger.com
 update-zebec.com
+update2-center.com
 updateblocker.com
 updatecoinbase.com
 updatecontent-x.com
@@ -85317,7 +85318,6 @@ lobstrrdwallet.webflow.io
 lobstrrlogin.webflow.io
 lobstrrwallet.webflow.io
 lobstrrwalletis.webflow.io
-lobstrs-walliet.webflow.io
 lobstrswallet.webflow.io
 lobstrvalletu.webflow.io
 lobstrvalletus.webflow.io
