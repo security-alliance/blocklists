@@ -18074,7 +18074,6 @@
 ||curve-dex.click^$all
 ||curve-eth.click^$all
 ||curve-exchange.click^$all
-||curve-fi.click^$all
 ||curve-fi-swap.click^$all
 ||curve-finance-eth.click^$all
 ||curve-fl.click^$all

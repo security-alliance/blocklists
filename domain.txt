@@ -18074,7 +18074,6 @@ cryptomus-payment.click
 curve-dex.click
 curve-eth.click
 curve-exchange.click
-curve-fi.click
 curve-fi-swap.click
 curve-finance-eth.click
 curve-fl.click
