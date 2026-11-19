@@ -703,7 +703,6 @@ https://sites.google.com/view/exdos-us-en/home
 https://sites.google.com/view/exdus-brows/home
 https://sites.google.com/view/exdus-web-eng/home
 https://sites.google.com/view/exdus-web3-learn/home
-https://sites.google.com/view/exdus-web3-pages/home
 https://sites.google.com/view/exduswebs-wallet/home
 https://sites.google.com/view/exo-dus-info/home
 https://sites.google.com/view/exo-duss/home
@@ -1136,7 +1135,6 @@ https://sites.google.com/view/learn-base-extension/home
 https://sites.google.com/view/learn-coin-extn/home
 https://sites.google.com/view/learn-coinbase-extension/home
 https://sites.google.com/view/learn-en-extension/home
-https://sites.google.com/view/learn-exdus-browse/home
 https://sites.google.com/view/learn-exmetaa/home
 https://sites.google.com/view/learn-exodus-hub/home
 https://sites.google.com/view/learn-extension/home
