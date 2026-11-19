@@ -53237,7 +53237,6 @@ curvefinance.community
 ethena.community
 ethersfi.community
 fablesfi.community
-security.flare.community
 flarenetworks.community
 grovedotfinance.community
 hylo.community
