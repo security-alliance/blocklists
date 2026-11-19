@@ -47171,7 +47171,6 @@ voting-apyx.com
 voting-apyxfi.com
 voting-arcium.com
 voting-curve.com
-voting-dexcsreener.com
 voting-dopplerfinance.com
 voting-embervalegame.com
 voting-etherfi.com
@@ -58155,6 +58154,7 @@ pr-7831.1inch-io-app.pages.dev
 21-proposal-apyxfi.pages.dev
 21-proposal-computersrh.pages.dev
 21-proposal-derive.pages.dev
+21-proposal-elysium.pages.dev
 21-proposal-ethos.pages.dev
 21-proposal-fablesfi.pages.dev
 21-proposal-globaldollar.pages.dev
@@ -77016,7 +77016,6 @@ cash-ape.fun
 cashbackpumps.fun
 cashbacks-pump.fun
 cashbulldrop.fun
-cashout-pump.fun
 casinorainbet.fun
 cb-pump.fun
 plasma.cex1.fun
@@ -113697,7 +113696,6 @@ impossiblefinance.xyz
 imrobinhood.xyz
 imtoken-verification.xyz
 incentiv-testnet.xyz
-incentive-firelight.xyz
 incentive-firelightfi.xyz
 incentive-hyperliquidx.xyz
 incentiveclaim.xyz
