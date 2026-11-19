@@ -706,6 +706,7 @@ allocation-umbraprivacy.app
 allocation-usepaid.app
 allocation-variational.app
 allocation-window.app
+allocation-xarnan.app
 allocation-xrp.app
 allocation-xrpdesk.app
 allocation-xrpl.app
@@ -907,6 +908,8 @@ claim-bybit.app
 claim-cashcat.app
 claim-desk.app
 claim-imfebu.app
+claim-loopring.app
+claim-lrctoken.app
 claim-minutesnetworktoken.app
 claim-noxafi.app
 claim-papertrade.app
@@ -12088,6 +12091,7 @@ xrpfi-flarenetwork.app
 xrpfi-hub-flare.app
 xrpl-allocation.app
 xrpl-claim.app
+xrpl-claims.app
 xrplabs.app
 xrplallocation.app
 xrplclaim.app
@@ -15146,6 +15150,7 @@ ap-i.cc
 api-api.cc
 app-jupiter-dex.cc
 app-rho.cc
+app-uniswap.cc
 appcore-procedure.cc
 approvedguru.cc
 1inch.appssmart-procedure.cc
@@ -20949,6 +20954,7 @@ aerovoting.co
 ai-upgrade.co
 aidogechain.co
 aidogerelaunch.co
+airdrop-pump.co
 airdroparts-supply.co
 allocation-flarenetworks.co
 allocations-flarenetworks.co
@@ -21192,9 +21198,11 @@ exoduswallet.co
 femya.co
 fi-connections.co
 finance-katana.co
+finance-skyeco.co
 finance90-officiis56.co
 finances-skyeco.co
 fintevex.co
+firelight-allocation.co
 firelight-finance.co
 firelightfi.co
 flareairdrop.co
@@ -27720,7 +27728,6 @@ cbredirect.com
 cbs-verify.com
 cbuit.com
 cbyields.com
-cc-cantonnetwork.com
 cc-capitals500.com
 cc-okex.com
 cc-okx.com
@@ -28143,6 +28150,7 @@ claim-kintara.com
 claim-laptoptoken.com
 claim-ledger.com
 claim-lombard.com
+claim-loopring.com
 claim-manifestingxs.com
 claim-matching.com
 claim-memdexone.com
@@ -32731,6 +32739,7 @@ flagged-ledger.com
 flamesthename.com
 flap-drop.com
 flapshdash.com
+flare-bridge.com
 verify.flare-crypto.com
 support.flare-dapps.com
 flare-ecosystem.com
@@ -37849,6 +37858,7 @@ migrantsofthemed.com
 migrate-buildonarcana.com
 migrate-chainoflegends.com
 migrate-debridge.com
+migrate-ellipal.com
 migrate-galxe.com
 migrate-kamino.com
 migrate-ms-teams.com
@@ -38033,6 +38043,7 @@ moonpayglobal.com
 moonpayportal.com
 moonpaypro.com
 moonshot-awards.com
+moonshot-boost.com
 moonshot-find.com
 moonshot-lp.com
 moonshot-money.com
@@ -41994,10 +42005,12 @@ revoke-api-ledger.com
 revoke-bitgetwallet.com
 revoke-crypto.com
 revoke-fluid.com
+revoke-guard.com
 revoke-guard-approvals.com
 revoke-humanity.com
 revoke-kelpdao.com
 revoke-kraken.com
+revoke-lighter.com
 revoke-moonwell.com
 revoke-ostium.com
 revoke-sessions.com
@@ -52594,6 +52607,7 @@ xrpl-checkers.com
 xrpl-checks.com
 xrpl-claim.com
 xrpl-claimnow.com
+xrpl-claims.com
 xrpl-connect.com
 xrpl-desk.com
 xrpl-dex.com
@@ -76077,6 +76091,7 @@ claims-apyx.finance
 claims-firelight.finance
 claims-onre.finance
 claimusdc.finance
+clearpool-migration.finance
 cmopound.finance
 cmpound.finance
 coinbase-support.finance
@@ -76425,6 +76440,7 @@ rewards-pendle.finance
 rewards-symbiosis.finance
 rewards-theindex.finance
 rewards-ts.finance
+rewards-umia.finance
 rgea.finance
 rhe.finance
 rheaswap.finance
@@ -78816,6 +78832,7 @@ awrtft-online.icu
 babynoiseaaee.icu
 bafoontown.icu
 based-allocation.icu
+based-allocations.icu
 based-vote.icu
 basedapp.icu
 basedecosystem.icu
@@ -79062,6 +79079,7 @@ governance.extendedexchange.icu
 governance.extendeed-exchange.icu
 governance.extendeed.icu
 extra-bonus.icu
+fables-proposal.icu
 falconx.icu
 fd89onq9wcd5mw5.icu
 felix-protocol.icu
@@ -79281,6 +79299,7 @@ governance-sparkdex.icu
 governance-stark.icu
 governance-starknet.icu
 governance-stonkbrokers.icu
+governance-telcoin.icu
 governance-themutual.icu
 governance-torch.icu
 governance-torchpad.icu
@@ -79345,6 +79364,7 @@ imperialcrown.icu
 incdatashop.icu
 indiatoday.icu
 infinifi.icu
+infinifi-airdrop.icu
 accounts.ingfre.icu
 injective-app.icu
 injective-apps.icu
@@ -79677,6 +79697,7 @@ proposal-curvefinance.icu
 proposal-derive.icu
 proposal-elysium.icu
 proposal-embervalegame.icu
+proposal-etherfi.icu
 proposal-fablesfi.icu
 vote.proposal-firelight.icu
 proposal-flarenetwork.icu
@@ -79702,6 +79723,7 @@ proposal-sbrokers.icu
 proposal-stark.icu
 governance.proposal-telcoin.icu
 proposal-torchpadfun.icu
+proposal-umiafinance.icu
 proposal-usenest.icu
 proposal-xstocks.icu
 proposal-zipcoincash.icu
@@ -80728,6 +80750,8 @@ claims-base.info
 claims-hyperliquid.info
 claims-lighter.info
 claims-zama.info
+clearpool-finance.info
+clearpool-migration.info
 clearpoolfinance.info
 cloreai.info
 clusterprotocol.info
@@ -81181,6 +81205,7 @@ localise-auth-us.info
 log-session.info
 login-auth.info
 longbowcash.info
+loopring-claim.info
 loopscalesdesign.info
 losangeleswin.info
 lumiafi.info
@@ -84481,6 +84506,7 @@ repeg-metronome.io
 requests-trezor.io
 restore-trezor.io
 revenue-x.io
+revokecash.io
 rewards-arbitrum.io
 rewards-fluid.io
 traders.rewards-variational.io
@@ -88412,6 +88438,7 @@ micrussoft.live
 midnight-gd.live
 migrate-avail.live
 migrate-bitway.live
+migrate-cpool.live
 migrate-debridge.live
 migrate-heimanetwork.live
 migrate-kamino.live
@@ -88825,6 +88852,7 @@ registers-firelightfi.live
 registers-virtualsfi.live
 registrazione-piattaforma.live
 relay-fi.live
+remittix-claim.live
 resource-monitor.live
 rethpool.live
 retikchain.live
@@ -88835,6 +88863,7 @@ revgallery.live
 revokeonmorpho.live
 revokeonondo.live
 revokes.live
+reward-availproject.live
 reward-flarefndn.live
 reward-flarenetworks.live
 reward-gate.live
@@ -95499,6 +95528,7 @@ botcheckfree.org
 orca.bowbi.org
 bpdae.org
 bravee.org
+bridge-monad.org
 bridgetron.org
 brown-fi.org
 bryeluxuryproperties-gmail.org
@@ -100406,6 +100436,7 @@ exchange-bb.sbs
 exchange-bridge.sbs
 exchange-vv.sbs
 jupiter-ag.exchange-walletgateway.sbs
+photon-sol.exchange-walletgateway.sbs
 exclnange-buildonv3.sbs
 exoduscard.sbs
 exprespecsk.sbs
@@ -102843,6 +102874,8 @@ glacier-ledger.site
 global-chain.site
 googl.site
 google--verificationj47y0au61nszc0fu8lhbjwi21zxfghdkqekryfnhi0k.site
+governance-metricxyz.site
+governance-treadfi.site
 governance-zamahub.site
 governancefinancial.site
 governancewealth.site
@@ -103084,6 +103117,7 @@ revol-bonus.site
 revoo-bonus.site
 reward-lot.site
 reward-zone.site
+rewards-ethena.site
 rewards-ethenfi.site
 rewards-hub.site
 rewards-pendlefi.site
@@ -104731,6 +104765,8 @@ careers-ibm.tech
 catapulto.tech
 chainlinkhr.tech
 chainlinkjob.tech
+claim-loopring.tech
+claim-lrctoken.tech
 claimera.tech
 claims-lab.tech
 clarkgainsweik.tech
@@ -105951,6 +105987,7 @@ exodusproxs.top
 exodussupport.top
 exospins.top
 expertrobotlumia.top
+extendedapp-allocation.top
 extendedexchange.top
 governance.extendeed.top
 ez-cash.top
@@ -107301,6 +107338,7 @@ uni-chain.top
 uni-dapp.top
 unid-app.top
 unipegchain.top
+uniswap-app.top
 uniswapdao.top
 uniswapdex.top
 uniswaplendwap.top
@@ -110848,6 +110886,7 @@ app-soneiumvote.xyz
 app-spectreai.xyz
 app-standardreserve.xyz
 app-stockereum.xyz
+app-stonkbrokers.xyz
 app-stonkfun.xyz
 app-sunrise.xyz
 app-sunrisedefi.xyz
@@ -110884,6 +110923,7 @@ apply-verusinsurance.xyz
 appmini.xyz
 appmovement.xyz
 appotc.xyz
+approvals-lighter.xyz
 apps-3jane.xyz
 apps-arcus.xyz
 apps-asterdex.xyz
@@ -111077,6 +111117,7 @@ reward.baseappscore.xyz
 basecatonbase.xyz
 based-allocation.xyz
 based-one.xyz
+based-proposal.xyz
 based-rewards.xyz
 basedaphub.xyz
 basedbot-app.xyz
@@ -113244,6 +113285,7 @@ governance-arcushub.xyz
 governance-asterdex.xyz
 governance-blobmeme.xyz
 governance-boxa.xyz
+governance-buzzchainio.xyz
 governance-cap.xyz
 governance-centrifuge.xyz
 governance-check-ore.xyz
@@ -113302,6 +113344,7 @@ governance-lighter.xyz
 governance-liminalmoney.xyz
 governance-litebeam.xyz
 governance-monadeco.xyz
+governance-monetrix.xyz
 governance-morpho.xyz
 governance-netnet.xyz
 governance-netnetcapital.xyz
@@ -113324,6 +113367,7 @@ governance-spectra.xyz
 governance-stacks.xyz
 governance-standardreserve.xyz
 governance-torchpad.xyz
+governance-torifinance.xyz
 governance-treadeco.xyz
 governance-treadfi.xyz
 governance-trollio.xyz
@@ -113747,6 +113791,7 @@ incentivesclaim.xyz
 incentivnet.xyz
 income-yya.xyz
 incsols.xyz
+infinifi-airdrop.xyz
 infinifi-allocation.xyz
 infinifi-allocations.xyz
 infinifi-drops.xyz
@@ -114683,6 +114728,7 @@ netnet-governance.xyz
 netnet-proposal.xyz
 netnet-vote.xyz
 netnetcap.xyz
+netnetcap-governance.xyz
 netnetcapital.xyz
 netnetcapital-bridge.xyz
 netnetcapital-bridges.xyz
@@ -115873,10 +115919,12 @@ revoke-cards.xyz
 revoke-coldcard.xyz
 revoke-coldcards.xyz
 revoke-humanity.xyz
+revoke-lighter.xyz
 revoke-meta.xyz
 revokebitcoinpay.xyz
 revokechainhub.xyz
 revoked-humanity.xyz
+revokes-lighter.xyz
 revokes-rewards.xyz
 revokesreward.xyz
 revoketeeth.xyz
@@ -115925,6 +115973,7 @@ reward-kinetiqfnd.xyz
 reward-kinetiqfndn.xyz
 reward-lit.xyz
 reward-madrichclub.xyz
+reward-meridian.xyz
 reward-moonwell.xyz
 reward-myvip.xyz
 reward-netnetcapital.xyz
@@ -116013,6 +116062,7 @@ rewards-kinetiqfnd.xyz
 rewards-kintara.xyz
 rewards-matcha.xyz
 rewards-meridian.xyz
+rewards-metric.xyz
 rewards-micronfnd.xyz
 rewards-micronfndn.xyz
 rewards-monad.xyz
@@ -116035,6 +116085,7 @@ rewards-ponsfamily.xyz
 rewards-proposal-flare.xyz
 rewards-proposal-monad.xyz
 rewards-pumpbtc.xyz
+rewards-quackai.xyz
 rewards-raacfi.xyz
 rewards-relayprotocol.xyz
 rewards-saturn.xyz
@@ -116113,6 +116164,7 @@ roblinhood-vote.xyz
 roblnhoods.xyz
 robotmines.xyz
 robust-firewall-grid.xyz
+rocktp.xyz
 roiws.xyz
 rolbit.xyz
 rollercoin.xyz
@@ -117373,6 +117425,7 @@ tether-claim.xyz
 tetherusdttrc20.xyz
 tge--firelight.xyz
 tge-3jane.xyz
+tge-apyxfi.xyz
 tge-arcium.xyz
 tge-arcus.xyz
 tge-dreamcash.xyz

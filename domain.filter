@@ -706,6 +706,7 @@
 ||allocation-usepaid.app^$all
 ||allocation-variational.app^$all
 ||allocation-window.app^$all
+||allocation-xarnan.app^$all
 ||allocation-xrp.app^$all
 ||allocation-xrpdesk.app^$all
 ||allocation-xrpl.app^$all
@@ -907,6 +908,8 @@
 ||claim-cashcat.app^$all
 ||claim-desk.app^$all
 ||claim-imfebu.app^$all
+||claim-loopring.app^$all
+||claim-lrctoken.app^$all
 ||claim-minutesnetworktoken.app^$all
 ||claim-noxafi.app^$all
 ||claim-papertrade.app^$all
@@ -12088,6 +12091,7 @@
 ||xrpfi-hub-flare.app^$all
 ||xrpl-allocation.app^$all
 ||xrpl-claim.app^$all
+||xrpl-claims.app^$all
 ||xrplabs.app^$all
 ||xrplallocation.app^$all
 ||xrplclaim.app^$all
@@ -15146,6 +15150,7 @@
 ||api-api.cc^$all
 ||app-jupiter-dex.cc^$all
 ||app-rho.cc^$all
+||app-uniswap.cc^$all
 ||appcore-procedure.cc^$all
 ||approvedguru.cc^$all
 ||1inch.appssmart-procedure.cc^$all
@@ -20949,6 +20954,7 @@
 ||ai-upgrade.co^$all
 ||aidogechain.co^$all
 ||aidogerelaunch.co^$all
+||airdrop-pump.co^$all
 ||airdroparts-supply.co^$all
 ||allocation-flarenetworks.co^$all
 ||allocations-flarenetworks.co^$all
@@ -21192,9 +21198,11 @@
 ||femya.co^$all
 ||fi-connections.co^$all
 ||finance-katana.co^$all
+||finance-skyeco.co^$all
 ||finance90-officiis56.co^$all
 ||finances-skyeco.co^$all
 ||fintevex.co^$all
+||firelight-allocation.co^$all
 ||firelight-finance.co^$all
 ||firelightfi.co^$all
 ||flareairdrop.co^$all
@@ -27720,7 +27728,6 @@
 ||cbs-verify.com^$all
 ||cbuit.com^$all
 ||cbyields.com^$all
-||cc-cantonnetwork.com^$all
 ||cc-capitals500.com^$all
 ||cc-okex.com^$all
 ||cc-okx.com^$all
@@ -28143,6 +28150,7 @@
 ||claim-laptoptoken.com^$all
 ||claim-ledger.com^$all
 ||claim-lombard.com^$all
+||claim-loopring.com^$all
 ||claim-manifestingxs.com^$all
 ||claim-matching.com^$all
 ||claim-memdexone.com^$all
@@ -32731,6 +32739,7 @@
 ||flamesthename.com^$all
 ||flap-drop.com^$all
 ||flapshdash.com^$all
+||flare-bridge.com^$all
 ||verify.flare-crypto.com^$all
 ||support.flare-dapps.com^$all
 ||flare-ecosystem.com^$all
@@ -37849,6 +37858,7 @@
 ||migrate-buildonarcana.com^$all
 ||migrate-chainoflegends.com^$all
 ||migrate-debridge.com^$all
+||migrate-ellipal.com^$all
 ||migrate-galxe.com^$all
 ||migrate-kamino.com^$all
 ||migrate-ms-teams.com^$all
@@ -38033,6 +38043,7 @@
 ||moonpayportal.com^$all
 ||moonpaypro.com^$all
 ||moonshot-awards.com^$all
+||moonshot-boost.com^$all
 ||moonshot-find.com^$all
 ||moonshot-lp.com^$all
 ||moonshot-money.com^$all
@@ -41994,10 +42005,12 @@
 ||revoke-bitgetwallet.com^$all
 ||revoke-crypto.com^$all
 ||revoke-fluid.com^$all
+||revoke-guard.com^$all
 ||revoke-guard-approvals.com^$all
 ||revoke-humanity.com^$all
 ||revoke-kelpdao.com^$all
 ||revoke-kraken.com^$all
+||revoke-lighter.com^$all
 ||revoke-moonwell.com^$all
 ||revoke-ostium.com^$all
 ||revoke-sessions.com^$all
@@ -52594,6 +52607,7 @@
 ||xrpl-checks.com^$all
 ||xrpl-claim.com^$all
 ||xrpl-claimnow.com^$all
+||xrpl-claims.com^$all
 ||xrpl-connect.com^$all
 ||xrpl-desk.com^$all
 ||xrpl-dex.com^$all
@@ -76077,6 +76091,7 @@
 ||claims-firelight.finance^$all
 ||claims-onre.finance^$all
 ||claimusdc.finance^$all
+||clearpool-migration.finance^$all
 ||cmopound.finance^$all
 ||cmpound.finance^$all
 ||coinbase-support.finance^$all
@@ -76425,6 +76440,7 @@
 ||rewards-symbiosis.finance^$all
 ||rewards-theindex.finance^$all
 ||rewards-ts.finance^$all
+||rewards-umia.finance^$all
 ||rgea.finance^$all
 ||rhe.finance^$all
 ||rheaswap.finance^$all
@@ -78816,6 +78832,7 @@
 ||babynoiseaaee.icu^$all
 ||bafoontown.icu^$all
 ||based-allocation.icu^$all
+||based-allocations.icu^$all
 ||based-vote.icu^$all
 ||basedapp.icu^$all
 ||basedecosystem.icu^$all
@@ -79062,6 +79079,7 @@
 ||governance.extendeed-exchange.icu^$all
 ||governance.extendeed.icu^$all
 ||extra-bonus.icu^$all
+||fables-proposal.icu^$all
 ||falconx.icu^$all
 ||fd89onq9wcd5mw5.icu^$all
 ||felix-protocol.icu^$all
@@ -79281,6 +79299,7 @@
 ||governance-stark.icu^$all
 ||governance-starknet.icu^$all
 ||governance-stonkbrokers.icu^$all
+||governance-telcoin.icu^$all
 ||governance-themutual.icu^$all
 ||governance-torch.icu^$all
 ||governance-torchpad.icu^$all
@@ -79345,6 +79364,7 @@
 ||incdatashop.icu^$all
 ||indiatoday.icu^$all
 ||infinifi.icu^$all
+||infinifi-airdrop.icu^$all
 ||accounts.ingfre.icu^$all
 ||injective-app.icu^$all
 ||injective-apps.icu^$all
@@ -79677,6 +79697,7 @@
 ||proposal-derive.icu^$all
 ||proposal-elysium.icu^$all
 ||proposal-embervalegame.icu^$all
+||proposal-etherfi.icu^$all
 ||proposal-fablesfi.icu^$all
 ||vote.proposal-firelight.icu^$all
 ||proposal-flarenetwork.icu^$all
@@ -79702,6 +79723,7 @@
 ||proposal-stark.icu^$all
 ||governance.proposal-telcoin.icu^$all
 ||proposal-torchpadfun.icu^$all
+||proposal-umiafinance.icu^$all
 ||proposal-usenest.icu^$all
 ||proposal-xstocks.icu^$all
 ||proposal-zipcoincash.icu^$all
@@ -80728,6 +80750,8 @@
 ||claims-hyperliquid.info^$all
 ||claims-lighter.info^$all
 ||claims-zama.info^$all
+||clearpool-finance.info^$all
+||clearpool-migration.info^$all
 ||clearpoolfinance.info^$all
 ||cloreai.info^$all
 ||clusterprotocol.info^$all
@@ -81181,6 +81205,7 @@
 ||log-session.info^$all
 ||login-auth.info^$all
 ||longbowcash.info^$all
+||loopring-claim.info^$all
 ||loopscalesdesign.info^$all
 ||losangeleswin.info^$all
 ||lumiafi.info^$all
@@ -84481,6 +84506,7 @@
 ||requests-trezor.io^$all
 ||restore-trezor.io^$all
 ||revenue-x.io^$all
+||revokecash.io^$all
 ||rewards-arbitrum.io^$all
 ||rewards-fluid.io^$all
 ||traders.rewards-variational.io^$all
@@ -88412,6 +88438,7 @@
 ||midnight-gd.live^$all
 ||migrate-avail.live^$all
 ||migrate-bitway.live^$all
+||migrate-cpool.live^$all
 ||migrate-debridge.live^$all
 ||migrate-heimanetwork.live^$all
 ||migrate-kamino.live^$all
@@ -88825,6 +88852,7 @@
 ||registers-virtualsfi.live^$all
 ||registrazione-piattaforma.live^$all
 ||relay-fi.live^$all
+||remittix-claim.live^$all
 ||resource-monitor.live^$all
 ||rethpool.live^$all
 ||retikchain.live^$all
@@ -88835,6 +88863,7 @@
 ||revokeonmorpho.live^$all
 ||revokeonondo.live^$all
 ||revokes.live^$all
+||reward-availproject.live^$all
 ||reward-flarefndn.live^$all
 ||reward-flarenetworks.live^$all
 ||reward-gate.live^$all
@@ -95499,6 +95528,7 @@
 ||orca.bowbi.org^$all
 ||bpdae.org^$all
 ||bravee.org^$all
+||bridge-monad.org^$all
 ||bridgetron.org^$all
 ||brown-fi.org^$all
 ||bryeluxuryproperties-gmail.org^$all
@@ -100406,6 +100436,7 @@
 ||exchange-bridge.sbs^$all
 ||exchange-vv.sbs^$all
 ||jupiter-ag.exchange-walletgateway.sbs^$all
+||photon-sol.exchange-walletgateway.sbs^$all
 ||exclnange-buildonv3.sbs^$all
 ||exoduscard.sbs^$all
 ||exprespecsk.sbs^$all
@@ -102843,6 +102874,8 @@
 ||global-chain.site^$all
 ||googl.site^$all
 ||google--verificationj47y0au61nszc0fu8lhbjwi21zxfghdkqekryfnhi0k.site^$all
+||governance-metricxyz.site^$all
+||governance-treadfi.site^$all
 ||governance-zamahub.site^$all
 ||governancefinancial.site^$all
 ||governancewealth.site^$all
@@ -103084,6 +103117,7 @@
 ||revoo-bonus.site^$all
 ||reward-lot.site^$all
 ||reward-zone.site^$all
+||rewards-ethena.site^$all
 ||rewards-ethenfi.site^$all
 ||rewards-hub.site^$all
 ||rewards-pendlefi.site^$all
@@ -104731,6 +104765,8 @@
 ||catapulto.tech^$all
 ||chainlinkhr.tech^$all
 ||chainlinkjob.tech^$all
+||claim-loopring.tech^$all
+||claim-lrctoken.tech^$all
 ||claimera.tech^$all
 ||claims-lab.tech^$all
 ||clarkgainsweik.tech^$all
@@ -105951,6 +105987,7 @@
 ||exodussupport.top^$all
 ||exospins.top^$all
 ||expertrobotlumia.top^$all
+||extendedapp-allocation.top^$all
 ||extendedexchange.top^$all
 ||governance.extendeed.top^$all
 ||ez-cash.top^$all
@@ -107301,6 +107338,7 @@
 ||uni-dapp.top^$all
 ||unid-app.top^$all
 ||unipegchain.top^$all
+||uniswap-app.top^$all
 ||uniswapdao.top^$all
 ||uniswapdex.top^$all
 ||uniswaplendwap.top^$all
@@ -110848,6 +110886,7 @@
 ||app-spectreai.xyz^$all
 ||app-standardreserve.xyz^$all
 ||app-stockereum.xyz^$all
+||app-stonkbrokers.xyz^$all
 ||app-stonkfun.xyz^$all
 ||app-sunrise.xyz^$all
 ||app-sunrisedefi.xyz^$all
@@ -110884,6 +110923,7 @@
 ||appmini.xyz^$all
 ||appmovement.xyz^$all
 ||appotc.xyz^$all
+||approvals-lighter.xyz^$all
 ||apps-3jane.xyz^$all
 ||apps-arcus.xyz^$all
 ||apps-asterdex.xyz^$all
@@ -111077,6 +111117,7 @@
 ||basecatonbase.xyz^$all
 ||based-allocation.xyz^$all
 ||based-one.xyz^$all
+||based-proposal.xyz^$all
 ||based-rewards.xyz^$all
 ||basedaphub.xyz^$all
 ||basedbot-app.xyz^$all
@@ -113244,6 +113285,7 @@
 ||governance-asterdex.xyz^$all
 ||governance-blobmeme.xyz^$all
 ||governance-boxa.xyz^$all
+||governance-buzzchainio.xyz^$all
 ||governance-cap.xyz^$all
 ||governance-centrifuge.xyz^$all
 ||governance-check-ore.xyz^$all
@@ -113302,6 +113344,7 @@
 ||governance-liminalmoney.xyz^$all
 ||governance-litebeam.xyz^$all
 ||governance-monadeco.xyz^$all
+||governance-monetrix.xyz^$all
 ||governance-morpho.xyz^$all
 ||governance-netnet.xyz^$all
 ||governance-netnetcapital.xyz^$all
@@ -113324,6 +113367,7 @@
 ||governance-stacks.xyz^$all
 ||governance-standardreserve.xyz^$all
 ||governance-torchpad.xyz^$all
+||governance-torifinance.xyz^$all
 ||governance-treadeco.xyz^$all
 ||governance-treadfi.xyz^$all
 ||governance-trollio.xyz^$all
@@ -113747,6 +113791,7 @@
 ||incentivnet.xyz^$all
 ||income-yya.xyz^$all
 ||incsols.xyz^$all
+||infinifi-airdrop.xyz^$all
 ||infinifi-allocation.xyz^$all
 ||infinifi-allocations.xyz^$all
 ||infinifi-drops.xyz^$all
@@ -114683,6 +114728,7 @@
 ||netnet-proposal.xyz^$all
 ||netnet-vote.xyz^$all
 ||netnetcap.xyz^$all
+||netnetcap-governance.xyz^$all
 ||netnetcapital.xyz^$all
 ||netnetcapital-bridge.xyz^$all
 ||netnetcapital-bridges.xyz^$all
@@ -115873,10 +115919,12 @@
 ||revoke-coldcard.xyz^$all
 ||revoke-coldcards.xyz^$all
 ||revoke-humanity.xyz^$all
+||revoke-lighter.xyz^$all
 ||revoke-meta.xyz^$all
 ||revokebitcoinpay.xyz^$all
 ||revokechainhub.xyz^$all
 ||revoked-humanity.xyz^$all
+||revokes-lighter.xyz^$all
 ||revokes-rewards.xyz^$all
 ||revokesreward.xyz^$all
 ||revoketeeth.xyz^$all
@@ -115925,6 +115973,7 @@
 ||reward-kinetiqfndn.xyz^$all
 ||reward-lit.xyz^$all
 ||reward-madrichclub.xyz^$all
+||reward-meridian.xyz^$all
 ||reward-moonwell.xyz^$all
 ||reward-myvip.xyz^$all
 ||reward-netnetcapital.xyz^$all
@@ -116013,6 +116062,7 @@
 ||rewards-kintara.xyz^$all
 ||rewards-matcha.xyz^$all
 ||rewards-meridian.xyz^$all
+||rewards-metric.xyz^$all
 ||rewards-micronfnd.xyz^$all
 ||rewards-micronfndn.xyz^$all
 ||rewards-monad.xyz^$all
@@ -116035,6 +116085,7 @@
 ||rewards-proposal-flare.xyz^$all
 ||rewards-proposal-monad.xyz^$all
 ||rewards-pumpbtc.xyz^$all
+||rewards-quackai.xyz^$all
 ||rewards-raacfi.xyz^$all
 ||rewards-relayprotocol.xyz^$all
 ||rewards-saturn.xyz^$all
@@ -116113,6 +116164,7 @@
 ||roblnhoods.xyz^$all
 ||robotmines.xyz^$all
 ||robust-firewall-grid.xyz^$all
+||rocktp.xyz^$all
 ||roiws.xyz^$all
 ||rolbit.xyz^$all
 ||rollercoin.xyz^$all
@@ -117373,6 +117425,7 @@
 ||tetherusdttrc20.xyz^$all
 ||tge--firelight.xyz^$all
 ||tge-3jane.xyz^$all
+||tge-apyxfi.xyz^$all
 ||tge-arcium.xyz^$all
 ||tge-arcus.xyz^$all
 ||tge-dreamcash.xyz^$all
