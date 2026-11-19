@@ -37770,6 +37770,7 @@ microsecurity-notification.com
 microseft.com
 microsfosonline.com
 microsft-outlook.com
+microsft-teans.com
 microsftonilne.com
 microsisoft.com
 microsistemals.com
@@ -37824,6 +37825,7 @@ microsoftmeet.com
 microsoftoffice-365auth.com
 microsoftoffice365login.com
 microsoftonlimes.com
+microsoftonline-ms.com
 microsoftonlinecloudservices.com
 microsoftonlinenow.com
 microsoftproteams.com
