@@ -877,6 +877,7 @@ cast-flarefoundation.app
 castlelabs.app
 cat-vpn.app
 cavepay.app
+cbc-collab.app
 exodussupport.cercel.app
 cexio.app
 chainlist.app
@@ -8709,6 +8710,7 @@ supporttrustwallet.app
 app.supportwalletguard.app
 sushi-swap.app
 swap.sushibase.app
+svb-collab.app
 swap-d.app
 swap-meet.app
 sweatcoin.app

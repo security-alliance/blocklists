@@ -877,6 +877,7 @@
 ||castlelabs.app^$all
 ||cat-vpn.app^$all
 ||cavepay.app^$all
+||cbc-collab.app^$all
 ||exodussupport.cercel.app^$all
 ||cexio.app^$all
 ||chainlist.app^$all
@@ -8709,6 +8710,7 @@
 ||app.supportwalletguard.app^$all
 ||sushi-swap.app^$all
 ||swap.sushibase.app^$all
+||svb-collab.app^$all
 ||swap-d.app^$all
 ||swap-meet.app^$all
 ||sweatcoin.app^$all
