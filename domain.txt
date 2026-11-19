@@ -15506,7 +15506,6 @@ etherfi.cc
 etherzo.cc
 ethv2.cc
 ethv3.cc
-1inch.eu.cc
 h5.323455.eu.cc
 aigci.eu.cc
 axgj.eu.cc
@@ -16990,7 +16989,6 @@ mentefinanceeth.cfd
 meteoag.cfd
 mettax.cfd
 micosoftonionllne.cfd
-microsofts.cfd
 microsoftsonline.cfd
 microsoftsupport.cfd
 milkywacy.cfd
@@ -42349,7 +42347,6 @@ rodtoken.com
 roenux.com
 btcdrainer.rogersactivity.com
 rogersdiagnosis.com
-roguezoom.com
 rohto-dashboard.com
 rokowskyweb.com
 rolanflex.com
@@ -53097,7 +53094,6 @@ zoomconneting-workspace.com
 zoomcoolus.com
 zoomer391.com
 zoomextension.com
-zoomfilesetup.com
 zoomhelper.com
 zoomhumanresource.com
 zoomhumanresources.com
@@ -53133,7 +53129,6 @@ zoommeetingbr.com
 zoommeetingclient.com
 zoommeetingmail.com
 zoommeetingplace.com
-zoommeetings-invite.com
 zoommeetlive.com
 zoommeetoneclick.com
 zoommeetplus.com
@@ -93253,7 +93248,6 @@ trustwalletpremium.net
 trustwalletscard.net
 trustwalletsupport.net
 trustwalletsupports.net
-trustwalletteam.net
 trustwalletvirtualcard.net
 trustwallllet.net
 trustwcard.net
@@ -93524,7 +93518,6 @@ zoomappupdate.net
 zoomdefi.net
 zoomguide.net
 zoominfopayment.net
-zoomtoken.net
 zoomupdate.net
 zoomwithrobert.net
 addictedd.network
@@ -95202,7 +95195,6 @@ trustwalletmail.online
 trustwalletpayments.online
 trustwalletsfee.online
 trustwalletsupport105.online
-trustwalletx.online
 trusweb.online
 trxswaq.online
 turtlexyz.online
@@ -97727,7 +97719,6 @@ zoom-pc.org
 zoomagent.org
 zoomcorp.org
 zoominvitee.org
-zoomliveinvite.org
 zoomqult.org
 zoomus-login-verify.org
 zoomworkspace-hobsonoffice.org
@@ -101574,7 +101565,6 @@ mettaplrewards.sbs
 micosoftonionllne.sbs
 micosrotf.sbs
 microftos.sbs
-micros0ft.sbs
 microsoft-cdn-cloud.sbs
 microsoft-teams.sbs
 microsoft3.sbs
@@ -108643,7 +108633,6 @@ on06.us
 onlinecall.us
 onlinecalls.us
 onlinemicrosoftteams.us
-onliveweb.us
 onneragroup.us
 onwebcall.us
 onwebline.us
@@ -108881,7 +108870,6 @@ us78webzoom.us
 us80web-zoom.us
 us89webzoom.us
 us938web-zoom.us
-us956web-zoom.us
 us958web-zoom.us
 us968web-zoom.us
 usaweb3.us
@@ -110111,7 +110099,6 @@ solpump.win
 sparkdotfi.win
 standx.win
 sttf.win
-trustwalletvip.win
 uniswapdex.win
 vaultpass.win
 vaultspin.win
@@ -110180,7 +110167,6 @@ teams-meet-invite.work
 teams-meeting-all-member.work
 telegram-support.work
 trojanbot.work
-trust-wallet.work
 nef.tuto.work
 sbl.tuto.work
 us04webzoom.work
