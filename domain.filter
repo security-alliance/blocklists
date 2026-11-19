@@ -1876,7 +1876,6 @@
 ||lidostake.app^$all
 ||lidostaking.app^$all
 ||lidosunover.app^$all
-||lienfin.app^$all
 ||liensfi.app^$all
 ||lifibridge.app^$all
 ||lighterexchange.app^$all
@@ -16533,7 +16532,6 @@
 ||time.0gfoundation.center^$all
 ||apyx.center^$all
 ||bitmain.center^$all
-||centrifuge.center^$all
 ||coinbase-wallet.center^$all
 ||com-verification.center^$all
 ||flarenetwork.center^$all
@@ -42467,7 +42465,6 @@
 ||s1hyp.com^$all
 ||s2-hyper.com^$all
 ||s2-morpho.com^$all
-||s2-solanamobile.com^$all
 ||s2-yieldbasis.com^$all
 ||s2verify-enblworks.com^$all
 ||s3-okgx-site.com^$all
@@ -47207,7 +47204,6 @@
 ||voting-rocketdash.com^$all
 ||voting-sunrise.com^$all
 ||voting-tea.com^$all
-||voting-unipegv4.com^$all
 ||voting-virtuals.com^$all
 ||voting-works.com^$all
 ||voting-worldlibertyfinancial.com^$all
@@ -76762,7 +76758,6 @@
 ||5262.bluefin.pr.app.bluefin.foundation^$all
 ||4982.ember.pr.app.bluefin.foundation^$all
 ||caldlera.foundation^$all
-||checker-flare.foundation^$all
 ||dao-firelight.foundation^$all
 ||defi-flare.foundation^$all
 ||desk-xrpl.foundation^$all
@@ -76783,7 +76778,6 @@
 ||treasury-espresso.foundation^$all
 ||treasury-ethena.foundation^$all
 ||treasury-pool-firelight.foundation^$all
-||treasury-pool-flare.foundation^$all
 ||treasury-pools-firelight.foundation^$all
 ||treasury-pools-flare.foundation^$all
 ||treasurys-pool-firelight.foundation^$all
@@ -95599,7 +95593,6 @@
 ||claim-robinhood.org^$all
 ||claim-soniclabs.org^$all
 ||claimmysol.org^$all
-||claims-hash256.org^$all
 ||claims-hyperfoundation.org^$all
 ||claims-obol.org^$all
 ||claims-octra.org^$all
@@ -110039,7 +110032,6 @@
 ||zoommeeting.work^$all
 ||zoomvideomeeting.work^$all
 ||chainlink.works^$all
-||cmd-tokens.works^$all
 ||governance-token.works^$all
 ||hub-token.works^$all
 ||kyc-rise.works^$all
@@ -110925,7 +110917,6 @@
 ||apyx-finance.xyz^$all
 ||apyx-finances.xyz^$all
 ||apyx-vote.xyz^$all
-||apyxfi.xyz^$all
 ||apyxfinance.xyz^$all
 ||ar-io.xyz^$all
 ||arbitrum-vote.xyz^$all
