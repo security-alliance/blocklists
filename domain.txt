@@ -90807,7 +90807,6 @@ bitget.monster
 codeweblink.monster
 coin-strike-app.monster
 cryptomixer.monster
-ghosttracebuildhaze.monster
 hyperliquid.monster
 my-rewards.monster
 myis-rewards.monster
@@ -90816,7 +90815,6 @@ raydiumlail.monster
 rollbit.monster
 strendusmx.monster
 tronlink.monster
-trueappstackview.monster
 accountprotection-microsofts.motorcycles
 uniswapjdreamxp.motorcycles
 pikashow.mov
