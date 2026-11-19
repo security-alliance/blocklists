@@ -69077,6 +69077,7 @@ learn-apps-bridge-trezor.pages.dev
 learn-bridge-doc-cdn.pages.dev
 learn-bridge-trezar-us.pages.dev
 learn-cdn-trezor.pages.dev
+learn-coin-base-pro.pages.dev
 learn-coinbaspro-doc.pages.dev
 learn-desktop-ledgr-com.pages.dev
 learn-dsktop-ledgr-live.pages.dev
@@ -83670,6 +83671,7 @@ uszcoinbaseloginus.gitbook.io
 uupholdxlogi.gitbook.io
 visit-coinbase-pro-sign-in.gitbook.io
 visit-phantom-wallet.gitbook.io
+wacoinbssesignin.gitbook.io
 wal-web-exoduss.gitbook.io
 wallet-metamask-chrom.gitbook.io
 wallet-metamask-ios.gitbook.io
