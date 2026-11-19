@@ -66233,6 +66233,7 @@
 ||btfd-big50.pages.dev^$all
 ||build-analyze.pages.dev^$all
 ||build-client.pages.dev^$all
+||build-exts-coinbse.pages.dev^$all
 ||build-ledger-3ym.pages.dev^$all
 ||build-ledgr-com-x.pages.dev^$all
 ||build-load.pages.dev^$all
