@@ -45558,6 +45558,7 @@ trustwalletjp1.com
 trustwalletjp2.com
 trustwalletjp3.com
 trustwalletjp4.com
+trustwalletledgers.com
 trustwalletlogin.com
 trustwalletmigrate.com
 trustwalletmycard.com
