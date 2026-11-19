@@ -38614,7 +38614,6 @@ news-listing.com
 news-moonshots.com
 opensea.io.news-offers.com
 news-trump.com
-newsaljazeera.com
 newscalarlabs.com
 webmail.newscoinbase.com
 newsdappconnect.com
