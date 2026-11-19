@@ -45,7 +45,6 @@ https://sites.google.com/mywalletguide.com/matamask-signin
 https://sites.google.com/myweb3extensionwallet.com/rabby-wallet-extension-app
 https://sites.google.com/phantom-extension.app/phantom-extension
 https://sites.google.com/trzario.com/trezoriostart/home
-https://sites.google.com/view/0uss4bpb
 https://sites.google.com/view/0uss4bpb/home
 https://sites.google.com/view/1e41e9fe6ba26bae
 https://sites.google.com/view/2026-list-of-trust-wallet-supp/home
@@ -1563,8 +1562,6 @@ https://sites.google.com/view/notabletotransferthefunds/home
 https://sites.google.com/view/nov-bitbuy-apps/home
 https://sites.google.com/view/nov-metamask-web/home
 https://sites.google.com/view/nwehucoinbpro/home
-https://sites.google.com/view/obduijus
-https://sites.google.com/view/obduijus/home
 https://sites.google.com/view/official-chrm-ext/home
 https://sites.google.com/view/official-coinbpro/home
 https://sites.google.com/view/official-metamaskcdn/home
