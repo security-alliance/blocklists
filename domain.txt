@@ -50426,7 +50426,6 @@ monpaeylogin.wixstudio.com
 monpaylpgin.wixstudio.com
 moon-pay-apps.wixstudio.com
 moonpaeylogin.wixstudio.com
-moonpay-apps.wixstudio.com
 moonpay-appscdn.wixstudio.com
 moonpay-cdn.wixstudio.com
 moonpay-cdn-login.wixstudio.com
