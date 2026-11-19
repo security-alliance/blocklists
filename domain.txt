@@ -50246,7 +50246,6 @@ lognmetamask.wixstudio.com
 lognmetamsk.wixstudio.com
 logon-apps-ndaxxcdn.wixstudio.com
 logon-appsnaddx.wixstudio.com
-logon-krakn.wixstudio.com
 logon-ledgrapps.wixstudio.com
 logon-moonpaycdn.wixstudio.com
 logon-ndaxio-apps.wixstudio.com
@@ -50603,7 +50602,6 @@ nav-koinbasee-ext.wixstudio.com
 nav-krakkencdn.wixstudio.com
 nav-kreknn.wixstudio.com
 nav-krkencdn.wixstudio.com
-nav-krrakancdn.wixstudio.com
 nav-krrekan.wixstudio.com
 nav-krrkan-io.wixstudio.com
 nav-kucoiin-hub.wixstudio.com
