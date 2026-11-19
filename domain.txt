@@ -37794,9 +37794,11 @@ microsfosonline.com
 microsft-outlook.com
 microsftonilne.com
 microsisoft.com
+microsistemals.com
 microso1t.com
 microsoazure.com
 microsof-teans.com
+microsoff365live.com
 microsoffteams.com
 microsofls.com
 microsofmeet.com
@@ -38171,6 +38173,7 @@ ms-verify.com
 ms365-device.com
 ms365-live.com
 ms365-online.com
+ms365outlook.com
 mscorsese.com
 mskjys.com
 msliveupdate.com
@@ -94764,6 +94767,7 @@ metamaskx.online
 mewdesktopwallet.online
 mica-compliance.online
 micorsoftfonline.online
+micosoftmeeting.online
 micr050ft.online
 micro5oft.online
 microsoffice.online
@@ -104242,6 +104246,7 @@ hyperliquid.stream
 onstreamapk.stream
 riverside.stream
 stake-casino.stream
+telcom.stream
 trezor.stream
 worldwideweb.stream
 worldwidewebs.stream
