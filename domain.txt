@@ -19260,7 +19260,6 @@ ptb.stakingreward.cloud
 pudgy-penguins.stakingreward.cloud
 rls.stakingreward.cloud
 sui-name-service.stakingreward.cloud
-sui-wallet.stakingreward.cloud
 typus-finance.stakingreward.cloud
 us-alpha-finances.stakingreward.cloud
 us-blue.stakingreward.cloud
