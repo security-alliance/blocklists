@@ -53415,7 +53415,6 @@ capitaf.cyou
 capitamx.cyou
 captaid.cyou
 carpro-coin.cyou
-cash-tornado.cyou
 cavilee.cyou
 cdtsktke.cyou
 civiliq.cyou
@@ -53650,7 +53649,6 @@ vjl05g3j9tf694epvm-v4.cyou
 vote-hydrexapp.cyou
 voting-hub.cyou
 voting-telcoin.cyou
-waletam99-link.cyou
 wangyix.cyou
 web3projectblokchain.cyou
 westerrd.cyou
@@ -76374,11 +76372,9 @@ restore-apyx.finance
 reverrt.finance
 revertt.finance
 review-moonwell.finance
-revoke-curve.finance
 revoke-moonwell.finance
 revoke-tectonic.finance
 revrt.finance
-reward-maple.finance
 reward-onre.finance
 reward-pendle.finance
 reward-theindex.finance
@@ -79316,7 +79312,6 @@ ignitercap-firelight.icu
 illuviumpassairdrop.icu
 imperialcrown.icu
 incdatashop.icu
-income-usdc.icu
 indiatoday.icu
 infinifi.icu
 accounts.ingfre.icu
@@ -79858,7 +79853,6 @@ starknetgov.icu
 starknetgovernance.icu
 startale.icu
 steady-move.icu
-sterling-capital.icu
 stockereum-governance.icu
 stockereum-votes.icu
 stockereum-voting.icu
@@ -101909,7 +101903,6 @@ voting-stable.sbs
 voting-zipcoin.sbs
 votings-zipcoin.sbs
 vynpipka.sbs
-waletam99-link.sbs
 wallet-aml-check.sbs
 walletcrypto.sbs
 flare.wanacat.sbs
@@ -101929,7 +101922,6 @@ whitelist-papertrade.sbs
 workflowin.sbs
 worldxyz.sbs
 portal.www-gokite.sbs
-wyncoinbase.sbs
 x-concrete.sbs
 x-papertrade.sbs
 xamanx.sbs
@@ -106613,9 +106605,6 @@ octaipro.top
 oferos3.top
 ohmsushi.top
 oil-markets.top
-okxairdrop.top
-okxcrypto.top
-okxfinance.top
 okxwalletexchange.top
 olelife001.top
 olelife005.top
@@ -106871,7 +106860,6 @@ republcbonk-online.top
 republic-ledger.top
 request-refunds.top
 resemion.top
-revodefi1.top
 revoke.top
 reward-aero.top
 reward-deltaliquidity.top
