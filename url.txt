@@ -1352,7 +1352,6 @@ https://sites.google.com/view/metamask-hard/home
 https://sites.google.com/view/metamask-hel/home
 https://sites.google.com/view/metamask-help-center/home
 https://sites.google.com/view/metamask-home-cdn/home
-https://sites.google.com/view/metamask-home-extension/home
 https://sites.google.com/view/metamask-install/home
 https://sites.google.com/view/metamask-into/home
 https://sites.google.com/view/metamask-intro-ext/home
@@ -1435,7 +1434,6 @@ https://sites.google.com/view/metamasklo
 https://sites.google.com/view/metamasklogincrypto/home
 https://sites.google.com/view/metamaskloginoffici/home
 https://sites.google.com/view/metamaskmetamask-exte/home
-https://sites.google.com/view/metamaskswapfailed/home
 https://sites.google.com/view/metamaskwallet8448900028/home
 https://sites.google.com/view/metamaskwalletextensiion/home
 https://sites.google.com/view/metamaskwebapps/home
