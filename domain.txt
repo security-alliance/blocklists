@@ -47945,6 +47945,7 @@ view-jaxxlibretycdn.wixsite.com
 web-extension-base.wixsite.com
 webapps-trustt.wixsite.com
 webs-base-extension.wixsite.com
+webs-trust-extension.wixsite.com
 aapcanetconscdn.wixstudio.com
 aapcanetconsso.wixstudio.com
 aapmycanetconscdn.wixstudio.com
