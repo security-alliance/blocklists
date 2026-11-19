@@ -90093,7 +90093,6 @@ stake-lt.lt
 1inch.ltd
 apextrade-markets.ltd
 apyx-fi.ltd
-arcnetwork.ltd
 blackbull.ltd
 boros.ltd
 bullish.ltd
@@ -100054,7 +100053,6 @@ app-id-verify.sbs
 app-id-verify-service-s7.sbs
 app-login.sbs
 app-ondofinances.sbs
-ctsi.app-stakingreward.sbs
 wirex.app-stakingreward.sbs
 wlrex.app-stakingreward.sbs
 wxt.app-stakingreward.sbs
@@ -110186,7 +110184,6 @@ worldfinaceliberty.world
 worldlibertyflnancial.world
 xaman-wallet.world
 xamanapp.world
-xamanwallet.world
 xswap.world
 yieldbasis.world
 zcat.world
@@ -114857,7 +114854,6 @@ oracle-daemon.xyz
 oracledaemon.xyz
 orbinumnetwork.xyz
 orbio-proposal.xyz
-orderlyone.xyz
 ore-check.xyz
 ore-checks.xyz
 ore-claim.xyz
