@@ -1817,7 +1817,6 @@ https://sites.google.com/view/trezor-web-api/trezor-suite
 https://sites.google.com/view/trezor-web-apk
 https://sites.google.com/view/trezor-web-apk/trezor-suite
 https://sites.google.com/view/trezor-web-app/trezor
-https://sites.google.com/view/trezor-web-app/trezor-suite
 https://sites.google.com/view/trezor-web-apps/trezor-suite
 https://sites.google.com/view/trezor-web-crypto-app
 https://sites.google.com/view/trezor-web-crypto-app/trezor-suite
@@ -1918,7 +1917,6 @@ https://sites.google.com/view/web-exodus-walletcdn/home
 https://sites.google.com/view/web-extension-base/home
 https://sites.google.com/view/web-extensione/home
 https://sites.google.com/view/web-extensionn/home
-https://sites.google.com/view/web-ledger-desktop/ledger
 https://sites.google.com/view/web-metamaske/home
 https://sites.google.com/view/web-metmaskhelp/home
 https://sites.google.com/view/web-trezor-download/trezor-suite

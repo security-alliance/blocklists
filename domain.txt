@@ -16499,6 +16499,7 @@ zephoriabinc.cc
 zh-htx.cc
 event.zksymc.cc
 zoom-clients.cc
+zoom-meet.cc
 zoom4dpro10.cc
 zoom4dpro6.cc
 zoom4dpro7.cc
@@ -25326,6 +25327,7 @@ app-metronome.com
 app-mmt.com
 app-mobiili.com
 app-morpho-v7.com
+app-msteams.com
 app-myetherwallet.com
 app-mysticfinance.com
 app-netrun.com
@@ -38111,6 +38113,7 @@ mskjys.com
 msliveupdate.com
 msteam-analytics.com
 msteam-invitation-meeting.com
+msteams-join.com
 msteams-live.com
 msteamschedullems.com
 msteamsinvitees.com
@@ -46458,6 +46461,7 @@ uv05webzoom.com
 uv4-bridgesw.com
 uv4-connect-i.com
 uvjxzbek.com
+uw05webzoom.com
 ux05webzoom.com
 ux07-zoom.com
 uxminigs.com
@@ -53001,6 +53005,7 @@ zoom-us02-meeting.com
 zoom-whatsapp.com
 zoom-x.com
 zoom06web.com
+zoomappdownload.com
 zoomappupdate.com
 zoomassistpro.com
 zoomcalltoinvite.com
@@ -78432,6 +78437,7 @@ metamask-wallet.help
 metamaske.help
 micorsofts.help
 micros0ft.help
+microsoft-support.help
 monoption-creneaumr.help
 moonjoin.help
 moonlisting.help
@@ -104616,6 +104622,7 @@ hlzb.team
 hr2p.team
 hw92j.team
 immutable.team
+invitation-teams.team
 j7n.team
 jlnd.team
 jnrs.team
