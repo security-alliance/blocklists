@@ -112255,7 +112255,6 @@ enter-curvance.xyz
 enter-destranetwork.xyz
 enter-etherfi.xyz
 enter-firelightfi.xyz
-enter-flarenetworks.xyz
 enter-kintsu.xyz
 enter-lido.xyz
 enter-lidofi.xyz
