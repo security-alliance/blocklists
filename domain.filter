@@ -18933,6 +18933,7 @@
 ||apyxfi.cloud^$all
 ||apyxfinance.cloud^$all
 ||apyxfinances.cloud^$all
+||arbitrone.cloud^$all
 ||arcusxyz.cloud^$all
 ||menta.argonstack.cloud^$all
 ||atlasprotocol.cloud^$all
@@ -75719,6 +75720,7 @@
 ||com-exchange-q-web3-chrome.exchange^$all
 ||convert.exchange^$all
 ||covert.exchange^$all
+||cryptoice.exchange^$all
 ||debridge.exchange^$all
 ||deribit.exchange^$all
 ||docketx.exchange^$all

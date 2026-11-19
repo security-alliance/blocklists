@@ -18933,6 +18933,7 @@ apyx-finances.cloud
 apyxfi.cloud
 apyxfinance.cloud
 apyxfinances.cloud
+arbitrone.cloud
 arcusxyz.cloud
 menta.argonstack.cloud
 atlasprotocol.cloud
@@ -75719,6 +75720,7 @@ coinbase-airdrop.exchange
 com-exchange-q-web3-chrome.exchange
 convert.exchange
 covert.exchange
+cryptoice.exchange
 debridge.exchange
 deribit.exchange
 docketx.exchange
