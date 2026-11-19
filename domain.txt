@@ -118875,7 +118875,6 @@ z-cat.xyz
 z00m.xyz
 zama-finances.xyz
 zama-migrationportal.xyz
-zama-participate.xyz
 zama-rewards.xyz
 zamadefi.xyz
 zamaprotocol.xyz
