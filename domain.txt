@@ -75416,7 +75416,6 @@ metamask.eu
 microsofonilne.eu
 milksteak.eu
 morpho-foundation.eu
-on05.eu
 online-ledger.eu
 pending-ledger.eu
 rainbet.eu
@@ -89120,7 +89119,6 @@ team-trustwallet.live
 teamapp.live
 teamfill.live
 teamms.live
-teams-com.live
 teams-connect.live
 teams-desk.live
 teams-lgn-meeting10.live
@@ -93870,7 +93868,6 @@ airport.observer
 fx.observer
 okx.observer
 trust-wallet.observer
-05in.one
 0xfluid.one
 11party4us.one
 1inch.one
@@ -109426,7 +109423,6 @@ swanweb.vip
 swapdapp.vip
 sxsvi.vip
 tapbitpor.vip
-teamlv.vip
 teams-live.vip
 techbot.vip
 tge-variational.vip
