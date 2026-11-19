@@ -54587,6 +54587,7 @@ oskarkregar.dev
 10-proposal-argus-epf.pages.dev
 10-proposal-computersrh.pages.dev
 10-proposal-derive.pages.dev
+10-proposal-elysium.pages.dev
 10-proposal-ethos.pages.dev
 10-proposal-extendedexchange.pages.dev
 10-proposal-fablesfi.pages.dev
