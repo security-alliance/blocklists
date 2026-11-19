@@ -695,7 +695,6 @@ https://sites.google.com/view/ex-coinbase-extensn/home
 https://sites.google.com/view/exadus-w-wallt/home
 https://sites.google.com/view/exchang-coinbs/home
 https://sites.google.com/view/exchangecoininfo/kraken-deposit-not-showing
-https://sites.google.com/view/exdos-us-en/home
 https://sites.google.com/view/exdus-brows/home
 https://sites.google.com/view/exdus-web-eng/home
 https://sites.google.com/view/exdus-web3-learn/home
@@ -706,7 +705,6 @@ https://sites.google.com/view/exod-etexodus/home
 https://sites.google.com/view/exods-web-cdns/home
 https://sites.google.com/view/exods-web/home
 https://sites.google.com/view/exods-webb/home
-https://sites.google.com/view/exods-wlt-/home
 https://sites.google.com/view/exods-wlt/home
 https://sites.google.com/view/exodsweb-wallet/home
 https://sites.google.com/view/exodu-web-nov/home
@@ -1913,8 +1911,6 @@ https://sites.google.com/view/webapps-home-extension/home
 https://sites.google.com/view/webapps-metamask/home
 https://sites.google.com/view/weben-por/home
 https://sites.google.com/view/webenpro/home
-https://sites.google.com/view/webexodus-domain/home
-https://sites.google.com/view/webexodus-official/home
 https://sites.google.com/view/webextension-metamsk/home
 https://sites.google.com/view/webhome-coinbase/home
 https://sites.google.com/view/webhomexodus/home
