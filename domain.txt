@@ -19247,7 +19247,6 @@ de-bridge.stakingreward.cloud
 double-zeros.stakingreward.cloud
 doublezeros.stakingreward.cloud
 eigen.stakingreward.cloud
-eigenfoundations.stakingreward.cloud
 gtc.stakingreward.cloud
 interface-fuelnetwork.stakingreward.cloud
 interface-graphprotocol.stakingreward.cloud
