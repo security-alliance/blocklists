@@ -32788,7 +32788,6 @@ flare-multiplier.com
 flare-staking.com
 flare-vote.com
 flarechainline.com
-vi-tols.com.flareclaimnetworks.com
 flareclaimtoken.com
 flaredao.com
 flaredisburse.com
@@ -78253,6 +78252,7 @@ clash.guru
 cobestchange.guru
 app.cowdao.guru
 crypto-money.guru
+cryptoxchange.guru
 cow.daoswap.guru
 cow.ecipies-do.guru
 ecosystem-pendle.guru
