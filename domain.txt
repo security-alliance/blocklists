@@ -15491,6 +15491,7 @@ ethdapp.cc
 ethdex.cc
 etherbot.cc
 ethercfarm.cc
+ethereumstaking.cc
 etherfi.cc
 etherzo.cc
 ethv2.cc
@@ -109150,6 +109151,7 @@ ellevesta.vip
 eth-casino.vip
 eth-et3.vip
 ethcasino.vip
+ethereumstaking.vip
 ethton.vip
 eus02am.vip
 exnessbtc.vip

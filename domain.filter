@@ -15491,6 +15491,7 @@
 ||ethdex.cc^$all
 ||etherbot.cc^$all
 ||ethercfarm.cc^$all
+||ethereumstaking.cc^$all
 ||etherfi.cc^$all
 ||etherzo.cc^$all
 ||ethv2.cc^$all
@@ -109150,6 +109151,7 @@
 ||eth-casino.vip^$all
 ||eth-et3.vip^$all
 ||ethcasino.vip^$all
+||ethereumstaking.vip^$all
 ||ethton.vip^$all
 ||eus02am.vip^$all
 ||exnessbtc.vip^$all
