@@ -79202,6 +79202,7 @@ firelight-ecosystems.icu
 firelight-eligibility.icu
 firelight-gov.icu
 firelight-governance.icu
+firelight-phase2.icu
 firelight-portal.icu
 firelight-proposal.icu
 firelight-rewards.icu
