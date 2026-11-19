@@ -46718,6 +46718,7 @@ vaultfx-ext.com
 vaulthome-coinbase.com
 vaultinstitution.com
 vaultredirect.com
+vaults-kraken.com
 vaults-variational.com
 coinbase.vaultsafely.com
 vaultx-unlocked.com
