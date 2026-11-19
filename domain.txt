@@ -49892,8 +49892,8 @@ io-monpay-apps.wixstudio.com
 io-monpaycdn.wixstudio.com
 io-moonpay-nav.wixstudio.com
 io-moonpayapps.wixstudio.com
-io-moonpaycdn.wixstudio.com
 io-moonpaycdn-apps.wixstudio.com
+m.io-moonpaycdn.wixstudio.com
 io-raabbyweb-apps.wixstudio.com
 io-rabby-extension.wixstudio.com
 io-rabby-homeapps.wixstudio.com
@@ -77459,6 +77459,7 @@ lossesbacks-pump.fun
 lucky-casino.fun
 lunaprofit.fun
 lv-pump.fun
+makefunai.fun
 malarchite.fun
 maxpain.fun
 mdpump.fun
@@ -114501,6 +114502,7 @@ mainnet-elysium.xyz
 mainnet-elysiumeco.xyz
 mainnet-saga.xyz
 mainsol-app.xyz
+makedotfun.xyz
 makersairdrop.xyz
 manage-server.xyz
 managedevice.xyz
