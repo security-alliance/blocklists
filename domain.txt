@@ -102347,7 +102347,6 @@ ethenaa.shop
 etherfi.shop
 etherfinance.shop
 ethersfi.shop
-walletconnect.exopay.shop
 fastwork-verification.shop
 finance-circuit.shop
 curve.finance-orbit.shop
