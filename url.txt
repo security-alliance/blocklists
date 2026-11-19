@@ -1985,4 +1985,5 @@ https://sites.google.com/walletintro.com/metamask-chrom/home
 https://sites.google.com/wallletextension.com/backpackwallet/home
 https://sites.google.com/wallletextension.com/metamaskextension/home
 https://storage.googleapis.com/webtx/index.html
+https://x.com/chainalysis
 https://claims-reward.github.io/defillama/
