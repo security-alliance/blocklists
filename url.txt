@@ -590,10 +590,8 @@ https://sites.google.com/view/conbse-wallets/home
 https://sites.google.com/view/connect-base-extension/home
 https://sites.google.com/view/connect-bitbuycd-/home
 https://sites.google.com/view/connect-en-metmask/home
-https://sites.google.com/view/connect-ledger-desktop
 https://sites.google.com/view/connect-metamaskiohelp/home
 https://sites.google.com/view/connect-metmsk/home
-https://sites.google.com/view/connect-trezor-suite
 https://sites.google.com/view/connectcoinpro-us/home
 https://sites.google.com/view/connectwithmetamask/home
 https://sites.google.com/view/console-meta-eng/home
@@ -1174,7 +1172,6 @@ https://sites.google.com/view/ledger-com-portfolio-website
 https://sites.google.com/view/ledger-crypto-app
 https://sites.google.com/view/ledger-dapp
 https://sites.google.com/view/ledger-desktop-api/ledger-wallet
-https://sites.google.com/view/ledger-desktop-connect
 https://sites.google.com/view/ledger-desktop-version
 https://sites.google.com/view/ledger-desktop-version/ledger-wallet
 https://sites.google.com/view/ledger-device-backup/ledger-live
@@ -1825,7 +1822,6 @@ https://sites.google.com/view/trezor-web-apk/trezor-suite
 https://sites.google.com/view/trezor-web-app/trezor
 https://sites.google.com/view/trezor-web-app/trezor-suite
 https://sites.google.com/view/trezor-web-apps/trezor-suite
-https://sites.google.com/view/trezor-web-connect
 https://sites.google.com/view/trezor-web-crypto-app
 https://sites.google.com/view/trezor-web-crypto-app/trezor-suite
 https://sites.google.com/view/trezor-web-download/trezor-suite
@@ -1929,7 +1925,6 @@ https://sites.google.com/view/web-extensionn/home
 https://sites.google.com/view/web-ledger-desktop/ledger
 https://sites.google.com/view/web-metamaske/home
 https://sites.google.com/view/web-metmaskhelp/home
-https://sites.google.com/view/web-trezor-connect
 https://sites.google.com/view/web-trezor-download/trezor-suite
 https://sites.google.com/view/web-us-en/home
 https://sites.google.com/view/web-user-bitbuy/home
