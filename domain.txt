@@ -76820,7 +76820,6 @@ sunrisedefi.foundation
 tge--flare.foundation
 treasury-espresso.foundation
 treasury-ethena.foundation
-treasury-pools-firelight.foundation
 treasury-pools-flare.foundation
 treasurys-pool-firelight.foundation
 treasurys-pool-flare.foundation
@@ -105634,7 +105633,6 @@ cd3asdf.top
 cdn-microsoft.top
 cecpyr.top
 cemwir.top
-centrifuge.top
 centrifuges.top
 cervantas.top
 cetuszone.top
@@ -118003,7 +118001,6 @@ viibl.xyz
 vip-giftcenter.xyz
 virexfx.xyz
 virtual-claims.xyz
-virtual-rewards.xyz
 virtuals-2026.xyz
 virtuals-proposal.xyz
 virtuals-sprint.xyz
