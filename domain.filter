@@ -2507,7 +2507,6 @@
 ||coinbasedashboard.netlify.app^$all
 ||coinbasedevicealert.netlify.app^$all
 ||coinbasee.netlify.app^$all
-||coinbasee-dashboard-comm.netlify.app^$all
 ||coinbasef.netlify.app^$all
 ||coinbaseh.netlify.app^$all
 ||coinbasehelpline.netlify.app^$all
@@ -101764,7 +101763,6 @@
 ||tapir328qnc.sbs^$all
 ||tapir328vhn.sbs^$all
 ||teafi.sbs^$all
-||teamicrosoft.sbs^$all
 ||termmax.sbs^$all
 ||termmax-finance.sbs^$all
 ||termmax-finances.sbs^$all
@@ -104733,7 +104731,6 @@
 ||fablefi.tech^$all
 ||fablesfi.tech^$all
 ||falconx.tech^$all
-||arc.fasset-hq.tech^$all
 ||sbiremit.fasset-hq.tech^$all
 ||firclightfi.tech^$all
 ||allocation.firelightfdn.tech^$all

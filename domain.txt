@@ -2507,7 +2507,6 @@ coinbasecustomersupport.netlify.app
 coinbasedashboard.netlify.app
 coinbasedevicealert.netlify.app
 coinbasee.netlify.app
-coinbasee-dashboard-comm.netlify.app
 coinbasef.netlify.app
 coinbaseh.netlify.app
 coinbasehelpline.netlify.app
@@ -101764,7 +101763,6 @@ tapir327wer.sbs
 tapir328qnc.sbs
 tapir328vhn.sbs
 teafi.sbs
-teamicrosoft.sbs
 termmax.sbs
 termmax-finance.sbs
 termmax-finances.sbs
@@ -104733,7 +104731,6 @@ etherfi.tech
 fablefi.tech
 fablesfi.tech
 falconx.tech
-arc.fasset-hq.tech
 sbiremit.fasset-hq.tech
 firclightfi.tech
 allocation.firelightfdn.tech
