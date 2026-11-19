@@ -11719,7 +11719,6 @@
 ||vote-apyxfi.app^$all
 ||vote-arcium.app^$all
 ||vote-centrifuge.app^$all
-||vote-doppler.app^$all
 ||vote-ethena.app^$all
 ||vote-ethfi.app^$all
 ||vote-firelightfinance.app^$all
@@ -76776,7 +76775,6 @@
 ||tge--flare.foundation^$all
 ||treasury-espresso.foundation^$all
 ||treasury-ethena.foundation^$all
-||treasury-pool-firelight.foundation^$all
 ||treasury-pools-firelight.foundation^$all
 ||treasury-pools-flare.foundation^$all
 ||treasurys-pool-firelight.foundation^$all
@@ -110597,7 +110595,6 @@
 ||allocation-shiftrwa.xyz^$all
 ||allocation-signup.xyz^$all
 ||allocation-solstice.xyz^$all
-||allocation-solv.xyz^$all
 ||allocation-stable.xyz^$all
 ||allocation-standardreserve.xyz^$all
 ||allocation-stbl.xyz^$all
@@ -110688,7 +110685,6 @@
 ||allocations-tollylabs.xyz^$all
 ||allocations-treadfi.xyz^$all
 ||allocations-usepaid.xyz^$all
-||allocations-virtualsprotocol.xyz^$all
 ||allocations-virutal.xyz^$all
 ||vote.allocations-zest.xyz^$all
 ||allocations-zestprotocol.xyz^$all
@@ -114757,7 +114753,6 @@
 ||nil-allocations.xyz^$all
 ||nilesthecroc.xyz^$all
 ||nill-rewards.xyz^$all
-||nillion-bonus.xyz^$all
 ||nillion-event.xyz^$all
 ||nillion-migration.xyz^$all
 ||nillion-portal.xyz^$all
@@ -117534,7 +117529,6 @@
 ||treasury-pool-sparkdex.xyz^$all
 ||treasury-rewards-nado.xyz^$all
 ||treasury-riverinc.xyz^$all
-||treasury-sparkdex.xyz^$all
 ||treasury-starknet.xyz^$all
 ||treasury-umbra.xyz^$all
 ||treasury-virtuals.xyz^$all

@@ -11719,7 +11719,6 @@ vote-alturatrade.app
 vote-apyxfi.app
 vote-arcium.app
 vote-centrifuge.app
-vote-doppler.app
 vote-ethena.app
 vote-ethfi.app
 vote-firelightfinance.app
@@ -76776,7 +76775,6 @@ sunrisedefi.foundation
 tge--flare.foundation
 treasury-espresso.foundation
 treasury-ethena.foundation
-treasury-pool-firelight.foundation
 treasury-pools-firelight.foundation
 treasury-pools-flare.foundation
 treasurys-pool-firelight.foundation
@@ -110597,7 +110595,6 @@ allocation-saturncredit.xyz
 allocation-shiftrwa.xyz
 allocation-signup.xyz
 allocation-solstice.xyz
-allocation-solv.xyz
 allocation-stable.xyz
 allocation-standardreserve.xyz
 allocation-stbl.xyz
@@ -110688,7 +110685,6 @@ allocations-tea.xyz
 allocations-tollylabs.xyz
 allocations-treadfi.xyz
 allocations-usepaid.xyz
-allocations-virtualsprotocol.xyz
 allocations-virutal.xyz
 vote.allocations-zest.xyz
 allocations-zestprotocol.xyz
@@ -114757,7 +114753,6 @@ nigat99.xyz
 nil-allocations.xyz
 nilesthecroc.xyz
 nill-rewards.xyz
-nillion-bonus.xyz
 nillion-event.xyz
 nillion-migration.xyz
 nillion-portal.xyz
@@ -117534,7 +117529,6 @@ treasury-pool-plasma.xyz
 treasury-pool-sparkdex.xyz
 treasury-rewards-nado.xyz
 treasury-riverinc.xyz
-treasury-sparkdex.xyz
 treasury-starknet.xyz
 treasury-umbra.xyz
 treasury-virtuals.xyz
