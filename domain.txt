@@ -13098,7 +13098,6 @@ snccdn-framework.beer
 snowbank.beer
 sns-clauder-cdn.beer
 srtydnnc.beer
-ssns-cdn-ns.beer
 super-bonus-click.beer
 super-bonus-life.beer
 super-bonus-mega.beer
@@ -18773,7 +18772,6 @@ v2-hyperliquid.click
 v2-jup.click
 v2-lido.click
 v2-pumpswap.click
-v2-quickswap.click
 v2-rubic-eth.click
 v2-sushiswap.click
 v3-aave.click
@@ -24537,7 +24535,6 @@ acccesol.com
 acces-ledger.com
 acces-protege.com
 acces-recover-ledger.com
-acces-service.com
 accesd-recup.com
 accesdocument.com
 access-account-x.com
@@ -24703,7 +24700,6 @@ adsmicrosotf.com
 adsrw-google.com
 adusozu.com
 advancedhelp-coinbase.com
-advancewithloris.com
 adventureoasisworld.com
 adventurevalegame.com
 advert-company.com
@@ -27254,7 +27250,6 @@ buff-market.com
 bufrix.com
 build-trustwallet.com
 buildfxltd.com
-buildonnorvianx.com
 bujereselling.com
 bukewex.com
 bukeys.com
@@ -28649,7 +28644,6 @@ code-290123-crypto.com
 code-290127-crypto.com
 code-support-verify-app-crypto.com
 code4eyes.com
-codeinlaguro.com
 mega.codemasterweb.com
 codempiler.com
 codeonbalances.com
@@ -29954,7 +29948,6 @@ connectips-verify.com
 phantom-lk.connectorme.com
 connectsweb-s.com
 connectsweb-t.com
-connecttorevanta.com
 connectu-w-v1.com
 connectuav.com
 connectvideocall.com
@@ -31385,7 +31378,6 @@ dredova.com
 drfdl.com
 drift-meet.com
 driftinlakeshore.com
-driftinwoodline.com
 drifttoporta.com
 drive-auth-verify.com
 driverplugin.com
@@ -31569,7 +31561,6 @@ ecumotun.com
 edenhospitality.com
 edenijo.com
 edexce.com
-edf-energieservices.com
 edge789314.com
 poc.wallet.devnet.canton.edgevana.com
 edgexch.com
@@ -32435,7 +32426,6 @@ fdlyint.com
 fdomc.com
 fdosr-coinbase.com
 fdshfjoiasj.com
-fduijnstee.com
 fearwin.com
 featherwallet.com
 sempak.featuredtruck.com
@@ -32832,7 +32822,6 @@ floralcareerconnection.com
 floridavacationvillarental.com
 flourissignals.com
 flow-verification.com
-flowacrossnovex.com
 flowbridgee.com
 flowinstitutional.com
 flowinvalley.com
@@ -33525,7 +33514,6 @@ glary-utilities.com
 perjalanan.glaxynail.com
 uniswap.glebme.com
 glenhavencounsel.com
-glideinorb.com
 gllvhuan.com
 global-huobi.com
 global-moonpay.com
@@ -35225,7 +35213,6 @@ icrmoving.com
 icrypexai-tr.com
 icstonemarkets.com
 id-257321.com
-id-bind24ar.com
 id-coinbase.com
 id-kraken-controle.com
 id-locating-map.com
@@ -40720,7 +40707,6 @@ puls-kursownia.com
 pulse-casino.com
 pulse-spend.com
 pulsechainn.com
-pulseinprairix.com
 pulsoris.com
 pulsz-play.com
 pulsz-usa.com
@@ -42215,7 +42201,6 @@ ripple-meet.com
 ripple-swap.com
 rippleswell26.com
 riserwin.com
-riseupmeadow.com
 risex-exchanges.com
 risex-trade.com
 rit1a.com
@@ -43990,7 +43975,6 @@ sunflower678.com
 studio.sunkraken.com
 suntrustbankingonline.com
 sunvgas.com
-suomfinland-final.com
 suosex.com
 super-bonus-click.com
 super-bonus-life.com
@@ -44616,7 +44600,6 @@ thecaribbeanexchangesnetwork.com
 webmail.thecircleremembers.com
 thecoi-base.com
 thecoinw.com
-theconfounder.com
 thecrashlesscoin.com
 thecricfytv.com
 thecryptofixers.com
@@ -51986,7 +51969,6 @@ woridilbertyfinanclai.com
 woridlibertyfinance.com
 work-stake.com
 workforce-x.com
-workinlakefield.com
 workmojito.com
 worknomadnet.com
 workplaice.com
@@ -53562,7 +53544,6 @@ hunting-airdrop.cyou
 huntithgton.cyou
 imtookon.cyou
 income-pgne.cyou
-inconsk.cyou
 interestfundfinance.cyou
 ishifuku.cyou
 japanel.cyou
@@ -81787,7 +81768,6 @@ polymarket-claim.verify-seed.info
 polymarket2026.verify-seed.info
 versicherungs-vergleicher.info
 vexil.info
-veylathorim.info
 vidal-exchange.info
 view-flndmy.info
 view-injective.info
@@ -96712,7 +96692,6 @@ pitaes.org
 piteas.org
 pixel-tw.org
 pjrx.org
-planologie.org
 plasma-entry.org
 play-coolbet.org
 play-olympia.org
@@ -97040,7 +97019,6 @@ solana-mixer.org
 solanadrop.org
 wlfi.solanadrops.org
 solanastake.org
-solayercard.org
 solbridge.org
 solcasinoonline.org
 solcasinos.org
