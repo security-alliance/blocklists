@@ -48284,7 +48284,6 @@ apps-krkencdn.wixstudio.com
 apps-krkkencd.wixstudio.com
 apps-krkkencdn.wixstudio.com
 apps-krkunepro.wixstudio.com
-apps-krrakan-apps.wixstudio.com
 apps-krrkan-io.wixstudio.com
 apps-krrkancdn.wixstudio.com
 apps-krrkencdn.wixstudio.com
