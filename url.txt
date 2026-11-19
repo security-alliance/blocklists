@@ -742,7 +742,6 @@ https://sites.google.com/view/exodus-walet-/home
 https://sites.google.com/view/exodus-wallet
 https://sites.google.com/view/exodus-wallet-download/home
 https://sites.google.com/view/exodus-wallet-eng-/home
-https://sites.google.com/view/exodus-wallet-eng/home
 https://sites.google.com/view/exodus-wallet-exodus/home
 https://sites.google.com/view/exodus-wallet-pages/home
 https://sites.google.com/view/exodus-wallet-user/home
@@ -762,7 +761,6 @@ https://sites.google.com/view/exodus-web3wallet-nov/home
 https://sites.google.com/view/exodus-webb/home
 https://sites.google.com/view/exodus-webcdns/home
 https://sites.google.com/view/exodus-webs-en/home
-https://sites.google.com/view/exodus-webs-org/home
 https://sites.google.com/view/exodus-websspo/home
 https://sites.google.com/view/exodus-webus/home
 https://sites.google.com/view/exodus-wecomus/home
@@ -885,7 +883,6 @@ https://sites.google.com/view/g16qzkx8k27d7pk
 https://sites.google.com/view/gdfhgfhh/home
 https://sites.google.com/view/get-browse-metmask/home
 https://sites.google.com/view/get-coinbaselog/home
-https://sites.google.com/view/get-exodusweb3-cdn/home
 https://sites.google.com/view/get-extension-base/home
 https://sites.google.com/view/get-extension/home
 https://sites.google.com/view/get-metamask-wallet/home
