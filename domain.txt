@@ -11780,7 +11780,6 @@ voting-zebec.app
 votings-flarefoundation.app
 votings-flarenetwork.app
 vscode.app
-vsignal.app
 vvs-finance.app
 vvvvw-lladgar-app.app
 vvvvw-lladgar-live.app
@@ -46782,7 +46781,6 @@ venture-coinbase.com
 venture-startup.com
 venusearnersassets.com
 vepoplumbers.com
-vercel-solutions.com
 verdict-x.com
 vereed.com
 verefamb.com
@@ -72283,7 +72281,6 @@ terrastation.pages.dev
 tersor-bridge.pages.dev
 tersr-bridge.pages.dev
 terzorr-suite.pages.dev
-tessstt-1x8.pages.dev
 test-1h9.pages.dev
 test-cok.pages.dev
 test1-68x.pages.dev
@@ -77547,7 +77544,6 @@ pumpfunlivestream.fun
 pumpfuns-live.fun
 pumpfunslives.fun
 pumphill.fun
-pumpkingbot.fun
 pumplaunchpad.fun
 pumplive-stream.fun
 pumplive-streamer.fun
@@ -84283,7 +84279,6 @@ onmeet.io
 opensae.io
 opensra.io
 opus-trade.io
-originworld.io
 otrezor.io
 parlaymatch.io
 paypalcrypto.io
@@ -89633,7 +89628,6 @@ basecatcoin.lol
 basedfoundation.lol
 basedone.lol
 baselineonbase.lol
-bdccoinsolana.lol
 beefyfinances.lol
 beforeafter.lol
 behemothbnb.lol
@@ -96885,7 +96879,6 @@ seadrop.org
 seavault-deepdock.org
 secondfi.org
 secure-etoro.org
-secure-login-meta.org
 secure-treasurymanagement.org
 secure-tw.org
 secure-tws.org
@@ -97473,7 +97466,6 @@ web3arb.org
 rabby.web3chess.org
 web3cta.org
 web3cybersecurity.org
-web3globalsecuredledger.org
 web3intuit.org
 web3userauth.org
 web3userauthenticate.org
@@ -107907,7 +107899,6 @@ trustwalletlogin.blogspot.ug
 login-app.ug
 1413-ledger.uk
 16608.uk
-amlchek.uk
 amlscan.uk
 appodos.uk
 binance-online.uk
