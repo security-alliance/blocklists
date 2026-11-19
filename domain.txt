@@ -87032,7 +87032,6 @@ ai-marketltd.eth.limo
 chainlink-app.eth.limo
 elyspump.eth.limo
 eth-tornadocash.eth.limo
-celestia.ezpdpz.eth.limo
 firelightfi.eth.limo
 fxrprotocol.eth.limo
 t123.remixdapp.eth.limo
