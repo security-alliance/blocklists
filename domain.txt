@@ -19261,7 +19261,6 @@ typus-finance.stakingreward.cloud
 us-alpha-finances.stakingreward.cloud
 us-blue.stakingreward.cloud
 us-bluefins.stakingreward.cloud
-us-bob.stakingreward.cloud
 us-cgpt.stakingreward.cloud
 us-curvefinances.stakingreward.cloud
 us-degen-app.stakingreward.cloud
