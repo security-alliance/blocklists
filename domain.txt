@@ -118475,7 +118475,6 @@ voting-hyperfoundation.xyz
 voting-injective.xyz
 voting-kinetiqfnd.xyz
 voting-lido.xyz
-voting-lidofinance.xyz
 voting-litebeam.xyz
 voting-meridian.xyz
 voting-monad.xyz
