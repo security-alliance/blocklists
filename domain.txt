@@ -58588,6 +58588,7 @@ pr-7831.1inch-io-app.pages.dev
 23-proposal-argus.pages.dev
 23-proposal-computersrh.pages.dev
 23-proposal-derive.pages.dev
+23-proposal-elysium.pages.dev
 23-proposal-ethos.pages.dev
 23-proposal-fablesfi.pages.dev
 23-proposal-globaldollar.pages.dev
@@ -60960,6 +60961,7 @@ pr-7831.1inch-io-app.pages.dev
 38-proposals-papertrade.pages.dev
 38-reallocate-flare.pages.dev
 38-reallocation-concrete.pages.dev
+38-rewards-firelightfi.pages.dev
 38-saturncredit.pages.dev
 38-stonkbroker-clutchmarkets.pages.dev
 38-tge-extended.pages.dev
@@ -101349,6 +101351,7 @@ gov-netnetcap.sbs
 gov-ramses.sbs
 gov-zipcoin.sbs
 governance-chainlink.sbs
+governance-firelightfi.sbs
 governance-listadao.sbs
 governance-mancerhub.sbs
 govs-ramses.sbs

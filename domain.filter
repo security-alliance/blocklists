@@ -58588,6 +58588,7 @@
 ||23-proposal-argus.pages.dev^$all
 ||23-proposal-computersrh.pages.dev^$all
 ||23-proposal-derive.pages.dev^$all
+||23-proposal-elysium.pages.dev^$all
 ||23-proposal-ethos.pages.dev^$all
 ||23-proposal-fablesfi.pages.dev^$all
 ||23-proposal-globaldollar.pages.dev^$all
@@ -60960,6 +60961,7 @@
 ||38-proposals-papertrade.pages.dev^$all
 ||38-reallocate-flare.pages.dev^$all
 ||38-reallocation-concrete.pages.dev^$all
+||38-rewards-firelightfi.pages.dev^$all
 ||38-saturncredit.pages.dev^$all
 ||38-stonkbroker-clutchmarkets.pages.dev^$all
 ||38-tge-extended.pages.dev^$all
@@ -101349,6 +101351,7 @@
 ||gov-ramses.sbs^$all
 ||gov-zipcoin.sbs^$all
 ||governance-chainlink.sbs^$all
+||governance-firelightfi.sbs^$all
 ||governance-listadao.sbs^$all
 ||governance-mancerhub.sbs^$all
 ||govs-ramses.sbs^$all
