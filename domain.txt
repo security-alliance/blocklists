@@ -22368,6 +22368,7 @@ opensea.28372982.com
 284323-crypto.com
 284824-ledger.com
 284825-crypto.com
+284992coinbase.com
 285017-coinbase.com
 285039-crypto.com
 285730-coinbase.com
@@ -103563,6 +103564,7 @@ ledger.com.sl
 pro-coinbase.blogspot.sn
 trustwalletcustomerservicephonenumber.blogspot.sn
 kucoin.sn
+app-base-ext.apper.so
 apps-metamask-extensions.apper.so
 apps-metamaskcdn.apper.so
 coinsquar-sso.apper.so
@@ -103570,6 +103572,7 @@ en-exo-duss.apper.so
 en-exodus.apper.so
 en-phantom.apper.so
 eng-1inch-org.apper.so
+eng-extnsion-cdn.apper.so
 eng-metamask.apper.so
 exodsweb.apper.so
 home-metamask-exte.apper.so
