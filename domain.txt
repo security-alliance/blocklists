@@ -29810,6 +29810,7 @@ com-s04-gift-esim.com
 com-search-q-bitrefill-oq-bi-gslcrp-egzjahjvbwuq.com
 bitrefill.com-search-q-bitrefill-oq-bi-gslcrp-egzjahjvbwuqbggbeeuyozigca.com
 bitrefill.com.com-search-q-bitrefill-oq-bi-gslcrp-egzjahjvbwuqbggbeeuyozigca.com
+bitrefill.com-search-q-bitrefill-oq-bi-gslcrp-egzjahjvbwuqbggbeeuyozigcaa.com
 pay-bitrefill.com-search-q-bitrefill-oq-bi-gslcrp-egzjahjvbwuqbggbeeuyozigcaa.com
 com-services-manager.com
 com-sign-in.com
@@ -29825,6 +29826,7 @@ com-uk-wealth.com
 com-us-privatewealth.com
 com-utmsource-google-campaign-5645542-keyword-bitrefill.com
 bitrefill.com-utmsource-google-campaign-7775544-keyword-bitrefill.com
+pay-bitrefill.com-utmsource-google-campaign-7775544-keyword-bitrefill.com
 com-v01-esim-gift.com
 com-v04-gift-esim.com
 com-verification.com
