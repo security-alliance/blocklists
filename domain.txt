@@ -28568,7 +28568,6 @@ trezorwalletapp.co.com
 trezorwalletofficial.co.com
 trezsuiteapp.co.com
 tronact.co.com
-tronlin.co.com
 tronlink-apps.co.com
 tronlink-eng.co.com
 tronlink-my.co.com
