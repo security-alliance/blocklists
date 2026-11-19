@@ -1541,7 +1541,6 @@ vote.flare-network.app
 flare-proposal.app
 flare-proposals.app
 flare-rewards.app
-flare-vote.app
 flare-voting.app
 flare-xrpfiyield.app
 flarefndn-rewards.app

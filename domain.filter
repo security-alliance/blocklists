@@ -1541,7 +1541,6 @@
 ||flare-proposal.app^$all
 ||flare-proposals.app^$all
 ||flare-rewards.app^$all
-||flare-vote.app^$all
 ||flare-voting.app^$all
 ||flare-xrpfiyield.app^$all
 ||flarefndn-rewards.app^$all
