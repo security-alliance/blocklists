@@ -19266,7 +19266,6 @@ us-cgpt.stakingreward.cloud
 us-curvefinances.stakingreward.cloud
 us-degen-app.stakingreward.cloud
 us-degens.stakingreward.cloud
-us-doublezeros.stakingreward.cloud
 us-eigen-foundation.stakingreward.cloud
 us-eigenfoundation.stakingreward.cloud
 us-gtc.stakingreward.cloud
