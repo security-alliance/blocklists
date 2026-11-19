@@ -1524,7 +1524,6 @@ firelightfinance-genesis.app
 firelightfinance-tokens.app
 proposal.firelightfinance.app
 firelightfinancephase2.app
-firelightfinances.app
 firelightforge.app
 firelightmainnet.app
 firelightprose.app
@@ -43888,7 +43887,6 @@ strata-markets.com
 strategy-eth.com
 strategy-foundation.com
 strategy-vaults.com
-strategyfndn.com
 stratfordperthpride.com
 stratiste.com
 stratisty.com
@@ -44988,7 +44986,6 @@ toledotreeservices.com
 tombola-bet.com
 tombola-gb.com
 tomeet-app.com
-ton-contest.com
 toneforward.com
 tonewex.com
 tongluozhai.com
@@ -92407,7 +92404,6 @@ hyper-bit.net
 hyper-lend.net
 hyperi1quid.net
 hyperliquid-allocation.net
-hyperliquidpolicy.net
 hyperstake.net
 hyprerlane.net
 hyprerswap.net
@@ -96277,7 +96273,6 @@ indiciesoptiontrades.org
 info-ledger.org
 info-rabby.org
 info-solflare.org
-info-thorchain.org
 innermongolia.org
 inquiries-binance.org
 insuredclaims.org
@@ -96965,7 +96960,6 @@ renzo-protocol.org
 restore-you.org
 retikproject.org
 revoke-humanity.org
-revoke-thorchain.org
 revokecashh.org
 revolut-cc.org
 revolut-hq.org
