@@ -118368,6 +118368,7 @@ votes-flarenetworks.xyz
 votes-flr.xyz
 votes-harmonixfi.xyz
 votes-hubs-flarefoundation.xyz
+votes-hyper.xyz
 votes-hyperecosystem.xyz
 votes-internetcomputer.xyz
 votes-jurassic.xyz
