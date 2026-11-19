@@ -111617,7 +111617,6 @@ claim-mrln.xyz
 claim-multiplifoundation.xyz
 claim-myrothedog.xyz
 claim-netnet.xyz
-claim-nexus.xyz
 claim-nim.xyz
 claim-nodeops.xyz
 claim-officialmrbeastcoin.xyz
