@@ -19273,7 +19273,6 @@ us-curvefinances.stakingreward.cloud
 us-degen-app.stakingreward.cloud
 us-degens.stakingreward.cloud
 us-eigenfoundation.stakingreward.cloud
-us-gtc.stakingreward.cloud
 us-link.stakingreward.cloud
 us-nexus-mutuals.stakingreward.cloud
 us-optism.stakingreward.cloud
@@ -46497,7 +46496,6 @@ usgemwallet.com
 usi-coinbase.com
 uskrakotc.com
 uslivecall.com
-usmarketslive.com
 usmarketsupdate.com
 usmeeting05.com
 uso4web-zoom-conferencies.com
