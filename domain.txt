@@ -93438,6 +93438,7 @@ avantisfl.network
 azetec.network
 aztex.network
 bankroll-migration.network
+basewallet.network
 bdagsales.network
 app.bdagsparks.network
 bep-20.network
