@@ -379,7 +379,6 @@ https://sites.google.com/view/coinbase-getting-starte/home
 https://sites.google.com/view/coinbase-globalapp/home
 https://sites.google.com/view/coinbase-guide-set/home
 https://sites.google.com/view/coinbase-help-app/home
-https://sites.google.com/view/coinbase-help-eng/home
 https://sites.google.com/view/coinbase-home-en/home
 https://sites.google.com/view/coinbase-homes-en/home
 https://sites.google.com/view/coinbase-install/home
@@ -1882,7 +1881,6 @@ https://sites.google.com/view/user-coinbase/home
 https://sites.google.com/view/user-exodus-app/home
 https://sites.google.com/view/user-metamskapp/home
 https://sites.google.com/view/user-metmask-extn/home
-https://sites.google.com/view/user-wallet-coinbase/home
 https://sites.google.com/view/userbegin-coinbase/home
 https://sites.google.com/view/usere-coinbase/home
 https://sites.google.com/view/usmetamsk-ext/home
