@@ -1403,6 +1403,7 @@
 ||doughwallet.app^$all
 ||drive-cloud.app^$all
 ||drop-usepaid.app^$all
+||drop-xrpl.app^$all
 ||dualdexbot.app^$all
 ||dustrush.app^$all
 ||dydxlog.app^$all
