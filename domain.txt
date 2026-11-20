@@ -19552,7 +19552,6 @@ zebec-io.club
 zebecs.club
 zh-okx.club
 app.1inch.cm
-aave.cm
 coinbase.cm
 asterdex.com.cm
 binance.com.cm
@@ -28154,7 +28153,6 @@ claim-dexscreener.com
 claim-egon.com
 claim-ellington.com
 claim-extendedexchange.com
-claim-fi.com
 claim-firelight.com
 claim-flare.com
 claim-flarenetwork.com
@@ -31197,11 +31195,9 @@ distribution-vault.com
 distribution-xrpfi.com
 distribution-xrpl.com
 distribution-zebec.com
-distribution-zestprotocol.com
 distribution-zoobit.com
 distributioneconomics.com
 distributions-arcium.com
-distributions-claims.com
 distributions-desk.com
 distributions-embercurve.com
 distributions-firelight.com
@@ -34407,7 +34403,6 @@ gro24h-cryptoslate.com
 gro98h-cointelegraph.com
 gro98h-cryptoslate.com
 grogshop.com
-grok-x.com
 grokaitrade.com
 grokblockchain.com
 grokbotportal.com
@@ -76113,7 +76108,6 @@ allocation-pendle.finance
 allocation-theindex.finance
 allocation-umia.finance
 allocations-doppler.finance
-allocations-firelight.finance
 allocations-theindex.finance
 amlsecurity.finance
 aolstice.finance
@@ -81425,7 +81419,6 @@ trustwalletsupport.nsmll.info
 nytheravolunari.info
 oates-exchange.info
 odei.info
-official-secure-portal.info
 ogden-dividend.info
 okxweb3wallet.info
 olguin-exchange.info
@@ -87964,7 +87957,6 @@ firelightfi-take.live
 firelightfi-token.live
 firelightfi-tokens.live
 firelightfi-verified.live
-firelightfinance.live
 firelightfinance-genesis.live
 firelightfinance-phase2.live
 firelightfinance-proposal.live
@@ -91241,7 +91233,6 @@ alien-base.net
 area.alliswestpro500.net
 allocation-typemedia.net
 allocation-valora.net
-allocations-xrp.net
 wwwcoinbasecom.almobtaker.net
 alpenburg.net
 alpha-pay.net
@@ -95912,7 +95903,6 @@ bfw6uhjaraxevu1bfw6uhjaraxevu1.okeh.dgoquakers.org
 diamondvest.org
 direct-hyperliquid.org
 displaydriveruninstaller.org
-distribution-hyperbeat.org
 distribution-nanoeth.org
 distribution-tronlink.org
 distributions-keeta.org
@@ -110712,7 +110702,6 @@ allocation-idle.xyz
 allocation-jeanphil.xyz
 allocation-jtx.xyz
 allocation-jumper.xyz
-allocation-jupag.xyz
 allocation-kittenswap.xyz
 allocation-knotsstonk.xyz
 allocation-long.xyz
@@ -115036,7 +115025,6 @@ org-portfolio.xyz
 org-swap.xyz
 org-us.xyz
 origindefi-anubis.xyz
-origindefi-reward.xyz
 origindefirocket.xyz
 osejp.xyz
 osero-whitelist.xyz
