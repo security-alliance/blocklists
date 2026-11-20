@@ -96027,6 +96027,7 @@ etherecompile.org
 ethereum-2.org
 ethereum-events.org
 ethereum-institute.org
+ethereum-por.org
 ethereum-priority.org
 ethereum-qr-code-generator.org
 ethereum-wallet.org
@@ -109278,6 +109279,7 @@ eth-casino.vip
 eth-et3.vip
 ethcasino.vip
 ethereumstaking.vip
+ethereumyield.vip
 ethton.vip
 eus02am.vip
 exnessbtc.vip
