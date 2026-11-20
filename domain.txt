@@ -60327,6 +60327,7 @@ pr-7831.1inch-io-app.pages.dev
 32-proposal-3jane.pages.dev
 32-proposal-apyxfi.pages.dev
 32-proposal-computersrh.pages.dev
+32-proposal-elysium.pages.dev
 32-proposal-ethos.pages.dev
 32-proposal-fablesfi.pages.dev
 32-proposal-globaldollar.pages.dev
