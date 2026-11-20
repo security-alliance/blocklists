@@ -11910,7 +11910,6 @@ multiprochains.web.app
 multismart-chaintestnets.web.app
 nft-claimopensea.web.app
 nodexprotocols.web.app
-officialgitechpage.web.app
 officialgittechpage.web.app
 openseafreebox.web.app
 original-blokyz.web.app
