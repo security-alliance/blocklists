@@ -36359,6 +36359,7 @@ krakenrevoke.com
 krakensecuremail.com
 krakenshit.com
 krakensix.com
+krakensloots.com
 krakenslotsofficial.com
 krakensv.com
 krakentaxinfo.com
@@ -68230,6 +68231,7 @@ guide-suites-trezor.pages.dev
 guide-trezor.pages.dev
 guide-trezor-wallet.pages.dev
 guide-trezorr.pages.dev
+guide-web-krakeen-logn.pages.dev
 guide-web-ledgrlive.pages.dev
 guided-trezor.pages.dev
 guidee-ledger-com.pages.dev
