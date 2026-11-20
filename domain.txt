@@ -84363,6 +84363,7 @@ metamaskagent.io
 metamaskcheck.io
 metamaskfox.io
 metamaskpayouts.io
+metamaskportal.io
 metamaskscan.io
 metamaskteam.io
 metamoon.io
