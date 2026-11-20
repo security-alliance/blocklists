@@ -24452,7 +24452,6 @@ ww38.coinbaseverifier.8x8pnhv.com
 999exbo.com
 marinade-finance.9crypt.com
 9e1t4c-coinbase.com
-a-redirect.com
 a1-kraken.com
 a16z-coins.com
 coldpalmer.a1kpgra.com
@@ -36787,7 +36786,6 @@ litigation-x.com
 littlecloudparadoxprotocol.com
 3aum.liuxue09.com
 pp06.liuxue15.com
-live-app-access.com
 live-coincommunities.com
 live-connects.com
 live-epoch-desk.com
