@@ -1938,7 +1938,6 @@ walletconnectpulse.lovable.app
 luckyblock-casino.app
 lvvas.app
 echo-cr6.madethis.app
-magma-ledger.app
 perp.magmastaking.app
 main-cali.app
 manifestingsol.app
@@ -15957,7 +15956,6 @@ polymrket.cc
 polymrkt.cc
 ponsfamily.cc
 povin.cc
-pqc-ledger.cc
 privatealbum.cc
 profkr.cc
 promo-tw.cc
@@ -18928,7 +18926,6 @@ arcusxyz.cloud
 menta.argonstack.cloud
 atlasprotocol.cloud
 auth-2fa.cloud
-authorize-ledger.cloud
 avantisfi.cloud
 orca.aykutbayrambey.cloud
 bancus.cloud
@@ -22060,7 +22057,6 @@ robinhood.114501.com
 192389t-coinbase.com
 19243coinbase.com
 192472-crypto.com
-192482-ledger.com
 192578-coinbase.com
 192578coinbase.com
 1925876-coinbase.com
@@ -22402,7 +22398,6 @@ opensea.28372982.com
 283923coinbase.com
 284184coinbase.com
 284323-crypto.com
-284824-ledger.com
 284825-crypto.com
 284992coinbase.com
 285017-coinbase.com
@@ -22740,7 +22735,6 @@ ethereum2.360app.com
 384832-coinspot.com
 384920coinbase.com
 385823-coinspot.com
-385823-ledger.com
 3858239-coinspot.com
 385839-coinspot.com
 385855coinbase.com
@@ -22760,7 +22754,6 @@ ethereum2.360app.com
 390310-crypto.com
 390440binance.com
 390685-crypto.com
-391021-ledger.com
 391382-robinhood.com
 391572-gemini.com
 391675-crypto.com
@@ -22913,7 +22906,6 @@ fg.42zi.com
 45728467a9f3b2e1-session.com
 45753-gmail.com
 458922-coinspot.com
-459293-ledger.com
 459323coinbase.com
 459329-coinspot.com
 459345coinbase.com
@@ -23067,7 +23059,6 @@ client.475238-cb.com
 509yahoo.com
 5102671-apple.com
 512928kraken.com
-512955-ledger.com
 513097-crypto.com
 513275-robinhood.com
 513639coinbase.com
@@ -23246,7 +23237,6 @@ coinbase.564782.com
 582933-coinspot.com
 582933-ledger.com
 582945-kraken.com
-582949-ledger.com
 582953-coinspot.com
 582994-ledger.com
 583017-crypto.com
@@ -23287,12 +23277,10 @@ arbitrum.58bbq.com
 592041-crypto.com
 592043-binance.com
 592052-coinspot.com
-592105-ledger.com
 592163-crypto.com
 592307-trezor.com
 592361google.com
 59275coinbase.com
-592843-ledger.com
 592953-ledger.com
 593014coinbase.com
 593021-crypto.com
@@ -23343,7 +23331,6 @@ arbitrum.58bbq.com
 612947-crypto.com
 612yahoo.com
 614029-crypto.com
-614171-ledger.com
 614561-binance.com
 614827-crypto.com
 614928-crypto.com
@@ -23418,7 +23405,6 @@ client.637293-cb.com
 64927-coinbase.com
 649715-coinbase.com
 650310-crypto.com
-650910-ledger.com
 6516711.com
 651835coinbase.com
 652021-bittrex.com
@@ -23496,7 +23482,6 @@ coinbase.675128.com
 687532coinbase.com
 687558-kucoin.com
 689201-crypto.com
-689234-ledger.com
 690310-crypto.com
 690381-crypto.com
 691223-cb.com
@@ -23895,7 +23880,6 @@ wap.81ex02.com
 828592-kraken.com
 829121-kraken.com
 829194-coinspot.com
-829541-ledger.com
 829736-gemini.com
 830125coinbase.com
 830129coinbase.com
@@ -24258,7 +24242,6 @@ ww38.coinbaseverifier.8x8pnhv.com
 923785-robinhood.com
 923812-binance.com
 923826-gemini.com
-923942-ledger.com
 924061-crypto.com
 924298-crypto.com
 924358coinbase.com
@@ -24306,7 +24289,6 @@ ww38.coinbaseverifier.8x8pnhv.com
 932386-crypto.com
 93255-coinbase.com
 932810-crypto.com
-932884-ledger.com
 934-google.com
 9345835coinbase.com
 934674-crypto.com
@@ -24567,9 +24549,7 @@ abymariemusic.com
 ac-2-rent.com
 acbbx.com
 acccesol.com
-acces-ledger.com
 acces-protege.com
-acces-recover-ledger.com
 accesd-recup.com
 accesdocument.com
 access-account-x.com
@@ -24955,7 +24935,6 @@ alevbethakkinda.com
 alex-coinbase.com
 alexander-coinbase.com
 algnix.com
-algo-ledger.com
 algobi.com
 coinbase.algocryptobot.com
 alibaba66-my.com
@@ -25649,7 +25628,6 @@ assetrequery-x.com
 assetresolutionadvisoryglobal.com
 assetreturna.com
 assetreview-x.com
-assets-ledger.com
 assets-vault.com
 assetsbrett.com
 assetscases-x.com
@@ -27576,7 +27554,6 @@ cardswebapp.com
 cardt-trust.com
 cardtws.com
 trust.cardwebapp.com
-care-ledger.com
 care-trezor.com
 carecbssupport.com
 careers-sap.com
@@ -27766,7 +27743,6 @@ i.cbancoswift.com
 cbase-commerce.com
 cbase-digitalverif.com
 cbasefxo.com
-cbinsurance-ledger.com
 cbkindustries.com
 cboe-akd.com
 cbotebbve.com
@@ -28072,7 +28048,6 @@ chiliz-ai.com
 chilizblockchaincampus.com
 chilizstaking.com
 china-dogecoin.com
-china-ledgerlive.com
 china-microsoft.com
 china-shopify.com
 chinaseedagency.com
@@ -29984,7 +29959,6 @@ connect-flarenetwork.com
 connect-jupiter.com
 connect-ledger.com
 connect-my-wallet.com
-connect-recover-ledger.com
 connect-securelogin.com
 connect-trustwallet.com
 connect-x.com
@@ -30905,7 +30879,6 @@ m.delilives.com
 delimz.com
 delink-coinbase.com
 delinkcoinbase.com
-delivery-ledger.com
 web.deliverygodeness.com
 delosis-wandortef.com
 delphiaurumneo.com
@@ -31127,7 +31100,6 @@ dhinmgmg.com
 dhjshshajs.com
 dhsddt.com
 diagnosecoinbase.com
-diagnostic-ledger.com
 diamondrooms.com
 dichvucong-govvn.com
 dieschweizerpost.com
@@ -31407,7 +31379,6 @@ downloadzoom.com
 worldliberty-financials.org.dozgainers.com
 dpappvenice.com
 dphnai.com
-dpp-ledger.com
 dr0pbox-verify-account.com
 dr0qb0x.com
 draftkings-ca.com
@@ -31800,7 +31771,6 @@ pvfuvgj.enbo888.com
 enccosecure-livemeet.com
 encoreatx.com
 encrypt-p.com
-encrypted-ledger.com
 encryptweb3wallets.com
 endpoint-api-v2.com
 endpoint-trustwallet.com
@@ -32427,7 +32397,6 @@ famaviajescr.com
 famesvvap.com
 famowex.com
 polymarket.famthum.com
-fancy-ledger-quest-pro.com
 coinbaseprosupport.fanduelspirtsnetwork.com
 coinbasehq.fanduelsportsnetqork.com
 coinbase-notification-users.fanduelsportsntwork.com
@@ -32760,7 +32729,6 @@ firmware-fix.com
 firmware-update.com
 firmware-upgrade.com
 firmware-webtnt.com
-firmware1-ledger.com
 firmwaremanager-ledger.com
 firmwarereport-ledger.com
 firoffice.com
@@ -32794,7 +32762,6 @@ fizjupiter.com
 fjhfy.com
 fl-major-finance.com
 flaernetwork.com
-flagged-ledger.com
 flamesthename.com
 flap-drop.com
 flapshdash.com
@@ -33040,7 +33007,6 @@ free-iphones.com
 freefilesync.com
 freeqr-codegenerator.com
 freesolairdrop.com
-freight-ledger.com
 freighterwebwallet.com
 fret-rx.com
 friendbath.com
@@ -34606,7 +34572,6 @@ haloeth.com
 halooption.com
 h5.hamiltonlanes.com
 hancock-mj.com
-handshake-ledger.com
 hanewex.com
 hani-binance.com
 hanomade.com
@@ -34696,7 +34661,6 @@ help-assistance-crypto.com
 help-bitstamp.com
 help-coinjar.com
 help-google.com
-help-ledger.com
 help-metamask-2fa.com
 help-notification-x.com
 help-notify-x.com
@@ -34716,7 +34680,6 @@ helpcoinbase.com
 helpdepartement-x.com
 helpdesk-coinbase.com
 helpdesk-trezor.com
-helpdeskpro-ledger.com
 helpdeskscoinbase.com
 webapp-coin.helpdeskstcenter.com
 helpdesktrustwallet.com
@@ -34762,7 +34725,6 @@ heodux.com
 hepcam.com
 herbmitra.com
 herd-ledger.com
-heritage-ledger.com
 hermesaibotnet-hide.com
 hero-ledger.com
 boxopensea86-b189d2a4995c.herokuapp.com
@@ -35830,7 +35792,6 @@ jaxxliberty-web.com
 jaxxx-io.com
 jbgags.com
 jbxii.com
-jd-ledger.com
 jdfhdbfbd.com
 jdjwwsds.com
 jean-coinbase.com
@@ -36092,7 +36053,6 @@ kaiyun-hotfix.com
 kaiyun-upgrade.com
 kakaonow.com
 kakaoweb08talk.com
-kalaie-ledger.com
 kalbhi.com
 kaleracademy.com
 kalkshi.com
@@ -36290,7 +36250,6 @@ klimtrading.com
 klntara.com
 klnteiqselysiums.com
 kloud-x.com
-klyrix-ledger.com
 kms-tools.com
 kmspico-blog.com
 kmstid.com
@@ -36798,7 +36757,6 @@ whm.libertyfinancial1.com
 world.libertyfiniancial.com
 libertyswap-app.com
 libertytradesfx.com
-licensure-ledger.com
 liddoao.com
 lido-hubs.com
 lido-sv3.com
@@ -36975,7 +36933,6 @@ login-poloinex.com
 login-portalshipmoney.com
 login-rain-bet.com
 login-reaktivieren-hilfe.com
-login-recover-ledger.com
 login-reset-coinbase.com
 login-safepal.com
 login-securenotice.com
@@ -38827,7 +38784,6 @@ norvexcceec.com
 nostra-dex.com
 nostra-finance.com
 nostra-swap.com
-notary-ledger.com
 notepad2.com
 notepadpius.com
 notepadpiusplus.com
@@ -39666,7 +39622,6 @@ passivenestinvestments.com
 passkeyonboard.com
 passkeyoptions.com
 passkeys-icloud.com
-password-ledger.com
 pastebinlite.com
 pastemagazinetop.com
 path-review.com
@@ -40389,7 +40344,6 @@ portalbac.com
 portalbn.com
 portalbridges.com
 portaldistribution-recoverytrust.com
-portale-ledger.com
 portallink-whatsapp.com
 flare.portalnets.com
 portalredir.com
@@ -78133,7 +78087,6 @@ bybit.gd
 kraken.gd
 appagosubii.page.gd
 polymarket.gd
-pqc-ledger.gd
 qrcode-ledger.gd
 blockchainsolutions.rf.gd
 himm.rf.gd
@@ -82454,7 +82407,6 @@ accounts-metamask.io
 aegisaml.io
 aevachain.io
 afghanmarket.io
-aggiornamento-ledger.io
 tel.airdropalerts.io
 airdrops-commu.io
 migrate.aitechacn.io
@@ -82567,7 +82519,6 @@ claimboard.io
 claimpudgy.io
 claudetradebot.io
 closure-cumberland.io
-codice-ledger.io
 coin-stats.io
 coinbase50index.io
 coinbaseextensions.io
@@ -84545,7 +84496,6 @@ polymarketmaker.io
 poolmarket.io
 portal-metamask.io
 portfolio-metamask.io
-pqc-ledger.io
 presale-remittix.io
 privydesktop.io
 profile-coinpanda.io
@@ -87445,7 +87395,6 @@ artificialinu.live
 arugsworld.live
 ascend-to-elysium.live
 askvenice-event.live
-aspen-ledger.live
 assetnet.live
 assist-ledger.live
 asteraxtrade.live
@@ -88039,7 +87988,6 @@ firelightfinances-xrp.live
 firelightgovernance.live
 firelightmainnet.live
 firelightmainnets.live
-firmware-ledger.live
 fixedwalletrestore.live
 fixmarts.live
 flare-foundations.live
@@ -88393,7 +88341,6 @@ info-hyperliquidx.live
 info-spx-6900.live
 info-spx6900.live
 infozoom.live
-initialization-ledger.live
 instair.live
 instan-flarefn.live
 instellingen-ledger.live
@@ -88537,7 +88484,6 @@ magneticdex.live
 mainnet-elysium.live
 mainnet-flarefnd.live
 mainnet-rayls.live
-maintenance01-ledger.live
 makealotofmoney.live
 manifestings.live
 map-locetion.live
@@ -88855,7 +88801,6 @@ portal-firelightfinance.live
 portal-flare.live
 portal-flarefoundation.live
 portal-securenetmailverify.live
-portfolio01-ledger.live
 post-redirect.live
 pota.live
 pragmat-bet.live
@@ -92558,7 +92503,6 @@ kineticmarket.net
 kinietiq.net
 kitten-swap.net
 kleinanzelgen.net
-klyrix-ledger.net
 kms-tools.net
 kocoin.net
 kodiak-finance.net
@@ -94808,7 +94752,6 @@ mailview.online
 malvior.online
 site03.mambek.online
 manyswap.online
-maple-ledger.online
 market-nft.online
 me-live.online
 meet-live.online
@@ -95673,7 +95616,6 @@ binancegg.org
 binancegm.org
 binancegs.org
 binancepm.org
-bio-ledger.org
 bipecentrum.org
 bitcoin-qr-code-generator.org
 bitcoinfoundaton.org
@@ -98808,7 +98750,6 @@ app.dfllma.pro
 dhamra.pro
 digital-secure-ive.pro
 dnsjumper.pro
-dragon-ledger.pro
 dreamcash.pro
 dropcheck.pro
 dropdesk.pro
@@ -103243,7 +103184,6 @@ proposal-metronome.site
 proposals-flarefoundation.site
 psdn.site
 pumpx.site
-qfs-ledger.site
 quantix-finance.site
 rabbysend.site
 rainbet-aus.site
@@ -103807,7 +103747,6 @@ compound-rewards.woof.software
 compound-utilization-1-fix.woof.software
 zoom-installer.software
 megaeth.solar
-e-ledger.solutions
 fin-shield.solutions
 flarenetworksync.solutions
 mica-compliance.solutions
@@ -108551,7 +108490,6 @@ find-device-lost.us
 find-me.us
 fintechzoom.us
 firelight-fxrp.us
-first-ledger.us
 flarestaking.us
 flndapple.us
 foremostco.us
@@ -113988,7 +113926,6 @@ inspecthyperfoundation.xyz
 inspects-usepaid.xyz
 instant-firelight.xyz
 instant-flaregovernance.xyz
-instant-ledger.xyz
 instant-verifier-api.xyz
 instantsecscan.xyz
 instinctt.xyz
