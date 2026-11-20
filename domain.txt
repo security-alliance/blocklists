@@ -87852,6 +87852,7 @@ fi-proposal.live
 fi-proposals.live
 fiarevotesevent.live
 fidprimerlty.live
+figurereports.live
 fincryp.live
 findflare.live
 fire-lightverse.live
@@ -97560,7 +97561,6 @@ wanchaindesktopapp.org
 waponel.org
 wavelp.org
 we-revolut.org
-web-ledger.org
 web-ledgerlive.org
 web-phantomwallet.org
 web-solflare-wallet.org
