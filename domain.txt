@@ -42655,6 +42655,7 @@ scantrezordevice.com
 scantrezorwallet.com
 scatwin.com
 scdetin.com
+flaresupport.scdlifestyle.com
 scfraft.com
 h5.scgame01.com
 scgss-cn.com
@@ -57584,6 +57585,7 @@ pr-7831.1inch-io-app.pages.dev
 2-extendedexchange.pages.dev
 2-fables-votes.pages.dev
 2-flare-eligibility.pages.dev
+2-flarenetwork-allocation.pages.dev
 2-flarenetwork-distribution.pages.dev
 2-fluidio.pages.dev
 2-fobofun.pages.dev
@@ -79202,6 +79204,7 @@ flare-networks.icu
 flare-proposal.icu
 flarefoundation.icu
 flarenetwork.icu
+flarenetwork-allocation.icu
 flarenetwork-allocations.icu
 governance.flarenetwork-app.icu
 governance.flarenetwork-community.icu
