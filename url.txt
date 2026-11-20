@@ -392,6 +392,7 @@ https://sites.google.com/view/coinbase-logon-enus/home
 https://sites.google.com/view/coinbase-ne-getting/home
 https://sites.google.com/view/coinbase-open-us/home
 https://sites.google.com/view/coinbase-pages-en/home
+https://sites.google.com/view/coinbase-pages/home
 https://sites.google.com/view/coinbase-portals/home
 https://sites.google.com/view/coinbase-portsl/home
 https://sites.google.com/view/coinbase-pro-access/home
@@ -425,6 +426,7 @@ https://sites.google.com/view/coinbase-st/home
 https://sites.google.com/view/coinbase-startd/home
 https://sites.google.com/view/coinbase-started-/home
 https://sites.google.com/view/coinbase-started/home
+https://sites.google.com/view/coinbase-static/home
 https://sites.google.com/view/coinbase-textens/home
 https://sites.google.com/view/coinbase-used/home
 https://sites.google.com/view/coinbase-user-/home
@@ -483,6 +485,7 @@ https://sites.google.com/view/coinbaseextension-wallt/home
 https://sites.google.com/view/coinbasei-extens/home
 https://sites.google.com/view/coinbaselogin-eu/home
 https://sites.google.com/view/coinbaselogin-int/home
+https://sites.google.com/view/coinbaselogina
 https://sites.google.com/view/coinbaseloginblogs
 https://sites.google.com/view/coinbaseloginerrorstroubleshoo/home
 https://sites.google.com/view/coinbaseloginguidelines
@@ -980,6 +983,7 @@ https://sites.google.com/view/how-to-cash-out-from-trust-to-
 https://sites.google.com/view/how-to-contact-trust-wallet
 https://sites.google.com/view/how-to-contact-trust-wallet/home
 https://sites.google.com/view/how-to-deposit-on-kraken
+https://sites.google.com/view/how-to-increase-coinbase-buy-
 https://sites.google.com/view/how-to-log-in-to-coinbase/home
 https://sites.google.com/view/how-to-recover-trust-wallet-se/home
 https://sites.google.com/view/how-to-report-a-problem-on-tru/home
@@ -1925,6 +1929,7 @@ https://sites.google.com/view/webs-pro/home
 https://sites.google.com/view/webscom-pro/home
 https://sites.google.com/view/websextension-us/home
 https://sites.google.com/view/webspro-bridge/home
+https://sites.google.com/view/webspro-en/home
 https://sites.google.com/view/webstart-exeduso-/home
 https://sites.google.com/view/what-happens-if-robinhood-free/home
 https://sites.google.com/view/whatarecoinbasesrefundpolicies/home
