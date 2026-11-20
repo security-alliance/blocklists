@@ -17721,7 +17721,6 @@ aave.city
 airdrops.city
 betwin.city
 bitget.city
-canton-devnet.staging.mlabs.city
 operator595.city
 tronlink.city
 uniswap.city
