@@ -114710,7 +114710,6 @@ moerevoke.xyz
 molinfx.xyz
 mollyonmonad.xyz
 mon-claims.xyz
-mon-rewards.xyz
 monad-allocation-proposal.xyz
 monad-apr.xyz
 monad-bonus.xyz
@@ -118921,7 +118920,6 @@ z-cat.xyz
 z00m.xyz
 zama-finances.xyz
 zama-migrationportal.xyz
-zama-rewards.xyz
 zamadefi.xyz
 zamaprotocol.xyz
 zcashstamp.xyz
