@@ -92157,8 +92157,6 @@ eth-gasfondation.net
 etherboost.net
 ethereumfnd.net
 ethereumixer.net
-ethereumpriceusd.net
-ethereumusd.net
 etherexplorer.net
 etherfi-vote.net
 etherfiorguide.net
