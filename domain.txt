@@ -49241,7 +49241,6 @@ extension-hub-ext.wixstudio.com
 extension-hub-trust.wixstudio.com
 extension-hubrabby.wixstudio.com
 extension-io-rubbyy.wixstudio.com
-extension-io-trustt.wixstudio.com
 extension-iocdn.wixstudio.com
 extension-iometamsk.wixstudio.com
 extension-iorabby.wixstudio.com
