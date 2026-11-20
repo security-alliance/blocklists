@@ -8787,6 +8787,7 @@ thunder-coin-luck.app
 timestock.app
 token-hylo.app
 token-hyperliquid.app
+token2049.app
 wlfirevenueshare.tokenclaimsprotocol.app
 tokenpockets.app
 tokens-jumper.app
