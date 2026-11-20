@@ -66743,6 +66743,7 @@ connect-robenhood-page.pages.dev
 connect-safepal.pages.dev
 connect-start-ledger-ens.pages.dev
 connect-sui-walet.pages.dev
+connect-swaap-rayydium.pages.dev
 connect-trezo.pages.dev
 connect-trezor-brdge.pages.dev
 connect-trezor-bridges.pages.dev

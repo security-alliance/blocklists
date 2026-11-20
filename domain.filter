@@ -66743,6 +66743,7 @@
 ||connect-safepal.pages.dev^$all
 ||connect-start-ledger-ens.pages.dev^$all
 ||connect-sui-walet.pages.dev^$all
+||connect-swaap-rayydium.pages.dev^$all
 ||connect-trezo.pages.dev^$all
 ||connect-trezor-brdge.pages.dev^$all
 ||connect-trezor-bridges.pages.dev^$all
