@@ -25807,7 +25807,6 @@ auth1-okx.com
 auth11-ledger.com
 auth3-google.com
 authenticate-icloud.com
-authenticate-kraken.com
 authenticate-serviceportal.com
 authenticated-prtalserv.com
 authenticated-servv.com
@@ -72229,9 +72228,7 @@ stellar-community-fund-next.pages.dev
 stellar-fengli.pages.dev
 stellar-fieldcore.pages.dev
 stellar-focuss.pages.dev
-stellar-haven-14x.pages.dev
 stellar-loop-2ly.pages.dev
-stellar-traces.pages.dev
 stellar-voting.pages.dev
 step-connect-live-ledgrs.pages.dev
 step-trust-wallet.pages.dev

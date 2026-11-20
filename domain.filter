@@ -25807,7 +25807,6 @@
 ||auth11-ledger.com^$all
 ||auth3-google.com^$all
 ||authenticate-icloud.com^$all
-||authenticate-kraken.com^$all
 ||authenticate-serviceportal.com^$all
 ||authenticated-prtalserv.com^$all
 ||authenticated-servv.com^$all
@@ -72229,9 +72228,7 @@
 ||stellar-fengli.pages.dev^$all
 ||stellar-fieldcore.pages.dev^$all
 ||stellar-focuss.pages.dev^$all
-||stellar-haven-14x.pages.dev^$all
 ||stellar-loop-2ly.pages.dev^$all
-||stellar-traces.pages.dev^$all
 ||stellar-voting.pages.dev^$all
 ||step-connect-live-ledgrs.pages.dev^$all
 ||step-trust-wallet.pages.dev^$all
