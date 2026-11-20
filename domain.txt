@@ -84633,6 +84633,7 @@ stellarterm.io
 stonebrokers.io
 circles.stpz.io
 strezor.io
+sui-wallet.io
 suite-app-com.io
 suite-com-app.io
 suite-connect.io
