@@ -114249,6 +114249,7 @@ launch-firelightfn.xyz
 launch-firelightfoundations.xyz
 launch-flare.xyz
 launch-flareecosystem.xyz
+launch-flarefdn.xyz
 launch-flarefoundation.xyz
 launch-flarefoundations.xyz
 launch-flaregovernance.xyz
