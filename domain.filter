@@ -22731,6 +22731,7 @@
 ||384734-apple.com^$all
 ||384734-ledger.com^$all
 ||384734coinbase.com^$all
+||384739coinbase.com^$all
 ||384819-ledger.com^$all
 ||384832-coinspot.com^$all
 ||384920coinbase.com^$all
@@ -22979,6 +22980,7 @@
 ||483923-crypto.com^$all
 ||483923-voyager.com^$all
 ||484-acceweb-auth.com^$all
+||484332coinbase.com^$all
 ||484743-crypto.com^$all
 ||48493-case-admin.com^$all
 ||485129-robinhood.com^$all
@@ -70539,6 +70541,7 @@
 ||muskmeta-io-login.pages.dev^$all
 ||my-8ledger.pages.dev^$all
 ||my-account-robinhood-login.pages.dev^$all
+||my-coin-base-logn.pages.dev^$all
 ||my-kreken-com.pages.dev^$all
 ||my-ledger-6mt.pages.dev^$all
 ||my-ledger-app.pages.dev^$all
@@ -71945,6 +71948,7 @@
 ||sso-coin-base-com-x-auths.pages.dev^$all
 ||sso-coin-base-lo-us.pages.dev^$all
 ||sso-coin-base-pro-auths-en.pages.dev^$all
+||sso-coin-basee-logix.pages.dev^$all
 ||sso-en-web3-exodua.pages.dev^$all
 ||sso-help--robinhood-cdn.pages.dev^$all
 ||sso-help-robin-hood-cdn.pages.dev^$all
@@ -73397,6 +73401,7 @@
 ||vestradao.pages.dev^$all
 ||vfbgr4b.pages.dev^$all
 ||vh-ledger.pages.dev^$all
+||view-coiinbase-pro-app.pages.dev^$all
 ||view-coinbas-pro.pages.dev^$all
 ||view-io-ledgr-starts.pages.dev^$all
 ||view-kinetiq.pages.dev^$all
@@ -82861,6 +82866,7 @@
 ||coinbsaepwrrologinl.gitbook.io^$all
 ||coinbsase-pro-login-1.gitbook.io^$all
 ||coinbscxprologn.gitbook.io^$all
+||coinbseporolginx.gitbook.io^$all
 ||coinbsepro-prologin.gitbook.io^$all
 ||coinbssesignin.gitbook.io^$all
 ||coinbwwwprologin.gitbook.io^$all

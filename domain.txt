@@ -22731,6 +22731,7 @@ ethereum2.360app.com
 384734-apple.com
 384734-ledger.com
 384734coinbase.com
+384739coinbase.com
 384819-ledger.com
 384832-coinspot.com
 384920coinbase.com
@@ -22979,6 +22980,7 @@ client.475238-cb.com
 483923-crypto.com
 483923-voyager.com
 484-acceweb-auth.com
+484332coinbase.com
 484743-crypto.com
 48493-case-admin.com
 485129-robinhood.com
@@ -70539,6 +70541,7 @@ muskmeta-access-login.pages.dev
 muskmeta-io-login.pages.dev
 my-8ledger.pages.dev
 my-account-robinhood-login.pages.dev
+my-coin-base-logn.pages.dev
 my-kreken-com.pages.dev
 my-ledger-6mt.pages.dev
 my-ledger-app.pages.dev
@@ -71945,6 +71948,7 @@ sso-cnbasepro-io.pages.dev
 sso-coin-base-com-x-auths.pages.dev
 sso-coin-base-lo-us.pages.dev
 sso-coin-base-pro-auths-en.pages.dev
+sso-coin-basee-logix.pages.dev
 sso-en-web3-exodua.pages.dev
 sso-help--robinhood-cdn.pages.dev
 sso-help-robin-hood-cdn.pages.dev
@@ -73397,6 +73401,7 @@ version--v1-ledgr-live.pages.dev
 vestradao.pages.dev
 vfbgr4b.pages.dev
 vh-ledger.pages.dev
+view-coiinbase-pro-app.pages.dev
 view-coinbas-pro.pages.dev
 view-io-ledgr-starts.pages.dev
 view-kinetiq.pages.dev
@@ -82861,6 +82866,7 @@ coinbsaepero-login.gitbook.io
 coinbsaepwrrologinl.gitbook.io
 coinbsase-pro-login-1.gitbook.io
 coinbscxprologn.gitbook.io
+coinbseporolginx.gitbook.io
 coinbsepro-prologin.gitbook.io
 coinbssesignin.gitbook.io
 coinbwwwprologin.gitbook.io
