@@ -110309,6 +110309,7 @@
 ||coinbase.ct.ws^$all
 ||metamask.ct.ws^$all
 ||metamask-community.ct.ws^$all
+||ubiipagos.ct.ws^$all
 ||endpoint.binancepay.dot2.ws^$all
 ||fastdomain.ws^$all
 ||happy2hub.ws^$all
