@@ -115593,7 +115593,6 @@ proposals-derive.xyz
 proposals-embercurve.xyz
 proposals-fables.xyz
 proposals-fablesfi.xyz
-proposals-firelight.xyz
 proposals-flare.xyz
 proposals-flareecosystem.xyz
 proposals-flarefdn.xyz
