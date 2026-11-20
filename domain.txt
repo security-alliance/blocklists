@@ -17812,7 +17812,6 @@ worldlibertyfi.claims
 worldlibertyfinance.claims
 zamaorg.claims
 zen.claims
-03seucre-auth.click
 05meet.click
 0auth2.click
 2connektin.click
@@ -29610,7 +29609,6 @@ login.coinbase.com-login-us.com
 com-m01-esim-gift.com
 com-m04-gift-esim.com
 com-manage-address.com
-com-meet.com
 com-microsoft-onedrive.com
 com-microsoftonline-onedrive.com
 com-n01-esim-gift.com
@@ -35598,7 +35596,6 @@ info-trezor.io-startt.com
 trezor-start.io-startt.com
 io-strat.com
 io-strategy.com
-io-stream.com
 io-suite.com
 io-suite-access.com
 io-suite-app.com
@@ -42170,7 +42167,6 @@ rewards-theindexfinance.com
 rewards-tollylab.com
 rewards-tollylabs.com
 rewards-treadfi.com
-rewards-turbo.com
 rewards-useyap.com
 rewards-vault.com
 rewards-vietcomvn.com
@@ -42881,7 +42877,6 @@ secureupsmailssl.com
 securewallet-gemini.com
 securewallet-ledger.com
 securewallet-node.com
-securewallet-robinhood.com
 secureweb3access.com
 securexpo.com
 securisation-ledger.com
@@ -43499,7 +43494,6 @@ sparrow-guide.com
 sparrowswallet.com
 sparrowwallet-mail.com
 sparrowwalletdesktop.com
-spax88k-cointelegraph.com
 spcx-ondo-finance.com
 spcxon-ondo-finance.com
 spe9qk-21n.com
@@ -75576,7 +75570,6 @@ embercurve.events
 enroll-termmax.events
 enter-concrete.events
 enter-elysium.events
-enter-tradexyz.events
 ethsystems.events
 eulerfinance.events
 fablesrewards.events
@@ -75652,7 +75645,6 @@ peargarden.events
 pendlefinances.events
 phoenixtrade.events
 plasmafoundation.events
-poiymarket.events
 pons.events
 predictfun.events
 purinta.events
@@ -77269,7 +77261,6 @@ distribution-pump.fun
 distributions-fwa.fun
 dopplerecosystem.fun
 dotponsfamily.fun
-doughsolana.fun
 drop-interface.fun
 dropbase.fun
 dropmemecoin.fun
@@ -77436,7 +77427,6 @@ hyperlinkxyz.fun
 i-scan.fun
 imoonshot.fun
 incinerator.fun
-incy-panel-v2.fun
 inkedtentacles.fun
 insol.fun
 inswap.fun
@@ -79043,10 +79033,7 @@ com-a13-gift-card.icu
 com-a14-gift-card.icu
 com-a16-gift-card.icu
 com-a22-gift-card.icu
-com-ae.icu
-com-am.icu
 com-auth-14973.icu
-com-ay.icu
 com-b04-gift-esim.icu
 com-bd04-gift-esim.icu
 com-c04-gift-esim.icu
@@ -80893,7 +80880,6 @@ coinomize.info
 coldcardwallet.info
 com-3ayp64tc.info
 com-allocation.info
-com-app2472461.info
 base.com-case.info
 com-complete-captcha.info
 com-dp.info
@@ -81917,7 +81903,6 @@ voting-works.info
 voting-xrpfi.info
 voting-zama.info
 voting-zebec.info
-vvww-icioud-auth.info
 waggoner-exchange.info
 wailea-treasury.info
 wallace-exchange.info
@@ -86777,7 +86762,6 @@ rewards-merkl.lat
 rewards-stable.lat
 robinhood.lat
 s7ethena.lat
-securewallet.lat
 shroomnetwork.lat
 silofinance.lat
 sjsjsjhahahahahs.lat
@@ -87428,7 +87412,6 @@ authorization32-ledger.live
 authorization61-ledger.live
 authorization62-ledger.live
 authorization63-ledger.live
-authorize-ledger.live
 authorize01-ledger.live
 authorize02-ledger.live
 authorize03-ledger.live
@@ -88300,7 +88283,6 @@ hub-flarefoundation.live
 hub-streamflows.live
 hub-x.live
 hub-xmrket.live
-huddle01-meet.live
 humafinan2.live
 humanity-claim.live
 humanity-migration.live
@@ -89068,7 +89050,6 @@ secure-sso.live
 secure-webexmeet.live
 secure-xredo.live
 securems.live
-secureonline-auth-87645.live
 secuxtech.live
 selcuredetherium.live
 service-google.live
@@ -89942,7 +89923,6 @@ frogecoinrbh.lol
 fxtrading.lol
 get-musebook.lol
 getdrained.lol
-givemeyourmoney.lol
 goldangel.lol
 governance-firelight.lol
 governance-yieldbasis.lol
@@ -95454,7 +95434,6 @@ amgindonesia.org
 aml-checker.org
 aml-checkups.org
 aml-compliance.org
-aml-dapp.org
 aml-ripple.org
 aml-verifybot.org
 amlbinances.org
@@ -106149,7 +106128,6 @@ firelight.finance-voting.top
 firelight.finance-votings.top
 doppler.finance-x.top
 find-devcloud.top
-fiona-v7.top
 firelight-allocate.top
 firelight-allocation.top
 firelight-allocations.top
@@ -106396,7 +106374,6 @@ io-portfolio.top
 io-quickchange.top
 io-site-var.top
 io-swapcrypto.top
-ioapi.top
 ipcoin.top
 iproyal.top
 iscanx.top
@@ -107487,7 +107464,6 @@ v100.top
 v1234.top
 v2-e8serd.top
 v2-kupons.top
-v2187719.top
 v3-kupons.top
 v383.top
 v3rify-secure.top
@@ -107496,7 +107472,6 @@ v4007.top
 v65448565164.top
 v75305562.top
 v77777.top
-v789.top
 v8-x3a7p.top
 v878.top
 validator-plasma.top
@@ -108299,7 +108274,6 @@ worldlibertyfinancial.uno
 aaveapp.us
 aaveswap.us
 ado35724800675be-secu0red-views-review.us
-adobe-docx.us
 adobe-pdf-eco.us
 ae-zoom.us
 agc-mm.us
@@ -108417,7 +108391,6 @@ com-finds.us
 com-iphone.us
 com-join.us
 com-meet.us
-com-mode.us
 com-mydevice.us
 com-org.us
 com-safety.us
@@ -108857,7 +108830,6 @@ us89webzoom.us
 us938web-zoom.us
 us958web-zoom.us
 us968web-zoom.us
-usaweb3.us
 uscas.us
 usdtcommunitygrant.us
 usdtscan.us
@@ -116302,7 +116274,6 @@ sales-papertrade.xyz
 samurai-reward.xyz
 sand-mystery-innocent.xyz
 sandboxed-agent-plugin.xyz
-satoshi-coin.xyz
 saturn-holders.xyz
 saturnefi.xyz
 saturnevote.xyz
