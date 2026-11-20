@@ -1112,7 +1112,6 @@ my-uphold-logn.created.app
 my-uphuld.created.app
 my-uphuld-com-en.created.app
 nav-upheld-ai.created.app
-net-uphold.created.app
 nettcoins.created.app
 new-uphold.created.app
 official-io-upheld.created.app
