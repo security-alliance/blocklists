@@ -18945,6 +18945,7 @@ trade-phantomcdn.builder.cloud
 web-metamask-extension.builder.cloud
 web-phantom-extensions.builder.cloud
 bulktrade.cloud
+callconnect.cloud
 claudes.chainmail.cloud
 revenue.chainmail.cloud
 checkdrops.cloud
@@ -37914,6 +37915,7 @@ microvasscapital.com
 micrrosoffteam.com
 micrso.com
 micrsofedge-update.com
+micrsoft-login.com
 micrsoft-teans.com
 micrsoftt.com
 micrustsoft.com
@@ -95157,6 +95159,7 @@ teams-interviews-mail.online
 teams-invitation.online
 teams-meeting-calendar-event-schedule.online
 teams-room.online
+teamsconnects.online
 teamsinvite.online
 teamsmeetingshq.online
 teamsvip.online
