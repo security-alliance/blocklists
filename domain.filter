@@ -9753,6 +9753,7 @@
 ||1321179f.vercel.app^$all
 ||1inc-exchange-io.vercel.app^$all
 ||1inch-apt-bridge.vercel.app^$all
+||1inch-banner-us.vercel.app^$all
 ||1inch-checkout-mx.vercel.app^$all
 ||1inch-connect-dapp-layer-v163.vercel.app^$all
 ||1inch-connect-dapp-layer-v322.vercel.app^$all
@@ -9781,7 +9782,11 @@
 ||1inch-trade-in.vercel.app^$all
 ||1inch-wallet-exe.vercel.app^$all
 ||1inchcom-main.vercel.app^$all
+||1inche-badge-de.vercel.app^$all
 ||1inche-kanban-us.vercel.app^$all
+||1inche-statusbar-uk.vercel.app^$all
+||1inchh-spinner-es.vercel.app^$all
+||1inchh-stepper-no.vercel.app^$all
 ||1wait-wait-wait.vercel.app^$all
 ||4-proclasr.vercel.app^$all
 ||7702sweeper.vercel.app^$all
