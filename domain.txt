@@ -31560,7 +31560,6 @@ edenhospitality.com
 edenijo.com
 edexce.com
 edge789314.com
-poc.wallet.devnet.canton.edgevana.com
 edgexch.com
 edgexprolabs.com
 edl-capital-ag.com
@@ -104797,7 +104796,6 @@ avantisfi.tech
 backpackapp.tech
 bandican.tech
 betparibu.tech
-wallet-testnet-canton.blockcat.tech
 blockchainlink.tech
 careers-ibm.tech
 catapulto.tech
