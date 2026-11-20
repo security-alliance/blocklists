@@ -21460,6 +21460,7 @@ swissborgdesktop.co
 syncbit.co
 link.trustwallet.com.tarm.co
 team-meet.co
+teammeetingrecaps.co
 teams-meet.co
 teams-meeting.co
 teams-microsoft.co
@@ -44327,6 +44328,7 @@ teamcrosstimbers.com
 teamglobalmarketing.com
 teamisphere.com
 teammeetinglive.com
+teammeetingnotes.com
 teammeetmyassistant.com
 teammetamasksupport2gmail.com
 teamoftenuse.com
@@ -53066,6 +53068,7 @@ zoominfopayment.com
 zoominfopayments.com
 zoominforeviews.com
 zoomingroominvb.com
+zoominterviewmeeting3.com
 zoominvitesemp.com
 zoomjoinlive.com
 zoomjoinsession.com
@@ -53353,6 +53356,7 @@ cricfy.cricket
 ledger.com.cv
 metamask-oth.fic.cv
 hyperliquid.cv
+invite081-zoom.cv
 krakenmarket.cv
 polymarket.cv
 trustwallets.cv
@@ -53913,6 +53917,7 @@ vulkanspiel.de
 portal.wirexcryptoloans.de
 staging-moonpay.xn--rzte-finanzen-9eb.de
 ysfi.de
+zoom-invite.de
 cryptopunks.deals
 firehossesubs.delivery
 firesubesthouses.delivery
@@ -89611,6 +89616,7 @@ zoom-meetings.live
 zoom-update.live
 zoom-us.live
 zoom657.live
+zoomconnects.live
 zoomconnectsession.live
 zoomcrestlive.live
 zoomeeting.live
@@ -89628,6 +89634,7 @@ zoomteamviewer.live
 zoomus-web0878.live
 zoomwebinar.live
 zoomwithfelicia.live
+zoomwithvince.live
 zsmartappkey.live
 cash-fndc.living
 credit-kkx.living
@@ -94749,6 +94756,7 @@ micr050ft.online
 micro5oft.online
 microsoffice.online
 microsofl365.online
+microsoft-auth.online
 microsoft-login.online
 microsoft364.online
 microsoftaccess.online
@@ -95073,6 +95081,7 @@ supportupdate-x.online
 uniswap.swapex.online
 swimcardconnect.online
 synapseweb3.online
+sync-microsoft.online
 t-rast.online
 teamcoinbasesupport.online
 teams-interviews-mail.online
