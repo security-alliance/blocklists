@@ -60654,6 +60654,7 @@ pr-7831.1inch-io-app.pages.dev
 35-proposal-apyxfi.pages.dev
 35-proposal-argus.pages.dev
 35-proposal-computersrh.pages.dev
+35-proposal-elysium.pages.dev
 35-proposal-ethos.pages.dev
 35-proposal-fablesfi.pages.dev
 35-proposal-globaldollar.pages.dev
