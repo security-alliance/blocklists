@@ -117,7 +117,6 @@ https://sites.google.com/view/base-extension-hub/home
 https://sites.google.com/view/base-extension-info/home
 https://sites.google.com/view/base-extension-us/home
 https://sites.google.com/view/base-extension-walet/home
-https://sites.google.com/view/base-extension-wallet/home
 https://sites.google.com/view/base-extensionhub/home
 https://sites.google.com/view/base-extensions-/home
 https://sites.google.com/view/base-extensions-app/home
@@ -773,7 +772,6 @@ https://sites.google.com/view/exoduswebwallet/home
 https://sites.google.com/view/exoduswec/home
 https://sites.google.com/view/exoduu/home
 https://sites.google.com/view/explore-coinbase-live/home
-https://sites.google.com/view/ext-base-koinapp/home
 https://sites.google.com/view/ext-base-koinbas/home
 https://sites.google.com/view/exten-sion/home
 https://sites.google.com/view/extennsion-web/home
@@ -1611,7 +1609,6 @@ https://sites.google.com/view/page-metamask-/home
 https://sites.google.com/view/page-metamsk-extion/home
 https://sites.google.com/view/page-metamskapp/home
 https://sites.google.com/view/page-metmask/home
-https://sites.google.com/view/page-qoinbase/home
 https://sites.google.com/view/page-web-base/home
 https://sites.google.com/view/pages-metamask/home
 https://sites.google.com/view/pages-metmask-cdn/home
@@ -1897,7 +1894,6 @@ https://sites.google.com/view/wallet-coinbas/home
 https://sites.google.com/view/wallet-en-extension/home
 https://sites.google.com/view/wallet-exd-us/home
 https://sites.google.com/view/wallet-extenn/home
-https://sites.google.com/view/wallet-extension-/home
 https://sites.google.com/view/wallet-extenson/home
 https://sites.google.com/view/wallet-home-qoinbase/home
 https://sites.google.com/view/wallete-coinbase/home
