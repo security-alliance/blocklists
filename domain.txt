@@ -93956,7 +93956,6 @@ arcusxyz.one
 auvex.one
 auxcoin.one
 axisrobotics.one
-b-ai.one
 babylonlabs.one
 base-rewards.one
 baseazul.one
@@ -95332,6 +95331,7 @@ zooomcalls.online
 zooomeetingwork.online
 zyphertrade.online
 betparibu.ooo
+metamask.ooo
 trustwallet.ooo
 01meet.org
 03usweb.org
@@ -115071,7 +115071,6 @@ panel-flare.xyz
 panel-trade.xyz
 0gfoundatlon.panelhq.xyz
 eigenlayer.panelhq.xyz
-panels-firelight.xyz
 papcrtrade.xyz
 papeertrade.xyz
 papentrade.xyz
