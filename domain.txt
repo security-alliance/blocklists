@@ -69082,6 +69082,7 @@ learn-bridge-trezar-us.pages.dev
 learn-cdn-trezor.pages.dev
 learn-coin-base-pro.pages.dev
 learn-coinbaspro-doc.pages.dev
+learn-craken-logi.pages.dev
 learn-desktop-ledgr-com.pages.dev
 learn-dsktop-ledgr-live.pages.dev
 learn-en-ledgr-guides.pages.dev
@@ -83512,6 +83513,7 @@ pnhtvumwallet.gitbook.io
 pprologincoinbase.gitbook.io
 pr0coinbaselgin.gitbook.io
 proacoinbaselogin.gitbook.io
+prokraken-login.gitbook.io
 prologin-coinbase-1.gitbook.io
 prowcoinbaesslogn.gitbook.io
 prrocoinbase-phase-login.gitbook.io

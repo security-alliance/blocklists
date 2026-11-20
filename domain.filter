@@ -69082,6 +69082,7 @@
 ||learn-cdn-trezor.pages.dev^$all
 ||learn-coin-base-pro.pages.dev^$all
 ||learn-coinbaspro-doc.pages.dev^$all
+||learn-craken-logi.pages.dev^$all
 ||learn-desktop-ledgr-com.pages.dev^$all
 ||learn-dsktop-ledgr-live.pages.dev^$all
 ||learn-en-ledgr-guides.pages.dev^$all
@@ -83512,6 +83513,7 @@
 ||pprologincoinbase.gitbook.io^$all
 ||pr0coinbaselgin.gitbook.io^$all
 ||proacoinbaselogin.gitbook.io^$all
+||prokraken-login.gitbook.io^$all
 ||prologin-coinbase-1.gitbook.io^$all
 ||prowcoinbaesslogn.gitbook.io^$all
 ||prrocoinbase-phase-login.gitbook.io^$all
