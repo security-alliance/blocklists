@@ -80189,6 +80189,7 @@ governance.yieldbasis-allocation.icu
 yieldbasis-allocations.icu
 governance.yieldbasis-proposal.icu
 zamagov.icu
+zamagovernance.icu
 zeroterminal.icu
 zest-governance.icu
 zestprotocol-allocations.icu
