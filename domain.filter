@@ -7843,6 +7843,7 @@
 ||sol-claims.netlify.app^$all
 ||sol-interface.netlify.app^$all
 ||sol-memecoin-allocation.netlify.app^$all
+||sol-memecoin-live.netlify.app^$all
 ||sol-official-claimtoken.netlify.app^$all
 ||sol-tracker-app.netlify.app^$all
 ||solairdrop-daily.netlify.app^$all
@@ -27899,6 +27900,7 @@
 ||chainlinkfunds.com^$all
 ||chainlinkhr.com^$all
 ||chainotown.com^$all
+||arbitrum.chainpouch.com^$all
 ||chainpulseke.com^$all
 ||chainpulsekn.com^$all
 ||chainpulsekr.com^$all
@@ -79635,6 +79637,7 @@
 ||jurnper.icu^$all
 ||justlend-tools.icu^$all
 ||kaminoeco.icu^$all
+||vote.kaminoecosystem.icu^$all
 ||katanagov.icu^$all
 ||kaufen-qpon.icu^$all
 ||kaybee-pte.icu^$all

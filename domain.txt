@@ -7843,6 +7843,7 @@ smartfixchainweb.netlify.app
 sol-claims.netlify.app
 sol-interface.netlify.app
 sol-memecoin-allocation.netlify.app
+sol-memecoin-live.netlify.app
 sol-official-claimtoken.netlify.app
 sol-tracker-app.netlify.app
 solairdrop-daily.netlify.app
@@ -27899,6 +27900,7 @@ chainlink-votes.com
 chainlinkfunds.com
 chainlinkhr.com
 chainotown.com
+arbitrum.chainpouch.com
 chainpulseke.com
 chainpulsekn.com
 chainpulsekr.com
@@ -79635,6 +79637,7 @@ jup-portal.icu
 jurnper.icu
 justlend-tools.icu
 kaminoeco.icu
+vote.kaminoecosystem.icu
 katanagov.icu
 kaufen-qpon.icu
 kaybee-pte.icu
