@@ -60059,6 +60059,7 @@ pr-7831.1inch-io-app.pages.dev
 30-proposal-apyxfi.pages.dev
 30-proposal-computersrh.pages.dev
 30-proposal-derive.pages.dev
+30-proposal-elysium.pages.dev
 30-proposal-ethos.pages.dev
 30-proposal-fablesfi.pages.dev
 30-proposal-globaldollar.pages.dev
@@ -62054,6 +62055,7 @@ pr-7831.1inch-io-app.pages.dev
 46-proposal-saturncredit.pages.dev
 46-proposal-stark.pages.dev
 46-reallocate-flare.pages.dev
+46-rewards-firelightfi.pages.dev
 46-saturncredit.pages.dev
 46-stonkbroker-clutchmarkets.pages.dev
 46-tge-extended.pages.dev
