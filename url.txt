@@ -294,7 +294,6 @@ https://sites.google.com/view/coinbase--logopro/home
 https://sites.google.com/view/coinbase--prodigital/home
 https://sites.google.com/view/coinbase--public-/home
 https://sites.google.com/view/coinbase--public/home
-https://sites.google.com/view/coinbase--walletextension/home
 https://sites.google.com/view/coinbase-adds/home
 https://sites.google.com/view/coinbase-advance-pro/home
 https://sites.google.com/view/coinbase-an/home
@@ -433,7 +432,6 @@ https://sites.google.com/view/coinbase-view-org/home
 https://sites.google.com/view/coinbase-waletextensio/home
 https://sites.google.com/view/coinbase-waletextension/home
 https://sites.google.com/view/coinbase-wall--/home
-https://sites.google.com/view/coinbase-wallert/home
 https://sites.google.com/view/coinbase-wallet---/home
 https://sites.google.com/view/coinbase-wallet-cdn/home
 https://sites.google.com/view/coinbase-wallet-docs/home
@@ -455,7 +453,6 @@ https://sites.google.com/view/coinbase-wallete-guide/home
 https://sites.google.com/view/coinbase-wallete-pro/home
 https://sites.google.com/view/coinbase-walletext/home
 https://sites.google.com/view/coinbase-walletexten/home
-https://sites.google.com/view/coinbase-walletextension-/home
 https://sites.google.com/view/coinbase-walletextension/home
 https://sites.google.com/view/coinbase-wallets-hub/home
 https://sites.google.com/view/coinbase-wallit-eng/home
@@ -551,7 +548,6 @@ https://sites.google.com/view/coinbse-wallets-dc/home
 https://sites.google.com/view/coinbsee-page/home
 https://sites.google.com/view/coinbsee-pro-digital/home
 https://sites.google.com/view/coinbsee-pro-digitalen/home
-https://sites.google.com/view/coinbsee-wallet-help/home
 https://sites.google.com/view/coinbsee-wallets/home
 https://sites.google.com/view/coinbsepro-digital-en/home
 https://sites.google.com/view/coinbsse-wallet-docs/home
@@ -601,7 +597,6 @@ https://sites.google.com/view/dgdrhfb/home
 https://sites.google.com/view/digital--coinbse-/home
 https://sites.google.com/view/digital-coinbase/home
 https://sites.google.com/view/digital-coinbse--/home
-https://sites.google.com/view/digital-en-coinbse/home
 https://sites.google.com/view/digital-koinvase/home
 https://sites.google.com/view/digitalwalletrecovery/blog/how-to-recover-a-trust-wallet-account
 https://sites.google.com/view/doc-base-extension/home
@@ -1746,10 +1741,8 @@ https://sites.google.com/view/smey429odtof415/x7djs
 https://sites.google.com/view/sso-coinbase-apps-/home
 https://sites.google.com/view/sso-metamask-authu/home
 https://sites.google.com/view/start-apps-chrm/home
-https://sites.google.com/view/start-coinbseextn/home
 https://sites.google.com/view/start-exuduss/home
 https://sites.google.com/view/start-metamask-help/home
-https://sites.google.com/view/start-new-coinapp/home
 https://sites.google.com/view/start-with-exodus/home
 https://sites.google.com/view/startapptarta/home
 https://sites.google.com/view/started--metamask/home
