@@ -1797,7 +1797,6 @@ https://sites.google.com/view/trezor-suite-offici/home
 https://sites.google.com/view/trezor-suite-recovery
 https://sites.google.com/view/trezor-v2/trezor-suite
 https://sites.google.com/view/trezor-view-app
-https://sites.google.com/view/trezor-web-api/trezor-suite
 https://sites.google.com/view/trezor-web-apk
 https://sites.google.com/view/trezor-web-apk/trezor-suite
 https://sites.google.com/view/trezor-web-app/trezor
