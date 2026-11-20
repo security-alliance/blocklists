@@ -66633,6 +66633,7 @@
 ||comstarted--ledger.pages.dev^$all
 ||concretegovernance.pages.dev^$all
 ||conductor-login-dev.pages.dev^$all
+||conect-krraken-login.pages.dev^$all
 ||conect-ledgrcom-guide.pages.dev^$all
 ||conect-trzoriostart.pages.dev^$all
 ||configure-trezor.pages.dev^$all
@@ -69043,6 +69044,7 @@
 ||krakn-helplogn.pages.dev^$all
 ||krakn-login-com.pages.dev^$all
 ||krakn-login-io.pages.dev^$all
+||krakn-logn.pages.dev^$all
 ||kraknhelp-logn.pages.dev^$all
 ||kraksite-cc.pages.dev^$all
 ||kreekn-login.pages.dev^$all
