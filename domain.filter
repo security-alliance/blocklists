@@ -1779,7 +1779,6 @@
 ||io-v3-start-suite.app^$all
 ||io-wallet-suites.app^$all
 ||io-wallets.app^$all
-||io-walletsuite.app^$all
 ||iost-maps.app^$all
 ||iotadesktop.app^$all
 ||isepaid.app^$all
@@ -113596,6 +113595,7 @@
 ||humanityproo.xyz^$all
 ||hunting-airdrop.xyz^$all
 ||huntingairdrop.xyz^$all
+||polymarket.hwai-ops.xyz^$all
 ||hyagentber.xyz^$all
 ||hydrapanel.xyz^$all
 ||hydrasuite.xyz^$all
