@@ -52603,7 +52603,6 @@ xrp20coin.com
 xrp2x.com
 xrpfi-firelightfi.com
 xrpfi-hub-flare.com
-xrpfi-xaman.com
 xrpfl-flarenetwork.com
 xrpflareclaims.com
 xrpflarecoin.com
@@ -88585,7 +88584,6 @@ myupdate-ledger.live
 myx-finance.live
 nabox.live
 nadextla.live
-neinei.live
 neosoulx.live
 netcapitals.live
 netnet.live
@@ -93589,7 +93587,6 @@ flore.network
 foundation-canopy.network
 fxrp-flare.network
 get-flare.network
-get-zebec.network
 getminted.network
 gloam.network
 gov-aztec.network
@@ -110128,7 +110125,6 @@ metamasks.works
 proposal-token.works
 rewards-token.works
 tangem.works
-votes-token.works
 voting-token.works
 7zip.world
 adragons.world
@@ -114306,7 +114302,6 @@ lidofinance-enter.xyz
 lidofinance-register.xyz
 lidofinance-registrations.xyz
 lidomigrate.xyz
-lienlfi.xyz
 lightchainmaiinnet.xyz
 lightchainmainnet.xyz
 lighter-acces.xyz
