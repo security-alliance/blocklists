@@ -67832,6 +67832,7 @@
 ||firelight-finance.pages.dev^$all
 ||firelightensodisjsahsa.pages.dev^$all
 ||firelightfi.pages.dev^$all
+||firelightfi-allocations.pages.dev^$all
 ||firelightfi-fxrp.pages.dev^$all
 ||firelightitup.pages.dev^$all
 ||firelightmainnet.pages.dev^$all
@@ -79199,6 +79200,7 @@
 ||firelightdesktopinstaller.icu^$all
 ||app.firelightecosystem.icu^$all
 ||firelightfi.icu^$all
+||firelightfi-allocations.icu^$all
 ||firelightfoundation.icu^$all
 ||firmwares.icu^$all
 ||fixdappstring.icu^$all

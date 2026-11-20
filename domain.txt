@@ -67832,6 +67832,7 @@ firelight-31-july.pages.dev
 firelight-finance.pages.dev
 firelightensodisjsahsa.pages.dev
 firelightfi.pages.dev
+firelightfi-allocations.pages.dev
 firelightfi-fxrp.pages.dev
 firelightitup.pages.dev
 firelightmainnet.pages.dev
@@ -79199,6 +79200,7 @@ firelight-voting.icu
 firelightdesktopinstaller.icu
 app.firelightecosystem.icu
 firelightfi.icu
+firelightfi-allocations.icu
 firelightfoundation.icu
 firmwares.icu
 fixdappstring.icu
