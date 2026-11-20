@@ -70196,6 +70196,7 @@
 ||login-coinbasepro.pages.dev^$all
 ||login-coinbse-coms.pages.dev^$all
 ||login-coinbse-io.pages.dev^$all
+||login-coinbses-com.pages.dev^$all
 ||login-crypto-ledgr.pages.dev^$all
 ||login-io-trezor.pages.dev^$all
 ||login-ledger-639.pages.dev^$all
