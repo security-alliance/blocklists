@@ -81424,6 +81424,7 @@ polexbot.info
 poll-firelight.info
 poll-flare.info
 polling-flare.info
+pollymarket.info
 polybtc.info
 polygpt.info
 polymarket-android-app-page.info
@@ -92445,6 +92446,7 @@ jupitur-seap.net
 jupverse.net
 justlend.net
 kakaochat.net
+kalshe.net
 kalshii.net
 kamlno-finance.net
 kaptrovenez.net
@@ -96303,6 +96305,7 @@ justlenddao.org
 k3-capital.org
 testjupiter.kaiming.org
 kaioprotocol.org
+kalshii.org
 kaminochain.org
 kastcard.org
 kaswallet.org
