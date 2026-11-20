@@ -45858,7 +45858,6 @@ tw-mint.com
 tw-pay.com
 tw-paycard.com
 tw-prime.com
-tw-provider.com
 tw-role.com
 tw-site.com
 tw-spend.com
