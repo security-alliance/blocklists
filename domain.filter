@@ -73380,6 +73380,7 @@
 ||view-lger-lives.pages.dev^$all
 ||view-lgerlive-en.pages.dev^$all
 ||view-live-connect-ledgr.pages.dev^$all
+||view-metamsk-extension.pages.dev^$all
 ||view-robinhood-enlogin.pages.dev^$all
 ||view-setup-ledger.pages.dev^$all
 ||view-start-ledgr.pages.dev^$all
@@ -83279,6 +83280,7 @@
 ||metamask-wll6t.gitbook.io^$all
 ||metamask-wlt-mozilla.gitbook.io^$all
 ||metamaskclognine.gitbook.io^$all
+||metamaskdiuxtension.gitbook.io^$all
 ||metamaskdownload-1.gitbook.io^$all
 ||metamaskeeogin.gitbook.io^$all
 ||metamaskelogina.gitbook.io^$all
