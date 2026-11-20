@@ -22885,6 +22885,7 @@
 ||439182-crypto.com^$all
 ||439281-crypto.com^$all
 ||439493-apple.com^$all
+||439504coinbase.com^$all
 ||439517-crypto.com^$all
 ||440512-ledger.com^$all
 ||441029-crypto.com^$all
@@ -65620,6 +65621,7 @@
 ||access-wellets-exe-tnsn-trust-en.pages.dev^$all
 ||access-xarnan.pages.dev^$all
 ||account-coinbase-pro.pages.dev^$all
+||account-coinbese.pages.dev^$all
 ||account-io-metamsk-log.pages.dev^$all
 ||account-io-trezo-start.pages.dev^$all
 ||account-ledgr-start.pages.dev^$all
@@ -66504,6 +66506,7 @@
 ||coi-nbase-extension.pages.dev^$all
 ||coi-nbase-lo-gin.pages.dev^$all
 ||coibase-logn-us.pages.dev^$all
+||coiinbase.pages.dev^$all
 ||coiinbase-pro-login.pages.dev^$all
 ||coiinbse--pro-loggon.pages.dev^$all
 ||coin-base--pro.pages.dev^$all
