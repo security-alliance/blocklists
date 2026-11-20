@@ -9783,7 +9783,10 @@
 ||1inch-wallet-exe.vercel.app^$all
 ||1inchcom-main.vercel.app^$all
 ||1inche-badge-de.vercel.app^$all
+||1inche-hull-de.vercel.app^$all
 ||1inche-kanban-us.vercel.app^$all
+||1inche-navigator-fi.vercel.app^$all
+||1inche-skeleton-nl.vercel.app^$all
 ||1inche-statusbar-uk.vercel.app^$all
 ||1inchh-spinner-es.vercel.app^$all
 ||1inchh-stepper-no.vercel.app^$all
