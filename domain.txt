@@ -14563,7 +14563,6 @@ amznai.cam
 amznus.cam
 anznus.cam
 apmexsn.cam
-ambire.app-airdropalert.cam
 ambirewallet.app-airdropalert.cam
 wallet.app-airdropalert.cam
 app-lombard.cam
@@ -17772,7 +17771,6 @@ claimsol.claims
 curvefinance.claims
 daopunks.claims
 deepsnitchs-ai.claims
-doodles.claims
 firelight.claims
 genesis-hyperliquid.claims
 grovedotfinance.claims
@@ -24840,7 +24838,6 @@ thegraph.airdrop-limited.com
 airdrop-lineabuild.com
 airdrop-melaniameme.com
 airdrop-melaniamemes.com
-airdrop-meta.com
 airdrop-micro3.com
 airdrop-pointscalculator.com
 airdrop-polymarket.com
@@ -28153,7 +28150,6 @@ claim-connectionhq.com
 claim-cryptobury.com
 claim-current.com
 claim-cursor.com
-claim-cz.com
 claim-dexscreener.com
 claim-egon.com
 claim-ellington.com
@@ -28270,7 +28266,6 @@ claims-fablesfi.com
 claims-firelight.com
 claims-flarenetwork.com
 claims-ftx.com
-claims-ftx-distributions.com
 claims-goldfishgold.com
 claims-hedera.com
 claims-jito.com
@@ -31197,7 +31192,6 @@ distribution-round.com
 distribution-solsticefinance.com
 distribution-stable.com
 distribution-tronlink.com
-distribution-unyka.com
 distribution-variational.com
 distribution-vault.com
 distribution-xrpfi.com
@@ -32550,7 +32544,6 @@ h5.fina-qnt.com
 h5.fina-romimqgc.com
 finai500.com
 finalering2012.com
-finalnotice-distributions.com
 finance-ambient.com
 finance-connection.com
 0jd6i.finance-firelight.com
@@ -32715,7 +32708,6 @@ firelightfxrp.com
 firelightlaunchpad.com
 firelightmainnet.com
 firelightmultiplier.com
-firelightnetwork.com
 firelightportal.com
 firelightredeem.com
 firelightredeempoint.com
@@ -34089,7 +34081,6 @@ gooqlesmeet-live.com
 goosefx-dex.com
 gopolymarket.com
 gorainbetfr.com
-gork-x.com
 gorvixo.com
 gotcapitalltd.com
 gotexplay.com
@@ -35679,7 +35670,6 @@ issimpleswaplegit.com
 issuecase-x.com
 issuecases-x.com
 issuecontent-x.com
-issuereport-x.com
 issues-google.com
 issuesx-x.com
 issuezoom.com
@@ -36544,7 +36534,6 @@ lawyer-x.com
 layer2savings.com
 layer3stack.com
 layercas.com
-layeredge-airdrop.com
 laytonhomeware.com
 lbank-cn.com
 lbank-kor.com
@@ -90055,7 +90044,6 @@ onlinemonitoringi-crypto-obmennikov.lol
 onlineomben-crypto.lol
 openstandard-redirect.lol
 openviking.lol
-origindefi-bonus.lol
 ozycrypto.lol
 pancakeswaps.lol
 paraddise.lol
@@ -92820,7 +92808,6 @@ polypoly.net
 pons-family.net
 ponsfamily.net
 ponss-family.net
-portal-ftxdistribution.net
 portal-jupiter.net
 portal-solana.net
 portal-virtuals.net
@@ -94160,7 +94147,6 @@ nesa-foundation.one
 network-nodehub.one
 newlifeinfo.one
 dapp.ocagent.one
-ok-x.one
 okle.one
 onchainprime.one
 ondoperps.one
@@ -108363,9 +108349,7 @@ blockchainfx.us
 bnbrouter.us
 bnbscan.us
 bolatangkasgo.us
-boost-aave.us
 boostaave.us
-boostaaveus.us
 boostkite.us
 boostkiteus.us
 boostweb3.us
@@ -109999,7 +109983,6 @@ natureofdreadwiki.wiki
 neosoul.wiki
 nintendo-switch-sports-resort.wiki
 noclaims.wiki
-ok-x.wiki
 oneupgradeperkill.wiki
 onfixedfloat.wiki
 onstream.wiki
@@ -110060,7 +110043,6 @@ bitmart-login.win
 buorex.win
 casinorainbet.win
 casix.win
-check-x.win
 crazyspin.win
 deirax.win
 doavax.win
@@ -111858,7 +111840,6 @@ connects-flarenetworks.xyz
 connects-hyperliquid.xyz
 connects-ore.xyz
 conse1.consensyses.xyz
-constellation-migration.xyz
 contextualguardnode.xyz
 contextualhistory-base.xyz
 contextualreserve.xyz
@@ -113924,7 +113905,6 @@ injective-join.xyz
 injective-register.xyz
 injective-registrations.xyz
 injective-reward.xyz
-injective-rewards.xyz
 injective-tge.xyz
 injective-vote.xyz
 injective-votes.xyz
@@ -114565,7 +114545,6 @@ merkl-participation.xyz
 merkl-register.xyz
 merkl-registration.xyz
 merkl-registrations.xyz
-merkl-rewards.xyz
 merkl-vote.xyz
 merkl-votes.xyz
 merkl-voting.xyz
@@ -115057,7 +115036,6 @@ org-portfolio.xyz
 org-swap.xyz
 org-us.xyz
 origindefi-anubis.xyz
-origindefi-bonus.xyz
 origindefi-reward.xyz
 origindefirocket.xyz
 osejp.xyz
@@ -115340,7 +115318,6 @@ playdeadshot.xyz
 playgroundbridge.xyz
 playkaiju.xyz
 playmogs.xyz
-plumenetwork-allocation.xyz
 plumenetwork-allocations.xyz
 plumenetwork-distribution.xyz
 plumenetwork-distributions.xyz
