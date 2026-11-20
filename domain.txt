@@ -77051,7 +77051,6 @@ app-ponsecosystem.fun
 app-stonk.fun
 app-termmax-ts.fun
 app-torchpad.fun
-app-xorca.fun
 app-yieldbasis.fun
 app-yieldfields.fun
 apps-fwa.fun
