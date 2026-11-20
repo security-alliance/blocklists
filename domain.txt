@@ -59419,6 +59419,7 @@ pr-7831.1inch-io-app.pages.dev
 28-proposal-apyxfi.pages.dev
 28-proposal-computersrh.pages.dev
 28-proposal-derive.pages.dev
+28-proposal-elysium.pages.dev
 28-proposal-ethos.pages.dev
 28-proposal-fablesfi.pages.dev
 28-proposal-globaldollar.pages.dev
@@ -61788,6 +61789,7 @@ pr-7831.1inch-io-app.pages.dev
 43-proposal-stark.pages.dev
 43-proposals-papertrade.pages.dev
 43-reallocate-flare.pages.dev
+43-rewards-firelightfi.pages.dev
 43-saturncredit.pages.dev
 43-stonkbroker-clutchmarkets.pages.dev
 43-tge-extended.pages.dev
