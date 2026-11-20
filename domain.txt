@@ -113593,6 +113593,7 @@ hub-usepaid.xyz
 vote.hub-variational.xyz
 hub-venicegov.xyz
 hub-zamaeco.xyz
+hub-zamagovernance.xyz
 hubs-3jane.xyz
 hubs-hype.xyz
 hubs-hyperfoundation.xyz
