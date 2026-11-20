@@ -12017,7 +12017,6 @@
 ||zerionview.web.app^$all
 ||zerionwallet-scan.web.app^$all
 ||zerionwallet-tracker.web.app^$all
-||zerionwatch.web.app^$all
 ||zksync-os-dapp-portal.web.app^$all
 ||web05.app^$all
 ||webautorize-ledger.app^$all
@@ -102774,6 +102773,7 @@
 ||arcbridge.site^$all
 ||arcbridgefun.site^$all
 ||arccards.site^$all
+||elysium.archuntx.site^$all
 ||arcproject.site^$all
 ||arcterminal.site^$all
 ||arcusxyz.site^$all

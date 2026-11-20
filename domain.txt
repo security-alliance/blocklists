@@ -12017,7 +12017,6 @@ zerionvault.web.app
 zerionview.web.app
 zerionwallet-scan.web.app
 zerionwallet-tracker.web.app
-zerionwatch.web.app
 zksync-os-dapp-portal.web.app
 web05.app
 webautorize-ledger.app
@@ -102774,6 +102773,7 @@ arbitrumfee.site
 arcbridge.site
 arcbridgefun.site
 arccards.site
+elysium.archuntx.site
 arcproject.site
 arcterminal.site
 arcusxyz.site
