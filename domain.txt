@@ -513,7 +513,6 @@ rewards.0gfnd.app
 4750hi1.app
 4750hn1.app
 4750js1.app
-inkchaindapp-aryhrk91-0xambivert.4everland.app
 starknet_retroactive-4y8unely.4everland.app
 starknet_retroactive-wbanuyv6.4everland.app
 55504c1.app
