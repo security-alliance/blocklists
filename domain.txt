@@ -12342,6 +12342,7 @@ com-webb.asia
 community-flarenetwork.asia
 community-flarenetworks.asia
 crptmo.asia
+cryptogot.asia
 dezentracore.asia
 dopplerfinance-genesis.asia
 eco-flarenetowrk.asia
@@ -14579,6 +14580,7 @@ relay.brldge.cam
 cakewallet.cam
 canton.cam
 carpro-coin.cam
+cervantas.cam
 checkinbox.cam
 ciawdbotatg.cam
 cmejp.cam
@@ -16205,6 +16207,7 @@ token-imwallet.cc
 tokenclaims.cc
 tokencs.cc
 tokendistributions.cc
+tokenpockedi.cc
 tokenpocketd.cc
 tp-tokenpocket.cc
 tp-wallets.cc
@@ -21085,6 +21088,7 @@ coinbase-anthony.co
 coinbase-log-in.co
 coinbasefinance.co
 coinbaseglobal.co
+coinexse.co
 coinflowtv.co
 coinmarketcaps.co
 coinme-crypto.co
@@ -21625,6 +21629,7 @@ zoompath.co
 zoomsaleslink.co
 zoomwithryan.co
 zoomwithsophie.co
+zunqoraltd.co
 certik.coach
 bitstamp.codes
 brows-check.codes
@@ -31569,6 +31574,7 @@ easywebtd-reset.com
 easyworldlegal.com
 ebblaunch.com
 ebcleague.com
+ebcmarketplace.com
 ebixonholdingglob.com
 ebluecom.com
 ecardapi.com
@@ -31613,6 +31619,7 @@ edsbvaxc.com
 edu-kraken.com
 edxmact.com
 edxmdex.com
+edxmweb.com
 eeame.com
 efgcapitalltd.com
 area.eg-prime.com
@@ -36441,6 +36448,16 @@ kucoin-airdrop.com
 kucoin-compliance.com
 kucoin-faq.com
 kucoin-login.com
+kucoin006.com
+kucoin072.com
+kucoin083.com
+kucoin106.com
+kucoin108.com
+kucoin236.com
+kucoin280.com
+kucoin285.com
+kucoin566.com
+kucoin922.com
 kucoinblock.com
 kucoinchain.com
 kucoindeep.com
@@ -44242,6 +44259,7 @@ syncledgerwallet.com
 syncproposals.com
 syncvalidsolution.com
 uphold.synertechlab.com
+synthmintex.com
 syntnetix.com
 synz-trezor.com
 syracusefertilitycenter.com
@@ -82261,6 +82279,7 @@ polkdaot.ink
 pools-yieldbasis.ink
 proposals-aave.ink
 proposals-firelight.ink
+ptilaria.ink
 pump-fun.ink
 qprchs.ink
 quicskwap.ink
@@ -86303,6 +86322,7 @@ formlyx.jp
 thinklab.gljz.jp
 coinbase.kongjs.jp
 layer2savings.jp
+layerquant.jp
 mira-gemini.jp
 moonshot-stk.jp
 rainbet.jp
@@ -89134,6 +89154,7 @@ sidradigitalbank.live
 sign1.live
 signalmartrade.live
 signalsoceantrust.live
+signalstacktrendx.live
 signup-flarefoundation.live
 siren-ai-hive.live
 colnbase-prime.site-app.live
