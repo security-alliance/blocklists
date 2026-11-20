@@ -51279,7 +51279,6 @@ startus-treconcdn.wixstudio.com
 startus-zerioncdn.wixstudio.com
 startusapps-trezscdn.wixstudio.com
 startweb-exeduso.wixstudio.com
-stat-trusten.wixstudio.com
 staten-metamaskext.wixstudio.com
 store-chromextension.wixstudio.com
 strt-appslive.wixstudio.com
@@ -51480,7 +51479,6 @@ trusted-metmask-apps.wixstudio.com
 trusted-metmask-ext.wixstudio.com
 trustedmetamaskapps.wixstudio.com
 trustextensi.wixstudio.com
-trustextension-get.wixstudio.com
 trustio-extnsions.wixstudio.com
 trustnav-extnsions.wixstudio.com
 trusttextnsion.wixstudio.com
