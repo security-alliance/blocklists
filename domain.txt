@@ -86089,7 +86089,6 @@ x-dao.io
 xamanapp.io
 xamanvoting.io
 xamanwalletsdesktop.io
-xmagnetic.io
 xn--changnow-reb.io
 xn--chngenow-j8a.io
 xn--rydium-w0a.io
