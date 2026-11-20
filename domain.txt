@@ -54278,6 +54278,7 @@ oskarkregar.dev
 1-jumperhub.pages.dev
 1-katanagov.pages.dev
 1-katananetwork.pages.dev
+1-kinetiqgenesis2.pages.dev
 1-kinetiqgov.pages.dev
 1-kinetiqlabs.pages.dev
 1-longxyz.pages.dev
