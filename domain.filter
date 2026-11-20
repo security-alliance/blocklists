@@ -65886,7 +65886,6 @@
 ||arc-remittance.pages.dev^$all
 ||arc-roundup.pages.dev^$all
 ||arc-sponsor.pages.dev^$all
-||arc-spot.pages.dev^$all
 ||arc-staking.pages.dev^$all
 ||arc-subscription.pages.dev^$all
 ||arc-testnet-hub.pages.dev^$all
@@ -93603,7 +93602,6 @@
 ||flore.network^$all
 ||foundation-canopy.network^$all
 ||fxrp-flare.network^$all
-||get-flare.network^$all
 ||getminted.network^$all
 ||gloam.network^$all
 ||gov-aztec.network^$all

@@ -65886,7 +65886,6 @@ arc-presale.pages.dev
 arc-remittance.pages.dev
 arc-roundup.pages.dev
 arc-sponsor.pages.dev
-arc-spot.pages.dev
 arc-staking.pages.dev
 arc-subscription.pages.dev
 arc-testnet-hub.pages.dev
@@ -93603,7 +93602,6 @@ fllaer.network
 flore.network
 foundation-canopy.network
 fxrp-flare.network
-get-flare.network
 getminted.network
 gloam.network
 gov-aztec.network
