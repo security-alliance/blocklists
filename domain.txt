@@ -51478,7 +51478,6 @@ trustcapitalswebsso.wixstudio.com
 trusted-metmask-apps.wixstudio.com
 trusted-metmask-ext.wixstudio.com
 trustedmetamaskapps.wixstudio.com
-trustextensi.wixstudio.com
 trustio-extnsions.wixstudio.com
 trustnav-extnsions.wixstudio.com
 trusttextnsion.wixstudio.com
