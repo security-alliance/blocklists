@@ -45187,6 +45187,7 @@ trezor-suime.com
 trezor-suite.com
 trezor-suite-appz.com
 trezor-suite-us.com
+trezor-suite-web.com
 trezor-suiter-apps.com
 trezor-suites.com
 trezor-supportweb.com
