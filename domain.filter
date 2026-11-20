@@ -15494,6 +15494,7 @@
 ||etherbot.cc^$all
 ||ethercfarm.cc^$all
 ||ethereumstaking.cc^$all
+||ethereumyield.cc^$all
 ||etherfi.cc^$all
 ||etherzo.cc^$all
 ||ethv2.cc^$all

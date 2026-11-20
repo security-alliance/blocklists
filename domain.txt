@@ -15494,6 +15494,7 @@ ethdex.cc
 etherbot.cc
 ethercfarm.cc
 ethereumstaking.cc
+ethereumyield.cc
 etherfi.cc
 etherzo.cc
 ethv2.cc
