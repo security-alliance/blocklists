@@ -61591,6 +61591,7 @@ pr-7831.1inch-io-app.pages.dev
 41-proposal-stark.pages.dev
 41-proposals-papertrade.pages.dev
 41-reallocate-flare.pages.dev
+41-rewards-firelightfi.pages.dev
 41-saturncredit.pages.dev
 41-stonkbroker-clutchmarkets.pages.dev
 41-tge-extended.pages.dev
