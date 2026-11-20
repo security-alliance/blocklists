@@ -432,7 +432,6 @@ https://sites.google.com/view/coinbase-wallet-run/home
 https://sites.google.com/view/coinbase-wallet-xtension/home
 https://sites.google.com/view/coinbase-wallete-guide/home
 https://sites.google.com/view/coinbase-walletext/home
-https://sites.google.com/view/coinbase-wallets-hub/home
 https://sites.google.com/view/coinbase-wallit-eng/home
 https://sites.google.com/view/coinbase-wallit-extion/home
 https://sites.google.com/view/coinbase-wallt-/home
@@ -464,7 +463,6 @@ https://sites.google.com/view/coinbasepross/home
 https://sites.google.com/view/coinbaseprro/home
 https://sites.google.com/view/coinbaservices-app/home
 https://sites.google.com/view/coinbases-auto/home
-https://sites.google.com/view/coinbases-extension-projcet/home
 https://sites.google.com/view/coinbases-pro-login-long/home
 https://sites.google.com/view/coinbasestockordernotexecutedc/home
 https://sites.google.com/view/coinbaseuser--/home
@@ -769,7 +767,6 @@ https://sites.google.com/view/extension-setup-guide/home
 https://sites.google.com/view/extension-sso/home
 https://sites.google.com/view/extension-usen/home
 https://sites.google.com/view/extension-webguidecdn/home
-https://sites.google.com/view/extension-webs/home
 https://sites.google.com/view/extensioncoinbase-en/home
 https://sites.google.com/view/extensioncom-enapp/home
 https://sites.google.com/view/extensiongetting-qoin/home
@@ -1821,7 +1818,6 @@ https://sites.google.com/view/viewbase-extension/home
 https://sites.google.com/view/vmwelaherj
 https://sites.google.com/view/walle-exodus/home
 https://sites.google.com/view/wallet-coibs/home
-https://sites.google.com/view/wallet-en-extension/home
 https://sites.google.com/view/wallet-exd-us/home
 https://sites.google.com/view/wallet-home-qoinbase/home
 https://sites.google.com/view/wallete-coinbase/home
@@ -1836,7 +1832,6 @@ https://sites.google.com/view/web-exdus-en/home
 https://sites.google.com/view/web-exodos-en/home
 https://sites.google.com/view/web-exodus-walletcdn/home
 https://sites.google.com/view/web-extension-base/home
-https://sites.google.com/view/web-extensione/home
 https://sites.google.com/view/web-extensionn/home
 https://sites.google.com/view/web-metamaske/home
 https://sites.google.com/view/web-metmaskhelp/home
