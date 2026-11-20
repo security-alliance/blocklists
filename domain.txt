@@ -109648,7 +109648,6 @@ thegraph.arg.oohgroup.vn
 phantominox.vn
 orca.tienganhcohue.vn
 apyx.vote
-flare-fassets.vote
 flare-proposal.vote
 hyperecosystem.vote
 hyperecosystems.vote
