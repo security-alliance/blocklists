@@ -1337,7 +1337,6 @@ https://sites.google.com/view/metamask-get-login/home
 https://sites.google.com/view/metamask-get-start/home
 https://sites.google.com/view/metamask-get-starte/home
 https://sites.google.com/view/metamask-guide-app/home
-https://sites.google.com/view/metamask-guide-docs/home
 https://sites.google.com/view/metamask-guide-en/home
 https://sites.google.com/view/metamask-hard/home
 https://sites.google.com/view/metamask-hel/home
