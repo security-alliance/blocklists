@@ -1882,7 +1882,6 @@ letsmeetapp.app
 lidostake.app
 lidostaking.app
 lidosunover.app
-liensfi.app
 lifibridge.app
 lighterexchange.app
 limitlessfi.app
@@ -39156,7 +39155,6 @@ ondoglobals.com
 ondogovernances.com
 ondomarketsglobal.com
 ondoseason2.com
-ondotokenization.com
 ondovoting.com
 one-listings.com
 one-rewards.com
@@ -62133,6 +62131,7 @@ pr-7831.1inch-io-app.pages.dev
 47-proposal-saturncredit.pages.dev
 47-proposal-stark.pages.dev
 47-reallocate-flare.pages.dev
+47-rewards-firelightfi.pages.dev
 47-saturncredit.pages.dev
 47-stonkbroker-clutchmarkets.pages.dev
 47-tge-extended.pages.dev

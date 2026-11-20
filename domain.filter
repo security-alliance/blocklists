@@ -1882,7 +1882,6 @@
 ||lidostake.app^$all
 ||lidostaking.app^$all
 ||lidosunover.app^$all
-||liensfi.app^$all
 ||lifibridge.app^$all
 ||lighterexchange.app^$all
 ||limitlessfi.app^$all
@@ -39156,7 +39155,6 @@
 ||ondogovernances.com^$all
 ||ondomarketsglobal.com^$all
 ||ondoseason2.com^$all
-||ondotokenization.com^$all
 ||ondovoting.com^$all
 ||one-listings.com^$all
 ||one-rewards.com^$all
@@ -62133,6 +62131,7 @@
 ||47-proposal-saturncredit.pages.dev^$all
 ||47-proposal-stark.pages.dev^$all
 ||47-reallocate-flare.pages.dev^$all
+||47-rewards-firelightfi.pages.dev^$all
 ||47-saturncredit.pages.dev^$all
 ||47-stonkbroker-clutchmarkets.pages.dev^$all
 ||47-tge-extended.pages.dev^$all

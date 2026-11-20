@@ -768,6 +768,7 @@ https://sites.google.com/view/exodusweb3-homepage/home
 https://sites.google.com/view/exoduswebs-wallet/home
 https://sites.google.com/view/exoduswebwallet/home
 https://sites.google.com/view/exoduswec/home
+https://sites.google.com/view/exoduu/home
 https://sites.google.com/view/explore-coinbase-live/home
 https://sites.google.com/view/ext-base-koinapp/home
 https://sites.google.com/view/ext-base-koinbas/home
@@ -794,6 +795,7 @@ https://sites.google.com/view/extension-enapps/home
 https://sites.google.com/view/extension-eng-app/home
 https://sites.google.com/view/extension-eng-us/home
 https://sites.google.com/view/extension-enus-coinbase-/home
+https://sites.google.com/view/extension-exoduss/home
 https://sites.google.com/view/extension-getting-/home
 https://sites.google.com/view/extension-getting-coin/home
 https://sites.google.com/view/extension-getting-en/home
