@@ -68967,6 +68967,7 @@ kinetiqeco.pages.dev
 kinetiqgenesis.pages.dev
 kinetiqgenesis2.pages.dev
 kinetiqgov.pages.dev
+kinetiqhype2.pages.dev
 kinetiqlabs.pages.dev
 kinetiqsfnd.pages.dev
 kinetiqsolveglitch.pages.dev
@@ -114007,7 +114008,6 @@ join-flareecosystem.xyz
 join-flarefoundations.xyz
 join-flaregovernance.xyz
 join-flarenetwork.xyz
-join-flarenetworks.xyz
 join-flr.xyz
 join-gte.xyz
 join-injective.xyz
