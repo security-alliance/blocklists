@@ -1819,7 +1819,6 @@ https://sites.google.com/view/trezorr-hardwae/home
 https://sites.google.com/view/trezrio-login/home
 https://sites.google.com/view/troubleshooting-kraken-login-i
 https://sites.google.com/view/troubleshootingcoinbaseloginis/home
-https://sites.google.com/view/trust-crypto-wallets
 https://sites.google.com/view/trust-crypto-wallets/home
 https://sites.google.com/view/trust-recovery-with-cieldx/home
 https://sites.google.com/view/trust-wallet-address-mix
