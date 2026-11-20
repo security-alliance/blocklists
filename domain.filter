@@ -2485,6 +2485,7 @@
 ||claims-airdrop.netlify.app^$all
 ||claims-meme.netlify.app^$all
 ||claims-memecoin.netlify.app^$all
+||claims-memecoin-live.netlify.app^$all
 ||claims-token.netlify.app^$all
 ||claims-your-token.netlify.app^$all
 ||claimsmemecoin.netlify.app^$all
