@@ -221,7 +221,6 @@ https://sites.google.com/view/chrmextmetamask/home
 https://sites.google.com/view/chrom-login/home
 https://sites.google.com/view/chrom-starts/home
 https://sites.google.com/view/chromweb-us-en/home
-https://sites.google.com/view/cinbase-wallet-ext/home
 https://sites.google.com/view/client-metamsk-exension/home
 https://sites.google.com/view/cloud-base-wallet/home
 https://sites.google.com/view/cobalttidehow-to-transfer-mone/home
@@ -260,7 +259,6 @@ https://sites.google.com/view/coinba-wallet-extensn/home
 https://sites.google.com/view/coinbaas-exten/home
 https://sites.google.com/view/coinbae-extension/home
 https://sites.google.com/view/coinbae-wallet-ext/home
-https://sites.google.com/view/coinbas--extenn/home
 https://sites.google.com/view/coinbas--extension/home
 https://sites.google.com/view/coinbas-chromm/home
 https://sites.google.com/view/coinbas-estarte/home
@@ -275,8 +273,6 @@ https://sites.google.com/view/coinbas-seproe/home
 https://sites.google.com/view/coinbas-user-/home
 https://sites.google.com/view/coinbas-wallet-ext/home
 https://sites.google.com/view/coinbas-wallet/home
-https://sites.google.com/view/coinbas-wallete/home
-https://sites.google.com/view/coinbas-walletext/home
 https://sites.google.com/view/coinbaschome-exte/home
 https://sites.google.com/view/coinbase--chr-/home
 https://sites.google.com/view/coinbase--chrom-/home
@@ -493,11 +489,9 @@ https://sites.google.com/view/coinbaseuser-/home
 https://sites.google.com/view/coinbasewalet-ext/home
 https://sites.google.com/view/coinbasewall/home
 https://sites.google.com/view/coinbasewalle-/home
-https://sites.google.com/view/coinbasewallet-extenn/home
 https://sites.google.com/view/coinbasewallet-public--/home
 https://sites.google.com/view/coinbasewallet-public-/home
 https://sites.google.com/view/coinbasewallet-xtension/home
-https://sites.google.com/view/coinbasewalletext/home
 https://sites.google.com/view/coinbasewalletrecoveryissues/home
 https://sites.google.com/view/coinbasewallettobankaccout
 https://sites.google.com/view/coinbasewallettobankaccout/home
@@ -512,7 +506,6 @@ https://sites.google.com/view/coinbasse-proo-/home
 https://sites.google.com/view/coinbasse-proo/home
 https://sites.google.com/view/coinbasse-wallet-/home
 https://sites.google.com/view/coinbasse-wallet/home
-https://sites.google.com/view/coinbawallet-extension/home
 https://sites.google.com/view/coinbepro-view/home
 https://sites.google.com/view/coinbes-extensions/home
 https://sites.google.com/view/coinbextension-com/home
@@ -1866,7 +1859,6 @@ https://sites.google.com/view/viewbase-extension/home
 https://sites.google.com/view/vmwelaherj
 https://sites.google.com/view/walle-exodus/home
 https://sites.google.com/view/wallet-coibs/home
-https://sites.google.com/view/wallet-coin-base/home
 https://sites.google.com/view/wallet-coinbas/home
 https://sites.google.com/view/wallet-en-extension/home
 https://sites.google.com/view/wallet-exd-us/home
