@@ -20964,6 +20964,7 @@ aidogechain.co
 aidogerelaunch.co
 airdrop-pump.co
 airdroparts-supply.co
+allocation-firelight.co
 allocation-flarenetworks.co
 allocations-flarenetworks.co
 user.altacon-investment.co
@@ -52298,6 +52299,7 @@ xando-dapp.com
 xandomapp.com
 xantrustpad.com
 xaowin.com
+xarnan-allocation.com
 xassistantagent.com
 xaudots.com
 xavowin.com
@@ -78740,10 +78742,14 @@ allocates-stockereum.icu
 allocation-argus.icu
 allocation-concrete.icu
 allocation-dopplerfinance.icu
+allocation-ethenaecosystem.icu
 allocation-firelightecosystems.icu
+allocation-fraxfinance.icu
 allocation-hylo.icu
 allocation-hype.icu
+allocation-lighterxyz.icu
 allocation-mantle.icu
+allocation-montramarkets.icu
 allocation-morpho.icu
 allocation-multipli.icu
 allocation-nado.icu
@@ -78855,6 +78861,7 @@ apps-xamanwallet.icu
 appsmultipli.icu
 appsvirtuals.icu
 app.arbtirum.icu
+arc-allocation.icu
 arc-ecosystem.icu
 arcecosystem.icu
 community.arcecosystems.icu
@@ -88351,6 +88358,7 @@ kast-stable.live
 katananewtork.live
 keplrwallet-desktopapp.live
 kerneldao-migration.live
+kinetiq-allocation.live
 kinetiqxyz.live
 kintara.live
 kintara-rewards.live
@@ -100140,6 +100148,7 @@ allocate-argus.sbs
 allocate-concrete.sbs
 allocation-argus.sbs
 allocation-deltaliquidity.sbs
+allocation-glider.sbs
 allocation-netnetcapital.sbs
 allocation-papertrade.sbs
 allocation-stockereum.sbs
