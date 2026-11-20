@@ -59104,6 +59104,7 @@ pr-7831.1inch-io-app.pages.dev
 26-proposal-argus.pages.dev
 26-proposal-computersrh.pages.dev
 26-proposal-derive.pages.dev
+26-proposal-elysium.pages.dev
 26-proposal-ethos.pages.dev
 26-proposal-fablesfi.pages.dev
 26-proposal-globaldollar.pages.dev
