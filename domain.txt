@@ -12787,6 +12787,7 @@ firelighttablesteps.autos
 my-rewards.autos
 myis-rewards.autos
 order-verification-portal7546328.autos
+predictex.autos
 protect.autos
 rewardss.autos
 verify-order09853422.autos
@@ -70496,6 +70497,7 @@ migration-auth.pages.dev
 migration-eth.pages.dev
 migration-playzap-en.pages.dev
 migration-robinhood.pages.dev
+migrator-auth.pages.dev
 mil-dcn.pages.dev
 milc-global.pages.dev
 milk-ledger-ekc.pages.dev
@@ -110730,6 +110732,7 @@ alchemixfi-claims.xyz
 aleochains.xyz
 mint.alienscryptoclan.xyz
 aligned-rewards.xyz
+alignedlayeer.xyz
 alignedlayers-hub.xyz
 alignlayers.xyz
 alloc-robinhood.xyz

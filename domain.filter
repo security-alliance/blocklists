@@ -12787,6 +12787,7 @@
 ||my-rewards.autos^$all
 ||myis-rewards.autos^$all
 ||order-verification-portal7546328.autos^$all
+||predictex.autos^$all
 ||protect.autos^$all
 ||rewardss.autos^$all
 ||verify-order09853422.autos^$all
@@ -70496,6 +70497,7 @@
 ||migration-eth.pages.dev^$all
 ||migration-playzap-en.pages.dev^$all
 ||migration-robinhood.pages.dev^$all
+||migrator-auth.pages.dev^$all
 ||mil-dcn.pages.dev^$all
 ||milc-global.pages.dev^$all
 ||milk-ledger-ekc.pages.dev^$all
@@ -110730,6 +110732,7 @@
 ||aleochains.xyz^$all
 ||mint.alienscryptoclan.xyz^$all
 ||aligned-rewards.xyz^$all
+||alignedlayeer.xyz^$all
 ||alignedlayers-hub.xyz^$all
 ||alignlayers.xyz^$all
 ||alloc-robinhood.xyz^$all
