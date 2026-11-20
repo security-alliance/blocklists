@@ -484,6 +484,7 @@ trust-wallet-login.blogspot.al
 trustwailet.blogspot.al
 xport.al
 coinbase-login.blogspot.am
+contact-metamask-support.blogspot.am
 exodusdownload.blogspot.am
 metamask-k.blogspot.am
 metamaskextension-us.blogspot.am
@@ -12531,7 +12532,7 @@ featherwallet.at
 ff-info.at
 finance-phantom-pro.at
 fixedfloat-dex.at
-fun-home.at
+pump.fun-home.at
 g-ledger.at
 gandom.at
 gemwallet.at
@@ -12549,7 +12550,7 @@ imtoken-app.at
 io-app-user.at
 io-atomicwallet.at
 io-changenow.at
-io-dao.at
+shib.io-dao.at
 io-discover.at
 io-earn.at
 io-simpleswap.at
@@ -12563,9 +12564,7 @@ ledgers.at
 lidofinance-en.at
 logixbanking.at
 maker-app.at
-mantanetwork.at
 me-skinport.at
-metamask-cn.at
 mgbx-login.at
 mr-ledger.at
 mrgamb.at
@@ -12579,7 +12578,6 @@ my-phantom.at
 my-rabby.at
 my-rainbow.at
 my-safepal.at
-my-sushiswap.at
 my-tronlink.at
 my-xaman.at
 myrnonero.at
@@ -12597,7 +12595,6 @@ rainbet.or.at
 orbiterfinance.at
 org-tronlink.at
 pancakeswap-finance.at
-pancakeswap-v2.at
 phantom-app.at
 phantom-my.at
 metamask-upates.pii.at
@@ -12610,7 +12607,6 @@ polymarketx.at
 privnote.at
 pvpwanmei.at
 qagamb.at
-quickswap.at
 quickswap-app.at
 rabby.at
 rabby-en.at
@@ -12659,9 +12655,7 @@ soleflare.at
 solfar.at
 solflar.at
 sollflare.at
-solscan-io.at
 stargate-finance.at
-stargatefinance.at
 steamdt.at
 suite-trezor.at
 sumcoastus.at
@@ -12733,7 +12727,6 @@ xodus.at
 xummwallet.at
 xurnm.at
 xyz-hyperliquid.at
-xyz-main.at
 zerion.at
 1122.com.au
 2717.com.au
@@ -18659,7 +18652,6 @@ sqanta-reward6.click
 usdc.ssolaanaa.click
 stablechain.click
 stake-flarenetwork.click
-stake-lido.click
 staking-firelight.click
 stardrops-froalllweb.click
 starknets.click
@@ -32958,7 +32950,6 @@ foundation-vote.com
 foundationdevice.com
 foundations-keeta.com
 foundations-loopscale.com
-founder-hyper.com
 fourcas.com
 foxify-dex.com
 foxprimegains.com
@@ -38103,7 +38094,6 @@ morlsetrades.com
 morpho-allocation.com
 morpho-ecosystem.com
 morpho-merkl.com
-morpho-season.com
 morpho-votes.com
 morphobeat.com
 base.morphodashboard.com
@@ -39155,7 +39145,6 @@ ondo-votes.com
 ondocast.com
 ondofi-q2.com
 ondofi-votes.com
-ondofinance-foundation.com
 ondofinance-vote.com
 ondofinance-voting.com
 ondofivotes.com
@@ -46162,7 +46151,6 @@ upshiftfi.com
 upupbot.com
 upupex7.com
 upupex77.com
-upvote-dexscreener.com
 upwallet-online.com
 trustwallet.com-two-factor-authentication01.tx.uqxiug.com
 ur05webzoom.com
@@ -47743,7 +47731,6 @@ webincident-ledger.com
 webmail-coinbase.com
 webmcc.com
 webmeet-google.com
-webofficialreward.com
 webportalacess.com
 webproex.com
 flare.webresolve-help.com
@@ -75045,7 +75032,6 @@ moonlisting.digital
 moonshoot-vote.digital
 moonshootvote.digital
 moonshot-trending.digital
-moonshot-trendings.digital
 moonsshoter.digital
 moonvote.digital
 morpholabs.digital
@@ -77446,7 +77432,6 @@ loothub.fun
 lootix.fun
 losesbacks-pump.fun
 lossbacks-pump.fun
-lossesback-pump.fun
 lossesback-pumps.fun
 lossesbacks-pump.fun
 lucky-casino.fun
@@ -77746,7 +77731,6 @@ rsvpdetails.fun
 rugclaim-pump.fun
 rugmoonbot.fun
 rugpull-pumps.fun
-rugs-pump.fun
 rugsback-pumps.fun
 rugspulls-pump.fun
 rupeeo.fun
@@ -81326,7 +81310,6 @@ mextena.info
 milcrosolft.info
 mimbo.info
 minati-allocation.info
-mint-fxrp.info
 px.momentumstorefront.info
 money-storage.info
 moonshot-listing.info
@@ -83934,6 +83917,7 @@ metemaskloin.github.io
 meteora-aj.github.io
 meteora-exchangee.github.io
 metiaamask.github.io
+metimasklogiins.github.io
 metmsuk-wellatt.github.io
 metumskusa-logiiin.github.io
 mnt-staking.github.io
@@ -84619,7 +84603,6 @@ secondfi-wallet.io
 secure-trezor.io
 securely-trezor.io
 security-casa.io
-selfiedog.io
 send-trezor.io
 signalcompass.io
 skylaws.io
@@ -84655,7 +84638,6 @@ suite-vault.io
 trezor.suite-wallet.io
 suitetrezor.io
 suitewallet.io
-sun-swaps.io
 svvap.io
 swap-now.io
 swap-raydium.io
@@ -86688,7 +86670,6 @@ portal-kinetiq.lat
 portal-yield.lat
 portallogonlogs.lat
 portals-usepaid.lat
-postargah2.lat
 priortrade.lat
 proposal-argus.lat
 proposal-etherfi.lat
@@ -86706,7 +86687,6 @@ proposalforget.lat
 propsoal-netnet.lat
 puffer.lat
 pumpfuns.lat
-purplebitcoin.lat
 q3-ethenafi.lat
 quantum-capital.lat
 quanusnet.lat
@@ -86732,7 +86712,6 @@ rewards-hydrex.lat
 rewards-jurassic.lat
 rewards-merkl.lat
 rewards-stable.lat
-rkccoin.lat
 robinhood.lat
 s7ethena.lat
 securewallet.lat
@@ -86866,7 +86845,6 @@ wickfi.lat
 winly.lat
 wojakcto.lat
 wompstores.lat
-worldcupcoins.lat
 worldiibertyfinancial.lat
 x7pad.lat
 xdxdxddx0dd.lat
@@ -88583,7 +88561,6 @@ msdocs.live
 mst-session.live
 mudwater-bayc.live
 multiprotocolsolwallets.live
-multismartwallet.live
 mxtrayrizhkbxkgaio.live
 my-connect-gosecure64.live
 my-firelight.live
@@ -88769,7 +88746,6 @@ pragmat-bet.live
 predict-fun.live
 preferences-ledger.live
 prelaunch-flarefnd.live
-presale-ozakai.live
 preview-derivexyz.live
 primefxstrategies.live
 primepips.live
@@ -89914,7 +89890,6 @@ governance-yieldbasis.lol
 groxsol.lol
 gstockkbsc.lol
 gtoair.lol
-hehedotfun.lol
 hkreceivepayment-wallet.lol
 hoodpay.lol
 id-654345678.lol
@@ -90073,7 +90048,6 @@ rhpscoinrbh.lol
 robbierbh.lol
 robinhod-coinfun.lol
 sanaetoken.lol
-scarymazememe.lol
 sci6900bsc.lol
 scratcher.lol
 scribblification.lol
@@ -94913,7 +94887,6 @@ polymarket-play.online
 polymarket-turkiye.online
 polymarkettradingbot.online
 ponsdotfam.online
-portahubs.online
 portal-aero.online
 portal-coinbase.online
 portal-netnetcap.online
@@ -97186,7 +97159,6 @@ thecan.org
 themetisfoundation.org
 thepirateapp.org
 thermai.org
-thorchain-revoke.org
 thresholdphilanthropy.org
 tierbase.org
 dashboard-opensea.tiwodng.org
@@ -99712,7 +99684,6 @@ stonkfun.quest
 term-max-finance.quest
 testingthewebsite.quest
 thetoadmeme.quest
-trumpbillionairesclub.quest
 us2-zoom.quest
 votrs-notesecure.quest
 www-solstice.quest
@@ -101764,7 +101735,6 @@ ryskfinance.sbs
 safepalweb3.sbs
 sagasgasgfasf.sbs
 salles-auth-plat.sbs
-samurayviebal.sbs
 sapientia.sbs
 savingspools.sbs
 savvywealthways.sbs
@@ -101888,7 +101858,6 @@ testing-com.sbs
 testoss.sbs
 tge-concrete.sbs
 tge-concretefoundation.sbs
-thecryptocrats.sbs
 theniaoffice.sbs
 thesymbiotelab.sbs
 threshold.sbs
@@ -103730,7 +103699,6 @@ albedorb.space
 allocation-plasma.space
 allscale.space
 ansemtoken-drop.space
-joinincentives.apeszn.space
 arcfinance.space
 available-claim.space
 available-claims.space
@@ -106974,7 +106942,6 @@ reallocation-solsticefinance.top
 reallocations-solsticefinance.top
 reauenthoven.top
 red-kitten-crew.top
-redkittencrew.top
 redstonefi.top
 redwoodcapital.top
 reg-papertrade.top
@@ -107147,7 +107114,6 @@ solcas.top
 solcompile.top
 solfee.top
 solhouse.top
-solidapi.top
 solme.top
 solomon-ledger.top
 solorbit.top
@@ -109390,7 +109356,6 @@ pancake-swapping.vip
 pancakebot.vip
 paybis.vip
 pc-biconomy.vip
-pepeofsolana.vip
 petiole.vip
 phantombtc.vip
 pipethepioneer.vip
@@ -110297,7 +110262,6 @@ usdj.world
 vaultcard.world
 vote-argus.world
 wallet-trust.world
-wcor.world
 web3node.world
 web3space.world
 wlfisol.world
@@ -114563,7 +114527,6 @@ migrate-debridge.xyz
 migrate-gateway.xyz
 migrate-ice.xyz
 migrate-mumuthebull.xyz
-migrate-re.xyz
 migrate-stonk.xyz
 migrate-stonkfun.xyz
 migrate-umbraprivacy.xyz
@@ -114852,7 +114815,6 @@ network-app.xyz
 flare.network-voting.xyz
 neuralenvironment.xyz
 neverland-bonus.xyz
-neverland-dust.xyz
 neverland-enter.xyz
 neverland-proposal.xyz
 neverland-register.xyz
@@ -115559,7 +115521,6 @@ proposal-prismassets.xyz
 proposal-ramses.xyz
 proposal-reppo.xyz
 proposal-rialto.xyz
-proposal-river.xyz
 proposal-scroll.xyz
 proposal-sei.xyz
 proposal-soil.xyz
@@ -117178,7 +117139,6 @@ standardlreserves.xyz
 standardreservegov.xyz
 standardreserves.xyz
 standbynear.xyz
-starcomplete.xyz
 stargate-finance.xyz
 stargatefix.xyz
 starknet-allocations.xyz
@@ -117508,7 +117468,6 @@ spec.tierlane.xyz
 tiktok888.xyz
 tinasnow.xyz
 cryptooncoinbase.tinnhadathanoimoi24h.xyz
-tinuio.xyz
 tinyurl-redirect.xyz
 tmgmforex.xyz
 toescoin.xyz
@@ -118042,7 +118001,6 @@ venus-protocol.xyz
 verifiableindex.xyz
 verification-x.xyz
 verified-archive-sync.xyz
-verified-jupiter.xyz
 verify-connect.xyz
 verify-moonsshot.xyz
 verifyjupag.xyz
@@ -118860,7 +118818,6 @@ zero-pass.xyz
 zerofi-bridge.xyz
 zest-claim.xyz
 zest-governance.xyz
-zest-participation.xyz
 zest-proposal.xyz
 zest-protocol.xyz
 zest-rewards.xyz
