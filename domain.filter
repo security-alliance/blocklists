@@ -95340,6 +95340,7 @@
 ||zigbee-led.online^$all
 ||zipcoin.online^$all
 ||zipcoinfnd.online^$all
+||zk-sync.online^$all
 ||zoom-chat.online^$all
 ||zoom-meet.online^$all
 ||zoom-meeting.online^$all
