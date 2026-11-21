@@ -47235,7 +47235,6 @@ voting-etherfi.com
 voting-flap.com
 voting-flarefoundation.com
 voting-flarefoundations.com
-voting-flarenetwork.com
 voting-flarenetworks.com
 voting-hyperlend.com
 voting-kamino.com
@@ -111260,7 +111259,6 @@ bonus-flarefndn.xyz
 bonus-flarefoundation.xyz
 bonus-flarefoundations.xyz
 bonus-flaregovernance.xyz
-bonus-flarenetworks.xyz
 bonus-flr.xyz
 bonus-usepaid.xyz
 bonususepaid.xyz
