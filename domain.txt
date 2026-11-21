@@ -81621,7 +81621,6 @@ scanclear.info
 sceptrelabs.info
 schedule-calendar-preview.info
 season1hyperlend.info
-season2-flare.info
 season2-morpho.info
 season7-ethena.info
 season7-ethenafi.info
