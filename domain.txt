@@ -8528,6 +8528,7 @@ rewards-xaman.app
 rewards-zeal.app
 rewards-zebecnetwork.app
 rewardsmask.app
+rewardspolymarket.app
 rhchain.app
 ripple-rewards.app
 river-vip.app
