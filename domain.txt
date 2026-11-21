@@ -15117,8 +15117,6 @@ aifreeuse.cc
 aiinvest.cc
 aimevbot.cc
 aircheck.cc
-airswipe.cc
-alfabets.cc
 algp.cc
 alkimi.cc
 allccsin.cc
@@ -15452,7 +15450,6 @@ djksiokstest.cc
 dmtdg.cc
 dogwin.cc
 domidex.cc
-donked.cc
 doodtoken.cc
 doxe.cc
 dreadpirate.cc
@@ -15789,7 +15786,6 @@ lootboom.cc
 m.lplgloballsm.cc
 luckyssn.cc
 lumbet.cc
-lumero.cc
 lunartools.cc
 luxbets.cc
 luxc.cc
@@ -18831,7 +18827,6 @@ web3-rubic-exchange.click
 web3-tornadocash.click
 webmeeting-join.click
 wettgirlsolspin.click
-winplace.click
 woli-royal.click
 woli-royalapp.click
 woli-royalplay.click
@@ -26858,7 +26853,6 @@ blckhood.com
 webtrader.blckrckswitzerland.com
 bleachbit.com
 blergamb.com
-bligamb.com
 blissogamb.com
 blizogamb.com
 block-binance.com
@@ -30903,7 +30897,6 @@ dep-vv-bomja.com
 depart-urg.com
 deploy-v3.com
 deployflare.com
-depopinfo.com
 depoplafonmurah.com
 depopverification9087463098.com
 deposit-coinbase.com
@@ -32382,7 +32375,6 @@ fakeusdtsenderofficialsite.com
 falcon-votes.com
 falcons-drop.com
 falconxco.com
-fallspins.com
 falnx.com
 famaviajescr.com
 famesvvap.com
@@ -32862,7 +32854,6 @@ flt-staking.com
 flt-yield.com
 flubless.com
 fluecoin.com
-flugamb.com
 fluidswapdex.com
 fluxbeam-dex.com
 fluxbeam-swap.com
@@ -34588,7 +34579,6 @@ hashkxjtus.com
 hashskey.com
 hasobet.com
 hasobin.com
-hasowin.com
 hastra-earn.com
 hastrasol.com
 haudux.com
@@ -36973,7 +36963,6 @@ looping-collective.com
 loopscale-app.com
 loopwex.com
 lopugamb.com
-lopxbet.com
 lordzwin.com
 loregamb.com
 lorewex.com
@@ -40392,7 +40381,6 @@ power-gacha.com
 power-paddy.com
 powerhornmarket.com
 powermove8.com
-powgamb.com
 poxgamb.com
 poymraket.com
 pozawin.com
@@ -40764,7 +40752,6 @@ q-solflare.com
 q2-ondo.com
 qafiqapi.com
 qamdom.com
-qanogamb.com
 qarvenbet.com
 qbittorrent.com
 qbitxpress.com
@@ -43698,7 +43685,6 @@ starbucks08.com
 starcreatorgfo.com
 starevinced.com
 stargakleyx-atrely.com
-stargamb.com
 stargate-finances.com
 staritse.com
 staritsi.com
@@ -45163,7 +45149,6 @@ trending-dexscreener.com
 trendradar-ai.com
 trends-binance.com
 trends-trustwallet.com
-tresgamb.com
 tresoreymet.com
 treyspin.com
 trez0r-web3.com
@@ -90527,7 +90512,6 @@ solicitudubiipagoscreditos.hstn.me
 solicitudubiipagoscreditosw.hstn.me
 ubiipagosanoiwerisfd.hstn.me
 ubiwesay-online.hstn.me
-idlebet.me
 indiatoday.me
 trezor.io-suite-lesson.me
 dapp.iorca.me
@@ -93423,7 +93407,6 @@ whitebite.net
 wi3sync.net
 wielk-zyskura.net
 wildcastle.net
-win2spin.net
 wincent-amm.net
 windows-update-blocker.net
 wirexone.net
@@ -110022,7 +110005,6 @@ microsoft-support.win
 nansen.win
 neilax.win
 netnetcaps.win
-nocta.win
 orcaorca.win
 ose-jp.win
 oserohq.win
