@@ -13368,7 +13368,6 @@ get-citrea.biz
 goldpocket.biz
 gravia-polymarket.biz
 gxpex.biz
-hash256.biz
 hexnet.biz
 hgj45jfjxdfgj46sghht.biz
 huanqishan.biz
@@ -13456,7 +13455,6 @@ xyz-brook.biz
 xyz-global.biz
 xyz-wave.biz
 xyz-wave-hub.biz
-zestprotocol.biz
 jito-demo.noir.black
 rainbet.black
 rainbet-casino.black
@@ -77711,7 +77709,6 @@ reallocation-long.fun
 realworldcoin.fun
 recovery-pump.fun
 refyousol.fun
-register-alt.fun
 register-bliss.fun
 register-fwa.fun
 register-jailed.fun
@@ -104463,7 +104460,6 @@ sparkfi.surf
 swap-fi.surf
 tapiocadao.surf
 teams.surf
-thebeacon.surf
 trustwallet.surf
 unicornspinsvip.surf
 upheavalfinance.surf
