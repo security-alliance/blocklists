@@ -11937,6 +11937,7 @@
 ||plether-testnet.web.app^$all
 ||polymarket-dashboards.web.app^$all
 ||polymarket-en.web.app^$all
+||polymarketen.web.app^$all
 ||polymarketpusd.web.app^$all
 ||polymarkets-en.web.app^$all
 ||ponsfamily-co.web.app^$all
