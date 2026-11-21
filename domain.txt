@@ -1254,7 +1254,6 @@ uphold-logn-en.created.app
 uphold-logn-land.created.app
 uphold-loin.created.app
 uphold-nav.created.app
-uphold-net.created.app
 uphold-review.created.app
 uphold-sign-in.created.app
 uphold-wailet-web.created.app
