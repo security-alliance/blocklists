@@ -934,6 +934,7 @@ claims-desk.app
 claims-papertrade.app
 claims-usepaid.app
 claims-xaman.app
+claims-xarnan.app
 claims-xrp.app
 claims-xrpl.app
 claims-zeal.app
@@ -22922,6 +22923,7 @@ client.475238-cb.com
 478255coinbase.com
 478635-crypto.com
 479151-trezor.com
+480123-crypto.com
 480319-crypto.com
 481021-google.com
 481029-ledger.com
@@ -23693,6 +23695,7 @@ client.758340-cb.com
 781315-crypto.com
 781921coinbase.com
 782049-crypto.com
+782163-crypto.com
 782395-coinbase.com
 782632-cb.com
 782688-crypto.com
@@ -23711,6 +23714,7 @@ client.758340-cb.com
 784982-google.com
 785452-coinbase.com
 785976-kraken.com
+786231-crypto.com
 786235-crypto.com
 786407-binance.com
 787382google.com
@@ -23777,6 +23781,7 @@ client.758340-cb.com
 812519-cb.com
 812593-crypto.com
 812648-binance.com
+812673-crypto.com
 813176-icloud.com
 813417coinbase.com
 813547-binance.com
@@ -24117,6 +24122,7 @@ booking.886482.com
 892530-crypto.com
 892613-google.com
 892738coinbase.com
+892743-crypto.com
 892743-google.com
 893044-crypto.com
 893292-coinspot.com
@@ -28152,6 +28158,7 @@ claim-grvt.com
 claim-gush.com
 claim-gush-ai.com
 claim-islandsgames.com
+claim-itnow.com
 claim-kai.com
 claim-kaio.com
 claim-kalshi.com
@@ -29449,7 +29456,7 @@ com-gift-cards-ltc.com
 bitrefill.com-gift-cards-mkr.com
 com-gift-cards-near.com
 com-gift-cards-op.com
-bitrefill.com-gift-cards-pepe.com
+com-gift-cards-pepe.com
 com-gift-cards-sei.com
 com-gift-cards-shib.com
 com-gift-cards-sol.com
@@ -40571,6 +40578,7 @@ proposal-aevachain.com
 proposal-altdotfun.com
 proposal-apyx.com
 proposal-apyxfi.com
+proposal-arendt.com
 proposal-based.com
 proposal-basedbrett.com
 proposal-basedone.com
@@ -77169,6 +77177,8 @@ co-pump.fun
 cobra-tate.fun
 coin-iscans.fun
 coin-livepump.fun
+coin-stream.fun
+coin-streams.fun
 coin-surge.fun
 coin-wave.fun
 coin-world.fun
@@ -78141,6 +78151,7 @@ stakeland.global
 steakhouse.global
 stellars.global
 superform.global
+support-wallet.global
 sushis.global
 sushiswap.global
 tangem.global
@@ -78793,6 +78804,7 @@ allocations-stable.icu
 allocations-standardreserve.icu
 allocations-stockereum.icu
 allocations-theindexfinance.icu
+allocations-trade.icu
 allocations-umiafinance.icu
 allocations-up33.icu
 allocations-usdai.icu
@@ -80205,6 +80217,7 @@ zigchain-community.icu
 zigchain-distribution.icu
 zigchain-event.icu
 zigchain-governance.icu
+zigchain-proposal.icu
 zipcoin.icu
 zipcoin-allocation.icu
 zoomclientus.icu
@@ -86719,6 +86732,7 @@ registration-papertrade.lat
 registrations-papertrade.lat
 registroseguridadfb.lat
 request-test.lat
+rewards-dcty.lat
 rewards-fluid.lat
 rewards-hydrex.lat
 rewards-jurassic.lat
@@ -95682,6 +95696,7 @@ claim-obolfnd.org
 claim-octra.org
 claim-robinhood.org
 claim-soniclabs.org
+claim-xrpl.org
 claimmysol.org
 claims-hyperfoundation.org
 claims-obol.org
@@ -103133,6 +103148,7 @@ reward-zone.site
 rewards-ethena.site
 rewards-ethenfi.site
 rewards-hub.site
+rewards-pendle.site
 rewards-pendlefi.site
 rocketorigindefipro.site
 rpc2-fix.site
@@ -110750,9 +110766,11 @@ allocations-stonkfun.xyz
 allocations-syfr.xyz
 allocations-tea.xyz
 allocations-tollylabs.xyz
+allocations-trade.xyz
 allocations-treadfi.xyz
 allocations-usepaid.xyz
 allocations-virutal.xyz
+allocations-xstocks.xyz
 vote.allocations-zest.xyz
 allocations-zestprotocol.xyz
 allocations-zigchain.xyz
@@ -111641,6 +111659,7 @@ coin-allocation.xyz
 coin-checker.xyz
 coin-code.xyz
 coin-space.xyz
+coin-streams.xyz
 coinbas.xyz
 coinbase-commerce.xyz
 coinbase-receive.xyz
@@ -115507,6 +115526,7 @@ proposal-standardreserve.xyz
 proposal-telcoin.xyz
 proposal-threews.xyz
 proposal-thronglets.xyz
+proposal-torifinance.xyz
 proposal-treadfi.xyz
 proposal-ventran.xyz
 proposal-virtuals.xyz

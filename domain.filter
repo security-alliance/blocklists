@@ -934,6 +934,7 @@
 ||claims-papertrade.app^$all
 ||claims-usepaid.app^$all
 ||claims-xaman.app^$all
+||claims-xarnan.app^$all
 ||claims-xrp.app^$all
 ||claims-xrpl.app^$all
 ||claims-zeal.app^$all
@@ -22922,6 +22923,7 @@
 ||478255coinbase.com^$all
 ||478635-crypto.com^$all
 ||479151-trezor.com^$all
+||480123-crypto.com^$all
 ||480319-crypto.com^$all
 ||481021-google.com^$all
 ||481029-ledger.com^$all
@@ -23693,6 +23695,7 @@
 ||781315-crypto.com^$all
 ||781921coinbase.com^$all
 ||782049-crypto.com^$all
+||782163-crypto.com^$all
 ||782395-coinbase.com^$all
 ||782632-cb.com^$all
 ||782688-crypto.com^$all
@@ -23711,6 +23714,7 @@
 ||784982-google.com^$all
 ||785452-coinbase.com^$all
 ||785976-kraken.com^$all
+||786231-crypto.com^$all
 ||786235-crypto.com^$all
 ||786407-binance.com^$all
 ||787382google.com^$all
@@ -23777,6 +23781,7 @@
 ||812519-cb.com^$all
 ||812593-crypto.com^$all
 ||812648-binance.com^$all
+||812673-crypto.com^$all
 ||813176-icloud.com^$all
 ||813417coinbase.com^$all
 ||813547-binance.com^$all
@@ -24117,6 +24122,7 @@
 ||892530-crypto.com^$all
 ||892613-google.com^$all
 ||892738coinbase.com^$all
+||892743-crypto.com^$all
 ||892743-google.com^$all
 ||893044-crypto.com^$all
 ||893292-coinspot.com^$all
@@ -28152,6 +28158,7 @@
 ||claim-gush.com^$all
 ||claim-gush-ai.com^$all
 ||claim-islandsgames.com^$all
+||claim-itnow.com^$all
 ||claim-kai.com^$all
 ||claim-kaio.com^$all
 ||claim-kalshi.com^$all
@@ -29449,7 +29456,7 @@
 ||bitrefill.com-gift-cards-mkr.com^$all
 ||com-gift-cards-near.com^$all
 ||com-gift-cards-op.com^$all
-||bitrefill.com-gift-cards-pepe.com^$all
+||com-gift-cards-pepe.com^$all
 ||com-gift-cards-sei.com^$all
 ||com-gift-cards-shib.com^$all
 ||com-gift-cards-sol.com^$all
@@ -40571,6 +40578,7 @@
 ||proposal-altdotfun.com^$all
 ||proposal-apyx.com^$all
 ||proposal-apyxfi.com^$all
+||proposal-arendt.com^$all
 ||proposal-based.com^$all
 ||proposal-basedbrett.com^$all
 ||proposal-basedone.com^$all
@@ -77169,6 +77177,8 @@
 ||cobra-tate.fun^$all
 ||coin-iscans.fun^$all
 ||coin-livepump.fun^$all
+||coin-stream.fun^$all
+||coin-streams.fun^$all
 ||coin-surge.fun^$all
 ||coin-wave.fun^$all
 ||coin-world.fun^$all
@@ -78141,6 +78151,7 @@
 ||steakhouse.global^$all
 ||stellars.global^$all
 ||superform.global^$all
+||support-wallet.global^$all
 ||sushis.global^$all
 ||sushiswap.global^$all
 ||tangem.global^$all
@@ -78793,6 +78804,7 @@
 ||allocations-standardreserve.icu^$all
 ||allocations-stockereum.icu^$all
 ||allocations-theindexfinance.icu^$all
+||allocations-trade.icu^$all
 ||allocations-umiafinance.icu^$all
 ||allocations-up33.icu^$all
 ||allocations-usdai.icu^$all
@@ -80205,6 +80217,7 @@
 ||zigchain-distribution.icu^$all
 ||zigchain-event.icu^$all
 ||zigchain-governance.icu^$all
+||zigchain-proposal.icu^$all
 ||zipcoin.icu^$all
 ||zipcoin-allocation.icu^$all
 ||zoomclientus.icu^$all
@@ -86719,6 +86732,7 @@
 ||registrations-papertrade.lat^$all
 ||registroseguridadfb.lat^$all
 ||request-test.lat^$all
+||rewards-dcty.lat^$all
 ||rewards-fluid.lat^$all
 ||rewards-hydrex.lat^$all
 ||rewards-jurassic.lat^$all
@@ -95682,6 +95696,7 @@
 ||claim-octra.org^$all
 ||claim-robinhood.org^$all
 ||claim-soniclabs.org^$all
+||claim-xrpl.org^$all
 ||claimmysol.org^$all
 ||claims-hyperfoundation.org^$all
 ||claims-obol.org^$all
@@ -103133,6 +103148,7 @@
 ||rewards-ethena.site^$all
 ||rewards-ethenfi.site^$all
 ||rewards-hub.site^$all
+||rewards-pendle.site^$all
 ||rewards-pendlefi.site^$all
 ||rocketorigindefipro.site^$all
 ||rpc2-fix.site^$all
@@ -110750,9 +110766,11 @@
 ||allocations-syfr.xyz^$all
 ||allocations-tea.xyz^$all
 ||allocations-tollylabs.xyz^$all
+||allocations-trade.xyz^$all
 ||allocations-treadfi.xyz^$all
 ||allocations-usepaid.xyz^$all
 ||allocations-virutal.xyz^$all
+||allocations-xstocks.xyz^$all
 ||vote.allocations-zest.xyz^$all
 ||allocations-zestprotocol.xyz^$all
 ||allocations-zigchain.xyz^$all
@@ -111641,6 +111659,7 @@
 ||coin-checker.xyz^$all
 ||coin-code.xyz^$all
 ||coin-space.xyz^$all
+||coin-streams.xyz^$all
 ||coinbas.xyz^$all
 ||coinbase-commerce.xyz^$all
 ||coinbase-receive.xyz^$all
@@ -115507,6 +115526,7 @@
 ||proposal-telcoin.xyz^$all
 ||proposal-threews.xyz^$all
 ||proposal-thronglets.xyz^$all
+||proposal-torifinance.xyz^$all
 ||proposal-treadfi.xyz^$all
 ||proposal-ventran.xyz^$all
 ||proposal-virtuals.xyz^$all
