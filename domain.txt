@@ -19201,7 +19201,6 @@ stable-rewards.cloud
 1lnch.stakingreward.cloud
 2z.stakingreward.cloud
 astar-networks.stakingreward.cloud
-build-on-bobs.stakingreward.cloud
 cetus.stakingreward.cloud
 cetus-protocol.stakingreward.cloud
 cetus-protocols.stakingreward.cloud
