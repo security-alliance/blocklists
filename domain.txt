@@ -1536,7 +1536,6 @@ flamengotoken.app
 flare-governance.app
 flare-mainnetportal.app
 flare-mainnets.app
-vote.flare-network.app
 flare-proposal.app
 flare-proposals.app
 flare-rewards.app

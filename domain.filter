@@ -1536,7 +1536,6 @@
 ||flare-governance.app^$all
 ||flare-mainnetportal.app^$all
 ||flare-mainnets.app^$all
-||vote.flare-network.app^$all
 ||flare-proposal.app^$all
 ||flare-proposals.app^$all
 ||flare-rewards.app^$all
