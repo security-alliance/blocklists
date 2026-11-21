@@ -14558,7 +14558,6 @@ amznus.cam
 anznus.cam
 apmexsn.cam
 ambirewallet.app-airdropalert.cam
-wallet.app-airdropalert.cam
 app-lombard.cam
 apps-aptos.cam
 apps-poiymarket.cam
