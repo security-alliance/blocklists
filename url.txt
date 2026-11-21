@@ -674,7 +674,6 @@ https://sites.google.com/view/exodus-hubb/home
 https://sites.google.com/view/exodus-login1/home
 https://sites.google.com/view/exodus-nav-web/home
 https://sites.google.com/view/exodus-non/home
-https://sites.google.com/view/exodus-recovery-with-cieldx/home
 https://sites.google.com/view/exodus-restore-wallet-check-be
 https://sites.google.com/view/exodus-swap-pending-after
 https://sites.google.com/view/exodus-useb/home
@@ -683,7 +682,6 @@ https://sites.google.com/view/exodus-w/home
 https://sites.google.com/view/exodus-walet-/home
 https://sites.google.com/view/exodus-wallet
 https://sites.google.com/view/exodus-wallet-base/home
-https://sites.google.com/view/exodus-wallet-download/home
 https://sites.google.com/view/exodus-wallet-eng-/home
 https://sites.google.com/view/exodus-wallet-exodus/home
 https://sites.google.com/view/exodus-wallet-pages/home
@@ -1590,7 +1588,6 @@ https://sites.google.com/view/rainbetcom1/home
 https://sites.google.com/view/rainbetoficialaapp/home
 https://sites.google.com/view/rainbetreferralcodearchmgetupt/home
 https://sites.google.com/view/rainbetreferralcodeashissinfor/home
-https://sites.google.com/view/recover-exodus-wallet/home
 https://sites.google.com/view/recursosdeayudacmollamaratrust/home
 https://sites.google.com/view/releases-metamaskmet/home
 https://sites.google.com/view/releasesm-/home
