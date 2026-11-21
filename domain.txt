@@ -241,7 +241,6 @@ learn-trezor-eng.framer.ai
 learn-trezr-io.framer.ai
 learn-trezrostart.framer.ai
 learn-trezur.framer.ai
-learn-trust-us.framer.ai
 learn-trzor.framer.ai
 learn-us-suits.framer.ai
 learnioweb-metamasks-home.framer.ai
