@@ -39796,7 +39796,10 @@
 ||mail.phantomtreadings.com^$all
 ||smtp2.phantomvirtualtap.com^$all
 ||mail.phantomwallet-recovery.com^$all
+||fee.phantomwalletnotice.com^$all
+||status.phantomwalletnotice.com^$all
 ||update.phantomwalletnotice.com^$all
+||verify.phantomwalletnotice.com^$all
 ||phanton-web3.com^$all
 ||pharosnetwork-tge.com^$all
 ||phase-flow.com^$all

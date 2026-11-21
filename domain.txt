@@ -39796,7 +39796,10 @@ phantomscreenscencal.com
 mail.phantomtreadings.com
 smtp2.phantomvirtualtap.com
 mail.phantomwallet-recovery.com
+fee.phantomwalletnotice.com
+status.phantomwalletnotice.com
 update.phantomwalletnotice.com
+verify.phantomwalletnotice.com
 phanton-web3.com
 pharosnetwork-tge.com
 phase-flow.com
