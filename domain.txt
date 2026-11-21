@@ -19240,7 +19240,6 @@ us-blue.stakingreward.cloud
 us-bluefins.stakingreward.cloud
 us-cgpt.stakingreward.cloud
 us-curvefinances.stakingreward.cloud
-us-degen-app.stakingreward.cloud
 us-degens.stakingreward.cloud
 us-eigenfoundation.stakingreward.cloud
 us-link.stakingreward.cloud
