@@ -48009,7 +48009,6 @@ acc-laceaextensionn.wixstudio.com
 acc-lacetension-us.wixstudio.com
 acc-metamask.wixstudio.com
 acc-metmaskcdn.wixstudio.com
-acc-moonpaycdn.wixstudio.com
 acc-mtamask-io.wixstudio.com
 acc-muopey-apps.wixstudio.com
 acc-paypel-auths.wixstudio.com
@@ -48695,7 +48694,6 @@ cdn-baseapps-ext.wixstudio.com
 cdn-iorabby-extnsion.wixstudio.com
 cdn-iorabbyapps.wixstudio.com
 cdn-metamsk-ext.wixstudio.com
-cdn-moonpay-logns.wixstudio.com
 cdn-rabbyapps.wixstudio.com
 cdnmetamaskext.wixstudio.com
 cdnstrted-metamsk.wixstudio.com
@@ -49084,7 +49082,6 @@ eng-metamsk-ext.wixstudio.com
 eng-metamskcdn.wixstudio.com
 eng-metamskexten.wixstudio.com
 eng-metamskextnsion.wixstudio.com
-eng-moonpaycdn.wixstudio.com
 eng-moonpaycdn-app.wixstudio.com
 eng-nettcoins-webb.wixstudio.com
 eng-phantomcdn.wixstudio.com
@@ -50366,7 +50363,6 @@ micro-metamask.wixstudio.com
 mitamask-extension.wixstudio.com
 mmonpaylo.wixstudio.com
 mnetcoinsapp.wixstudio.com
-moanpey.wixstudio.com
 mobile-rabby-apps.wixstudio.com
 monitor-krakeng-apps.wixstudio.com
 monpaeylogin.wixstudio.com
@@ -51043,7 +51039,6 @@ secure-metamsks-io.wixstudio.com
 secure-monpay-us.wixstudio.com
 secure-monpaycdn.wixstudio.com
 secure-munpay.wixstudio.com
-secure-munpay-logn.wixstudio.com
 secure-phantom-web.wixstudio.com
 secure-rabby-cdn.wixstudio.com
 self-base-extension.wixstudio.com
@@ -52764,6 +52759,8 @@ yocasinospain.com
 yojunlo.com
 braunn-veiand-hyaells.yolasite.com
 metamskextension.yolasite.com
+opensea-login.yolasite.com
+opensea-login1.yolasite.com
 rtgfgf-fdhfs-website.yolasite.com
 upholdtogin.yolasite.com
 yom-staking.com

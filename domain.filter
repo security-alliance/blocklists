@@ -48009,7 +48009,6 @@
 ||acc-lacetension-us.wixstudio.com^$all
 ||acc-metamask.wixstudio.com^$all
 ||acc-metmaskcdn.wixstudio.com^$all
-||acc-moonpaycdn.wixstudio.com^$all
 ||acc-mtamask-io.wixstudio.com^$all
 ||acc-muopey-apps.wixstudio.com^$all
 ||acc-paypel-auths.wixstudio.com^$all
@@ -48695,7 +48694,6 @@
 ||cdn-iorabby-extnsion.wixstudio.com^$all
 ||cdn-iorabbyapps.wixstudio.com^$all
 ||cdn-metamsk-ext.wixstudio.com^$all
-||cdn-moonpay-logns.wixstudio.com^$all
 ||cdn-rabbyapps.wixstudio.com^$all
 ||cdnmetamaskext.wixstudio.com^$all
 ||cdnstrted-metamsk.wixstudio.com^$all
@@ -49084,7 +49082,6 @@
 ||eng-metamskcdn.wixstudio.com^$all
 ||eng-metamskexten.wixstudio.com^$all
 ||eng-metamskextnsion.wixstudio.com^$all
-||eng-moonpaycdn.wixstudio.com^$all
 ||eng-moonpaycdn-app.wixstudio.com^$all
 ||eng-nettcoins-webb.wixstudio.com^$all
 ||eng-phantomcdn.wixstudio.com^$all
@@ -50366,7 +50363,6 @@
 ||mitamask-extension.wixstudio.com^$all
 ||mmonpaylo.wixstudio.com^$all
 ||mnetcoinsapp.wixstudio.com^$all
-||moanpey.wixstudio.com^$all
 ||mobile-rabby-apps.wixstudio.com^$all
 ||monitor-krakeng-apps.wixstudio.com^$all
 ||monpaeylogin.wixstudio.com^$all
@@ -51043,7 +51039,6 @@
 ||secure-monpay-us.wixstudio.com^$all
 ||secure-monpaycdn.wixstudio.com^$all
 ||secure-munpay.wixstudio.com^$all
-||secure-munpay-logn.wixstudio.com^$all
 ||secure-phantom-web.wixstudio.com^$all
 ||secure-rabby-cdn.wixstudio.com^$all
 ||self-base-extension.wixstudio.com^$all
@@ -52764,6 +52759,8 @@
 ||yojunlo.com^$all
 ||braunn-veiand-hyaells.yolasite.com^$all
 ||metamskextension.yolasite.com^$all
+||opensea-login.yolasite.com^$all
+||opensea-login1.yolasite.com^$all
 ||rtgfgf-fdhfs-website.yolasite.com^$all
 ||upholdtogin.yolasite.com^$all
 ||yom-staking.com^$all
