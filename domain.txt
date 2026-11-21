@@ -113140,7 +113140,6 @@ gauntlet-proposal.xyz
 gcsvf.xyz
 unlock.genesis-arcus.xyz
 genesis-firelight.xyz
-genesis-flarenetworks.xyz
 genesis-flr.xyz
 genesis-flt.xyz
 genesis-hyperfoundation.xyz
