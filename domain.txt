@@ -8398,6 +8398,7 @@ ubb-production.up.railway.app
 ubionilinestioa-production-18659195.up.railway.app
 variational-omnio.up.railway.app
 verifica12nakke-production.up.railway.app
+verifiwerasi.up.railway.app
 wwwww-production-d67aec52.up.railway.app
 rainbet-casino.app
 rainbet-casinos.app
@@ -10847,7 +10848,6 @@ openseaclaim-nftpro.vercel.app
 openseaclickclaims01.vercel.app
 openseaclicks2k.vercel.app
 openseaclicks3k.vercel.app
-openseaclicks4k.vercel.app
 openseaclicks5k.vercel.app
 openseaclicks8k.vercel.app
 openseaclicks9k.vercel.app
