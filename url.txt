@@ -655,7 +655,6 @@ https://sites.google.com/view/exodus-auth/home
 https://sites.google.com/view/exodus-base-nav/home
 https://sites.google.com/view/exodus-blockchain-/home
 https://sites.google.com/view/exodus-brows/home
-https://sites.google.com/view/exodus-doc/home
 https://sites.google.com/view/exodus-enusu/home
 https://sites.google.com/view/exodus-guide-app/home
 https://sites.google.com/view/exodus-home-page/home
@@ -675,7 +674,6 @@ https://sites.google.com/view/exodus-wallet-base/home
 https://sites.google.com/view/exodus-wallet-eng-/home
 https://sites.google.com/view/exodus-wallet-exodus/home
 https://sites.google.com/view/exodus-wallet/home
-https://sites.google.com/view/exodus-wallete/home
 https://sites.google.com/view/exodus-walletexod/home
 https://sites.google.com/view/exodus-web-hub/home
 https://sites.google.com/view/exodus-web-nov/home
@@ -701,10 +699,8 @@ https://sites.google.com/view/exodusweb-beginner/home
 https://sites.google.com/view/exodusweb-digital/home
 https://sites.google.com/view/exodusweb-safe/home
 https://sites.google.com/view/exodusweb3-authu/home
-https://sites.google.com/view/exodusweb3-extension/home
 https://sites.google.com/view/exodusweb3-home/home
 https://sites.google.com/view/exodusweb3-homepage/home
-https://sites.google.com/view/exoduswebs-wallet/home
 https://sites.google.com/view/exoduswebwallet/home
 https://sites.google.com/view/exoduswec/home
 https://sites.google.com/view/exoduu/home
@@ -826,7 +822,6 @@ https://sites.google.com/view/global-app-meta/home
 https://sites.google.com/view/global-app-metmask/home
 https://sites.google.com/view/global-base-coinbase/home
 https://sites.google.com/view/global-base-io/home
-https://sites.google.com/view/global-exoduscdn/home
 https://sites.google.com/view/global-io-metamsk/home
 https://sites.google.com/view/global-metaa/home
 https://sites.google.com/view/global-metamask-app/home
