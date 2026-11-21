@@ -19239,7 +19239,6 @@ us-alpha-finances.stakingreward.cloud
 us-blue.stakingreward.cloud
 us-bluefins.stakingreward.cloud
 us-cgpt.stakingreward.cloud
-us-curvefinances.stakingreward.cloud
 us-degens.stakingreward.cloud
 us-eigenfoundation.stakingreward.cloud
 us-link.stakingreward.cloud
