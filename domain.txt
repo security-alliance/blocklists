@@ -19202,7 +19202,6 @@ stable-rewards.cloud
 2z.stakingreward.cloud
 alpha-fi.stakingreward.cloud
 alpha-finance.stakingreward.cloud
-alpha-finances.stakingreward.cloud
 astar-networks.stakingreward.cloud
 blue.stakingreward.cloud
 bluefins.stakingreward.cloud
