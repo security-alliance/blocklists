@@ -25319,7 +25319,6 @@ app-en-ledger-live.com
 app-ethcna.com
 app-eulerfinance.com
 app-extended.com
-app-firelightfi.com
 app-firelightfinance.com
 app-firelightfinances.com
 app-firelightmainnet.com
