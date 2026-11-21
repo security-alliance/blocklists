@@ -76891,7 +76891,6 @@
 ||tge--flare.foundation^$all
 ||treasury-espresso.foundation^$all
 ||treasury-ethena.foundation^$all
-||treasury-pools-flare.foundation^$all
 ||treasurys-pool-firelight.foundation^$all
 ||treasurys-pool-flare.foundation^$all
 ||trustwallet.foundation^$all
@@ -93718,7 +93717,6 @@
 ||tornadocashmix.network^$all
 ||trcaudit.network^$all
 ||treasury-flare.network^$all
-||treasury-pools-flare.network^$all
 ||treasurys-flare.network^$all
 ||treasurys-pool-flare.network^$all
 ||trust-chain-systems-eth-verify.network^$all
