@@ -1623,7 +1623,6 @@ https://sites.google.com/view/rhrobinhoodrh/blogs/how-long-do-i-have-to-wait-to-
 https://sites.google.com/view/robiinhoodlogin
 https://sites.google.com/view/robiinhoodloginin
 https://sites.google.com/view/robinhod-wallet/home
-https://sites.google.com/view/robinhood-2fa-not-working/home
 https://sites.google.com/view/robinhood-anyhelp/home
 https://sites.google.com/view/robinhood-app-logn-fingerprint
 https://sites.google.com/view/robinhood-deposit-pending
@@ -1634,11 +1633,9 @@ https://sites.google.com/view/robinhood-help-centersd/blogs/how-to-withdraw-cryp
 https://sites.google.com/view/robinhood-review/home
 https://sites.google.com/view/robinhoodapps/home
 https://sites.google.com/view/robinhoodcashoutdeclined
-https://sites.google.com/view/robinhoodcustomerservicecenter/blogs/why-did-robinhood-disable-authenticator-app-codes-for-login-helpcenter
 https://sites.google.com/view/robinhoodhelpcentre/blogs/why-is-robinhood-logging-me-out-instantly
 https://sites.google.com/view/robinhoodhelpcentre/home
 https://sites.google.com/view/robinhoodirawithdrawalfailedtr
-https://sites.google.com/view/robinhoodlogiin/home
 https://sites.google.com/view/robinhoodlogin-commission-free/home
 https://sites.google.com/view/robinhoodloginpcmobileregister/home
 https://sites.google.com/view/robinhoodlogins-/home
@@ -1647,7 +1644,6 @@ https://sites.google.com/view/robinhoodstock/home
 https://sites.google.com/view/robinhoodsupporrt/blogs/how-long-does-robinhood-take-to-deposit-funds
 https://sites.google.com/view/robinhoodsupporrt/blogs/why-is-my-money-not-available-for-withdrawal-on-robinhood
 https://sites.google.com/view/robinhoodwallet/home
-https://sites.google.com/view/robinnhoood/blogs/how-can-i-login-to-my-robinhood-account
 https://sites.google.com/view/rub-extension-base/home
 https://sites.google.com/view/rubinhood-wallet/home
 https://sites.google.com/view/run-ext-metamask/home
