@@ -33418,7 +33418,6 @@ get-worldid.com
 get-xrpl.com
 get-xrplfoundation.com
 get-xverse.com
-get-zebec.com
 getcardsdrop.com
 getcitated.com
 getcoinbaseaccount.com
