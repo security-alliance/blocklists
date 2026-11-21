@@ -66513,6 +66513,7 @@ coinbase-funding.pages.dev
 coinbase-grow-us.pages.dev
 coinbase-legitimacy-regulation.pages.dev
 coinbase-listing-677f-931d.pages.dev
+coinbase-listing-677f-bdde.pages.dev
 coinbase-listing-677f-dbf4.pages.dev
 coinbase-login-4xb.pages.dev
 coinbase-login-mirror.pages.dev
@@ -88593,6 +88594,7 @@ myupdate-ledger.live
 myx-finance.live
 nabox.live
 nadextla.live
+nansenai.live
 neosoulx.live
 netcapitals.live
 netnet.live
