@@ -19212,7 +19212,6 @@ cetus.stakingreward.cloud
 cetus-protocol.stakingreward.cloud
 cetus-protocols.stakingreward.cloud
 cgpt.stakingreward.cloud
-chain-gpt.stakingreward.cloud
 chain-links.stakingreward.cloud
 compound-finances.stakingreward.cloud
 dcgen.stakingreward.cloud
@@ -21197,6 +21196,7 @@ easyrug.co
 eigenlabs.co
 ellevesta.co
 ellipalwallet.co
+arcium-website-ed5y.elusiv.co
 en-lobstr.co
 esunchainx.co
 ethcasino.co

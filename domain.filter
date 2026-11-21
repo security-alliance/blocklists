@@ -19212,7 +19212,6 @@
 ||cetus-protocol.stakingreward.cloud^$all
 ||cetus-protocols.stakingreward.cloud^$all
 ||cgpt.stakingreward.cloud^$all
-||chain-gpt.stakingreward.cloud^$all
 ||chain-links.stakingreward.cloud^$all
 ||compound-finances.stakingreward.cloud^$all
 ||dcgen.stakingreward.cloud^$all
@@ -21197,6 +21196,7 @@
 ||eigenlabs.co^$all
 ||ellevesta.co^$all
 ||ellipalwallet.co^$all
+||arcium-website-ed5y.elusiv.co^$all
 ||en-lobstr.co^$all
 ||esunchainx.co^$all
 ||ethcasino.co^$all
