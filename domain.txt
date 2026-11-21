@@ -13049,10 +13049,8 @@ k3etkzt.beer
 l2csg5i.beer
 las-js-claud.beer
 lnfcdnclad.beer
-lsikjsns.beer
 lskannsserv.beer
 memescandata.beer
-mistraljs.beer
 msn00273.beer
 mstclaudens.beer
 mtnqxxt.beer
@@ -30103,7 +30101,6 @@ controles-techniques.com
 controls-x.com
 contsensysess.com
 convergerlab.com
-convergewithvelix.com
 convex-finance-gid.com
 convexalabs.com
 convexifinance.com
@@ -31396,7 +31393,6 @@ dredova.com
 drfdl.com
 drift-meet.com
 driftinlakeshore.com
-drifttoporta.com
 drive-auth-verify.com
 driverplugin.com
 driverplugins.com
@@ -32199,7 +32195,6 @@ evm-pumpfun.com
 evmentry.com
 evmmatrxs.com
 evmpiler.com
-evolvewithcalyx.com
 evoscoin.com
 evotella.com
 mancingmania.evvira.com
@@ -32403,7 +32398,6 @@ faopux.com
 faotux.com
 faowox.com
 faqtwt.com
-faquirs.com
 farfx.com
 farm-chainlink.com
 fartboysolana.com
@@ -43037,9 +43031,6 @@ shf-isfca.com
 shibasswap.com
 shift-spend.com
 shiftbeyondcyrix.com
-shiftinforest.com
-shiftinvalefield.com
-shiftinvalleyview.com
 shikarakenya.com
 shill-sol.com
 polymarket.shineyarzarmoe.com
@@ -43107,7 +43098,6 @@ simpleswap-i.com
 simpleswap-info.com
 simpleswap-us.com
 simpleswap-web.com
-simpleswapdex.com
 simpleswapi.com
 simpleswapio.com
 simpleswapreview.com
@@ -96930,7 +96920,6 @@ rate-account.org
 rate-spirit.org
 raydex.org
 raydiumexchange.org
-raydiumio.org
 rayis.org
 raynbet.org
 rayswap.org
@@ -97046,7 +97035,6 @@ simpleswap-en.org
 simpleswap-eng.org
 simpleswap-eu.org
 simpleswap-hub.org
-simpleswapdex.org
 simpleswapi.org
 simpleswapreview.org
 simpleswaptrustpilotreviews.org
