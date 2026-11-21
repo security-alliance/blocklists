@@ -93630,7 +93630,7 @@ kickup.network
 kintsu.network
 klinkfinance.network
 kper.network
-mail.kraken-secure.network
+kraken-secure.network
 kta.network
 laptoptoken.network
 leapwallet.network
