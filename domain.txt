@@ -19236,7 +19236,6 @@ pudgy-penguins.stakingreward.cloud
 rls.stakingreward.cloud
 sui-name-service.stakingreward.cloud
 typus-finance.stakingreward.cloud
-us-alpha-finances.stakingreward.cloud
 us-blue.stakingreward.cloud
 us-bluefins.stakingreward.cloud
 us-cgpt.stakingreward.cloud
