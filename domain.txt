@@ -48252,7 +48252,6 @@ apps-krekann-io.wixstudio.com
 apps-krekn-gr.wixstudio.com
 apps-krkan-ai.wixstudio.com
 apps-krkanecdn.wixstudio.com
-apps-krkanepro.wixstudio.com
 apps-krken.wixstudio.com
 apps-krkencdn.wixstudio.com
 apps-krkkencd.wixstudio.com
