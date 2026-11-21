@@ -39792,7 +39792,7 @@ mail.phantomtreadings.com
 smtp2.phantomvirtualtap.com
 mail.phantomwallet-recovery.com
 phanton-web3.com
-phantyapi.com
+admin.phantyapi.com
 pharosnetwork-tge.com
 phase-flow.com
 phase1-sports.com
