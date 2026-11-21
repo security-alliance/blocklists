@@ -19232,7 +19232,6 @@
 ||rls.stakingreward.cloud^$all
 ||sui-name-service.stakingreward.cloud^$all
 ||typus-finance.stakingreward.cloud^$all
-||us-blue.stakingreward.cloud^$all
 ||us-bluefins.stakingreward.cloud^$all
 ||us-cgpt.stakingreward.cloud^$all
 ||us-degens.stakingreward.cloud^$all
@@ -29432,6 +29431,7 @@
 ||com-gift-cards-bch.com^$all
 ||com-gift-cards-bnb.com^$all
 ||com-gift-cards-btc.com^$all
+||bitrefill.com-gift-cards-dash.com^$all
 ||com-gift-cards-doge.com^$all
 ||com-gift-cards-dot.com^$all
 ||com-gift-cards-eth.com^$all
