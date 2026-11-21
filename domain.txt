@@ -47398,6 +47398,7 @@ wallet-userfix.com
 wallet-userfix21.com
 wallet-userupdate7.com
 secure-walletconnect.wallet-veriffy.com
+walletconnect.wallet-veriffy.com
 electrum.wallet-web.com
 sparrow.wallet-web.com
 wallet-web3.com
