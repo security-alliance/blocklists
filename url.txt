@@ -1241,6 +1241,7 @@ https://sites.google.com/view/metamask-chroome-/home
 https://sites.google.com/view/metamask-crypto-wallet-get-thi/home
 https://sites.google.com/view/metamask-crypto-web/home
 https://sites.google.com/view/metamask-drive/home
+https://sites.google.com/view/metamask-easyapp/home
 https://sites.google.com/view/metamask-en-extensin/home
 https://sites.google.com/view/metamask-en-us/home
 https://sites.google.com/view/metamask-en/home
@@ -1248,6 +1249,7 @@ https://sites.google.com/view/metamask-eng-getting/home
 https://sites.google.com/view/metamask-enpro/home
 https://sites.google.com/view/metamask-enuss/home
 https://sites.google.com/view/metamask-ext-io/home
+https://sites.google.com/view/metamask-exte-gateway/home
 https://sites.google.com/view/metamask-exten-/home
 https://sites.google.com/view/metamask-exten-doc/home
 https://sites.google.com/view/metamask-exten-web/home
