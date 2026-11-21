@@ -23602,6 +23602,7 @@ coinbase.741451.com
 7438520-uphold.com
 743867-uphold.com
 743925coinbase.com
+743925kraken.com
 746205-crypto.com
 746208-crypto.com
 74651-coinbase.com
@@ -29467,6 +29468,7 @@ bitrefill.com-gift-cards-wif.com
 com-gift-cards-xlm.com
 bitrefill.com-gift-cards-xmr.com
 com-gift-cards-xrp.com
+bitrefill.com-gift-cards-zec.com
 com-gift-esim-a04.com
 com-gift-esim-aa04.com
 com-gift-esim-ab04.com
