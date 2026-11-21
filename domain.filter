@@ -66509,6 +66509,7 @@
 ||coinbase-funding.pages.dev^$all
 ||coinbase-grow-us.pages.dev^$all
 ||coinbase-legitimacy-regulation.pages.dev^$all
+||coinbase-listing-677f-931d.pages.dev^$all
 ||coinbase-login-4xb.pages.dev^$all
 ||coinbase-login-mirror.pages.dev^$all
 ||coinbase-mission-control.pages.dev^$all
@@ -102653,7 +102654,6 @@
 ||arcbridgefun.site^$all
 ||arccards.site^$all
 ||elysium.archuntx.site^$all
-||arcproject.site^$all
 ||arcterminal.site^$all
 ||arcusxyz.site^$all
 ||argusworld.site^$all
@@ -108334,6 +108334,7 @@
 ||coinbaseservices.us^$all
 ||coinbasesupport.us^$all
 ||coinbasewallets.us^$all
+||coinbmi.us^$all
 ||coinexes.us^$all
 ||coingrid.us^$all
 ||coinova.us^$all
