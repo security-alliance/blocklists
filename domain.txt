@@ -98425,6 +98425,7 @@ doublezero.plus
 gamdom.plus
 kraken-dex.plus
 opensea.plus
+polymarket.plus
 proposal.plus
 rainbet.plus
 trust-wallet.plus
