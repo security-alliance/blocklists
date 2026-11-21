@@ -43702,7 +43702,6 @@ starsgrowth.com
 start-binance.com
 start-exodus.com
 app.start-io-trezor.com
-start-ledgar.com
 start-trezor.com
 start-zoom.com
 starts-binance.com
@@ -75269,7 +75268,6 @@ googlemeet.download
 hdstreamzz.download
 hyperliquid.download
 io-apps.download
-io-start.download
 io-starts.download
 io-web.download
 lacedesktop.download

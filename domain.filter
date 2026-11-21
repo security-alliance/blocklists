@@ -43702,7 +43702,6 @@
 ||start-binance.com^$all
 ||start-exodus.com^$all
 ||app.start-io-trezor.com^$all
-||start-ledgar.com^$all
 ||start-trezor.com^$all
 ||start-zoom.com^$all
 ||starts-binance.com^$all
@@ -75269,7 +75268,6 @@
 ||hdstreamzz.download^$all
 ||hyperliquid.download^$all
 ||io-apps.download^$all
-||io-start.download^$all
 ||io-starts.download^$all
 ||io-web.download^$all
 ||lacedesktop.download^$all
