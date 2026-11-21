@@ -19200,7 +19200,6 @@ stable-rewards.cloud
 1inch-wallet.stakingreward.cloud
 1lnch.stakingreward.cloud
 2z.stakingreward.cloud
-alpha-fi.stakingreward.cloud
 astar-networks.stakingreward.cloud
 blue.stakingreward.cloud
 bluefins.stakingreward.cloud
