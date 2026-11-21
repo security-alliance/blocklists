@@ -15731,6 +15731,7 @@ download.krakenca.cc
 k1down.krakenca.cc
 download.krakencb.cc
 download.krakenex.cc
+download.krakenexc.cc
 krakenmrkt.cc
 krakenoffice.cc
 down.krakenpa.cc
