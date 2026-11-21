@@ -22763,6 +22763,7 @@ ethereum2.360app.com
 395384-coinbase.com
 395812coinbase.com
 395821-kraken.com
+395839kraken.com
 395862-binance.com
 395912-ledger.com
 397205-crypto.com
@@ -83054,6 +83055,7 @@ krakenaslogiin.gitbook.io
 krakendlugenn.gitbook.io
 krakeneblogginn.gitbook.io
 krakenhclogin.gitbook.io
+krakenlogenes.gitbook.io
 krakenloogin.gitbook.io
 krakennowlog.gitbook.io
 krakennylog.gitbook.io
@@ -83670,6 +83672,7 @@ usa-coinbaselogiin.gitbook.io
 usa-pphantomwalleti.gitbook.io
 usalogin-coinbasepro.gitbook.io
 uscoinbasecomlogin.gitbook.io
+uscrakenlogin.gitbook.io
 usmetamaskwallet.gitbook.io
 usmetamsaklogim.gitbook.io
 uszcoinbaseloginus.gitbook.io

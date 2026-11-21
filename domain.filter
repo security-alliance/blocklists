@@ -22763,6 +22763,7 @@
 ||395384-coinbase.com^$all
 ||395812coinbase.com^$all
 ||395821-kraken.com^$all
+||395839kraken.com^$all
 ||395862-binance.com^$all
 ||395912-ledger.com^$all
 ||397205-crypto.com^$all
@@ -83054,6 +83055,7 @@
 ||krakendlugenn.gitbook.io^$all
 ||krakeneblogginn.gitbook.io^$all
 ||krakenhclogin.gitbook.io^$all
+||krakenlogenes.gitbook.io^$all
 ||krakenloogin.gitbook.io^$all
 ||krakennowlog.gitbook.io^$all
 ||krakennylog.gitbook.io^$all
@@ -83670,6 +83672,7 @@
 ||usa-pphantomwalleti.gitbook.io^$all
 ||usalogin-coinbasepro.gitbook.io^$all
 ||uscoinbasecomlogin.gitbook.io^$all
+||uscrakenlogin.gitbook.io^$all
 ||usmetamaskwallet.gitbook.io^$all
 ||usmetamsaklogim.gitbook.io^$all
 ||uszcoinbaseloginus.gitbook.io^$all
