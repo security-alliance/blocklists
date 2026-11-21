@@ -30274,6 +30274,7 @@ crisgambler.com
 cristaldisk.com
 critical-coinbase.com
 plasma.crlchain.com
+crm-trezorsuite.com
 mbnhtp.crmnaceb.com
 yfyuwe.crmnaceb.com
 crmsoftwaretool.com
@@ -42877,7 +42878,6 @@ security-polymarket.com
 security-request.com
 security-team-coinbase.com
 security-validation.com
-security-xaman.com
 security85ms.com
 securitycase-x.com
 securitycenter-x.com
@@ -44480,6 +44480,7 @@ test777777777.com
 testdomain9292.com
 testfro2882828.com
 testminesgamb23234.com
+testmytrezorsuite.com
 testnest-eivslum.com
 testnet-eivslum.com
 testnet-elysiums.com
@@ -44519,6 +44520,7 @@ tezawin.com
 tezmlives.com
 tezmslive.com
 tezmslives.com
+tezorvault.com
 tezosbox.com
 tezowin.com
 tfh-operator.com
@@ -99629,7 +99631,6 @@ trust-cards.pw
 trustwallet.pw
 trustwalletcard.pw
 trustwallets.pw
-xmagnetic.pw
 zama.pw
 zoominvitationmeetingconnect.pw
 97ee6.blogspot.qa
