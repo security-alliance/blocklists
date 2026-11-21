@@ -57494,7 +57494,6 @@ oskarkregar.dev
 199-proposal-prjx.pages.dev
 199-reallocate-flare.pages.dev
 199-stonkbroker-clutchmarkets.pages.dev
-1dollarairdrop.pages.dev
 pr-7831.1inch-io-app.pages.dev
 1inch-prod-ui-d1k.pages.dev
 1morphoairdrop.pages.dev
@@ -93191,7 +93190,6 @@ trust-wallet-cards.net
 trust-wallet-v2.net
 trust68.net
 trustcardwallet.net
-trustpaycard.net
 trustrecovery.net
 trustspendcards.net
 trustswallet24.net
