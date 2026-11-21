@@ -11773,7 +11773,6 @@
 ||votes-ethfi.app^$all
 ||votes-firelight.app^$all
 ||votes-flare.app^$all
-||votes-flarenetwork.app^$all
 ||votes-flaresnetwork.app^$all
 ||votes-flaresnetworks.app^$all
 ||votes-flarsenetworks.app^$all
@@ -47198,7 +47197,6 @@
 ||votes-flare-network.com^$all
 ||votes-flarefoundation.com^$all
 ||votes-flaregovernance.com^$all
-||votes-flarenetwork.com^$all
 ||votes-flarenetworks.com^$all
 ||votes-flares.com^$all
 ||votes-globaldollar.com^$all

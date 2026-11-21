@@ -11773,7 +11773,6 @@ votes-asterdex.app
 votes-ethfi.app
 votes-firelight.app
 votes-flare.app
-votes-flarenetwork.app
 votes-flaresnetwork.app
 votes-flaresnetworks.app
 votes-flarsenetworks.app
@@ -47198,7 +47197,6 @@ votes-firelightfinance.com
 votes-flare-network.com
 votes-flarefoundation.com
 votes-flaregovernance.com
-votes-flarenetwork.com
 votes-flarenetworks.com
 votes-flares.com
 votes-globaldollar.com
