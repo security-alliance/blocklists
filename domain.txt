@@ -19201,7 +19201,6 @@ stable-rewards.cloud
 1lnch.stakingreward.cloud
 2z.stakingreward.cloud
 astar-networks.stakingreward.cloud
-cetus.stakingreward.cloud
 cgpt.stakingreward.cloud
 chain-links.stakingreward.cloud
 compound-finances.stakingreward.cloud
