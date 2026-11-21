@@ -19203,7 +19203,6 @@ stable-rewards.cloud
 astar-networks.stakingreward.cloud
 cetus.stakingreward.cloud
 cetus-protocol.stakingreward.cloud
-cetus-protocols.stakingreward.cloud
 cgpt.stakingreward.cloud
 chain-links.stakingreward.cloud
 compound-finances.stakingreward.cloud
