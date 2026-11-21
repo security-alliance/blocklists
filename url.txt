@@ -238,6 +238,7 @@ https://sites.google.com/view/coin-chrom/home
 https://sites.google.com/view/coin-en-us-baseview/home
 https://sites.google.com/view/coin-extension/home
 https://sites.google.com/view/coin-extensn-en/home
+https://sites.google.com/view/coin-get-docs/home
 https://sites.google.com/view/coin-pro-digital-/home
 https://sites.google.com/view/coin-pro-digital/home
 https://sites.google.com/view/coin-prodigital-enus/home
@@ -342,6 +343,7 @@ https://sites.google.com/view/coinbase-getstart/home
 https://sites.google.com/view/coinbase-getting-start/home
 https://sites.google.com/view/coinbase-getting-starte/home
 https://sites.google.com/view/coinbase-globalapp/home
+https://sites.google.com/view/coinbase-guide-cdn/home
 https://sites.google.com/view/coinbase-guide-set/home
 https://sites.google.com/view/coinbase-help-app/home
 https://sites.google.com/view/coinbase-home-en/home
@@ -356,6 +358,7 @@ https://sites.google.com/view/coinbase-learn-app/home
 https://sites.google.com/view/coinbase-learn-ext
 https://sites.google.com/view/coinbase-learn-ext/home
 https://sites.google.com/view/coinbase-learnapp/home
+https://sites.google.com/view/coinbase-learned/home
 https://sites.google.com/view/coinbase-learnn/home
 https://sites.google.com/view/coinbase-live-view/home
 https://sites.google.com/view/coinbase-login-contact/home
@@ -404,6 +407,7 @@ https://sites.google.com/view/coinbase-startd/home
 https://sites.google.com/view/coinbase-started-/home
 https://sites.google.com/view/coinbase-started/home
 https://sites.google.com/view/coinbase-static/home
+https://sites.google.com/view/coinbase-store/home
 https://sites.google.com/view/coinbase-textens/home
 https://sites.google.com/view/coinbase-used/home
 https://sites.google.com/view/coinbase-user-/home
@@ -771,6 +775,7 @@ https://sites.google.com/view/extensiongetting-qoin/home
 https://sites.google.com/view/extensionmax-en/home
 https://sites.google.com/view/extensionpro/home
 https://sites.google.com/view/extensions-koin-begin/home
+https://sites.google.com/view/extensionus-en/home
 https://sites.google.com/view/extensionweb/home
 https://sites.google.com/view/extensionwebcoinbase/home
 https://sites.google.com/view/extenson-en-us/home
@@ -1793,6 +1798,7 @@ https://sites.google.com/view/walle-exodus/home
 https://sites.google.com/view/wallet-coibs/home
 https://sites.google.com/view/wallet-exd-us/home
 https://sites.google.com/view/wallet-home-qoinbase/home
+https://sites.google.com/view/wallet-link-coinbase/home
 https://sites.google.com/view/wallete-coinbase/home
 https://sites.google.com/view/wallets--coinbase-/home
 https://sites.google.com/view/wallets-coinbase-/home
