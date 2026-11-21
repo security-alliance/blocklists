@@ -78680,8 +78680,6 @@
 ||secure-chat.host^$all
 ||silofinance.host^$all
 ||1inchwallet.stakingreward.host^$all
-||across-protocols.stakingreward.host^$all
-||acrossprotocol.stakingreward.host^$all
 ||tronlink.host^$all
 ||coinbase-logiin.blogspot.hr^$all
 ||coinbase-login.blogspot.hr^$all
@@ -114139,6 +114137,7 @@
 ||kinetiqallocations.xyz^$all
 ||kinetiqballot.xyz^$all
 ||kinetiqbridge.xyz^$all
+||kinetiqc.xyz^$all
 ||kinetiqdao.xyz^$all
 ||kinetiqdashboard.xyz^$all
 ||kinetiqecosystem.xyz^$all

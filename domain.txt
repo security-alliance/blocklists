@@ -78680,8 +78680,6 @@ app.rayis.host
 secure-chat.host
 silofinance.host
 1inchwallet.stakingreward.host
-across-protocols.stakingreward.host
-acrossprotocol.stakingreward.host
 tronlink.host
 coinbase-logiin.blogspot.hr
 coinbase-login.blogspot.hr
@@ -114139,6 +114137,7 @@ kinetiqallocation.xyz
 kinetiqallocations.xyz
 kinetiqballot.xyz
 kinetiqbridge.xyz
+kinetiqc.xyz
 kinetiqdao.xyz
 kinetiqdashboard.xyz
 kinetiqecosystem.xyz
