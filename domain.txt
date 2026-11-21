@@ -1419,7 +1419,6 @@ earn-zeal.app
 ecardwallet.app
 echo-copy.app
 echo-space.app
-echolocation.app
 echop.app
 eco-pools.app
 ecopools.app

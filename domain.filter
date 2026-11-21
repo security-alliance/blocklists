@@ -1419,7 +1419,6 @@
 ||ecardwallet.app^$all
 ||echo-copy.app^$all
 ||echo-space.app^$all
-||echolocation.app^$all
 ||echop.app^$all
 ||eco-pools.app^$all
 ||ecopools.app^$all
