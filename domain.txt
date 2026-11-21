@@ -76985,7 +76985,6 @@ access8497.fun
 acessportal-robinhood00-live.fun
 acoount-girocash.fun
 adopter-alt.fun
-adopters-alt.fun
 aeroecosystem.fun
 aidrops.fun
 airdlrop.fun
