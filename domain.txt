@@ -19439,7 +19439,6 @@ okx-cn.club
 okx-com.club
 okx-okx.club
 onchain-dex.club
-onefootball.club
 onefootballs.club
 opnclawx.club
 opneclawai.club
@@ -114057,7 +114056,6 @@ jupiter-foundatlon.xyz
 jupiter-site.xyz
 jupiter-verify.xyz
 jupitercitizen.xyz
-jupitercores.xyz
 jupiterget.xyz
 jupsol-portal.xyz
 jupverse.xyz
