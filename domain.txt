@@ -114707,7 +114707,6 @@ nado-treasury.xyz
 nado-xyz.xyz
 nadso.xyz
 nafdo.xyz
-nanovita-rewards.xyz
 nanovitalabs-claims.xyz
 nanovitalabs-distributions.xyz
 nasdo.xyz
@@ -114838,7 +114837,6 @@ nilesthecroc.xyz
 nillion-event.xyz
 nillion-migration.xyz
 nillion-portal.xyz
-nillion-vault.xyz
 nillion-vote.xyz
 nillion-votes.xyz
 nimiqstake.xyz
@@ -116997,7 +116995,6 @@ soluckspin.xyz
 solution-interfaces.xyz
 solutiondappsolve.xyz
 solv-rewards.xyz
-solv-vault.xyz
 solvedapp.xyz
 solvedapps.xyz
 solveddapp.xyz
@@ -118028,7 +118025,6 @@ virtualsapps.xyz
 virtualsprotocol-event.xyz
 virtualsprotocol-join.xyz
 virtualsprotocol-registrations.xyz
-virtualsprotocol-vault.xyz
 virtualsprotocol-vote.xyz
 virtualsprotocol-voting.xyz
 visual-studio.xyz
