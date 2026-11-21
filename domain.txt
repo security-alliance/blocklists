@@ -107212,6 +107212,7 @@ sure-bridge-plus.top
 sushi-dex.top
 sushi-trade.top
 cap.sushiag.top
+cow.sushiag.top
 olas.sushiag.top
 strk.sushiag.top
 twt.sushiag.top
