@@ -32579,6 +32579,7 @@ pendle-finance.firebaseapp.com
 plether-fi.firebaseapp.com
 plether-testnet.firebaseapp.com
 polymarket-en.firebaseapp.com
+polymarketen.firebaseapp.com
 ponsfamily-co.firebaseapp.com
 ponsfamily-io.firebaseapp.com
 rabbywallet.firebaseapp.com
@@ -118516,7 +118517,6 @@ web-con.xyz
 web-etherfi.xyz
 web-giftcenter.xyz
 web-okx.xyz
-web160526-a1.xyz
 web3-bounty.xyz
 web3-hongkong.xyz
 web3-jupiters.xyz

@@ -32579,6 +32579,7 @@
 ||plether-fi.firebaseapp.com^$all
 ||plether-testnet.firebaseapp.com^$all
 ||polymarket-en.firebaseapp.com^$all
+||polymarketen.firebaseapp.com^$all
 ||ponsfamily-co.firebaseapp.com^$all
 ||ponsfamily-io.firebaseapp.com^$all
 ||rabbywallet.firebaseapp.com^$all
@@ -118516,7 +118517,6 @@
 ||web-etherfi.xyz^$all
 ||web-giftcenter.xyz^$all
 ||web-okx.xyz^$all
-||web160526-a1.xyz^$all
 ||web3-bounty.xyz^$all
 ||web3-hongkong.xyz^$all
 ||web3-jupiters.xyz^$all
