@@ -19201,7 +19201,6 @@ stable-rewards.cloud
 1lnch.stakingreward.cloud
 2z.stakingreward.cloud
 astar-networks.stakingreward.cloud
-blue.stakingreward.cloud
 bluefins.stakingreward.cloud
 build-on-bobs.stakingreward.cloud
 builds-on-bob.stakingreward.cloud
