@@ -66242,6 +66242,7 @@ canton-tge-net.pages.dev
 canton-tges-com.pages.dev
 canton-tges-net.pages.dev
 canton-vote.pages.dev
+canton-votehub55.pages.dev
 canton-votes.pages.dev
 cantoneco.pages.dev
 cantonnetwork.pages.dev
