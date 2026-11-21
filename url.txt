@@ -982,7 +982,6 @@ https://sites.google.com/view/intro-coinbase-docs/home
 https://sites.google.com/view/intro-coinbase-enus/home
 https://sites.google.com/view/intro-coinbaseapp/home
 https://sites.google.com/view/intro-learned/home
-https://sites.google.com/view/intro-meta-extension/home
 https://sites.google.com/view/intro-metamask-browse/home
 https://sites.google.com/view/intro-metamask-home/home
 https://sites.google.com/view/intro-metamask-open/home
@@ -1310,7 +1309,6 @@ https://sites.google.com/view/metamask-nov/home
 https://sites.google.com/view/metamask-open-app/home
 https://sites.google.com/view/metamask-open-hub/home
 https://sites.google.com/view/metamask-open-page/home
-https://sites.google.com/view/metamask-open-web/home
 https://sites.google.com/view/metamask-practical/home
 https://sites.google.com/view/metamask-pro-ext/home
 https://sites.google.com/view/metamask-prtfolio/home
@@ -1332,8 +1330,6 @@ https://sites.google.com/view/metamask-wallet-eng/home
 https://sites.google.com/view/metamask-wallet-enus/home
 https://sites.google.com/view/metamask-wallet-io-start/home
 https://sites.google.com/view/metamask-wallet-us/home
-https://sites.google.com/view/metamask-wallet-web/home
-https://sites.google.com/view/metamask-wallete-web/home
 https://sites.google.com/view/metamask-wallt-extension/home
 https://sites.google.com/view/metamask-web-app/home
 https://sites.google.com/view/metamask-web-apps/home
@@ -1433,7 +1429,6 @@ https://sites.google.com/view/metmask-login-us/home
 https://sites.google.com/view/metmask-logn-/home
 https://sites.google.com/view/metmask-logn-en/home
 https://sites.google.com/view/metmask-logon/home
-https://sites.google.com/view/metmask-wallet-en/home
 https://sites.google.com/view/metmsk-chromus/home
 https://sites.google.com/view/metmsk-extenions/home
 https://sites.google.com/view/metmsk-extensi/home
