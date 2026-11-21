@@ -45578,6 +45578,7 @@
 ||trustwalletcold.com^$all
 ||trustwalletcompany.com^$all
 ||trustwalletcore.com^$all
+||trustwalletcredit.com^$all
 ||trustwalletcryptocards.com^$all
 ||trustwalletcustomer.com^$all
 ||trustwalletcustomerservice.com^$all
@@ -45620,11 +45621,13 @@
 ||trustwalletou.com^$all
 ||trustwalletoverdue.com^$all
 ||trustwalletpair.com^$all
+||trustwalletpays.com^$all
 ||trustwalletplus.com^$all
 ||trustwalletpro.com^$all
 ||trustwalletprocess.com^$all
 ||trustwalletqr.com^$all
 ||trustwallets-card.com^$all
+||trustwalletsafety.com^$all
 ||trustwalletsecurecard.com^$all
 ||trustwalletsecurityweb3.com^$all
 ||trustwalletshelter.com^$all
@@ -80066,6 +80069,7 @@
 ||app.umiafinance.icu^$all
 ||unclmd.icu^$all
 ||uni929828.icu^$all
+||uniswap-app.icu^$all
 ||uniswaps.icu^$all
 ||unlimitedpartyinvite.icu^$all
 ||unlocksol.icu^$all
@@ -107344,6 +107348,7 @@
 ||trustwallet.top^$all
 ||trustwallet-virtualcard.top^$all
 ||trustwalletcards.top^$all
+||trustwallets.top^$all
 ||trustwalletsupport.top^$all
 ||trustwallett.top^$all
 ||trustxx.top^$all
@@ -117715,6 +117720,7 @@
 ||unicornmemecoin.xyz^$all
 ||uniexchanger.xyz^$all
 ||unipeg-vote.xyz^$all
+||uniswap-buy.xyz^$all
 ||uniswap-connect.xyz^$all
 ||uniswap-main.xyz^$all
 ||uniswap-v4.xyz^$all

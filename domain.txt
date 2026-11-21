@@ -45578,6 +45578,7 @@ trustwalletcloud.com
 trustwalletcold.com
 trustwalletcompany.com
 trustwalletcore.com
+trustwalletcredit.com
 trustwalletcryptocards.com
 trustwalletcustomer.com
 trustwalletcustomerservice.com
@@ -45620,11 +45621,13 @@ trustwalletnfc.com
 trustwalletou.com
 trustwalletoverdue.com
 trustwalletpair.com
+trustwalletpays.com
 trustwalletplus.com
 trustwalletpro.com
 trustwalletprocess.com
 trustwalletqr.com
 trustwallets-card.com
+trustwalletsafety.com
 trustwalletsecurecard.com
 trustwalletsecurityweb3.com
 trustwalletshelter.com
@@ -80066,6 +80069,7 @@ ultrabet-vote.icu
 app.umiafinance.icu
 unclmd.icu
 uni929828.icu
+uniswap-app.icu
 uniswaps.icu
 unlimitedpartyinvite.icu
 unlocksol.icu
@@ -107344,6 +107348,7 @@ trustw-cards.top
 trustwallet.top
 trustwallet-virtualcard.top
 trustwalletcards.top
+trustwallets.top
 trustwalletsupport.top
 trustwallett.top
 trustxx.top
@@ -117715,6 +117720,7 @@ unichaincoin.xyz
 unicornmemecoin.xyz
 uniexchanger.xyz
 unipeg-vote.xyz
+uniswap-buy.xyz
 uniswap-connect.xyz
 uniswap-main.xyz
 uniswap-v4.xyz
