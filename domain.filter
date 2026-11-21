@@ -816,6 +816,7 @@
 ||support-htx.base44.app^$all
 ||based-one.app^$all
 ||basefdn.app^$all
+||basemigration.app^$all
 ||basepolymarket.app^$all
 ||baseuniswap.app^$all
 ||basx.app^$all
@@ -84640,6 +84641,7 @@
 ||stonebrokers.io^$all
 ||circles.stpz.io^$all
 ||strezor.io^$all
+||sui-swap.io^$all
 ||sui-wallet.io^$all
 ||suite-app-com.io^$all
 ||suite-com-app.io^$all

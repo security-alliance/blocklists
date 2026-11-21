@@ -816,6 +816,7 @@ suiteapps-trezencdn.base44.app
 support-htx.base44.app
 based-one.app
 basefdn.app
+basemigration.app
 basepolymarket.app
 baseuniswap.app
 basx.app
@@ -84640,6 +84641,7 @@ stellarterm.io
 stonebrokers.io
 circles.stpz.io
 strezor.io
+sui-swap.io
 sui-wallet.io
 suite-app-com.io
 suite-com-app.io
