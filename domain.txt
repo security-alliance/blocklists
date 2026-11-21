@@ -115228,7 +115228,6 @@ phase2-flr.xyz
 phase2-vote.xyz
 phase2-xrpl.xyz
 phase6-asterdex.xyz
-phonixtrade.xyz
 photon-solana.xyz
 cattheftauto.pikenians.xyz
 pilerlab.xyz
