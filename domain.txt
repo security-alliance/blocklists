@@ -83055,6 +83055,7 @@ krakendlugenn.gitbook.io
 krakeneblogginn.gitbook.io
 krakenhclogin.gitbook.io
 krakenloogin.gitbook.io
+krakennowlog.gitbook.io
 krakennylog.gitbook.io
 krakenoeeglloin.gitbook.io
 krakensslogin.gitbook.io
