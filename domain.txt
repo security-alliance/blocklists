@@ -75247,6 +75247,7 @@ trustwallet.web.do
 bulldogswap.dog
 buytrx.dog
 coinw.dog
+google-meet-invites-conn.dog
 huskyswap.dog
 little574.dog
 money-x.dog
@@ -94796,6 +94797,7 @@ ms365updates.online
 msl-live.online
 msn-live.online
 msteamsinvites.online
+msteamsinvitesmeeting.online
 msteamsjoinmeetinginvite.online
 msteamsjoinmeetinginvites.online
 msteamsmeetings.online
@@ -106588,6 +106590,7 @@ midnight-pd.top
 migration-dashboard.top
 minehoodio.top
 minesol.top
+mircrosoftteamsinvite.top
 mixeroshop.top
 mixtum-mixer.top
 mkljhgf951.top
