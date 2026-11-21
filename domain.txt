@@ -426,7 +426,6 @@ webapp-rabby-ext.mythex.ai
 odius.ai
 osarc.ai
 quranum.ai
-raptool.ai
 appupholdcdn.relumesite.ai
 enternl.relumesite.ai
 home-rabbywallet.relumesite.ai
@@ -2006,7 +2005,6 @@ mira-net.app
 mnemonic-ledger.app
 claim.monad-portal.app
 moongem.app
-moonlisting.app
 moonshot-verif.app
 moonshot-vote.app
 moonshote.app
@@ -12580,18 +12578,15 @@ logixbanking.at
 maker-app.at
 me-skinport.at
 mgbx-login.at
-mr-ledger.at
 mrgamb.at
 my-atomic.at
 my-cakewallet.at
 my-electrum.at
-my-exodus.at
 my-metamask.at
 my-monero.at
 my-phantom.at
 my-rabby.at
 my-rainbow.at
-my-safepal.at
 my-tronlink.at
 my-xaman.at
 myrnonero.at
@@ -14792,7 +14787,6 @@ trezor.care
 polymarket.careers
 temple357.careers
 1do.casa
-aave.casa
 aazuencorxax.casa
 acrs.casa
 acrsoss.casa
@@ -21102,7 +21096,6 @@ com-weblive.co
 cryptogame.adspay.com.co
 airtm2.com.co
 airtm5.com.co
-app-exodus.com.co
 bestchange.com.co
 bitso.com.co
 blockchain-wallet.com.co
@@ -28376,7 +28369,6 @@ cm-annulation-operation.com
 cm-coinbase.com
 cm-kraken.com
 cm-max.com
-cmbarter3.com
 cmcm-membre.com
 cme-app.com
 cme-cmetrad.com
@@ -29799,7 +29791,6 @@ bitrefill.com.com-search-q-bitrefill-oq-bi-gslcrp-egzjahjvbwuqbggbeeuyozigca.com
 bitrefill.com-search-q-bitrefill-oq-bi-gslcrp-egzjahjvbwuqbggbeeuyozigcaa.com
 pay-bitrefill.com-search-q-bitrefill-oq-bi-gslcrp-egzjahjvbwuqbggbeeuyozigcaa.com
 com-services-manager.com
-com-sign-in.com
 com-softwares.com
 com-spacecenter.com
 com-supportdesk.com
@@ -32805,7 +32796,6 @@ flashusdtsystem.com
 flavinexitrade-ai.com
 fledgechain.com
 fleet-ledger.com
-flernetwork.com
 flex-land.com
 flexy-go.com
 flexyfund-ia.com
@@ -43574,7 +43564,6 @@ spx33k-cryptoslate.com
 spx49k-coinpwire.com
 spx49k-cointelegraph.com
 spx49k-cryptoslate.com
-spx6900lab.com
 spx85k-coinprwire.com
 spx85k-cointelegraph.com
 spx85k-cryptoslate.com
@@ -54038,7 +54027,6 @@ litewallet.dev
 app.lobstr.dev
 lombardfinance.dev
 mantabridge.dev
-mbrueckner.dev
 auth.meowcore.dev
 reseller.meowcore.dev
 metaweb.dev
@@ -67706,7 +67694,6 @@ extension-coinbse-waltt.pages.dev
 extension-metamsk-io.pages.dev
 extension-moz-trust-wallet-com.pages.dev
 extensipn-trust-wallet-com.pages.dev
-extensivedapnod.pages.dev
 extenssion-suii-wallet-us.pages.dev
 extn-metamsk-us.pages.dev
 extnsion-wll-base.pages.dev
@@ -67987,7 +67974,6 @@ get-livelogn-ledgr.pages.dev
 get-metamsk.pages.dev
 get-paybise-io-us.pages.dev
 get-redotpay.pages.dev
-get-rexas.pages.dev
 get-robinhood.pages.dev
 get-robinhood-lgn.pages.dev
 get-start-ledgr-en.pages.dev
@@ -75164,7 +75150,6 @@ stakewise.digital
 starknets.digital
 stonk-fun.digital
 stonkfun.digital
-superformfoundation.digital
 supportlist.digital
 systemcrafthub.digital
 t-card.digital
@@ -81274,7 +81259,6 @@ ledger-com.info
 ledgerwallet.info
 ledoux-exchange.info
 legalaction-x.info
-legaldecision-x.info
 legalfile-x.info
 legalhelp-x.info
 legalrecord-x.info
@@ -81999,7 +81983,6 @@ alphadp.ink
 alphapepe.ink
 ambeint.ink
 amlcheck.ink
-amlservice.ink
 apexsyshire.ink
 app-axis.ink
 app-firelight.ink
@@ -87703,7 +87686,6 @@ debridgedesktops.live
 debridgemigrate.live
 decatloshop.live
 decatlshop.live
-decentconnectiondapps.live
 deepbookonsui.live
 deeplink-ledger.live
 deepsafenetwork.live
@@ -89387,7 +89369,6 @@ verifyyourwallet.live
 version-ledger.live
 version3-ledger.live
 vertexfinmkts.live
-vion-xmarket.live
 virtualms-meet.live
 virtuals.live
 virtualteamsinvites.live
@@ -91220,7 +91201,6 @@ amlchecks.net
 amlchecksbot.net
 amlcheckservice.net
 amlexplorercheck.net
-amlfilter.net
 amm-cumberland.net
 amm-wincent.net
 andafbit.net
@@ -96231,7 +96211,6 @@ hyperliquida.org
 hyperliquidpc.org
 hyperliquids-distribution.org
 hyperstake.org
-hypurrfi.org
 ibibifc.org
 ickao.org
 iconbytetrust.org
@@ -96375,7 +96354,6 @@ lido-en.org
 lidoex.org
 lidofichain.org
 lidopoints.org
-lidoprotocol.org
 lightzenryx.org
 limitless-uk.org
 lineabridge.org
@@ -96745,7 +96723,6 @@ polyfoundation.org
 polygon-explorer.org
 polygonbridge.org
 polygondrop.org
-polyield.org
 polymarke1.org
 polymarke3.org
 polymarke4.org
@@ -99950,7 +99927,6 @@ firstdigitallabs.run
 flarenetwork.run
 fuelfoundation.run
 gizaprotocol.run
-hash256.run
 hifi-v3.run
 hoodlink.run
 hubxyz.run
@@ -99973,10 +99949,8 @@ mapleprotocol.run
 echo.marcio.run
 mechanica.run
 meets-invites.run
-mento.run
 meridians.run
 minto.run
-nests.run
 noclaims.run
 nukes.run
 nuthouse.run
@@ -101829,7 +101803,6 @@ stonkbrorers-vote.sbs
 stonkbrorersvotes.sbs
 stonkfun.sbs
 strata-markets.sbs
-stuartswap.sbs
 stuckfunds.sbs
 sumcoust-personal.sbs
 sup-binance.sbs
@@ -102647,7 +102620,6 @@ rewards.allocations-firelight.site
 alphapepetoken.site
 aml-verification.site
 amlround.site
-amlscreening.site
 ansem-claim.site
 anymorem.site
 app-apyx.site
@@ -103171,7 +103143,6 @@ ruto77nl1.site
 rvlt-bonus.site
 safeassetscan.site
 salarox.site
-satsterminal.site
 sbivip.site
 scalableanalyzer.site
 scalping.site
@@ -110043,7 +110014,6 @@ rainbet.wine
 zoom.wine
 ai-secure.work
 aml-tron.work
-amlservice.work
 biillions-net.work
 blacksbullsol.work
 bybit.work
@@ -112114,7 +112084,6 @@ dividends-usepaid.xyz
 djanm.xyz
 djdjjjjjjjjj.xyz
 djgja242dfa.xyz
-dlicom.xyz
 dnau-getfkdwhocares123.xyz
 docs-hyperfoundation.xyz
 dodoex.xyz
@@ -112337,7 +112306,6 @@ embercurvesnapshots.xyz
 embercurvestake.xyz
 embercurvestakes.xyz
 embercurvetoken.xyz
-emberprotocol.xyz
 emberust.xyz
 emrtoken.xyz
 enlist-3jane.xyz
@@ -113459,7 +113427,6 @@ grass-foundatiion.xyz
 grassclaim.xyz
 grassdashboard.xyz
 grassget.xyz
-grasslayers.xyz
 grid-ai.xyz
 gridexswap.xyz
 grove-voting.xyz
@@ -117978,7 +117945,6 @@ vault-firelight.xyz
 vault-flarenetworks.xyz
 vault-hyperfoundation.xyz
 vault-lighter.xyz
-vault-login.xyz
 vault-morpho.xyz
 vault-ore.xyz
 vault-otc.xyz
