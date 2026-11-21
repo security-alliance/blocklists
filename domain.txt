@@ -19249,7 +19249,6 @@ us-pythnetwork.stakingreward.cloud
 us-scrolls.stakingreward.cloud
 us-sophoon.stakingreward.cloud
 us-strk.stakingreward.cloud
-us-sui-wallet.stakingreward.cloud
 us-suins.stakingreward.cloud
 event.standx.cloud
 strata-markets.cloud
