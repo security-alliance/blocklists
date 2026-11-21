@@ -29456,6 +29456,7 @@ bitrefill.com-gift-cards-wif.com
 com-gift-cards-xlm.com
 bitrefill.com-gift-cards-xmr.com
 com-gift-cards-xrp.com
+bitrefill.com-gift-cards-xtz.com
 bitrefill.com-gift-cards-zec.com
 com-gift-esim-a04.com
 com-gift-esim-aa04.com
@@ -66914,6 +66915,7 @@ deying-ledger-app.pages.dev
 dfdfdufddfusdsds.pages.dev
 dfhdfhdfhdh.pages.dev
 dflow-claims.pages.dev
+dflow-rewards.pages.dev
 dfndvbnc.pages.dev
 dfsfsdf.pages.dev
 dfshsdfhdsfh.pages.dev
