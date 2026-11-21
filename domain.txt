@@ -40996,11 +40996,13 @@ rainbet-bet.com
 rainbet-bet-au.com
 rainbet-bonos-espana.com
 rainbet-bonus.com
+rainbet-bonuses.com
 rainbet-br.com
 rainbet-btc.com
 rainbet-ca-online.com
 rainbet-cad.com
 rainbet-canada.com
+rainbet-canada-ca.com
 rainbet-casino.com
 rainbet-casino-1.com
 rainbet-casino-365.com
@@ -41131,6 +41133,7 @@ rainbet-magyar.com
 rainbet-mex.com
 rainbet-mx.com
 rainbet-nederland.com
+rainbet-new-zealand.com
 rainbet-newzealand.com
 rainbet-newzealand1.com
 rainbet-nl.com
