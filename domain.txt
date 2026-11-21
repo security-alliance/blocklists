@@ -33153,7 +33153,6 @@ fxporcon.com
 fxporix.com
 fxreturn.com
 fxrp-firelight.com
-fxrp-flare.com
 fxrp-flarenetworks.com
 fxrp-phase2.com
 fxrp-portal.com
@@ -97586,6 +97585,7 @@ win-ledger.org
 winswaps.org
 wire-trust.org
 wire-tw.org
+wirexapp.org
 wlf-ledger.org
 wlfi-staking.org
 wlfin.org
