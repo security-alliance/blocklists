@@ -51633,7 +51633,6 @@ view-metmaskscdn.wixstudio.com
 view-metmaskus.wixstudio.com
 view-mettamskapp.wixstudio.com
 view-moanpey.wixstudio.com
-view-moanpey-cdn.wixstudio.com
 view-moonpey-cd.wixstudio.com
 view-ndaxx-ca.wixstudio.com
 view-qucoin.wixstudio.com
@@ -80556,7 +80555,6 @@ pikashow-apk.org.in
 pikashowapk.org.in
 pikashows.org.in
 pikashowstv.org.in
-polymarket.org.in
 spotify.org.in
 trezosuite.org.in
 phantom-load.in
