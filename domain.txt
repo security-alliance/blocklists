@@ -8644,7 +8644,6 @@ solmobile.app
 solomonslab.app
 solroll.app
 solspn.app
-solsticefinances.app
 points.solsticesfinance.app
 solstorm.app
 solsw.app
