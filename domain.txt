@@ -19232,7 +19232,6 @@ pudgy-penguins.stakingreward.cloud
 rls.stakingreward.cloud
 sui-name-service.stakingreward.cloud
 typus-finance.stakingreward.cloud
-us-bluefins.stakingreward.cloud
 us-cgpt.stakingreward.cloud
 us-degens.stakingreward.cloud
 us-link.stakingreward.cloud
@@ -112510,7 +112509,6 @@ events-apyxfi.xyz
 events-chainlink.xyz
 events-flr.xyz
 events-heisted.xyz
-events-jitonetwork.xyz
 events-ntm.xyz
 events-papertrade.xyz
 events-shardeum.xyz
