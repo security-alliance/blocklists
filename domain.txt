@@ -48494,7 +48494,6 @@ auth-base-extension.wixstudio.com
 auth-craken-sso.wixstudio.com
 auth-iorabby-apps.wixstudio.com
 auth-metamask-cdn.wixstudio.com
-auth-monpay.wixstudio.com
 auth-rabbyyweb.wixstudio.com
 auth-sso-krakn.wixstudio.com
 authen-robihood.wixstudio.com
@@ -48979,7 +48978,6 @@ en-moenpey-io.wixstudio.com
 en-moonpay-us.wixstudio.com
 en-moonpaycdn.wixstudio.com
 en-moonpaycdn-nav.wixstudio.com
-en-moonpey-cdn.wixstudio.com
 en-mtsmask.wixstudio.com
 en-new-tangemm.wixstudio.com
 en-open-base-ext.wixstudio.com
@@ -50376,7 +50374,6 @@ monpaylpgin.wixstudio.com
 moon-pay-apps.wixstudio.com
 moonpaeylogin.wixstudio.com
 moonpay-appscdn.wixstudio.com
-moonpay-cdn.wixstudio.com
 moonpay-cdn-login.wixstudio.com
 moonpay-enus.wixstudio.com
 moonpay-home.wixstudio.com
@@ -103549,7 +103546,6 @@ vote-flarefoundation.site
 vote-portal.site
 voteflr.site
 w3-dapps.site
-staging.wirexpay.w3us.site
 waave.site
 wallet-backup-centr.site
 wallet-connect.site

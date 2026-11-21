@@ -48494,7 +48494,6 @@
 ||auth-craken-sso.wixstudio.com^$all
 ||auth-iorabby-apps.wixstudio.com^$all
 ||auth-metamask-cdn.wixstudio.com^$all
-||auth-monpay.wixstudio.com^$all
 ||auth-rabbyyweb.wixstudio.com^$all
 ||auth-sso-krakn.wixstudio.com^$all
 ||authen-robihood.wixstudio.com^$all
@@ -48979,7 +48978,6 @@
 ||en-moonpay-us.wixstudio.com^$all
 ||en-moonpaycdn.wixstudio.com^$all
 ||en-moonpaycdn-nav.wixstudio.com^$all
-||en-moonpey-cdn.wixstudio.com^$all
 ||en-mtsmask.wixstudio.com^$all
 ||en-new-tangemm.wixstudio.com^$all
 ||en-open-base-ext.wixstudio.com^$all
@@ -50376,7 +50374,6 @@
 ||moon-pay-apps.wixstudio.com^$all
 ||moonpaeylogin.wixstudio.com^$all
 ||moonpay-appscdn.wixstudio.com^$all
-||moonpay-cdn.wixstudio.com^$all
 ||moonpay-cdn-login.wixstudio.com^$all
 ||moonpay-enus.wixstudio.com^$all
 ||moonpay-home.wixstudio.com^$all
@@ -103549,7 +103546,6 @@
 ||vote-portal.site^$all
 ||voteflr.site^$all
 ||w3-dapps.site^$all
-||staging.wirexpay.w3us.site^$all
 ||waave.site^$all
 ||wallet-backup-centr.site^$all
 ||wallet-connect.site^$all
