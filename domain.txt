@@ -29452,6 +29452,8 @@ com-gift-cards-doge.com
 com-gift-cards-dot.com
 com-gift-cards-eth.com
 com-gift-cards-fil.com
+bitrefill.com-gift-cards-hbar.com
+bitrefill.com-gift-cards-icp.com
 bitrefill.com-gift-cards-imx.com
 bitrefill.com-gift-cards-inj.com
 bitrefill.com-gift-cards-ldo.com
