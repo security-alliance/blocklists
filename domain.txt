@@ -27852,6 +27852,7 @@ chainlinkfunds.com
 chainlinkhr.com
 chainotown.com
 arbitrum.chainpouch.com
+optimism.chainpouch.com
 chainpulseke.com
 chainpulsekn.com
 chainpulsekr.com
