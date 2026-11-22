@@ -22375,7 +22375,6 @@ login.2ccloud.com
 2fn3.com
 2fn6.com
 2gledger.com
-arbitrum.2healthandwealth.com
 2kraken2.com
 2pj10.com
 2step-verify.com
@@ -78397,6 +78396,7 @@ moonshotcommunitylist.help
 moonslogin.help
 moonvote.help
 my-rewards.help
+polymarket.myholdings.help
 myrewards.help
 offer-verification512.help
 office-account-verify.help
