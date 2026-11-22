@@ -81823,7 +81823,6 @@ trustwallet.ing
 v3-changelly.ing
 0-zeddex.ink
 0rca.ink
-app.11arnawsap.ink
 1icnh.ink
 1wintoken.ink
 aaev.ink
