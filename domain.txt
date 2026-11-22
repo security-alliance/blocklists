@@ -17989,7 +17989,6 @@ cowswap-fi.click
 cowswap-finance.click
 cowswap-fl.click
 crusader-claimable.click
-cryptobetwin.click
 cryptofixer.click
 cryptomus-payment.click
 curve-dex.click
@@ -25592,7 +25591,6 @@ attach-x.com
 attachment-google.com
 attachment-x.com
 attempts-coinbase.com
-atuwin.com
 atvbuyer.com
 atvids.com
 au-coinledger.com
@@ -30611,7 +30609,6 @@ app-uniswap-org.dashboardv4.com
 debridge.dashboarq.com
 dashbopen.com
 dashboradmetaphrase.com
-dasowin.com
 data-bridge-x.com
 data-protection-coinbase.com
 dataarchive-x.com
@@ -35838,7 +35835,6 @@ jupagwallet.com
 jupcitizen.com
 jupcitizens.com
 jupclaims.com
-jupewin.com
 juphaven.com
 jupiater-sawp.com
 jupitefoundation.com
@@ -38547,7 +38543,6 @@ nice-proposal.com
 niceaccs.com
 nicecas.com
 m.nicesmsotpverify.com
-nicexplay.com
 nick-coinbase.com
 nicovrain.com
 niftys.com
@@ -39867,7 +39862,6 @@ poavax.com
 poawin.com
 pocketbitcoindesktop.com
 pocketoption-verify.com
-podawin.com
 poergamb.com
 poerux.com
 collab.pofs-land.com
@@ -52082,7 +52076,6 @@ xander-capitalgains.com
 xando-dapp.com
 xandomapp.com
 xantrustpad.com
-xaowin.com
 xarnan-allocation.com
 xassistantagent.com
 xaudots.com
@@ -79568,7 +79561,6 @@ proposals-zama.icu
 zest.protocol-allocations.icu
 zest.protocol-reward.icu
 zest.protocol-rewards.icu
-prowinners.icu
 pugdy-app.icu
 purplebitcoin.icu
 puttyversio33.icu
