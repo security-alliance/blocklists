@@ -11227,6 +11227,7 @@
 ||syntax-chain.vercel.app^$all
 ||system-orbit.vercel.app^$all
 ||system-vector.vercel.app^$all
+||t-premium-cl.vercel.app^$all
 ||tactical-stake-relay.vercel.app^$all
 ||tafbif-he4bn7cg.vercel.app^$all
 ||test-ledger.vercel.app^$all
@@ -65353,6 +65354,7 @@
 ||94-stonkbroker-clutchmarkets.pages.dev^$all
 ||94-venice.pages.dev^$all
 ||94-view-kinetiq.pages.dev^$all
+||94f3-colnbase-listings-4f65.pages.dev^$all
 ||95-0xfluid.pages.dev^$all
 ||95-allocation-yieldfields.pages.dev^$all
 ||95-allowlist-ascendlaunch.pages.dev^$all
