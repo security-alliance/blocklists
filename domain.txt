@@ -11750,7 +11750,6 @@ votes-asterdex.app
 votes-ethfi.app
 votes-firelight.app
 votes-flare.app
-votes-flaresnetwork.app
 votes-flaresnetworks.app
 votes-flarsenetworks.app
 votes-kinetiq.app
@@ -93641,7 +93640,6 @@ worldliberty-financial.network
 www-canton.network
 x-coin.network
 xdcwallet.network
-xrp-fi-flare.network
 xrp-flaress.network
 xrpfi-flare.network
 xtz.network

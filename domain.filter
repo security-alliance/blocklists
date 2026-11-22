@@ -11750,7 +11750,6 @@
 ||votes-ethfi.app^$all
 ||votes-firelight.app^$all
 ||votes-flare.app^$all
-||votes-flaresnetwork.app^$all
 ||votes-flaresnetworks.app^$all
 ||votes-flarsenetworks.app^$all
 ||votes-kinetiq.app^$all
@@ -93641,7 +93640,6 @@
 ||www-canton.network^$all
 ||x-coin.network^$all
 ||xdcwallet.network^$all
-||xrp-fi-flare.network^$all
 ||xrp-flaress.network^$all
 ||xrpfi-flare.network^$all
 ||xtz.network^$all
