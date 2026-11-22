@@ -76699,6 +76699,7 @@
 ||getlist.forum^$all
 ||getlists.forum^$all
 ||getvotes.forum^$all
+||goodforgrill.forum^$all
 ||governance-firelight.forum^$all
 ||governance-flare.forum^$all
 ||help-vote.forum^$all
