@@ -8202,7 +8202,6 @@
 ||ondofinance.app^$all
 ||ondoglobalmarkets.app^$all
 ||ondostaking.app^$all
-||ondotokenization.app^$all
 ||ondovote.app^$all
 ||ondovoting.app^$all
 ||onewirex.app^$all
@@ -16513,7 +16512,6 @@
 ||hyperliquid.center^$all
 ||icloudphotos.center^$all
 ||injective.center^$all
-||orderly.center^$all
 ||otherside.center^$all
 ||polymarkethelp.center^$all
 ||retroactive.center^$all
@@ -114742,7 +114740,6 @@
 ||ondo-participate.xyz^$all
 ||ondo-perps.xyz^$all
 ||ondo-registrations.xyz^$all
-||ondo-reward.xyz^$all
 ||ondo-votes.xyz^$all
 ||ondo-votings.xyz^$all
 ||ondofinance-join.xyz^$all
@@ -115071,7 +115068,6 @@
 ||cattheftauto.pikenians.xyz^$all
 ||pilerlab.xyz^$all
 ||pinnocapital.xyz^$all
-||pitchwcd.xyz^$all
 ||pitchwcl.xyz^$all
 ||pitchwcr.xyz^$all
 ||pitchwct.xyz^$all
@@ -118618,7 +118614,6 @@
 ||zenzozo.xyz^$all
 ||zero-pass.xyz^$all
 ||zerofi-bridge.xyz^$all
-||zest-claim.xyz^$all
 ||zest-governance.xyz^$all
 ||zest-proposal.xyz^$all
 ||zest-protocol.xyz^$all

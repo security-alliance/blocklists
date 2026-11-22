@@ -8202,7 +8202,6 @@ ondo-voting.app
 ondofinance.app
 ondoglobalmarkets.app
 ondostaking.app
-ondotokenization.app
 ondovote.app
 ondovoting.app
 onewirex.app
@@ -16513,7 +16512,6 @@ flarenetwork.center
 hyperliquid.center
 icloudphotos.center
 injective.center
-orderly.center
 otherside.center
 polymarkethelp.center
 retroactive.center
@@ -114742,7 +114740,6 @@ ondo-claim.xyz
 ondo-participate.xyz
 ondo-perps.xyz
 ondo-registrations.xyz
-ondo-reward.xyz
 ondo-votes.xyz
 ondo-votings.xyz
 ondofinance-join.xyz
@@ -115071,7 +115068,6 @@ photon-solana.xyz
 cattheftauto.pikenians.xyz
 pilerlab.xyz
 pinnocapital.xyz
-pitchwcd.xyz
 pitchwcl.xyz
 pitchwcr.xyz
 pitchwct.xyz
@@ -118618,7 +118614,6 @@ zenzenzendrnzenzenzenzen.xyz
 zenzozo.xyz
 zero-pass.xyz
 zerofi-bridge.xyz
-zest-claim.xyz
 zest-governance.xyz
 zest-proposal.xyz
 zest-protocol.xyz
