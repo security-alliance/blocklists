@@ -8787,7 +8787,6 @@ treasury-flare.app
 treasury-pools-flarenetwork.app
 treasury-quantnetwork.app
 treasurypools-flarenetwork.app
-trezor-suite.app
 trezorrecovery.app
 trezorsafe7.app
 trezorsafesuite.app
@@ -13870,7 +13869,6 @@ lkmnygstaff.bond
 lloopparent.bond
 lmplpzmuch.bond
 lossfvtseh.bond
-loyalty-rewards.bond
 loykjsuffer.bond
 lppwyrwait.bond
 lqfiwdlp.bond
@@ -14163,7 +14161,6 @@ blind227.boutique
 okx.boutique
 zoom.boutique
 lido.app.br
-airdrop.com.br
 ancoradourohotel.com.br
 oabthe.arbitrum.com.br
 atende.bcmshop.com.br
@@ -14942,7 +14939,6 @@ trust-card.cash
 trustpay.cash
 trustwallet.cash
 trustwalletcard.cash
-usdttonaira.cash
 velo.cash
 vote-longbow.cash
 waitlist-checker.cash
@@ -17492,7 +17488,6 @@ trustwallet-asia.cfd
 trustwallet-com.cfd
 trustwalletcards.cfd
 truswallet.cfd
-tzrde-tw.cfd
 uas2-secureconnection.cfd
 uas3-secureconnection.cfd
 uas4-secureconnection.cfd
@@ -18989,7 +18984,6 @@ genesis-flt.cloud
 graniteassets.cloud
 grvt-network.cloud
 hederafund.cloud
-help-unlock-centre.cloud
 honeybee369vault-lobstrvault.cloud
 circle.srv1748596.hstgr.cloud
 termmax.hub-finance.cloud
@@ -20868,7 +20862,6 @@ winscpp.cn
 wmaynqe.cn
 www-coinbase.cn
 wwwbyte.cn
-wzoom.cn
 x-swap.cn
 xau-binance.cn
 xinmryv1.cn
@@ -21163,7 +21156,6 @@ golden-opp.co
 goldpocket.co
 google-meet.co
 governance-flarenetwork.co
-governance-stacks.co
 grandplay.co
 grvtfoundation.co
 haoshuo.co
@@ -24608,7 +24600,6 @@ adjsajdw.com
 adjustment-hotdocau.com
 admah.com
 admin-metamask.com
-admin-trezor.com
 administration-trustwallet.com
 adminsupport-helpdesk.com
 admiral-cas.com
@@ -25059,7 +25050,6 @@ aml-treatment-option.com
 aml-tron.com
 aml-trust.com
 aml-usdt.com
-aml-usdt-bybit.com
 aml-usdtscan.com
 aml-verification-eu.com
 aml-verifybot.com
@@ -30915,7 +30905,6 @@ devices-gmail.com
 devices-river.com
 devicesecurity-ledger.com
 devicesecurity-trezor.com
-deviceverify-google.com
 fhkbmgtpwpxe.devilshost.com
 wildcard.devilshost.com
 devkit-ledger.com
@@ -35924,9 +35913,6 @@ kahshi.com
 kaihu-tmgm.com
 kaikobot.com
 kairos-777.com
-kaiyun-bonus.com
-kaiyun-bonusbet.com
-kaiyun-fixture.com
 kaiyun-hotfix.com
 kaiyun-upgrade.com
 kakaonow.com
@@ -36282,7 +36268,6 @@ ktshepherdpermaculture.com
 kuailianquick.com
 kubukami.com
 kucoin-airdrop.com
-kucoin-compliance.com
 kucoin-faq.com
 kucoin-login.com
 kucoin006.com
@@ -37026,7 +37011,6 @@ magnuscapitalmarket.com
 magnyos.com
 aefjccfcdmgbmxmnmoetjmqrjsrxjgev.magyarora.com
 maibex.com
-mail-backup-trustwallet.com
 mail-coindesk.com
 mail-figure.com
 mail-huobi.com
@@ -39399,7 +39383,6 @@ palidex1.com
 polymarketpredictionai.com.palmpayservices.com
 palonexa.com
 pamelabusinesscreations7965.com
-pamelaszoomroom.com
 pamo-ledger.com
 kraken.com.support.bc1qa2qhnvgnuu929xnszhhsv6fnx38wpv2pzcwheq.panamericanco.com
 kraken.com.support.bc1qdvjvj3sh93ypwcer5gacyv6tgupr3avkryz90a.panamericanco.com
@@ -40175,7 +40158,6 @@ poregamb.com
 pornsfamily.com
 porovex.com
 porscheswe.com
-portaal-secure.com
 portafoliosiverperu.com
 portal-anfrage.com
 portal-arcium.com
@@ -40212,7 +40194,6 @@ portalaccess-coinbase.com
 portalbac.com
 portalbn.com
 portalbridges.com
-portaldistribution-recoverytrust.com
 portallink-whatsapp.com
 flare.portalnets.com
 portalredir.com
@@ -41742,7 +41723,6 @@ rektwin.com
 relacaoregisterseg.com
 relai-terms.com
 relainptyaments.com
-relationship-x.com
 relative-x.com
 relay-coinbase.com
 relay-ledger.com
@@ -41846,7 +41826,6 @@ respawn-ledger.com
 respondcontent-x.com
 response-coinbase.com
 restitutionservices.com
-restore-1password.com
 restore-account-activity.com
 restore-bybit.com
 restore-exodus.com
@@ -41959,7 +41938,6 @@ revoke-squidrouter.com
 revokebuy.com
 revokecashapp.com
 revokes-humanity.com
-revokio.com
 revolutcapital-ai.com
 revolutportal.com
 revvrewards.com
@@ -42643,7 +42621,6 @@ secure-account-notice.com
 secure-account-verification.com
 secure-account-verification-update.com
 secure-amzon-revisionid9638.com
-secure-app-kaiyun.com
 secure-auth-process-now.com
 secure-by-ledger.com
 secure-clientverification.com
@@ -42687,7 +42664,6 @@ secure-pay-cashapp.com
 secure-polymarket.com
 secure-portal-coinbase.com
 secure-portal-crypto.com
-secure-portal-ledger.com
 secure-portal-microsoft.com
 secure-portal-robinhood.com
 secure-rbcbusiness.com
@@ -42755,7 +42731,6 @@ secureservice-network.com
 securetd-support.com
 securetransfer-ca.com
 securetrustwalletcenter.com
-secureupsmailssl.com
 securewallet-gemini.com
 securewallet-ledger.com
 securewallet-node.com
@@ -43597,7 +43572,6 @@ starsgrowth.com
 start-binance.com
 start-exodus.com
 app.start-io-trezor.com
-start-trezor.com
 start-zoom.com
 starts-binance.com
 starts-io.com
@@ -45059,7 +45033,6 @@ trezor-modal3.com
 trezor-my.com
 trezor-notif.com
 trezor-notification.com
-trezor-reignite.com
 trezor-start-io.com
 trezor-status.com
 trezor-suide.com
@@ -45913,7 +45886,6 @@ uniswap-sa.com
 uniswap-swa.com
 uniswap-test-m0dal.com
 uniswap-voucher.com
-uniswap-web.com
 uniswapbi.com
 uniswapchain.com
 uniswapdexes.com
@@ -46290,7 +46262,6 @@ usdtqrcodegenerator.com
 usdtqrtool.com
 usdtunlock.com
 usdtunlocks.com
-usdtvipx.com
 use-aave.com
 use-daas.com
 use-trustcard.com
@@ -46777,7 +46748,6 @@ verifyaml-bot.com
 verifycase-apple.com
 verifychaincoinbase.com
 verifychainwallet.com
-verifydevice-google.com
 verifydmca-x.com
 verifygmail.com
 verifyicloud-login.com
@@ -47005,7 +46975,6 @@ vote-kennedy.com
 vote-kntq.com
 vote-leisu.com
 vote-libertyswap.com
-vote-lienfi.com
 vote-lightcr.com
 vote-lighter.com
 vote-liminalmoney.com
@@ -51982,7 +51951,6 @@ www-onekey.com
 www-rainbet.com
 www-sol.com
 www-solana.com
-www-trazor.com
 www-trezor-start.com
 www-trezorsuite.com
 wwwaave.com
@@ -52079,7 +52047,6 @@ x-restriction.com
 x-restrictions.com
 x-retweet.com
 x-reviewcontent.com
-x-safeguard.com
 x-saving-redir.com
 x-secure-redirection.com
 x-secured-redirect.com
@@ -53119,7 +53086,6 @@ trustwallet.company
 tw-card.company
 ur1.company
 variationalvaults.company
-x-platform.company
 zoom-connects.company
 ensou.computer
 speccy.computer
@@ -53622,7 +53588,6 @@ de-stake.com.de
 flarenetwork.com.de
 gamdom.com.de
 hyperliquid.com.de
-metamask.com.de
 morpho.com.de
 morphomarkets.com.de
 onmicrosoft.com.de
@@ -77983,7 +77948,6 @@ refunds.mfs.gg
 pumpfunlive.gg
 swapnow.gg
 ledger.com.gi
-airspoint-reward.gift
 justlend.gift
 prjx.gift
 rainbet.gift
@@ -78385,7 +78349,6 @@ secure-onlinerecovery.help
 secure-portals.help
 secure-processing.help
 securemytd-validation.help
-secureportal-authenticate.help
 signon.help
 solution-live.help
 status-x.help
@@ -78429,7 +78392,6 @@ web3-airdrop.help
 webex-meeting.help
 webexmeeting.help
 wesuecriminals.help
-whatsapp-vote.help
 windows-update.help
 worldlibertyfi.help
 worldlibertyfinance.help
@@ -79397,7 +79359,6 @@ liquiditypools.icu
 livuh-stream.icu
 longbow-app.icu
 lovelystuffsinc.icu
-loyalty-rewards.icu
 lunexia.icu
 lvvas.icu
 mainnet-elysium.icu
@@ -80092,7 +80053,6 @@ ispsync.id
 keeta.id
 konohaserver.id
 metamask.id
-airdrop.my.id
 aws-binance.my.id
 com-account-webapp-login.my.id
 com-get.my.id
@@ -84154,7 +84114,6 @@ melaniatrump.io
 mellion.io
 ray.memepage.io
 meowwallet.meowchain.io
-metamack.io
 metamask-card.io
 test.metamask-phishing.io
 metamask-recover.io
@@ -84774,7 +84733,6 @@ wallet-diagnostic-trezor.io
 wallet-kaspanet.io
 wallet-security-trezor.io
 wallet-sync.io
-wallet-trezor.io
 wallet-web.io
 walletexodus.io
 waxai.io
@@ -85894,7 +85852,6 @@ werknest.io
 windirstat.io
 coinbase.wiredcoin.io
 app.wirexone.io
-x-coins.io
 x-dao.io
 xamanapp.io
 xamanvoting.io
@@ -86918,7 +86875,6 @@ tornado-uniswap.eth.limo
 trigarbitrage.eth.limo
 tornadocash-eth.limo
 access-ledger.link
-airspoint-reward.link
 upscpro.app.link
 balancer-chain.link
 betparibu.link
@@ -88214,7 +88170,6 @@ lootbet.live
 lumtrixmkt.live
 lunexx.live
 m365-apps.live
-m365-compliance-portal.live
 macosoft.live
 magmafinance.live
 magneticdex.live
@@ -89083,7 +89038,6 @@ trustwalletrading.live
 trustwallets-card.live
 trustwalletsupports.live
 trustwalletsupportunit.live
-trustwalletusdt.live
 trustypanel.live
 try-cryptogate.live
 tusd-migration.live
@@ -95110,7 +95064,6 @@ pay.0gfoundation.org
 360-browser.org
 888-casino-onlinee.org
 a2a-ledger.org
-aave-app.org
 aave-dashboard.org
 aave-open.org
 aavebase.org
@@ -96827,7 +96780,6 @@ stake-india.org
 stake-stellar.org
 stake-usdt.org
 stake-wise.org
-stake-yieldusd.org
 stakegift.org
 staking-usdc.org
 pos.stakingsreward.org
@@ -96946,7 +96898,6 @@ trezor-eng.org
 trezor-official.org
 trezor-suide.org
 trezor-suile.org
-trezor-suite.org
 trezor-us.org
 trezorsuite-app.org
 trezorsuite-en.org
@@ -97026,7 +96977,6 @@ trustwallet-hub.org
 trustwallet-my.org
 trustwallet-virtualcard.org
 trustwalletcryptocards.org
-trustwallethelp.org
 trustwalletpay.org
 trustwalletpaycard.org
 trustwalletsend.org
@@ -97099,7 +97049,6 @@ uniswal.org
 uniswap-base.org
 uniswap-governancerewards.org
 uniswap-ipfs.org
-uniswap-web.org
 uniswapcex.org
 uniswapping.org
 uniswapss.org
@@ -97165,7 +97114,6 @@ us06webzoom-uguss.org
 usd-trezor.org
 mining.usdc-mining.org
 usddswap.org
-usdt-mixer.org
 usdt-report.org
 usdyield.org
 usexgs.org
@@ -98193,7 +98141,6 @@ f.2base.pro
 69mdn.pro
 a-cg.pro
 a9xgsre.pro
-aave-app.pro
 aave-gov.pro
 aave-v4.pro
 aaveapp.pro
@@ -101720,7 +101667,6 @@ web03us.sbs
 web04in.sbs
 web06in.sbs
 web3-v1.sbs
-web3bybitcommunityairdrop.sbs
 web3markets.sbs
 web3savingsplan.sbs
 webonlinemicrosoftpdf.sbs
@@ -101758,7 +101704,6 @@ zoomarea.sbs
 zoominvite.sbs
 zoomlink.sbs
 zoomsend.sbs
-zoomtv4k.sbs
 zooom-meeting.sbs
 coindcx.com.sc
 exodus.com.sc
@@ -102256,7 +102201,6 @@ ugkk.shop
 uk-rain-bet.shop
 uqkk.shop
 us06webzoom.shop
-usdt2ouble.shop
 usdtflashsoftwares.shop
 usdtflashtrc20.shop
 uspasim.shop
@@ -102661,7 +102605,6 @@ io-skin.site
 io-sujte.site
 dapp.iorca.site
 jimothy-drop.site
-join-zoom.site
 joininvitemeeting.site
 jumperxyz.site
 jup-agref.site
@@ -103330,7 +103273,6 @@ zoominvite.site
 zoominvitejoin.site
 zoommarketing.site
 zoomtech.site
-zoomvideo.site
 zooomcalling.site
 zoow.site
 1red.sk
@@ -108583,7 +108525,6 @@ z00mmeeting.us
 zerogastrx.us
 zetahub.us
 zoom-1web.us
-zoom-client.us
 zoom-join.us
 zoom-tech.us
 zoom01.us
@@ -108706,7 +108647,6 @@ aidipay.vip
 aiinvest.vip
 cash.airdropalerts.vip
 inky.airdropalerts.vip
-airdropdirect.vip
 alldll-mall.vip
 allinu.vip
 amlverify.vip
@@ -109269,7 +109209,6 @@ thegraph.arg.oohgroup.vn
 phantominox.vn
 orca.tienganhcohue.vn
 apyx.vote
-flare-proposal.vote
 hyperecosystem.vote
 hyperecosystems.vote
 moonshot.vote
@@ -110212,7 +110151,6 @@ airdrop-grvt.xyz
 airdrop-hunting.xyz
 airdrop-hyperliquid.xyz
 airdrop-merlin.xyz
-airdrop-nexus.xyz
 airdrop-notcoin.xyz
 airdrop-orbiter.xyz
 airdrop-photon.xyz
@@ -112775,7 +112713,6 @@ gathero.xyz
 gauntlet-proposal.xyz
 gcsvf.xyz
 unlock.genesis-arcus.xyz
-genesis-firelight.xyz
 genesis-flr.xyz
 genesis-flt.xyz
 genesis-hyperfoundation.xyz
@@ -114277,7 +114214,6 @@ multinetworkschain.xyz
 multipli-app.xyz
 multipli-apps.xyz
 multipliecosystem.xyz
-multiplier-aave.xyz
 multiplier-arcus.xyz
 multiplier-flarenetwork.xyz
 multiplier-kinetiq.xyz
@@ -117259,7 +117195,6 @@ trypassport.xyz
 tryphantom.xyz
 tryvariational.xyz
 tryxel.xyz
-tryzoom.xyz
 turtevault.xyz
 turtlefoundation.xyz
 turtlevaults.xyz
