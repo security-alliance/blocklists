@@ -21220,9 +21220,6 @@ microsaft.co
 microsoft-notification.co
 microsoft-services.co
 microsofteams.co
-microssystems.co
-microstream.co
-microsupport.co
 midnight-pd.co
 monarchplatform.co
 moonbet.co
@@ -23428,6 +23425,7 @@ coinbase.675128.com
 720391-crypto.com
 720800-kraken.com
 721042coinbase.com
+723195coinbase.com
 72341-coinbase.com
 723494-binance.com
 72351coinbase.com
@@ -37677,7 +37675,6 @@ microsoftoffice-365auth.com
 microsoftoffice365login.com
 microsoftonlimes.com
 microsoftonline-ms.com
-microsoftonlinecloudservices.com
 microsoftonlinenow.com
 microsoftproteams.com
 microsoftsupportonlinecom.com
@@ -97071,7 +97068,6 @@ security.flare.us.org
 gamdom.us.org
 lido-finance.us.org
 meet.us.org
-microsoftonline.us.org
 polymarket.us.org
 rainbet.us.org
 trustwallet.us.org
