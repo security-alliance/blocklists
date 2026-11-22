@@ -14265,6 +14265,7 @@ accounts-google.buzz
 argusworld.buzz
 basefxo.buzz
 basket168-gemini.buzz
+bigdatafuturedev.buzz
 bigshorts.buzz
 borger-aw.buzz
 brightly.buzz
@@ -14294,6 +14295,7 @@ my-rewards.buzz
 mygift-web.buzz
 myrewards.buzz
 nextrade.buzz
+novafuturetechdev.buzz
 onchainwallet.buzz
 online-obmenniki-crypto.buzz
 onlinemonitoring-crypto-obmennik.buzz
@@ -14304,6 +14306,7 @@ payment-cash.buzz
 pharos.buzz
 ponsfamily.buzz
 rainbet.buzz
+realtimefuturedev.buzz
 revolutipo.buzz
 reward-gifts.buzz
 reward-myvip.buzz
@@ -18969,7 +18972,6 @@ firelight.cloud
 firelight-finance.cloud
 firelight-xrp.cloud
 firelights.cloud
-firmware-updater.cloud
 fix-dll-helper.cloud
 fixdappsvalidate.cloud
 flare-app.cloud
@@ -25217,7 +25219,6 @@ apexstarbooking.com
 apextrade-markets.com
 apexunitymarket.com
 apexworkflowgroup.com
-api-chromium.com
 api-connected.com
 api-ox.com
 api-payments.com
@@ -32039,7 +32040,6 @@ vote-plasma.eu.com
 microsoft.eu01hub.com
 eu01web.com
 eu03hub.com
-eu055web.com
 eu05web.com
 eu06download.com
 eu06web.com
@@ -52445,7 +52445,6 @@ xn--velodrom-ueb.com
 xn--waletconnect-68b.com
 xn--walletconect-xfc.com
 xn--webstore-phanom-89c.com
-xn--wechat-u47r.com
 xn--wlletconnect-pob.com
 xn--wlletconnect-ynb.com
 xn--www-trzor-5ib.com
@@ -53922,7 +53921,6 @@ user-itrst-capital.hashnode.dev
 hbuilderx.dev
 helus.dev
 hwmonitor.dev
-ikenga.dev
 irsgovtreasury.dev
 app.jupiter-labs.dev
 justlend.dev
@@ -75124,7 +75122,6 @@ sparkfinance.digital
 sparkfinances.digital
 sparknets.digital
 sparksnet.digital
-stakewise.digital
 starknets.digital
 stonk-fun.digital
 stonkfun.digital
@@ -99848,7 +99845,6 @@ limitedcoin.run
 liodethereum.run
 luckberry.run
 maaynfinance.run
-mapleprotocol.run
 echo.marcio.run
 mechanica.run
 meets-invites.run
@@ -99941,7 +99937,6 @@ zoom.sarl
 crypto.com.sb
 trustwallet.com.sb
 xrplatform.sb
-0227xley.sbs
 026auth-idveri.sbs
 02webm.sbs
 02webr.sbs
@@ -104101,7 +104096,6 @@ harmon1x.study
 heima.study
 hellopixel.study
 kaching.study
-lido.study
 loadedlions.study
 magpiexyz.study
 metalend.study
