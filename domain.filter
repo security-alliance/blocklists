@@ -51131,7 +51131,6 @@
 ||suite-trezoapps.wixstudio.com^$all
 ||suite-trezrio.wixstudio.com^$all
 ||suite-us-trezo.wixstudio.com^$all
-||suiteapp-pub-learn.wixstudio.com^$all
 ||suiteapp-terze.wixstudio.com^$all
 ||suiteapp-trazr.wixstudio.com^$all
 ||suiteapp-trezencdn.wixstudio.com^$all
@@ -66105,6 +66104,7 @@
 ||bybit-app-us.pages.dev^$all
 ||bytegen.pages.dev^$all
 ||bytegencompiler.pages.dev^$all
+||c5d7-fa8e-5133-c0inbase-list.pages.dev^$all
 ||c8d8-colnbase-listings-4f65.pages.dev^$all
 ||cainong-ledger.pages.dev^$all
 ||cake-moneyfi-sdk.pages.dev^$all
