@@ -111441,7 +111441,6 @@ claim-tether.xyz
 claim-tokenath.xyz
 claim-treadfi.xyz
 claim-ultiland.xyz
-claim-unlswap.xyz
 claim-usdai.xyz
 claim-usepaid.xyz
 claim-world.xyz
