@@ -19184,7 +19184,6 @@ navi-protocols.stakingreward.cloud
 nexus-mutual.stakingreward.cloud
 nexus-mutuals.stakingreward.cloud
 pengu.stakingreward.cloud
-ptb.stakingreward.cloud
 pudgy-penguins.stakingreward.cloud
 rls.stakingreward.cloud
 sui-name-service.stakingreward.cloud
