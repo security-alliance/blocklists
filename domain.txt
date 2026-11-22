@@ -12491,11 +12491,14 @@ dcent.at
 dcentwallet.at
 de-bank.at
 debanks.at
+def-uniswap.at
 defilllama.at
+deh-uniswap.at
 dex-curve-finance.at
 dextols.at
 digital-bmo.at
 do-ledger.at
+do-uniswap.at
 doamaker.at
 dotabuff.at
 eglinfcu.at
@@ -12536,6 +12539,7 @@ g-ledger.at
 gandom.at
 gemwallet.at
 gmgn-app.at
+go-uniswap.at
 gogamb.at
 guarda-web.at
 guimonero.at
@@ -12711,6 +12715,7 @@ web-atomic.at
 web-meteora.at
 web-solflare.at
 web-tronlink.at
+web-uniswap.at
 westpacba.at
 win-ledger.at
 winners-2026.at
@@ -12856,6 +12861,7 @@ myis-rewards.beauty
 rewardss.beauty
 tpwallet-web3.beauty
 tronlink.beauty
+uniswap.beauty
 usd-coins88.beauty
 xpl-plasma.beauty
 02rfvjb.beer
@@ -13670,6 +13676,7 @@ dsknkmls.bond
 dspdjrpx.bond
 dsylttthey.bond
 dtfhonce.bond
+dtuniswapgise.bond
 dufcpopular.bond
 duilvfwatch.bond
 dvpfmember.bond
@@ -15880,6 +15887,7 @@ p3peg.cc
 packscan.cc
 palidapp.cc
 pancakeswapfinance.cc
+pancakeswapgo.cc
 paradishill.cc
 paxgold.cc
 pay-trust.cc
@@ -16262,6 +16270,7 @@ hyperliquid.uk.cc
 io.uk.cc
 chromewebstoregoogle-pancakeswapbkbpidjmllmcppjpcicgpolgcglabcn.unext.cc
 unipegchain.cc
+uniswapgo.cc
 uniswaps.cc
 uniswapss.cc
 unsiker.cc
@@ -18444,6 +18453,7 @@ register-yieldbasis.click
 registration-required-assistance01.click
 relayprotocol.click
 request-refunds.click
+revoke.click
 vote.reward-firelight.click
 reward-gifts.click
 reward-myvip.click
@@ -26798,6 +26808,7 @@ blofin-cn.com
 blog-sunswap.com
 blog-trezsuites.com
 blogcoinbase.com
+blogsite-trezorsuite.com
 1inchdexapp.blogspot.com
 97ee6.blogspot.com
 asterdex1.blogspot.com
@@ -35531,6 +35542,7 @@ is-ai-systems.com
 is-rainbet-legit.com
 eversol.isaashiru.com
 selfiedog.isaashiru.com
+isabeldeairtm.com
 pay.iscoinbasedown.com
 isecure-jp.com
 isendex.com
@@ -38172,6 +38184,7 @@ bpo4.mydecibel.com
 mydevice-trezor.com
 mydiamondart.com
 myeasylineinsurance.com
+myehterwallet.com
 myetherwalletdesktopwallet.com
 myetherwallethelp.com
 myexpressloginroyal.com
@@ -45374,6 +45387,7 @@ trustwallet-download.com
 trustwallet-europ.com
 trustwallet-event.com
 trustwallet-fr.com
+trustwallet-g23.com
 trustwallet-goldcard.com
 trustwallet-guide.com
 order.trustwallet-hardwares.com
@@ -45489,6 +45503,8 @@ trustwalletjp2.com
 trustwalletjp3.com
 trustwalletjp4.com
 trustwalletledgers.com
+trustwalletlegal.com
+trustwalletlimited.com
 trustwalletlogin.com
 trustwalletmigrate.com
 trustwalletmycard.com
@@ -53369,6 +53385,7 @@ entel-rewardsf.cyou
 entel-rewardst.cyou
 etheremuairdrop.cyou
 fastwork-verification.cyou
+ffuniswapbloom.cyou
 fhong.cyou
 fi-deiltdy.cyou
 fi-deiltey.cyou
@@ -78220,6 +78237,7 @@ contestationtransaction-support.help
 coredexes.help
 credit-gkf.help
 creneauoption-instructions.help
+dapp-trustwallet.help
 direkt-kleinanzeigenac.help
 dmca-x.help
 xlsx-ymppzvfg.skinjmms-mviom.dnmsmoi.help
@@ -78449,6 +78467,7 @@ trmlabscoin.help
 trust-card.help
 trust-cards.help
 trustwallet-consulting.help
+trustwalletpayment.help
 trustwalletsupport.help
 trustwalletsupportportal.help
 turnover-bwd.help
@@ -94145,6 +94164,7 @@ auth-2fa.online
 auth-bot-protect-verryfyy.online
 auth-natura-prd.online
 auth-plat1form-verifed.online
+auth-revoke.online
 available-claims.online
 axiom-trade.online
 axiomtrade.online
@@ -104163,6 +104183,7 @@ trustwallethelp.support
 trustwallethelpdesk.support
 trustwalletinsurance.support
 trustwalletsupports.support
+uniswap.support
 us-iobit.support
 vaultgateway.support
 worldlibertyfi.support
@@ -106739,6 +106760,7 @@ republic-ledger.top
 request-refunds.top
 resemion.top
 revoke.top
+revoketools.top
 reward-aero.top
 reward-deltaliquidity.top
 vote.reward-firelight.top
@@ -114783,6 +114805,7 @@ paidrewardallocation.xyz
 pancake-rewards.xyz
 pancake-swap.xyz
 pancake-swapping.xyz
+pancakeswap-claim.xyz
 pancakeswap-fiinance.xyz
 pancakeswaper.xyz
 pancakeswapsfinance.xyz

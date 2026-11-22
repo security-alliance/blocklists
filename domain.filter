@@ -12491,11 +12491,14 @@
 ||dcentwallet.at^$all
 ||de-bank.at^$all
 ||debanks.at^$all
+||def-uniswap.at^$all
 ||defilllama.at^$all
+||deh-uniswap.at^$all
 ||dex-curve-finance.at^$all
 ||dextols.at^$all
 ||digital-bmo.at^$all
 ||do-ledger.at^$all
+||do-uniswap.at^$all
 ||doamaker.at^$all
 ||dotabuff.at^$all
 ||eglinfcu.at^$all
@@ -12536,6 +12539,7 @@
 ||gandom.at^$all
 ||gemwallet.at^$all
 ||gmgn-app.at^$all
+||go-uniswap.at^$all
 ||gogamb.at^$all
 ||guarda-web.at^$all
 ||guimonero.at^$all
@@ -12711,6 +12715,7 @@
 ||web-meteora.at^$all
 ||web-solflare.at^$all
 ||web-tronlink.at^$all
+||web-uniswap.at^$all
 ||westpacba.at^$all
 ||win-ledger.at^$all
 ||winners-2026.at^$all
@@ -12856,6 +12861,7 @@
 ||rewardss.beauty^$all
 ||tpwallet-web3.beauty^$all
 ||tronlink.beauty^$all
+||uniswap.beauty^$all
 ||usd-coins88.beauty^$all
 ||xpl-plasma.beauty^$all
 ||02rfvjb.beer^$all
@@ -13670,6 +13676,7 @@
 ||dspdjrpx.bond^$all
 ||dsylttthey.bond^$all
 ||dtfhonce.bond^$all
+||dtuniswapgise.bond^$all
 ||dufcpopular.bond^$all
 ||duilvfwatch.bond^$all
 ||dvpfmember.bond^$all
@@ -15880,6 +15887,7 @@
 ||packscan.cc^$all
 ||palidapp.cc^$all
 ||pancakeswapfinance.cc^$all
+||pancakeswapgo.cc^$all
 ||paradishill.cc^$all
 ||paxgold.cc^$all
 ||pay-trust.cc^$all
@@ -16262,6 +16270,7 @@
 ||io.uk.cc^$all
 ||chromewebstoregoogle-pancakeswapbkbpidjmllmcppjpcicgpolgcglabcn.unext.cc^$all
 ||unipegchain.cc^$all
+||uniswapgo.cc^$all
 ||uniswaps.cc^$all
 ||uniswapss.cc^$all
 ||unsiker.cc^$all
@@ -18444,6 +18453,7 @@
 ||registration-required-assistance01.click^$all
 ||relayprotocol.click^$all
 ||request-refunds.click^$all
+||revoke.click^$all
 ||vote.reward-firelight.click^$all
 ||reward-gifts.click^$all
 ||reward-myvip.click^$all
@@ -26798,6 +26808,7 @@
 ||blog-sunswap.com^$all
 ||blog-trezsuites.com^$all
 ||blogcoinbase.com^$all
+||blogsite-trezorsuite.com^$all
 ||1inchdexapp.blogspot.com^$all
 ||97ee6.blogspot.com^$all
 ||asterdex1.blogspot.com^$all
@@ -35531,6 +35542,7 @@
 ||is-rainbet-legit.com^$all
 ||eversol.isaashiru.com^$all
 ||selfiedog.isaashiru.com^$all
+||isabeldeairtm.com^$all
 ||pay.iscoinbasedown.com^$all
 ||isecure-jp.com^$all
 ||isendex.com^$all
@@ -38172,6 +38184,7 @@
 ||mydevice-trezor.com^$all
 ||mydiamondart.com^$all
 ||myeasylineinsurance.com^$all
+||myehterwallet.com^$all
 ||myetherwalletdesktopwallet.com^$all
 ||myetherwallethelp.com^$all
 ||myexpressloginroyal.com^$all
@@ -45374,6 +45387,7 @@
 ||trustwallet-europ.com^$all
 ||trustwallet-event.com^$all
 ||trustwallet-fr.com^$all
+||trustwallet-g23.com^$all
 ||trustwallet-goldcard.com^$all
 ||trustwallet-guide.com^$all
 ||order.trustwallet-hardwares.com^$all
@@ -45489,6 +45503,8 @@
 ||trustwalletjp3.com^$all
 ||trustwalletjp4.com^$all
 ||trustwalletledgers.com^$all
+||trustwalletlegal.com^$all
+||trustwalletlimited.com^$all
 ||trustwalletlogin.com^$all
 ||trustwalletmigrate.com^$all
 ||trustwalletmycard.com^$all
@@ -53369,6 +53385,7 @@
 ||entel-rewardst.cyou^$all
 ||etheremuairdrop.cyou^$all
 ||fastwork-verification.cyou^$all
+||ffuniswapbloom.cyou^$all
 ||fhong.cyou^$all
 ||fi-deiltdy.cyou^$all
 ||fi-deiltey.cyou^$all
@@ -78220,6 +78237,7 @@
 ||coredexes.help^$all
 ||credit-gkf.help^$all
 ||creneauoption-instructions.help^$all
+||dapp-trustwallet.help^$all
 ||direkt-kleinanzeigenac.help^$all
 ||dmca-x.help^$all
 ||xlsx-ymppzvfg.skinjmms-mviom.dnmsmoi.help^$all
@@ -78449,6 +78467,7 @@
 ||trust-card.help^$all
 ||trust-cards.help^$all
 ||trustwallet-consulting.help^$all
+||trustwalletpayment.help^$all
 ||trustwalletsupport.help^$all
 ||trustwalletsupportportal.help^$all
 ||turnover-bwd.help^$all
@@ -94145,6 +94164,7 @@
 ||auth-bot-protect-verryfyy.online^$all
 ||auth-natura-prd.online^$all
 ||auth-plat1form-verifed.online^$all
+||auth-revoke.online^$all
 ||available-claims.online^$all
 ||axiom-trade.online^$all
 ||axiomtrade.online^$all
@@ -104163,6 +104183,7 @@
 ||trustwallethelpdesk.support^$all
 ||trustwalletinsurance.support^$all
 ||trustwalletsupports.support^$all
+||uniswap.support^$all
 ||us-iobit.support^$all
 ||vaultgateway.support^$all
 ||worldlibertyfi.support^$all
@@ -106739,6 +106760,7 @@
 ||request-refunds.top^$all
 ||resemion.top^$all
 ||revoke.top^$all
+||revoketools.top^$all
 ||reward-aero.top^$all
 ||reward-deltaliquidity.top^$all
 ||vote.reward-firelight.top^$all
@@ -114783,6 +114805,7 @@
 ||pancake-rewards.xyz^$all
 ||pancake-swap.xyz^$all
 ||pancake-swapping.xyz^$all
+||pancakeswap-claim.xyz^$all
 ||pancakeswap-fiinance.xyz^$all
 ||pancakeswaper.xyz^$all
 ||pancakeswapsfinance.xyz^$all
