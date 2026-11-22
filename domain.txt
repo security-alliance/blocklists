@@ -32664,7 +32664,6 @@ flare-enroll.com
 flare-governance.com
 flare-multiplier.com
 flare-staking.com
-flare-vote.com
 flarechainline.com
 flareclaimtoken.com
 flaredao.com
