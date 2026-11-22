@@ -16999,6 +16999,7 @@ officialverifyhelp.cfd
 onchnia.cfd
 ondofinance.cfd
 ondoperps.cfd
+online-meetings.cfd
 online-order987324.cfd
 onstream.cfd
 onwalletnetwork.cfd
@@ -18238,6 +18239,7 @@ invitationmeetings.click
 iscanai.click
 join-interview-now-zoomcall.click
 join-meeting-now-zoomcall.click
+joining-now.click
 joinwebexnow.click
 jto-secure-check.click
 jto-valuetips.click
@@ -24588,6 +24590,7 @@ accountverify-immediateaction.com
 accountverify-notify.com
 accountverify-x.com
 collab.accs-land.com
+accsessionsauth.com
 acctmarkethub.com
 accuracymedicalbillingllc.com
 aceclashapp.com
@@ -42902,6 +42905,7 @@ servugamb.com
 sessclone.com
 session-support-live.com
 sessions-kraken.com
+sessionsdocuauth.com
 sessor349.com
 sessor359.com
 sessorapay.com
@@ -46168,6 +46172,7 @@ legger-live.us.com
 leggers-live.us.com
 leggers-lives.us.com
 live-microsoft.us.com
+lives05.us.com
 livve.us.com
 liwe.us.com
 lldoapps.us.com
@@ -46252,6 +46257,7 @@ us05webzoomus89907196942pwdi3mzljvr0gox8cmlj6mimdiacapk5b.com
 us05webzoomuslaunchjc89907196942success.com
 us05zoom.com
 us06cloud.com
+us06meet.com
 us06webzoom-business.com
 us06webzooms.com
 us06webzoomus2fj2f830440905293.com
@@ -46838,6 +46844,7 @@ verifypolicys-logsend.com
 verifytrezor.com
 verifytrezorwallet.com
 verifywallets.com
+verifyworkspacezoom.com
 verifyyourwallet.com
 veritexmarket.com
 veritexmarkets.com
@@ -46903,6 +46910,7 @@ view-tastytrade.com
 view-tickets-google.com
 view8zoompros.com
 viewcases-ledger.com
+viewfilesd0cs.com
 vigroplus.com
 viking-fix-appliancecare.com
 vimesistemas.com
@@ -47628,6 +47636,7 @@ free-4708168.webadorsite.com
 webaifider.com
 webauth-app.com
 webauthdesktopwallet.com
+webauthdocs.com
 webauthorization-ledger.com
 webauthorization-metamask.com
 webauthwallet.com
@@ -78466,6 +78475,7 @@ meet-google.help
 metamask-recover.help
 metamask-wallet.help
 metamaske.help
+micorosft.help
 micorsofts.help
 micros0ft.help
 microsoft-support.help
@@ -88220,6 +88230,7 @@ info-spx6900.live
 infozoom.live
 instair.live
 instan-flarefn.live
+instant-share.live
 instellingen-ledger.live
 integrity-ledger.live
 interests-usdai.live
@@ -89268,6 +89279,7 @@ us05.live
 us055web-zoom.live
 us05cloud.live
 us05meet.live
+us05web.live
 us05webzoom.live
 us06.live
 us06cloud.live
@@ -94463,6 +94475,7 @@ flarenetworks.online
 flaresnetrworks.online
 flarexrp.online
 flashlive.online
+flashshare.online
 flashusdtapps.online
 flashusdttrc20.online
 fomolivestream.online
@@ -94920,6 +94933,7 @@ seg-social.online
 send-usdt.online
 service-google.online
 sfcomeca.online
+share-acsflles.online
 shieldedindex.online
 signalapp.online
 signaturebased-payout-reports.online
@@ -98358,6 +98372,7 @@ aaveapp.pro
 aavefinance.pro
 aaveloan.pro
 aavevote.pro
+accountsdocreview.pro
 acrsos.pro
 aero-fi.pro
 aero-upgrade.pro
@@ -99227,6 +99242,7 @@ seamlessapp.pro
 season7-ethena.pro
 selectorx.pro
 sendtransfer.pro
+share-docs-flles.pro
 shbiainu.pro
 webmail.shelby-growth.pro
 shield-ledger.pro
@@ -102743,6 +102759,7 @@ exodsur.site
 exodus-app.site
 exoduspro.site
 exodusui.site
+face-time.site
 failsecure-warden-check.site
 failsecureoracle.site
 fbad.site
@@ -102956,6 +102973,7 @@ ondoperps.site
 onemeet.site
 online-memecoin.site
 online-slack.site
+online-talk.site
 onstreamapks.site
 openfx.site
 opesea.site
@@ -103026,6 +103044,7 @@ realtimefirewall.site
 realtimescalp.site
 receiveallocation.site
 redbulll.site
+redirecting-to-room.site
 metamask.redlab.site
 refund-account.site
 reiinstructswapethbnb.site
@@ -103433,6 +103452,7 @@ verified-vault-studio.site
 verify-checker.site
 verify-liwell.site
 verify-log-acc.site
+verify-to-join.site
 verifyusdt.site
 verifywallet.site
 airdrop.vice-city.site
@@ -107373,6 +107393,7 @@ vqkfssbrj.top
 admink.vreh472.top
 vurtuals-protocol.top
 vzvdsava-v8-d8-sdvsvxz.top
+wait-to-proccess.top
 wallbox-charging.top
 wallet-base.top
 wallet-pay.top
@@ -108478,6 +108499,7 @@ secure-locatid.us
 securemanager.us
 session-zoom.us
 sessions-binance.us
+sesssion.us
 sharesuns.us
 shelbyco.us
 shibainucoin.us
@@ -108624,6 +108646,7 @@ us09live.us
 us10zoom.us
 us11zoom.us
 us12zoom.us
+us13zoom.us
 us15web-zoom.us
 us16web-zoom.us
 us305web-zoom.us
