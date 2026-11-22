@@ -46321,7 +46321,7 @@
 ||usdt-qrcode-generator.com^$all
 ||usdt-trc20-qr-code-generator.com^$all
 ||usdt-trust.com^$all
-||usdt-trustwallet.com^$all
+||api.usdt-trustwallet.com^$all
 ||usdt-wallet.com^$all
 ||usdtcheck-aml.com^$all
 ||usdtflashsystem.com^$all
@@ -99496,7 +99496,6 @@
 ||token2049.pw^$all
 ||trust-cards.pw^$all
 ||trustwallet.pw^$all
-||trustwalletcard.pw^$all
 ||trustwallets.pw^$all
 ||zama.pw^$all
 ||zoominvitationmeetingconnect.pw^$all
