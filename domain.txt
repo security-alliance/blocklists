@@ -10916,6 +10916,7 @@ polymarket-claim.vercel.app
 polymarket-cli-v2.vercel.app
 polymarket-clone-seven.vercel.app
 polymarket-dashboard-app-test-i2rxscwxr-rafael-davids-projects.vercel.app
+polymarket-ru.vercel.app
 polymarket-site-eta.vercel.app
 polymarket-ufc-329.vercel.app
 ponsvoting.vercel.app
@@ -40145,6 +40146,7 @@ polymarketwin.com
 polymarketwk.com
 polymarketworld.com
 polymarketzh.com
+polymarkex8.com
 polymarkt-app.com
 polymarktet.com
 polymarktt.com
@@ -112221,6 +112223,7 @@ ethereum-code.xyz
 ethereum-fi.xyz
 1xge7z2e0g60zez6.ethereuma.xyz
 dashboard.ethereuma.xyz
+ethereumcelebrations.xyz
 appie.ethereumclassicfi.xyz
 ethereumern.xyz
 api.ethereumfhe.xyz
