@@ -14541,7 +14541,6 @@ amznai.cam
 amznus.cam
 anznus.cam
 apmexsn.cam
-ambirewallet.app-airdropalert.cam
 app-lombard.cam
 apps-aptos.cam
 apps-poiymarket.cam
@@ -66722,6 +66721,7 @@ data-msandbox.pages.dev
 date-vote.pages.dev
 dbridger.pages.dev
 dc967-trustwallet-temp.pages.dev
+dc9c-fa8e-5133-c0inbase-list.pages.dev
 dci-ledger-test197.pages.dev
 dclmetamask.pages.dev
 dddddds.pages.dev
