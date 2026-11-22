@@ -863,7 +863,6 @@
 ||campaign-aave.app^$all
 ||campaign-xaman.app^$all
 ||capcutprodownload.app^$all
-||carbondefi.app^$all
 ||cardtrustwallet.app^$all
 ||cardvisaspend.app^$all
 ||carolla.app^$all
@@ -1390,7 +1389,6 @@
 ||distributions-flarenetwork.app^$all
 ||distributions-usepaid.app^$all
 ||dnsjumper.app^$all
-||dodoex.app^$all
 ||dominion-market.app^$all
 ||dominionmarket.app^$all
 ||dominionmarkets.app^$all
@@ -1995,7 +1993,6 @@
 ||mira-net.app^$all
 ||mnemonic-ledger.app^$all
 ||claim.monad-portal.app^$all
-||moongem.app^$all
 ||moonshot-verif.app^$all
 ||moonshot-vote.app^$all
 ||moonshote.app^$all
@@ -8282,7 +8279,6 @@
 ||points-hyperlend.app^$all
 ||points-pendle.app^$all
 ||points-solsticefinance.app^$all
-||points-tydro.app^$all
 ||points-variational.app^$all
 ||points-xstocks.app^$all
 ||poll-xaman.app^$all
@@ -8318,7 +8314,6 @@
 ||premium-trust.app^$all
 ||premium-trustwallet.app^$all
 ||premiumwallet.app^$all
-||presale-remittix.app^$all
 ||privacy-ledger.app^$all
 ||privypets.app^$all
 ||proaave.app^$all
@@ -8645,7 +8640,6 @@
 ||sparkydraw.app^$all
 ||spend-partner.app^$all
 ||spendpartner.app^$all
-||spiritswap.app^$all
 ||spookyswap.app^$all
 ||sso-ledger.app^$all
 ||sso-trezor.app^$all
@@ -8791,7 +8785,6 @@
 ||toupie.app^$all
 ||trade-paperdex.app^$all
 ||tradepools.app^$all
-||traderjoexyz.app^$all
 ||transfer-wallet.app^$all
 ||treasury-arcium.app^$all
 ||treasury-flare.app^$all
@@ -12013,7 +12006,6 @@
 ||whitelist-papertrade.app^$all
 ||whitelist-usepaid.app^$all
 ||whitelist-xarnan.app^$all
-||whopaccounts.app^$all
 ||whopweb3.app^$all
 ||wildyield.app^$all
 ||window-xam.app^$all
@@ -22750,7 +22742,6 @@
 ||401400-crypto.com^$all
 ||402518robinhood.com^$all
 ||402815-crypto.com^$all
-||4031-gmail.com^$all
 ||403921-google.com^$all
 ||403921coinbase.com^$all
 ||404903binance.com^$all
@@ -29403,6 +29394,7 @@
 ||com-gift-cards-bch.com^$all
 ||com-gift-cards-bnb.com^$all
 ||com-gift-cards-btc.com^$all
+||bitrefill.com-gift-cards-cake.com^$all
 ||bitrefill.com-gift-cards-dash.com^$all
 ||com-gift-cards-doge.com^$all
 ||com-gift-cards-dot.com^$all
@@ -43292,7 +43284,6 @@
 ||sold-ledger.com^$all
 ||solex-eu.com^$all
 ||solflame-finance.com^$all
-||solflare-card.com^$all
 ||solflare-vip.com^$all
 ||solflare-wal.com^$all
 ||solflarewallet-us.com^$all
@@ -75667,7 +75658,6 @@
 ||blakcbit.exchange^$all
 ||botalpha.exchange^$all
 ||buysellcrypto.exchange^$all
-||carbondefi.exchange^$all
 ||cashmerelabs.exchange^$all
 ||changely.exchange^$all
 ||check-extended.exchange^$all
@@ -75678,10 +75668,8 @@
 ||convert.exchange^$all
 ||covert.exchange^$all
 ||cryptoice.exchange^$all
-||debridge.exchange^$all
 ||deribit.exchange^$all
 ||docketx.exchange^$all
-||dodoex.exchange^$all
 ||eango.exchange^$all
 ||easytrading.exchange^$all
 ||edegx.exchange^$all
@@ -75709,14 +75697,10 @@
 ||layerswap.exchange^$all
 ||limitess.exchange^$all
 ||liquidswap.exchange^$all
-||mav.exchange^$all
 ||mex.exchange^$all
 ||mykraken.exchange^$all
 ||nft2014.exchange^$all
 ||nokyczone.exchange^$all
-||optimism.exchange^$all
-||orbiter.exchange^$all
-||osmosis.exchange^$all
 ||alpha-dapps.padswap.exchange^$all
 ||beta-dapps.padswap.exchange^$all
 ||phantomwall.exchange^$all
@@ -75724,7 +75708,6 @@
 ||pitaes.exchange^$all
 ||piteas.exchange^$all
 ||polylion.exchange^$all
-||portalbridge.exchange^$all
 ||prjx.exchange^$all
 ||proposal-jumper.exchange^$all
 ||pumpswap.exchange^$all
@@ -75779,10 +75762,8 @@
 ||rpcketx.exchange^$all
 ||rrocketx.exchange^$all
 ||satellite.exchange^$all
-||scroll.exchange^$all
 ||sodex.exchange^$all
 ||solanas.exchange^$all
-||spiritswap.exchange^$all
 ||support-binance.exchange^$all
 ||tge-extended.exchange^$all
 ||tmgm-chinese.exchange^$all
@@ -76069,7 +76050,6 @@
 ||apyxfi.finance^$all
 ||artificial-intelligence-capital.finance^$all
 ||badge-firelight.finance^$all
-||bancor.finance^$all
 ||banking-circle.finance^$all
 ||barbecueswap.finance^$all
 ||basepad.finance^$all
@@ -76083,9 +76063,7 @@
 ||borosfinance-pendle.finance^$all
 ||borosfinances-pendle.finance^$all
 ||builders-pendle.finance^$all
-||bungee.finance^$all
 ||app.cakewallet.finance^$all
-||carbondefi.finance^$all
 ||check-doppler.finance^$all
 ||check-firelight.finance^$all
 ||check-onre.finance^$all
@@ -76172,7 +76150,6 @@
 ||distribution-umia.finance^$all
 ||distributions-theindex.finance^$all
 ||dixt.finance^$all
-||dodoex.finance^$all
 ||donaldtrump.finance^$all
 ||dora-compliance.finance^$all
 ||dotdot.finance^$all
@@ -76344,7 +76321,6 @@
 ||moonwell-dashboard.finance^$all
 ||moonwell-revoke.finance^$all
 ||morpho-mainstreet.finance^$all
-||multichain.finance^$all
 ||multiplierondo.finance^$all
 ||my1.finance^$all
 ||myetherwallet.finance^$all
@@ -77898,7 +77874,6 @@
 ||welcome-alt.fun^$all
 ||airdrop.wenbase.fun^$all
 ||wenko.fun^$all
-||whitelist-alt.fun^$all
 ||whitelists-alt.fun^$all
 ||worldliquidity.fun^$all
 ||jupiter.wunschpunsch.fun^$all
@@ -81226,7 +81201,6 @@
 ||login-auth.info^$all
 ||longbowcash.info^$all
 ||loopring-claim.info^$all
-||loopscalesdesign.info^$all
 ||losangeleswin.info^$all
 ||lumiafi.info^$all
 ||lvvas.info^$all
@@ -87650,7 +87624,6 @@
 ||dexthonx.live^$all
 ||dexwallet.live^$all
 ||dfximpact.live^$all
-||digitalvaultresolve.live^$all
 ||discount-sales.live^$all
 ||distribute-xrpl.live^$all
 ||distribution-aura.live^$all
@@ -89605,7 +89578,6 @@
 ||twt.ag-sushi.lol^$all
 ||wsteth.ag-sushi.lol^$all
 ||ai-openclaw.lol^$all
-||aiiqcoinsol.lol^$all
 ||airdrop2p.lol^$all
 ||airdropbull.lol^$all
 ||airdroped.lol^$all
@@ -89766,7 +89738,6 @@
 ||cyber-leek.lol^$all
 ||cyberfaucet.lol^$all
 ||decrypto.lol^$all
-||degencoinsolanas.lol^$all
 ||dejavu-ai.lol^$all
 ||dexump.lol^$all
 ||dezentracore.lol^$all
@@ -89799,7 +89770,6 @@
 ||evmcheck-sz.lol^$all
 ||evmcheck-xw.lol^$all
 ||evmcheck-zg.lol^$all
-||excoinonsol.lol^$all
 ||fasset.lol^$all
 ||fdsdsf.lol^$all
 ||firelight.lol^$all
@@ -89861,8 +89831,6 @@
 ||le4w5thr.lol^$all
 ||leopardcoinbsc.lol^$all
 ||light-source.lol^$all
-||littlejoeonsol.lol^$all
-||littlejoesol.lol^$all
 ||lnchc1y.lol^$all
 ||lobbycoinredohio.lol^$all
 ||lobsterredbnb.lol^$all
@@ -89895,7 +89863,6 @@
 ||monadairdrop.lol^$all
 ||moonjoin.lol^$all
 ||moonlisting.lol^$all
-||moonpepeonsol.lol^$all
 ||moonsgetv.lol^$all
 ||moonshoot-vote.lol^$all
 ||moonshootvote.lol^$all
@@ -93058,7 +93025,6 @@
 ||ua.tradefaq.net^$all
 ||tradegrok.net^$all
 ||trademxai.net^$all
-||traderjoexyz.net^$all
 ||tradinggrok.net^$all
 ||tradsgnalex.net^$all
 ||tradsignalex.net^$all
@@ -95533,7 +95499,6 @@
 ||free-download.camdvr.org^$all
 ||capcutapkk.org^$all
 ||capitalboosts.org^$all
-||carbondefi.org^$all
 ||cards-tw.org^$all
 ||cardtrustwallet.org^$all
 ||cardwallettws.org^$all
@@ -97089,7 +97054,6 @@
 ||tp-wallets.org^$all
 ||tpwallets.org^$all
 ||traderdojo.org^$all
-||traderjoexyz.org^$all
 ||tradetide.org^$all
 ||tradingrepublic.org^$all
 ||dogecoincasino.nl.traffborris1.org^$all
@@ -103534,7 +103498,6 @@
 ||portallogonapp.skin^$all
 ||predictex.skin^$all
 ||rewardss.skin^$all
-||trust1.skin^$all
 ||exodus.com.sl^$all
 ||ledger.com.sl^$all
 ||pro-coinbase.blogspot.sn^$all
@@ -107601,7 +107564,6 @@
 ||bitmarrt.trade^$all
 ||webtrader.blackr.trade^$all
 ||bulletxyz.trade^$all
-||carbondefi.trade^$all
 ||cgtp.trade^$all
 ||chanigpt.trade^$all
 ||claim-altura.trade^$all
@@ -107638,7 +107600,6 @@
 ||dappos.trade^$all
 ||dashboard-hyena.trade^$all
 ||dashboard-pools.trade^$all
-||debridge.trade^$all
 ||decenrtalized.trade^$all
 ||defibot.trade^$all
 ||deltafi.trade^$all
@@ -107646,7 +107607,6 @@
 ||dexsport.trade^$all
 ||dhamra.trade^$all
 ||distribution-pancake.trade^$all
-||dodoex.trade^$all
 ||drifts.trade^$all
 ||dxescreener.trade^$all
 ||e-ai.trade^$all
@@ -107689,7 +107649,6 @@
 ||hyperbeat.trade^$all
 ||hyperliquid-rewards.trade^$all
 ||hyperliquidfoundation.trade^$all
-||hyperpredict.trade^$all
 ||intefrace.trade^$all
 ||intentx.trade^$all
 ||jupiter-verified.trade^$all
@@ -107709,7 +107668,6 @@
 ||metaamskswap.trade^$all
 ||metamask.trade^$all
 ||allocation.metisl2token.trade^$all
-||multichain.trade^$all
 ||mytradingapp.trade^$all
 ||naerly.trade^$all
 ||narly.trade^$all
@@ -107727,8 +107685,6 @@
 ||pack-margin.trade^$all
 ||pancaekswap.trade^$all
 ||pancake-rewards.trade^$all
-||pancakeswap.trade^$all
-||paraswap.trade^$all
 ||phatnomwallet.trade^$all
 ||pheonix.trade^$all
 ||phoenixswap.trade^$all
@@ -107738,7 +107694,6 @@
 ||ponsterminal.trade^$all
 ||pooles.trade^$all
 ||porftolio.trade^$all
-||portalbridge.trade^$all
 ||poylmarket.trade^$all
 ||privacypools.trade^$all
 ||proposal-liquid.trade^$all
@@ -107751,7 +107706,6 @@
 ||pumpfunlive.trade^$all
 ||pupmfun.trade^$all
 ||qiado.trade^$all
-||quickswap.trade^$all
 ||rayd1um.trade^$all
 ||raydu1m.trade^$all
 ||rayidum.trade^$all
@@ -107770,21 +107724,16 @@
 ||sleepagotchi.trade^$all
 ||solscan.trade^$all
 ||sovl.trade^$all
-||spiritswap.trade^$all
-||squidrouter.trade^$all
 ||srk-earn.trade^$all
 ||sunwsap.trade^$all
 ||swap-bridge.trade^$all
-||synapseprotocol.trade^$all
 ||syntehtix.trade^$all
 ||talentre.trade^$all
 ||tehgraph.trade^$all
 ||tesorro365.trade^$all
 ||thebeginning.trade^$all
 ||thinkmarket.trade^$all
-||thorswap.trade^$all
 ||track-portfolio.trade^$all
-||traderjoexyz.trade^$all
 ||trsutwallet.trade^$all
 ||trustawllet.trade^$all
 ||trustwalletcard.trade^$all
@@ -111954,7 +111903,6 @@
 ||djgja242dfa.xyz^$all
 ||dnau-getfkdwhocares123.xyz^$all
 ||docs-hyperfoundation.xyz^$all
-||dodoex.xyz^$all
 ||app.dogecoininvest.xyz^$all
 ||domidex.xyz^$all
 ||dominancemarket.xyz^$all
@@ -114674,7 +114622,6 @@
 ||nodefisolver.xyz^$all
 ||nodesphere-sol.xyz^$all
 ||nodesynsolver.xyz^$all
-||nodetra.xyz^$all
 ||nonekid.xyz^$all
 ||noodle-smart-jealous.xyz^$all
 ||cowswap.norent.xyz^$all
@@ -114792,7 +114739,6 @@
 ||org-portfolio.xyz^$all
 ||org-swap.xyz^$all
 ||org-us.xyz^$all
-||origindefi-anubis.xyz^$all
 ||origindefirocket.xyz^$all
 ||osejp.xyz^$all
 ||osero-whitelist.xyz^$all
@@ -117373,7 +117319,6 @@
 ||trade-sushi.xyz^$all
 ||trade-v3.xyz^$all
 ||trade-world.xyz^$all
-||traderjoexyz.xyz^$all
 ||traderzoom.xyz^$all
 ||trading-hyperliquid.xyz^$all
 ||tramplin-claims.xyz^$all
@@ -118359,7 +118304,6 @@
 ||whitelist-world.xyz^$all
 ||whitelists-nado.xyz^$all
 ||whitelistt.xyz^$all
-||whopchecker.xyz^$all
 ||wif-airdrop.xyz^$all
 ||window-hyperfoundation.xyz^$all
 ||window-usepaid.xyz^$all

@@ -863,7 +863,6 @@ calmeet.app
 campaign-aave.app
 campaign-xaman.app
 capcutprodownload.app
-carbondefi.app
 cardtrustwallet.app
 cardvisaspend.app
 carolla.app
@@ -1390,7 +1389,6 @@ distributions-firelight.app
 distributions-flarenetwork.app
 distributions-usepaid.app
 dnsjumper.app
-dodoex.app
 dominion-market.app
 dominionmarket.app
 dominionmarkets.app
@@ -1995,7 +1993,6 @@ mintswap.app
 mira-net.app
 mnemonic-ledger.app
 claim.monad-portal.app
-moongem.app
 moonshot-verif.app
 moonshot-vote.app
 moonshote.app
@@ -8282,7 +8279,6 @@ points-fraxfinance.app
 points-hyperlend.app
 points-pendle.app
 points-solsticefinance.app
-points-tydro.app
 points-variational.app
 points-xstocks.app
 poll-xaman.app
@@ -8318,7 +8314,6 @@ predictum.app
 premium-trust.app
 premium-trustwallet.app
 premiumwallet.app
-presale-remittix.app
 privacy-ledger.app
 privypets.app
 proaave.app
@@ -8645,7 +8640,6 @@ sparkdexvote.app
 sparkydraw.app
 spend-partner.app
 spendpartner.app
-spiritswap.app
 spookyswap.app
 sso-ledger.app
 sso-trezor.app
@@ -8791,7 +8785,6 @@ tornado-cash.app
 toupie.app
 trade-paperdex.app
 tradepools.app
-traderjoexyz.app
 transfer-wallet.app
 treasury-arcium.app
 treasury-flare.app
@@ -12013,7 +12006,6 @@ werknova.app
 whitelist-papertrade.app
 whitelist-usepaid.app
 whitelist-xarnan.app
-whopaccounts.app
 whopweb3.app
 wildyield.app
 window-xam.app
@@ -22750,7 +22742,6 @@ ethereum2.360app.com
 401400-crypto.com
 402518robinhood.com
 402815-crypto.com
-4031-gmail.com
 403921-google.com
 403921coinbase.com
 404903binance.com
@@ -29403,6 +29394,7 @@ com-gift-cards-avax.com
 com-gift-cards-bch.com
 com-gift-cards-bnb.com
 com-gift-cards-btc.com
+bitrefill.com-gift-cards-cake.com
 bitrefill.com-gift-cards-dash.com
 com-gift-cards-doge.com
 com-gift-cards-dot.com
@@ -43292,7 +43284,6 @@ solctise.com
 sold-ledger.com
 solex-eu.com
 solflame-finance.com
-solflare-card.com
 solflare-vip.com
 solflare-wal.com
 solflarewallet-us.com
@@ -75667,7 +75658,6 @@ blakbit.exchange
 blakcbit.exchange
 botalpha.exchange
 buysellcrypto.exchange
-carbondefi.exchange
 cashmerelabs.exchange
 changely.exchange
 check-extended.exchange
@@ -75678,10 +75668,8 @@ com-exchange-q-web3-chrome.exchange
 convert.exchange
 covert.exchange
 cryptoice.exchange
-debridge.exchange
 deribit.exchange
 docketx.exchange
-dodoex.exchange
 eango.exchange
 easytrading.exchange
 edegx.exchange
@@ -75709,14 +75697,10 @@ koinex.exchange
 layerswap.exchange
 limitess.exchange
 liquidswap.exchange
-mav.exchange
 mex.exchange
 mykraken.exchange
 nft2014.exchange
 nokyczone.exchange
-optimism.exchange
-orbiter.exchange
-osmosis.exchange
 alpha-dapps.padswap.exchange
 beta-dapps.padswap.exchange
 phantomwall.exchange
@@ -75724,7 +75708,6 @@ pharoah.exchange
 pitaes.exchange
 piteas.exchange
 polylion.exchange
-portalbridge.exchange
 prjx.exchange
 proposal-jumper.exchange
 pumpswap.exchange
@@ -75779,10 +75762,8 @@ roxketx.exchange
 rpcketx.exchange
 rrocketx.exchange
 satellite.exchange
-scroll.exchange
 sodex.exchange
 solanas.exchange
-spiritswap.exchange
 support-binance.exchange
 tge-extended.exchange
 tmgm-chinese.exchange
@@ -76069,7 +76050,6 @@ apps-firelights.finance
 apyxfi.finance
 artificial-intelligence-capital.finance
 badge-firelight.finance
-bancor.finance
 banking-circle.finance
 barbecueswap.finance
 basepad.finance
@@ -76083,9 +76063,7 @@ borosfi-pendle.finance
 borosfinance-pendle.finance
 borosfinances-pendle.finance
 builders-pendle.finance
-bungee.finance
 app.cakewallet.finance
-carbondefi.finance
 check-doppler.finance
 check-firelight.finance
 check-onre.finance
@@ -76172,7 +76150,6 @@ distribution-theindex.finance
 distribution-umia.finance
 distributions-theindex.finance
 dixt.finance
-dodoex.finance
 donaldtrump.finance
 dora-compliance.finance
 dotdot.finance
@@ -76344,7 +76321,6 @@ moon-well.finance
 moonwell-dashboard.finance
 moonwell-revoke.finance
 morpho-mainstreet.finance
-multichain.finance
 multiplierondo.finance
 my1.finance
 myetherwallet.finance
@@ -77898,7 +77874,6 @@ worldlibertybuy.webby.fun
 welcome-alt.fun
 airdrop.wenbase.fun
 wenko.fun
-whitelist-alt.fun
 whitelists-alt.fun
 worldliquidity.fun
 jupiter.wunschpunsch.fun
@@ -81226,7 +81201,6 @@ log-session.info
 login-auth.info
 longbowcash.info
 loopring-claim.info
-loopscalesdesign.info
 losangeleswin.info
 lumiafi.info
 lvvas.info
@@ -87650,7 +87624,6 @@ dexsyncvalidsolution.live
 dexthonx.live
 dexwallet.live
 dfximpact.live
-digitalvaultresolve.live
 discount-sales.live
 distribute-xrpl.live
 distribution-aura.live
@@ -89605,7 +89578,6 @@ cow.ag-sushi.lol
 twt.ag-sushi.lol
 wsteth.ag-sushi.lol
 ai-openclaw.lol
-aiiqcoinsol.lol
 airdrop2p.lol
 airdropbull.lol
 airdroped.lol
@@ -89766,7 +89738,6 @@ ctpm.lol
 cyber-leek.lol
 cyberfaucet.lol
 decrypto.lol
-degencoinsolanas.lol
 dejavu-ai.lol
 dexump.lol
 dezentracore.lol
@@ -89799,7 +89770,6 @@ evmcheck-qt.lol
 evmcheck-sz.lol
 evmcheck-xw.lol
 evmcheck-zg.lol
-excoinonsol.lol
 fasset.lol
 fdsdsf.lol
 firelight.lol
@@ -89861,8 +89831,6 @@ laykaet.lol
 le4w5thr.lol
 leopardcoinbsc.lol
 light-source.lol
-littlejoeonsol.lol
-littlejoesol.lol
 lnchc1y.lol
 lobbycoinredohio.lol
 lobsterredbnb.lol
@@ -89895,7 +89863,6 @@ mneme.lol
 monadairdrop.lol
 moonjoin.lol
 moonlisting.lol
-moonpepeonsol.lol
 moonsgetv.lol
 moonshoot-vote.lol
 moonshootvote.lol
@@ -93058,7 +93025,6 @@ trackintel.net
 ua.tradefaq.net
 tradegrok.net
 trademxai.net
-traderjoexyz.net
 tradinggrok.net
 tradsgnalex.net
 tradsignalex.net
@@ -95533,7 +95499,6 @@ cake-swap.org
 free-download.camdvr.org
 capcutapkk.org
 capitalboosts.org
-carbondefi.org
 cards-tw.org
 cardtrustwallet.org
 cardwallettws.org
@@ -97089,7 +97054,6 @@ tornadomixer.org
 tp-wallets.org
 tpwallets.org
 traderdojo.org
-traderjoexyz.org
 tradetide.org
 tradingrepublic.org
 dogecoincasino.nl.traffborris1.org
@@ -103534,7 +103498,6 @@ polymarket.skin
 portallogonapp.skin
 predictex.skin
 rewardss.skin
-trust1.skin
 exodus.com.sl
 ledger.com.sl
 pro-coinbase.blogspot.sn
@@ -107601,7 +107564,6 @@ beta-web3.trade
 bitmarrt.trade
 webtrader.blackr.trade
 bulletxyz.trade
-carbondefi.trade
 cgtp.trade
 chanigpt.trade
 claim-altura.trade
@@ -107638,7 +107600,6 @@ dao-pools.trade
 dappos.trade
 dashboard-hyena.trade
 dashboard-pools.trade
-debridge.trade
 decenrtalized.trade
 defibot.trade
 deltafi.trade
@@ -107646,7 +107607,6 @@ dexscerener.trade
 dexsport.trade
 dhamra.trade
 distribution-pancake.trade
-dodoex.trade
 drifts.trade
 dxescreener.trade
 e-ai.trade
@@ -107689,7 +107649,6 @@ hype-rewards.trade
 hyperbeat.trade
 hyperliquid-rewards.trade
 hyperliquidfoundation.trade
-hyperpredict.trade
 intefrace.trade
 intentx.trade
 jupiter-verified.trade
@@ -107709,7 +107668,6 @@ metaamsk.trade
 metaamskswap.trade
 metamask.trade
 allocation.metisl2token.trade
-multichain.trade
 mytradingapp.trade
 naerly.trade
 narly.trade
@@ -107727,8 +107685,6 @@ orionchain365.trade
 pack-margin.trade
 pancaekswap.trade
 pancake-rewards.trade
-pancakeswap.trade
-paraswap.trade
 phatnomwallet.trade
 pheonix.trade
 phoenixswap.trade
@@ -107738,7 +107694,6 @@ polymarkets.trade
 ponsterminal.trade
 pooles.trade
 porftolio.trade
-portalbridge.trade
 poylmarket.trade
 privacypools.trade
 proposal-liquid.trade
@@ -107751,7 +107706,6 @@ pump-fun.trade
 pumpfunlive.trade
 pupmfun.trade
 qiado.trade
-quickswap.trade
 rayd1um.trade
 raydu1m.trade
 rayidum.trade
@@ -107770,21 +107724,16 @@ sidehsift.trade
 sleepagotchi.trade
 solscan.trade
 sovl.trade
-spiritswap.trade
-squidrouter.trade
 srk-earn.trade
 sunwsap.trade
 swap-bridge.trade
-synapseprotocol.trade
 syntehtix.trade
 talentre.trade
 tehgraph.trade
 tesorro365.trade
 thebeginning.trade
 thinkmarket.trade
-thorswap.trade
 track-portfolio.trade
-traderjoexyz.trade
 trsutwallet.trade
 trustawllet.trade
 trustwalletcard.trade
@@ -111954,7 +111903,6 @@ djdjjjjjjjjj.xyz
 djgja242dfa.xyz
 dnau-getfkdwhocares123.xyz
 docs-hyperfoundation.xyz
-dodoex.xyz
 app.dogecoininvest.xyz
 domidex.xyz
 dominancemarket.xyz
@@ -114674,7 +114622,6 @@ nodefi99.xyz
 nodefisolver.xyz
 nodesphere-sol.xyz
 nodesynsolver.xyz
-nodetra.xyz
 nonekid.xyz
 noodle-smart-jealous.xyz
 cowswap.norent.xyz
@@ -114792,7 +114739,6 @@ org-en.xyz
 org-portfolio.xyz
 org-swap.xyz
 org-us.xyz
-origindefi-anubis.xyz
 origindefirocket.xyz
 osejp.xyz
 osero-whitelist.xyz
@@ -117373,7 +117319,6 @@ rob.trade-pool.xyz
 trade-sushi.xyz
 trade-v3.xyz
 trade-world.xyz
-traderjoexyz.xyz
 traderzoom.xyz
 trading-hyperliquid.xyz
 tramplin-claims.xyz
@@ -118359,7 +118304,6 @@ whitelist-papertrade.xyz
 whitelist-world.xyz
 whitelists-nado.xyz
 whitelistt.xyz
-whopchecker.xyz
 wif-airdrop.xyz
 window-hyperfoundation.xyz
 window-usepaid.xyz
