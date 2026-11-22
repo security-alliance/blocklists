@@ -20961,15 +20961,6 @@ clashx.co
 cloudnexuslab.co
 cmejp.co
 cmtdigital.co
-coin-strike-4.co
-coin-strike-432.co
-coin-strike-casino.co
-coin-strike-demo.co
-coin-strike-hold-and-win.co
-coin-strike-slot.co
-coin-volcano-casino.co
-coin-volcano-download.co
-coin-volcano-gratuit.co
 coinbase-628177.co
 coinbase-anthony.co
 coinbase-log-in.co
@@ -23474,7 +23465,6 @@ client.731943-cb.com
 73727kraken.com
 737281coinbase.com
 738141-binance.com
-738492-coinbase.com
 client.738620-cb.com
 738913-voyager.com
 73892-kraken.com
@@ -25589,7 +25579,6 @@ attachment-x.com
 attempts-coinbase.com
 atvbuyer.com
 atvids.com
-au-coinledger.com
 au-gt.com
 au-rain-bet.com
 au-rainbet.com
@@ -25651,7 +25640,6 @@ auth-review.com
 auth-sceneunlock.com
 auth-securebnklogln.com
 auth-server-login-cen1tk-service-gov.com
-auth-stake.com
 auth-system-java.com
 auth0-google.com
 auth0-gov-dev-edge.com
@@ -87070,7 +87058,6 @@ asterextrade.live
 aurawallet.live
 auth-firelight.live
 auth-firelightfi.live
-auth-gateway-service.live
 auth07-ledger.live
 auth08-ledger.live
 auth09-ledger.live
@@ -89485,7 +89472,6 @@ ch-pay-secure.lol
 cheapbugs.lol
 checker-yieldbasis.lol
 checkix.lol
-claim-capicatr.lol
 claim-firelight.lol
 claim-flarenetwork.lol
 claim-gake.lol
@@ -99242,7 +99228,6 @@ rbal.pub
 agenda.pw
 arcusxyz.pw
 bullverse.pw
-cannabis-coin.pw
 cashcat.pw
 chiliz.pw
 concretexyz.pw
@@ -99845,14 +99830,6 @@ authenticbookchannel.sbs
 authenticlearncourse.sbs
 authenticvideoaid.sbs
 autofamr.sbs
-awardsfd.sbs
-awardsfk.sbs
-awardspd.sbs
-awardspf.sbs
-awardspr.sbs
-awardstd.sbs
-awardstp.sbs
-awardsty.sbs
 axiomtrade.sbs
 axisrobotics.sbs
 axisvotes.sbs
@@ -110669,7 +110646,6 @@ babylonlabs-vote.xyz
 babylonlabs-voteapp.xyz
 babylonlabsapp-vote.xyz
 babylonlabsvote-app.xyz
-backpack-airdrop.xyz
 bacon-zero-awake.xyz
 badge-firelight.xyz
 bagfumbled.xyz
@@ -111130,7 +111106,6 @@ claim-ultiland.xyz
 claim-usdai.xyz
 claim-usepaid.xyz
 claim-world.xyz
-claim-xmagnetic.xyz
 claim-xrphealthcare.xyz
 claim-xrpl.xyz
 claim-zeus.xyz
