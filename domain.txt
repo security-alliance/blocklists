@@ -48878,7 +48878,6 @@ en-jaxxlibretiy.wixstudio.com
 en-jaxxlibretyapps.wixstudio.com
 en-jaxxlibrtyy.wixstudio.com
 en-koinbasewallet.wixstudio.com
-en-krakun.wixstudio.com
 en-krakuncdn.wixstudio.com
 en-krkken-apps.wixstudio.com
 en-krrkin-app.wixstudio.com
