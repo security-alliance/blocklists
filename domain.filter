@@ -971,7 +971,6 @@
 ||com-find-devices.app^$all
 ||com-helpdesk.app^$all
 ||com-live-start.app^$all
-||com-livewallet.app^$all
 ||com-online-wallel.app^$all
 ||com-qr.app^$all
 ||com-secure-live.app^$all
@@ -17568,7 +17567,6 @@
 ||usdts.cfd^$all
 ||usenosh.cfd^$all
 ||usfidorafuniklef.cfd^$all
-||v2-ray.cfd^$all
 ||v2-rubic.cfd^$all
 ||v4-ledger.cfd^$all
 ||v6ept-5fi6z-irdjcj.cfd^$all
@@ -20564,17 +20562,8 @@
 ||zhz-okx.com.cn^$all
 ||zhzh-okx.com.cn^$all
 ||zkjx-okx.com.cn^$all
-||zoom-a.com.cn^$all
-||zoom-b.com.cn^$all
-||zoom-c.com.cn^$all
 ||zoom-cloud.com.cn^$all
-||zoom-d.com.cn^$all
 ||zoom-download.com.cn^$all
-||zoom-e.com.cn^$all
-||zoom-f.com.cn^$all
-||zoom-g.com.cn^$all
-||zoom-h.com.cn^$all
-||zoom-j.com.cn^$all
 ||zoom-setup.com.cn^$all
 ||zoom-video.com.cn^$all
 ||zoom-whatssapp.com.cn^$all
@@ -21500,7 +21489,6 @@
 ||us-zoom.co^$all
 ||us02live.co^$all
 ||us05cloud.co^$all
-||us06zoomwebinvite.co^$all
 ||usdfi.co^$all
 ||usdt-wallet.co^$all
 ||usdt0.co^$all
@@ -30028,7 +30016,6 @@
 ||contentescalation-x.com^$all
 ||contentflag-x.com^$all
 ||contentflow-x.com^$all
-||contentguideline-x.com^$all
 ||contentinform-x.com^$all
 ||contentintegrity-x.com^$all
 ||contentinvestigation-x.com^$all
@@ -31101,7 +31088,6 @@
 ||dinoscoin.com^$all
 ||direct-kraken.com^$all
 ||direct-trust.com^$all
-||direct-trust-wallet.com^$all
 ||direct-whatsapp.com^$all
 ||directassetreclaim.com^$all
 ||directiveissue-x.com^$all
@@ -34367,7 +34353,6 @@
 ||growinmeadowvale.com^$all
 ||growmetryops.com^$all
 ||growth-zoominfo.com^$all
-||growthlab-x.com^$all
 ||growveracycle.com^$all
 ||groxtrade.com^$all
 ||grsudq.com^$all
@@ -36410,7 +36395,6 @@
 ||l-leger.com^$all
 ||l-trezorsuite.com^$all
 ||l-trustwallet.com^$all
-||lab-sora-airdrop.com^$all
 ||labs-ethena.com^$all
 ||lacartadetubar.com^$all
 ||lace-desktopwallet.com^$all
@@ -36612,7 +36596,6 @@
 ||legalassets-x.com^$all
 ||legalcasedmca-x.com^$all
 ||legalcomms-x.com^$all
-||legaldecision-x.com^$all
 ||legaldispute-x.com^$all
 ||legaldmca-x.com^$all
 ||legalfaq-x.com^$all
@@ -37587,7 +37570,6 @@
 ||metamaskweb.com^$all
 ||metamaskweb3wallet.com^$all
 ||metamaskwebapp.com^$all
-||metamaskx.com^$all
 ||metamaslogi.com^$all
 ||metameska.com^$all
 ||metameskae.com^$all
@@ -39366,7 +39348,6 @@
 ||org-app-dex.com^$all
 ||org-clarity.com^$all
 ||org-download.com^$all
-||org-erefil.com^$all
 ||org-fast-chain-v4.com^$all
 ||org-ment.com^$all
 ||org-updatesendgrid.com^$all
@@ -43389,7 +43370,6 @@
 ||muefif.sookgo.com^$all
 ||soporte-coinbase.com^$all
 ||soporte-entrega.com^$all
-||sora-lab-airdrop.com^$all
 ||sorafex.com^$all
 ||sorare-web.com^$all
 ||sorevasgroup.com^$all
@@ -44329,7 +44309,6 @@
 ||teams7web.com^$all
 ||teams9web.com^$all
 ||teamsapp-microsoft.com^$all
-||teamscallrecorder.com^$all
 ||teamsincro.com^$all
 ||teamsinvite.com^$all
 ||teamsliues.com^$all
@@ -44652,7 +44631,6 @@
 ||thomas-coinbase.com^$all
 ||thomaswang94.com^$all
 ||thompsonsmithwrites.com^$all
-||thorchain-revoke.com^$all
 ||thorchain-swap.com^$all
 ||thornvalelegal.com^$all
 ||thorwalletupdate.com^$all
@@ -89421,7 +89399,6 @@
 ||webprotection-ledger.live^$all
 ||webteams.live^$all
 ||webupdate-ledger.live^$all
-||webzoominvite.live^$all
 ||weinertoken.live^$all
 ||wepechain.live^$all
 ||wepelaunch.live^$all
@@ -89566,7 +89543,6 @@
 ||zoom-meetings.live^$all
 ||zoom-update.live^$all
 ||zoom-us.live^$all
-||zoom657.live^$all
 ||zoomconnects.live^$all
 ||zoomconnectsession.live^$all
 ||zoomcrestlive.live^$all
@@ -93210,7 +93186,6 @@
 ||unijoinbtc.net^$all
 ||unikyber.net^$all
 ||uniswap-exchange-trade-on-defi.net^$all
-||uniswap-exchanges.net^$all
 ||uniswapping.net^$all
 ||uniswapv3staker.net^$all
 ||uo93dxfqes1mzybu.net^$all
@@ -94617,7 +94592,6 @@
 ||ladger-update.online^$all
 ||ledgersynchronization.online^$all
 ||legalaction-x.online^$all
-||legaldecision-x.online^$all
 ||legalfile-x.online^$all
 ||legalhelp-x.online^$all
 ||legalrecord-x.online^$all
@@ -98376,7 +98350,6 @@
 ||proposal.plus^$all
 ||rainbet.plus^$all
 ||trust-wallet.plus^$all
-||x-help.plus^$all
 ||kucoin.pm^$all
 ||cristal.poker^$all
 ||exodus.com.pr^$all
@@ -101706,7 +101679,6 @@
 ||securedfilesharedviaa-a-reader.sbs^$all
 ||securitize.sbs^$all
 ||senpi.sbs^$all
-||serv-auth-central-hub.sbs^$all
 ||service-compliance.sbs^$all
 ||sfonkbroker.sbs^$all
 ||shared-docu-cloud9.sbs^$all
@@ -117625,7 +117597,6 @@
 ||umiafinance.xyz^$all
 ||uncle-forum-kit.xyz^$all
 ||uni-checkdev.xyz^$all
-||unichaincoin.xyz^$all
 ||unicornmemecoin.xyz^$all
 ||uniexchanger.xyz^$all
 ||unipeg-vote.xyz^$all
@@ -118581,7 +118552,6 @@
 ||x-clouds.xyz^$all
 ||x-firelight.xyz^$all
 ||x-flarenetworks.xyz^$all
-||x-jitonetwork.xyz^$all
 ||x-meiterminal.xyz^$all
 ||x-neobank.xyz^$all
 ||x-pages.xyz^$all

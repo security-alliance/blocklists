@@ -971,7 +971,6 @@ com-find-device.app
 com-find-devices.app
 com-helpdesk.app
 com-live-start.app
-com-livewallet.app
 com-online-wallel.app
 com-qr.app
 com-secure-live.app
@@ -17568,7 +17567,6 @@ usdds.cfd
 usdts.cfd
 usenosh.cfd
 usfidorafuniklef.cfd
-v2-ray.cfd
 v2-rubic.cfd
 v4-ledger.cfd
 v6ept-5fi6z-irdjcj.cfd
@@ -20564,17 +20562,8 @@ zhweb-okx.com.cn
 zhz-okx.com.cn
 zhzh-okx.com.cn
 zkjx-okx.com.cn
-zoom-a.com.cn
-zoom-b.com.cn
-zoom-c.com.cn
 zoom-cloud.com.cn
-zoom-d.com.cn
 zoom-download.com.cn
-zoom-e.com.cn
-zoom-f.com.cn
-zoom-g.com.cn
-zoom-h.com.cn
-zoom-j.com.cn
 zoom-setup.com.cn
 zoom-video.com.cn
 zoom-whatssapp.com.cn
@@ -21500,7 +21489,6 @@ us-web.co
 us-zoom.co
 us02live.co
 us05cloud.co
-us06zoomwebinvite.co
 usdfi.co
 usdt-wallet.co
 usdt0.co
@@ -30028,7 +30016,6 @@ contentescalate-x.com
 contentescalation-x.com
 contentflag-x.com
 contentflow-x.com
-contentguideline-x.com
 contentinform-x.com
 contentintegrity-x.com
 contentinvestigation-x.com
@@ -31101,7 +31088,6 @@ urarr.dingdongka.com
 dinoscoin.com
 direct-kraken.com
 direct-trust.com
-direct-trust-wallet.com
 direct-whatsapp.com
 directassetreclaim.com
 directiveissue-x.com
@@ -34367,7 +34353,6 @@ grovestay.com
 growinmeadowvale.com
 growmetryops.com
 growth-zoominfo.com
-growthlab-x.com
 growveracycle.com
 groxtrade.com
 grsudq.com
@@ -36410,7 +36395,6 @@ l-learn.com
 l-leger.com
 l-trezorsuite.com
 l-trustwallet.com
-lab-sora-airdrop.com
 labs-ethena.com
 lacartadetubar.com
 lace-desktopwallet.com
@@ -36612,7 +36596,6 @@ legalaction-x.com
 legalassets-x.com
 legalcasedmca-x.com
 legalcomms-x.com
-legaldecision-x.com
 legaldispute-x.com
 legaldmca-x.com
 legalfaq-x.com
@@ -37587,7 +37570,6 @@ metamaskwalletweb3.com
 metamaskweb.com
 metamaskweb3wallet.com
 metamaskwebapp.com
-metamaskx.com
 metamaslogi.com
 metameska.com
 metameskae.com
@@ -39366,7 +39348,6 @@ orexcapinvs.com
 org-app-dex.com
 org-clarity.com
 org-download.com
-org-erefil.com
 org-fast-chain-v4.com
 org-ment.com
 org-updatesendgrid.com
@@ -43389,7 +43370,6 @@ sonicstaking.com
 muefif.sookgo.com
 soporte-coinbase.com
 soporte-entrega.com
-sora-lab-airdrop.com
 sorafex.com
 sorare-web.com
 sorevasgroup.com
@@ -44329,7 +44309,6 @@ teams6web.com
 teams7web.com
 teams9web.com
 teamsapp-microsoft.com
-teamscallrecorder.com
 teamsincro.com
 teamsinvite.com
 teamsliues.com
@@ -44652,7 +44631,6 @@ thnkmrkts.com
 thomas-coinbase.com
 thomaswang94.com
 thompsonsmithwrites.com
-thorchain-revoke.com
 thorchain-swap.com
 thornvalelegal.com
 thorwalletupdate.com
@@ -89421,7 +89399,6 @@ webprotect-ledger.live
 webprotection-ledger.live
 webteams.live
 webupdate-ledger.live
-webzoominvite.live
 weinertoken.live
 wepechain.live
 wepelaunch.live
@@ -89566,7 +89543,6 @@ zoom-invite.live
 zoom-meetings.live
 zoom-update.live
 zoom-us.live
-zoom657.live
 zoomconnects.live
 zoomconnectsession.live
 zoomcrestlive.live
@@ -93210,7 +93186,6 @@ unicardsoficial.net
 unijoinbtc.net
 unikyber.net
 uniswap-exchange-trade-on-defi.net
-uniswap-exchanges.net
 uniswapping.net
 uniswapv3staker.net
 uo93dxfqes1mzybu.net
@@ -94617,7 +94592,6 @@ kyber-swap.online
 ladger-update.online
 ledgersynchronization.online
 legalaction-x.online
-legaldecision-x.online
 legalfile-x.online
 legalhelp-x.online
 legalrecord-x.online
@@ -98376,7 +98350,6 @@ polymarket.plus
 proposal.plus
 rainbet.plus
 trust-wallet.plus
-x-help.plus
 kucoin.pm
 cristal.poker
 exodus.com.pr
@@ -101706,7 +101679,6 @@ secured-connecting-v4.sbs
 securedfilesharedviaa-a-reader.sbs
 securitize.sbs
 senpi.sbs
-serv-auth-central-hub.sbs
 service-compliance.sbs
 sfonkbroker.sbs
 shared-docu-cloud9.sbs
@@ -117625,7 +117597,6 @@ umbra-voting.xyz
 umiafinance.xyz
 uncle-forum-kit.xyz
 uni-checkdev.xyz
-unichaincoin.xyz
 unicornmemecoin.xyz
 uniexchanger.xyz
 unipeg-vote.xyz
@@ -118581,7 +118552,6 @@ x-accountaccess.xyz
 x-clouds.xyz
 x-firelight.xyz
 x-flarenetworks.xyz
-x-jitonetwork.xyz
 x-meiterminal.xyz
 x-neobank.xyz
 x-pages.xyz
