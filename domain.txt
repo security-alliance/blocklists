@@ -19133,7 +19133,6 @@ compound-finances.stakingreward.cloud
 double-zeros.stakingreward.cloud
 doublezeros.stakingreward.cloud
 eigen.stakingreward.cloud
-gtc.stakingreward.cloud
 interface-links.stakingreward.cloud
 interface-railguns.stakingreward.cloud
 interface-wxt.stakingreward.cloud
