@@ -18481,7 +18481,6 @@ rubic-swap.click
 rubic-v2.click
 rubic-v3.click
 rubup.click
-rugme.click
 rysk.click
 s7-ethena.click
 saturncredit.click
@@ -21339,7 +21338,6 @@ pulsechainapp.co
 pumpfunlive.co
 bridge.puslechain.co
 qevrion.co
-qfsassetweb3-ledger.co
 rabbby.co
 rain-bet.co
 rainbet.co
@@ -23180,7 +23178,6 @@ coinbase.564782.com
 58772-coinspot.com
 589140-crypto.com
 589329-login-binance.com
-5894038-kraken.com
 58981kraken.com
 arbitrum.58bbq.com
 58road.com
@@ -45450,7 +45447,6 @@ trustwalletchargeback.com
 trustwalletcheck.com
 trustwalletcloud.com
 trustwalletcold.com
-trustwalletcompany.com
 trustwalletcore.com
 trustwalletcredit.com
 trustwalletcryptocards.com
@@ -45994,7 +45990,6 @@ updater-gmeet.com
 updater-wechat.com
 updaterequets-x.com
 updatereuters.com
-updates-ankr.com
 updates-gemini.com
 updates-phantom.com
 updates-prjx.com
@@ -82386,7 +82381,6 @@ desktopsuite.io
 betgrw-betsite.dgbuilder.io
 distribution-blosk.io
 distribution-remittix.io
-dixian.io
 dnsjumper.io
 docs-sign.io
 phanttomeextension.dorik.io
@@ -93823,7 +93817,6 @@ connect-flarenetworks.one
 cryptoweb3.one
 curvefinance.one
 daadeinvite.one
-dapplaunchpad.one
 dashboard-aave.one
 ddjys.one
 claim.deepbook.one
@@ -104429,7 +104422,6 @@ contentaction-x.team
 contentactions-x.team
 contentappealcase-x.team
 contentappealcases-x.team
-contentdmcacases-x.team
 contentdmcacasesx-x.team
 contentdmcacasex-x.team
 customerassist.team
