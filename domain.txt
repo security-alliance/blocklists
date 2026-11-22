@@ -12627,7 +12627,6 @@ s1-safepal.at
 scotiaconnect-business.at
 sefepal.at
 121hiu.senes.at
-121jio.senes.at
 shop-ledger.at
 simpleswap-dex.at
 skinbaronn.at
