@@ -1090,7 +1090,6 @@
 ||htx-logen.created.app^$all
 ||hub-uphold.created.app^$all
 ||intro-uphload.created.app^$all
-||intro-uphold.created.app^$all
 ||join-uphold.created.app^$all
 ||krakn-log-im.created.app^$all
 ||learn-uphold.created.app^$all
