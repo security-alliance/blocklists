@@ -26378,7 +26378,6 @@ billytheboi.com
 bilockchain.com
 bim-finance.com
 bimudex.com
-bin-hyper.com
 binanc-ewallet.com
 binanc-listing.com
 binance-authenticate.com
@@ -78796,7 +78795,6 @@ beta-revoke.icu
 beta-revokes.icu
 bezoi.icu
 bideroma.icu
-bitethir.icu
 bitget-support.icu
 bito.icu
 blackbullsol.icu
@@ -86274,7 +86272,6 @@ assets-fwa.lat
 asterdexvote.lat
 auth-verifua.lat
 avantis.lat
-babytrollcoins.lat
 inky.beefy-hub.lat
 betw.lat
 bitfinextrc.lat
@@ -86304,7 +86301,6 @@ checker-jumper.lat
 checker-world.lat
 chiliz.lat
 chilliz.lat
-cjpcoin.lat
 claim-entropy.lat
 claim-onre.lat
 claimmegaeth.lat
@@ -86439,7 +86435,6 @@ grvtrewards.lat
 guabira.lat
 harmonixfi.lat
 hashcats.lat
-hausdorff.lat
 hookr.lat
 hub-jumperxyz.lat
 hubs-doppler.lat
@@ -86489,10 +86484,8 @@ longboweco.lat
 longbowlend.lat
 loopscale.lat
 lynkpay.lat
-manifestingonsol.lat
 manual-verify093487.lat
 maplefinance.lat
-meekasol.lat
 melee.lat
 memescandata.lat
 merklxyz.lat
@@ -86544,7 +86537,6 @@ pendlefinances.lat
 penldeflnance.lat
 perk-money.lat
 perkmoney.lat
-pigeoncoin.lat
 plasmafoundation.lat
 plumenetwork.lat
 pluss-500.lat
@@ -86624,7 +86616,6 @@ solfrex.lat
 solstice-finance.lat
 solstice-finances.lat
 solsticefi.lat
-solsticefinance.lat
 solsticefinances.lat
 solstices-fi.lat
 solvfinance.lat
@@ -86635,7 +86626,6 @@ spark-finance.lat
 sparkdotfi.lat
 sparkfin.lat
 sparkfinance.lat
-spcxmeme.lat
 olas.spksushi.lat
 spritehoodeco.lat
 stable-rewards.lat
@@ -89954,7 +89944,6 @@ sparkdex.lol
 sparkdotfi.lol
 sparkfinances.lol
 sparknet.lol
-spcxmem.lol
 sphincs.lol
 spin-game.lol
 spumps.lol
@@ -92977,7 +92966,6 @@ thecompliancehq.net
 think-market.net
 thinkmarket.net
 thor-swap.net
-thorchain-revoke.net
 tmgmllc.net
 tmgmllc-pro.net
 tmgmllcmax.net
@@ -93598,7 +93586,6 @@ xrp-fi-flare.network
 xrp-flaress.network
 xrpfi-flare.network
 xtz.network
-yoprotocol.network
 coinbase-email-notification-clone-0o2vaz9h.sites.blink.new
 trustwallet-ww3046.public.builtwithrocket.new
 ledger.com.new
@@ -95404,7 +95391,6 @@ bigeyeschain.org
 billing-kraken.org
 billing-tw.org
 billing-tws.org
-bin-hyper.org
 binancebx.org
 binancegg.org
 binancegm.org
@@ -100293,7 +100279,6 @@ ethereum-rewards.sbs
 etherscan-send.sbs
 ethersfi.sbs
 ethesrcan.sbs
-ethgasfoundation.sbs
 ethglobals.sbs
 ethsystems.sbs
 eucoins.sbs
@@ -101190,7 +101175,6 @@ glbuniquetrade.sbs
 globalexpertsanalysis.sbs
 gmgn-portfolio.sbs
 gokiteai.sbs
-goodboyrocky.sbs
 googlenow.sbs
 aave-app-dashboard.gora61.sbs
 gorld.sbs
@@ -101265,7 +101249,6 @@ io-v2.sbs
 itnerface.sbs
 j1ljo.sbs
 jackpot-web3.sbs
-jailed.sbs
 joinopenstandard.sbs
 joinzoomaindocs.sbs
 jupcatsol.sbs
@@ -101503,7 +101486,6 @@ pumpz.sbs
 punmp.sbs
 punnp-tokens.sbs
 punpfun.sbs
-purplebitcoin.sbs
 puump.sbs
 pythfinancestaking.sbs
 qc3siu.sbs
@@ -101636,7 +101618,6 @@ sparksfi.sbs
 sparksfin.sbs
 sparksnet.sbs
 sparrowwallet.sbs
-spcxmeme.sbs
 squidrouter.sbs
 ss-trustwallet.sbs
 ss-v3.sbs
@@ -101696,7 +101677,6 @@ testoss.sbs
 tge-concrete.sbs
 tge-concretefoundation.sbs
 theniaoffice.sbs
-thesymbiotelab.sbs
 threshold.sbs
 tmx-appeal.sbs
 todaysreward.sbs
@@ -101850,7 +101830,6 @@ xyz-buildonv3.sbs
 xyz-linkintodapp.sbs
 xyz-main.sbs
 xyz-proposal.sbs
-yaecoin.sbs
 yearnfi.sbs
 yieldfields.sbs
 app.z-i-r.sbs
@@ -104462,7 +104441,6 @@ contentaction-x.team
 contentactions-x.team
 contentappealcase-x.team
 contentappealcases-x.team
-contentdmcacase-x.team
 contentdmcacases-x.team
 contentdmcacasesx-x.team
 contentdmcacasex-x.team
@@ -105007,7 +104985,6 @@ apyxfi.today
 asterdex-vote.today
 asterdexvote.today
 authenticate.today
-babytroll.today
 bitlino.today
 centrifuge.today
 citrea-reward.today
@@ -114216,7 +114193,6 @@ melaniamems.xyz
 melaniatrumpx.xyz
 melaniatrumpxxx.xyz
 melaniawifcoin.xyz
-migrate-fun.melodyevent.xyz
 membershyperfoundation.xyz
 memdev.xyz
 meme-en.xyz
