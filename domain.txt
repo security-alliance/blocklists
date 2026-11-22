@@ -116692,7 +116692,6 @@ solspn.xyz
 solstice-finance.xyz
 solstice-finanse.xyz
 solstice-proposal.xyz
-solstice-tge.xyz
 solsticegovernance.xyz
 solstreamer.xyz
 livepump.solstreaming.xyz
