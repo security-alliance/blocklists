@@ -51117,7 +51117,6 @@ started-metomaskio.wixstudio.com
 started-okapps.wixstudio.com
 started-okxappscdn.wixstudio.com
 started-phantomcdn.wixstudio.com
-started-phantomext.wixstudio.com
 started-trustcdn-io.wixstudio.com
 started-trxzo.wixstudio.com
 started-trxzor-apps.wixstudio.com
@@ -104103,6 +104102,7 @@ kaching.study
 loadedlions.study
 magpiexyz.study
 metalend.study
+mon-usdc.study
 nft-og.study
 notcoin.study
 oceanportocol.study
