@@ -16174,7 +16174,6 @@ thgloballltdyys.cc
 thinkmarketsfex.cc
 thruster-finance.cc
 pc.thunderfxld.cc
-pc.thunderfxus.cc
 tianxingkeji.cc
 ticketdubai.cc
 tinytask.cc
