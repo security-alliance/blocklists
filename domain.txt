@@ -7722,6 +7722,7 @@ pump-voting-zm.netlify.app
 pump-voting-zn.netlify.app
 pump-voting-zw.netlify.app
 pump-voting-zz.netlify.app
+pumpcommunitypointsdashboard-jhktns92.netlify.app
 pumpcommunitypointsdashboard-kmwsd-jzfsdj58.netlify.app
 pumpfunlivestreamers.netlify.app
 pumpfunstream.netlify.app
@@ -14354,6 +14355,7 @@ trustwalletcustomerservicephonenumber.blogspot.com.by
 krakenos.by
 buytrx.bz
 coinbaseweb.bz
+finance.com.bz
 polymarket.com.bz
 rainbet.com.bz
 alchemy.n-d.bz
@@ -80373,6 +80375,7 @@ x-pay.im
 aerodrome.immo
 hausvermietung.immo
 0x13.in
+jumper.ai.in
 05meet.am.in
 cap-cut.am.in
 coinbase.am.in
