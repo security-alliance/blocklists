@@ -50425,7 +50425,6 @@ nav-koinbase-page.wixstudio.com
 nav-koinbasee-ext.wixstudio.com
 nav-krakkencdn.wixstudio.com
 nav-kreknn.wixstudio.com
-nav-krkencdn.wixstudio.com
 nav-krrekan.wixstudio.com
 nav-krrkan-io.wixstudio.com
 nav-kucoiin-hub.wixstudio.com
@@ -89029,7 +89028,6 @@ tealive.live
 team-global.live
 team-meet.live
 team-trustwallet.live
-teamapp.live
 teamfill.live
 teamms.live
 teams-connect.live
