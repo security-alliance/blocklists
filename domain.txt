@@ -8248,7 +8248,6 @@ passkey-ledger.app
 paycrypt.app
 payments-aave.app
 payout-ledger.app
-pendle-governance.app
 penguinsegg.app
 peradesktopwallet.app
 perkmoney.app
@@ -80966,7 +80965,6 @@ getbze.info
 gift-binance.info
 gisnz.info
 gitblank.info
-gitlawb.info
 gitlawbt.info
 gitlawbv.info
 glrcastrk.info
@@ -114949,7 +114947,6 @@ pinnocapital.xyz
 pitchwcd.xyz
 pitchwcl.xyz
 pitchwcr.xyz
-pitchwcs.xyz
 pitchwct.xyz
 plaguetracker.xyz
 plasma-airdrop.xyz
