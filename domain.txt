@@ -89717,7 +89717,6 @@ eth-gate-connection.lol
 eth-get.lol
 ethenafnd.lol
 etherfi.lol
-ethscan.lol
 ethus.lol
 crypto.eventcheck.lol
 crypto.eventchecker.lol
