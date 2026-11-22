@@ -70396,6 +70396,7 @@ moonsushi-daily-ledger.pages.dev
 moonwelldefi.pages.dev
 morpho-airdrop.pages.dev
 morpho-app.pages.dev
+morphoa1.pages.dev
 morphoairdrop.pages.dev
 morpholast.pages.dev
 morpholastnew.pages.dev
