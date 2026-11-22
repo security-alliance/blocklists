@@ -11837,7 +11837,6 @@ wavel.app
 web-suite.app
 web-suites.app
 across-to.web.app
-airdrops-sei.web.app
 alpha-photon.web.app
 app-avantisfi.web.app
 app-staking-firelight.web.app
