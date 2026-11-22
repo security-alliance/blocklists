@@ -1419,7 +1419,6 @@ ecosystem-flare.app
 ecosystem-jumper.app
 ecosystem-megaeth.app
 edenwallet.app
-arcdomains-fkjbxqbmtg.edgeone.app
 echo-os-dpsg5vbom90h.edgeone.app
 echo-os2-dpod45gkramj.edgeone.app
 edgex-exchange.app
@@ -48237,7 +48236,6 @@ apps-metmsks-io.wixstudio.com
 apps-metmssk-logn.wixstudio.com
 apps-metmsskcdn.wixstudio.com
 apps-moanpey.wixstudio.com
-apps-moanpny.wixstudio.com
 apps-mompay.wixstudio.com
 apps-mompey.wixstudio.com
 apps-moonpaycdnn.wixstudio.com
@@ -50028,7 +50026,6 @@ learn-metamsk-en.wixstudio.com
 learn-metamskcdn.wixstudio.com
 learn-metmask-ai.wixstudio.com
 learn-metmaskhelp.wixstudio.com
-learn-moanpuy.wixstudio.com
 learn-moompay.wixstudio.com
 learn-moonpay-sso.wixstudio.com
 learn-moonpy.wixstudio.com
