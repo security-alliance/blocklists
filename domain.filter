@@ -48210,7 +48210,6 @@
 ||apps-metamask-hubs.wixstudio.com^$all
 ||apps-metamask-us.wixstudio.com^$all
 ||apps-metamaskapp.wixstudio.com^$all
-||apps-metamaskcdn.wixstudio.com^$all
 ||apps-metamaskext.wixstudio.com^$all
 ||apps-metamaskhelp-io.wixstudio.com^$all
 ||apps-metamaskiocdn.wixstudio.com^$all
@@ -66204,6 +66203,7 @@
 ||c5d7-fa8e-5133-c0inbase-list.pages.dev^$all
 ||c604-fa8e-5133-c0inbase-list.pages.dev^$all
 ||c8d8-colnbase-listings-4f65.pages.dev^$all
+||c92e-coinbase-listing-677f.pages.dev^$all
 ||cainong-ledger.pages.dev^$all
 ||cake-moneyfi-sdk.pages.dev^$all
 ||cake-wallet.pages.dev^$all
@@ -93583,7 +93583,6 @@
 ||revoke-realio.network^$all
 ||rewards-sidekick.network^$all
 ||rewards-ssv.network^$all
-||rnetamask.network^$all
 ||robinhr.network^$all
 ||web-rabbyextension.rpctool.network^$all
 ||s1-katana.network^$all
