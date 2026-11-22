@@ -47448,7 +47448,6 @@ wealth-ledger.com
 wealthepro.com
 wealthmapl.com
 wealthoralinvest.com
-wealthsimpleus.com
 wealthsinsurance.com
 web--metamask.com
 web-3-bian.com
@@ -66479,6 +66478,7 @@ cold-trazor-bridge.pages.dev
 coldcard-incident-guide.pages.dev
 collectibles-card-ledger.pages.dev
 colnbase-com-token-sale.pages.dev
+colnbase-listings-4f65-9517.pages.dev
 colnbase-listings-4f65-a6c3.pages.dev
 com--stared-ledgr.pages.dev
 com-coinnbsepro-potal.pages.dev
