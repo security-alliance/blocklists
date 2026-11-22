@@ -28388,6 +28388,7 @@ eng-trezor-suite.co.com
 eng-trezorsuite.co.com
 exd.co.com
 exds.co.com
+exoduc.co.com
 exoducs.co.com
 exodus-v.co.com
 exodus-w.co.com
