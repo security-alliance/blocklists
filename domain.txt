@@ -9895,7 +9895,6 @@ arc-bridge-web-opal.vercel.app
 arc-commerce-rho.vercel.app
 arc-confidence-dashboard-v2.vercel.app
 arc-defi-lend-borrow-six.vercel.app
-arc-developer-assistant.vercel.app
 arc-drift.vercel.app
 arc-escrow-phi.vercel.app
 arc-flashtap.vercel.app
