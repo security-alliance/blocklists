@@ -117025,7 +117025,6 @@ steak-struggle-topple.xyz
 steakhouse-claims.xyz
 steakhouse-distribution.xyz
 steakhousefi-allocation.xyz
-steakhousefi-rewards.xyz
 steakhousefi-vote.xyz
 stellar-proposal.xyz
 stiandx.xyz
