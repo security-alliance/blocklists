@@ -48795,7 +48795,6 @@ en-cointkr.wixstudio.com
 en-conbase-extension.wixstudio.com
 en-download-livee.wixstudio.com
 en-dydxx.wixstudio.com
-en-dydxx-learn.wixstudio.com
 en-eng-exods.wixstudio.com
 en-ettarro-io.wixstudio.com
 en-ettoro-us.wixstudio.com
@@ -51149,7 +51148,6 @@ strtedndaxxapp.wixstudio.com
 strtlace-home.wixstudio.com
 strttrzorio.wixstudio.com
 suap-app-dyddx.wixstudio.com
-suap-dydxx-io.wixstudio.com
 suite-eng-us.wixstudio.com
 suite-trex-cdns.wixstudio.com
 suite-trezar.wixstudio.com
