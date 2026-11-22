@@ -51547,7 +51547,6 @@ visit-metamsk-log.wixstudio.com
 waletzerion.wixstudio.com
 wallet-trexzo-login.wixstudio.com
 walletcoin.wixstudio.com
-wallets-io.wixstudio.com
 walltphantom.wixstudio.com
 web-apps-metmaskext.wixstudio.com
 web-appsmetamakscdn.wixstudio.com
