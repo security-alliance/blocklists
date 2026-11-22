@@ -730,7 +730,6 @@
 ||aml-checker.app^$all
 ||aml-checkin.app^$all
 ||aml-security.app^$all
-||aml-trust.app^$all
 ||amlchecksbot.app^$all
 ||amlcheckup.app^$all
 ||amlradar.app^$all
@@ -51324,7 +51323,6 @@
 ||trusttwallet.wixstudio.com^$all
 ||trustwalletappsextn.wixstudio.com^$all
 ||trustweb-apps.wixstudio.com^$all
-||trustwebapp.wixstudio.com^$all
 ||trustwllt-extension.wixstudio.com^$all
 ||trusweb-extnsions.wixstudio.com^$all
 ||trxosuites-apps.wixstudio.com^$all
