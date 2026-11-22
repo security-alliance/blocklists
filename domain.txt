@@ -41573,7 +41573,6 @@ reallocation-arcium.com
 reallocation-curve.com
 reallocation-dopplerfinance.com
 reallocation-lienfi.com
-reallocation-riverinc.com
 reallocation-saharaai.com
 reallocation-solsticefinance.com
 reallocations-arcium.com
@@ -80794,7 +80793,6 @@ coinomi-import.info
 coinomize.info
 coldcardwallet.info
 com-3ayp64tc.info
-com-allocation.info
 base.com-case.info
 com-complete-captcha.info
 com-dp.info
@@ -96791,7 +96789,6 @@ rayis.org
 raynbet.org
 rayswap.org
 re-allocations.org
-reallocation-pharos.org
 reallocations-pharos.org
 rebby.org
 receive-pepu.org
@@ -110472,7 +110469,6 @@ allocation-openvpp.xyz
 allocation-ordo.xyz
 allocation-ore.xyz
 allocation-otc.xyz
-allocation-otomato.xyz
 allocation-pacifica.xyz
 allocation-papertrade.xyz
 allocation-ponsfamily.xyz
@@ -110486,7 +110482,6 @@ allocation-pumpbtc.xyz
 allocation-raacfi.xyz
 allocation-relayprotocol.xyz
 allocation-saturncredit.xyz
-allocation-shiftrwa.xyz
 allocation-signup.xyz
 allocation-solstice.xyz
 allocation-stable.xyz
@@ -113809,7 +113804,6 @@ jup-coin.xyz
 jup-fnd.xyz
 jup-portal.xyz
 jup-verify.xyz
-jupag-allocation.xyz
 jupag-community.xyz
 jupag-portal.xyz
 jupagcampaign.xyz
