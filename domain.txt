@@ -1976,7 +1976,6 @@ metamasksupport.app
 metawebextension.app
 meteora-pool.app
 mgba.app
-microsofteam.app
 microsoftlauncher.app
 microteam.app
 micrsosoft.app
