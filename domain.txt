@@ -8323,7 +8323,6 @@ promo-xaman.app
 proposal-3jane.app
 proposal-alert.app
 proposal-ether.app
-proposal-flarenetwork.app
 proposal-hyper.app
 proposal-hyperfoundation.app
 proposal-messier.app
@@ -40320,7 +40319,6 @@ circle.prathamjaiswal.com
 prawmat-game.com
 precisionproving.com
 precisiontechnologiesnc.com
-predeposit-flare.com
 predictdd.com
 prediction-challenges.com
 prediction-help.com
