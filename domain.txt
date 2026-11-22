@@ -50393,7 +50393,6 @@ myssoapphldappcdn.wixstudio.com
 myssoapphuldappcdn.wixstudio.com
 myssoappupphelodcdn.wixstudio.com
 myssocoinbaseapp.wixstudio.com
-myssocoinbseapps.wixstudio.com
 myssoenupheldcdn.wixstudio.com
 myssoenuphldcdn.wixstudio.com
 myssonetcoinapp.wixstudio.com
@@ -92098,7 +92097,6 @@ evgo-lnc.net
 evmchain.net
 exchange-events.net
 exchange-upbit.net
-exchangeio.net
 exodus-c.net
 exodus-online.net
 ru1.exodus4.net
