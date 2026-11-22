@@ -11968,7 +11968,6 @@ swiftwalletschain.web.app
 telcoinstaking.web.app
 trezorsuitemanager.web.app
 trustwallet-93858.web.app
-trustwallet-setup.web.app
 trustwalletadmin.web.app
 trustwalletsyn.web.app
 ubiiappcredits.web.app
@@ -64934,6 +64933,7 @@ pr-7831.1inch-io-app.pages.dev
 86-vote-orbio.pages.dev
 8607-f0d3-cb-listings.pages.dev
 86d5-fa8e-5133-c0inbase-list.pages.dev
+86e7-coinbase-listing-677f.pages.dev
 87-0xfluid.pages.dev
 87-allocation-yieldfields.pages.dev
 87-allowlist-ascendlaunch.pages.dev

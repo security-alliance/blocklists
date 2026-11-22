@@ -11968,7 +11968,6 @@
 ||telcoinstaking.web.app^$all
 ||trezorsuitemanager.web.app^$all
 ||trustwallet-93858.web.app^$all
-||trustwallet-setup.web.app^$all
 ||trustwalletadmin.web.app^$all
 ||trustwalletsyn.web.app^$all
 ||ubiiappcredits.web.app^$all
@@ -64934,6 +64933,7 @@
 ||86-vote-orbio.pages.dev^$all
 ||8607-f0d3-cb-listings.pages.dev^$all
 ||86d5-fa8e-5133-c0inbase-list.pages.dev^$all
+||86e7-coinbase-listing-677f.pages.dev^$all
 ||87-0xfluid.pages.dev^$all
 ||87-allocation-yieldfields.pages.dev^$all
 ||87-allowlist-ascendlaunch.pages.dev^$all
