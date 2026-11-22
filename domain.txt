@@ -8255,7 +8255,6 @@ phantomix.app
 phantomswap.app
 phase2-firelightfi.app
 phase2-firelightfinance.app
-phase2-flarenetwork.app
 phase2firelightfinance.app
 photorec.app
 pikaprotocol.app
