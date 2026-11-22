@@ -19200,7 +19200,6 @@ us-cgpt.stakingreward.cloud
 us-degens.stakingreward.cloud
 us-link.stakingreward.cloud
 us-nexus-mutuals.stakingreward.cloud
-us-optism.stakingreward.cloud
 us-pythnetwork.stakingreward.cloud
 us-sophoon.stakingreward.cloud
 us-suins.stakingreward.cloud
