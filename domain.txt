@@ -46209,6 +46209,7 @@ us07web-meet.com
 us07web-z00m85e25.com
 us08-web-zoom.com
 us08live.com
+us08webteams.com
 us09-web-zoom.com
 us09-zoom.com
 us09live.com
@@ -52926,6 +52927,7 @@ zoominfoconnect.com
 zoominfopayment.com
 zoominfopayments.com
 zoominforeviews.com
+zoominfosecuritiessettlement.com
 zoomingroominvb.com
 zoominterviewmeeting3.com
 zoominvitesemp.com
@@ -95136,6 +95138,7 @@ zoom-video.online
 zoom-workplace-websession.online
 zoomcalllink.online
 zoomclone.online
+zoomconection.online
 zoomconnectfleek.online
 zoomeeting2662.online
 zoomeetingvidees.online
@@ -108538,6 +108541,8 @@ us08live.us
 us09-web-zoom.us
 us09live.us
 us10zoom.us
+us11zoom.us
+us12zoom.us
 us15web-zoom.us
 us16web-zoom.us
 us305web-zoom.us
@@ -111535,6 +111540,7 @@ connectmax.xyz
 connects-flarenetworks.xyz
 connects-hyperliquid.xyz
 connects-ore.xyz
+connectzoomweb-join.xyz
 conse1.consensyses.xyz
 contextualguardnode.xyz
 contextualhistory-base.xyz
