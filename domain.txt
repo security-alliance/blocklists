@@ -36096,7 +36096,6 @@ suite-wallet.kit.com
 kittymining.com
 kittyminingfun.com
 kivo520.com
-kiwilaunch.com
 area.kixyedge.com
 kixyplus.com
 kkankkaninfo.com
@@ -43489,6 +43488,7 @@ staff-google.com
 stage-virtuals.com
 stage2firelight.com
 stage2flare.com
+polymarket.stake-btc.com
 stake-casino-ie.com
 stake-casino2026.com
 stake-firelight.com
