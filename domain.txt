@@ -31573,7 +31573,6 @@ airdrop.eligibility-ripple.com
 eligibility-worldlibertyfinance.com
 eligible-rabby.com
 eligible-robinhood.com
-my.elite-fundednext.com
 elitecrypttrades.com
 eliteedge247.com
 eliteholdingsltd.com
@@ -39165,7 +39164,6 @@ appswalletconnects.onrender.com
 bonuses-sport98.onrender.com
 coinbase-rijg.onrender.com
 dappwalletsconnect.onrender.com
-defi-walletconnect-io.onrender.com
 drop-m4.onrender.com
 flareairdrop.onrender.com
 flarenetworkemv.onrender.com
