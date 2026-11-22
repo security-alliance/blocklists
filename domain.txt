@@ -19188,7 +19188,6 @@ rls.stakingreward.cloud
 sui-name-service.stakingreward.cloud
 typus-finance.stakingreward.cloud
 us-cgpt.stakingreward.cloud
-us-degens.stakingreward.cloud
 us-link.stakingreward.cloud
 us-nexus-mutuals.stakingreward.cloud
 us-pythnetwork.stakingreward.cloud
