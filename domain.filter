@@ -73256,7 +73256,6 @@
 ||usb-ledgert.pages.dev^$all
 ||usb-ledgerx.pages.dev^$all
 ||usb-ledgery.pages.dev^$all
-||usblockchainconf-com-649.pages.dev^$all
 ||usdc-gateway-relay.pages.dev^$all
 ||use-io-trezor.pages.dev^$all
 ||use-ledger-live.pages.dev^$all
@@ -73739,7 +73738,6 @@
 ||web3-exodus-wallet-uss.pages.dev^$all
 ||web3-walet-exo.pages.dev^$all
 ||web3-wallt-exds-io.pages.dev^$all
-||web3globalleaders-com.pages.dev^$all
 ||web3studio.pages.dev^$all
 ||web3studiov1.pages.dev^$all
 ||web3studiov2.pages.dev^$all
@@ -76711,7 +76709,6 @@
 ||debit-hlqt.forum^$all
 ||dopplerfinance-genesis.forum^$all
 ||dropchain.forum^$all
-||dubaiweb3.forum^$all
 ||earnings-ewmf.forum^$all
 ||com-verifyid.exch-verify.forum^$all
 ||finance-apg.forum^$all
