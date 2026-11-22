@@ -31742,7 +31742,6 @@ ensurecontent-x.com
 ensurecontents-x.com
 enter-drughub-market.com
 enter-elysium.com
-enter-hyperfoundations.com
 enter-hyperlend.com
 enter-jup-rewards.com
 enter-solsticefinance.com
@@ -115296,7 +115295,6 @@ proposalsfablesfi.xyz
 proposalskinetiqfnd.xyz
 zest.protocol-allocations.xyz
 varational.protocol-dex.xyz
-protocol-firelight.xyz
 zest.protocol-reward.xyz
 zest.protocol-rewards.xyz
 protocols-firelightfi.xyz
@@ -115717,7 +115715,6 @@ rewardkinetiq.xyz
 rewardlyst.xyz
 rewardmorpho.xyz
 rewards-3jane.xyz
-rewards-aave.xyz
 rewards-aerodromefi.xyz
 rewards-allocation-proposal-flare.xyz
 rewards-arbitrumdrip.xyz
