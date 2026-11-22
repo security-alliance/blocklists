@@ -22590,7 +22590,6 @@ ethereum2.360app.com
 374722-ledger.com
 37475-google.com
 374832coinbase.com
-3758-coinbase.com
 375821-crypto.com
 375936-crypto.com
 376254-crypto.com
@@ -37608,7 +37607,6 @@ mica-safepal.com
 exodus.mica-update.com
 mica-verify.com
 miccorosoft.com
-miccrossoftt.com
 michael-coinbase.com
 michael-robinhood.com
 michi-crates.com
@@ -111012,7 +111010,6 @@ bridges-flarenetworks.xyz
 bridges-kinetiq.xyz
 bridges-netnetcapital.xyz
 bridges-usepaid.xyz
-brila-finance.xyz
 btc-bonus.xyz
 build-onchain.xyz
 bulk-trading.xyz
