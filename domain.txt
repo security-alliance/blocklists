@@ -117999,7 +117999,6 @@ votes-pendlefinances.xyz
 votes-plume.xyz
 votes-proposals.xyz
 votes-pyth.xyz
-votes-rayls.xyz
 votes-roblinhood.xyz
 votes-saharaai.xyz
 votes-sanctum.xyz
