@@ -77835,6 +77835,7 @@ yieldfielda.fun
 yieldfielfs.fun
 yielfields.fun
 yolo-coin.fun
+yoruprotocol.fun
 zcashstamp.fun
 zestprotocol.fun
 zinccash.fun
