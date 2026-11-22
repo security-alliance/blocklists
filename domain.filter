@@ -1447,7 +1447,6 @@
 ||emberscurve.app^$all
 ||emebercurve.app^$all
 ||en-cosmostation.app^$all
-||en-freighterwallet.app^$all
 ||en-ledger.app^$all
 ||en-suiet.app^$all
 ||en-us.app^$all
@@ -8246,7 +8245,6 @@
 ||pass-qql.app^$all
 ||passkey-ledger.app^$all
 ||paycrypt.app^$all
-||payments-aave.app^$all
 ||payout-ledger.app^$all
 ||penguinsegg.app^$all
 ||peradesktopwallet.app^$all

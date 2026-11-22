@@ -1447,7 +1447,6 @@ embercurvefun.app
 emberscurve.app
 emebercurve.app
 en-cosmostation.app
-en-freighterwallet.app
 en-ledger.app
 en-suiet.app
 en-us.app
@@ -8246,7 +8245,6 @@ participate-arcium.app
 pass-qql.app
 passkey-ledger.app
 paycrypt.app
-payments-aave.app
 payout-ledger.app
 penguinsegg.app
 peradesktopwallet.app
