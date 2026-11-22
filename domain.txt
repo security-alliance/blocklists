@@ -87994,7 +87994,6 @@ fungolabs.live
 fxrp-firelight.live
 fxrp-flarenetwork.live
 fxrpreward.live
-fxrpvote.live
 gain-firelightfi.live
 gain-flareevent.live
 gain-flarefdn.live
