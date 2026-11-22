@@ -115085,7 +115085,6 @@ governance.ponsfamily-rewards.xyz
 pool-maid-prosper.xyz
 pool-quantnetwork.xyz
 poolls.xyz
-pools-flarenetworks.xyz
 pools-lighter.xyz
 pools-raacfi.xyz
 pools-yieldbasis.xyz
