@@ -36693,7 +36693,6 @@
 ||live-trezor.com^$all
 ||live-trustwallet.com^$all
 ||live-walllet.com^$all
-||live-workplace.com^$all
 ||live-xamenwallet.com^$all
 ||live-xrpl-dapps.com^$all
 ||live-xverse.com^$all
@@ -53127,7 +53126,6 @@
 ||support-meta-mask.contact^$all
 ||trmlabs.contact^$all
 ||trustwalletsupport.contact^$all
-||weblink.contact^$all
 ||zoom.contact^$all
 ||coinbase.cooking^$all
 ||111111.cool^$all
