@@ -15281,7 +15281,6 @@ k1down.citi0233.cc
 kra1.citi0233.cc
 citizens-jup.cc
 claim-trustwallet.cc
-claim-unlswap.cc
 claimdexterminals.cc
 claimyoursol.cc
 cleanshop.cc
@@ -29367,6 +29366,7 @@ bitrefill.com-gift-cards-hbar.com
 bitrefill.com-gift-cards-icp.com
 bitrefill.com-gift-cards-imx.com
 bitrefill.com-gift-cards-inj.com
+bitrefill.com-gift-cards-kava.com
 bitrefill.com-gift-cards-ldo.com
 com-gift-cards-link.com
 com-gift-cards-ltc.com
