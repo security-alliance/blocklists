@@ -84955,6 +84955,7 @@ app-phantom--wallet-sso-cdn.webflow.io
 app-phantom-wallet-com-cdn.webflow.io
 app-phantomwallet-auth.webflow.io
 app-phantomwallet-cdn-auth.webflow.io
+app-polymarket.webflow.io
 apps---exodus-apps-exodus.webflow.io
 apps---exoduswallet-auutth.webflow.io
 apps---exoduswallet-com.webflow.io
