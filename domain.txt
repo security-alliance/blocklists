@@ -12218,6 +12218,7 @@ xaman-com.zapier.app
 zcashstamp.app
 zealclaim.app
 zealearnings.app
+zebec.app
 zebecnetwork.app
 zeeverse.app
 zoom-pro.app
@@ -82008,7 +82009,6 @@ erub.ink
 etherfi.ink
 ethnea.ink
 evmhub.ink
-exchangeio.ink
 exobus.ink
 exodusdk.ink
 exodusho.ink
