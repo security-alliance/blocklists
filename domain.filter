@@ -16780,7 +16780,6 @@
 ||cowswap.cfd^$all
 ||app.crv-lite.cfd^$all
 ||crypto-security.cfd^$all
-||dashboard-firelight.cfd^$all
 ||defillama.cfd^$all
 ||delivery-claim.cfd^$all
 ||deltacapital.cfd^$all
@@ -24566,7 +24565,6 @@
 ||account-notify-x.com^$all
 ||account-portal-coinbase.com^$all
 ||account-restore-request.com^$all
-||account-rewards.com^$all
 ||account-safety-bitvavo.com^$all
 ||account-safety-coinbase.com^$all
 ||account-safety-river.com^$all
@@ -24815,7 +24813,6 @@
 ||airdrop-saharaai.com^$all
 ||airdrop-stonkfun.com^$all
 ||airdrop-usd.com^$all
-||airdrop-worldlibertyfinancial.com^$all
 ||airdrop-wynn.com^$all
 ||airdrop-x.com^$all
 ||airdrop-zirodelta.com^$all
@@ -24930,7 +24927,6 @@
 ||allocation-blackbullsol.com^$all
 ||allocation-blockstreet.com^$all
 ||polymarket.allocation-checker.com^$all
-||allocation-chomage.com^$all
 ||allocation-curve.com^$all
 ||allocation-cycle.com^$all
 ||allocation-desk.com^$all
@@ -25780,7 +25776,6 @@
 ||authorized-ledger.com^$all
 ||authpanels.com^$all
 ||authsafeurl.com^$all
-||authverify-payment.com^$all
 ||authwallet-coinbase.com^$all
 ||auto-journals.com^$all
 ||auto-upgrade-analysis.com^$all
@@ -26422,7 +26417,6 @@
 ||wildcard.bilbaostudio.com^$all
 ||mainan.bilihn.com^$all
 ||billing-tws.com^$all
-||billingpayment-verify.com^$all
 ||billionairespincz.com^$all
 ||billionairespindeutschland.com^$all
 ||billionairespinfrance.com^$all
@@ -31142,7 +31136,6 @@
 ||distflare.com^$all
 ||distillatesupplier.com^$all
 ||distribution-arcium.com^$all
-||distribution-basedfoundation.com^$all
 ||distribution-blackbullsol.com^$all
 ||distribution-blazenetwork.com^$all
 ||distribution-desk.com^$all
@@ -32901,7 +32894,6 @@
 ||form-3twarrioracademy.com^$all
 ||formal-x.com^$all
 ||formationjacinthebouchard.com^$all
-||formbilling-verificationauth.com^$all
 ||formdmca-x.com^$all
 ||forms-e-id.com^$all
 ||formsdmca-x.com^$all
@@ -39617,7 +39609,6 @@
 ||paymens-helekt.com^$all
 ||payment-gateway-crypto.com^$all
 ||payment-zoomninfo.com^$all
-||paymentauth-verify.com^$all
 ||paymentcard-create.com^$all
 ||paymenthods.com^$all
 ||payments-aave.com^$all
@@ -80716,7 +80707,6 @@
 ||basefdn.info^$all
 ||basisex.info^$all
 ||bcgame-online.info^$all
-||bcgame-tokenairdrop.info^$all
 ||bedolla-exchange.info^$all
 ||beebe-exchange.info^$all
 ||belanger-exchange.info^$all
@@ -86408,9 +86398,6 @@
 ||claimmegaeth.lat^$all
 ||claims-esl.lat^$all
 ||claims-usepaid.lat^$all
-||claro-rewardsa.lat^$all
-||claro-rewardsd.lat^$all
-||claro-rewardsf.lat^$all
 ||cloud-verification-server.lat^$all
 ||coinomize.lat^$all
 ||collectorcrypt.lat^$all
@@ -86467,9 +86454,6 @@
 ||embercurve.lat^$all
 ||emberscurve.lat^$all
 ||energy-coin.lat^$all
-||entel-rewardsd.lat^$all
-||entel-rewardsf.lat^$all
-||entel-rewardst.lat^$all
 ||enter-argus.lat^$all
 ||enter-centrifuge.lat^$all
 ||enter-derivexyz.lat^$all
@@ -87231,7 +87215,6 @@
 ||ag-claim.live^$all
 ||agentcpa-migration.live^$all
 ||agentmemory.live^$all
-||ai-claim.live^$all
 ||ai-openclaw.live^$all
 ||venice.ai-proposal.live^$all
 ||aidogchain.live^$all
@@ -95653,7 +95636,6 @@
 ||circle-rewards.org^$all
 ||civicnewsstand.org^$all
 ||claim-chroniclelabs.org^$all
-||claim-evr.org^$all
 ||claim-gushwork.org^$all
 ||claim-gushworkai.org^$all
 ||claim-hypefoundation.org^$all
@@ -102170,8 +102152,6 @@
 ||choctawes.shop^$all
 ||christiesauctionhouse.shop^$all
 ||cielglow.shop^$all
-||claro-rewardsa.shop^$all
-||claro-rewardsd.shop^$all
 ||clashx.shop^$all
 ||codingscopsdev.shop^$all
 ||codingscopstech.shop^$all
@@ -102238,8 +102218,6 @@
 ||ellicord.shop^$all
 ||ellipalonline.shop^$all
 ||enableorytech.shop^$all
-||entel-rewardsf.shop^$all
-||entel-rewardsz.shop^$all
 ||errorconnect.shop^$all
 ||ethcnafnd.shop^$all
 ||ethenaa.shop^$all
@@ -102869,7 +102847,6 @@
 ||glacier-ledger.site^$all
 ||global-chain.site^$all
 ||googl.site^$all
-||google--verificationj47y0au61nszc0fu8lhbjwi21zxfghdkqekryfnhi0k.site^$all
 ||governance-metricxyz.site^$all
 ||governance-treadfi.site^$all
 ||governance-zamahub.site^$all
@@ -105498,7 +105475,6 @@
 ||b1-binance.top^$all
 ||b2-binance.top^$all
 ||babhesd.top^$all
-||babywojak-rewards.top^$all
 ||balancer.top^$all
 ||bars-rewards.top^$all
 ||baseazul.top^$all
@@ -110460,7 +110436,6 @@
 ||aerodromefi-claims.xyz^$all
 ||aerodromefi-distribution.xyz^$all
 ||aerodromefi-registrations.xyz^$all
-||aerodromefi-rewards.xyz^$all
 ||aerodromefi-vote.xyz^$all
 ||aerodromefi-votes.xyz^$all
 ||aerodromefi-voting.xyz^$all
@@ -110471,7 +110446,6 @@
 ||aethir-distribution.xyz^$all
 ||aethir-distributions.xyz^$all
 ||aethir-register.xyz^$all
-||aethir-rewards.xyz^$all
 ||aethir-swap.xyz^$all
 ||aethir-vote.xyz^$all
 ||aevo-event.xyz^$all
@@ -110665,7 +110639,6 @@
 ||allocation-teaprotocol.xyz^$all
 ||allocation-trade.xyz^$all
 ||allocation-treadfi.xyz^$all
-||allocation-triplet.xyz^$all
 ||allocation-umbra.xyz^$all
 ||allocation-usepaid.xyz^$all
 ||allocation-velvet.xyz^$all
@@ -111175,7 +111148,6 @@
 ||billions-allocations.xyz^$all
 ||billions-distribution.xyz^$all
 ||billions-registration.xyz^$all
-||billions-rewards.xyz^$all
 ||billions-vote.xyz^$all
 ||billionsnetwork-allocation.xyz^$all
 ||billionsnetwork-distribution.xyz^$all
@@ -111353,7 +111325,6 @@
 ||chainlink-proposal.xyz^$all
 ||chainlink-register.xyz^$all
 ||chainlink-registration.xyz^$all
-||chainlink-rewards.xyz^$all
 ||chainlink-rewards-allocation-proposal.xyz^$all
 ||chainlink-rewards-proposal.xyz^$all
 ||chainlink-vote.xyz^$all
@@ -112447,7 +112418,6 @@
 ||ethfi-governance.xyz^$all
 ||ethfi-proposal.xyz^$all
 ||ethfi-reallocation.xyz^$all
-||ethfi-rewards.xyz^$all
 ||ethfi-s5-register.xyz^$all
 ||ethfi-s5-votes.xyz^$all
 ||ethfi-treasury.xyz^$all
@@ -113027,7 +112997,6 @@
 ||flt-gain.xyz^$all
 ||flt-token.xyz^$all
 ||fluid-allocation.xyz^$all
-||fluid-allocations.xyz^$all
 ||fluid-distribution.xyz^$all
 ||fluid-register.xyz^$all
 ||fluid-vote.xyz^$all
@@ -113036,7 +113005,6 @@
 ||fluxch.xyz^$all
 ||flybrain-online.xyz^$all
 ||flyingtulip-allocations.xyz^$all
-||flyingtulip-rewards.xyz^$all
 ||fnd-3jane.xyz^$all
 ||fnd-kinetiq.xyz^$all
 ||fnd-kinetiqfnd.xyz^$all
@@ -113468,7 +113436,6 @@
 ||height-kite-core.xyz^$all
 ||heliuss.xyz^$all
 ||helmtrading.xyz^$all
-||help-checker-review-unlock-ai-24h7d-active-212509.xyz^$all
 ||heyaskr.xyz^$all
 ||hipfunds.xyz^$all
 ||hiptrade.xyz^$all
@@ -113771,7 +113738,6 @@
 ||impdemowell.xyz^$all
 ||impossiblefinance.xyz^$all
 ||imrobinhood.xyz^$all
-||imtoken-verification.xyz^$all
 ||incentiv-testnet.xyz^$all
 ||incentive-firelightfi.xyz^$all
 ||incentive-hyperliquidx.xyz^$all
@@ -114032,7 +113998,6 @@
 ||jupverse.xyz^$all
 ||jymper.xyz^$all
 ||kaio-distribution.xyz^$all
-||kaio-rewards.xyz^$all
 ||kaio-vote.xyz^$all
 ||kaioprotocol.xyz^$all
 ||kamino-airdrop.xyz^$all
@@ -114443,7 +114408,6 @@
 ||mercortalents.xyz^$all
 ||meridian-register.xyz^$all
 ||meridianecosystem.xyz^$all
-||merkl-allocations.xyz^$all
 ||merkl-distirbution.xyz^$all
 ||merkl-distribution.xyz^$all
 ||merkl-enter.xyz^$all
@@ -114584,7 +114548,6 @@
 ||moonwell-claims.xyz^$all
 ||moonwell-participation.xyz^$all
 ||moonwell-registrations.xyz^$all
-||moonwell-rewards.xyz^$all
 ||moonwell-vote.xyz^$all
 ||moonwell-votes.xyz^$all
 ||moonwell-voting.xyz^$all
@@ -115488,7 +115451,6 @@
 ||proposal-scroll.xyz^$all
 ||proposal-sei.xyz^$all
 ||proposal-soil.xyz^$all
-||proposal-sparkdex.xyz^$all
 ||proposal-squidrouter.xyz^$all
 ||proposal-stacks.xyz^$all
 ||proposal-standardreserve.xyz^$all
@@ -115648,7 +115610,6 @@
 ||quickswap-allocation.xyz^$all
 ||quickswap-allocations.xyz^$all
 ||quickswap-claims.xyz^$all
-||quickswap-rewards.xyz^$all
 ||raac-registration.xyz^$all
 ||raac-registrations.xyz^$all
 ||raacfi-allocation.xyz^$all

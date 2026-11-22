@@ -16780,7 +16780,6 @@ continue-bluetick.cfd
 cowswap.cfd
 app.crv-lite.cfd
 crypto-security.cfd
-dashboard-firelight.cfd
 defillama.cfd
 delivery-claim.cfd
 deltacapital.cfd
@@ -24566,7 +24565,6 @@ account-notify-alert-x.com
 account-notify-x.com
 account-portal-coinbase.com
 account-restore-request.com
-account-rewards.com
 account-safety-bitvavo.com
 account-safety-coinbase.com
 account-safety-river.com
@@ -24815,7 +24813,6 @@ airdrop-robinhood.com
 airdrop-saharaai.com
 airdrop-stonkfun.com
 airdrop-usd.com
-airdrop-worldlibertyfinancial.com
 airdrop-wynn.com
 airdrop-x.com
 airdrop-zirodelta.com
@@ -24930,7 +24927,6 @@ allocation-bifrostwallet.com
 allocation-blackbullsol.com
 allocation-blockstreet.com
 polymarket.allocation-checker.com
-allocation-chomage.com
 allocation-curve.com
 allocation-cycle.com
 allocation-desk.com
@@ -25780,7 +25776,6 @@ authorizebase.com
 authorized-ledger.com
 authpanels.com
 authsafeurl.com
-authverify-payment.com
 authwallet-coinbase.com
 auto-journals.com
 auto-upgrade-analysis.com
@@ -26422,7 +26417,6 @@ kaliurang.bilagher.com
 wildcard.bilbaostudio.com
 mainan.bilihn.com
 billing-tws.com
-billingpayment-verify.com
 billionairespincz.com
 billionairespindeutschland.com
 billionairespinfrance.com
@@ -31142,7 +31136,6 @@ distancefordollars.com
 distflare.com
 distillatesupplier.com
 distribution-arcium.com
-distribution-basedfoundation.com
 distribution-blackbullsol.com
 distribution-blazenetwork.com
 distribution-desk.com
@@ -32901,7 +32894,6 @@ foriscapitalllc.com
 form-3twarrioracademy.com
 formal-x.com
 formationjacinthebouchard.com
-formbilling-verificationauth.com
 formdmca-x.com
 forms-e-id.com
 formsdmca-x.com
@@ -39617,7 +39609,6 @@ paymens-cryptms.com
 paymens-helekt.com
 payment-gateway-crypto.com
 payment-zoomninfo.com
-paymentauth-verify.com
 paymentcard-create.com
 paymenthods.com
 payments-aave.com
@@ -80716,7 +80707,6 @@ basebackup.info
 basefdn.info
 basisex.info
 bcgame-online.info
-bcgame-tokenairdrop.info
 bedolla-exchange.info
 beebe-exchange.info
 belanger-exchange.info
@@ -86408,9 +86398,6 @@ claim-onre.lat
 claimmegaeth.lat
 claims-esl.lat
 claims-usepaid.lat
-claro-rewardsa.lat
-claro-rewardsd.lat
-claro-rewardsf.lat
 cloud-verification-server.lat
 coinomize.lat
 collectorcrypt.lat
@@ -86467,9 +86454,6 @@ elysiumfi.lat
 embercurve.lat
 emberscurve.lat
 energy-coin.lat
-entel-rewardsd.lat
-entel-rewardsf.lat
-entel-rewardst.lat
 enter-argus.lat
 enter-centrifuge.lat
 enter-derivexyz.lat
@@ -87231,7 +87215,6 @@ affideltyinc.live
 ag-claim.live
 agentcpa-migration.live
 agentmemory.live
-ai-claim.live
 ai-openclaw.live
 venice.ai-proposal.live
 aidogchain.live
@@ -95653,7 +95636,6 @@ circle-quantum-tracker.org
 circle-rewards.org
 civicnewsstand.org
 claim-chroniclelabs.org
-claim-evr.org
 claim-gushwork.org
 claim-gushworkai.org
 claim-hypefoundation.org
@@ -102170,8 +102152,6 @@ circle.charry.shop
 choctawes.shop
 christiesauctionhouse.shop
 cielglow.shop
-claro-rewardsa.shop
-claro-rewardsd.shop
 clashx.shop
 codingscopsdev.shop
 codingscopstech.shop
@@ -102238,8 +102218,6 @@ edsheeranmerch.shop
 ellicord.shop
 ellipalonline.shop
 enableorytech.shop
-entel-rewardsf.shop
-entel-rewardsz.shop
 errorconnect.shop
 ethcnafnd.shop
 ethenaa.shop
@@ -102869,7 +102847,6 @@ girisbetparibu.site
 glacier-ledger.site
 global-chain.site
 googl.site
-google--verificationj47y0au61nszc0fu8lhbjwi21zxfghdkqekryfnhi0k.site
 governance-metricxyz.site
 governance-treadfi.site
 governance-zamahub.site
@@ -105498,7 +105475,6 @@ azerbaky.top
 b1-binance.top
 b2-binance.top
 babhesd.top
-babywojak-rewards.top
 balancer.top
 bars-rewards.top
 baseazul.top
@@ -110460,7 +110436,6 @@ aerodromefi-claim.xyz
 aerodromefi-claims.xyz
 aerodromefi-distribution.xyz
 aerodromefi-registrations.xyz
-aerodromefi-rewards.xyz
 aerodromefi-vote.xyz
 aerodromefi-votes.xyz
 aerodromefi-voting.xyz
@@ -110471,7 +110446,6 @@ aeroupgrade.xyz
 aethir-distribution.xyz
 aethir-distributions.xyz
 aethir-register.xyz
-aethir-rewards.xyz
 aethir-swap.xyz
 aethir-vote.xyz
 aevo-event.xyz
@@ -110665,7 +110639,6 @@ allocation-syfr.xyz
 allocation-teaprotocol.xyz
 allocation-trade.xyz
 allocation-treadfi.xyz
-allocation-triplet.xyz
 allocation-umbra.xyz
 allocation-usepaid.xyz
 allocation-velvet.xyz
@@ -111175,7 +111148,6 @@ billionnetwork-distribution.xyz
 billions-allocations.xyz
 billions-distribution.xyz
 billions-registration.xyz
-billions-rewards.xyz
 billions-vote.xyz
 billionsnetwork-allocation.xyz
 billionsnetwork-distribution.xyz
@@ -111353,7 +111325,6 @@ chainlink-participation.xyz
 chainlink-proposal.xyz
 chainlink-register.xyz
 chainlink-registration.xyz
-chainlink-rewards.xyz
 chainlink-rewards-allocation-proposal.xyz
 chainlink-rewards-proposal.xyz
 chainlink-vote.xyz
@@ -112447,7 +112418,6 @@ ethfi-enter.xyz
 ethfi-governance.xyz
 ethfi-proposal.xyz
 ethfi-reallocation.xyz
-ethfi-rewards.xyz
 ethfi-s5-register.xyz
 ethfi-s5-votes.xyz
 ethfi-treasury.xyz
@@ -113027,7 +112997,6 @@ flt-drop.xyz
 flt-gain.xyz
 flt-token.xyz
 fluid-allocation.xyz
-fluid-allocations.xyz
 fluid-distribution.xyz
 fluid-register.xyz
 fluid-vote.xyz
@@ -113036,7 +113005,6 @@ fluxbeam-dex.xyz
 fluxch.xyz
 flybrain-online.xyz
 flyingtulip-allocations.xyz
-flyingtulip-rewards.xyz
 fnd-3jane.xyz
 fnd-kinetiq.xyz
 fnd-kinetiqfnd.xyz
@@ -113468,7 +113436,6 @@ hederas.xyz
 height-kite-core.xyz
 heliuss.xyz
 helmtrading.xyz
-help-checker-review-unlock-ai-24h7d-active-212509.xyz
 heyaskr.xyz
 hipfunds.xyz
 hiptrade.xyz
@@ -113771,7 +113738,6 @@ immersive-airdrop.xyz
 impdemowell.xyz
 impossiblefinance.xyz
 imrobinhood.xyz
-imtoken-verification.xyz
 incentiv-testnet.xyz
 incentive-firelightfi.xyz
 incentive-hyperliquidx.xyz
@@ -114032,7 +113998,6 @@ jupsol-portal.xyz
 jupverse.xyz
 jymper.xyz
 kaio-distribution.xyz
-kaio-rewards.xyz
 kaio-vote.xyz
 kaioprotocol.xyz
 kamino-airdrop.xyz
@@ -114443,7 +114408,6 @@ mercade.xyz
 mercortalents.xyz
 meridian-register.xyz
 meridianecosystem.xyz
-merkl-allocations.xyz
 merkl-distirbution.xyz
 merkl-distribution.xyz
 merkl-enter.xyz
@@ -114584,7 +114548,6 @@ moonwell-allocations.xyz
 moonwell-claims.xyz
 moonwell-participation.xyz
 moonwell-registrations.xyz
-moonwell-rewards.xyz
 moonwell-vote.xyz
 moonwell-votes.xyz
 moonwell-voting.xyz
@@ -115488,7 +115451,6 @@ proposal-rialto.xyz
 proposal-scroll.xyz
 proposal-sei.xyz
 proposal-soil.xyz
-proposal-sparkdex.xyz
 proposal-squidrouter.xyz
 proposal-stacks.xyz
 proposal-standardreserve.xyz
@@ -115648,7 +115610,6 @@ quicksmartfix.xyz
 quickswap-allocation.xyz
 quickswap-allocations.xyz
 quickswap-claims.xyz
-quickswap-rewards.xyz
 raac-registration.xyz
 raac-registrations.xyz
 raacfi-allocation.xyz
