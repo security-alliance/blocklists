@@ -89049,7 +89049,6 @@ teams-lgn-meeting21.live
 teams-meet.live
 teams-plus.live
 teams-reminders.live
-teams-workplace.live
 teamscall.live
 teamscloud.live
 teamsconnect.live
@@ -108330,7 +108329,6 @@ o3webu.us
 oaixrse.us
 cn.ocagent.us
 okx-wallt.us
-on06.us
 onlinecall.us
 onlinecalls.us
 onlinemicrosoftteams.us
