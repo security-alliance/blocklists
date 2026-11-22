@@ -26821,7 +26821,6 @@ blockchain-staking.com
 blockchainfxcheck.com
 blockcyphertrade.com
 blockdag-net.com
-blockiumswap.com
 blockscanwallets.com
 blockscopejournal.com
 blockshieldwallet.com
@@ -27800,7 +27799,6 @@ chain-account.com
 chain-allocation.com
 chain-justlend.com
 chain-spirit.com
-chain-swap.com
 chain-usdc.com
 chain-xrpl.com
 chainalises.com
@@ -33296,7 +33294,6 @@ gcteway.com
 gctewvy.com
 gcxchoog.com
 gdqinsheng.com
-gdxswap.com
 geamicni.com
 gearuparts.com
 geckotermina.com
@@ -106814,7 +106811,6 @@ raysdiun.top
 rbcoin.top
 rbfsvlaksv-online.top
 rbrfyrlakcv-online.top
-rdi500.top
 readocument.top
 realionetwork.top
 reallocation-concrete.top
@@ -107527,7 +107523,6 @@ zamagov.top
 zamahq.top
 zamaorg.top
 zamaprotocol.top
-zenlnk1.top
 zepion-news.top
 zerewards.top
 zeusox.top
@@ -113295,7 +113290,6 @@ grass-foundatiion.xyz
 grassclaim.xyz
 grassdashboard.xyz
 grid-ai.xyz
-gridexswap.xyz
 grove-voting.xyz
 grvt-allocation.xyz
 grvt-app.xyz
