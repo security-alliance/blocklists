@@ -80574,7 +80574,6 @@ app-walletconnects.info
 apps-dexrp.info
 apyx-fi.info
 apyx-finance.info
-apyxfi.info
 arccats.info
 arcsnetwork.info
 arcusxyz.info
