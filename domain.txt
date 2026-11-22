@@ -8196,7 +8196,6 @@ prelaunch-web-mxxjz.ondigitalocean.app
 token2049-week-dubai-2026-e76kj.ondigitalocean.app
 token2049-week-singapore-2025-opcqd.ondigitalocean.app
 ondo-voting.app
-ondofinance.app
 ondoglobalmarkets.app
 ondostaking.app
 ondovote.app
@@ -76844,7 +76843,6 @@ usepaid.foundation
 vote-edgex.foundation
 vote-xrpl.foundation
 worldlibertyfinance.foundation
-xrp-fi-flare.foundation
 xrpdesk.foundation
 xrpldesk.foundation
 adblock.fr
@@ -97092,7 +97090,6 @@ trezor-us.org
 trezorsuite-app.org
 trezorsuite-en.org
 trmlabscoin.org
-tron-dao.org
 tron-qr-code-generator.org
 tron-stake.org
 tron-staking.org
