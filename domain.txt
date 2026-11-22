@@ -96616,7 +96616,6 @@ poljoin.org
 polkadotwallet.org
 polyclaude.org
 polyforgecapital.org
-polyfoundation.org
 polygon-explorer.org
 polygonbridge.org
 polygondrop.org
