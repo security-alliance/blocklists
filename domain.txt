@@ -27492,7 +27492,6 @@ cardtws.com
 trust.cardwebapp.com
 care-trezor.com
 carecbssupport.com
-careers-sap.com
 careers-trustwallet.com
 careersphantom.com
 carekings.com
@@ -108127,7 +108126,6 @@ cakewalletweb.us
 callzoom.us
 card-coinbase.us
 careers-adobe.us
-careers-sap.us
 cc77.us
 certester.us
 certified-secure.us
@@ -108437,7 +108435,6 @@ s-ledgerlive.us
 safepal-wallat.us
 rebby-wallet.us.safepel.us
 saleforcescrm.us
-sap-careers.us
 saylor-2026.us
 saylor-x2.us
 schedule-meeting-zoom.us
