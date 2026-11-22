@@ -25795,7 +25795,6 @@ aws-gemini.com
 aws-ipv4-google.com
 axbitech.com
 axcapitalfx.com
-pc.axeldeal.com
 axewrapz.com
 axicx.com
 axieinfinity-skymavis.com
@@ -106146,6 +106145,7 @@ gtcrypto.top
 guarda.top
 gyaj2o1.top
 h-cl.top
+nansen.hao18.top
 hashwood.top
 hederafunds.top
 hellhound-rewards.top
