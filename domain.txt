@@ -8574,7 +8574,6 @@ satrush.app
 saturn-holders.app
 saturn-reward.app
 saturn-rewards.app
-saturncredit.app
 saturnholders.app
 saturnreward.app
 saturnrewards.app
@@ -16202,6 +16201,7 @@ tradeifysol.cc
 tradingviewdefi.cc
 trakcurt.cc
 trakicer.cc
+trecakec.cc
 trecakert.cc
 treckej.cc
 treehope.cc
@@ -40910,6 +40910,7 @@ rainbet-casino-france.com
 rainbet-casino-ie.com
 rainbet-casino-in.com
 rainbet-casino-india.com
+rainbet-casino-it.com
 rainbet-casino-nederland.com
 rainbet-casino-netherlands.com
 rainbet-casino-nl.com
@@ -79860,6 +79861,7 @@ stonkecosystem.icu
 accounts.storage-googlvoicemessage.icu
 stratonexus.icu
 strkbtc.icu
+strknetfaucet.icu
 strongway.icu
 suncosctrdlunlon-online.icu
 superbetinguncel.icu
@@ -85959,6 +85961,7 @@ xn--chngenow-j8a.io
 xn--rydium-w0a.io
 app.xn--swelletwork-b7b.io
 xn--synthetx-i2a.io
+xn--treor-7hb.io
 xrp-markets.io
 xrp-network.io
 xrpcompany.io
@@ -103418,6 +103421,7 @@ myis-rewards.skin
 orbitrelaylogs.skin
 polymarket.skin
 portallogonapp.skin
+predictex.skin
 rewardss.skin
 trust1.skin
 exodus.com.sl
@@ -112863,6 +112867,7 @@ gain-flarefoundations.xyz
 gain-flt.xyz
 gain-xrpl.xyz
 gainfirelight.xyz
+galxe-sunset.xyz
 gambrixx.xyz
 garden-boss-pen.xyz
 gaslessbastion-link.xyz
