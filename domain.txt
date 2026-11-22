@@ -89759,7 +89759,6 @@ dezentracore.lol
 dj-crypto.lol
 dogeuskekius.lol
 dope-coin.lol
-downaldtwump.lol
 eventchecker.dropme.lol
 solairdrops.dropme.lol
 eventchecker.dropnow.lol
@@ -110299,7 +110298,6 @@ aero-allocation.xyz
 aero-finance.xyz
 aerocheck-cdev.xyz
 aerodrome-app.xyz
-aerodrome-eligibility.xyz
 aerodrome-proposals.xyz
 aerodrome-register.xyz
 aerodrome-registration.xyz
