@@ -8267,7 +8267,6 @@ pikashowmodapk.app
 pikashowsapks.app
 pitaes.app
 piteas.app
-plainswap.app
 plasma-rewards.app
 plasma-vote.app
 plasmarewards.app
