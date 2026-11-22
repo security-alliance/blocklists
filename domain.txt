@@ -77109,7 +77109,6 @@ claim-portal.fun
 claim-rlusd.fun
 claim-ryft.fun
 claim-sol-twitter.fun
-claim-unlswap.fun
 claim-usepaid.fun
 claimdrops.fun
 claimera.fun
@@ -95840,7 +95839,6 @@ electrumcryptocurrency.org
 electrurn.org
 eligibility-flare.org
 eligibility-zkpass.org
-eligible-hype.org
 eligible-unlswap.org
 ellipal.org
 ellipalwallet.org
