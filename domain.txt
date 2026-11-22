@@ -109442,7 +109442,6 @@ jellycoin.vu
 joinzoomworkspace.vu
 mexc.vu
 moonshot.vu
-_wildcard_.nivora.vu
 polymarket.vu
 rainbet.vu
 zerionwallet.rfvnnxa.vu
