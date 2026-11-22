@@ -110841,6 +110841,7 @@ apps-3jane.xyz
 apps-arcus.xyz
 apps-asterdex.xyz
 apps-citrea.xyz
+apps-concrete.xyz
 apps-etherfi.xyz
 apps-firelightfi.xyz
 apps-flarefoundations.xyz
