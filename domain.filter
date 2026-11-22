@@ -650,7 +650,6 @@
 ||897977.app^$all
 ||898079.app^$all
 ||898698.app^$all
-||aave-payments.app^$all
 ||aavedashboard.app^$all
 ||aavee.app^$all
 ||aavefinance.app^$all
@@ -12262,7 +12261,6 @@
 ||docupdate.art^$all
 ||enter-unipeg.art^$all
 ||event-unipeg.art^$all
-||fiare-foundation.art^$all
 ||getphantom.art^$all
 ||governance-unipeg.art^$all
 ||grvt-rewards.art^$all
@@ -24937,7 +24935,6 @@
 ||allocation-knotsstonk.com^$all
 ||allocation-laptopbase.com^$all
 ||allocation-laptoptoken.com^$all
-||allocation-lienfi.com^$all
 ||allocation-live.com^$all
 ||allocation-loopscale.com^$all
 ||allocation-moltbook.com^$all
@@ -39588,7 +39585,6 @@
 ||payment-zoomninfo.com^$all
 ||paymentcard-create.com^$all
 ||paymenthods.com^$all
-||payments-aave.com^$all
 ||payments-cryptomus.com^$all
 ||payments-near.com^$all
 ||paymentscardtw.com^$all
@@ -42439,7 +42435,6 @@
 ||rvok3lmavuki.com^$all
 ||rw-gate.com^$all
 ||rwa-eth.com^$all
-||rwa-variational.com^$all
 ||rwa-xau.com^$all
 ||rwafinpro.com^$all
 ||rwanftcards.com^$all
@@ -52189,7 +52184,6 @@
 ||xam-found.com^$all
 ||xam-rpl.com^$all
 ||xaman-allocation.com^$all
-||xaman-checker.com^$all
 ||xaman-dapp.com^$all
 ||xaman-desktop.com^$all
 ||xaman-ecosystem.com^$all
@@ -74842,7 +74836,6 @@
 ||amlservice.digital^$all
 ||app-morpho.digital^$all
 ||app-uniswap.digital^$all
-||apyxfi.digital^$all
 ||arcnetwork.digital^$all
 ||argusarc.digital^$all
 ||arguspad.digital^$all
@@ -76829,7 +76822,6 @@
 ||treasury-espresso.foundation^$all
 ||treasury-ethena.foundation^$all
 ||treasurys-pool-firelight.foundation^$all
-||treasurys-pool-flare.foundation^$all
 ||trustwallet.foundation^$all
 ||truswallet.foundation^$all
 ||usepaid.foundation^$all
@@ -99234,7 +99226,6 @@
 ||rpc-riftfix.pro^$all
 ||ruggpt.pro^$all
 ||rugmoon.pro^$all
-||rujlranetwork.pro^$all
 ||s7-ethena.pro^$all
 ||safe3.pro^$all
 ||satrush.pro^$all
@@ -105101,7 +105092,6 @@
 ||falconvote-app.today^$all
 ||hydrex.today^$all
 ||khelmantra.today^$all
-||lienfi.today^$all
 ||lienlfi.today^$all
 ||marinade.today^$all
 ||melaniatrump.today^$all
@@ -105132,7 +105122,6 @@
 ||trump-wlfi.today^$all
 ||turtleyield.today^$all
 ||variational.today^$all
-||virtuals.today^$all
 ||virtuals-spring.today^$all
 ||voltrix.today^$all
 ||vote-babylonlabs.today^$all
@@ -110505,7 +110494,6 @@
 ||aiw3-rewards.xyz^$all
 ||ajc888.xyz^$all
 ||alchemix-airdrop.xyz^$all
-||alchemix-rewards.xyz^$all
 ||alchemixfi-allocation.xyz^$all
 ||alchemixfi-allocations.xyz^$all
 ||alchemixfi-claims.xyz^$all
@@ -110686,7 +110674,6 @@
 ||allocations-trade.xyz^$all
 ||allocations-treadfi.xyz^$all
 ||allocations-usepaid.xyz^$all
-||allocations-virutal.xyz^$all
 ||allocations-xstocks.xyz^$all
 ||vote.allocations-zest.xyz^$all
 ||allocations-zestprotocol.xyz^$all
@@ -110985,7 +110972,6 @@
 ||at-micwal.xyz^$all
 ||atlashyper.xyz^$all
 ||atlasora-claim.xyz^$all
-||atlasora-rewards.xyz^$all
 ||atomiccore-alpha.xyz^$all
 ||atonkfun.xyz^$all
 ||auditablesigner-pulse.xyz^$all
@@ -111060,7 +111046,6 @@
 ||based-allocation.xyz^$all
 ||based-one.xyz^$all
 ||based-proposal.xyz^$all
-||based-rewards.xyz^$all
 ||basedaphub.xyz^$all
 ||basedbot-app.xyz^$all
 ||basedelephant.xyz^$all
@@ -111387,7 +111372,6 @@
 ||citrea-distribution.xyz^$all
 ||citrea-enter.xyz^$all
 ||citrea-participate.xyz^$all
-||citrea-portal.xyz^$all
 ||citrea-quests.xyz^$all
 ||citrea-register.xyz^$all
 ||citrea-registration.xyz^$all
@@ -114172,7 +114156,6 @@
 ||lhyperliquid.xyz^$all
 ||lido-event.xyz^$all
 ||lido-register.xyz^$all
-||lido-rewards.xyz^$all
 ||lido-voting.xyz^$all
 ||lidofinance-enter.xyz^$all
 ||lidofinance-register.xyz^$all
@@ -114213,7 +114196,6 @@
 ||lighter-take.xyz^$all
 ||lighter-token.xyz^$all
 ||lighter-tokens.xyz^$all
-||lighter-vault.xyz^$all
 ||lighter-votes.xyz^$all
 ||lighter-votings.xyz^$all
 ||lighter-wallet.xyz^$all
@@ -114479,7 +114461,6 @@
 ||monad-allocation-proposal.xyz^$all
 ||monad-apr.xyz^$all
 ||monad-bonus.xyz^$all
-||monad-distributions.xyz^$all
 ||monad-proposal.xyz^$all
 ||monad-q3.xyz^$all
 ||monad-season2.xyz^$all
@@ -114593,7 +114574,6 @@
 ||myflareclaim.xyz^$all
 ||mygetnow.xyz^$all
 ||mypamella.xyz^$all
-||myspx-community.xyz^$all
 ||mystuckfunds.xyz^$all
 ||mytrustcards.xyz^$all
 ||mytwcard.xyz^$all
@@ -114717,7 +114697,6 @@
 ||neverland-proposal.xyz^$all
 ||neverland-register.xyz^$all
 ||neverland-treasury.xyz^$all
-||neverland-vault.xyz^$all
 ||neverland-vote.xyz^$all
 ||new-lighter.xyz^$all
 ||new-season-hyperfoundation.xyz^$all
@@ -114802,7 +114781,6 @@
 ||ondo-perps.xyz^$all
 ||ondo-registrations.xyz^$all
 ||ondo-reward.xyz^$all
-||ondo-rewards.xyz^$all
 ||ondo-votes.xyz^$all
 ||ondo-votings.xyz^$all
 ||ondofinance-join.xyz^$all
@@ -115015,7 +114993,6 @@
 ||participate-flarefoundation.xyz^$all
 ||participate-flr.xyz^$all
 ||participate-merkl.xyz^$all
-||participate-nillion.xyz^$all
 ||participate-ondo.xyz^$all
 ||participate-papertrade.xyz^$all
 ||participate-xrpl.xyz^$all
@@ -115149,7 +115126,6 @@
 ||playgroundbridge.xyz^$all
 ||playkaiju.xyz^$all
 ||playmogs.xyz^$all
-||plumenetwork-allocations.xyz^$all
 ||plumenetwork-distribution.xyz^$all
 ||plumenetwork-distributions.xyz^$all
 ||plumenetwork-join.xyz^$all
@@ -115582,7 +115558,6 @@
 ||raacfi-allocations.xyz^$all
 ||raacfi-distribution.xyz^$all
 ||raacfi-registrations.xyz^$all
-||raacfi-rewards.xyz^$all
 ||raacfi-vault.xyz^$all
 ||raacfi-vote.xyz^$all
 ||raacfi-voting.xyz^$all
@@ -115951,7 +115926,6 @@
 ||rewards-hyperfoundation.xyz^$all
 ||rewards-hyperlend.xyz^$all
 ||rewards-hyperliquid.xyz^$all
-||rewards-injective.xyz^$all
 ||rewards-jumper.xyz^$all
 ||rewards-jumperapp.xyz^$all
 ||rewards-junper.xyz^$all
@@ -115968,7 +115942,6 @@
 ||rewards-monad.xyz^$all
 ||rewards-montra.xyz^$all
 ||rewards-my.xyz^$all
-||rewards-nanovita.xyz^$all
 ||rewards-neet.xyz^$all
 ||rewards-netnetcapital.xyz^$all
 ||rewards-nexus.xyz^$all
@@ -116896,7 +116869,6 @@
 ||solveddapp.xyz^$all
 ||solvertex.xyz^$all
 ||solvprotocol-registrations.xyz^$all
-||solvprotocol-rewards.xyz^$all
 ||solwex.xyz^$all
 ||solwheels.xyz^$all
 ||solxproxagg.xyz^$all
@@ -118704,7 +118676,6 @@
 ||zest-governance.xyz^$all
 ||zest-proposal.xyz^$all
 ||zest-protocol.xyz^$all
-||zest-rewards.xyz^$all
 ||zestprotocol-allocations.xyz^$all
 ||zestprotocol-claim.xyz^$all
 ||zestprotocol-claims.xyz^$all

@@ -650,7 +650,6 @@ starknet_retroactive-wbanuyv6.4everland.app
 897977.app
 898079.app
 898698.app
-aave-payments.app
 aavedashboard.app
 aavee.app
 aavefinance.app
@@ -12262,7 +12261,6 @@ dmars.art
 docupdate.art
 enter-unipeg.art
 event-unipeg.art
-fiare-foundation.art
 getphantom.art
 governance-unipeg.art
 grvt-rewards.art
@@ -24937,7 +24935,6 @@ allocation-kintara.com
 allocation-knotsstonk.com
 allocation-laptopbase.com
 allocation-laptoptoken.com
-allocation-lienfi.com
 allocation-live.com
 allocation-loopscale.com
 allocation-moltbook.com
@@ -39588,7 +39585,6 @@ payment-gateway-crypto.com
 payment-zoomninfo.com
 paymentcard-create.com
 paymenthods.com
-payments-aave.com
 payments-cryptomus.com
 payments-near.com
 paymentscardtw.com
@@ -42439,7 +42435,6 @@ rvnucdagnt2026.com
 rvok3lmavuki.com
 rw-gate.com
 rwa-eth.com
-rwa-variational.com
 rwa-xau.com
 rwafinpro.com
 rwanftcards.com
@@ -52189,7 +52184,6 @@ xam-dapp.com
 xam-found.com
 xam-rpl.com
 xaman-allocation.com
-xaman-checker.com
 xaman-dapp.com
 xaman-desktop.com
 xaman-ecosystem.com
@@ -74842,7 +74836,6 @@ amlportal.digital
 amlservice.digital
 app-morpho.digital
 app-uniswap.digital
-apyxfi.digital
 arcnetwork.digital
 argusarc.digital
 arguspad.digital
@@ -76829,7 +76822,6 @@ tge--flare.foundation
 treasury-espresso.foundation
 treasury-ethena.foundation
 treasurys-pool-firelight.foundation
-treasurys-pool-flare.foundation
 trustwallet.foundation
 truswallet.foundation
 usepaid.foundation
@@ -99234,7 +99226,6 @@ rpc-resolve.pro
 rpc-riftfix.pro
 ruggpt.pro
 rugmoon.pro
-rujlranetwork.pro
 s7-ethena.pro
 safe3.pro
 satrush.pro
@@ -105101,7 +105092,6 @@ ethers.today
 falconvote-app.today
 hydrex.today
 khelmantra.today
-lienfi.today
 lienlfi.today
 marinade.today
 melaniatrump.today
@@ -105132,7 +105122,6 @@ trump-official.today
 trump-wlfi.today
 turtleyield.today
 variational.today
-virtuals.today
 virtuals-spring.today
 voltrix.today
 vote-babylonlabs.today
@@ -110505,7 +110494,6 @@ airsolproject.xyz
 aiw3-rewards.xyz
 ajc888.xyz
 alchemix-airdrop.xyz
-alchemix-rewards.xyz
 alchemixfi-allocation.xyz
 alchemixfi-allocations.xyz
 alchemixfi-claims.xyz
@@ -110686,7 +110674,6 @@ allocations-tollylabs.xyz
 allocations-trade.xyz
 allocations-treadfi.xyz
 allocations-usepaid.xyz
-allocations-virutal.xyz
 allocations-xstocks.xyz
 vote.allocations-zest.xyz
 allocations-zestprotocol.xyz
@@ -110985,7 +110972,6 @@ astuerdex.xyz
 at-micwal.xyz
 atlashyper.xyz
 atlasora-claim.xyz
-atlasora-rewards.xyz
 atomiccore-alpha.xyz
 atonkfun.xyz
 auditablesigner-pulse.xyz
@@ -111060,7 +111046,6 @@ basecatonbase.xyz
 based-allocation.xyz
 based-one.xyz
 based-proposal.xyz
-based-rewards.xyz
 basedaphub.xyz
 basedbot-app.xyz
 basedelephant.xyz
@@ -111387,7 +111372,6 @@ citrea-claims.xyz
 citrea-distribution.xyz
 citrea-enter.xyz
 citrea-participate.xyz
-citrea-portal.xyz
 citrea-quests.xyz
 citrea-register.xyz
 citrea-registration.xyz
@@ -114172,7 +114156,6 @@ lfjfbocurufhbekodv.xyz
 lhyperliquid.xyz
 lido-event.xyz
 lido-register.xyz
-lido-rewards.xyz
 lido-voting.xyz
 lidofinance-enter.xyz
 lidofinance-register.xyz
@@ -114213,7 +114196,6 @@ lighter-stakes.xyz
 lighter-take.xyz
 lighter-token.xyz
 lighter-tokens.xyz
-lighter-vault.xyz
 lighter-votes.xyz
 lighter-votings.xyz
 lighter-wallet.xyz
@@ -114479,7 +114461,6 @@ mon-claims.xyz
 monad-allocation-proposal.xyz
 monad-apr.xyz
 monad-bonus.xyz
-monad-distributions.xyz
 monad-proposal.xyz
 monad-q3.xyz
 monad-season2.xyz
@@ -114593,7 +114574,6 @@ my-wcevwvc.xyz
 myflareclaim.xyz
 mygetnow.xyz
 mypamella.xyz
-myspx-community.xyz
 mystuckfunds.xyz
 mytrustcards.xyz
 mytwcard.xyz
@@ -114717,7 +114697,6 @@ neverland-enter.xyz
 neverland-proposal.xyz
 neverland-register.xyz
 neverland-treasury.xyz
-neverland-vault.xyz
 neverland-vote.xyz
 new-lighter.xyz
 new-season-hyperfoundation.xyz
@@ -114802,7 +114781,6 @@ ondo-participate.xyz
 ondo-perps.xyz
 ondo-registrations.xyz
 ondo-reward.xyz
-ondo-rewards.xyz
 ondo-votes.xyz
 ondo-votings.xyz
 ondofinance-join.xyz
@@ -115015,7 +114993,6 @@ participate-flarefdn.xyz
 participate-flarefoundation.xyz
 participate-flr.xyz
 participate-merkl.xyz
-participate-nillion.xyz
 participate-ondo.xyz
 participate-papertrade.xyz
 participate-xrpl.xyz
@@ -115149,7 +115126,6 @@ playdeadshot.xyz
 playgroundbridge.xyz
 playkaiju.xyz
 playmogs.xyz
-plumenetwork-allocations.xyz
 plumenetwork-distribution.xyz
 plumenetwork-distributions.xyz
 plumenetwork-join.xyz
@@ -115582,7 +115558,6 @@ raacfi-allocation.xyz
 raacfi-allocations.xyz
 raacfi-distribution.xyz
 raacfi-registrations.xyz
-raacfi-rewards.xyz
 raacfi-vault.xyz
 raacfi-vote.xyz
 raacfi-voting.xyz
@@ -115951,7 +115926,6 @@ rewards-hyperecosystem.xyz
 rewards-hyperfoundation.xyz
 rewards-hyperlend.xyz
 rewards-hyperliquid.xyz
-rewards-injective.xyz
 rewards-jumper.xyz
 rewards-jumperapp.xyz
 rewards-junper.xyz
@@ -115968,7 +115942,6 @@ rewards-micronfndn.xyz
 rewards-monad.xyz
 rewards-montra.xyz
 rewards-my.xyz
-rewards-nanovita.xyz
 rewards-neet.xyz
 rewards-netnetcapital.xyz
 rewards-nexus.xyz
@@ -116896,7 +116869,6 @@ solvedapps.xyz
 solveddapp.xyz
 solvertex.xyz
 solvprotocol-registrations.xyz
-solvprotocol-rewards.xyz
 solwex.xyz
 solwheels.xyz
 solxproxagg.xyz
@@ -118704,7 +118676,6 @@ zest-claim.xyz
 zest-governance.xyz
 zest-proposal.xyz
 zest-protocol.xyz
-zest-rewards.xyz
 zestprotocol-allocations.xyz
 zestprotocol-claim.xyz
 zestprotocol-claims.xyz
