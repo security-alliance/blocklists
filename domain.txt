@@ -93685,7 +93685,6 @@ zamaprotocol.news
 zamas.news
 zebec.news
 aerodrome.nexus
-polymarketusd.nexus
 twtairdrop.free.nf
 bcgamenigeria.ng
 appnitrosmartverse-click.com.ng
