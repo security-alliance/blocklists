@@ -23884,7 +23884,6 @@ client.843971-cb.com
 846247coinbase.com
 847216-crypto.com
 847231-crypto.com
-8473-kraken.com
 847312-coinbase.com
 847321coinbase.com
 847333-binance.com
@@ -27704,7 +27703,6 @@ centrifuge-governance.com
 centrifuge-vote.com
 centrifugefoundation.com
 centrifugevote.com
-centrlfuge.com
 ceobex.com
 cepcut-apps.com
 alignment-reward.cerberusnode.com
@@ -32553,7 +32551,6 @@ firelight-igniter.com
 firelight-ink.com
 firelight-live.com
 firelight-mainnet.com
-firelight-multiplier.com
 firelight-multiply.com
 firelight-networks.com
 firelight-offer2.com
@@ -44582,7 +44579,6 @@ ticket-pages.com
 ticket-trezor.com
 ticket-trustwallet.com
 ticket2249-binance.com
-ticket71-gmail.com
 ticketapi-google.com
 ticketcase-x.com
 ticketcenter-icloud.com
@@ -78878,7 +78874,6 @@ com-d04-gift-esim.icu
 com-e04-gift-esim.icu
 com-f04-gift-esim.icu
 com-g04-gift-esim.icu
-com-ga.icu
 com-h04-gift-esim.icu
 com-i04-gift-esim.icu
 com-icu.icu
@@ -78886,9 +78881,7 @@ com-j04-gift-esim.icu
 com-k04-gift-esim.icu
 com-l04-gift-esim.icu
 com-launchpad.icu
-com-lo.icu
 com-login.icu
-com-lu.icu
 com-m04-gift-esim.icu
 com-n04-gift-esim.icu
 com-o04-gift-esim.icu
@@ -80903,7 +80896,6 @@ firelight-early.info
 firelight-flt.info
 firelight-foundation.info
 firelight-fxrp.info
-firelight-multiplier.info
 firelight-multiply.info
 firelight-phase.info
 firelight-phase2.info
@@ -90008,7 +90000,6 @@ white-haired.lol
 white-hairedbsc.lol
 white-hairedstock.lol
 whitehaired.lol
-without-analytics.lol
 wopsollab.lol
 xabelgundexxcdn.lol
 xcoinsol.lol
@@ -110165,7 +110156,6 @@ okx.291543713.xyz
 secure.8moonbirds.xyz
 signin.8moonbirds.xyz
 8yahoo.xyz
-971022.xyz
 9inelivesgng.xyz
 a16zposeidon.xyz
 aaa-hub.xyz
@@ -111426,14 +111416,11 @@ com-1.xyz
 com-1w.xyz
 com-cap.xyz
 com-desktop.xyz
-com-fo.xyz
-com-gd.xyz
 com-it.xyz
 com-ld.xyz
 com-lj3.xyz
 com-lj7.xyz
 com-log1n.xyz
-com-ly.xyz
 com-node.xyz
 com-page.xyz
 com-stable.xyz
@@ -111568,7 +111555,6 @@ cryptocurrencymigrate.xyz
 cryptofixer.xyz
 cryptoiin.xyz
 cryptoiinpro.xyz
-cryptomusgate.xyz
 cryptonightmare.xyz
 cryptopayment.xyz
 cryptoprotocs.xyz
@@ -117757,7 +117743,6 @@ vote-derive.xyz
 vote-dexscreener.xyz
 vote-doppler.xyz
 vote-dopplerfinance.xyz
-vote-eligibility.xyz
 vote-elysium.xyz
 vote-enterforever.xyz
 vote-ethenafi.xyz
