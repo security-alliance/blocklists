@@ -50374,7 +50374,6 @@ nav-coin-extnsions.wixstudio.com
 nav-coinbaaz-extn.wixstudio.com
 nav-coinbase.wixstudio.com
 nav-dydxswapp.wixstudio.com
-nav-dydxxcdn.wixstudio.com
 nav-en-etaaro.wixstudio.com
 nav-enjaxxlibrety.wixstudio.com
 nav-ettrocdn.wixstudio.com
