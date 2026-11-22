@@ -19177,7 +19177,6 @@
 ||stable-hub.cloud^$all
 ||stable-rewards.cloud^$all
 ||1inch.stakingreward.cloud^$all
-||1inch-wallet.stakingreward.cloud^$all
 ||1lnch.stakingreward.cloud^$all
 ||2z.stakingreward.cloud^$all
 ||astar-networks.stakingreward.cloud^$all
@@ -57130,6 +57129,7 @@
 ||189-lists-okxvotes.pages.dev^$all
 ||189-reallocate-flare.pages.dev^$all
 ||189-stonkbroker-clutchmarkets.pages.dev^$all
+||18e4-fa8e-5133-c0inbase-list.pages.dev^$all
 ||18u-aaa-kraken.pages.dev^$all
 ||19-0xfluid.pages.dev^$all
 ||19-aeroeco.pages.dev^$all
