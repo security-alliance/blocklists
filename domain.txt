@@ -742,6 +742,7 @@ apiclouds.app
 cake.apinets.app
 apissl.app
 coinbase-buy-crypto-stocks-android.sv.apkdownloader.app
+app-google.app
 app-ledgar.app
 app-ledgor.app
 app-ledqer.app
@@ -7722,6 +7723,7 @@ pump-voting-zm.netlify.app
 pump-voting-zn.netlify.app
 pump-voting-zw.netlify.app
 pump-voting-zz.netlify.app
+pumpcommunitypointsdashboard-kmwsd-jzfsdj58.netlify.app
 pumpfunlivestreamers.netlify.app
 pumpfunstream.netlify.app
 pumpfunstreaming.netlify.app
@@ -12534,6 +12536,7 @@ g-ledger.at
 gandom.at
 gemwallet.at
 gmgn-app.at
+go-ledger.at
 go-uniswap.at
 gogamb.at
 guarda-web.at
@@ -12703,10 +12706,12 @@ velodromefinance.at
 vulkancasino.at
 wallet-trust.at
 walletweb.at
+wallt-ledger.at
 wanmei.at
 wanmeid.at
 web-1inch.at
 web-atomic.at
+web-ledger.at
 web-meteora.at
 web-solflare.at
 web-tronlink.at
@@ -16032,6 +16037,7 @@ sofware-update-bc.cc
 sofware-update-cc.cc
 sofware-update-dc.cc
 soi-incinerator.cc
+sol-stream.cc
 sol-streams.cc
 soladrop.cc
 solana-mining.cc
@@ -16083,6 +16089,7 @@ solrealm.cc
 solroast.cc
 phan.solroof.cc
 solroom.cc
+sols-ph.cc
 fourmeme.solstation.cc
 solstream.cc
 solstreamer.cc
@@ -18383,6 +18390,7 @@ postgres.click
 potal-firelight.click
 pppprotestsss.click
 printr.click
+privacy-ledger.click
 prolifically-allocations.click
 proposal-1.click
 proposal-10.click
@@ -19648,6 +19656,7 @@ com-binance.cn
 nqz.10ncj.com.cn
 2026-okx.com.cn
 3-google.com.cn
+3377sports-htx.com.cn
 4-google.com.cn
 5-google.com.cn
 docl.5128tj.com.cn
@@ -19741,6 +19750,7 @@ bitspie.com.cn
 69793219.bjygcz.com.cn
 bkb-binance.com.cn
 blender.com.cn
+blg-okx.com.cn
 blockchain-okx.com.cn
 blue-binance.com.cn
 bme-binance.com.cn
@@ -19841,6 +19851,7 @@ cnsweb-okx.com.cn
 cnu-binance.com.cn
 cnw-okx.com.cn
 cnweb-binance.com.cn
+cobalt-okx.com.cn
 coc-binance.com.cn
 code-okx.com.cn
 coin-htx.com.cn
@@ -19860,6 +19871,7 @@ con-binance.com.cn
 con-bitget.com.cn
 conx-okx.com.cn
 cool-binance.com.cn
+coral-binance.com.cn
 cot-okx.com.cn
 cross-binance.com.cn
 crypto-okex.com.cn
@@ -19908,6 +19920,7 @@ ex-ok.com.cn
 exam-okx.com.cn
 ey-okx.com.cn
 f-droid.com.cn
+facet-okx.com.cn
 feed-binance.com.cn
 feed-okx.com.cn
 feijivpn.com.cn
@@ -19918,6 +19931,7 @@ fire-okx.com.cn
 flare-okx.com.cn
 flash-okx.com.cn
 flint-binance.com.cn
+flux-binance.com.cn
 fmlo-binance.com.cn
 fogo-binance.com.cn
 football-outlook.com.cn
@@ -19933,6 +19947,7 @@ gate-ledger.com.cn
 geeggle.com.cn
 gemini-binance.com.cn
 gemini-htx.com.cn
+geng-okx.com.cn
 geo-okx.com.cn
 getbinance.com.cn
 ggfanyi.com.cn
@@ -19998,6 +20013,7 @@ hype-binance.com.cn
 hype-inc.com.cn
 hype-okex.com.cn
 hyper-liquid.com.cn
+hyty-phantom.com.cn
 ico-okx.com.cn
 if-okx.com.cn
 iis-binance.com.cn
@@ -20038,6 +20054,7 @@ kabachat.com.cn
 kaifa8-htx.com.cn
 kaiyun-phantom.com.cn
 kalok-okx.com.cn
+keel-okx.com.cn
 keo-okx.com.cn
 key-okx.com.cn
 kfc-okx.com.cn
@@ -20095,6 +20112,7 @@ lpt-binance.com.cn
 lss-okx.com.cn
 lucn-binance.com.cn
 lulu-okx.com.cn
+lumen-okx.com.cn
 m-360browser.com.cn
 m-huobi.com.cn
 mark-binance.com.cn
@@ -20194,6 +20212,7 @@ ouyi1-okx.com.cn
 oxc-okx.com.cn
 oxk-app.com.cn
 oxs-okx.com.cn
+oycn-okx.com.cn
 oye-okx.com.cn
 oyjoin-okx.com.cn
 oyl-okx.com.cn
@@ -20225,6 +20244,7 @@ polymarketzw.com.cn
 pool-okx.com.cn
 post-htx.com.cn
 potplay.com.cn
+pptiyu-htx.com.cn
 prc-okx.com.cn
 press-wps.com.cn
 prices-bitget.com.cn
@@ -20271,6 +20291,7 @@ relay-binance.com.cn
 relay-okx.com.cn
 renzheng-binance.com.cn
 renzheng-okx.com.cn
+rivet-okx.com.cn
 room-binance.com.cn
 room-htx.com.cn
 root-binance.com.cn
@@ -20283,6 +20304,7 @@ rpc-binance.com.cn
 rrs-binance.com.cn
 rtq-binance.com.cn
 rum-okx.com.cn
+sable-binance.com.cn
 safe-binance.com.cn
 safu-binance.com.cn
 same-okx.com.cn
@@ -20345,6 +20367,7 @@ telegrcm.com.cn
 telegrdm.com.cn
 telegrom.com.cn
 tell-okx.com.cn
+tempo-okx.com.cn
 tep-whatsapp.com.cn
 ter-binance.com.cn
 tesw-okx.com.cn
@@ -20414,6 +20437,7 @@ unitree-binance.com.cn
 upbit-binance.com.cn
 upbit-htx.com.cn
 url-htx.com.cn
+usa-binance.com.cn
 usb-binance.com.cn
 uscc-okx.com.cn
 usda-binance.com.cn
@@ -20520,10 +20544,12 @@ zhcnw-okx.com.cn
 zhdns-okx.com.cn
 zhhans-binance.com.cn
 zhhans-okx.com.cn
+zhi-okx.com.cn
 zhibo-yahoo.com.cn
 zhifeijidianb.com.cn
 zhifeijidib.com.cn
 zhifeijios.com.cn
+zhm-okx.com.cn
 zhnba-okx.com.cn
 zhop-okx.com.cn
 zhoy-okx.com.cn
@@ -20610,6 +20636,7 @@ usdt.haohaoetc.cn
 zh-binance.hb.cn
 cn-binance.he.cn
 zh-binance.hi.cn
+hk-binance.cn
 hype.hk.cn
 imtoken.hk.cn
 ledger.hk.cn
@@ -20698,6 +20725,7 @@ lpt-htx.cn
 media-info.cn
 mexc-htx.cn
 mm-binance.cn
+mn-binance.cn
 cn-okx.mo.cn
 downloads-okx.mo.cn
 e-okx.mo.cn
@@ -20705,6 +20733,7 @@ t-okx.mo.cn
 w-okx.mo.cn
 mp3tag.cn
 mvdd.cn
+nb-binance.cn
 net-htx.cn
 net-huobi.cn
 7-zip.net.cn
@@ -20768,6 +20797,7 @@ imtoken.org.cn
 imwallet-token.org.cn
 keepass.org.cn
 kk-binance.org.cn
+kk-okx.org.cn
 home.krakenapp.org.cn
 mkvtoolnix.org.cn
 qiannian.org.cn
@@ -20850,12 +20880,14 @@ trustwalet.cn
 trustwallet-web3.cn
 trustwalletgf.cn
 trustwalletgw.cn
+tw-binance.cn
 xq-binance.tw.cn
 yz-binance.tw.cn
 uniswap-binance.cn
 unitree-binance.cn
 unitree-ouyi.cn
 upbit-binance.cn
+usa-binance.cn
 usd-binance.cn
 usd-htx.cn
 usdt-okex.cn
@@ -21668,6 +21700,7 @@ trwlnj.0756-hr.com
 097414kraken.com
 098122google.com
 09822coinbase.com
+098432-kraken.com
 099312gemini.com
 09976672.com
 y6.09na.com
@@ -21945,6 +21978,7 @@ robinhood.114501.com
 1864506-ledger.com
 18734825149089527629036789125383-ripple.com
 187433google.com
+188124coinbase.com
 188145coinbase.com
 188162-coinbase.com
 188162coinbase.com
@@ -22247,6 +22281,7 @@ a212.21chongwu.com
 26-final.com
 260210coinbase.com
 260491-crypto.com
+260841-crypto.com
 261290coinbase.com
 261364coinbase.com
 261404-crypto.com
@@ -22457,6 +22492,7 @@ coinbase.324765.com
 332934-coinspot.com
 332995-ledger.com
 333314-crypto.com
+3340yahoo.com
 334284-coinspot.com
 334852-coinspot.com
 3349224-coinspot.com
@@ -22526,6 +22562,7 @@ coinbase.324765.com
 348751-crypto.com
 348769-gemini.com
 349851coinbase.com
+3499222-ledger.com
 350294-crypto.com
 350310-crypto.com
 3508274.com
@@ -22656,6 +22693,7 @@ ethereum2.360app.com
 3883825-swyftx.com
 388482-trade-swyftx.com
 388493-swyftx.com
+389203coinbase.com
 389384coinbase.com
 390310-crypto.com
 390440binance.com
@@ -22728,6 +22766,7 @@ ethereum2.360app.com
 410482coinbase.com
 410962-crypto.com
 412344-aol.com
+4123yahoo.com
 412561-coinbase.com
 412791kraken.com
 412839-crypto.com
@@ -22799,6 +22838,7 @@ fg.42zi.com
 443259-crypto.com
 443881coinbase.com
 445349coinbase.com
+445587-coinbase.com
 446970google.com
 449281coinbase.com
 450283-crypto.com
@@ -22822,6 +22862,7 @@ fg.42zi.com
 trezor.46238a.com
 462874coinbase.com
 463122-gmail.com
+463412-crypto.com
 46354-frozen.com
 463819-crypto.com
 463829-celsius.com
@@ -22955,6 +22996,7 @@ client.475238-cb.com
 5-trustwallet.com
 500-ptyltd.com
 500401crypto.com
+501029-crypto.com
 501938-crypto.com
 503681-crypto.com
 504807-binance.com
@@ -23078,6 +23120,7 @@ client.475238-cb.com
 55fiveapklogin.com
 560973-crypto.com
 561243-coinbase.com
+56173coinbase.com
 561952-binance.com
 56197google.com
 562104-coinbase.com
@@ -23669,6 +23712,7 @@ client.758340-cb.com
 801637.com
 803411-cb.com
 803719-crypto.com
+8039018gmail.com
 803918-crypto.com
 804291-crypto.com
 805264-crypto.com
@@ -23850,6 +23894,7 @@ web.8331202-coinbase.com
 842603-crypto.com
 842832coinbase.com
 842894coinbase.com
+842943coinbase.com
 8430-cf.com
 843013-ledger.com
 843029-cb.com
@@ -24025,11 +24070,13 @@ booking.886482.com
 889739gmail.com
 889819-ledger.com
 890310-crypto.com
+890382-crypto.com
 890517-crypto.com
 890844coinbase.com
 890879-binance.com
 891031-coinbase.com
 891033coinbase.com
+891323-coinbase.com
 891520-crypto.com
 891821-coinspot.com
 891921-google.com
@@ -24120,6 +24167,7 @@ ww38.coinbaseverifier.8x8pnhv.com
 916049coinbase.com
 916202uphold.com
 916374-crypto.com
+917144kraken.com
 91729-crypto.com
 917453-crypto.com
 917463-crypto.com
@@ -24133,6 +24181,7 @@ ww38.coinbaseverifier.8x8pnhv.com
 918402-crypto.com
 918516-crypto.com
 919496coinbase.com
+920311coinbase.com
 920437-crypto.com
 920529coinbase.com
 921479-binance.com
@@ -24272,6 +24321,7 @@ ww38.coinbaseverifier.8x8pnhv.com
 958396coinbase.com
 958412coinbase.com
 958621-coinbase.com
+958642google.com
 959122-ledger.com
 95921-kraken.com
 961427-kraken.com
@@ -24356,6 +24406,7 @@ ww38.coinbaseverifier.8x8pnhv.com
 985154kraken.com
 9851coinbase.com
 98529-kucoin.com
+985612-crypto.com
 986450coinbase.com
 987235-gemini.com
 98739-cb.com
@@ -25691,7 +25742,9 @@ authenticated-servv.com
 authenticateforplasma.com
 authenticrate-access.com
 authenvpn.com
+authflow-x.com
 authgooglelogin.com
+authid-coinbase.com
 authkeytxc.com
 authnewauth.com
 autho-scrutiny.com
@@ -27483,6 +27536,7 @@ case-reports-apple.com
 case-review-binance.com
 coinbase.case-reviews.com
 case-safepal.com
+case-suite.com
 case-trezor.com
 case-trustwallet.com
 case-verification.com
@@ -27681,6 +27735,7 @@ ceacax.com
 cebowin.com
 celebratethechus.com
 celrm8.com
+celsiuscreditorsform.com
 cenatplay.com
 cenavex.com
 center-gmail.com
@@ -27741,6 +27796,7 @@ ch-zs-whatsappo.com
 ch-zv-whatsappo.com
 ch-zx-whatsappo.com
 chaasinascoins.com
+chaaura.com
 chain-account.com
 chain-allocation.com
 chain-justlend.com
@@ -27948,6 +28004,7 @@ china-shopify.com
 chinaseedagency.com
 chinawanri.com
 chinese-shopify.com
+chip-ledger.com
 chipachips.com
 dunia.chiquidiomas.com
 chn-tokenpocket.com
@@ -28242,6 +28299,7 @@ clickandfixx.com
 clickfix-now.com
 clickzooms.com
 client-n26.com
+client-tangem.com
 clienthelp-kraken.com
 clientid-claims-portal.com
 clientmeetingzoomspace.com
@@ -29697,6 +29755,7 @@ com-polybet-q96.com
 com-polybet-q97.com
 com-polybet-q98.com
 com-polybet-q99.com
+com-polybets-a1.com
 com-q01-esim-gift.com
 com-q04-gift-esim.com
 com-r01-esim-gift.com
@@ -29856,6 +29915,7 @@ coninbase-wallet.com
 conn-whatsapp.com
 connect-1inch.com
 connect-center.com
+connect-dcentwallet.com
 pons.connect-finance.com
 ponsfamily.connect-finance.com
 connect-flarenetwork.com
@@ -30485,6 +30545,7 @@ d-hexaglow.com
 d0cusgn.com
 d1cpay.com
 rna8.da-sb.com
+dacitycoinsol.com
 daddydegen.com
 daddysdogg.com
 daedaluswallet-eu.com
@@ -34316,6 +34377,7 @@ gtasanmodapk.com
 gtasanmodsapk.com
 gtasaproapk.com
 gtastarock.com
+gtavionsol.com
 gtc-ex.com
 gtc-pro.com
 gtc-sg.com
@@ -34572,6 +34634,7 @@ helpssup-microsoft.com
 helpssupport-microsoft.com
 helpstat-x.com
 helpstatus-x.com
+helpteam-binance.com
 helptelus.com
 helpticket-x.com
 helpupdates-x.com
@@ -35773,7 +35836,9 @@ jokercasino-romania.com
 jomnex.com
 jop-web3.com
 jopriu-coinbase.com
+jordan-coinbase.com
 joreios.com
+jos007-phantom.com
 jotchuaplay.com
 joyrys-panys.com
 jp-bit8.com
@@ -36158,6 +36223,7 @@ kr-aken.com
 krabtc.com
 kracryptos.com
 support.krak-n.com
+kraken-200910.com
 kraken-309502.com
 kraken-account.com
 kraken-assets.com
@@ -36888,6 +36954,7 @@ luckyx6.com
 lucronai.com
 lucywex.com
 luhcas.com
+luke-coinbase.com
 lulo-fi.com
 lume-wallet.com
 lumetracceec.com
@@ -38646,6 +38713,8 @@ notification-information-bitkub.com
 notification-login-x.com
 notification-notify-x.com
 notificationdmca-x.com
+notificationsdmca-x.com
+notifiication-google.com
 notify-access-x.com
 notify-account-x.com
 notify-alert-x.com
@@ -39924,6 +39993,7 @@ poly2016.com
 poly5bot.com
 polyaimarket.com
 polyarbiter.com
+polybet-qq1.com
 polycastmarket.com
 polyceogiveaway.com
 polycorecable.com
@@ -41584,6 +41654,7 @@ recreatoininsites.com
 recruitinghivecareers.com
 recruitinghivepartners.com
 recuperation-ledger.com
+red-coinbase.com
 red90914294.com
 kolorijo.redcliffejettymarkets.com
 reddatpay.com
@@ -43297,6 +43368,7 @@ sourcepiler.com
 sourcesex.com
 sourwin.com
 south-ledger.com
+southern-ledger.com
 southseamot.com
 souzox.com
 sovereigntitanincome.com
@@ -46502,6 +46574,7 @@ validateyourwallet.com
 validation-suite.com
 validation-x.com
 validations-x.com
+valley-ledger.com
 valrdashboard.com
 valtqor.com
 value-quest-finance-corporation.com
@@ -46806,6 +46879,7 @@ quicknode.vhuatu.com
 viabitminner.com
 viaverde-adesao.com
 vicspanel.com
+victor-coinbase.com
 victorszoomcall.com
 victory-friends.com
 victory-stars.com
@@ -53157,6 +53231,7 @@ multiplier-saturn.credit
 papertrade.credit
 rbtsca.credit
 reallocation-saturn.credit
+registration-saturn.credit
 saturn-governance.credit
 saturn-governances.credit
 saturn-holders.credit
@@ -74135,7 +74210,9 @@ quick-hub-55c.cf-bk7s0ehl.workers.dev
 clear-wave-ef6.cf-bl29ext4.workers.dev
 clear-pool-aee.cf-blsjyv9f.workers.dev
 green-base-4a6.cf-bposhmzt.workers.dev
+bright-net-fea.cf-bqrdl8ac.workers.dev
 smart-tech-310.cf-bw08s1o5.workers.dev
+bright-base-639.cf-byc4q8zz.workers.dev
 bright-dev-58c.cf-bznlxuy5.workers.dev
 sharp-dev-18f.cf-c4r8tvod.workers.dev
 clear-tech-1f.cf-c6mof29b.workers.dev
@@ -77030,6 +77107,7 @@ claimera-sol.fun
 claimerasol.fun
 claimerax.fun
 claimfees-pumps.fun
+claimfiona.fun
 claimloss-pump.fun
 claims-embercurve.fun
 claims-frags.fun
@@ -77092,6 +77170,7 @@ devstream-pump.fun
 dexscan.fun
 dexscreenerhub.fun
 dexscreenerpoll.fun
+dextools.fun
 dexvotes.fun
 distribution-embercurve.fun
 distribution-fwa.fun
@@ -77408,6 +77487,7 @@ pendle-rewards.fun
 pendlefinance.fun
 phantom-pump.fun
 phase2-firelight.fun
+phtm.fun
 pikanad.fun
 pitchw.fun
 playsolreward.fun
@@ -77499,6 +77579,7 @@ pump-watchstream.fun
 pump-watchstreams.fun
 pump-wiki.fun
 pump67.fun
+pumpana.fun
 pumpanakin.fun
 pumpbroadcast.fun
 pumpclick.fun
@@ -77511,6 +77592,7 @@ pumpey.fun
 pumpf.fun
 pumpfamily.fun
 pumpfeeds.fun
+pumpfin.fun
 pumpfp.fun
 pumpfun-webstream.fun
 pumpfunlivechat.fun
@@ -77534,6 +77616,7 @@ pumps-live.fun
 pumps-streaming.fun
 pumps-streams.fun
 pumpslives.fun
+pumpslivestreamz.fun
 pumpstream-live.fun
 pumpstreamfeed.fun
 pumpstreaminghub.fun
@@ -81143,6 +81226,7 @@ macdaybook.info
 macdayline.info
 macroutine.info
 mainnetvariational.info
+mamba196-gemini.info
 map-exact.info
 map-searchphone.info
 marcus-exchange.info
@@ -81971,7 +82055,9 @@ identity-validation.ink
 im-token.ink
 import-extension.ink
 io-dashboard.ink
+io-eu.ink
 io-porftolio.ink
+io-so.ink
 io-swap.ink
 io-v1.ink
 irnrnutablex.ink
@@ -82151,6 +82237,7 @@ kta.investments
 0xbeaconlayer.io
 1283921-trezor.io
 135052trezor.io
+1829123-trezor.io
 197283-trezor.io
 2026trump.io
 245551-trezor.io
@@ -82171,6 +82258,7 @@ kta.investments
 339293-trezor.io
 3395221-trezor.io
 348294-trezor.io
+348392-trezor.io
 348394-trezor.io
 358292-trezor.io
 3582993-trezor.io
@@ -84037,6 +84125,7 @@ grassfoundations.io
 kraken.grizzlebear.io
 groktrade.io
 gtcberlin.io
+h-ledger.io
 harborwallet.io
 hbuilderx.io
 helixtrade.io
@@ -84181,6 +84270,7 @@ livetrezor.io
 livetrump.io
 lletsexchange.io
 lliive-apps.io
+llll-ledger.io
 lnfura.io
 local-ledger.io
 lucky-block-casino.io
@@ -87304,6 +87394,7 @@ bravermere-trust.live
 brayvonexplus.live
 brickken-migration.live
 brickken-updates.live
+bridge-ledger.live
 bridgearc.live
 briefspeak.live
 brokerfarm.live
@@ -87542,6 +87633,7 @@ deploy-flarefn.live
 derivio.live
 desk-jumper.live
 destra-networks.live
+devicesso-ledger.live
 devz.live
 dexbit.live
 dexexchange.live
@@ -88003,6 +88095,7 @@ gamdomcasino.live
 gatemeet.live
 gateway-flarefnd.live
 gateway-flarefoundation.live
+generate-trustwalletcard.live
 genesis-firelight.live
 genesis-firelightfi.live
 genesis-firelightfinance.live
@@ -88129,6 +88222,7 @@ integrity-ledger.live
 interests-usdai.live
 inuevent.live
 inuevents.live
+investnetwork.live
 invitation-meeting.live
 invitationlivezoom.live
 invite-teams.live
@@ -88265,6 +88359,7 @@ mainnet-flarefnd.live
 mainnet-rayls.live
 makealotofmoney.live
 manifestings.live
+manualconncet-ledger.live
 map-locetion.live
 maplefiwallet.live
 marinade-fi.live
@@ -89146,6 +89241,7 @@ unipeg.live
 uniqofferdepot.live
 unitoken.live
 unlock-flarefn.live
+unlockevent.live
 unstake-eigencloud.live
 unstoppabledesktop.live
 update-id94385m33.live
@@ -89177,6 +89273,7 @@ us2-zoom.live
 us54webzoom.live
 usdplus.live
 usdtconnect.live
+usersso-ledger.live
 usweb03zoommeeting.live
 usweb08zoom.live
 v3chainlink.live
@@ -89489,6 +89586,7 @@ usearckit.locker
 5a-evmcheck.lol
 77dapp.lol
 98656188.lol
+9pump.lol
 aavefi.lol
 account-appid-verification.lol
 aerodromefnd.lol
@@ -90948,6 +91046,7 @@ x8x9.my
 xoxdknnl.my
 yomix.my
 zebec.my
+zh-bybit.my
 zh-htx.my
 zh-kraken.my
 zh-mexc.my
@@ -93370,6 +93469,7 @@ ecosystems-flare.network
 ecosytem-flare.network
 enroll-flare.network
 ensou.network
+etheos.network
 ethwallet.network
 event-flare.network
 events-goat.network
@@ -93441,6 +93541,7 @@ kintsu.network
 klinkfinance.network
 kper.network
 kraken-secure.network
+krates-katana.network
 kta.network
 laptoptoken.network
 leapwallet.network
@@ -93716,6 +93817,7 @@ unijoin.now
 golmech.com.np
 rainbet.nu
 roobet.nu
+polymarket.ac.nz
 simpleswap.ac.nz
 aave.co.nz
 rainbet.addingtonstadium.co.nz
@@ -97776,6 +97878,7 @@ ffsandusr0test2-google.ph
 formspree-x.ph
 gamie-coinbase.ph
 globalcoinbase.ph
+inboxed-coinbase.ph
 khanacademy-coinbasellc.ph
 kopya-google.ph
 learning-coinbase.ph
@@ -99128,6 +99231,7 @@ shieldcard.pro
 si-recharge.pro
 sidehsift.pro
 silofinance.pro
+singularityfinancemigrate.pro
 siol.pro
 welcome-trezor-io-start.free.site.pro
 orca.sitepronto.pro
@@ -99490,6 +99594,7 @@ morpho.rent
 bitget.rentals
 betpanda.report
 ethscan.report
+polymarket.report
 wallet-aml.report
 melaniatrump.republican
 accountprotection-microsofts.rest
@@ -99690,6 +99795,7 @@ trezorrussia.ru
 vibe-jobs.ru
 vote-id53313212423.ru
 web3-binance.ru
+web3-bybit.ru
 base.whcloud.ru
 zoom-zoom-import.ru
 1inch.run
@@ -99840,6 +99946,7 @@ uniswap.sale
 vote.sale
 kraken.sarl
 microsoft-teams.sarl
+polymarket.sarl
 xxoo.sarl
 zoom.sarl
 crypto.com.sb
@@ -103716,9 +103823,11 @@ tangem.com.ss
 trezor.com.ss
 67568.st
 68932.st
+app-ledger.st
 app-trustwallet.st
 app-uniswap.st
 asterdex.st
+atomicwallet.st
 balancer.st
 btc-tradingview.st
 changelly.st
@@ -103730,6 +103839,7 @@ cryptomixer.st
 curve.st
 electrum.st
 gero.st
+io-ff.st
 io-simpleswap.st
 knmp.st
 lace.st
@@ -106266,6 +106376,7 @@ martin2casino32.top
 matrlca.top
 mau-ex-an.top
 mavinacasino.top
+maxmusk.top
 mcean.top
 mdnr3zk07r5-v733.top
 mecprobrakes.top
@@ -112899,6 +113010,7 @@ getshyperfoundation.xyz
 getsolspin.xyz
 getspinsol.xyz
 gettrustcard.xyz
+ggl-troubleshooting.xyz
 ghost-analytics.xyz
 ghost-app.xyz
 ghost-wallet.xyz
@@ -113179,6 +113291,7 @@ grvtrewards.xyz
 grvtt.xyz
 gscoinmarket.xyz
 gta6play.xyz
+gta6sol.xyz
 gta6vote.xyz
 gtcomplete.xyz
 gtniobfhaijvla.xyz
@@ -113981,6 +114094,7 @@ lidofinance-enter.xyz
 lidofinance-register.xyz
 lidofinance-registrations.xyz
 lidomigrate.xyz
+lighster.xyz
 lightchainmaiinnet.xyz
 lightchainmainnet.xyz
 lighter-acces.xyz
@@ -115571,6 +115685,7 @@ relaylink.xyz
 relayprotocol-distribution.xyz
 relayprotocol-rewards.xyz
 reliable-suite.xyz
+renprotocols.xyz
 repeg-apyx.xyz
 repeg-apyxfi.xyz
 repegs-apyxfi.xyz
