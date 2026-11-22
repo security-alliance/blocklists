@@ -16670,7 +16670,6 @@ argusworld.cfd
 asigidsksakgdfshksssafkkgkasf.cfd
 asterdex-rewards.cfd
 astervote.cfd
-atfoption.cfd
 authload0.cfd
 automatically-return.cfd
 axisrobotics.cfd
