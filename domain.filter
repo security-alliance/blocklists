@@ -102008,6 +102008,7 @@
 ||btcmix.services^$all
 ||docupdate.services^$all
 ||drop-box.services^$all
+||ledgerwallet.services^$all
 ||melaniatrump.services^$all
 ||meta-apps.services^$all
 ||okxwallet.services^$all
