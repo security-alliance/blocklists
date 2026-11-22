@@ -49746,7 +49746,6 @@ io-metmask-extcdn.wixstudio.com
 io-metmaskextnsion.wixstudio.com
 io-metmsk-page.wixstudio.com
 io-monpay-apps.wixstudio.com
-io-moonpay-nav.wixstudio.com
 io-moonpayapps.wixstudio.com
 io-moonpaycdn-apps.wixstudio.com
 m.io-moonpaycdn.wixstudio.com
