@@ -29407,6 +29407,7 @@
 ||com-gift-cards-eth.com^$all
 ||com-gift-cards-fil.com^$all
 ||bitrefill.com-gift-cards-flow.com^$all
+||bitrefill.com-gift-cards-gala.com^$all
 ||bitrefill.com-gift-cards-hbar.com^$all
 ||bitrefill.com-gift-cards-icp.com^$all
 ||bitrefill.com-gift-cards-imx.com^$all
@@ -115367,7 +115368,6 @@
 ||zest.protocol-reward.xyz^$all
 ||zest.protocol-rewards.xyz^$all
 ||protocols-firelightfi.xyz^$all
-||protocols-flarenetworks.xyz^$all
 ||pstoreslot-amp1.xyz^$all
 ||ptahiao.xyz^$all
 ||pudgypengu.xyz^$all
