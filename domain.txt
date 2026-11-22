@@ -44846,7 +44846,6 @@ tokenfundingindex.com
 tokengfomarket.com
 tokenhubportal.com
 tokenizationondo.com
-tokenizations-ondo.com
 tokenlon-protocol.com
 tokenmoonfixs.com
 tokenp1.com
@@ -46620,7 +46619,6 @@ variationalio.com
 variationall.com
 variationalpool.com
 variationalredir.com
-variationals.com
 variationals-omni.com
 variationaltrade.com
 variationalvotes.com
@@ -53480,7 +53478,7 @@ netnetcapital.cyou
 norbeasurveylink.cyou
 onchian.cyou
 openauthentication.cyou
-opengdp.cyou
+dashboard.opengdp.cyou
 orbitrelaydata.cyou
 order-verification-portal.cyou
 ose-jp.cyou
@@ -76896,7 +76894,6 @@ access-papertrade.fun
 access8497.fun
 acessportal-robinhood00-live.fun
 acoount-girocash.fun
-adopter-alt.fun
 aeroecosystem.fun
 aidrops.fun
 airdlrop.fun
@@ -88757,7 +88754,6 @@ pumpstreamsol.live
 pumpx.live
 coin.pumstreamers.live
 pundu.live
-punnp.live
 purrtoken.live
 pwease-migrate.live
 pyth-migrate.live
@@ -91422,7 +91418,6 @@ muywdzf5xauw4hoq36szrcny6xp2ru3lqvnbvck62dgnbv4vkm2a.arweave.net
 mvad4xgge7fgo4o3oawjdf6276xl2cabpl5upoie6wnltqg7nyzq.arweave.net
 mwpzavdrvrlwphpnwaox2miglflavdkuwc2wgugcjfv5wdfaswaq.arweave.net
 mzpc6tzwsipqw2vhla2aw3hypcs2bdox2g4f67yi3rwindjwuo6a.arweave.net
-n4l5v7plpz7roqow7rubzzw2sjjkeyinqol4otrcm7e7xat7muka.arweave.net
 nbx2tigfjiiwoaudmkyrnxoif3daihc47qbiagpir6nv3cyxytea.arweave.net
 ndpsjff42vy5wmukhorr4ytjzegt3eqvkxwye5bteype25gfoylq.arweave.net
 neyxri5dz2nn7ayxmlyfywlaki5d25dih4pjgofsvro2xgfsftla.arweave.net
