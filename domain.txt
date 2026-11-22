@@ -12131,7 +12131,6 @@ en-ntcoins.zapier.app
 en-uphol-walle.zapier.app
 eng-bitbuy.zapier.app
 eng-htx-io.zapier.app
-eng-ldgrlive.zapier.app
 enng-bitbuy.zapier.app
 eternll-eng.zapier.app
 exchange-rabbitx.zapier.app
@@ -12150,7 +12149,6 @@ htxxio.zapier.app
 htz-log-en.zapier.app
 kucon-eng.zapier.app
 lace-aap.zapier.app
-ldgrlives.zapier.app
 ledgeiostart.zapier.app
 ledger-liveusa.zapier.app
 ledgersttret.zapier.app
@@ -50030,7 +50028,6 @@ lacextension.wixstudio.com
 lacs-nav.wixstudio.com
 ldger-appstartscdn.wixstudio.com
 ldgr-cm-started.wixstudio.com
-ldgr-comstarts.wixstudio.com
 learn-app-extension.wixstudio.com
 learn-apps-rabbycdn.wixstudio.com
 learn-base-exetnsion.wixstudio.com
@@ -64936,6 +64933,7 @@ pr-7831.1inch-io-app.pages.dev
 86-vote-netnetcapital.pages.dev
 86-vote-orbio.pages.dev
 8607-f0d3-cb-listings.pages.dev
+86d5-fa8e-5133-c0inbase-list.pages.dev
 87-0xfluid.pages.dev
 87-allocation-yieldfields.pages.dev
 87-allowlist-ascendlaunch.pages.dev
@@ -80476,7 +80474,6 @@ hub-telco.in
 hyperliquid.in
 i-live.in
 ledger.ind.in
-ledgerlive.ind.in
 pikashowtv.ind.in
 hdstreamz.info.in
 pikashows.info.in
