@@ -51427,7 +51427,6 @@ usen-i-trutcapital.wixstudio.com
 user-base-extension.wixstudio.com
 user-base-extensions.wixstudio.com
 user-bitbuyweb.wixstudio.com
-user-dydxcdn.wixstudio.com
 user-dydxxapps.wixstudio.com
 user-dydxxcdn.wixstudio.com
 user-en-exodues.wixstudio.com
@@ -55313,6 +55312,7 @@ oskarkregar.dev
 122-reallocate-flare.pages.dev
 122-stonkbroker-clutchmarkets.pages.dev
 122-view-kinetiq.pages.dev
+1228-coinbase-listing-677f.pages.dev
 123-allowlist-ascendlaunch.pages.dev
 123-app-treadgov.pages.dev
 123-arcusgovernance.pages.dev
@@ -66600,6 +66600,7 @@ custosglobal.pages.dev
 czrainbet-com-4ec5273aa6.pages.dev
 d-bank.pages.dev
 d0fe-fa8e-5133-c0inbase-list.pages.dev
+d296-colnbase-listings-4f65.pages.dev
 daap-aerodrome.pages.dev
 dagyan-ledger.pages.dev
 daily-ledger-az5.pages.dev
@@ -67401,7 +67402,6 @@ eurc-usdtzv1.pages.dev
 europort-eurc-bridge.pages.dev
 event-xarnan.pages.dev
 event-xarnan-app.pages.dev
-events-folks-net.pages.dev
 everrise-miigrate.pages.dev
 ex--odus-web3-doc.pages.dev
 ex-dos-app-io.pages.dev
