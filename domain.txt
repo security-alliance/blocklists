@@ -11071,7 +11071,6 @@ scaffold-bitcoin2-nextjs-6xvx-git-main-nadai2010s-projects.vercel.app
 scanner-phantom.vercel.app
 scarlet-birch-2021.vercel.app
 secure-wallet-app-khaki.vercel.app
-securechain-dapps.vercel.app
 secured-dapps-ai.vercel.app
 securevalidator.vercel.app
 securywallets.vercel.app
