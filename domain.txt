@@ -24614,7 +24614,6 @@ aegetpron.com
 aero-finance.com
 aerodominance-secure.com
 aerodrome-claim.com
-aerodrome-foundation.com
 aerodrome-onchain.com
 aerodrome-vote.com
 aerodrome-votes.com
@@ -39009,7 +39008,6 @@ ondoglobals.com
 ondogovernances.com
 ondomarketsglobal.com
 ondoseason2.com
-ondovoting.com
 one-listings.com
 one-rewards.com
 one-vv4108.com
@@ -76789,7 +76787,6 @@ pre-release.bluefin.app.bluefin.foundation
 5262.bluefin.pr.app.bluefin.foundation
 4982.ember.pr.app.bluefin.foundation
 caldlera.foundation
-dao-firelight.foundation
 defi-flare.foundation
 desk-xrpl.foundation
 docupdate.foundation
@@ -114249,7 +114246,6 @@ multipliers-kinetiq.xyz
 multiplifi-airdrop.xyz
 multiplifi-app.xyz
 multiplivaults.xyz
-multiply-firelight.xyz
 multisoldappressolver.xyz
 multisolnetworks.xyz
 multisolprotocol.xyz
@@ -114805,7 +114801,6 @@ photon-solana.xyz
 cattheftauto.pikenians.xyz
 pilerlab.xyz
 pinnocapital.xyz
-pitchwcl.xyz
 pitchwcr.xyz
 pitchwct.xyz
 plaguetracker.xyz
