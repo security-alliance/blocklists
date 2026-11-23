@@ -33242,7 +33242,6 @@ get-worldid.com
 get-xrpl.com
 get-xrplfoundation.com
 get-xverse.com
-getcardsdrop.com
 getcitated.com
 getcoinbaseaccount.com
 getcombase.com
@@ -97174,6 +97173,7 @@ voting-xaman.org
 voting-xamanxrp.org
 vpdates-coinbase.org
 vvirex.org
+vvirexapp.org
 vvsfinance.org
 vvvcheck.org
 w-phantom.org
