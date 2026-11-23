@@ -81835,6 +81835,7 @@ citrea.ink
 claim-rlusd.ink
 claims-firelight.ink
 coarl.ink
+coinabsewallet.ink
 coinexsi.ink
 coinilst.ink
 coinmakretcap.ink
@@ -81959,6 +81960,7 @@ manlte.ink
 manltestaked.ink
 meetings5join.ink
 meta-mask.ink
+metaamskextension.ink
 meteora.ink
 meteorahub.ink
 miafinance.ink
