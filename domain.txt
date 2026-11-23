@@ -86583,7 +86583,6 @@ trojanonsolana.lat
 trust-walet.lat
 trustcard.lat
 trustwalletcard.lat
-u06h.lat
 t0kqwl.ujsaj.lat
 unipeg.lat
 up33.lat
@@ -88082,7 +88081,6 @@ isc4n.live
 isjsishgusug.live
 itn-teaprotocol.live
 itns-teaprotocol.live
-iu03e.live
 jackstorm.live
 wof-3682.jdwe.live
 jefy.live
