@@ -19134,7 +19134,6 @@ stable-rewards.cloud
 1lnch.stakingreward.cloud
 chain-links.stakingreward.cloud
 compound-finances.stakingreward.cloud
-doublezeros.stakingreward.cloud
 eigen.stakingreward.cloud
 interface-links.stakingreward.cloud
 interface-railguns.stakingreward.cloud
