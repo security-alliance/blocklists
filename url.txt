@@ -400,7 +400,6 @@ https://sites.google.com/view/coinbase-waletextension/home
 https://sites.google.com/view/coinbase-wall--/home
 https://sites.google.com/view/coinbase-wallet---/home
 https://sites.google.com/view/coinbase-wallet-cdn/home
-https://sites.google.com/view/coinbase-wallet-docs/home
 https://sites.google.com/view/coinbase-wallet-explore/home
 https://sites.google.com/view/coinbase-wallet-ext/home
 https://sites.google.com/view/coinbase-wallet-extensi/home
@@ -408,7 +407,6 @@ https://sites.google.com/view/coinbase-wallet-getting/home
 https://sites.google.com/view/coinbase-wallet-home/home
 https://sites.google.com/view/coinbase-wallet-intro/home
 https://sites.google.com/view/coinbase-wallet-logs/home
-https://sites.google.com/view/coinbase-wallet-portfolio/home
 https://sites.google.com/view/coinbase-wallet-pro/home
 https://sites.google.com/view/coinbase-wallet-run/home
 https://sites.google.com/view/coinbase-wallet-xtension/home
