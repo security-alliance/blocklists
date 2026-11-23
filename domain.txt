@@ -92220,6 +92220,7 @@ leap-wallet.net
 leapwalletdesktop.net
 ledgelive.net
 ledger-en.net
+ledger-eng.net
 ledger-io.net
 ledger-live-connects-us.net
 ledger-live-en.net
@@ -95753,6 +95754,7 @@ exodus-app.org
 exodus-apps.org
 exodus-appz.org
 exodus-desk.org
+exodus-eng.org
 exodus-io.org
 exodus-on.org
 exodus-op.org
