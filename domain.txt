@@ -32474,7 +32474,6 @@ wallnet-nodefix.firebaseapp.com
 xapp-folks-finance.firebaseapp.com
 yieldfarms.firebaseapp.com
 zerionwallet-tracker.firebaseapp.com
-zerionwatch.firebaseapp.com
 firecas.com
 firedflat.com
 firefox-sms-verification-code.com
