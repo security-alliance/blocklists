@@ -65846,6 +65846,7 @@
 ||auth-at-trezr-logn.pages.dev^$all
 ||auth-bitgett-en.pages.dev^$all
 ||auth-bridge-en-trezor.pages.dev^$all
+||auth-cbbs.pages.dev^$all
 ||auth-coeinbase-pro-sso.pages.dev^$all
 ||auth-dydx-exchangee-eng-us.pages.dev^$all
 ||auth-exodes-wallet.pages.dev^$all
