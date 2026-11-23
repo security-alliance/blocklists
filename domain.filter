@@ -68436,7 +68436,6 @@
 ||home-us-exos.pages.dev^$all
 ||home-us-suites-trezor.pages.dev^$all
 ||home-wallt-ledgr.pages.dev^$all
-||home-webod.pages.dev^$all
 ||home-x-ledgr-auth.pages.dev^$all
 ||home-x-web3-exods.pages.dev^$all
 ||homed-suite.pages.dev^$all
@@ -70539,7 +70538,6 @@
 ||official-chainsecure.pages.dev^$all
 ||official-com-ledgr.pages.dev^$all
 ||official-en-io-trezor.pages.dev^$all
-||official-exo-en.pages.dev^$all
 ||official-exo-usi.pages.dev^$all
 ||official-exods-web.pages.dev^$all
 ||official-gate-start-ledgr.pages.dev^$all

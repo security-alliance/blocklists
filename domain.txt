@@ -68436,7 +68436,6 @@ home-us-exedos.pages.dev
 home-us-exos.pages.dev
 home-us-suites-trezor.pages.dev
 home-wallt-ledgr.pages.dev
-home-webod.pages.dev
 home-x-ledgr-auth.pages.dev
 home-x-web3-exods.pages.dev
 homed-suite.pages.dev
@@ -70539,7 +70538,6 @@ official-baseswap-us.pages.dev
 official-chainsecure.pages.dev
 official-com-ledgr.pages.dev
 official-en-io-trezor.pages.dev
-official-exo-en.pages.dev
 official-exo-usi.pages.dev
 official-exods-web.pages.dev
 official-gate-start-ledgr.pages.dev
