@@ -18116,6 +18116,7 @@ gavaris-goldenbonus.click
 genesis-dopplerecosystem.click
 genesis.genesis-dopplerfinance.click
 get-refunds.click
+getexoduscard.click
 getmask.click
 getphantomcard.click
 giftcenter-web.click

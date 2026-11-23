@@ -18116,6 +18116,7 @@
 ||genesis-dopplerecosystem.click^$all
 ||genesis.genesis-dopplerfinance.click^$all
 ||get-refunds.click^$all
+||getexoduscard.click^$all
 ||getmask.click^$all
 ||getphantomcard.click^$all
 ||giftcenter-web.click^$all
