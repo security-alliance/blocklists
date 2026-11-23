@@ -27403,7 +27403,6 @@ capversionhub.com
 capynex.com
 dogecoinnews.org.caraccidentlawyer-philadelphia.com
 carbon-defi.com
-card-apply-trustwallet.com
 card-fasset.com
 card-metamask.com
 card-mtmask.com
@@ -70629,6 +70628,7 @@ offiicals-exous-lrn.pages.dev
 offiicals-exous-oi.pages.dev
 ofical-exodus.pages.dev
 oficals--exous.pages.dev
+oficals--exxous.pages.dev
 oi-ledger-com-started.pages.dev
 oi-ledgerlive.pages.dev
 oi-starts-ledgr.pages.dev
