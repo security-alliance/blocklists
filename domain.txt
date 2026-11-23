@@ -87866,6 +87866,7 @@ flarefoundations-votings.live
 flarefoundations-xrp.live
 flaregovernance.live
 flaremainnets.live
+flarenetglobal.live
 flarenetwork-bonus.live
 flarenetwork-distribution.live
 flarenetwork-distributions.live
