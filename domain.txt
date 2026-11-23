@@ -75805,6 +75805,7 @@ foomo.family
 from.family
 hub-familiars.family
 login-fomo.family
+monas.family
 ofmo.family
 rewards-familiars.family
 rewards-fomo.family
