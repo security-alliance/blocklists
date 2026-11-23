@@ -37634,7 +37634,6 @@ microsofmeet.com
 microsoft-395.com
 microsoft-billingupdate.com
 microsoft-certification.com
-microsoft-desk.com
 microsoft-edgew.com
 microsoft-edu-tw.com
 microsoft-en-us-si.com
@@ -87949,7 +87948,6 @@ gifts-flarefdn.live
 gifts-flarefoundation.live
 gimys.live
 gitcoin2.live
-global-chat.live
 globaltimecheck.live
 globaltradex120.live
 gmcapital.live
@@ -99800,7 +99798,6 @@ aetheriswae.sbs
 ag-tokens.sbs
 ag-wallet.sbs
 ai-home.sbs
-ai02n.sbs
 aiboo.sbs
 aicryptofxtrading.sbs
 ain01.sbs
