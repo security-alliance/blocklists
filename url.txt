@@ -106,7 +106,6 @@ https://sites.google.com/view/base--extension-/home
 https://sites.google.com/view/base-app/home
 https://sites.google.com/view/base-apps/home
 https://sites.google.com/view/base-coinapp-ext/home
-https://sites.google.com/view/base-extensio/home
 https://sites.google.com/view/base-extension-cdus/home
 https://sites.google.com/view/base-extension-hub/home
 https://sites.google.com/view/base-extension-info/home
@@ -202,7 +201,6 @@ https://sites.google.com/view/cash-out-usdc-from-coinbase/home
 https://sites.google.com/view/cashoutalertwhycantiwithdrawmy/home
 https://sites.google.com/view/charlesschwabloginsecureaccoun/home
 https://sites.google.com/view/choose-extension/home
-https://sites.google.com/view/choose-extensionapp/home
 https://sites.google.com/view/chr-extension-/home
 https://sites.google.com/view/chrme-eng-metmaskk/home
 https://sites.google.com/view/chrmetamask/home
