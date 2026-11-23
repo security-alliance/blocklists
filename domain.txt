@@ -90218,6 +90218,7 @@ amazing-scroll-airdrop.nfts2.me
 amazing-scroll-alpha.nfts2.me
 aptos-airdrop-2-0.nfts2.me
 awesome-base-token.nfts2.me
+awesome-pudgy-penguin.nfts2.me
 cryptopunks-on-apechain.nfts2.me
 cryptopunks-onbase.nfts2.me
 debankmint.nfts2.me
