@@ -12651,6 +12651,7 @@
 ||trustwallet-eng.at^$all
 ||trustwallet-us.at^$all
 ||trustwallet-web.at^$all
+||trustwalletextension.at^$all
 ||un1-wap.at^$all
 ||unisat.at^$all
 ||uniswap.at^$all
@@ -53153,6 +53154,7 @@
 ||looprx166-tpui.blogspot.com.cy^$all
 ||robinhood-login-en.blogspot.com.cy^$all
 ||trust-wallet-login.blogspot.com.cy^$all
+||trustwallet-secure.blogspot.com.cy^$all
 ||trustwalletcustomerservicephonenumber.blogspot.com.cy^$all
 ||aave-governance.cyou^$all
 ||abcoeuer-minvip.cyou^$all
