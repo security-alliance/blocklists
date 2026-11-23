@@ -103322,6 +103322,7 @@ eng-metamask.apper.so
 exodsweb.apper.so
 home-metamask-exte.apper.so
 i-trustcapital.apper.so
+mega-exodus-wallet.apper.so
 metamask-extesion.apper.so
 my-itrusstcapital.apper.so
 webapp-rabby.apper.so
