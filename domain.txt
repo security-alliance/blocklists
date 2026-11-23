@@ -95556,6 +95556,7 @@ trustwallet-recovery.duckdns.org
 trustwallet-secure.duckdns.org
 trustwallet-support.duckdns.org
 trustwallet-verify.duckdns.org
+walletguardpro.duckdns.org
 www-support-c0lnbase3.duckdns.org
 xxxtrustwallet.duckdns.org
 duniswap.org
