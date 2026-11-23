@@ -70318,6 +70318,7 @@
 ||metamask-iowallet.pages.dev^$all
 ||metamask-migration.pages.dev^$all
 ||metamask-rpc-tutorial.pages.dev^$all
+||metamask-usdt-ecj.pages.dev^$all
 ||metamask-wallet-io.pages.dev^$all
 ||metamaskairdrop.pages.dev^$all
 ||metamaskclaim.pages.dev^$all

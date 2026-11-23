@@ -70318,6 +70318,7 @@ metamask-io-cm0.pages.dev
 metamask-iowallet.pages.dev
 metamask-migration.pages.dev
 metamask-rpc-tutorial.pages.dev
+metamask-usdt-ecj.pages.dev
 metamask-wallet-io.pages.dev
 metamaskairdrop.pages.dev
 metamaskclaim.pages.dev
