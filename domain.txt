@@ -15400,7 +15400,6 @@ e-fin.cc
 eba-support.cc
 ebglf69nqxu0e47b0r5b8j.cc
 ebgxqo.cc
-m.ec-markertsork.cc
 pc.ec-markertsork.cc
 swap.cow.fi.ec.cc
 finance.ec.cc
@@ -37111,7 +37110,6 @@ mask-gift.com
 maskico.com
 masowin.com
 massettrade.com
-mastercloudventure.com
 mastertradmarket.com
 matcha-swap.com
 matchpoly.com
@@ -53304,7 +53302,6 @@ micosoftonionllne.cyou
 microsofts.cyou
 milkywacy.cyou
 mypoints-gift.cyou
-nanguang.cyou
 neglecm.cyou
 netnetcapital.cyou
 norbeasurveylink.cyou
