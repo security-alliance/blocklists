@@ -66244,7 +66244,6 @@ claim-250.pages.dev
 claim-airdrop-56n.pages.dev
 claim-aliens.pages.dev
 claim-allocation-x.pages.dev
-claim-attention.pages.dev
 claim-axisrobotics.pages.dev
 claim-bitcat.pages.dev
 claim-bitcoin-hyper.pages.dev
@@ -105035,6 +105034,7 @@ airdrop003.top
 airdropping.top
 airdropx.top
 airocnews.top
+aistakpowers.top
 ajrc6kw.top
 ajus05df.top
 aldus59.top
