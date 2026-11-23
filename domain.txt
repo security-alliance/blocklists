@@ -109041,7 +109041,7 @@ polygonwkd.vip
 polymaket.vip
 polymark.vip
 app.polymarketai.vip
-docs.polymarketbot.vip
+polymarketbot.vip
 polymarkethub.vip
 polymarketvip.vip
 polyrnarket.vip
