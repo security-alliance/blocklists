@@ -36035,7 +36035,6 @@ kinetiq-proposal.com
 kinetiq-reward.com
 kinetiq-shareholder.com
 kinetiq-snapshot.com
-kinetiq-transition.com
 kinetiqfoundation.com
 kinetiqgovernance.com
 kinetiqholders.com
@@ -91379,7 +91378,6 @@ wu6wfqzp7zomdynpjpcmlip2ajlbs6w7jvhhw4p4l7y4gkfljjwq.arweave.net
 wvyq2vyxkvr7wpweniaenfhj2vdasfx7mrv5htsmtoaeeujq3zcq.arweave.net
 x4eurppvfcx62hjsderhhqa7ogyrfbvs3wds26bzg7urqyv5rdoq.arweave.net
 x6l6b7glj5ssjcauwdbumw5svdfkwmdujlvylcbgfbi53gph7gla.arweave.net
-x7dcfbg7i35ubh6aijalcp4tiyx2lf3niivelsnzccz4h3wf26sq.arweave.net
 xajpzni4dvqixa2e7nf5wcpap4dwmuel2dyahnekgnokmlyklbca.arweave.net
 xbjeuozmx5wuhdp2ux5rez7lwg3tr7g6dnjz3deszkvit2e4m3yq.arweave.net
 xg3zfhq4lxsfrp7gbdxji3xtg2mbxxm7vh4njh46skl6jr3tinla.arweave.net
