@@ -1081,7 +1081,6 @@ https://sites.google.com/view/log-inmetmask/home
 https://sites.google.com/view/log-metamask-get/home
 https://sites.google.com/view/log-metamask-secure/home
 https://sites.google.com/view/log-metamask-web/home
-https://sites.google.com/view/log-metamsk-we/home
 https://sites.google.com/view/log-metmask/home
 https://sites.google.com/view/logi--metamask/home
 https://sites.google.com/view/logiin-robinhood/home
@@ -1105,7 +1104,6 @@ https://sites.google.com/view/loginonkrakenwalletsign/home
 https://sites.google.com/view/logins-metamask/home
 https://sites.google.com/view/logn-metamask-web/home
 https://sites.google.com/view/logn-metamsk/home
-https://sites.google.com/view/logn-to-metamask/home
 https://sites.google.com/view/lognn-metamsk/home
 https://sites.google.com/view/lognn-metamssk/home
 https://sites.google.com/view/logon--metamask-/home
@@ -1133,7 +1131,6 @@ https://sites.google.com/view/meta-docs/home
 https://sites.google.com/view/meta-extension-en/home
 https://sites.google.com/view/meta-extension-server/home
 https://sites.google.com/view/meta-gateway-extion/home
-https://sites.google.com/view/meta-homepage-/home
 https://sites.google.com/view/meta-mask-/home
 https://sites.google.com/view/meta-mask-we/home
 https://sites.google.com/view/meta-maskex/home
@@ -1218,7 +1215,6 @@ https://sites.google.com/view/metamask-extson/home
 https://sites.google.com/view/metamask-f/home
 https://sites.google.com/view/metamask-get-login/home
 https://sites.google.com/view/metamask-get-start/home
-https://sites.google.com/view/metamask-get-starte/home
 https://sites.google.com/view/metamask-guide-app/home
 https://sites.google.com/view/metamask-guide-en/home
 https://sites.google.com/view/metamask-hel/home
@@ -1281,7 +1277,6 @@ https://sites.google.com/view/metamask-web-app/home
 https://sites.google.com/view/metamask-web-apps/home
 https://sites.google.com/view/metamask-web-begin/home
 https://sites.google.com/view/metamask-web-en-us/home
-https://sites.google.com/view/metamask-web-nov/home
 https://sites.google.com/view/metamask-web-xtn/home
 https://sites.google.com/view/metamask-webapp/home
 https://sites.google.com/view/metamask-webs/home
@@ -1312,8 +1307,6 @@ https://sites.google.com/view/metamaskwebapps/home
 https://sites.google.com/view/metamaslogi-extensin/home
 https://sites.google.com/view/metamassk-docs/home
 https://sites.google.com/view/metamassk-login--/home
-https://sites.google.com/view/metamassk-secure--/home
-https://sites.google.com/view/metamassk-web-app/home
 https://sites.google.com/view/metamassk-web-aps/home
 https://sites.google.com/view/metamasssk/home
 https://sites.google.com/view/metamck-chrom/home
@@ -1371,9 +1364,7 @@ https://sites.google.com/view/metmasik-wallet-en/home
 https://sites.google.com/view/metmask-chrm-exten/home
 https://sites.google.com/view/metmask-ext/home
 https://sites.google.com/view/metmask-io-us/home
-https://sites.google.com/view/metmask-login-us/home
 https://sites.google.com/view/metmask-logn-/home
-https://sites.google.com/view/metmask-logn-en/home
 https://sites.google.com/view/metmask-logon/home
 https://sites.google.com/view/metmsk-chromus/home
 https://sites.google.com/view/metmsk-extenions/home
