@@ -77113,7 +77113,6 @@ ethwheel.fun
 event-chooserich.fun
 event-degencoin.fun
 event-embercurve.fun
-event-orcaso.fun
 event-orcasos.fun
 events-degencoin.fun
 events-embercurve.fun
