@@ -80116,6 +80116,7 @@ trustwallet.web.id
 wallet-agent.web.id
 trustwalletsupport.zone.id
 zoom188login.id
+coinbasewalletextensionn.blogspot.ie
 contact-metamask-support.blogspot.ie
 meetamaskloginn.blogspot.ie
 metamaskextensuon.blogspot.ie
