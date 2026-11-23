@@ -110522,7 +110522,6 @@ apps-concrete.xyz
 apps-etherfi.xyz
 apps-firelightfi.xyz
 apps-flarefoundations.xyz
-apps-flarenetworks.xyz
 apps-flareportal.xyz
 apps-flareportals.xyz
 apps-injective.xyz
