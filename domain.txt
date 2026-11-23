@@ -81676,7 +81676,6 @@ xrplarmytoken.info
 xrpsaluterlusd.info
 xrpsrlusd.info
 xrshib.info
-xsale.info
 xyz-allocations.info
 aero.xyz-founding.info
 papertradehub.xyz-governance.info
