@@ -46973,7 +46973,6 @@ vote-worldcupcoin.com
 vote-xaman.com
 vote-xamanwallet.com
 vote-xmagnetic.com
-vote-xrpl.com
 vote-zama.com
 voteapp-aave.com
 voteasrtedex.com
@@ -67736,7 +67735,6 @@ faq-suiets-trezor.pages.dev
 faq-suiets-trezr.pages.dev
 faq-suiets-trzer.pages.dev
 faq-suite-trezor-app-io-us.pages.dev
-faq-terezor-suiets.pages.dev
 faq-trezor-io-starts.pages.dev
 faq-trezor-login-help.pages.dev
 faq-trezor-strt.pages.dev
