@@ -376,7 +376,6 @@ trzrr-enbridg.framer.ai
 trzrstart.framer.ai
 turtswalletweb.framer.ai
 upeholdcdnsso.framer.ai
-uphold-ai-cdn.framer.ai
 us-en-suite.framer.ai
 us-learn-trezor.framer.ai
 us-trezor.framer.ai
