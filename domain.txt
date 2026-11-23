@@ -47069,7 +47069,6 @@ votingmonad.com
 votingondo.com
 votingplasma.com
 votings-embervalegame.com
-votings-flare.com
 votings-flarenetwork.com
 votings-keeta.com
 votings-papertrade.com
@@ -70959,6 +70958,7 @@ polymarket-panel.pages.dev
 polymarket-perps.pages.dev
 polymarket-perps-evidence.pages.dev
 polymarket-plus-site.pages.dev
+polymarket-report-9x6.pages.dev
 polymarket-resolve.pages.dev
 polymarket-saas-v2.pages.dev
 polymarket-sports-bot.pages.dev
