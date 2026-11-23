@@ -11909,7 +11909,6 @@ phantomwalletus.web.app
 phrsnetwork.web.app
 plether-testnet.web.app
 polymarket-dashboards.web.app
-polymarket-en.web.app
 polymarketen.web.app
 polymarketpusd.web.app
 polymarkets-en.web.app
@@ -32447,7 +32446,6 @@ openseafreebox.firebaseapp.com
 pendle-finance.firebaseapp.com
 plether-fi.firebaseapp.com
 plether-testnet.firebaseapp.com
-polymarket-en.firebaseapp.com
 polymarketen.firebaseapp.com
 ponsfamily-co.firebaseapp.com
 ponsfamily-io.firebaseapp.com
@@ -65352,6 +65350,7 @@ pr-7831.1inch-io-app.pages.dev
 99-view-kinetiq.pages.dev
 99bitcoins-31o.pages.dev
 9c77-coinbase-listing-677f.pages.dev
+9ce9-fa8e-5133-c0inbase-list.pages.dev
 9d07-coinbase-listing-677f.pages.dev
 9e90-fa8e-5133-c0inbase-list.pages.dev
 9fb6-colnbase-listings-4f65.pages.dev
