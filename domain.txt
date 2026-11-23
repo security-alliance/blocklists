@@ -29341,6 +29341,7 @@ com-gift-cards-bch.com
 com-gift-cards-bnb.com
 com-gift-cards-btc.com
 bitrefill.com-gift-cards-cake.com
+bitrefill.com-gift-cards-chz.com
 bitrefill.com-gift-cards-dash.com
 com-gift-cards-doge.com
 com-gift-cards-dot.com
@@ -36967,7 +36968,6 @@ lynkstoken.com
 lyrkael.com
 m-betcio1409.com
 m-coinbase.com
-m-kosche.com
 m-tradwise.com
 m-whatsapps.com
 m365-owa.com
@@ -40307,8 +40307,6 @@ primex-exchange.com
 primexaurum.com
 primexgolden.com
 web.primguildhall.com
-primul-ziar.com
-primulziar.com
 primus-trading.com
 principal-secure.com
 principalupdate.com
