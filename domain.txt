@@ -64452,6 +64452,7 @@ pr-7831.1inch-io-app.pages.dev
 8-allocation-prismassets.pages.dev
 8-allocation-umiafinance.pages.dev
 8-allocation-yieldfields.pages.dev
+8-allocations-flarenetwork.pages.dev
 8-allocations-ponsfamily.pages.dev
 8-allowlist-ascendlaunch.pages.dev
 8-app-argus.pages.dev
