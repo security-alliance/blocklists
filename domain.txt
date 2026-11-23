@@ -16223,7 +16223,6 @@ txdexc.cc
 txdexx.cc
 h5.tytalegam.cc
 ubeast.cc
-pc.ugtechnology-demo.cc
 uikg.cc
 cryptocom.uk.cc
 fi.uk.cc
@@ -39226,7 +39225,6 @@ ornliners.com
 orsimpleswap.com
 ortexgrid.com
 ortexnova.com
-orvantaglobalcapital.com
 orveniqa-fr.com
 orvianmarkets.com
 orvixorbit.com
