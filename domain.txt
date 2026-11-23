@@ -16444,7 +16444,6 @@ zapplay.cc
 zegamb.cc
 zephoriabinc.cc
 zh-htx.cc
-zoom-clients.cc
 zoom-meet.cc
 zoom4dpro10.cc
 zoom4dpro6.cc
@@ -75327,7 +75326,6 @@ rainbetcasino.com.es
 rainbett.com.es
 solcasinos.com.es
 tw-support.com.es
-us09web.com.es
 verify-address.com.es
 yocasino-es.com.es
 yocasinos.com.es
