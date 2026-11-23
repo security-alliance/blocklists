@@ -40317,7 +40317,6 @@ privee-revolut.com
 privnopte.com
 privnota.com
 privnotc.com
-privnotle.com
 privnotse.com
 privnte.com
 privonote.com
@@ -51922,6 +51921,7 @@ wwwcurvefinance.com
 wwwfixedfloat.com
 wwwgate-io.com
 wwwirex.com
+wwwirexapp.com
 wwwje-ffrey-works.com
 wwwmyentergy.com
 wwwpay-verify.com
