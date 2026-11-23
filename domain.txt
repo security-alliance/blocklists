@@ -17097,7 +17097,6 @@ rubic-official.cfd
 rwa-btc.cfd
 ryskfinance.cfd
 s7-ethena.cfd
-exodus.safe3.cfd
 safegive.cfd
 sankvlebnepdhavl.cfd
 saturn-checker.cfd
