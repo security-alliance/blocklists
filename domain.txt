@@ -30831,7 +30831,6 @@ desk-dscvr.com
 desk-firelight.com
 desk-flt.com
 desk-jumper.com
-desk-live.com
 desk-market.com
 desk-monad.com
 desk-payout.com
