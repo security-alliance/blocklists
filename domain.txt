@@ -32494,7 +32494,6 @@ firefox-sms-verification-code.com
 firefox-sms-verification-platform.com
 firefox-sms-verification-service.com
 firegamb.com
-firelight-allocation.com
 firelight-allocation2.com
 firelight-allocations.com
 firelight-app.com
@@ -32827,7 +32826,6 @@ foundation-kinetiq.com
 foundation-loopscale.com
 foundation-pendle.com
 foundation-spx-6900.com
-foundation-vote.com
 foundationdevice.com
 foundations-keeta.com
 foundations-loopscale.com
@@ -34937,7 +34935,6 @@ hypenliquids.com
 hyper-beat.com
 hyper-lend.com
 hyper-liquid-about.com
-hyper-pools.com
 hyperbeatfoundation.com
 governance.hypercosystms.com
 hyperdashs.com
@@ -47751,7 +47748,6 @@ winrollix.com
 winsbi.com
 winstarwc.com
 wintergatelegal.com
-wintermute-prime.com
 wintokensol.com
 winzova.com
 my.wire-limited.com
@@ -83721,6 +83717,7 @@ listtl.github.io
 llama-swap.github.io
 looksrare-site.github.io
 ltcoso99-gif.github.io
+lucasito92.github.io
 lukerufusraj.github.io
 malehaick.github.io
 manta-bridge-page.github.io
