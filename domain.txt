@@ -12662,6 +12662,7 @@ uniswap-app.at
 uniswap-us.at
 uniswaps.at
 uniwap.at
+upconecete.at
 us-changenow.at
 us-fairwinds.at
 us-guarda.at
@@ -39944,7 +39945,6 @@ polymarket-ee.com
 polymarket-erfahrungen.com
 polymarket-espana.com
 polymarket-fi.com
-polymarket-fr.com
 polymarket-france.com
 polymarket-german.com
 polymarket-get.com
