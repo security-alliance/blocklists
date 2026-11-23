@@ -21379,6 +21379,7 @@ vanill.co
 vantage-tw.co
 var-io.co
 app.variaitonal.co
+dapp.variaitonal.co
 omni.variaitonal.co
 onmi.variaitonal.co
 varialional.co
@@ -44314,7 +44315,6 @@ tge-prjx.com
 tge-rabby.com
 tge-rabbywallet.com
 tge-re.com
-tge-solsticefinance.com
 tge-trade.com
 tge-tronlink.com
 tge-variational.com
