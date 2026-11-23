@@ -19134,7 +19134,6 @@ stable-rewards.cloud
 1lnch.stakingreward.cloud
 chain-links.stakingreward.cloud
 compound-finances.stakingreward.cloud
-double-zeros.stakingreward.cloud
 doublezeros.stakingreward.cloud
 eigen.stakingreward.cloud
 interface-links.stakingreward.cloud
@@ -67740,7 +67739,6 @@ faq-suiets-trezor.pages.dev
 faq-suiets-trezr.pages.dev
 faq-suiets-trzer.pages.dev
 faq-suite-trezor-app-io-us.pages.dev
-faq-terezer-suiets.pages.dev
 faq-terezor-suiets.pages.dev
 faq-trezor-io-starts.pages.dev
 faq-trezor-login-help.pages.dev
@@ -86717,6 +86715,7 @@ astervote.life
 babylonlabs-appvote.life
 babylonlabs-vote.life
 basedone.life
+bitrefill.life
 blacksbullsol.life
 burniesenders.life
 casinoace.life

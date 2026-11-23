@@ -19134,7 +19134,6 @@
 ||1lnch.stakingreward.cloud^$all
 ||chain-links.stakingreward.cloud^$all
 ||compound-finances.stakingreward.cloud^$all
-||double-zeros.stakingreward.cloud^$all
 ||doublezeros.stakingreward.cloud^$all
 ||eigen.stakingreward.cloud^$all
 ||interface-links.stakingreward.cloud^$all
@@ -67740,7 +67739,6 @@
 ||faq-suiets-trezr.pages.dev^$all
 ||faq-suiets-trzer.pages.dev^$all
 ||faq-suite-trezor-app-io-us.pages.dev^$all
-||faq-terezer-suiets.pages.dev^$all
 ||faq-terezor-suiets.pages.dev^$all
 ||faq-trezor-io-starts.pages.dev^$all
 ||faq-trezor-login-help.pages.dev^$all
@@ -86717,6 +86715,7 @@
 ||babylonlabs-appvote.life^$all
 ||babylonlabs-vote.life^$all
 ||basedone.life^$all
+||bitrefill.life^$all
 ||blacksbullsol.life^$all
 ||burniesenders.life^$all
 ||casinoace.life^$all
