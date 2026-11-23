@@ -36474,14 +36474,12 @@ lefuda.com
 legacyprimevest.com
 legal-review-x.com
 legal-verification.com
-legalaction-x.com
 legalassets-x.com
 legalcasedmca-x.com
 legalcomms-x.com
 legaldispute-x.com
 legaldmca-x.com
 legalfaq-x.com
-legalfile-x.com
 legalhelp-x.com
 legalmails-x.com
 legalrecord-x.com
@@ -90290,7 +90288,6 @@ squidsrouter.me
 streamyard.me
 strikedesktopapp.me
 thorswap.me
-tranxact.me
 trmlabs.me
 trovve.me
 trustwalletcard.me
@@ -94918,7 +94915,6 @@ web-app-connect-dapps.online
 web3-verify.online
 web3cold-wallet.online
 web3cryptosecure.online
-web3currency.online
 web3dappfix.online
 web3defihub52.online
 web3ledgerwallet.online
@@ -110601,8 +110597,6 @@ asterdex-votes.xyz
 asterdex-voting.xyz
 asterdexvote.xyz
 asteroidog.xyz
-asteroidpass.xyz
-asteroidshiba-erc20.xyz
 astervote.xyz
 astervote-app.xyz
 astrgovernance.xyz
@@ -112714,7 +112708,6 @@ gift-flr.xyz
 giftcenter-web.xyz
 giftsol.xyz
 gisnz.xyz
-gitlawbl.xyz
 gitlawbs.xyz
 gitlawbv.xyz
 globalcapitalsinvestments.xyz
@@ -117667,7 +117660,6 @@ vote-tripletonsol.xyz
 vote-ub.xyz
 vote-umbra.xyz
 vote-usdd.xyz
-vote-usduc.xyz
 vote-usenest.xyz
 vote-usepaid.xyz
 vote-ventran.xyz
