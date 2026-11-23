@@ -86940,6 +86940,7 @@ webtryst.link
 worldwse.link
 www-chain.link
 x-redirect.link
+portal-flare.xiaoa.link
 zentara.link
 01888-z00m09855-08meet.live
 03app.live
@@ -94359,7 +94360,6 @@ kyber-swap.online
 ladger-update.online
 ledgersynchronization.online
 legalaction-x.online
-legalfile-x.online
 legalhelp-x.online
 legalrecord-x.online
 letsexchange.online
@@ -95175,7 +95175,6 @@ appswap.org
 appunisapp.org
 appuniswapp.org
 appuniswaps.org
-appx-v3.org
 apr-hyperfoundation.org
 apyxfi.org
 apyxfoundation.org
@@ -99574,7 +99573,6 @@ absxyz.run
 acrossprotocol.run
 aeov.run
 amm-defi.run
-apyx.run
 arbdiex.run
 arcus.run
 bean-ex.run
