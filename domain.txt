@@ -8100,7 +8100,6 @@ trustwallet-gaufre-7d87ec.netlify.app
 trustwallet-usdt-transfer.netlify.app
 trustwallet321.netlify.app
 trustwalletapps.netlify.app
-trustwalletbnb.netlify.app
 trustwalletcom.netlify.app
 trustwalleti.netlify.app
 trustwalletlogin.netlify.app
