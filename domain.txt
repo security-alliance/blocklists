@@ -79061,6 +79061,7 @@ firelightdesktopinstaller.icu
 app.firelightecosystem.icu
 firelightfi.icu
 firelightfi-allocations.icu
+firelightfi-phase2.icu
 firelightfoundation.icu
 firmwares.icu
 fixdappstring.icu
