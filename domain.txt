@@ -115145,7 +115145,6 @@ zest.protocol-rewards.xyz
 protocols-firelightfi.xyz
 pstoreslot-amp1.xyz
 ptahiao.xyz
-pudgypengu.xyz
 claim.pudgypenguims.xyz
 pudgypenguinz.xyz
 pudgypngutracker.xyz
