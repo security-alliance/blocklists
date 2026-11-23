@@ -71427,6 +71427,7 @@ rewards-desk.pages.dev
 rewards-firelightfi.pages.dev
 rewards-fluid.pages.dev
 rewards-hoodrat.pages.dev
+rewards-kinetiqfoundation-top.pages.dev
 rewards-kucoin.pages.dev
 rewards-paal-ai-6da.pages.dev
 rewards-paal-ai-io.pages.dev
@@ -106583,6 +106584,7 @@ rewards-firelight.top
 rewards-flr.top
 rewards-flr-ecosystem.top
 rewards-flyingtulip.top
+rewards-kinetiqfoundation.top
 rewards-meridian.top
 rewards-morpho.top
 rewards-my.top
