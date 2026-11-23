@@ -51072,7 +51072,6 @@ support-mtamask-log.wixstudio.com
 support-mtamskcdn.wixstudio.com
 support-tengam.wixstudio.com
 supportcoinbaseext.wixstudio.com
-supportkrakenlogi.wixstudio.com
 swap-dydex.wixstudio.com
 tarted-metamsk.wixstudio.com
 teach-basepro.wixstudio.com
