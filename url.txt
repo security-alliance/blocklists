@@ -1115,7 +1115,6 @@ https://sites.google.com/view/max-proweb-usen/home
 https://sites.google.com/view/meamask-login/home
 https://sites.google.com/view/meet-extension-base/home
 https://sites.google.com/view/meta-chrm-web/home
-https://sites.google.com/view/meta-docs/home
 https://sites.google.com/view/meta-extension-en/home
 https://sites.google.com/view/meta-extension-server/home
 https://sites.google.com/view/meta-gateway-extion/home
@@ -1335,7 +1334,6 @@ https://sites.google.com/view/metamsk-webs/home
 https://sites.google.com/view/metamsk-ww/home
 https://sites.google.com/view/metamske-browser/home
 https://sites.google.com/view/metamskextension
-https://sites.google.com/view/metamskio-app/home
 https://sites.google.com/view/metamskioextension/home
 https://sites.google.com/view/metamskk-web/home
 https://sites.google.com/view/metamsks-en-us/home
