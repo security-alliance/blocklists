@@ -35384,6 +35384,7 @@ io-in-i01-omni.com
 io-in-j01-omni.com
 omni-variational.io-in-k01-omni.com
 io-in-p01-omni.com
+omni-variational.io-in-q01-omni.com
 io-intel.com
 io-international.com
 io-loginwalletrecheck.com
@@ -81482,7 +81483,6 @@ tori-finance.info
 towolabs.info
 tradexyz.info
 trahan-exchange.info
-forbestrading.com.transcorpdeliveryservice.info
 trcards.info
 treasury-centrifuge.info
 treasury-morphoapp.info
