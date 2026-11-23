@@ -10207,7 +10207,6 @@ exodus-backup-center.vercel.app
 exodus-card-app-swid.vercel.app
 exodus-sync.vercel.app
 exodus-wallet-io-us.vercel.app
-exodus-wallet-psi.vercel.app
 exodusfinance.vercel.app
 exodussupport.vercel.app
 exoduswallethelpcenter.vercel.app
@@ -15511,7 +15510,6 @@ exmc.cc
 exodous.cc
 dash.exodusapp.cc
 exodusdk.cc
-exodusea.cc
 exoduspay.cc
 exoduspox.cc
 exoduspro.cc
