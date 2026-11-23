@@ -8982,7 +8982,6 @@
 ||enhelp-trezo-learn.typedream.app^$all
 ||es-trezor--io-logins.typedream.app^$all
 ||exo-dus-en.typedream.app^$all
-||exodus-app-download.typedream.app^$all
 ||faq-app-trzor-suite.typedream.app^$all
 ||faq-begin-trezorio-us.typedream.app^$all
 ||faq-bridge-en-us.typedream.app^$all
@@ -58992,6 +58991,7 @@
 ||269-kinetiqgov.pages.dev^$all
 ||269-lists-okxvotes.pages.dev^$all
 ||269-reallocate-flare.pages.dev^$all
+||26b3-coinbase-listing-677f.pages.dev^$all
 ||27-0xfluid.pages.dev^$all
 ||27-allocation-yieldfields.pages.dev^$all
 ||27-allowlist-ascendlaunch.pages.dev^$all
@@ -82669,7 +82669,6 @@
 ||exoduswallettlogine.gitbook.io^$all
 ||exoduswallettloginn.gitbook.io^$all
 ||exoduswalweb3.gitbook.io^$all
-||exodusweallet.gitbook.io^$all
 ||exodusweb3walttd.gitbook.io^$all
 ||exodusweblo.gitbook.io^$all
 ||exoduswebwalletlt.gitbook.io^$all

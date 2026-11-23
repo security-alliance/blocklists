@@ -8982,7 +8982,6 @@ eng_trezor-io-start.typedream.app
 enhelp-trezo-learn.typedream.app
 es-trezor--io-logins.typedream.app
 exo-dus-en.typedream.app
-exodus-app-download.typedream.app
 faq-app-trzor-suite.typedream.app
 faq-begin-trezorio-us.typedream.app
 faq-bridge-en-us.typedream.app
@@ -58992,6 +58991,7 @@ pr-7831.1inch-io-app.pages.dev
 269-kinetiqgov.pages.dev
 269-lists-okxvotes.pages.dev
 269-reallocate-flare.pages.dev
+26b3-coinbase-listing-677f.pages.dev
 27-0xfluid.pages.dev
 27-allocation-yieldfields.pages.dev
 27-allowlist-ascendlaunch.pages.dev
@@ -82669,7 +82669,6 @@ exoduswalletoogin.gitbook.io
 exoduswallettlogine.gitbook.io
 exoduswallettloginn.gitbook.io
 exoduswalweb3.gitbook.io
-exodusweallet.gitbook.io
 exodusweb3walttd.gitbook.io
 exodusweblo.gitbook.io
 exoduswebwalletlt.gitbook.io
