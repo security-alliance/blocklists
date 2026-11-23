@@ -17700,6 +17700,7 @@ hl-eco.claims
 hyperliquid-airdrop.claims
 hyperliquid-genesis.claims
 iota.claims
+kinetiq.claims
 ledgerlive.claims
 meteora.claims
 quest.metisl2protocol.claims
