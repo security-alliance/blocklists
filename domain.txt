@@ -215,7 +215,6 @@ homeportal-trzr-sute-us.framer.ai
 homestart-trezo-start.framer.ai
 hub-suite.framer.ai
 hub-trezzer-suite-en.framer.ai
-info-exodus-us.framer.ai
 info-suits-trzer.framer.ai
 info-trezor.framer.ai
 installed-trrzr-bridge-en.framer.ai
@@ -73605,7 +73604,6 @@ web-dmwrx.pages.dev
 web-doc-exdus.pages.dev
 web-doc-us-exedoss.pages.dev
 web-doce-exdus.pages.dev
-web-doe-exdus.pages.dev
 web-en-ledgr.pages.dev
 web-en-ledgree-us.pages.dev
 web-exdus-io-usa.pages.dev
@@ -82642,7 +82640,6 @@ exodus3webeuwet.gitbook.io
 exodusegingin.gitbook.io
 exoduseoulogin.gitbook.io
 exodusewallets.gitbook.io
-exoduslawr.gitbook.io
 exodusloginui.gitbook.io
 exoduslogunin.gitbook.io
 exodusrologin.gitbook.io
