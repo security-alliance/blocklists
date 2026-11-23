@@ -77181,7 +77181,6 @@ ethwheel.fun
 event-chooserich.fun
 event-degencoin.fun
 event-embercurve.fun
-event-orcasos.fun
 events-degencoin.fun
 events-embercurve.fun
 events-solanafunded.fun
