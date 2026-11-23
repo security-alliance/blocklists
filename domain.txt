@@ -15771,6 +15771,7 @@ microsoft-vault.cc
 microsoftit.cc
 midatrade.cc
 minecore.cc
+sui.minersr.cc
 minglo.cc
 mixero.cc
 momsoft.cc
@@ -21146,7 +21147,6 @@ hyper-lane.co
 hyperbeat.co
 hyperliquid-testnet.co
 hyperliquidfoundation.co
-i06sn.co
 idmcrack.co
 imtokan.co
 inqubetachain.co
@@ -40204,7 +40204,6 @@ power-paddy.com
 powerhornmarket.com
 powermove8.com
 poxgamb.com
-poymraket.com
 pozawin.com
 ppiujlgo.com
 pppdl.com
