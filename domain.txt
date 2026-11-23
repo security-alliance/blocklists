@@ -20952,6 +20952,7 @@ airtm2.com.co
 airtm5.com.co
 bestchange.com.co
 bitso.com.co
+coinbasewalletextensionn.blogspot.com.co
 contact-metamask-support.blogspot.com.co
 metmasksignin.blogspot.com.co
 bscscan.com.co
@@ -50284,7 +50285,6 @@ nav-koinbasee-ext.wixstudio.com
 nav-krakkencdn.wixstudio.com
 nav-kreknn.wixstudio.com
 nav-krrekan.wixstudio.com
-nav-krrkan-io.wixstudio.com
 nav-kucoiin-hub.wixstudio.com
 nav-kuconapp.wixstudio.com
 nav-lacecdn-apps.wixstudio.com
@@ -73001,6 +73001,7 @@ trust-walletweb3dex.pages.dev
 trust-walllet.pages.dev
 trust-we-wallet.pages.dev
 trust-wollaet-io.pages.dev
+trustbank-sbs.pages.dev
 trustcardwallet.pages.dev
 trustd-wallet.pages.dev
 truste-walleat-web.pages.dev
