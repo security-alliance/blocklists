@@ -75348,6 +75348,7 @@ rainbet.es
 rainbet-casino.es
 rainbet-enlinea.es
 rainbet-es.es
+rainbet-site.es
 rainbet-spain.es
 rainbetcasino.es
 rainbetcasino-es.es
@@ -90723,6 +90724,7 @@ curve-finance.com.mx
 ethereumcasino.com.mx
 etherscan.com.mx
 ghazzy.com.mx
+exodus.com.merge.guivalmex.com.mx
 hellcase.com.mx
 hyperliquid.com.mx
 inbetcasino.com.mx
