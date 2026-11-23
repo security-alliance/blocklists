@@ -67821,6 +67821,7 @@ firelightensodisjsahsa.pages.dev
 firelightfi.pages.dev
 firelightfi-allocations.pages.dev
 firelightfi-fxrp.pages.dev
+firelightfi-phase2.pages.dev
 firelightitup.pages.dev
 firelightmainnet.pages.dev
 firelightnodasuijdisadas.pages.dev
