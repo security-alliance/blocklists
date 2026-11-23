@@ -18127,6 +18127,7 @@ genesis-dopplerecosystem.click
 genesis.genesis-dopplerfinance.click
 get-refunds.click
 getmask.click
+getphantomcard.click
 giftcenter-web.click
 gliderfi.click
 globalpairtrade.click
