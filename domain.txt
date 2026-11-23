@@ -84453,6 +84453,7 @@ temp-swap-zksync.spacefi.io
 sparrow-wallet.io
 sparrw.io
 spectrafinance.io
+sportstensor.io
 sso-trezor.io
 stargate-finance-home.io
 stargate-finance-v2.io
@@ -106509,6 +106510,7 @@ ponsdotfamily-pool.top
 ponsdotfams.top
 ponsdotsfamily-pool.top
 ponsecosystem.top
+ponsfamilly.top
 ponsfamily.top
 governance.ponsfamily-distribution.top
 governance.ponsfamily-distributions.top
