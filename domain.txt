@@ -65610,6 +65610,7 @@ app-curvegovern.pages.dev
 app-eng-ledger-live.pages.dev
 app-ethos.pages.dev
 app-exdusweb.pages.dev
+app-exxodas-en.pages.dev
 app-exxodas-io-en.pages.dev
 app-exxodusweb.pages.dev
 app-fuseon-finance.pages.dev
@@ -66559,6 +66560,7 @@ connect-bridge-trzr-en.pages.dev
 connect-bridge-trzzar.pages.dev
 connect-en-desktop-ledgr.pages.dev
 connect-exoduswallet.pages.dev
+connect-exxods-en.pages.dev
 connect-faq-ledgr.pages.dev
 connect-home-trezor-wallet.pages.dev
 connect-hometrezor.pages.dev

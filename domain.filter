@@ -65610,6 +65610,7 @@
 ||app-eng-ledger-live.pages.dev^$all
 ||app-ethos.pages.dev^$all
 ||app-exdusweb.pages.dev^$all
+||app-exxodas-en.pages.dev^$all
 ||app-exxodas-io-en.pages.dev^$all
 ||app-exxodusweb.pages.dev^$all
 ||app-fuseon-finance.pages.dev^$all
@@ -66559,6 +66560,7 @@
 ||connect-bridge-trzzar.pages.dev^$all
 ||connect-en-desktop-ledgr.pages.dev^$all
 ||connect-exoduswallet.pages.dev^$all
+||connect-exxods-en.pages.dev^$all
 ||connect-faq-ledgr.pages.dev^$all
 ||connect-home-trezor-wallet.pages.dev^$all
 ||connect-hometrezor.pages.dev^$all
