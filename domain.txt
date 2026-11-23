@@ -15047,12 +15047,8 @@ strendus.cat
 685238.cc
 786778.cc
 7web.cc
-a-al.cc
-a-cp.cc
 base.a-telegram.cc
 access-bitget.cc
-acys.cc
-adar.cc
 adfdf58.cc
 app.adichain.cc
 adminconisd.cc
@@ -15063,7 +15059,6 @@ aifreeuse.cc
 aiinvest.cc
 aimevbot.cc
 aircheck.cc
-algp.cc
 alkimi.cc
 allccsin.cc
 allecsonk.cc
@@ -15088,10 +15083,8 @@ amzona.cc
 anchoroption.cc
 ansem.cc
 anstellpou.cc
-ao-s.cc
 shopline.aoiuec.cc
 aoyamaortho.cc
-ap-i.cc
 api-api.cc
 app-jupiter-dex.cc
 app-rho.cc
@@ -15110,12 +15103,9 @@ armycoin.cc
 asianmarketa.cc
 aspin.cc
 asset9.cc
-at-i.cc
 at-markets.cc
 atc-brokers.cc
 atcbroker.cc
-atcp.cc
-atin.cc
 atlasc.cc
 atomage.cc
 attate.cc
@@ -15128,7 +15118,6 @@ avatradstw.cc
 aviatorfiled.cc
 axicx.cc
 axiomtradeai.cc
-b-tl.cc
 bandicam.cc
 barbados-exchange.cc
 barbados-exchanger.cc
@@ -15139,7 +15128,6 @@ basetlklk.cc
 basetructcc.cc
 bbwfvbhbf.cc
 bcbbs-vip.cc
-be-in.cc
 beaconlayer.cc
 beastgamble.cc
 besgamb.cc
@@ -15195,7 +15183,6 @@ bpizryj-59a7hyer5anks8ci.cc
 brandesinvest.cc
 bravee.cc
 bridgexggbton.cc
-bs-t.cc
 bsweb3x.cc
 btcced.cc
 btccpro.cc
@@ -15219,7 +15206,6 @@ bybitprox.cc
 bygamb.cc
 bytrade.cc
 c-6542.cc
-c-cl.cc
 caiiflaw.cc
 cakewallets.cc
 card-tw.cc
@@ -15236,7 +15222,6 @@ cavorix.cc
 ccexpress.cc
 ccgamb.cc
 cdn-bitget.cc
-cfhl.cc
 ch-secure-pay.cc
 chain-swap-app-v4.cc
 chainabuse.cc
@@ -15357,7 +15342,6 @@ cryptoproi.cc
 cryptoslots.cc
 crystal-play.cc
 crystaldiskmark.cc
-cs-s.cc
 cursor-ai.cc
 curve-finance.cc
 cuveda.cc
@@ -15400,8 +15384,6 @@ dreadpirate.cc
 dreamship.cc
 dsj621.cc
 dxvwb3.cc
-e-ca.cc
-e-fin.cc
 eba-support.cc
 ebglf69nqxu0e47b0r5b8j.cc
 ebgxqo.cc
@@ -15414,16 +15396,12 @@ trustwallet.ec.cc
 echo-mail.cc
 echom.cc
 eclipsecasino.cc
-edgo.cc
-el-t.cc
 eligible-pons.cc
 eliteforum.cc
 ellevesta.cc
-elst.cc
 en-topup.cc
 en-us0reader.cc
 epicstar.cc
-esfi.cc
 estv-meine-admin-info-2026.cc
 eth-coinbase.cc
 ethdapp.cc
@@ -15528,7 +15506,6 @@ falcon-finance.cc
 falconfinance.cc
 fanforum.cc
 raydium-io.fassetsau.cc
-fctr.cc
 ferowex.cc
 fglejqgqwdlkjs.cc
 gitlab.fiare.cc
@@ -15546,7 +15523,6 @@ fordmestro.cc
 forexcapitals.cc
 fpmarketsltd.cc
 frx3.cc
-fs-t.cc
 ftjzh.cc
 ftmoexinge.cc
 fund-my-wallet.cc
@@ -15599,7 +15575,6 @@ trust.gu.cc
 gugamb.cc
 gwei.cc
 gyaj2o1.cc
-h-cl.cc
 h-emi.cc
 haparts.cc
 harborfield.cc
@@ -15626,14 +15601,11 @@ hyextechnogoy.cc
 hyperlane.cc
 hyperliquid-exchange.cc
 hyuikltop.cc
-i-in.cc
-i-nt.cc
 m.igasiav.cc
 ijn511.cc
 ijn513.cc
 imagsss.cc
 imwallet-token.cc
-in-in.cc
 infinitowallet.cc
 invoice-base.cc
 inwallet.cc
@@ -15652,7 +15624,6 @@ jp-telegeram.cc
 jump-legion.cc
 jup-rewards.cc
 jupitermultichain.cc
-k-fin.cc
 k1928205.cc
 kakaochat.cc
 kar22.cc
@@ -15727,7 +15698,6 @@ lunartools.cc
 luxbets.cc
 luxc.cc
 luxswap.cc
-m-fin.cc
 m550015.cc
 m550016.cc
 mafedex.cc
@@ -15785,7 +15755,6 @@ mp25.cc
 h5.mqgc.cc
 mrtcapvoting.cc
 ms-live.cc
-msf-g.cc
 mspins.cc
 msteam.cc
 multichain.cc
@@ -15796,7 +15765,6 @@ mwild.cc
 mycard-tw.cc
 mymeet.cc
 mytrustwall.cc
-n-xt.cc
 nbicoinpro.cc
 nedex.cc
 nekowin.cc
@@ -15837,15 +15805,11 @@ onlinesecure-support.cc
 onnod-eert.cc
 onsolana.cc
 onstreamapp.cc
-op-f.cc
 arbitrumapp.opcagent.cc
 starknetpro.opcagent.cc
 opnbh.cc
 ose-jp.cc
 oseapp.cc
-ox-g.cc
-p-in.cc
-p-iv.cc
 p3peg.cc
 packscan.cc
 palidapp.cc
@@ -15870,7 +15834,6 @@ plantinumcitytrust.cc
 platzi.cc
 playrainbet.cc
 plotline.cc
-po-t.cc
 pogamb.cc
 polaris-vip.cc
 polimarket.cc
@@ -15894,7 +15857,6 @@ privatealbum.cc
 profkr.cc
 promo-tw.cc
 proposal-offyield.cc
-przc.cc
 pspins.cc
 psy-protocols.cc
 pulseswap.cc
@@ -15961,11 +15923,7 @@ royalwinners.cc
 rrover.cc
 rugme.cc
 rushvex.cc
-rv-c.cc
-s-c.cc
-sa-i.cc
 sablier.cc
-sacl.cc
 safepall.cc
 safepals.cc
 saxo-vip.cc
@@ -15975,16 +15933,13 @@ sbigold.cc
 sbimmax.cc
 sbiysz.cc
 scotiaconnect-business.cc
-sd-i.cc
 seasgamb.cc
 securehotmail.cc
 secux-app.cc
 secux-login.cc
 secux-wallet.cc
 senowex.cc
-sf-c.cc
 shagqd.cc
-si-c.cc
 siig.cc
 sjexvip.cc
 skillingusmarkts.cc
@@ -15996,7 +15951,6 @@ smaflow.cc
 smaiflow.cc
 smdsflow.cc
 smrsflow.cc
-sn-i.cc
 snowcave.cc
 snznnzbcnsjsubehsjajka.cc
 sofware-update-bc.cc
@@ -16081,8 +16035,6 @@ spinz.cc
 splpage.cc
 splvault.cc
 spookyswap.cc
-sr-c.cc
-ss-s.cc
 ssolspin.cc
 sssee.cc
 ssweep.cc
@@ -16109,7 +16061,6 @@ sunsgp.cc
 sushi-dex.cc
 sutwin.cc
 swap-eth-route-chain-v4.cc
-t-inve.cc
 tangem-wallet.cc
 taostinworks.cc
 tapmy.cc
@@ -16278,7 +16229,6 @@ usdsavings.cc
 usdt-cards.cc
 usdtspin.cc
 uziwin.cc
-v-r.cc
 v288.cc
 app.v3-bfy.cc
 v394578.cc
@@ -16328,7 +16278,6 @@ voting-firelight.cc
 voting-morpho.cc
 vtmarketsmex.cc
 vwvwverify.cc
-vz-c.cc
 wallet-guide.cc
 wallet-trust.cc
 wallet-verify.cc
@@ -47372,7 +47321,6 @@ web-solflarewallet.com
 web-stakecasino.com
 web-stealthex.com
 web-swapter.com
-web-tradings.com
 web-tronlink.com
 web-unsiwap.com
 web-usa-rainbet.com
@@ -47552,8 +47500,6 @@ websxe.com
 websxx.com
 webszx.com
 webtoolextension-dapp.com
-webtrader-titanwhale.com
-webtrader-wealtris.com
 webtrafficguard2.com
 webtxc.com
 webubite.com
@@ -81262,7 +81208,6 @@ portal-altura.info
 pplprofile.info
 predictfun.info
 previewshare.info
-pridefx-trade.info
 prime-usdt.info
 prixmboa.info
 prjx.info
@@ -98173,7 +98118,6 @@ app.1ite-crv-home.pro
 f.2base.pro
 3jane.pro
 69mdn.pro
-a-cg.pro
 a9xgsre.pro
 aave-gov.pro
 aave-v4.pro
@@ -98824,7 +98768,6 @@ ledger-com-start.pro
 ledger-com-wallet.pro
 ledgerboard.pro
 ledgersupport.pro
-len-c.pro
 libertyswap.pro
 lido-finance.pro
 liodfinance.pro
@@ -105933,7 +105876,6 @@ gtcrypto.top
 guarda.top
 gweiportal.top
 gyaj2o1.top
-h-cl.top
 nansen.hao18.top
 hashwood.top
 hederafunds.top
@@ -107525,7 +107467,6 @@ neuxs.trade
 okx.trade
 opesnea.trade
 oplnion.trade
-orionchain365.trade
 pack-margin.trade
 pancaekswap.trade
 pancake-rewards.trade
@@ -107575,7 +107516,6 @@ swap-bridge.trade
 syntehtix.trade
 talentre.trade
 tehgraph.trade
-tesorro365.trade
 thebeginning.trade
 thinkmarket.trade
 track-portfolio.trade
