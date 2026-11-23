@@ -103953,6 +103953,7 @@
 ||revoke.support^$all
 ||rexasfinace.support^$all
 ||rexasfinance.support^$all
+||trustwallet.riskscore.support^$all
 ||secure-access-auth5734.support^$all
 ||skymoney.support^$all
 ||spankdotfinance.support^$all
