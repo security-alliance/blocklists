@@ -48482,7 +48482,6 @@ chrome-metaextn.wixstudio.com
 chrome-metamaks.wixstudio.com
 chrome-metamask.wixstudio.com
 chrome-metamaskext.wixstudio.com
-chrome-metawallet.wixstudio.com
 chromeapps-rabbyext.wixstudio.com
 chromeextension.wixstudio.com
 chromeweb-metmask.wixstudio.com
