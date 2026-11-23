@@ -103,6 +103,7 @@ bitmarkets.ai
 bitrefi.ai
 blockstake.ai
 bnbscan.ai
+caishen88.ai
 cbots.ai
 stage.circlecommerce.ai
 claim-open.ai
@@ -86108,6 +86109,7 @@ g-collab.land
 land-collab.land
 lc-collab.land
 met-collab.land
+mx-collab.land
 polymarket.land
 sa-collab.land
 verification-collab.land
