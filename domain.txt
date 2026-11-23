@@ -22972,7 +22972,6 @@ client.475238-cb.com
 524879-crypto.com
 5278941239786125397816345278-gmail.com
 528422google.com
-528840-coinspot.com
 52885-binance.com
 529174-crypto.com
 529184-crypto.com
@@ -23706,7 +23705,6 @@ client.758340-cb.com
 819302-binance.com
 819305-crypto.com
 819306-crypto.com
-819314-binance.com
 819465-crypto.com
 819616.com
 wap.81ex02.com
@@ -24077,7 +24075,6 @@ ww38.coinbaseverifier.8x8pnhv.com
 913726-crypto.com
 913756-crypto.com
 913840-crypto.com
-913855-gemini.com
 914028-crypto.com
 91421-crypto.com
 914583-crypto.com
@@ -31052,7 +31049,6 @@ dispute-center-x.com
 disputecontent-x.com
 disputecontents-x.com
 disputenotice-x.com
-disputes-gemini.com
 disputes-x.com
 distancefordollars.com
 distflare.com
@@ -36357,7 +36353,6 @@ latest-ledger.com
 latest-submited.com
 latest-submittedv.com
 latestreuters.com
-launch-market.com
 launch-netnetcapital.com
 launch-noxa.com
 launchamd.com
@@ -79354,7 +79349,6 @@ ismefo.icu
 it-department-help.icu
 it-help.icu
 ivanovnullson.icu
-j0-ining.icu
 joinopenstandard.icu
 joinwith.icu
 jp-telegeram.icu
@@ -94427,7 +94421,6 @@ liveqrcode.online
 login-google.online
 login-microsoft-verify.online
 login-mictosoft.online
-login-profile-service-portal-gov.online
 loginid-ffdebbjdi9jjwq.online
 lossless-scaling.online
 lovelystuffsinc.online
@@ -96127,7 +96120,6 @@ lobstrproject.org
 login-auth-service-cent-sever-portal.org
 login-auth-service-gov-portal.org
 login-blokchain.org
-login-home-portal-info-server.org
 lokatowin.org
 loop-trust.org
 loop-tw.org
@@ -96393,7 +96385,6 @@ on-exodus.org
 on-ledger.org
 on-trezor.org
 ondo-dashboard.org
-ondovoting.org
 onepiler.org
 onewintoken.org
 onstreamapkdownload.org
@@ -98265,7 +98256,6 @@ bullsol.pro
 bullverse.pro
 bureaumeme.pro
 by-bit.pro
-byvotes.pro
 byzanvaults.pro
 app.c-sw.pro
 cablesfi.pro
@@ -102391,7 +102381,6 @@ blacklist-app.site
 blockchain-node.site
 bluefin789s.site
 bonk-kr.site
-bonkdao.site
 bozei.site
 bravebrow.site
 bravee.site
@@ -106175,7 +106164,6 @@ mainnet-elysium.top
 mamingsc.top
 mamod-ex.top
 mamodex.top
-manifest-rewards.top
 manifoldstudio.top
 governance.mantle-proposal.top
 maragoloka.top
@@ -109260,7 +109248,6 @@ immediately-secure03.vu
 jellycoin.vu
 joinzoomworkspace.vu
 mexc.vu
-moonshot.vu
 polymarket.vu
 rainbet.vu
 zerionwallet.rfvnnxa.vu
@@ -111412,7 +111399,6 @@ coolestcatonrh.xyz
 copyxtrader.xyz
 cpoolfoundation.xyz
 m.cpwethereum.xyz
-crack-rewards.xyz
 crate-knotsstonk.xyz
 crate-ore.xyz
 crate-otc.xyz
