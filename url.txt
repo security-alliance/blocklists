@@ -1568,7 +1568,6 @@ https://sites.google.com/view/trezor-apis/trezor-suite
 https://sites.google.com/view/trezor-app-api/trezor-suite
 https://sites.google.com/view/trezor-app-connect/trezor-suite
 https://sites.google.com/view/trezor-app-crypto
-https://sites.google.com/view/trezor-app-desktop/trezor-suite
 https://sites.google.com/view/trezor-app-restore/trezor-suite
 https://sites.google.com/view/trezor-app-v2/trezor-suite
 https://sites.google.com/view/trezor-crypto-app/trezor-suite
