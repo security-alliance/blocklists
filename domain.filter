@@ -79849,6 +79849,7 @@
 ||trustcarrd.icu^$all
 ||trustdigitalcard.icu^$all
 ||trustexchange.icu^$all
+||trustpayment.icu^$all
 ||trustvirtual.icu^$all
 ||trustw-cards.icu^$all
 ||trustwalletcardopen.icu^$all
