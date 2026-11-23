@@ -29347,6 +29347,7 @@ bitrefill.com-gift-cards-ldo.com
 com-gift-cards-link.com
 com-gift-cards-ltc.com
 bitrefill.com-gift-cards-mana.com
+bitrefill.com-gift-cards-mina.com
 bitrefill.com-gift-cards-mkr.com
 com-gift-cards-near.com
 com-gift-cards-op.com
