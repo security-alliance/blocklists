@@ -10828,7 +10828,6 @@ openseaclaim-nftpro.vercel.app
 openseaclickclaims01.vercel.app
 openseaclicks3k.vercel.app
 openseaclicks5k.vercel.app
-openseaclicks9k.vercel.app
 openseafree-mint37.vercel.app
 openseafreegiveaway.vercel.app
 openseaio102.vercel.app
