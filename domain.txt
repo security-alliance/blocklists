@@ -17703,6 +17703,7 @@ hyperliquid-airdrop.claims
 hyperliquid-genesis.claims
 iota.claims
 kinetiq.claims
+kinetiq-foundation.claims
 ledgerlive.claims
 meteora.claims
 quest.metisl2protocol.claims

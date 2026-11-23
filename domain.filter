@@ -17703,6 +17703,7 @@
 ||hyperliquid-genesis.claims^$all
 ||iota.claims^$all
 ||kinetiq.claims^$all
+||kinetiq-foundation.claims^$all
 ||ledgerlive.claims^$all
 ||meteora.claims^$all
 ||quest.metisl2protocol.claims^$all
