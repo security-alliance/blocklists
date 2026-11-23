@@ -15596,7 +15596,6 @@ grass-foundation.cc
 rndr.gu.cc
 trust.gu.cc
 gugamb.cc
-m.guggenheim.cc
 gwei.cc
 gyaj2o1.cc
 h-cl.cc
@@ -21260,7 +21259,6 @@ osejp.co
 p-arbitrum.co
 packscan.co
 parcellq.co
-paribury.co
 payboxsh.co
 pciymarket.co
 pendle-finance.co
@@ -26518,7 +26516,6 @@ bitmaow.com
 bitmarkets-user.com
 bitmart-cn.com
 bitmart-exchange.com
-bitmartbtc.com
 bitmartcryptod.com
 bitmartexchange-com.com
 bitmartforestd.com
@@ -27957,7 +27954,6 @@ cibertechologies.com
 ciconxbdueisnsj.com
 ciconxjdnesnek.com
 cifuhao.com
-cimintyro.com
 cinderaya.com
 cintronmgt.com
 ciolax.com
@@ -29812,7 +29808,6 @@ conditions-x.com
 conevrgepay.com
 conference-google.com
 conferencegoogle.com
-confianzatrades.com
 configuracion-wallet.com
 configurate-ledger.com
 configurationmetaphrase.com
@@ -33433,7 +33428,6 @@ gmoedx.com
 gmoee.com
 gmoeee.com
 gmogg.com
-gmohc.com
 gmohhh.com
 gmojj.com
 gmokkk.com
@@ -44656,7 +44650,6 @@ tmgmmt.com
 tmgmpartnerships.com
 tmgmplatform.com
 tmgmpr.com
-tmgmpro.com
 tmgmroadmaps.com
 tmgmryan.com
 tmgms.com
@@ -46795,8 +46788,6 @@ vip660-google.com
 vip666-google.com
 vipchangers.com
 dashboard.vipchiliz.com
-chat.vipget1168.com
-ws.vipget1168.com
 vipglobalhash.com
 vipglobalhashkey.com
 vipglobalkey.com
@@ -81985,7 +81976,6 @@ tge-variational.ink
 metamask-help.thesimple.ink
 thetaaile.ink
 thetaair.ink
-theteai.ink
 token2049.ink
 tonetic.ink
 track-portfolio.ink
@@ -88315,7 +88305,6 @@ mysticdao.live
 myupdate-ledger.live
 myx-finance.live
 nabox.live
-nadextla.live
 nansenai.live
 neosoulx.live
 netcapitals.live
@@ -91640,7 +91629,6 @@ cloudflear.net
 cloudflsre.net
 cloudfpare.net
 d1jx91fkjwii2q.cloudfront.net
-d2eo7zet2mgnnn.cloudfront.net
 d2khucrcrpjgvs.cloudfront.net
 d38pfkljtggc9v.cloudfront.net
 d3s44k86ttheoh.cloudfront.net
@@ -108889,7 +108877,6 @@ mamod-ex.vip
 margex2.vip
 margex3.vip
 margex5.vip
-matsk.vip
 melap007.vip
 meta-mask-jp.vip
 metabridge.vip
