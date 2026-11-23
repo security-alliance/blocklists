@@ -85367,7 +85367,6 @@ phantomwalletveg.webflow.io
 phantomwalletx.webflow.io
 phantomwalletxtensionpoint.webflow.io
 phantomwallety.webflow.io
-phanton-wallet.webflow.io
 phantumwellat.webflow.io
 phatttomwallet.webflow.io
 phnttom-wallet-extension.webflow.io
