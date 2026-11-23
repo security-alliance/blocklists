@@ -70213,10 +70213,8 @@
 ||meta-mask--log.pages.dev^$all
 ||meta-mask-extens-ion.pages.dev^$all
 ||meta-mask-extension-ee.pages.dev^$all
-||meta-mask-extenson-learn.pages.dev^$all
 ||meta-mask-io-login.pages.dev^$all
 ||meta-mask-ios.pages.dev^$all
-||meta-mask-login-1lm.pages.dev^$all
 ||meta-mask-login-9jz.pages.dev^$all
 ||meta-mask-logn.pages.dev^$all
 ||meta-mask-wallet-912.pages.dev^$all
@@ -70224,7 +70222,6 @@
 ||meta-threshold-6fx.pages.dev^$all
 ||metaa-wallet--ai.pages.dev^$all
 ||metafundsclaim.pages.dev^$all
-||metam-ask-wal-let.pages.dev^$all
 ||metamaask-chrome--extension.pages.dev^$all
 ||metamask-8h5.pages.dev^$all
 ||metamask-chrome-extension-dev.pages.dev^$all
