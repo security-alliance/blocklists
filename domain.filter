@@ -72109,7 +72109,6 @@
 ||stellar-fengli.pages.dev^$all
 ||stellar-fieldcore.pages.dev^$all
 ||stellar-focuss.pages.dev^$all
-||stellar-loop-2ly.pages.dev^$all
 ||stellar-voting.pages.dev^$all
 ||step-connect-live-ledgrs.pages.dev^$all
 ||step-trust-wallet.pages.dev^$all
@@ -99691,6 +99690,7 @@
 ||mechanica.run^$all
 ||meets-invites.run^$all
 ||meridians.run^$all
+||metaamskdownload.run^$all
 ||minto.run^$all
 ||noclaims.run^$all
 ||nukes.run^$all
