@@ -47990,7 +47990,6 @@
 ||apps-krkan-ai.wixstudio.com^$all
 ||apps-krkanecdn.wixstudio.com^$all
 ||apps-krken.wixstudio.com^$all
-||apps-krkencdn.wixstudio.com^$all
 ||apps-krkkencd.wixstudio.com^$all
 ||apps-krkkencdn.wixstudio.com^$all
 ||apps-krkunepro.wixstudio.com^$all
@@ -51091,7 +51090,6 @@
 ||trade-ennadexio.wixstudio.com^$all
 ||trade-exodscdn.wixstudio.com^$all
 ||trade-itrst-capital.wixstudio.com^$all
-||trade-kerakencdn.wixstudio.com^$all
 ||trade-krackencdn.wixstudio.com^$all
 ||trade-krakancdn.wixstudio.com^$all
 ||trade-krakencdn.wixstudio.com^$all
@@ -54147,6 +54145,7 @@
 ||10-allocation-abstract.pages.dev^$all
 ||10-allocation-prismassets.pages.dev^$all
 ||10-allocation-yieldfields.pages.dev^$all
+||10-allocations-flarenetwork.pages.dev^$all
 ||10-allowlist-ascendlaunch.pages.dev^$all
 ||10-app-argus.pages.dev^$all
 ||10-app-curvegovern.pages.dev^$all
@@ -54555,6 +54554,7 @@
 ||11-allocation-abstract.pages.dev^$all
 ||11-allocation-prismassets.pages.dev^$all
 ||11-allocation-yieldfields.pages.dev^$all
+||11-allocations-flarenetwork.pages.dev^$all
 ||11-allowlist-ascendlaunch.pages.dev^$all
 ||11-app.pages.dev^$all
 ||11-app-argus.pages.dev^$all
@@ -107904,7 +107904,6 @@
 ||coinbase-signin.us^$all
 ||coinbaseinfo.us^$all
 ||coinbasepin.us^$all
-||coinbaseservices.us^$all
 ||coinbasesupport.us^$all
 ||coinbasewallets.us^$all
 ||coinbmi.us^$all
