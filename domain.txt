@@ -14747,7 +14747,6 @@ temple357.careers
 aazuencorxax.casa
 acrs.casa
 acrsoss.casa
-aerodrome.casa
 auth-www-secure3-connect.casa
 birfost.casa
 blacksbullsol.casa
@@ -15470,7 +15469,6 @@ finance-r.eu.cc
 finance-spd-s.eu.cc
 guadjaola-gobc.eu.cc
 hai888.eu.cc
-hyperliquid.eu.cc
 io-online.eu.cc
 io-stake.eu.cc
 io-web.eu.cc
@@ -15478,7 +15476,6 @@ laomo47286.eu.cc
 ooow.eu.cc
 org-os.eu.cc
 org-px.eu.cc
-pancakeswap.eu.cc
 qqph.eu.cc
 ragc.eu.cc
 ragl.eu.cc
@@ -17836,7 +17833,6 @@ app-firelightecosystems.click
 app-firelightfoundation.click
 app-flarenetworks.click
 app-flrfoundation.click
-app-hyperliqiud.click
 app-lido.click
 app-mantle.click
 app-mantlegovernance.click
@@ -17850,7 +17846,6 @@ app-plasmaecosystem.click
 app-ponsecosystem.click
 app-priorseco.click
 app-pumpswap.click
-app-quickswap.click
 app-umiaecosystems.click
 app.app-usdai.click
 app-v2.click
@@ -19515,7 +19510,6 @@ kravn.abvdk.cn
 bb-binance.ac.cn
 bn-binance.ac.cn
 bnb-binance.ac.cn
-huobi.ac.cn
 kk-binance.ac.cn
 kk-okx.ac.cn
 okx-com.ac.cn
@@ -22157,7 +22151,6 @@ a212.21chongwu.com
 238916-crypto.com
 239039-coinbase.com
 239180-crypto.com
-239239-coinspot.com
 239420-coinspot.com
 239821-crypto.com
 23ledger.com
@@ -22258,7 +22251,6 @@ a212.21chongwu.com
 282715-pionex.com
 282721coinbase.com
 282758-gemini.com
-282845-coinspot.com
 282912coinbase.com
 283170-crypto.com
 283345coinbase.com
@@ -22311,7 +22303,6 @@ opensea.28372982.com
 295716-crypto.com
 295728coinbase.com
 295813-crypto.com
-295893-ledger.com
 296423-crypto.com
 296705-crypto.com
 29832-icloud.com
@@ -22584,7 +22575,6 @@ ethereum2.360app.com
 382719-robinhood.com
 382918coinbase.com
 38292-robinhood.com
-382949-coinspot.com
 382959-ledger.com
 382975coinbase.com
 383292coinbase.com
@@ -22894,7 +22884,6 @@ client.475238-cb.com
 492944-coinspot.com
 49295-coinspot.com
 492953-ledger.com
-492955-ledger.com
 493018-crypto.com
 493267-crypto.com
 493335coinbase.com
@@ -22980,7 +22969,6 @@ client.475238-cb.com
 5292809-ticket.com
 529304-crypto.com
 5299324-coinbase.com
-529952-binance.com
 52phantom.com
 530aaccounts.com
 531223-robinhood.com
@@ -23104,8 +23092,6 @@ coinbase.564782.com
 58251861133373589853444927960486-ripple.com
 582730kraken.com
 582843-login-coinbase.com
-582852-binance.com
-582895-ledger.com
 582922-ledger.com
 58293-ledger.com
 58293-login-coinbase.com
@@ -23139,7 +23125,6 @@ coinbase.564782.com
 587264-crypto.com
 587321coinbase.com
 587352kraken.com
-58772-coinspot.com
 589140-crypto.com
 589329-login-binance.com
 58981kraken.com
@@ -23153,7 +23138,6 @@ arbitrum.58bbq.com
 592014-crypto.com
 592041-crypto.com
 592043-binance.com
-592052-coinspot.com
 592163-crypto.com
 592307-trezor.com
 592361google.com
@@ -27469,7 +27453,6 @@ case-suite.com
 case-trezor.com
 case-trustwallet.com
 case-verification.com
-case5821-binance.com
 case58285-kraken.com
 case58728-coinbase.com
 case839213-coinbase.com
@@ -31403,7 +31386,6 @@ earn-var.com
 earnersglobe.com
 earns-jeffcoin.com
 earnsol-dexscreener.com
-earnsvote-dexscreener.com
 earnvotes-dexscreener.com
 slingshot.eas4solutions.com
 eastmerelegal.com
@@ -36648,7 +36630,6 @@ listedeclasse.com
 opensea.io.listing-are.com
 listing-blnance.com
 listing-vote.com
-listings-dexscreener.com
 listingcenter.listings-nasdaq.com
 listsokx.com
 lit-reward.com
@@ -38033,7 +38014,6 @@ multibridgeups.com
 multifirelight.com
 multincfifoundation.com
 multiplied-flare.com
-multiplier-firelight.com
 multiplier-solsticefinance.com
 multipliers-solsticefinance.com
 multiplyfirelight.com
@@ -74833,7 +74813,6 @@ bybit-votes.digital
 c8ntinuum.digital
 cantonnetwork.digital
 cardpay.digital
-centrifuges.digital
 chainguard.digital
 chiliz.digital
 chilliz.digital
@@ -77676,7 +77655,6 @@ solanalabs.fun
 solanaspins.fun
 solanis.fun
 solarebate.fun
-solback-pump.fun
 solclaim.fun
 soleligibility.fun
 sollana.fun
@@ -77744,7 +77722,6 @@ topazy.fun
 torchpadgov.fun
 tornadocash.fun
 tpwallet-web3.fun
-tradeback-pump.fun
 tradeback-pumps.fun
 traderback-pump.fun
 tradeterminal.fun
@@ -80814,7 +80791,6 @@ firelight-early.info
 firelight-flt.info
 firelight-foundation.info
 firelight-fxrp.info
-firelight-multiply.info
 firelight-phase.info
 firelight-phase2.info
 firelight-poll.info
@@ -81035,8 +81011,6 @@ ledger-apps.info
 ledger-com.info
 ledgerwallet.info
 ledoux-exchange.info
-legalaction-x.info
-legalfile-x.info
 legalhelp-x.info
 legalrecord-x.info
 legioncc.info
@@ -81127,8 +81101,6 @@ multiplier-morpho.info
 multiplier-ondo.info
 multiplier-vestradao.info
 multiplierflare.info
-multiply-firelight.info
-multiply-flare.info
 mumu-claim.info
 mumu-migrationclaims.info
 myhealthbridge.info
@@ -81647,7 +81619,6 @@ wailea-treasury.info
 wallace-exchange.info
 wallin-exchange.info
 wasson-exchange.info
-wcor.info
 wealthicator-platform.info
 web3bitget.info
 web3defihub39.info
@@ -81822,7 +81793,6 @@ crvhub.ink
 crvlite.ink
 crypto-payment-v2.ink
 cryptomixer.ink
-cryptomusgate.ink
 crytpobubbles.ink
 cuerlty.ink
 cuvrefi.ink
@@ -82092,7 +82062,6 @@ kta.investments
 338524-trezor.io
 338539-trezor.io
 338582-trezor.io
-338592-trezor.io
 339293-trezor.io
 3395221-trezor.io
 348294-trezor.io
@@ -86231,7 +86200,6 @@ dao-etherfi.lat
 dashboard-aero.lat
 dashboards-argus.lat
 ddragon-money.lat
-degencoin.lat
 deltafi.lat
 derive.lat
 derivexyz.lat
@@ -86581,7 +86549,6 @@ usd-coins88.lat
 usdai.lat
 usdxcoin-pro.lat
 usespaid.lat
-usrxcoins.lat
 omni.variational.lat
 verify-sale-securely9556742.lat
 virtuals-app.lat
@@ -86746,7 +86713,6 @@ flarenetwork.life
 flarenetworks.life
 glrcastrk.life
 goal1.life
-goodboyrocky.life
 googlework.life
 hydrex.life
 hydrexapp-vote.life
@@ -89139,7 +89105,6 @@ voptionaset.live
 vote-aerodrome.live
 vote-asteroideth.live
 vote-colnmarkejcap.live
-vote-dexscreener.live
 vote-elysium.live
 vote-firelightfinance.live
 vote-firelightfinances.live
@@ -89160,7 +89125,6 @@ vote-zebec.live
 votecolnmarkejcap.live
 voterobinhood.live
 votes-alignedlayer.live
-votes-dexscreener.live
 votes-flare-network.live
 votes-flarefnd.live
 votes-flarefndn.live
@@ -89834,7 +89798,6 @@ sparkdex.lol
 sparkdotfi.lol
 sparkfinances.lol
 sparknet.lol
-sphincs.lol
 spin-game.lol
 spumps.lol
 staking-near.lol
@@ -93414,7 +93377,6 @@ security-realio.network
 send-usdc.network
 send-usdt-bnb20.network
 send-usdt-on-erc20.network
-set-flare.network
 settlement-gspro.network
 share-moonshot.network
 snapshot-flare.network
@@ -96490,7 +96452,6 @@ promocardholder.org
 promotion-solutions.org
 proposal-linera.org
 proposal-mezo.org
-proposal-motoswap.org
 proposal-ondo.org
 proposal-tx.org
 proposal-zama.org
@@ -98244,7 +98205,6 @@ bullverse.pro
 bureaumeme.pro
 by-bit.pro
 byvotes.pro
-byzanlink.pro
 byzanvaults.pro
 app.c-sw.pro
 cablesfi.pro
@@ -98725,7 +98685,6 @@ gov-etherfi.pro
 governance-etherfi.pro
 governance-firelight.pro
 grangefinance.pro
-growyourengine.pro
 gthumb.pro
 guaranteestockmarket.pro
 guardabeta.pro
@@ -98847,7 +98806,6 @@ mildas-investment.pro
 minecrypto.pro
 mitsois.pro
 mixtum.pro
-modo-og.pro
 momentumfinancial.pro
 monarchmoney.pro
 moonshot-vote.pro
@@ -107230,7 +107188,6 @@ workspace-google-drive.top
 world-allocations.top
 argus.world-proposal.top
 argus.world-vote.top
-worldcollectiveoilreserve.top
 worldid.top
 worldlibertyfinancials.top
 wowlaos-v888.top
@@ -108630,7 +108587,6 @@ usdtspin.vin
 11z6.vip
 123google.vip
 139150.vip
-1inch.vip
 1us90ha.vip
 2us91ol.vip
 3jane.vip
@@ -109673,7 +109629,6 @@ govuk.work
 grass-foundation.work
 jobel.work
 kr-google.work
-lido.work
 liveconference.work
 livemain.work
 meet-google.work
@@ -109798,7 +109753,6 @@ huhthecat.world
 huobi.world
 hyperliquid.world
 inugami.world
-jailed.world
 jup-agf.world
 jupswap.world
 kesarva.world
@@ -109994,7 +109948,6 @@ okx.xn--6frz82g
 20010610.xyz
 202588888882oginaaaaa.xyz
 27327809.xyz
-okx.291543713.xyz
 292528-binance.xyz
 296692.xyz
 2agyu.xyz
@@ -110594,7 +110547,6 @@ apyx-fi.xyz
 apyx-finance.xyz
 apyx-finances.xyz
 apyx-vote.xyz
-apyxfinance.xyz
 ar-io.xyz
 arbitrum-vote.xyz
 arc-bridge.xyz
