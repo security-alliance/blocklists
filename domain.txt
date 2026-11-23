@@ -17839,7 +17839,6 @@ app-firelightecosystems.click
 app-firelightfoundation.click
 app-flarenetworks.click
 app-flrfoundation.click
-app-lido.click
 app-mantle.click
 app-mantlegovernance.click
 app-multipliecosystem.click
@@ -21855,7 +21854,6 @@ robinhood.114501.com
 1712851-coinbase.com
 171385google.com
 1721891-trezor.com
-172383-google.com
 172384coinbase.com
 172446coinbase.com
 172621-binance.com
@@ -22823,7 +22821,6 @@ client.475238-cb.com
 481029-ledger.com
 481679-crypto.com
 481948-coinbase.com
-481955-ledger.com
 481962-binance.com
 482067-crypto.com
 482078coinbase.com
@@ -36503,7 +36500,6 @@ lefontduaza.com
 sempak.leftren.com
 lefuda.com
 legacyprimevest.com
-legal-review-x.com
 legal-verification.com
 legalassets-x.com
 legalcasedmca-x.com
@@ -37348,7 +37344,6 @@ membercloudzone.com
 membereg.com
 meme-listings.com
 meme-melania.com
-meme-snipe.com
 memecoinbase.com
 memedefis.com
 memelaniax.com
@@ -40556,7 +40551,6 @@ pulsechainn.com
 pulsoris.com
 pulsz-play.com
 pulsz-usa.com
-pump-sniper.com
 pump-start.com
 pumpfun-airdrop.com
 pumpfun-meme.com
@@ -46680,7 +46674,6 @@ verif-u-v1.com
 verifcryptoflash.com
 verificacion-wallet.com
 verificate-binance.com
-verificatieproces.com
 verification-coinbase.com
 verification-fidelity.com
 verification-gemini.com
@@ -47196,7 +47189,6 @@ wallet-login.com
 wallet-manage.com
 wallet-mydoge.com
 wallet-perfect-connect.com
-wallet-qr.com
 wallet-reconnect.com
 wallet-safety-coinbase.com
 wallet-secure-coinbase.com
@@ -66856,7 +66848,6 @@ device-en-trezor.pages.dev
 device-ledger-en.pages.dev
 device-ledgr--desktop.pages.dev
 device-trezor-en.pages.dev
-dex-e2w.pages.dev
 dex-flaredapp.pages.dev
 dex-tokenclaim.pages.dev
 dexback-8ck.pages.dev
@@ -77495,7 +77486,6 @@ pmpk.fun
 pmrp.fun
 pnmp.fun
 pnpp.fun
-podcast-pump.fun
 polexbot.fun
 poll-moonshot.fun
 polls-moonshots.fun
@@ -77547,26 +77537,20 @@ proposals-nukes.fun
 proposals-sanctum.fun
 proposals-tread.fun
 protection-pump.fun
-pumd.fun
 pumfunlivechat.fun
 pump-app.fun
-pump-chatstream.fun
 pump-chatstreaming.fun
 pump-chatstreams.fun
 pump-coin-live.fun
 pump-feed.fun
 pump-fun-livestream.fun
 pump-fun-stream.fun
-pump-joinstream.fun
 pump-strcam.fun
 pump-stream-live.fun
-pump-streamchats.fun
 pump-streamfor.fun
 pump-streamhub.fun
 pump-streamin.fun
 pump-streaminghub.fun
-pump-streaminglive.fun
-pump-streamslive.fun
 pump-strearn.fun
 pump-streern.fun
 pump-strem.fun
@@ -77574,8 +77558,6 @@ pump-swap.fun
 pump-v1.fun
 pump-viewstream.fun
 pump-viewstreams.fun
-pump-watchstream.fun
-pump-watchstreams.fun
 pump-wiki.fun
 pump67.fun
 pumpana.fun
@@ -77610,7 +77592,6 @@ pumplivestreamhubs.fun
 pumplivex.fun
 pumpmate.fun
 pumpnair.fun
-pumppro.fun
 pumpra.fun
 pumprate.fun
 pumps-live.fun
@@ -87298,7 +87279,6 @@ bullsol.live
 bunnitoken.live
 buzkora.live
 bwifrewards.live
-byvotes.live
 byvotes-bybit.live
 cakewalletsdesktop.live
 callon.live
@@ -87652,7 +87632,6 @@ exchange-finance.live
 exo-dus-wallt.live
 exohubextension.live
 expertmarketpro.live
-pumpstreams.expl.live
 fables-update.live
 fabless.live
 farmtown.live
@@ -88255,7 +88234,6 @@ marketingpulse.live
 marketrev.live
 mathwallet.live
 maxitoken.live
-maxsolutionwallet.live
 mechanica.live
 meet-cryptogate.live
 meet-google.live
@@ -88391,7 +88369,6 @@ mydevice-ledger.live
 mymsteamfill.live
 mysecureaccessportal-308239.live
 mysteryboxsol.live
-mysticdao.live
 myupdate-ledger.live
 myx-finance.live
 nabox.live
@@ -88636,7 +88613,6 @@ psminer.live
 pudgypenguins-allocation.live
 pufendorf.live
 pulseredeem.live
-pump-coin.live
 pump-feed.live
 pump-stream.live
 pump-streamer.live
@@ -89633,7 +89609,6 @@ crypto.cryptoworld.lol
 ctpm.lol
 cyber-leek.lol
 cyberfaucet.lol
-decrypto.lol
 dejavu-ai.lol
 dexump.lol
 dezentracore.lol
@@ -103988,11 +103963,6 @@ okx.supplies
 crates-long.supply
 wallet.supply
 allbridge.support
-appealaction-x.support
-appealcase-x.support
-appealcontent-x.support
-appealpost-x.support
-appealposts-x.support
 apyxfi.support
 apyxfinance.support
 bridgeai.support
@@ -104475,7 +104445,6 @@ solnexa.team
 spvu.team
 support-google.team
 t8nv.team
-tamatonga.team
 teams-meet.team
 teams-meetings.team
 termmaxfi.team

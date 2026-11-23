@@ -17839,7 +17839,6 @@
 ||app-firelightfoundation.click^$all
 ||app-flarenetworks.click^$all
 ||app-flrfoundation.click^$all
-||app-lido.click^$all
 ||app-mantle.click^$all
 ||app-mantlegovernance.click^$all
 ||app-multipliecosystem.click^$all
@@ -21855,7 +21854,6 @@
 ||1712851-coinbase.com^$all
 ||171385google.com^$all
 ||1721891-trezor.com^$all
-||172383-google.com^$all
 ||172384coinbase.com^$all
 ||172446coinbase.com^$all
 ||172621-binance.com^$all
@@ -22823,7 +22821,6 @@
 ||481029-ledger.com^$all
 ||481679-crypto.com^$all
 ||481948-coinbase.com^$all
-||481955-ledger.com^$all
 ||481962-binance.com^$all
 ||482067-crypto.com^$all
 ||482078coinbase.com^$all
@@ -36503,7 +36500,6 @@
 ||sempak.leftren.com^$all
 ||lefuda.com^$all
 ||legacyprimevest.com^$all
-||legal-review-x.com^$all
 ||legal-verification.com^$all
 ||legalassets-x.com^$all
 ||legalcasedmca-x.com^$all
@@ -37348,7 +37344,6 @@
 ||membereg.com^$all
 ||meme-listings.com^$all
 ||meme-melania.com^$all
-||meme-snipe.com^$all
 ||memecoinbase.com^$all
 ||memedefis.com^$all
 ||memelaniax.com^$all
@@ -40556,7 +40551,6 @@
 ||pulsoris.com^$all
 ||pulsz-play.com^$all
 ||pulsz-usa.com^$all
-||pump-sniper.com^$all
 ||pump-start.com^$all
 ||pumpfun-airdrop.com^$all
 ||pumpfun-meme.com^$all
@@ -46680,7 +46674,6 @@
 ||verifcryptoflash.com^$all
 ||verificacion-wallet.com^$all
 ||verificate-binance.com^$all
-||verificatieproces.com^$all
 ||verification-coinbase.com^$all
 ||verification-fidelity.com^$all
 ||verification-gemini.com^$all
@@ -47196,7 +47189,6 @@
 ||wallet-manage.com^$all
 ||wallet-mydoge.com^$all
 ||wallet-perfect-connect.com^$all
-||wallet-qr.com^$all
 ||wallet-reconnect.com^$all
 ||wallet-safety-coinbase.com^$all
 ||wallet-secure-coinbase.com^$all
@@ -66856,7 +66848,6 @@
 ||device-ledger-en.pages.dev^$all
 ||device-ledgr--desktop.pages.dev^$all
 ||device-trezor-en.pages.dev^$all
-||dex-e2w.pages.dev^$all
 ||dex-flaredapp.pages.dev^$all
 ||dex-tokenclaim.pages.dev^$all
 ||dexback-8ck.pages.dev^$all
@@ -77495,7 +77486,6 @@
 ||pmrp.fun^$all
 ||pnmp.fun^$all
 ||pnpp.fun^$all
-||podcast-pump.fun^$all
 ||polexbot.fun^$all
 ||poll-moonshot.fun^$all
 ||polls-moonshots.fun^$all
@@ -77547,26 +77537,20 @@
 ||proposals-sanctum.fun^$all
 ||proposals-tread.fun^$all
 ||protection-pump.fun^$all
-||pumd.fun^$all
 ||pumfunlivechat.fun^$all
 ||pump-app.fun^$all
-||pump-chatstream.fun^$all
 ||pump-chatstreaming.fun^$all
 ||pump-chatstreams.fun^$all
 ||pump-coin-live.fun^$all
 ||pump-feed.fun^$all
 ||pump-fun-livestream.fun^$all
 ||pump-fun-stream.fun^$all
-||pump-joinstream.fun^$all
 ||pump-strcam.fun^$all
 ||pump-stream-live.fun^$all
-||pump-streamchats.fun^$all
 ||pump-streamfor.fun^$all
 ||pump-streamhub.fun^$all
 ||pump-streamin.fun^$all
 ||pump-streaminghub.fun^$all
-||pump-streaminglive.fun^$all
-||pump-streamslive.fun^$all
 ||pump-strearn.fun^$all
 ||pump-streern.fun^$all
 ||pump-strem.fun^$all
@@ -77574,8 +77558,6 @@
 ||pump-v1.fun^$all
 ||pump-viewstream.fun^$all
 ||pump-viewstreams.fun^$all
-||pump-watchstream.fun^$all
-||pump-watchstreams.fun^$all
 ||pump-wiki.fun^$all
 ||pump67.fun^$all
 ||pumpana.fun^$all
@@ -77610,7 +77592,6 @@
 ||pumplivex.fun^$all
 ||pumpmate.fun^$all
 ||pumpnair.fun^$all
-||pumppro.fun^$all
 ||pumpra.fun^$all
 ||pumprate.fun^$all
 ||pumps-live.fun^$all
@@ -87298,7 +87279,6 @@
 ||bunnitoken.live^$all
 ||buzkora.live^$all
 ||bwifrewards.live^$all
-||byvotes.live^$all
 ||byvotes-bybit.live^$all
 ||cakewalletsdesktop.live^$all
 ||callon.live^$all
@@ -87652,7 +87632,6 @@
 ||exo-dus-wallt.live^$all
 ||exohubextension.live^$all
 ||expertmarketpro.live^$all
-||pumpstreams.expl.live^$all
 ||fables-update.live^$all
 ||fabless.live^$all
 ||farmtown.live^$all
@@ -88255,7 +88234,6 @@
 ||marketrev.live^$all
 ||mathwallet.live^$all
 ||maxitoken.live^$all
-||maxsolutionwallet.live^$all
 ||mechanica.live^$all
 ||meet-cryptogate.live^$all
 ||meet-google.live^$all
@@ -88391,7 +88369,6 @@
 ||mymsteamfill.live^$all
 ||mysecureaccessportal-308239.live^$all
 ||mysteryboxsol.live^$all
-||mysticdao.live^$all
 ||myupdate-ledger.live^$all
 ||myx-finance.live^$all
 ||nabox.live^$all
@@ -88636,7 +88613,6 @@
 ||pudgypenguins-allocation.live^$all
 ||pufendorf.live^$all
 ||pulseredeem.live^$all
-||pump-coin.live^$all
 ||pump-feed.live^$all
 ||pump-stream.live^$all
 ||pump-streamer.live^$all
@@ -89633,7 +89609,6 @@
 ||ctpm.lol^$all
 ||cyber-leek.lol^$all
 ||cyberfaucet.lol^$all
-||decrypto.lol^$all
 ||dejavu-ai.lol^$all
 ||dexump.lol^$all
 ||dezentracore.lol^$all
@@ -103988,11 +103963,6 @@
 ||crates-long.supply^$all
 ||wallet.supply^$all
 ||allbridge.support^$all
-||appealaction-x.support^$all
-||appealcase-x.support^$all
-||appealcontent-x.support^$all
-||appealpost-x.support^$all
-||appealposts-x.support^$all
 ||apyxfi.support^$all
 ||apyxfinance.support^$all
 ||bridgeai.support^$all
@@ -104475,7 +104445,6 @@
 ||spvu.team^$all
 ||support-google.team^$all
 ||t8nv.team^$all
-||tamatonga.team^$all
 ||teams-meet.team^$all
 ||teams-meetings.team^$all
 ||termmaxfi.team^$all
