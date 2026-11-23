@@ -42869,7 +42869,6 @@ signallx.com
 signalx-airdrop.com
 signalx-claim.com
 signature-ledger.com
-signatureapprovals.com
 signdocsign.com
 signed-google.com
 signin-crypto.com
@@ -63475,6 +63474,7 @@ pr-7831.1inch-io-app.pages.dev
 62-vote-orbio.pages.dev
 62-vote-papertrade.pages.dev
 620258715-lp-bonus-curvefinance.pages.dev
+626f-colnbase-listings-4f65.pages.dev
 6281-colnbase-listings-4f65.pages.dev
 63-0xfluid.pages.dev
 63-allocation-argus.pages.dev
@@ -64288,6 +64288,7 @@ pr-7831.1inch-io-app.pages.dev
 76-vote-netnetcapital.pages.dev
 76-vote-orbio.pages.dev
 76-vote-papertrade.pages.dev
+7614-coinbase-listing-677f.pages.dev
 77-0xfluid.pages.dev
 77-allocation-argus.pages.dev
 77-allocation-yieldfields.pages.dev
