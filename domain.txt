@@ -76116,7 +76116,6 @@ fireflight.finance
 firelightstaking.finance
 firelightteam.finance
 firlight.finance
-flakeswap.finance
 flintwallet.finance
 flt-firelight.finance
 fltfirelight.finance
