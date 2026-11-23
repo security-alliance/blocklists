@@ -8201,7 +8201,6 @@ ondo-voting.app
 ondoglobalmarkets.app
 ondostaking.app
 ondovote.app
-ondovoting.app
 onewirex.app
 app-meta-mask-login-web.onhercules.app
 homeapps-coinbase.onhercules.app
@@ -41578,7 +41577,6 @@ redirect-waltio.com
 redirecting-verify.com
 redirecting-waltio.com
 redirectionsx-secured.com
-redirects-secure-x.com
 redirectsecures.com
 redirsportal.com
 redmorningbnb.com
@@ -91075,7 +91073,6 @@ aricettoug.net
 6t7vk64dyhbffol3innqc5dpjut2jswa4sz3r3agv33kahebsyia.arweave.net
 6to2l2iw5rxpg36fjz5x7ggtprari5ltsihf4vxsj6zi4q6n4uha.arweave.net
 6u366kqdmf6txidtr3iqqvfv7pbdvsgdvpdytopkpzxlrniihztq.arweave.net
-6uilr4crpnetzseruvgsbvzmhoerwrp7ckvwi6p24ftzvliomagq.arweave.net
 6x75fns2rp43cw6cs3u7a64miscl7dz47p7v3wrvuwwxwq623bpq.arweave.net
 6ykyaghiw4j62rc3ag7zsmqtdihzropscdakbq7uhntdjjcizu7q.arweave.net
 6zu7oryx77xl3vw72cudyk72tl73xcbbh6zadqwbhgarrgcoom6q.arweave.net
@@ -91132,7 +91129,6 @@ deutyfhm2jrs4w7szahz2sg27wy6vp3qe7e7srp4dv4fxt4krqgq.arweave.net
 dghrgpdvcjbxpsdkpa6a5deidmbb24uxzpbdd5susw2d5t2tv5vq.arweave.net
 djd55zwbuwgv2ilcdrxf7ff4jtcbznvcs6b4cdrxa75fwwq6iu4q.arweave.net
 dkzymw76qg5dkqtrp5bv3vjtluxktkrvbb5xt3mpqafif5ghroha.arweave.net
-dqu2fhhbl6vdj2c4upyk4z37qm5763oxctg4ozfkre3hq3qfcn5q.arweave.net
 dwxowvyrmxx7px2l2wh6bhowrwr7msxq7ldsjlfc7uinfyg4yxia.arweave.net
 dza5aw2ury2bvrneibr5ehm7hjzox7u5ihqrbiu3ak4vjlrkyk5a.arweave.net
 e3fctvt6gwqhyea6w2ed2kzx5dnyzqfk2z7zuyyfc2renv637baq.arweave.net
@@ -91148,7 +91144,6 @@ elf673yu3nkhjmsdk2hdq2f2zyyh4eywq6onjqb3omnrsqqaumxa.arweave.net
 eu4nugumsfiq2m2e3p4ucjqjsqoaajpxd6krcxgmatrbkn6psyaa.arweave.net
 ewdouhaxeh3lkhsdlghoixkf6lilasuu4qrwkxahdflkjv3kdixq.arweave.net
 f45mpfg5ifrjc5m3tciheyjdpvi7orkgrvfoetyfeaszbsveojlq.arweave.net
-f4wkg7hupzrgrz7oghzgtr4kkxw3wvd4naz6cdbhilpc4uakklhq.arweave.net
 fcps7lmksamjsnlyhwr6olzfh3fspi3x7xbuaagufjx3bnrnzuca.arweave.net
 fctapa3x37abhvdfshrspslu2pufovjwofcdxnlkkodbchkdbc3a.arweave.net
 fd5au3j7yuq5jpufraednqa6rp7be24hqh5zv7wxpebehiymzevq.arweave.net
