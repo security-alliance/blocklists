@@ -15678,7 +15678,6 @@ download.krakencb.cc
 download.krakenex.cc
 download.krakenexc.cc
 krakenmrkt.cc
-krakenoffice.cc
 down.krakenpa.cc
 krakenprotect.cc
 krakex2.cc
