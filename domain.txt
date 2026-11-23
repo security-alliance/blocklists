@@ -77387,6 +77387,7 @@ newdrop.fun
 newscum.fun
 nexsniper.fun
 nftperp.fun
+nookterminal.fun
 novawallet.fun
 noxas.fun
 nuvex-wl.fun
@@ -93781,7 +93782,6 @@ moonwell.one
 motl.one
 movementnetwork.one
 mywacco.one
-n04i.one
 nesa-foundation.one
 newlifeinfo.one
 dapp.ocagent.one
