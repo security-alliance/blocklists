@@ -11822,7 +11822,6 @@
 ||appswalletconnects.web.app^$all
 ||arcus-net.web.app^$all
 ||auctions-zealousswap.web.app^$all
-||auth-dappconnections.web.app^$all
 ||backpack-updates.web.app^$all
 ||backpackextensions.web.app^$all
 ||bayc-nftmint.web.app^$all
@@ -71791,7 +71790,6 @@
 ||squares-admin-verification.pages.dev^$all
 ||sribhumividyasanga-ledger.pages.dev^$all
 ||ssg-ledger.pages.dev^$all
-||sso--siuwalet.pages.dev^$all
 ||sso-bitby-log.pages.dev^$all
 ||sso-buy-bit-ksh.pages.dev^$all
 ||sso-cnbasepro-io.pages.dev^$all

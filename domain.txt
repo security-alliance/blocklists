@@ -11822,7 +11822,6 @@ apps-polymarket.web.app
 appswalletconnects.web.app
 arcus-net.web.app
 auctions-zealousswap.web.app
-auth-dappconnections.web.app
 backpack-updates.web.app
 backpackextensions.web.app
 bayc-nftmint.web.app
@@ -71791,7 +71790,6 @@ spritehoodeco.pages.dev
 squares-admin-verification.pages.dev
 sribhumividyasanga-ledger.pages.dev
 ssg-ledger.pages.dev
-sso--siuwalet.pages.dev
 sso-bitby-log.pages.dev
 sso-buy-bit-ksh.pages.dev
 sso-cnbasepro-io.pages.dev
