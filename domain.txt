@@ -88898,7 +88898,6 @@ tartswap-migrate.live
 tax-kraken.live
 te-min-platform.live
 tealive.live
-team-global.live
 team-meet.live
 team-trustwallet.live
 teamfill.live
