@@ -1201,7 +1201,6 @@ https://sites.google.com/view/metamask-extson/home
 https://sites.google.com/view/metamask-f/home
 https://sites.google.com/view/metamask-get-login/home
 https://sites.google.com/view/metamask-get-start/home
-https://sites.google.com/view/metamask-guide-app/home
 https://sites.google.com/view/metamask-guide-en/home
 https://sites.google.com/view/metamask-hel/home
 https://sites.google.com/view/metamask-help-center/home
