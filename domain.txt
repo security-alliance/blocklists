@@ -19132,7 +19132,6 @@ stable-hub.cloud
 stable-rewards.cloud
 1inch.stakingreward.cloud
 1lnch.stakingreward.cloud
-2z.stakingreward.cloud
 chain-links.stakingreward.cloud
 compound-finances.stakingreward.cloud
 double-zeros.stakingreward.cloud
