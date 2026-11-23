@@ -27324,6 +27324,7 @@ cakefixerwallet.com
 cakefixwallet.com
 cakeswallet.com
 cakewallat.com
+cakewallet-desktop.com
 cakewalletdesktopapp.com
 cakewalletlabs.com
 cakewalletweb3.com
@@ -82904,7 +82905,6 @@ logsiocoinbasesignin.gitbook.io
 m3tamsklgn.gitbook.io
 m3tamsklognx.gitbook.io
 matamaskpaswordrecovery.gitbook.io
-matamsklogcn.gitbook.io
 matamsklogex.gitbook.io
 mathamskiloigen.gitbook.io
 matmkzlcgen.gitbook.io
