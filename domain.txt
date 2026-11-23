@@ -67816,6 +67816,7 @@ flare-mainnet.pages.dev
 flare-network-hub3.pages.dev
 flare-network-remote-dapps.pages.dev
 flare-testing-checknow.pages.dev
+flare-votehub66.pages.dev
 flare-votehubpage.pages.dev
 flare-voting.pages.dev
 flareaccessnetwork.pages.dev
