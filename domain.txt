@@ -42291,7 +42291,6 @@ russianearabroad.com
 ruthweinberg.com
 ruuvsasd.com
 ruzeng.com
-rvelix.com
 rvixgamb.com
 rvnucdagnt2026.com
 rvok3lmavuki.com
@@ -47393,7 +47392,6 @@ web3-uniswap.com
 web3-vaultsafe.com
 web3-wallet-connect6963.com
 web3-wallets.com
-startup.web3-world.com
 web30-dapp.com
 web333-biconomy.com
 web3assetbackup.com
@@ -81562,7 +81560,6 @@ vote-chainink.info
 vote-ethena.info
 vote-firelight.info
 vote-firelightfinace.info
-vote-flare.info
 vote-frong.info
 vote-hl.info
 vote-hyperlend.info
@@ -89090,7 +89087,6 @@ vote-aerodrome.live
 vote-asteroideth.live
 vote-colnmarkejcap.live
 vote-elysium.live
-vote-firelightfinance.live
 vote-firelightfinances.live
 vote-flare.live
 vote-flare-networks.live
@@ -103738,7 +103734,6 @@ teams-meeting.store
 teamsoloinc.store
 telegram-kr.store
 tetherusdttrc20.store
-tokentides.store
 tonkeeper.store
 treasureart.store
 treding.store
