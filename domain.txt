@@ -47962,7 +47962,6 @@ apps-dydxxio.wixstudio.com
 apps-en-metmssk.wixstudio.com
 apps-enrabbycdn.wixstudio.com
 apps-eternlapps.wixstudio.com
-apps-exodues.wixstudio.com
 apps-ext-basecdn.wixstudio.com
 apps-ext-koinbase.wixstudio.com
 apps-extension-trust.wixstudio.com
@@ -49020,7 +49019,6 @@ explore-exods-home.wixstudio.com
 explore-exodus-walet.wixstudio.com
 explore-metamskcdn.wixstudio.com
 explore-rabbycdn.wixstudio.com
-exsodu-walet.wixstudio.com
 ext-base-koinapps.wixstudio.com
 ext-base-koinbase.wixstudio.com
 ext-io-metamskapps.wixstudio.com
