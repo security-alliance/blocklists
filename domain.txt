@@ -17892,7 +17892,6 @@ bc-gamee.click
 beaconwealthmgt.click
 betalingontvangen.click
 bevestig0reservering.click
-bitbank.click
 bitcoin-trade.click
 bitcrush.click
 bitfairdeals.click
@@ -27364,7 +27363,6 @@ capital-invext.com
 capital-lp.com
 capitalaog.com
 capitalbullfx.com
-capitalbulltes.com
 capitalbulltex.com
 capitalbullts.com
 capitalbulltxs.com
