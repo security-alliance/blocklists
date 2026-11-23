@@ -69967,6 +69967,7 @@ lger-live-desktop-en.pages.dev
 lger-live-download.pages.dev
 lger-live-waleet.pages.dev
 lger-start-hub-en.pages.dev
+lgin-coin-base.pages.dev
 li-desktop-ledgr.pages.dev
 li-desktop-ledgrer.pages.dev
 li-ive-ledgr.pages.dev
