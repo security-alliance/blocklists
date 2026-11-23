@@ -50515,7 +50515,6 @@ official-trustcdn-en.wixstudio.com
 official-zerion.wixstudio.com
 officialexodusglobal.wixstudio.com
 officialkraken.wixstudio.com
-officials-metamask.wixstudio.com
 officials-metamsk.wixstudio.com
 officialsuiteapps.wixstudio.com
 offline-bitbuyapp.wixstudio.com
@@ -105559,6 +105558,7 @@ eth-claim.top
 ethbaseapp.top
 ethbbitdrop.top
 ethbox.top
+ethccolo.top
 ethe-reum.top
 ethena.top
 ethenafi.top
