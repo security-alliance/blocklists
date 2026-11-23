@@ -6350,6 +6350,7 @@ pepe-unchianed.netlify.app
 pepeunchinde.netlify.app
 pepeunchinedus.netlify.app
 phantom-allocation.netlify.app
+phantomconn.netlify.app
 phantompro.netlify.app
 phantomwallet1.netlify.app
 phantomwalletdapps.netlify.app
