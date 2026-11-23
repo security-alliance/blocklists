@@ -39756,7 +39756,6 @@ plasma-token.com
 plasma-vote.com
 plasma-xpll.com
 plasmanai-tr.com
-plasmaseason.com
 plasmaseasons.com
 plasmatoapp.com
 plasmatradingbot.com
