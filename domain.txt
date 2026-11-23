@@ -32496,7 +32496,6 @@ firelight-igniter.com
 firelight-ink.com
 firelight-live.com
 firelight-mainnet.com
-firelight-multiply.com
 firelight-networks.com
 firelight-offer2.com
 firelight-points.com
@@ -32508,7 +32507,6 @@ firelight-round2.com
 firelight-snapshot2.com
 firelight-tge.com
 firelight-vault.com
-firelight-votes.com
 firelight-voting.com
 firelight-votings.com
 firelight-wave2.com
@@ -46965,7 +46963,6 @@ votes-apyxfi.com
 votes-citrea.com
 votes-etherfi.com
 votes-falcon.com
-votes-firelight.com
 votes-firelightfinance.com
 votes-flare-network.com
 votes-flarefoundation.com
@@ -81089,7 +81086,6 @@ mr-delivery.info
 mshotcommunyty.info
 msteamsvideoinvites.info
 mstschedulersession.info
-multi-firelight.info
 multi-flare.info
 multiple-firelight.info
 multiplier-chiliz.info
@@ -88099,7 +88095,6 @@ lido-migrate.live
 lidofi.live
 lidomigrate.live
 lidomigration.live
-lienlfi.live
 lightchainaiapp.live
 lilnxuajtehuwpel.live
 jupiter.limited-drop.live
