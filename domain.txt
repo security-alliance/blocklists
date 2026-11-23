@@ -60935,6 +60935,7 @@ pr-7831.1inch-io-app.pages.dev
 4-allocation-umiafinance.pages.dev
 4-allocation-yieldfields.pages.dev
 4-allocations-abs.pages.dev
+4-allocations-flarenetwork.pages.dev
 4-allocations-ponsfamily.pages.dev
 4-allowlist-ascendlaunch.pages.dev
 4-app.pages.dev
@@ -94013,7 +94014,6 @@ app-yieldbasis.online
 appsyncvalidator.online
 aptos-mine.online
 arbitrum123.online
-arc-ec.online
 arcadespase.online
 arcmarket.online
 arcmarkets.online

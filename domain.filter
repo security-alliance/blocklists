@@ -60935,6 +60935,7 @@
 ||4-allocation-umiafinance.pages.dev^$all
 ||4-allocation-yieldfields.pages.dev^$all
 ||4-allocations-abs.pages.dev^$all
+||4-allocations-flarenetwork.pages.dev^$all
 ||4-allocations-ponsfamily.pages.dev^$all
 ||4-allowlist-ascendlaunch.pages.dev^$all
 ||4-app.pages.dev^$all
@@ -94013,7 +94014,6 @@
 ||appsyncvalidator.online^$all
 ||aptos-mine.online^$all
 ||arbitrum123.online^$all
-||arc-ec.online^$all
 ||arcadespase.online^$all
 ||arcmarket.online^$all
 ||arcmarkets.online^$all
