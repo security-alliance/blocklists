@@ -49255,7 +49255,6 @@ globle-rubyy-io.wixstudio.com
 go-metmaskcdn.wixstudio.com
 goapps-netcoin-hub.wixstudio.com
 guide-jaxx-liberty.wixstudio.com
-guide-krkencdn.wixstudio.com
 guide-maskcdn.wixstudio.com
 guide-rabbycdn.wixstudio.com
 guide-rubbycd.wixstudio.com
