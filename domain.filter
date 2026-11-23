@@ -11716,7 +11716,6 @@
 ||vote-ethena.app^$all
 ||vote-ethfi.app^$all
 ||vote-firelightfinance.app^$all
-||vote-flare-network.app^$all
 ||vote-flarefoundation.app^$all
 ||vote-flaregovernance.app^$all
 ||vote-flarenetwork.app^$all
@@ -70904,6 +70903,7 @@
 ||polymarket-guru.pages.dev^$all
 ||polymarket-international-evidence.pages.dev^$all
 ||polymarket-invest-xyz-5odwy.pages.dev^$all
+||polymarket-manual.pages.dev^$all
 ||polymarket-migration.pages.dev^$all
 ||polymarket-migration-testing.pages.dev^$all
 ||polymarket-migrations.pages.dev^$all

@@ -11716,7 +11716,6 @@ vote-centrifuge.app
 vote-ethena.app
 vote-ethfi.app
 vote-firelightfinance.app
-vote-flare-network.app
 vote-flarefoundation.app
 vote-flaregovernance.app
 vote-flarenetwork.app
@@ -70904,6 +70903,7 @@ polymarket-farcaster.pages.dev
 polymarket-guru.pages.dev
 polymarket-international-evidence.pages.dev
 polymarket-invest-xyz-5odwy.pages.dev
+polymarket-manual.pages.dev
 polymarket-migration.pages.dev
 polymarket-migration-testing.pages.dev
 polymarket-migrations.pages.dev
