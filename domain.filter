@@ -70897,6 +70897,7 @@
 ||polymarket-checker.pages.dev^$all
 ||polymarket-daily-dashboard.pages.dev^$all
 ||polymarket-dashboard-1v9.pages.dev^$all
+||polymarket-edge.pages.dev^$all
 ||polymarket-event-page.pages.dev^$all
 ||polymarket-farcaster.pages.dev^$all
 ||polymarket-guru.pages.dev^$all
