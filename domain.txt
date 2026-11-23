@@ -10191,6 +10191,7 @@ eth-side-eeyllb760-glow-s-projects1.vercel.app
 ethcc-mg70dkhzj-ethereum-frances-projects.vercel.app
 ether-connect.vercel.app
 ethercompiler.vercel.app
+ethereum-jade.vercel.app
 etherfi-protocol-dex-relay-v172.vercel.app
 etherfi-protocol-dex-relay-v415.vercel.app
 etherfi-turbo-etherfi-corp.vercel.app
