@@ -30604,6 +30604,7 @@ data-protection-coinbase.com
 dataarchive-x.com
 datacompliancereview.com
 datafdn-wallet.com
+datapolymarket.com
 user.datapulsecloud.com
 user.datastartgateway.com
 datatopaz-ledger.com
@@ -32129,7 +32130,6 @@ exodus-eden.com
 exodus-en.com
 exodus-eng.com
 exodus-login.com
-exodus-myupdate.com
 exodus-plus.com
 exodus-pro.com
 exodus-safe.com
@@ -40407,6 +40407,7 @@ promo-sun.com
 promo-ww-desktop-app-join-now.com
 promo1-bitget.com
 promocion-gemini.com
+promocoderainbet.com
 promotion-polymarket.com
 prompt-google.com
 proof-openai.com
@@ -41350,6 +41351,7 @@ rainbettfr.com
 rainbetuk.com
 rainbetunitedkingdom.com
 rainbetusa.com
+rainbetuscode.com
 rainbetuspromocode.com
 rainbetusrewards.com
 rainbetv.com
