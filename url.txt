@@ -988,9 +988,6 @@ https://sites.google.com/view/krakennotlettingmeloginfixsign/home
 https://sites.google.com/view/krakentransactionfailedhelp/home
 https://sites.google.com/view/krakentransferpendingcausesfix
 https://sites.google.com/view/krakenwalletinfo/about
-https://sites.google.com/view/krakenwalletinfo/blogs/how-can-beginners-buy-pepe-pepe-coin-on-kraken
-https://sites.google.com/view/krakenwalletinfo/blogs/steps-to-fix-a-restricted-kraken-account
-https://sites.google.com/view/krakenwalletinfo/home
 https://sites.google.com/view/latform-extensions/home
 https://sites.google.com/view/ldger-live-to-metamask/home
 https://sites.google.com/view/ldgerlivemetamask/home
@@ -1080,7 +1077,6 @@ https://sites.google.com/view/loginmetam/home
 https://sites.google.com/view/loginmetamask-app/home
 https://sites.google.com/view/loginmetamaskwe/home
 https://sites.google.com/view/loginofficial-en/home
-https://sites.google.com/view/loginonkrakenwalletsign/home
 https://sites.google.com/view/logins-metamask/home
 https://sites.google.com/view/logn-metamask-web/home
 https://sites.google.com/view/logn-metamsk/home
