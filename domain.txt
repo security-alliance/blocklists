@@ -66616,6 +66616,7 @@ d161-coinbase-listing-677f.pages.dev
 d296-colnbase-listings-4f65.pages.dev
 d5d2-fa8e-5133-c0inbase-list.pages.dev
 d905-coinbase-listing-677f.pages.dev
+d9ae-coinbase-listing-677f.pages.dev
 daap-aerodrome.pages.dev
 dagyan-ledger.pages.dev
 daily-ledger-az5.pages.dev
@@ -78028,6 +78029,7 @@ sushis.global
 sushiswap.global
 tangem.global
 thorchain.global
+token2049.global
 trust-wallet.global
 trustcard.global
 trustwallet.global
