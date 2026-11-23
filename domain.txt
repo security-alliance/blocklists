@@ -46929,7 +46929,6 @@ vote-sofog.com
 vote-standardreserve.com
 vote-standx.com
 vote-starkbtc.com
-vote-starknet.com
 vote-teaprotocols.com
 vote-tradexyz.com
 vote-treadfi.com
