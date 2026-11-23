@@ -104343,7 +104343,6 @@ kwbf.team
 l1t.team
 l2tz.team
 l3gv.team
-livecall.team
 kraken.lmsd.team
 lpzg.team
 lqvd.team
