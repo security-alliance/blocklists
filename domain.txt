@@ -111004,7 +111004,6 @@ chyperliquid.xyz
 cionbase.xyz
 cirtea.xyz
 claim.citrea-airdrop.xyz
-citrea-claim.xyz
 citrea-claims.xyz
 citrea-distribution.xyz
 citrea-enter.xyz
