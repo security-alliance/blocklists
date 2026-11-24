@@ -36354,7 +36354,7 @@ ledgerguides.com
 ledgerinsure.com
 ledgerinsurewallet.com
 ledgerlive-appz.com
-ledgerlive-en.com
+www.ledgerlive-en.com
 ledgerlive-eu.com
 ledgerlivea.com
 ledgerlived.com
