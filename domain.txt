@@ -29295,6 +29295,7 @@ bitrefill.com-gift-cards-ont.com
 com-gift-cards-op.com
 com-gift-cards-pepe.com
 com-gift-cards-qnt.com
+bitrefill.com-gift-cards-qtum.com
 bitrefill.com-gift-cards-rune.com
 bitrefill.com-gift-cards-sand.com
 com-gift-cards-sei.com
