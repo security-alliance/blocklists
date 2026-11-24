@@ -1022,7 +1022,6 @@ aphold-logi.created.app
 app-upheld.created.app
 app-upheld-docs.created.app
 apps-uphled.created.app
-auth-upheld-logn.created.app
 auth-upheld-sso-en.created.app
 auth-upheld-us.created.app
 auth-uphld-log.created.app
@@ -1142,7 +1141,6 @@ sso-uphlld-help.created.app
 sso-uphuld-cdn.created.app
 sso-uphuld-nav-x-auth.created.app
 sso-uphuld-x-auth.created.app
-ssouphod-learn.created.app
 start-live-io.created.app
 start-uphuld-en.created.app
 support-uphoeld.created.app
