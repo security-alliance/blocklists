@@ -19068,7 +19068,6 @@ sui-name-service.stakingreward.cloud
 typus-finance.stakingreward.cloud
 us-cgpt.stakingreward.cloud
 us-link.stakingreward.cloud
-us-nexus-mutuals.stakingreward.cloud
 us-suins.stakingreward.cloud
 strata-markets.cloud
 strata-snapshot.cloud
