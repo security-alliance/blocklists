@@ -8577,6 +8577,7 @@
 ||season7-ethena.app^$all
 ||secbrain.app^$all
 ||secure-auth.app^$all
+||secure-base.app^$all
 ||secure-card.app^$all
 ||secure-inbox.app^$all
 ||secure-kinetlq.app^$all
@@ -29257,6 +29258,7 @@
 ||bitrefill.com-gift-cards-kava.com^$all
 ||bitrefill.com-gift-cards-ldo.com^$all
 ||com-gift-cards-link.com^$all
+||bitrefill.com-gift-cards-lrc.com^$all
 ||com-gift-cards-ltc.com^$all
 ||bitrefill.com-gift-cards-mana.com^$all
 ||bitrefill.com-gift-cards-mina.com^$all
@@ -36481,7 +36483,6 @@
 ||lido-hubs.com^$all
 ||lido-sv3.com^$all
 ||lidofinan.com^$all
-||lidofinance-v2.com^$all
 ||lidov3.com^$all
 ||lidovex.com^$all
 ||lienfiapp.com^$all
@@ -63436,6 +63437,7 @@
 ||620258715-lp-bonus-curvefinance.pages.dev^$all
 ||626f-colnbase-listings-4f65.pages.dev^$all
 ||6281-colnbase-listings-4f65.pages.dev^$all
+||62a8-482c-coinbase-listing.pages.dev^$all
 ||63-0xfluid.pages.dev^$all
 ||63-allocation-argus.pages.dev^$all
 ||63-allocation-yieldfields.pages.dev^$all
@@ -64841,6 +64843,7 @@
 ||88-venice.pages.dev^$all
 ||88-view-kinetiq.pages.dev^$all
 ||88-vote-orbio.pages.dev^$all
+||8819-aec4-5133-c0inbase-list.pages.dev^$all
 ||89-0xfluid.pages.dev^$all
 ||89-allocation-yieldfields.pages.dev^$all
 ||89-allowlist-ascendlaunch.pages.dev^$all

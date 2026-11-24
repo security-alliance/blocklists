@@ -8577,6 +8577,7 @@ season2-usdai.app
 season7-ethena.app
 secbrain.app
 secure-auth.app
+secure-base.app
 secure-card.app
 secure-inbox.app
 secure-kinetlq.app
@@ -29257,6 +29258,7 @@ bitrefill.com-gift-cards-inj.com
 bitrefill.com-gift-cards-kava.com
 bitrefill.com-gift-cards-ldo.com
 com-gift-cards-link.com
+bitrefill.com-gift-cards-lrc.com
 com-gift-cards-ltc.com
 bitrefill.com-gift-cards-mana.com
 bitrefill.com-gift-cards-mina.com
@@ -36481,7 +36483,6 @@ liddoao.com
 lido-hubs.com
 lido-sv3.com
 lidofinan.com
-lidofinance-v2.com
 lidov3.com
 lidovex.com
 lienfiapp.com
@@ -63436,6 +63437,7 @@ pr-7831.1inch-io-app.pages.dev
 620258715-lp-bonus-curvefinance.pages.dev
 626f-colnbase-listings-4f65.pages.dev
 6281-colnbase-listings-4f65.pages.dev
+62a8-482c-coinbase-listing.pages.dev
 63-0xfluid.pages.dev
 63-allocation-argus.pages.dev
 63-allocation-yieldfields.pages.dev
@@ -64841,6 +64843,7 @@ pr-7831.1inch-io-app.pages.dev
 88-venice.pages.dev
 88-view-kinetiq.pages.dev
 88-vote-orbio.pages.dev
+8819-aec4-5133-c0inbase-list.pages.dev
 89-0xfluid.pages.dev
 89-allocation-yieldfields.pages.dev
 89-allowlist-ascendlaunch.pages.dev
