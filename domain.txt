@@ -14266,6 +14266,7 @@ orbitrelaylogs.buzz
 payment-cash.buzz
 pharos.buzz
 ponsfamily.buzz
+predictex.buzz
 rainbet.buzz
 realtimefuturedev.buzz
 revolutipo.buzz
@@ -113015,6 +113016,7 @@ height-kite-core.xyz
 heliuss.xyz
 helmtrading.xyz
 heyaskr.xyz
+hipboard.xyz
 hipfunds.xyz
 hiptrade.xyz
 hktow.xyz
