@@ -1234,7 +1234,6 @@ uphold-loginm.created.app
 uphold-loginn.created.app
 uphold-loginre.created.app
 uphold-logio-web.created.app
-uphold-logix-en.created.app
 uphold-logln-us.created.app
 uphold-logln-website.created.app
 uphold-logn-en.created.app
