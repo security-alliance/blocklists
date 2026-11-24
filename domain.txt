@@ -51063,7 +51063,6 @@ trade-netcoin-log.wixstudio.com
 trade-rabbyapps.wixstudio.com
 trade-rabbycdn.wixstudio.com
 tradekrrkakencdn.wixstudio.com
-trades-krakn.wixstudio.com
 trades-krkakenscdn.wixstudio.com
 tradetoro.wixstudio.com
 treda-drift.wixstudio.com
