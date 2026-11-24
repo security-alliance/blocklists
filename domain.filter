@@ -1013,7 +1013,6 @@
 ||crates-xstocked.app^$all
 ||access-uphld.created.app^$all
 ||access-uphold-public-en.created.app^$all
-||ai-uphold.created.app^$all
 ||aphold-logi.created.app^$all
 ||app-upheld.created.app^$all
 ||app-upheld-docs.created.app^$all
@@ -1022,8 +1021,6 @@
 ||auth-upheld-us.created.app^$all
 ||auth-uphld-log.created.app^$all
 ||auth-uphld-login.created.app^$all
-||auth-uphold-en.created.app^$all
-||auth-uphold-sso.created.app^$all
 ||auth-upholld.created.app^$all
 ||blog-uphold.created.app^$all
 ||build-uphold.created.app^$all
@@ -1088,11 +1085,9 @@
 ||my-uphold-com.created.app^$all
 ||my-uphold-en.created.app^$all
 ||my-uphold-io.created.app^$all
-||my-uphold-logn.created.app^$all
 ||my-uphuld.created.app^$all
 ||nav-upheld-ai.created.app^$all
 ||nettcoins.created.app^$all
-||new-uphold.created.app^$all
 ||official-io-upheld.created.app^$all
 ||official-login-uphold.created.app^$all
 ||page-up-huld-io-cdn.created.app^$all
@@ -1108,7 +1103,6 @@
 ||rabbitx-exchange-landing-pa-821.created.app^$all
 ||raydiumm.created.app^$all
 ||secuere-upholde.created.app^$all
-||secure-en-up-huld-io.created.app^$all
 ||secure-login-uphold.created.app^$all
 ||secure-uphold.created.app^$all
 ||secure-uphold-en-eng.created.app^$all
@@ -1139,7 +1133,6 @@
 ||up-hold-enter.created.app^$all
 ||up-hold-io.created.app^$all
 ||up-hold-log-en.created.app^$all
-||up-hold-log-in.created.app^$all
 ||up-hold-logi.created.app^$all
 ||up-load-us-cnd.created.app^$all
 ||uph-old-logi.created.app^$all
@@ -1150,7 +1143,6 @@
 ||uphalds-eng.created.app^$all
 ||uphcld-en.created.app^$all
 ||uphd-logi-en.created.app^$all
-||upheld.created.app^$all
 ||upheld-ai.created.app^$all
 ||upheld-cdn.created.app^$all
 ||upheld-home.created.app^$all
@@ -1184,7 +1176,6 @@
 ||uphold-lgagin.created.app^$all
 ||uphold-lo-sew.created.app^$all
 ||uphold-log-doc.created.app^$all
-||uphold-log-enus.created.app^$all
 ||uphold-log-faq.created.app^$all
 ||uphold-log-in.created.app^$all
 ||uphold-log-setup.created.app^$all
@@ -1208,7 +1199,6 @@
 ||uphold-logine.created.app^$all
 ||uphold-loginese.created.app^$all
 ||uphold-loginm.created.app^$all
-||uphold-loginn.created.app^$all
 ||uphold-loginre.created.app^$all
 ||uphold-logio-web.created.app^$all
 ||uphold-logln-us.created.app^$all
@@ -1216,14 +1206,12 @@
 ||uphold-logn-en.created.app^$all
 ||uphold-logn-land.created.app^$all
 ||uphold-loin.created.app^$all
-||uphold-nav.created.app^$all
 ||uphold-review.created.app^$all
 ||uphold-sign-in.created.app^$all
 ||uphold-wailet-web.created.app^$all
 ||uphold-wallet-doc.created.app^$all
 ||uphold-wallet-oauth.created.app^$all
 ||uphold-wallet-webpage.created.app^$all
-||uphold-wallts.created.app^$all
 ||upholdapp.created.app^$all
 ||upholdauthlogn.created.app^$all
 ||upholdd.created.app^$all
@@ -1238,7 +1226,6 @@
 ||upholld.created.app^$all
 ||upholld-login-secure.created.app^$all
 ||upholld-web-en.created.app^$all
-||uphoold.created.app^$all
 ||uphoold-login.created.app^$all
 ||uphould-logn.created.app^$all
 ||uphould-logun.created.app^$all
