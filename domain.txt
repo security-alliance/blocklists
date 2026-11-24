@@ -30053,7 +30053,6 @@ cpcontacts.98-70-0-49.cprapid.com
 webdisk.98-70-0-49.cprapid.com
 cpcontacts.98-70-33-147.cprapid.com
 cpcalendars.98-70-36-140.cprapid.com
-cpcontacts.98-70-36-140.cprapid.com
 cptcoins.com
 cptpromx.com
 cpupps.com
