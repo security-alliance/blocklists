@@ -36247,7 +36247,7 @@ finance.lailen.com
 kzmoto.laipihou.com
 gatto.laketraviscavalettes.com
 login-coilnbase.lalicemed.com
-laluggage.com
+wildcard.laluggage.com
 lamboxapes-allocation.com
 lameridyenbeach.com
 lanch-coin.com
@@ -39883,6 +39883,7 @@ polymarket-labs.com
 m.polymarket-login.com
 polymarket-migration.com
 polymarket-monitor-cxyy.com
+polymarket-news.com
 polymarket-norway.com
 polymarket-on.com
 polymarket-platform.com
