@@ -1012,11 +1012,9 @@
 ||crates-usepaid.app^$all
 ||crates-xstocked.app^$all
 ||access-uphld.created.app^$all
-||access-uphold-public-en.created.app^$all
 ||aphold-logi.created.app^$all
 ||app-upheld.created.app^$all
 ||app-upheld-docs.created.app^$all
-||auth-upheld-us.created.app^$all
 ||auth-uphld-log.created.app^$all
 ||auth-uphld-login.created.app^$all
 ||auth-upholld.created.app^$all
@@ -1035,7 +1033,6 @@
 ||en-upheld-us.created.app^$all
 ||en-uphold.created.app^$all
 ||en-uphold-log.created.app^$all
-||en-upholdapp.created.app^$all
 ||en-upholdcom.created.app^$all
 ||en-uphuld-sso.created.app^$all
 ||en-us-upheld.created.app^$all
@@ -1057,7 +1054,6 @@
 ||help-uphold-io.created.app^$all
 ||home-uphold.created.app^$all
 ||home-upholde-sso.created.app^$all
-||homepageuphold.created.app^$all
 ||htx-logen.created.app^$all
 ||hub-uphold.created.app^$all
 ||intro-uphload.created.app^$all
@@ -1104,7 +1100,6 @@
 ||up-hold.created.app^$all
 ||up-hold-en-us.created.app^$all
 ||up-hold-enter.created.app^$all
-||up-hold-log-en.created.app^$all
 ||up-hold-logi.created.app^$all
 ||up-load-us-cnd.created.app^$all
 ||uph-old-logi.created.app^$all
@@ -1134,7 +1129,6 @@
 ||uphold-en-cdn.created.app^$all
 ||uphold-en-page.created.app^$all
 ||uphold-en-usa.created.app^$all
-||uphold-eng.created.app^$all
 ||uphold-ilogin-account.created.app^$all
 ||uphold-io.created.app^$all
 ||uphold-lo-sew.created.app^$all
@@ -1155,14 +1149,10 @@
 ||uphold-loginm.created.app^$all
 ||uphold-loginre.created.app^$all
 ||uphold-logio-web.created.app^$all
-||uphold-logln-us.created.app^$all
 ||uphold-logln-website.created.app^$all
-||uphold-logn-en.created.app^$all
 ||uphold-loin.created.app^$all
-||uphold-sign-in.created.app^$all
 ||uphold-wailet-web.created.app^$all
 ||uphold-wallet-doc.created.app^$all
-||uphold-wallet-oauth.created.app^$all
 ||uphold-wallet-webpage.created.app^$all
 ||upholdapp.created.app^$all
 ||upholddns.created.app^$all
@@ -1184,7 +1174,6 @@
 ||waletuphold.created.app^$all
 ||wallet-es-uphold.created.app^$all
 ||web-ddafilamba-support.created.app^$all
-||web-upholden-doc.created.app^$all
 ||web-upzlogin.created.app^$all
 ||welcome-uphelld-eng.created.app^$all
 ||welcome-uphold-webs.created.app^$all

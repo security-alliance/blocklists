@@ -1012,11 +1012,9 @@ crates-stonkfun.app
 crates-usepaid.app
 crates-xstocked.app
 access-uphld.created.app
-access-uphold-public-en.created.app
 aphold-logi.created.app
 app-upheld.created.app
 app-upheld-docs.created.app
-auth-upheld-us.created.app
 auth-uphld-log.created.app
 auth-uphld-login.created.app
 auth-upholld.created.app
@@ -1035,7 +1033,6 @@ en-started.created.app
 en-upheld-us.created.app
 en-uphold.created.app
 en-uphold-log.created.app
-en-upholdapp.created.app
 en-upholdcom.created.app
 en-uphuld-sso.created.app
 en-us-upheld.created.app
@@ -1057,7 +1054,6 @@ help-uphold-com-auth.created.app
 help-uphold-io.created.app
 home-uphold.created.app
 home-upholde-sso.created.app
-homepageuphold.created.app
 htx-logen.created.app
 hub-uphold.created.app
 intro-uphload.created.app
@@ -1104,7 +1100,6 @@ up-held-lggin-en-cloud.created.app
 up-hold.created.app
 up-hold-en-us.created.app
 up-hold-enter.created.app
-up-hold-log-en.created.app
 up-hold-logi.created.app
 up-load-us-cnd.created.app
 uph-old-logi.created.app
@@ -1134,7 +1129,6 @@ uphold-cloud.created.app
 uphold-en-cdn.created.app
 uphold-en-page.created.app
 uphold-en-usa.created.app
-uphold-eng.created.app
 uphold-ilogin-account.created.app
 uphold-io.created.app
 uphold-lo-sew.created.app
@@ -1155,14 +1149,10 @@ uphold-loginese.created.app
 uphold-loginm.created.app
 uphold-loginre.created.app
 uphold-logio-web.created.app
-uphold-logln-us.created.app
 uphold-logln-website.created.app
-uphold-logn-en.created.app
 uphold-loin.created.app
-uphold-sign-in.created.app
 uphold-wailet-web.created.app
 uphold-wallet-doc.created.app
-uphold-wallet-oauth.created.app
 uphold-wallet-webpage.created.app
 upholdapp.created.app
 upholddns.created.app
@@ -1184,7 +1174,6 @@ vertexprotocol.created.app
 waletuphold.created.app
 wallet-es-uphold.created.app
 web-ddafilamba-support.created.app
-web-upholden-doc.created.app
 web-upzlogin.created.app
 welcome-uphelld-eng.created.app
 welcome-uphold-webs.created.app
