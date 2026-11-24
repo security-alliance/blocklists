@@ -44908,7 +44908,6 @@
 ||treasury-mx.com^$all
 ||treasury-netnetcapital.com^$all
 ||treasury-plasmafoundation.com^$all
-||treasury-pool-flarenetwork.com^$all
 ||treasury-prjx.com^$all
 ||treasury-quantnetwork.com^$all
 ||treasury-spx-6900.com^$all
@@ -44920,7 +44919,6 @@
 ||treasurypool-palmai.com^$all
 ||treasurypools-firelight.com^$all
 ||treasurys-pool-flarenetwork.com^$all
-||treasuryspools-flarenetwork.com^$all
 ||treasurystellar.com^$all
 ||treckao-sn.com^$all
 ||trecke-rx.com^$all
@@ -66442,6 +66440,7 @@
 ||coiinbse--pro-loggon.pages.dev^$all
 ||coin-base--pro.pages.dev^$all
 ||coin-base-com.pages.dev^$all
+||coin-base-com-x-auth.pages.dev^$all
 ||xcre7vlo6y.coin-base-en-logn.pages.dev^$all
 ||coin-base-en-us-ib.pages.dev^$all
 ||coin-base-ext-ension.pages.dev^$all
