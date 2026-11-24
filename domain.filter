@@ -29293,6 +29293,7 @@
 ||com-gift-cards-lrc.com^$all
 ||com-gift-cards-ltc.com^$all
 ||bitrefill.com-gift-cards-mana.com^$all
+||bitrefill.com-gift-cards-mask.com^$all
 ||com-gift-cards-mina.com^$all
 ||bitrefill.com-gift-cards-mkr.com^$all
 ||com-gift-cards-near.com^$all
@@ -107984,7 +107985,6 @@
 ||agc-mm.us^$all
 ||aibios.us^$all
 ||aiinvest.us^$all
-||malbeclabs.airdropsalert.us^$all
 ||paltalabs.airdropsalert.us^$all
 ||airdropworldliberty.us^$all
 ||alert-photo.us^$all

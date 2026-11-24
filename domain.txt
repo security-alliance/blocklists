@@ -29293,6 +29293,7 @@ com-gift-cards-link.com
 com-gift-cards-lrc.com
 com-gift-cards-ltc.com
 bitrefill.com-gift-cards-mana.com
+bitrefill.com-gift-cards-mask.com
 com-gift-cards-mina.com
 bitrefill.com-gift-cards-mkr.com
 com-gift-cards-near.com
@@ -107984,7 +107985,6 @@ ae-zoom.us
 agc-mm.us
 aibios.us
 aiinvest.us
-malbeclabs.airdropsalert.us
 paltalabs.airdropsalert.us
 airdropworldliberty.us
 alert-photo.us
