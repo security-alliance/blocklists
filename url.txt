@@ -282,6 +282,7 @@ https://sites.google.com/view/coinbase-customer-query/coin-help-base
 https://sites.google.com/view/coinbase-desktop/home
 https://sites.google.com/view/coinbase-digita/home
 https://sites.google.com/view/coinbase-digital-/home
+https://sites.google.com/view/coinbase-digital-assets/home
 https://sites.google.com/view/coinbase-doc/home
 https://sites.google.com/view/coinbase-egetting/home
 https://sites.google.com/view/coinbase-eu/home
@@ -486,6 +487,7 @@ https://sites.google.com/view/coinbsee-pro-digital/home
 https://sites.google.com/view/coinbsee-pro-digitalen/home
 https://sites.google.com/view/coinbsepro-digital-en/home
 https://sites.google.com/view/coinbsepro-logo/home
+https://sites.google.com/view/coinbsepro-server/home
 https://sites.google.com/view/coinbsse-wallet-docs/home
 https://sites.google.com/view/coineextwallet/home
 https://sites.google.com/view/coinextension-apps/home
@@ -889,6 +891,7 @@ https://sites.google.com/view/hubpro-en-com/home
 https://sites.google.com/view/hubpro-max/home
 https://sites.google.com/view/hubprocom-web/home
 https://sites.google.com/view/hubqoin-en-us/home
+https://sites.google.com/view/hubs-qoinbase-en/home
 https://sites.google.com/view/install-metamask/home
 https://sites.google.com/view/install-metmask-en/home
 https://sites.google.com/view/instalmeta/home
@@ -991,6 +994,7 @@ https://sites.google.com/view/learn-metamssk/home
 https://sites.google.com/view/learn-metmask-eng/home
 https://sites.google.com/view/learn-metmask/home
 https://sites.google.com/view/learn-mettamsk/home
+https://sites.google.com/view/learncoinbse-console/home
 https://sites.google.com/view/learncoinbse-pro/home
 https://sites.google.com/view/learned-coinbase/home
 https://sites.google.com/view/learningn/home
@@ -1419,11 +1423,13 @@ https://sites.google.com/view/privatekeyrecovery/home
 https://sites.google.com/view/pro-coinbas-logon/home
 https://sites.google.com/view/pro-coinbaslogin/home
 https://sites.google.com/view/pro-digita/home
+https://sites.google.com/view/pro-digital-qoin/home
 https://sites.google.com/view/pro-digtal/home
 https://sites.google.com/view/pro-extension-en/home
 https://sites.google.com/view/pro-logn-coin/home
 https://sites.google.com/view/pro-us/home
 https://sites.google.com/view/procoinbased-new/home
+https://sites.google.com/view/procoinbse--apps/home
 https://sites.google.com/view/procoinpro-home/home
 https://sites.google.com/view/prodigital--qoinvase/home
 https://sites.google.com/view/prodigital-coinbse/home
@@ -1621,6 +1627,7 @@ https://sites.google.com/view/view-metmask-extension/home
 https://sites.google.com/view/view-metmask-extn/home
 https://sites.google.com/view/viewbase-extension/home
 https://sites.google.com/view/vmwelaherj
+https://sites.google.com/view/wall-exten/home
 https://sites.google.com/view/wallet-coibs/home
 https://sites.google.com/view/wallet-extension--/home
 https://sites.google.com/view/wallet-home-qoinbase/home
