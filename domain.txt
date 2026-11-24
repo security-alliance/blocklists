@@ -8978,6 +8978,7 @@ eng-trzor-wlc-sso.typedream.app
 eng_trezor-io-start.typedream.app
 enhelp-trezo-learn.typedream.app
 es-trezor--io-logins.typedream.app
+exchange-baseswap-dex.typedream.app
 exo-dus-en.typedream.app
 faq-app-trzor-suite.typedream.app
 faq-begin-trezorio-us.typedream.app
@@ -36601,7 +36602,6 @@ lobstrdesktopapp.com
 lobstrhelp.com
 lobstrlumendigitalledger.com
 lobstrsecurityasset.com
-lobstrstellarledger.com
 localbizintelligence.com
 localchange.com
 localusashop.com
