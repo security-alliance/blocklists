@@ -1030,14 +1030,12 @@
 ||domain-uphold-web.created.app^$all
 ||en-started.created.app^$all
 ||en-upheld-us.created.app^$all
-||en-uphold.created.app^$all
 ||en-uphold-log.created.app^$all
 ||en-upholdcom.created.app^$all
 ||en-uphuld-sso.created.app^$all
 ||en-us-upheld.created.app^$all
 ||en-us-uphld-app.created.app^$all
 ||en-us-uphold-eng.created.app^$all
-||eng-uphold-cdn.created.app^$all
 ||eng-uphulld-webs.created.app^$all
 ||engdesktop.created.app^$all
 ||enguphold-cdn.created.app^$all
@@ -1070,7 +1068,6 @@
 ||portal-enterprise-uphold-com.created.app^$all
 ||portal-upheld.created.app^$all
 ||portal-uphold-cdn.created.app^$all
-||portal-uphold-web-us.created.app^$all
 ||procoinbasesignin.created.app^$all
 ||public-upheld-sso.created.app^$all
 ||ra-bby.created.app^$all
@@ -1078,7 +1075,6 @@
 ||raydiumm.created.app^$all
 ||secuere-upholde.created.app^$all
 ||secure-uphold.created.app^$all
-||secure-uphold-en-eng.created.app^$all
 ||secure-uphold-login.created.app^$all
 ||sign-uphold.created.app^$all
 ||sso-io-uphold.created.app^$all
@@ -1095,7 +1091,6 @@
 ||trust-walt-ext.created.app^$all
 ||up-held-lggin-en-cloud.created.app^$all
 ||up-hold.created.app^$all
-||up-hold-en-us.created.app^$all
 ||up-hold-enter.created.app^$all
 ||up-hold-logi.created.app^$all
 ||up-load-us-cnd.created.app^$all
@@ -1146,7 +1141,6 @@
 ||uphold-logln-website.created.app^$all
 ||uphold-loin.created.app^$all
 ||uphold-wailet-web.created.app^$all
-||uphold-wallet-doc.created.app^$all
 ||uphold-wallet-webpage.created.app^$all
 ||upholdapp.created.app^$all
 ||upholddns.created.app^$all
@@ -1157,7 +1151,6 @@
 ||upholedd-login.created.app^$all
 ||upholld-login-secure.created.app^$all
 ||upholld-web-en.created.app^$all
-||uphoold-login.created.app^$all
 ||uphould-logn.created.app^$all
 ||uphuld-login.created.app^$all
 ||upihold-wailet-en.created.app^$all
