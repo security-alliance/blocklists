@@ -1063,14 +1063,12 @@ page-up-huld-io-cdn.created.app
 phantmwallt.created.app
 portal-enterprise-uphold-com.created.app
 portal-upheld.created.app
-portal-uphold-cdn.created.app
 procoinbasesignin.created.app
 public-upheld-sso.created.app
 ra-bby.created.app
 rabbitx-exchange-landing-pa-821.created.app
 raydiumm.created.app
 secuere-upholde.created.app
-secure-uphold.created.app
 secure-uphold-login.created.app
 sign-uphold.created.app
 sso-io-uphold.created.app
@@ -1110,7 +1108,6 @@ uphldlog.created.app
 uphlldlogn.created.app
 uphold--cloud.created.app
 uphold-admin.created.app
-uphold-cloud.created.app
 uphold-en-cdn.created.app
 uphold-en-page.created.app
 uphold-ilogin-account.created.app
@@ -1132,7 +1129,6 @@ uphold-logine.created.app
 uphold-loginese.created.app
 uphold-loginm.created.app
 uphold-logio-web.created.app
-uphold-logln-website.created.app
 uphold-loin.created.app
 uphold-wallet-webpage.created.app
 upholddns.created.app
