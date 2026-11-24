@@ -1100,7 +1100,6 @@
 ||start-uphuld-en.created.app^$all
 ||support-uphold.created.app^$all
 ||support-uphold-web.created.app^$all
-||t-uphols-cdn.created.app^$all
 ||teacl-uphild-web.created.app^$all
 ||trust-org.created.app^$all
 ||trust-walt-ext.created.app^$all
@@ -1151,12 +1150,10 @@
 ||uphold-logi.created.app^$all
 ||uphold-logi-eng.created.app^$all
 ||uphold-logi-org.created.app^$all
-||uphold-login-app.created.app^$all
 ||uphold-login-cdn.created.app^$all
 ||uphold-login-doc.created.app^$all
 ||uphold-login-docs-app.created.app^$all
 ||uphold-login-eng.created.app^$all
-||uphold-login-nav.created.app^$all
 ||uphold-login-org.created.app^$all
 ||uphold-login-uss.created.app^$all
 ||uphold-logine.created.app^$all
@@ -1167,7 +1164,6 @@
 ||uphold-logln-us.created.app^$all
 ||uphold-logln-website.created.app^$all
 ||uphold-logn-en.created.app^$all
-||uphold-logn-land.created.app^$all
 ||uphold-loin.created.app^$all
 ||uphold-sign-in.created.app^$all
 ||uphold-wailet-web.created.app^$all
@@ -1188,7 +1184,6 @@
 ||uphoold-login.created.app^$all
 ||uphould-logn.created.app^$all
 ||uphuld-login.created.app^$all
-||uphulld.created.app^$all
 ||upihold-wailet-en.created.app^$all
 ||upihold-wallet-web.created.app^$all
 ||upld-login-co.created.app^$all
@@ -1197,7 +1192,6 @@
 ||waletuphold.created.app^$all
 ||wallet-es-uphold.created.app^$all
 ||web-ddafilamba-support.created.app^$all
-||web-uphold-com.created.app^$all
 ||web-upholden-doc.created.app^$all
 ||web-upzlogin.created.app^$all
 ||welcome-uphelld-eng.created.app^$all
@@ -64763,6 +64757,7 @@
 ||832-proposal-lisk.pages.dev^$all
 ||8321-proposal-injective.pages.dev^$all
 ||8354-70a1-5133-cb-listings.pages.dev^$all
+||8385-482c-coinbase-listing.pages.dev^$all
 ||84-0xfluid.pages.dev^$all
 ||84-allocation-yieldfields.pages.dev^$all
 ||84-allowlist-ascendlaunch.pages.dev^$all

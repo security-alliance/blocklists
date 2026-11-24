@@ -1100,7 +1100,6 @@ start-live-io.created.app
 start-uphuld-en.created.app
 support-uphold.created.app
 support-uphold-web.created.app
-t-uphols-cdn.created.app
 teacl-uphild-web.created.app
 trust-org.created.app
 trust-walt-ext.created.app
@@ -1151,12 +1150,10 @@ uphold-logen.created.app
 uphold-logi.created.app
 uphold-logi-eng.created.app
 uphold-logi-org.created.app
-uphold-login-app.created.app
 uphold-login-cdn.created.app
 uphold-login-doc.created.app
 uphold-login-docs-app.created.app
 uphold-login-eng.created.app
-uphold-login-nav.created.app
 uphold-login-org.created.app
 uphold-login-uss.created.app
 uphold-logine.created.app
@@ -1167,7 +1164,6 @@ uphold-logio-web.created.app
 uphold-logln-us.created.app
 uphold-logln-website.created.app
 uphold-logn-en.created.app
-uphold-logn-land.created.app
 uphold-loin.created.app
 uphold-sign-in.created.app
 uphold-wailet-web.created.app
@@ -1188,7 +1184,6 @@ upholld-web-en.created.app
 uphoold-login.created.app
 uphould-logn.created.app
 uphuld-login.created.app
-uphulld.created.app
 upihold-wailet-en.created.app
 upihold-wallet-web.created.app
 upld-login-co.created.app
@@ -1197,7 +1192,6 @@ vertexprotocol.created.app
 waletuphold.created.app
 wallet-es-uphold.created.app
 web-ddafilamba-support.created.app
-web-uphold-com.created.app
 web-upholden-doc.created.app
 web-upzlogin.created.app
 welcome-uphelld-eng.created.app
@@ -64763,6 +64757,7 @@ pr-7831.1inch-io-app.pages.dev
 832-proposal-lisk.pages.dev
 8321-proposal-injective.pages.dev
 8354-70a1-5133-cb-listings.pages.dev
+8385-482c-coinbase-listing.pages.dev
 84-0xfluid.pages.dev
 84-allocation-yieldfields.pages.dev
 84-allowlist-ascendlaunch.pages.dev
