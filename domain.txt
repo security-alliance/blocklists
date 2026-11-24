@@ -1061,7 +1061,6 @@ en-us-uphld-portal.created.app
 en-us-uphold-eng.created.app
 eng-uphold.created.app
 eng-uphold-cdn.created.app
-eng-uphold-sso.created.app
 eng-upholdd.created.app
 eng-uphulld-webs.created.app
 engdesktop.created.app
@@ -79336,6 +79335,7 @@ vote.keeta-allocations.icu
 keetanetwork.icu
 kilmaingoal.icu
 kimgkwbggmotptk9kk1q0vv.icu
+kinetiq.icu
 governance.kinetiq-distribution.icu
 governance.kinetiq-proposal.icu
 kinetiqgov.icu

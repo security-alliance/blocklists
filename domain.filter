@@ -1061,7 +1061,6 @@
 ||en-us-uphold-eng.created.app^$all
 ||eng-uphold.created.app^$all
 ||eng-uphold-cdn.created.app^$all
-||eng-uphold-sso.created.app^$all
 ||eng-upholdd.created.app^$all
 ||eng-uphulld-webs.created.app^$all
 ||engdesktop.created.app^$all
@@ -79336,6 +79335,7 @@
 ||keetanetwork.icu^$all
 ||kilmaingoal.icu^$all
 ||kimgkwbggmotptk9kk1q0vv.icu^$all
+||kinetiq.icu^$all
 ||governance.kinetiq-distribution.icu^$all
 ||governance.kinetiq-proposal.icu^$all
 ||kinetiqgov.icu^$all
