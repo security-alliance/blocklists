@@ -66242,6 +66242,7 @@ c02d-colnbase-listings-4f65.pages.dev
 c591-fa8e-5133-c0inbase-list.pages.dev
 c5d7-fa8e-5133-c0inbase-list.pages.dev
 c604-fa8e-5133-c0inbase-list.pages.dev
+c63f-4c29-5133-c0inbase-list.pages.dev
 c663-482c-coinbase-listing.pages.dev
 c7c1-fa8e-5133-c0inbase-list.pages.dev
 c89b-colnbase-listings-4f65.pages.dev
@@ -67406,7 +67407,6 @@ en-us-desktop-ledgre-io.pages.dev
 en-us-desktop-ledgrlive.pages.dev
 en-us-desktop-ledgrur.pages.dev
 en-us-doc-exdus-web3.pages.dev
-en-us-docs-exodusweb3.pages.dev
 en-us-dsaktop-ledgre.pages.dev
 en-us-dsk-ledgr.pages.dev
 en-us-exodes.pages.dev
