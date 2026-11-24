@@ -47383,7 +47383,6 @@ web3exblock.com
 web3exodusfixer.com
 web3flasharb.com
 web3ftk.com
-web3guardvault.com
 web3holdsite.com
 web3hubnet.com
 web3jpa.com
@@ -64890,6 +64889,7 @@ pr-7831.1inch-io-app.pages.dev
 89-venice.pages.dev
 89-view-kinetiq.pages.dev
 89-vote-orbio.pages.dev
+890f-colnbase-listings-4f65.pages.dev
 8932-go.pages.dev
 89755412346.pages.dev
 8cd5-coinbase-listing-677f.pages.dev
@@ -65367,6 +65367,7 @@ a1c7-coinbase-listing-677f.pages.dev
 a41c-fa8e-5133-c0inbase-list.pages.dev
 a480-colnbase-listings-4f65.pages.dev
 a749-fa8e-5133-c0inbase-list.pages.dev
+a812-cbc0-coinbase-listing.pages.dev
 a836-fa8e-5133-c0inbase-list.pages.dev
 a845-colnbase-listings-4f65.pages.dev
 aave-allocations.pages.dev
