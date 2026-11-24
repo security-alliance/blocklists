@@ -700,7 +700,6 @@ allocation-teaprotocol.app
 allocation-umbra.app
 allocation-umbraprivacy.app
 allocation-usepaid.app
-allocation-variational.app
 allocation-window.app
 allocation-xarnan.app
 allocation-xrp.app
