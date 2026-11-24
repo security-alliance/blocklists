@@ -10913,6 +10913,7 @@
 ||project-hub-endpoint.vercel.app^$all
 ||projeto-coinbase.vercel.app^$all
 ||promociones-ubii-credito.vercel.app^$all
+||propfi.vercel.app^$all
 ||protocol-connection.vercel.app^$all
 ||protocol-csso.vercel.app^$all
 ||protocol-iwae.vercel.app^$all
@@ -81351,7 +81352,6 @@
 ||pepper-exchange.info^$all
 ||perdue-exchange.info^$all
 ||phantexten.info^$all
-||phantextrr.info^$all
 ||phantexts.info^$all
 ||phantexx.info^$all
 ||phantomops.info^$all
