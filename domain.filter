@@ -12537,7 +12537,6 @@
 ||kfcu.at^$all
 ||lbank-web3.at^$all
 ||ledger-app.at^$all
-||ledgers.at^$all
 ||lidofinance-en.at^$all
 ||logixbanking.at^$all
 ||maker-app.at^$all
@@ -86797,7 +86796,6 @@
 ||plasma-allocations.life^$all
 ||plasma-rewards.life^$all
 ||plasma-staking.life^$all
-||pointscheck.life^$all
 ||polymarcket.life^$all
 ||ponsfamily.life^$all
 ||pools-yieldbasis.life^$all
@@ -110956,7 +110954,6 @@
 ||check-ore-rewards.xyz^$all
 ||check-ore-token.xyz^$all
 ||check-otc.xyz^$all
-||check-points.xyz^$all
 ||soltice.check-rewards.xyz^$all
 ||check-stonkfun.xyz^$all
 ||check-varational.xyz^$all

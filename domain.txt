@@ -12537,7 +12537,6 @@ jupiterswp.at
 kfcu.at
 lbank-web3.at
 ledger-app.at
-ledgers.at
 lidofinance-en.at
 logixbanking.at
 maker-app.at
@@ -86797,7 +86796,6 @@ phase2-firelight.life
 plasma-allocations.life
 plasma-rewards.life
 plasma-staking.life
-pointscheck.life
 polymarcket.life
 ponsfamily.life
 pools-yieldbasis.life
@@ -110956,7 +110954,6 @@ check-ore-governances.xyz
 check-ore-rewards.xyz
 check-ore-token.xyz
 check-otc.xyz
-check-points.xyz
 soltice.check-rewards.xyz
 check-stonkfun.xyz
 check-varational.xyz
