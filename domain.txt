@@ -388,7 +388,6 @@ wallets-exodus-starts.framer.ai
 web-trzor-wallet-io.framer.ai
 web3-eoxdus.framer.ai
 webpage-terzr-io-cdn.framer.ai
-webupholds.framer.ai
 what-is-ethereum.framer.ai
 www-swap-interface.framer.ai
 www-trezorsuitehub.framer.ai
