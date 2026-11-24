@@ -95432,7 +95432,6 @@ cloudmeetly.org
 cloudnexuslab.org
 cmegp.org
 co-auth.org
-coachjv.org
 cobase-extension.org
 coin-bonus.org
 coin-trust.org
@@ -96222,7 +96221,6 @@ morphgo.org
 morphjo.org
 morphk.org
 morpho-market.org
-admin.morphocoin.org
 oks.morphocoin.org
 morphoi.org
 morphoprograms.org
