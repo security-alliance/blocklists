@@ -1037,7 +1037,6 @@ en-uphold.created.app
 en-uphold-log.created.app
 en-upholdapp.created.app
 en-upholdcom.created.app
-en-uphuld-ai.created.app
 en-uphuld-sso.created.app
 en-us-upheld.created.app
 en-us-uphld-app.created.app
