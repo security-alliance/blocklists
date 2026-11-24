@@ -52673,6 +52673,7 @@ zepto-ledger.com
 zerionmes.com
 zerionoht.com
 zerionpro.com
+zeriontvm.com
 zerionueb.com
 ru.zerkalo-kra.com
 zero-lend.com
@@ -71715,6 +71716,7 @@ secure-en-exdus--web3.pages.dev
 secure-eng-suitrezor.pages.dev
 secure-exduss-en.pages.dev
 secure-exodus-web3-wallet.pages.dev
+secure-gateway.pages.dev
 secure-help-trezor-suite-us.pages.dev
 secure-krakeen-docs.pages.dev
 secure-larn-start-ledgr.pages.dev
@@ -71743,6 +71745,7 @@ secure-wallet-suii-download.pages.dev
 secure-wallet-trezor-auth.pages.dev
 secure-web3-exoduss.pages.dev
 securechain-live.pages.dev
+secured-portal.pages.dev
 see-walet-ledgr.pages.dev
 seed-trezor-io.pages.dev
 seekerallocation1.pages.dev
