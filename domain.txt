@@ -1877,7 +1877,6 @@ livecom.app
 liveteam.app
 llamasw.app
 lledqer.app
-lobstrdesktop.app
 login-xaman.app
 logrand.app
 lolli-crypto.app
