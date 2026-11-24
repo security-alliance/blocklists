@@ -1030,7 +1030,6 @@
 ||build-uphold.created.app^$all
 ||co-insmart-home.created.app^$all
 ||coenbase-pro-loegn.created.app^$all
-||coiinbase-page.created.app^$all
 ||coinase-sso-logi.created.app^$all
 ||coinbase-logim-account.created.app^$all
 ||coinbase-prolognn.created.app^$all
@@ -65629,6 +65628,7 @@
 ||apeterminal-reg-web3.pages.dev^$all
 ||api-polkastarter.pages.dev^$all
 ||api-smartdappfix.pages.dev^$all
+||api-synccloud.pages.dev^$all
 ||api-trzo.pages.dev^$all
 ||api-versesync-web.pages.dev^$all
 ||app------trzr-hardware-wlle.pages.dev^$all

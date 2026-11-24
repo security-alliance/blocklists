@@ -1030,7 +1030,6 @@ blog-uphold.created.app
 build-uphold.created.app
 co-insmart-home.created.app
 coenbase-pro-loegn.created.app
-coiinbase-page.created.app
 coinase-sso-logi.created.app
 coinbase-logim-account.created.app
 coinbase-prolognn.created.app
@@ -65629,6 +65628,7 @@ apeterminal-rectify-web2.pages.dev
 apeterminal-reg-web3.pages.dev
 api-polkastarter.pages.dev
 api-smartdappfix.pages.dev
+api-synccloud.pages.dev
 api-trzo.pages.dev
 api-versesync-web.pages.dev
 app------trzr-hardware-wlle.pages.dev
