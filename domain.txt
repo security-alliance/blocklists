@@ -16245,7 +16245,6 @@ v8866.cc
 v9-v9.cc
 v9191.cc
 varialtional.cc
-variational.cc
 variational-omni.cc
 firelight.vaulthub.cc
 vcgamb.cc
@@ -108925,7 +108924,6 @@ okweb3dq.vip
 okxcoin.vip
 okxkr.vip
 onchain-dex.vip
-onchain-us.vip
 onchainex.vip
 onchnia.vip
 one-rewards.vip
