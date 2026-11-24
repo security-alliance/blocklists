@@ -1070,7 +1070,6 @@
 ||hashpackweb3-wallet.created.app^$all
 ||help-uphold-com-auth.created.app^$all
 ||help-uphold-io.created.app^$all
-||help-upholsd.created.app^$all
 ||home-uphold.created.app^$all
 ||home-uphold-web.created.app^$all
 ||home-upholde-sso.created.app^$all

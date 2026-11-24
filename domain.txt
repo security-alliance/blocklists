@@ -1070,7 +1070,6 @@ hashpackwallet-es.created.app
 hashpackweb3-wallet.created.app
 help-uphold-com-auth.created.app
 help-uphold-io.created.app
-help-upholsd.created.app
 home-uphold.created.app
 home-uphold-web.created.app
 home-upholde-sso.created.app
