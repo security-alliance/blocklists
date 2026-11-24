@@ -1134,7 +1134,6 @@
 ||up-hold-logi.created.app^$all
 ||up-load-us-cnd.created.app^$all
 ||uph-old-logi.created.app^$all
-||uphald-app.created.app^$all
 ||uphald-app-ai.created.app^$all
 ||uphald-login-en.created.app^$all
 ||uphald-logn-eng.created.app^$all
@@ -1208,7 +1207,6 @@
 ||uphold-wallet-oauth.created.app^$all
 ||uphold-wallet-webpage.created.app^$all
 ||upholdapp.created.app^$all
-||upholdauthlogn.created.app^$all
 ||upholdd.created.app^$all
 ||upholdd-home.created.app^$all
 ||upholddns.created.app^$all

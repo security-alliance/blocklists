@@ -1134,7 +1134,6 @@ up-hold-log-en.created.app
 up-hold-logi.created.app
 up-load-us-cnd.created.app
 uph-old-logi.created.app
-uphald-app.created.app
 uphald-app-ai.created.app
 uphald-login-en.created.app
 uphald-logn-eng.created.app
@@ -1208,7 +1207,6 @@ uphold-wallet-doc.created.app
 uphold-wallet-oauth.created.app
 uphold-wallet-webpage.created.app
 upholdapp.created.app
-upholdauthlogn.created.app
 upholdd.created.app
 upholdd-home.created.app
 upholddns.created.app
