@@ -1062,7 +1062,6 @@
 ||page-up-huld-io-cdn.created.app^$all
 ||phantmwallt.created.app^$all
 ||portal-enterprise-uphold-com.created.app^$all
-||portal-upheld.created.app^$all
 ||procoinbasesignin.created.app^$all
 ||public-upheld-sso.created.app^$all
 ||ra-bby.created.app^$all
@@ -1112,12 +1111,10 @@
 ||uphold-en-page.created.app^$all
 ||uphold-ilogin-account.created.app^$all
 ||uphold-io.created.app^$all
-||uphold-lo-sew.created.app^$all
 ||uphold-log-doc.created.app^$all
 ||uphold-log-faq.created.app^$all
 ||uphold-log-us.created.app^$all
 ||uphold-logen.created.app^$all
-||uphold-logi.created.app^$all
 ||uphold-logi-eng.created.app^$all
 ||uphold-logi-org.created.app^$all
 ||uphold-login-cdn.created.app^$all

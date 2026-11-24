@@ -1062,7 +1062,6 @@ official-io-upheld.created.app
 page-up-huld-io-cdn.created.app
 phantmwallt.created.app
 portal-enterprise-uphold-com.created.app
-portal-upheld.created.app
 procoinbasesignin.created.app
 public-upheld-sso.created.app
 ra-bby.created.app
@@ -1112,12 +1111,10 @@ uphold-en-cdn.created.app
 uphold-en-page.created.app
 uphold-ilogin-account.created.app
 uphold-io.created.app
-uphold-lo-sew.created.app
 uphold-log-doc.created.app
 uphold-log-faq.created.app
 uphold-log-us.created.app
 uphold-logen.created.app
-uphold-logi.created.app
 uphold-logi-eng.created.app
 uphold-logi-org.created.app
 uphold-login-cdn.created.app
