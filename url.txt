@@ -293,7 +293,6 @@ https://sites.google.com/view/coinbase-eu/home
 https://sites.google.com/view/coinbase-explore/home
 https://sites.google.com/view/coinbase-ext-app/home
 https://sites.google.com/view/coinbase-ext-us/home
-https://sites.google.com/view/coinbase-ext-web/home
 https://sites.google.com/view/coinbase-extansion/home
 https://sites.google.com/view/coinbase-exte/home
 https://sites.google.com/view/coinbase-extein/home
@@ -513,7 +512,6 @@ https://sites.google.com/view/comproextension/home
 https://sites.google.com/view/conbase-chrm/home
 https://sites.google.com/view/conbase-pro/home
 https://sites.google.com/view/conbse-wallets/home
-https://sites.google.com/view/connect-base-extension/home
 https://sites.google.com/view/connect-bitbuycd-/home
 https://sites.google.com/view/connect-en-metmask/home
 https://sites.google.com/view/connect-metamaskiohelp/home
