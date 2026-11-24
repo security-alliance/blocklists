@@ -47925,7 +47925,6 @@ apps-krakunn.wixstudio.com
 apps-krakunusa.wixstudio.com
 apps-krckancdn.wixstudio.com
 apps-krekan-ai.wixstudio.com
-apps-krekann-io.wixstudio.com
 apps-krekn-gr.wixstudio.com
 apps-krkan-ai.wixstudio.com
 apps-krkanecdn.wixstudio.com
