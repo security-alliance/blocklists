@@ -44466,7 +44466,6 @@ ticket-managements-apple.com
 ticket-pages.com
 ticket-trezor.com
 ticket-trustwallet.com
-ticket2249-binance.com
 ticketapi-google.com
 ticketcase-x.com
 ticketcenter-icloud.com
@@ -53517,7 +53516,6 @@ hfelge.de
 hl247.de
 iebalregera.de
 immobile-candis.de
-coinbase.jmx.de
 job-google.de
 jtxtra.de
 kapterzora-ki.de
@@ -53736,6 +53734,7 @@ orbitprotocol.dev
 oskarkregar.dev
 01a9-colnbase-listings-4f65.pages.dev
 0268-coinbase-listing-677f.pages.dev
+064a-fa8e-5133-c0inbase-list.pages.dev
 0788-fa8e-5133-c0inbase-list.pages.dev
 0886-fa8e-5133-c0inbase-list.pages.dev
 0afd-coinbase-listing-677f.pages.dev
@@ -65522,7 +65521,6 @@ allocation-zipcoin.pages.dev
 allocations-abs.pages.dev
 allocations-firelightfi.pages.dev
 allocations-flarenetwork.pages.dev
-allocations-mecom.pages.dev
 allocations-ponsfamily.pages.dev
 allow-live-ledgr.pages.dev
 allowlist-ascendlaunch.pages.dev
@@ -80281,7 +80279,6 @@ pikashowofficial.com.in
 pikashowsapks.com.in
 pikashowt.com.in
 pikashowweb.com.in
-polymarket.com.in
 spotifyapk.com.in
 thehdstreamz.com.in
 thepikashows.com.in
@@ -86983,7 +86980,6 @@ zentara.link
 trustwallet.0902preaira.live
 0x2c97-ledger.live
 0x7779e91a46bd3a111194fa00ef25c82c373b3777.live
-0xhares.live
 143.live
 146-acceweb-auth.live
 2779-capitalone-access-auth.live
@@ -87252,7 +87248,6 @@ bullsol.live
 bunnitoken.live
 buzkora.live
 bwifrewards.live
-byvotes-bybit.live
 cakewalletsdesktop.live
 callon.live
 cap-v2.live
@@ -89239,7 +89234,6 @@ wlfiunlock.live
 wlftoken.live
 workclub.live
 workdeve-invoice.live
-worldcupvote.live
 worldilbertyfinance.live
 worldliberty-financial.live
 worldlibertyrewards.live
@@ -90866,7 +90860,6 @@ zh-htx.my
 zh-kraken.my
 zh-mexc.my
 zoommeeting.my
-exodus.co.mz
 changenow.name
 coindesk.name
 com-serve.name
@@ -118245,7 +118238,6 @@ xrpl-voting.xyz
 xrpl-votings.xyz
 xrpl-xrp-xmn.xyz
 xrpledger-proposal.xyz
-xslocks.xyz
 xstocks-allocations.xyz
 xstocks-rewards.xyz
 xstocksclaimvault.xyz
