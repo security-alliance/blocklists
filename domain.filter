@@ -1039,7 +1039,6 @@
 ||enguphold-cdn.created.app^$all
 ||faq-up-huld-lggin-en.created.app^$all
 ||getting-trzrsuite.created.app^$all
-||getupholdd.created.app^$all
 ||hashpack-en.created.app^$all
 ||hashpackwallet-es.created.app^$all
 ||hashpackweb3-wallet.created.app^$all
@@ -1125,7 +1124,6 @@
 ||uphold-wallet-webpage.created.app^$all
 ||upholddns.created.app^$all
 ||upholde-logiin.created.app^$all
-||upholdin.created.app^$all
 ||upholdloginn.created.app^$all
 ||upholdorg.created.app^$all
 ||upholedd-login.created.app^$all
@@ -66124,6 +66122,7 @@
 ||c8d8-colnbase-listings-4f65.pages.dev^$all
 ||c92e-coinbase-listing-677f.pages.dev^$all
 ||c990-colnbase-listings-4f65.pages.dev^$all
+||c9bb-b602-colnbase-listings.pages.dev^$all
 ||cainong-ledger.pages.dev^$all
 ||cake-moneyfi-sdk.pages.dev^$all
 ||cake-wallet.pages.dev^$all

@@ -1039,7 +1039,6 @@ engdesktop.created.app
 enguphold-cdn.created.app
 faq-up-huld-lggin-en.created.app
 getting-trzrsuite.created.app
-getupholdd.created.app
 hashpack-en.created.app
 hashpackwallet-es.created.app
 hashpackweb3-wallet.created.app
@@ -1125,7 +1124,6 @@ uphold-loin.created.app
 uphold-wallet-webpage.created.app
 upholddns.created.app
 upholde-logiin.created.app
-upholdin.created.app
 upholdloginn.created.app
 upholdorg.created.app
 upholedd-login.created.app
@@ -66124,6 +66122,7 @@ c89b-colnbase-listings-4f65.pages.dev
 c8d8-colnbase-listings-4f65.pages.dev
 c92e-coinbase-listing-677f.pages.dev
 c990-colnbase-listings-4f65.pages.dev
+c9bb-b602-colnbase-listings.pages.dev
 cainong-ledger.pages.dev
 cake-moneyfi-sdk.pages.dev
 cake-wallet.pages.dev
