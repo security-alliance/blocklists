@@ -18730,7 +18730,6 @@ zoomtop.click
 zoomus.click
 zorex-bonusvault.click
 zorex-cashreward.click
-0gfoundation.cloud
 3jane.cloud
 aavefinance.cloud
 aavehq.cloud
@@ -82742,7 +82741,6 @@ home---app-exod-cdn.gitbook.io
 home--e-exodus---cdn.gitbook.io
 home--ellipall---sso.gitbook.io
 home-coinbase-wallet.gitbook.io
-home-coinbasection.gitbook.io
 home-ellipal.gitbook.io
 home-exodus--e.gitbook.io
 home-mew.gitbook.io
