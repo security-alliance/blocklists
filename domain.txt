@@ -47712,7 +47712,6 @@ acc-trrustapps.wixstudio.com
 acc-trust-extension.wixstudio.com
 acc-trustapps-ext.wixstudio.com
 accbitstmep.wixstudio.com
-access-coinsproen.wixstudio.com
 access-eternlapps.wixstudio.com
 access-iorabby-apps.wixstudio.com
 access-kraken-hub.wixstudio.com
@@ -48431,7 +48430,6 @@ coin-apps-extension.wixstudio.com
 coin-base-apps.wixstudio.com
 coin-base-ext-aoth.wixstudio.com
 coin-base-hub.wixstudio.com
-coin-base-wallet.wixstudio.com
 coin-wallet-hub.wixstudio.com
 coinapps-base-signin.wixstudio.com
 coinb-ese-wallet.wixstudio.com
@@ -49402,7 +49400,6 @@ htxio-eng.wixstudio.com
 htxstart.wixstudio.com
 htxx-trade.wixstudio.com
 htxxapp.wixstudio.com
-hub-coinbaze-ext.wixstudio.com
 hub-coinproai.wixstudio.com
 hub-coinpros-secure.wixstudio.com
 hub-ettorro.wixstudio.com
@@ -50599,7 +50596,6 @@ pro-krakencom.wixstudio.com
 proappa-metamaskext.wixstudio.com
 procoinbaseio.wixstudio.com
 procoinbse.wixstudio.com
-prokoinbaselgon.wixstudio.com
 pros-krkenapps.wixstudio.com
 protect-krakonio.wixstudio.com
 protection-qoinbase.wixstudio.com
@@ -95651,6 +95647,7 @@ enter-jupiter.org
 entertainment-4k.org
 enzyme-finance.org
 equalityforallhumans.org
+metamask.erims.org
 esma-eurosec.org
 etcprotocol.org
 eth-dapp-warden.org
