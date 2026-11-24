@@ -25881,6 +25881,7 @@ backpacktrading.com
 backup-mica-trustwallet.com
 backup01-ledger.com
 backup1-coinbase.com
+bademore.com
 badogamb.com
 badoher-badreviews.com
 baecox.com
@@ -86077,6 +86078,8 @@ d3c-collab.land
 dac-collab.land
 db-collab.land
 dfc-collab.land
+dgx-collab.land
+doc-collab.land
 dtc-collab.land
 g-collab.land
 land-collab.land
@@ -91455,6 +91458,7 @@ base-coins.net
 base-smartwallet.net
 base-to.net
 basebrett.net
+baseprotect.net
 baserda.net
 basewithdrwalwallet.net
 batonexs.net
@@ -91926,6 +91930,7 @@ flarenetworktaxinfo.net
 flarenetworktaxnotice.net
 flareportals.net
 flaretokens.net
+flipauth.net
 flipguard.net
 fljh.net
 flowprotect.net
