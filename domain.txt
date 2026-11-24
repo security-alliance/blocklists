@@ -1174,7 +1174,6 @@ upholdin.created.app
 upholdloginn.created.app
 upholdorg.created.app
 upholedd-login.created.app
-upholld.created.app
 upholld-login-secure.created.app
 upholld-web-en.created.app
 uphoold-login.created.app
