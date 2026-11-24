@@ -49878,7 +49878,6 @@ look-bitbuycdn.wixstudio.com
 maccessupheldappssso.wixstudio.com
 main-rubby-exinsions.wixstudio.com
 maintrust-extensions.wixstudio.com
-manage-coinpro-en-us.wixstudio.com
 manage-krkenn.wixstudio.com
 manage-lacecdn.wixstudio.com
 manage-meta-ext.wixstudio.com
@@ -74789,6 +74788,7 @@ eu.vzting-etherfi.workers.dev
 petespanels-secure-5506.w-sy0ems.workers.dev
 openseaio1.washink880.workers.dev
 openseaio5.washink880.workers.dev
+muddy-mud-7c3a.wsf4e.workers.dev
 redirect.xrestinghighworkersdev.workers.dev
 legrwinter-dew-b8e8.xyz352052.workers.dev
 lgrfsweet-butterfly-5251.xyz352052.workers.dev
