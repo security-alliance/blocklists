@@ -99641,7 +99641,6 @@ roinnwallet.run
 rollbit.run
 simplsewap.run
 accounts.slingshot.run
-solstics.run
 sopohn.run
 space-x.run
 staketsone.run
