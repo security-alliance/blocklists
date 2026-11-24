@@ -13263,7 +13263,6 @@ bozel.biz
 bravee.biz
 casino-sol.biz
 casinosol.biz
-claim-hype.biz
 cloud-verification-server.biz
 codexminer.biz
 coinbasestake.biz
@@ -18360,7 +18359,6 @@ reward-gifts.click
 reward-myvip.click
 reward-quiz.click
 reward-vip.click
-rewards-airpoints.click
 rewards-argus.click
 rewards-etherfi.click
 vote.rewards-firelight.click
@@ -23636,7 +23634,6 @@ client.758340-cb.com
 817034-icloud.com
 817034-kraken.com
 817034-swissquote.com
-817034-trezor.com
 817034-yahoo.com
 81704-binance.com
 817151coinbase.com
@@ -25590,7 +25587,6 @@ auth-connector.com
 auth-docsign.com
 rabbit.auth-in-extranet.com
 turtle.auth-in-extranet.com
-auth-io.com
 auth-kucoin.com
 auth-log-into-services-homeportal.com
 auth-log-myaccount0a6b4doaxf8e-portal-service-taskid.com
@@ -27652,7 +27648,6 @@ cfinance-us.com
 cgb-invest.com
 cgr-bogota.com
 ch-angelly.com
-ch-coinledger.com
 ch-reprogrammez.com
 ch-wh-whatsappo.com
 ch-wi-whatsappo.com
@@ -28044,7 +28039,6 @@ claim-voyager.com
 claim-wall3.com
 claim-wallet-prize.com
 claim-wlfitokens.com
-claim-wolrdliberyfinancial.com
 claim-worldlibertyfinancial.com
 claim-worldofdypians.com
 claim-x7pad.com
@@ -28396,7 +28390,6 @@ safepal-app.co.com
 safepal-en.co.com
 safepal-eng.co.com
 safepall.co.com
-safepalwallet.co.com
 sconnect-cmo.co.com
 scotiaconnect-business.co.com
 scotiaconnect-businessdigital.co.com
@@ -29765,7 +29758,6 @@ compliancemedia-x.com
 compliancereview-apple.com
 complience-coinbase.com
 comply-zoom.com
-compound-authority.com
 compoundfinances.com
 compromised-x.com
 comrainbetcodepromo.com
@@ -30163,7 +30155,6 @@ crypterraprime.com
 cryptgeons.com
 crypticcweb.com
 crypto-aaaa.com
-crypto-aml-kyc.com
 crypto-casino-rainbet.com
 crypto-coinme.com
 crypto-fiat-clearing.com
@@ -37678,6 +37669,7 @@ micsoftweb.com
 micvosoft.com
 midasdep.com
 midenbrowserwallet.com
+midngihtnetwork.com
 midnighgt.com
 midnightdocs.com
 midnignt.com
@@ -45296,7 +45288,6 @@ trustwallet-i.com
 trustwallet-inc.com
 trustwallet-infocard.com
 trustwallet-infocards.com
-trustwallet-infos.com
 trustwallet-invoice.com
 trustwallet-io.com
 trustwallet-kor.com
@@ -45469,7 +45460,6 @@ trvstwailet.com
 trwalletcard.com
 trwau.com
 trx-coinbase.com
-trx-crytowallet.com
 trx-exchange.com
 trx-qr-code.com
 trx-tronlink.com
@@ -45643,7 +45633,6 @@ txcsec.com
 txcvalidator.com
 txflow-app.com
 txonefxx.com
-txt-crypto.com
 txxls.com
 ty-okx.com
 ty-whatsapp.com
@@ -45748,7 +45737,6 @@ unfaileryx-worlmeix.com
 unfreeze-coinbase.com
 uni-3list.com
 uni-cdn-v3.com
-uni-coin.com
 uni-dapp.com
 uni-dapp-v1labs.com
 uni-i-connect.com
@@ -53458,7 +53446,6 @@ apyxfi.date
 googlemeet.date
 rainbet.date
 xingyuan.date
-airspoint-reward.day
 maos.day
 plinko.day
 rewards-airpoint.day
@@ -74963,7 +74950,6 @@ hyperliquid.digital
 hyperpredict.digital
 ili-rica.digital
 invoicecoinbase.digital
-io-suite.digital
 iscans.digital
 jitosol.digital
 jtx-trade.digital
@@ -77992,7 +77978,6 @@ justlend.gift
 prjx.gift
 rainbet.gift
 reward-one.gift
-rewards-airpoints.gift
 wallet.gift
 bestcasino.gifts
 cryptocurrency.gifts
@@ -81015,7 +81000,6 @@ invitation-review.info
 io-backup.info
 io-protected.info
 io-starts.info
-io-suite.info
 islanddao.info
 itprocurementsummitmeet.info
 jarman-exchange.info
@@ -86605,7 +86589,6 @@ treasury-netnet.lat
 trojanonsolana.lat
 trust-walet.lat
 trustcard.lat
-trustwalletcard.lat
 t0kqwl.ujsaj.lat
 unipeg.lat
 up33.lat
@@ -89557,7 +89540,6 @@ checkix.lol
 claim-firelight.lol
 claim-flarenetwork.lol
 claim-gake.lol
-claim-hype.lol
 claim-usdai.lol
 claimbaseline.lol
 claimbullseye.lol
@@ -89998,7 +89980,6 @@ findigitalbkins.ltd
 foundationcapital.ltd
 hyperliquid.ltd
 io-start.ltd
-io-suite.ltd
 jupiter-rewards.ltd
 kinginvestment.ltd
 kr-google.ltd
@@ -91652,7 +91633,6 @@ ckoudflare.net
 claim-bridge.net
 claim-gushwork.net
 claim-it.net
-claim-nodepay.net
 claim-pilot.net
 claim-re.net
 claim-stake.net
@@ -91661,7 +91641,6 @@ claim-xrpl.net
 claimera.net
 claimone.net
 claims-administration-stretto.net
-claims-nodepay.net
 claudetrade.net
 claudetrading.net
 clearpool-finance.net
@@ -91784,7 +91763,6 @@ cricfyy.net
 crickfy.net
 crosshairx.net
 crypto-connect.net
-crypto-support-center.net
 crypto-trust.net
 cryptoarenas.net
 cryptocurrencymixers.net
@@ -92900,7 +92878,6 @@ tree-size.net
 trezor-app.net
 trezor-apps.net
 trezor-login.net
-trezor-suite.net
 trezorgroup.net
 trezors.net
 trezors-suites.net
@@ -96664,7 +96641,6 @@ revolut-cc.org
 revolut-hq.org
 reward-hubs.org
 rewarding-eigenfoundation.org
-rewards-airpoints.org
 rewards-hub.org
 rewards-jupiter.org
 rewards-justlend.org
@@ -97403,7 +97379,6 @@ com-live.page
 com-start.page
 digital-card.page
 hyperliquid.page
-io-suite.page
 kinetiq.page
 launchtopaid.page
 appsweb-rabby.mmm.page
@@ -97432,7 +97407,6 @@ esxxoduswallet.versoly.page
 hellcase.paris
 dydx.partners
 sdm-admin.orca.partners
-trustwallet.partners
 bitget.parts
 dongle.party
 gatheroccasion.party
@@ -104629,7 +104603,6 @@ telegram-jp.tech
 theantfarm.tech
 token2049-singapore.tech
 treasury-u.tech
-trezor-supp.tech
 trusthubswallets.tech
 trustwalletcard.tech
 uniswaphr.tech
@@ -105377,7 +105350,6 @@ claim-credit-today.top
 claim-drop.top
 claim-erc.top
 claim-firelight.top
-claim-hype.top
 claim-usdai.top
 claims-firelight.top
 claims-flarenetwork.top
@@ -109453,7 +109425,6 @@ io-safe.website
 io-start.website
 io-startnow.website
 io-starts.website
-io-suites.website
 joinmeeting.website
 khoavudl.website
 kraken-dex.website
@@ -110120,7 +110091,6 @@ aerodrome-app.xyz
 aerodrome-proposals.xyz
 aerodrome-register.xyz
 aerodrome-registration.xyz
-aerodromefi-allocations.xyz
 aerodromefi-app.xyz
 aerodromefi-claim.xyz
 aerodromefi-claims.xyz
@@ -110377,7 +110347,6 @@ allocations-knotsstonk.xyz
 allocations-lido.xyz
 allocations-lighter.xyz
 allocations-long.xyz
-allocations-moonwell.xyz
 allocations-morpho.xyz
 allocations-near.xyz
 allocations-netnet.xyz
@@ -110779,7 +110748,6 @@ basedbot-app.xyz
 basedelephant.xyz
 basedfoundation-claims.xyz
 basedfoundation-register.xyz
-basedfoundation-rewards.xyz
 basedfoundation-vote.xyz
 basedonex-allocations.xyz
 basedonex-proposal.xyz
@@ -111192,7 +111160,6 @@ claim-robinhood.xyz
 claim-sand.xyz
 claim-season3.xyz
 claim-sonic.xyz
-claim-spacepay.xyz
 claim-spicefi.xyz
 claim-stonkfun.xyz
 claim-sync.xyz
@@ -111280,8 +111247,6 @@ pengu.co1n.xyz
 cocnrete.xyz
 coibase.xyz
 coin-allocation.xyz
-coin-checker.xyz
-coin-code.xyz
 coin-space.xyz
 coin-streams.xyz
 coinbas.xyz
@@ -112065,7 +112030,6 @@ dev.ethereumw.xyz
 ethereumxem.xyz
 shop.ethereumzkchannel.xyz
 etherfi-allocation.xyz
-etherfi-allocations.xyz
 etherfi-claims.xyz
 etherfi-distribution.xyz
 etherfi-governance.xyz
@@ -115080,7 +115044,6 @@ proposal-longdot.xyz
 proposal-longdots.xyz
 proposal-mancer.xyz
 proposal-metric.xyz
-proposal-mogcoin.xyz
 proposal-montra.xyz
 proposal-multipli.xyz
 proposal-near.xyz
@@ -115258,7 +115221,6 @@ quests-stonkfun.xyz
 quests-sunrise.xyz
 quicksmartfix.xyz
 quickswap-allocation.xyz
-quickswap-allocations.xyz
 quickswap-claims.xyz
 raac-registration.xyz
 raac-registrations.xyz
@@ -115651,7 +115613,6 @@ rewards-montra.xyz
 rewards-my.xyz
 rewards-neet.xyz
 rewards-netnetcapital.xyz
-rewards-nexus.xyz
 rewards-nunchi.xyz
 rewards-onrefinance.xyz
 rewards-onyx.xyz
