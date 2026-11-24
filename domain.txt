@@ -1199,7 +1199,6 @@ uphold-lgagin.created.app
 uphold-lgn-en.created.app
 uphold-lo-sew.created.app
 uphold-log-doc.created.app
-uphold-log-en.created.app
 uphold-log-enus.created.app
 uphold-log-faq.created.app
 uphold-log-in.created.app
