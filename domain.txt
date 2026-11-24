@@ -9315,7 +9315,6 @@ sos-trezo-hardware.typedream.app
 space----com-uphold-sso.typedream.app
 sso---coinsquare-logi.typedream.app
 sso---en-uphold-login.typedream.app
-sso---web-uphold-usa.typedream.app
 sso--login--trezor--io-auth.typedream.app
 sso--login--trezor--io-cdn.typedream.app
 sso--robimhood-auth-com.typedream.app
