@@ -1076,7 +1076,6 @@
 ||hub-uphold.created.app^$all
 ||intro-uphload.created.app^$all
 ||krakn-log-im.created.app^$all
-||learn-uphold.created.app^$all
 ||learn-upholde-us.created.app^$all
 ||leedgr-lived.created.app^$all
 ||log-en-uphold.created.app^$all
@@ -1123,7 +1122,6 @@
 ||sso-uphld-cdn.created.app^$all
 ||sso-uphld-com-auth.created.app^$all
 ||sso-uphlld-eng.created.app^$all
-||sso-uphuld-cdn.created.app^$all
 ||sso-uphuld-nav-x-auth.created.app^$all
 ||sso-uphuld-x-auth.created.app^$all
 ||start-live-io.created.app^$all
@@ -1143,7 +1141,6 @@
 ||up-hold-log-en.created.app^$all
 ||up-hold-log-in.created.app^$all
 ||up-hold-logi.created.app^$all
-||up-holdd-io.created.app^$all
 ||up-load-us-cnd.created.app^$all
 ||uph-old-logi.created.app^$all
 ||uphald-app.created.app^$all
