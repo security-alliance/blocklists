@@ -25648,7 +25648,6 @@ ave-swp.com
 aveembeddedkline.com
 avemaga.com
 avennipro.com
-crptlg.kraken.avilios.com
 award-zoobit.com
 awgtm.com
 awoirencia.com
@@ -60839,6 +60838,7 @@ pr-7831.1inch-io-app.pages.dev
 399-lists-okxvotes.pages.dev
 399-reallocate-flare.pages.dev
 39d7-fa8e-5133-c0inbase-list.pages.dev
+3a98-colnbase-listings-4f65.pages.dev
 3c46-coinbase-listing-677f.pages.dev
 3ddd-coinbase-listing-677f.pages.dev
 3de1-colnbase-listings-4f65.pages.dev
