@@ -67760,6 +67760,7 @@ filecoin-voting.pages.dev
 fiona-ledger.pages.dev
 firelight-31-july.pages.dev
 firelight-finance.pages.dev
+firelight-phase2.pages.dev
 firelightensodisjsahsa.pages.dev
 firelightfi.pages.dev
 firelightfi-allocations.pages.dev
