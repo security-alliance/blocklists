@@ -1123,7 +1123,6 @@
 ||uphold-login-cdn.created.app^$all
 ||uphold-login-doc.created.app^$all
 ||uphold-login-docs-app.created.app^$all
-||uphold-login-eng.created.app^$all
 ||uphold-login-uss.created.app^$all
 ||uphold-logine.created.app^$all
 ||uphold-loginese.created.app^$all
@@ -1147,7 +1146,6 @@
 ||vertex-site.created.app^$all
 ||vertexprotocol.created.app^$all
 ||waletuphold.created.app^$all
-||wallet-es-uphold.created.app^$all
 ||web-ddafilamba-support.created.app^$all
 ||web-upzlogin.created.app^$all
 ||welcome-uphelld-eng.created.app^$all

@@ -1123,7 +1123,6 @@ uphold-logi-org.created.app
 uphold-login-cdn.created.app
 uphold-login-doc.created.app
 uphold-login-docs-app.created.app
-uphold-login-eng.created.app
 uphold-login-uss.created.app
 uphold-logine.created.app
 uphold-loginese.created.app
@@ -1147,7 +1146,6 @@ upld-login-co.created.app
 vertex-site.created.app
 vertexprotocol.created.app
 waletuphold.created.app
-wallet-es-uphold.created.app
 web-ddafilamba-support.created.app
 web-upzlogin.created.app
 welcome-uphelld-eng.created.app
