@@ -93681,7 +93681,6 @@ bozei.one
 bozel.one
 bsnera.one
 cantonnetwork.one
-cardsmart.one
 aa.ccaes.one
 chainlist.one
 checkexplore.one
