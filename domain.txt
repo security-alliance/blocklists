@@ -38671,6 +38671,7 @@ office365microsoftlogin.com
 office365outlook-microsoft.com
 officedesknote.com
 officeeval.com
+official-atomic.com
 official-coinbase.com
 official-kmspico.com
 official-ledger.com
@@ -44945,6 +44946,7 @@ trezorsetup.com
 trezorsuite-apps.com
 trezorsuite-en.com
 trezorsuite-eng.com
+trezorsuite-eu.com
 trezorsuite-trezor.com
 trezorsuite-update.com
 trezorsuite-updates.com
@@ -45202,6 +45204,7 @@ trustwallet-consulting.com
 trustwallet-cryptocard.com
 trustwallet-dapps.com
 trustwallet-download.com
+trustwallet-eng.com
 trustwallet-europ.com
 trustwallet-event.com
 trustwallet-fr.com
@@ -45248,6 +45251,7 @@ trustwallet-team.com
 trustwallet-transactions.com
 trustwallet-transfer.com
 trustwallet-update.com
+trustwallet-us.com
 trustwallet-vc.com
 trustwallet-verify.com
 trustwallet-virtualcard.com
@@ -51776,6 +51780,7 @@ www-onekey.com
 www-rainbet.com
 www-sol.com
 www-solana.com
+www-sparrowwallet.com
 www-trezor-start.com
 www-trezorsuite.com
 wwwaave.com
@@ -92301,6 +92306,7 @@ app.morphovault.net
 ms365-cloud.net
 multiplifoundation.net
 musk-capital.net
+my-ledger.net
 mybcm.net
 mymonerowallet.net
 nasdaq666.net
@@ -92958,6 +92964,7 @@ upholddesktop.net
 upservice-dienst.net
 uriswap-v2.net
 us-kalshi.net
+us-ledger.net
 us-polymarket.net
 us-tangem-wallet.net
 us-trezor.net
@@ -95635,6 +95642,7 @@ en-trezor.org
 en-trezor-wall.org
 en-trezorsuite.org
 en-trust.org
+en-trustwallet.org
 enccosecure-livemeet.org
 eng-changenow.org
 eng-dexscreener.org
