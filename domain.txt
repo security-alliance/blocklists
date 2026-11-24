@@ -19060,7 +19060,6 @@ interface-railguns.stakingreward.cloud
 interface-wxt.stakingreward.cloud
 mmt.stakingreward.cloud
 navi-protocols.stakingreward.cloud
-nexus-mutual.stakingreward.cloud
 pudgy-penguins.stakingreward.cloud
 rls.stakingreward.cloud
 sui-name-service.stakingreward.cloud
@@ -83157,6 +83156,7 @@ metsmsaectin.gitbook.io
 metsweb.gitbook.io
 metsxmasklognux.gitbook.io
 mettamaskexxtensiodownluad.gitbook.io
+mettamaskilguina.gitbook.io
 mettamaskkglogigin.gitbook.io
 mettamasklofun.gitbook.io
 mettamaxklogin.gitbook.io
