@@ -1017,7 +1017,6 @@ app-upheld.created.app
 app-upheld-docs.created.app
 auth-uphld-log.created.app
 auth-uphld-login.created.app
-auth-upholld.created.app
 co-insmart-home.created.app
 coenbase-pro-loegn.created.app
 coinase-sso-logi.created.app
@@ -1039,7 +1038,6 @@ en-us-upheld.created.app
 en-us-uphld-app.created.app
 en-us-uphold-eng.created.app
 eng-uphold-cdn.created.app
-eng-upholdd.created.app
 eng-uphulld-webs.created.app
 engdesktop.created.app
 enguphold-cdn.created.app
@@ -1060,7 +1058,6 @@ intro-uphload.created.app
 krakn-log-im.created.app
 learn-upholde-us.created.app
 leedgr-lived.created.app
-log-en-uphold.created.app
 login-learn-uphold.created.app
 login-uphold-web-io.created.app
 metamsk-logi.created.app
@@ -1104,7 +1101,6 @@ up-hold-logi.created.app
 up-load-us-cnd.created.app
 uph-old-logi.created.app
 uphald-app-ai.created.app
-uphald-logn-eng.created.app
 uphalds-eng.created.app
 uphcld-en.created.app
 uphd-logi-en.created.app
@@ -1118,7 +1114,6 @@ upheld-us-canda.created.app
 upheldio.created.app
 upheldsso.created.app
 uphelld.created.app
-upheold-login-secure.created.app
 uphld-en-us.created.app
 uphld-logi-en.created.app
 uphldlog.created.app
@@ -1128,7 +1123,6 @@ uphold-admin.created.app
 uphold-cloud.created.app
 uphold-en-cdn.created.app
 uphold-en-page.created.app
-uphold-en-usa.created.app
 uphold-ilogin-account.created.app
 uphold-io.created.app
 uphold-lo-sew.created.app

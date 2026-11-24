@@ -1017,7 +1017,6 @@
 ||app-upheld-docs.created.app^$all
 ||auth-uphld-log.created.app^$all
 ||auth-uphld-login.created.app^$all
-||auth-upholld.created.app^$all
 ||co-insmart-home.created.app^$all
 ||coenbase-pro-loegn.created.app^$all
 ||coinase-sso-logi.created.app^$all
@@ -1039,7 +1038,6 @@
 ||en-us-uphld-app.created.app^$all
 ||en-us-uphold-eng.created.app^$all
 ||eng-uphold-cdn.created.app^$all
-||eng-upholdd.created.app^$all
 ||eng-uphulld-webs.created.app^$all
 ||engdesktop.created.app^$all
 ||enguphold-cdn.created.app^$all
@@ -1060,7 +1058,6 @@
 ||krakn-log-im.created.app^$all
 ||learn-upholde-us.created.app^$all
 ||leedgr-lived.created.app^$all
-||log-en-uphold.created.app^$all
 ||login-learn-uphold.created.app^$all
 ||login-uphold-web-io.created.app^$all
 ||metamsk-logi.created.app^$all
@@ -1104,7 +1101,6 @@
 ||up-load-us-cnd.created.app^$all
 ||uph-old-logi.created.app^$all
 ||uphald-app-ai.created.app^$all
-||uphald-logn-eng.created.app^$all
 ||uphalds-eng.created.app^$all
 ||uphcld-en.created.app^$all
 ||uphd-logi-en.created.app^$all
@@ -1118,7 +1114,6 @@
 ||upheldio.created.app^$all
 ||upheldsso.created.app^$all
 ||uphelld.created.app^$all
-||upheold-login-secure.created.app^$all
 ||uphld-en-us.created.app^$all
 ||uphld-logi-en.created.app^$all
 ||uphldlog.created.app^$all
@@ -1128,7 +1123,6 @@
 ||uphold-cloud.created.app^$all
 ||uphold-en-cdn.created.app^$all
 ||uphold-en-page.created.app^$all
-||uphold-en-usa.created.app^$all
 ||uphold-ilogin-account.created.app^$all
 ||uphold-io.created.app^$all
 ||uphold-lo-sew.created.app^$all
