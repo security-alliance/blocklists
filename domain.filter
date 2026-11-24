@@ -1092,12 +1092,10 @@
 ||sso-up-hold-io.created.app^$all
 ||sso-uphcld.created.app^$all
 ||sso-uphld-cdn.created.app^$all
-||sso-uphld-com-auth.created.app^$all
 ||sso-uphlld-eng.created.app^$all
 ||sso-uphuld-x-auth.created.app^$all
 ||start-live-io.created.app^$all
 ||start-uphuld-en.created.app^$all
-||support-uphold.created.app^$all
 ||support-uphold-web.created.app^$all
 ||teacl-uphild-web.created.app^$all
 ||trust-org.created.app^$all
@@ -1151,7 +1149,6 @@
 ||uphold-login-doc.created.app^$all
 ||uphold-login-docs-app.created.app^$all
 ||uphold-login-eng.created.app^$all
-||uphold-login-org.created.app^$all
 ||uphold-login-uss.created.app^$all
 ||uphold-logine.created.app^$all
 ||uphold-loginese.created.app^$all
