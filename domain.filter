@@ -1053,7 +1053,6 @@
 ||en-us-uphld-app.created.app^$all
 ||en-us-uphld-portal.created.app^$all
 ||en-us-uphold-eng.created.app^$all
-||eng-uphold.created.app^$all
 ||eng-uphold-cdn.created.app^$all
 ||eng-upholdd.created.app^$all
 ||eng-uphulld-webs.created.app^$all
@@ -1092,7 +1091,6 @@
 ||my-uphold-io.created.app^$all
 ||my-uphold-logn.created.app^$all
 ||my-uphuld.created.app^$all
-||my-uphuld-com-en.created.app^$all
 ||nav-upheld-ai.created.app^$all
 ||nettcoins.created.app^$all
 ||new-uphold.created.app^$all
@@ -1103,7 +1101,6 @@
 ||portal-enterprise-uphold-com.created.app^$all
 ||portal-upheld.created.app^$all
 ||portal-uphold-cdn.created.app^$all
-||portal-uphold-en-auths.created.app^$all
 ||portal-uphold-web-us.created.app^$all
 ||portal-uphuld-start-io.created.app^$all
 ||procoinbasesignin.created.app^$all
@@ -1132,13 +1129,11 @@
 ||start-live-io.created.app^$all
 ||start-uphuld-en.created.app^$all
 ||support-uphold.created.app^$all
-||support-uphold-cdn.created.app^$all
 ||support-uphold-web.created.app^$all
 ||t-uphols-cdn.created.app^$all
 ||teacl-uphild-web.created.app^$all
 ||trust-org.created.app^$all
 ||trust-walt-ext.created.app^$all
-||up-hald-login.created.app^$all
 ||up-held-en.created.app^$all
 ||up-held-lggin-en-cloud.created.app^$all
 ||up-hold.created.app^$all
@@ -1153,7 +1148,6 @@
 ||uph-old-logi.created.app^$all
 ||uphald-app.created.app^$all
 ||uphald-app-ai.created.app^$all
-||uphald-en-doc.created.app^$all
 ||uphald-login-en.created.app^$all
 ||uphald-logn-eng.created.app^$all
 ||uphalds-eng.created.app^$all
@@ -1191,7 +1185,6 @@
 ||uphold-ilogin-account.created.app^$all
 ||uphold-io.created.app^$all
 ||uphold-lgagin.created.app^$all
-||uphold-lgn-en.created.app^$all
 ||uphold-lo-sew.created.app^$all
 ||uphold-log-doc.created.app^$all
 ||uphold-log-enus.created.app^$all
@@ -1233,7 +1226,6 @@
 ||uphold-wallet-doc.created.app^$all
 ||uphold-wallet-oauth.created.app^$all
 ||uphold-wallet-webpage.created.app^$all
-||uphold-wallet-world.created.app^$all
 ||uphold-wallts.created.app^$all
 ||upholdapp.created.app^$all
 ||upholdauthlogn.created.app^$all

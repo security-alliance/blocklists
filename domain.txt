@@ -1053,7 +1053,6 @@ en-us-upheld.created.app
 en-us-uphld-app.created.app
 en-us-uphld-portal.created.app
 en-us-uphold-eng.created.app
-eng-uphold.created.app
 eng-uphold-cdn.created.app
 eng-upholdd.created.app
 eng-uphulld-webs.created.app
@@ -1092,7 +1091,6 @@ my-uphold-en.created.app
 my-uphold-io.created.app
 my-uphold-logn.created.app
 my-uphuld.created.app
-my-uphuld-com-en.created.app
 nav-upheld-ai.created.app
 nettcoins.created.app
 new-uphold.created.app
@@ -1103,7 +1101,6 @@ phantmwallt.created.app
 portal-enterprise-uphold-com.created.app
 portal-upheld.created.app
 portal-uphold-cdn.created.app
-portal-uphold-en-auths.created.app
 portal-uphold-web-us.created.app
 portal-uphuld-start-io.created.app
 procoinbasesignin.created.app
@@ -1132,13 +1129,11 @@ sso-uphuld-x-auth.created.app
 start-live-io.created.app
 start-uphuld-en.created.app
 support-uphold.created.app
-support-uphold-cdn.created.app
 support-uphold-web.created.app
 t-uphols-cdn.created.app
 teacl-uphild-web.created.app
 trust-org.created.app
 trust-walt-ext.created.app
-up-hald-login.created.app
 up-held-en.created.app
 up-held-lggin-en-cloud.created.app
 up-hold.created.app
@@ -1153,7 +1148,6 @@ up-load-us-cnd.created.app
 uph-old-logi.created.app
 uphald-app.created.app
 uphald-app-ai.created.app
-uphald-en-doc.created.app
 uphald-login-en.created.app
 uphald-logn-eng.created.app
 uphalds-eng.created.app
@@ -1191,7 +1185,6 @@ uphold-eng.created.app
 uphold-ilogin-account.created.app
 uphold-io.created.app
 uphold-lgagin.created.app
-uphold-lgn-en.created.app
 uphold-lo-sew.created.app
 uphold-log-doc.created.app
 uphold-log-enus.created.app
@@ -1233,7 +1226,6 @@ uphold-wailet-web.created.app
 uphold-wallet-doc.created.app
 uphold-wallet-oauth.created.app
 uphold-wallet-webpage.created.app
-uphold-wallet-world.created.app
 uphold-wallts.created.app
 upholdapp.created.app
 upholdauthlogn.created.app
