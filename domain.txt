@@ -1068,7 +1068,6 @@ log-en-uphold.created.app
 login-learn-uphold.created.app
 login-uphold-web-io.created.app
 metamsk-logi.created.app
-my-uphold-en.created.app
 my-uphold-io.created.app
 my-uphuld.created.app
 nettcoins.created.app
@@ -1131,7 +1130,6 @@ uphld-en-us.created.app
 uphld-logi-en.created.app
 uphldlog.created.app
 uphlldlogn.created.app
-uphod-login.created.app
 uphold--cloud.created.app
 uphold-admin.created.app
 uphold-cloud.created.app
@@ -1141,7 +1139,6 @@ uphold-en-usa.created.app
 uphold-eng.created.app
 uphold-ilogin-account.created.app
 uphold-io.created.app
-uphold-lgagin.created.app
 uphold-lo-sew.created.app
 uphold-log-doc.created.app
 uphold-log-faq.created.app
@@ -1175,7 +1172,6 @@ upholddns.created.app
 upholde-logiin.created.app
 upholdin.created.app
 upholdloginn.created.app
-upholdlogn.created.app
 upholdorg.created.app
 upholedd-login.created.app
 upholld.created.app
