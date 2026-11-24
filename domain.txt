@@ -39874,6 +39874,7 @@ polymarket-b.com
 polymarket-baji.com
 polymarket-betaversion.com
 polymarket-bg.com
+polymarket-bonus1.com
 polymarket-bots.com
 polymarket-ca.com
 polymarket-canada.com
@@ -41043,6 +41044,7 @@ rainbetc.com
 rainbetca.com
 rainbetcanada.com
 rainbetcanadabonus.com
+rainbetcanadacasino.com
 rainbetcanadaofficial.com
 rainbetcasinait.com
 rainbetcasino.com
@@ -66228,6 +66230,7 @@ calirsprvveb3toksscliam01x.pages.dev
 camp-ledger-2zm.pages.dev
 candy-ledger.pages.dev
 cangka-ledger-13979.pages.dev
+canton-defi-lending-landingpage.pages.dev
 canton-tge-com.pages.dev
 canton-tge-net.pages.dev
 canton-tges-com.pages.dev
