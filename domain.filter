@@ -1040,7 +1040,6 @@
 ||faq-up-huld-lggin-en.created.app^$all
 ||getting-trzrsuite.created.app^$all
 ||getupholdd.created.app^$all
-||global-upholld.created.app^$all
 ||hashpack-en.created.app^$all
 ||hashpackwallet-es.created.app^$all
 ||hashpackweb3-wallet.created.app^$all
@@ -1143,7 +1142,6 @@
 ||web-ddafilamba-support.created.app^$all
 ||web-upzlogin.created.app^$all
 ||welcome-uphelld-eng.created.app^$all
-||welcome-uphold-webs.created.app^$all
 ||zengo.created.app^$all
 ||credential-ledger.app^$all
 ||cricfy-official.app^$all
@@ -53648,6 +53646,7 @@
 ||0afd-coinbase-listing-677f.pages.dev^$all
 ||0b7a-colnbase-listings-4f65.pages.dev^$all
 ||0beb-fa8e-5133-c0inbase-list.pages.dev^$all
+||0d7f-4c29-5133-c0inbase-list.pages.dev^$all
 ||0xe0e8243e04app-triasclaimmigrationcampaign.pages.dev^$all
 ||0xfluid.pages.dev^$all
 ||1-0xfluid.pages.dev^$all

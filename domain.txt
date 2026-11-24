@@ -1040,7 +1040,6 @@ enguphold-cdn.created.app
 faq-up-huld-lggin-en.created.app
 getting-trzrsuite.created.app
 getupholdd.created.app
-global-upholld.created.app
 hashpack-en.created.app
 hashpackwallet-es.created.app
 hashpackweb3-wallet.created.app
@@ -1143,7 +1142,6 @@ waletuphold.created.app
 web-ddafilamba-support.created.app
 web-upzlogin.created.app
 welcome-uphelld-eng.created.app
-welcome-uphold-webs.created.app
 zengo.created.app
 credential-ledger.app
 cricfy-official.app
@@ -53648,6 +53646,7 @@ oskarkregar.dev
 0afd-coinbase-listing-677f.pages.dev
 0b7a-colnbase-listings-4f65.pages.dev
 0beb-fa8e-5133-c0inbase-list.pages.dev
+0d7f-4c29-5133-c0inbase-list.pages.dev
 0xe0e8243e04app-triasclaimmigrationcampaign.pages.dev
 0xfluid.pages.dev
 1-0xfluid.pages.dev
