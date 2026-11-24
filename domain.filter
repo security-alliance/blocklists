@@ -32430,7 +32430,6 @@
 ||vangrid.firebaseapp.com^$all
 ||vangrid-hub.firebaseapp.com^$all
 ||venice-vote.firebaseapp.com^$all
-||wallnet-nodefix.firebaseapp.com^$all
 ||xapp-folks-finance.firebaseapp.com^$all
 ||yieldfarms.firebaseapp.com^$all
 ||zerionwallet-tracker.firebaseapp.com^$all
@@ -66915,6 +66914,7 @@
 ||dextop-ledgrrcom-start.pages.dev^$all
 ||deying-ledger.pages.dev^$all
 ||deying-ledger-app.pages.dev^$all
+||dfbc-482c-coinbase-listing.pages.dev^$all
 ||dfdfdufddfusdsds.pages.dev^$all
 ||dfhdfhdfhdh.pages.dev^$all
 ||dflow-claims.pages.dev^$all
