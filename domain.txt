@@ -1126,7 +1126,6 @@ sos-upload.created.app
 sso-io-uphold.created.app
 sso-up-hold-io.created.app
 sso-uphcld.created.app
-sso-upheldlogin.created.app
 sso-uphld-cdn.created.app
 sso-uphld-com-auth.created.app
 sso-uphlld-eng.created.app
