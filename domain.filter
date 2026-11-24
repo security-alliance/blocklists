@@ -1017,7 +1017,6 @@
 ||app-upheld.created.app^$all
 ||app-upheld-docs.created.app^$all
 ||apps-uphled.created.app^$all
-||auth-upheld-sso-en.created.app^$all
 ||auth-upheld-us.created.app^$all
 ||auth-uphld-log.created.app^$all
 ||auth-uphld-login.created.app^$all
