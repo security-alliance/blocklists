@@ -8,7 +8,6 @@ https://sites.google.com/cryptowallitt.com/metamask-extensions/home
 https://sites.google.com/cryptowallitt.com/metamasksearchextension/home
 https://sites.google.com/cryptowallitt.com/secure-coinbase-auth/home
 https://sites.google.com/cryptowallitt.com/securemetamaskextension/home
-https://sites.google.com/cryptowalllet.com/rabbywallet
 https://sites.google.com/cryptwallets.com/exodusweb3-wallet/home
 https://sites.google.com/geo.cha9527.com/9x1c2dhy
 https://sites.google.com/geo.cha9527.com/atyxzjbz
@@ -1553,7 +1552,6 @@ https://sites.google.com/view/trezor-app-restore/trezor-suite
 https://sites.google.com/view/trezor-app-v2/trezor-suite
 https://sites.google.com/view/trezor-crypto-app/trezor-suite
 https://sites.google.com/view/trezor-dashboard/trezor-suite
-https://sites.google.com/view/trezor-desktop-access/trezor-suite
 https://sites.google.com/view/trezor-desktop-site
 https://sites.google.com/view/trezor-device-backup/trezor-suite
 https://sites.google.com/view/trezor-device-connect/trezor-suite
