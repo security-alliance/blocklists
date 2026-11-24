@@ -45274,7 +45274,6 @@ trustwallet-resolve.com
 trustwallet-rewards.com
 trustwallet-securlty.com
 trustwallet-send.com
-trustwallet-send-bep20.com
 trustwallet-silver.com
 trustwallet-suite.com
 trustwallet-suppurt.com
