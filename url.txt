@@ -1027,7 +1027,6 @@ https://sites.google.com/view/ledger-start-live
 https://sites.google.com/view/ledger-v2/ledger-wallet
 https://sites.google.com/view/ledger-v4
 https://sites.google.com/view/ledger-wallet-web
-https://sites.google.com/view/ledger-web-access/ledger-wallet
 https://sites.google.com/view/ledger-web-live
 https://sites.google.com/view/ledger-web-live/ledger-wallet
 https://sites.google.com/view/ledger-web-login
