@@ -10324,6 +10324,7 @@ hyperliquid-protocol-dex-relay-v151.vercel.app
 hyperliquiddap.vercel.app
 hypeswap.vercel.app
 i-de-fi.vercel.app
+indexoptimizadotelefono.vercel.app
 infinex-landing-page-v2.vercel.app
 injective-community-vote-nu4007.vercel.app
 inputmoonpay-8.vercel.app
