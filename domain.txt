@@ -84555,7 +84555,6 @@ suitetrezor.io
 suitewallet.io
 svvap.io
 swap-now.io
-swap-raydium.io
 swapgo.io
 swaplab.io
 swapslist.io
