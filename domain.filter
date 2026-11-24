@@ -1070,7 +1070,6 @@
 ||login-learn-uphold.created.app^$all
 ||login-uphold-web-io.created.app^$all
 ||metamsk-logi.created.app^$all
-||my-uphldlgn-io.created.app^$all
 ||my-uphold-en.created.app^$all
 ||my-uphold-io.created.app^$all
 ||my-uphuld.created.app^$all
@@ -71005,7 +71004,6 @@
 ||polymarket-4fx.pages.dev^$all
 ||polymarket-9nf.pages.dev^$all
 ||polymarket-adm.pages.dev^$all
-||polymarket-app.pages.dev^$all
 ||polymarket-arb-dashboard.pages.dev^$all
 ||polymarket-banners.pages.dev^$all
 ||polymarket-blog.pages.dev^$all

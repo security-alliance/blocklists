@@ -1070,7 +1070,6 @@ log-en-uphold.created.app
 login-learn-uphold.created.app
 login-uphold-web-io.created.app
 metamsk-logi.created.app
-my-uphldlgn-io.created.app
 my-uphold-en.created.app
 my-uphold-io.created.app
 my-uphuld.created.app
@@ -71005,7 +71004,6 @@ poly-trade.pages.dev
 polymarket-4fx.pages.dev
 polymarket-9nf.pages.dev
 polymarket-adm.pages.dev
-polymarket-app.pages.dev
 polymarket-arb-dashboard.pages.dev
 polymarket-banners.pages.dev
 polymarket-blog.pages.dev
