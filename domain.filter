@@ -62572,6 +62572,7 @@
 ||522-reallocate-flare.pages.dev^$all
 ||523-reallocate-flare.pages.dev^$all
 ||524-reallocate-flare.pages.dev^$all
+||5240-fa8e-5133-c0inbase-list.pages.dev^$all
 ||524d-coinbase-listing-677f.pages.dev^$all
 ||525-reallocate-flare.pages.dev^$all
 ||5252-fa8e-5133-c0inbase-list.pages.dev^$all
@@ -116653,7 +116654,6 @@
 ||standardreserves.xyz^$all
 ||standbynear.xyz^$all
 ||stargate-finance.xyz^$all
-||stargatefix.xyz^$all
 ||starknet-allocations.xyz^$all
 ||starknet-distribution.xyz^$all
 ||starknet-faucet.xyz^$all
