@@ -21411,7 +21411,6 @@ cx5af1po50mz.walletcoinbase.co
 icni2hs9i86h.walletcoinbase.co
 web05.co
 web3-aiwallet.co
-web3bulkassets.co
 webexinvite.co
 webmeet-google.co
 varational.website-app.co
@@ -97246,7 +97245,6 @@ web3amr.org
 web3arb.org
 rabby.web3chess.org
 web3cta.org
-web3cybersecurity.org
 web3intuit.org
 web3userauth.org
 web3userauthenticate.org
