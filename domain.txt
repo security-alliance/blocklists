@@ -16010,7 +16010,6 @@ splpage.cc
 splvault.cc
 spookyswap.cc
 ssolspin.cc
-sssee.cc
 ssweep.cc
 stake-ripple.cc
 stakegamez.cc
