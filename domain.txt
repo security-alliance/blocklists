@@ -98755,6 +98755,8 @@ lucharm.pro
 luckbet.pro
 luckypasturepartners.pro
 m86u4j4f0b.pro
+maekrdao.pro
+makedrao.pro
 makerduoo.pro
 maplefinances.pro
 maxdice.pro
@@ -101099,6 +101101,7 @@ maga171717.sbs
 majordecide.sbs
 maker-app.sbs
 maker-launchpad.sbs
+maker-staking.sbs
 maximmm88.sbs
 meet-google.sbs
 meete.sbs
