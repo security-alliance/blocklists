@@ -485,6 +485,7 @@ https://sites.google.com/view/coinbsee-page/home
 https://sites.google.com/view/coinbsee-pro-digital/home
 https://sites.google.com/view/coinbsee-pro-digitalen/home
 https://sites.google.com/view/coinbsepro-digital-en/home
+https://sites.google.com/view/coinbsepro-logo/home
 https://sites.google.com/view/coinbsse-wallet-docs/home
 https://sites.google.com/view/coineextwallet/home
 https://sites.google.com/view/coinextension-apps/home
@@ -877,6 +878,7 @@ https://sites.google.com/view/howwithdrawcryptofromcoinbase/home
 https://sites.google.com/view/hub-apps-metamask/home
 https://sites.google.com/view/hub-chrme-app/home
 https://sites.google.com/view/hub-coinbasextension/home
+https://sites.google.com/view/hub-coinbpro-web/home
 https://sites.google.com/view/hub-coinbpro/home
 https://sites.google.com/view/hub-exodus-web/home
 https://sites.google.com/view/hub-extension-com/home
@@ -1073,6 +1075,7 @@ https://sites.google.com/view/manage-ledger-live/ledger-wallet
 https://sites.google.com/view/manage-metamskwb/home
 https://sites.google.com/view/manage-trezor-app
 https://sites.google.com/view/manage-trezor-suite
+https://sites.google.com/view/managecoinpr/home
 https://sites.google.com/view/mask-chrom-us/home
 https://sites.google.com/view/mask-extensions/home
 https://sites.google.com/view/mask-login
