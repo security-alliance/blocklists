@@ -11746,7 +11746,6 @@ votes-asterdex.app
 votes-ethfi.app
 votes-firelight.app
 votes-flare.app
-votes-flaresnetworks.app
 votes-flarsenetworks.app
 votes-kinetiq.app
 votes-papertrade.app
