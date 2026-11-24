@@ -39690,6 +39690,7 @@ play-web-google.com
 play-webgoogle.com
 playbetclic.com
 playblind.com
+walletconnect.playerportalhub.com
 playertrad.com
 playglobal10.com
 playgroundarc.com
@@ -65876,6 +65877,7 @@ b3b0-colnbase-listings-4f65.pages.dev
 b6c0-colnbase-listings-4f65.pages.dev
 b783-colnbase-listings-4f65.pages.dev
 b823-44b0-coinbase-listing.pages.dev
+b8b1-482c-coinbase-listing.pages.dev
 baap-ledger.pages.dev
 backend-controller.pages.dev
 backend-service.pages.dev

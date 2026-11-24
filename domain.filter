@@ -39690,6 +39690,7 @@
 ||play-webgoogle.com^$all
 ||playbetclic.com^$all
 ||playblind.com^$all
+||walletconnect.playerportalhub.com^$all
 ||playertrad.com^$all
 ||playglobal10.com^$all
 ||playgroundarc.com^$all
@@ -65876,6 +65877,7 @@
 ||b6c0-colnbase-listings-4f65.pages.dev^$all
 ||b783-colnbase-listings-4f65.pages.dev^$all
 ||b823-44b0-coinbase-listing.pages.dev^$all
+||b8b1-482c-coinbase-listing.pages.dev^$all
 ||baap-ledger.pages.dev^$all
 ||backend-controller.pages.dev^$all
 ||backend-service.pages.dev^$all
