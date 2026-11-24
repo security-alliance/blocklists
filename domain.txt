@@ -206,7 +206,6 @@ guide-trezorsuites.framer.ai
 help-getstart.framer.ai
 help-trejorstart.framer.ai
 helps-suite-web.framer.ai
-holdup-app-io.framer.ai
 home-trezarstart-io.framer.ai
 home-trezor-suite.framer.ai
 home-trezr-en.framer.ai
@@ -66987,7 +66986,6 @@ diyaastar-ledger.pages.dev
 dk-ledger.pages.dev
 dlr-ledger.pages.dev
 do-exodusweb.pages.dev
-doc--ecxdus-web.pages.dev
 doc--exdus.pages.dev
 doc--exdus--web3.pages.dev
 doc--exdus--wed.pages.dev
