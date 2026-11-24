@@ -1137,7 +1137,6 @@ sso-upheldlogin.created.app
 sso-uphld-cdn.created.app
 sso-uphld-com-auth.created.app
 sso-uphlld-eng.created.app
-sso-uphlld-help.created.app
 sso-uphuld-cdn.created.app
 sso-uphuld-nav-x-auth.created.app
 sso-uphuld-x-auth.created.app

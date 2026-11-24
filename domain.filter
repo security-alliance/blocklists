@@ -1137,7 +1137,6 @@
 ||sso-uphld-cdn.created.app^$all
 ||sso-uphld-com-auth.created.app^$all
 ||sso-uphlld-eng.created.app^$all
-||sso-uphlld-help.created.app^$all
 ||sso-uphuld-cdn.created.app^$all
 ||sso-uphuld-nav-x-auth.created.app^$all
 ||sso-uphuld-x-auth.created.app^$all
