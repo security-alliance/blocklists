@@ -36353,7 +36353,7 @@ ledgerguides.com
 ledgerinsure.com
 ledgerinsurewallet.com
 ledgerlive-appz.com
-www.ledgerlive-en.com
+ledgerlive-en.com
 ledgerlive-eu.com
 ledgerlivea.com
 ledgerlived.com
@@ -42299,6 +42299,7 @@ safepal-download.com
 safepal-downloads.com
 safepal-eng.com
 safepal-kraken.com
+safepal-us.com
 safepal-vip.com
 safepal-web3app.com
 safepalcare.com
@@ -84165,6 +84166,7 @@ moneroswapper.io
 video.motion-control.io
 motovault.io
 sandbox-kraken.mozrt.io
+my-tronlink.io
 mybitmart.io
 mycryptomixer.io
 mymixer.io
@@ -96033,6 +96035,7 @@ ledger-apps.org
 ledger-connect.org
 ledger-crypto-wallet.org
 ledger-en.org
+ledger-eng.org
 ledger-info.org
 ledger-live-en.org
 ledger-live-eng.org
@@ -96812,6 +96815,7 @@ swap-jup.org
 swap-trust.org
 swap-unswap.org
 sweatwallet.org
+syb-us.org
 synfutures-dex.org
 systemnetblockchain.org
 t-confirm.org
@@ -96952,6 +96956,7 @@ whcb.uk.trustpaywallet.org
 trustvirtualcard.org
 trustwallet-center.org
 trustwallet-compliance.org
+trustwallet-eng.org
 trustwallet-extension.org
 trustwallet-hub.org
 trustwallet-my.org
@@ -97055,6 +97060,7 @@ upholddesktop.org
 upshiftfinance.org
 app.uriswap-v2.org
 urockmicdrop.org
+us-atomic.org
 us-bovada.org
 us-exodus.org
 us-funrize.org
