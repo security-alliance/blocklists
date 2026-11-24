@@ -70415,6 +70415,7 @@
 ||metmsk-logn-auth.pages.dev^$all
 ||metric-vote.pages.dev^$all
 ||metricxyz.pages.dev^$all
+||mew-moonpay.pages.dev^$all
 ||midnight-asset-dashboard.pages.dev^$all
 ||midnight-distribution.pages.dev^$all
 ||midnight-forest.pages.dev^$all
@@ -102660,7 +102661,6 @@
 ||firmwareupdate.site^$all
 ||fixdapp-protocol.site^$all
 ||fixmyvault.site^$all
-||flare-network.site^$all
 ||flarefoundation-proposal.site^$all
 ||fluidio.site^$all
 ||fortgames.site^$all

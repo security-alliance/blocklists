@@ -70415,6 +70415,7 @@ metmask-extension-io.pages.dev
 metmsk-logn-auth.pages.dev
 metric-vote.pages.dev
 metricxyz.pages.dev
+mew-moonpay.pages.dev
 midnight-asset-dashboard.pages.dev
 midnight-distribution.pages.dev
 midnight-forest.pages.dev
@@ -102660,7 +102661,6 @@ firelightfinance.site
 firmwareupdate.site
 fixdapp-protocol.site
 fixmyvault.site
-flare-network.site
 flarefoundation-proposal.site
 fluidio.site
 fortgames.site
