@@ -12121,7 +12121,6 @@
 ||my-krakan.zapier.app^$all
 ||my-netcins.zapier.app^$all
 ||my-netqoins.zapier.app^$all
-||my-uphoold.zapier.app^$all
 ||nav-endaxn.zapier.app^$all
 ||nav-exxodus.zapier.app^$all
 ||nav-ndaax.zapier.app^$all
@@ -60411,6 +60410,7 @@
 ||34eb-coinbase-listing-677f.pages.dev^$all
 ||35-0xfluid.pages.dev^$all
 ||35-allocation-yieldfields.pages.dev^$all
+||35-allocations-flarenetwork.pages.dev^$all
 ||35-allowlist-ascendlaunch.pages.dev^$all
 ||35-app-ethersfi.pages.dev^$all
 ||35-app-treadgov.pages.dev^$all
