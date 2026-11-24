@@ -1020,7 +1020,6 @@
 ||auth-uphld-log.created.app^$all
 ||auth-uphld-login.created.app^$all
 ||auth-upholld.created.app^$all
-||build-uphold.created.app^$all
 ||co-insmart-home.created.app^$all
 ||coenbase-pro-loegn.created.app^$all
 ||coinase-sso-logi.created.app^$all
@@ -1073,7 +1072,6 @@
 ||my-uphold-en.created.app^$all
 ||my-uphold-io.created.app^$all
 ||my-uphuld.created.app^$all
-||nav-upheld-ai.created.app^$all
 ||nettcoins.created.app^$all
 ||official-io-upheld.created.app^$all
 ||page-up-huld-io-cdn.created.app^$all
@@ -1082,14 +1080,12 @@
 ||portal-upheld.created.app^$all
 ||portal-uphold-cdn.created.app^$all
 ||portal-uphold-web-us.created.app^$all
-||portal-uphuld-start-io.created.app^$all
 ||procoinbasesignin.created.app^$all
 ||public-upheld-sso.created.app^$all
 ||ra-bby.created.app^$all
 ||rabbitx-exchange-landing-pa-821.created.app^$all
 ||raydiumm.created.app^$all
 ||secuere-upholde.created.app^$all
-||secure-login-uphold.created.app^$all
 ||secure-uphold.created.app^$all
 ||secure-uphold-en-eng.created.app^$all
 ||secure-uphold-login.created.app^$all
@@ -1174,14 +1170,12 @@
 ||uphold-logn-en.created.app^$all
 ||uphold-logn-land.created.app^$all
 ||uphold-loin.created.app^$all
-||uphold-review.created.app^$all
 ||uphold-sign-in.created.app^$all
 ||uphold-wailet-web.created.app^$all
 ||uphold-wallet-doc.created.app^$all
 ||uphold-wallet-oauth.created.app^$all
 ||uphold-wallet-webpage.created.app^$all
 ||upholdapp.created.app^$all
-||upholdd-home.created.app^$all
 ||upholddns.created.app^$all
 ||upholde-logiin.created.app^$all
 ||upholdin.created.app^$all
@@ -1195,7 +1189,6 @@
 ||uphoold-login.created.app^$all
 ||uphould-logn.created.app^$all
 ||uphuld-login.created.app^$all
-||uphuldusa.created.app^$all
 ||uphulld.created.app^$all
 ||upihold-wailet-en.created.app^$all
 ||upihold-wallet-web.created.app^$all
