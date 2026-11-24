@@ -57547,6 +57547,7 @@ pr-7831.1inch-io-app.pages.dev
 20-aerogovernance.pages.dev
 20-allocation-abstract.pages.dev
 20-allocation-yieldfields.pages.dev
+20-allocations-flarenetwork.pages.dev
 20-allowlist-ascendlaunch.pages.dev
 20-app.pages.dev
 20-app-ethersfi.pages.dev
@@ -57777,6 +57778,7 @@ pr-7831.1inch-io-app.pages.dev
 21-aerogovernance.pages.dev
 21-allocation-abstract.pages.dev
 21-allocation-yieldfields.pages.dev
+21-allocations-flarenetwork.pages.dev
 21-allowlist-ascendlaunch.pages.dev
 21-app.pages.dev
 21-app-ethersfi.pages.dev
