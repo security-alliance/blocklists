@@ -1078,7 +1078,6 @@ sso-uphuld-x-auth.created.app
 start-live-io.created.app
 start-uphuld-en.created.app
 support-uphold-web.created.app
-teacl-uphild-web.created.app
 trust-org.created.app
 trust-walt-ext.created.app
 up-held-lggin-en-cloud.created.app
