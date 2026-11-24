@@ -11753,7 +11753,6 @@
 ||voting-falre.app^$all
 ||voting-flap.app^$all
 ||voting-flarefoundation.app^$all
-||voting-flarenetwork.app^$all
 ||voting-flarenetworks.app^$all
 ||voting-zebec.app^$all
 ||votings-flarefoundation.app^$all
@@ -77129,7 +77128,6 @@
 ||droprank.fun^$all
 ||droptoken.fun^$all
 ||dualspace.fun^$all
-||early-alt.fun^$all
 ||early-drop.fun^$all
 ||jupiter.earlydrop.fun^$all
 ||pons.earn-token.fun^$all

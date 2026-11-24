@@ -11753,7 +11753,6 @@ voting-ethfi.app
 voting-falre.app
 voting-flap.app
 voting-flarefoundation.app
-voting-flarenetwork.app
 voting-flarenetworks.app
 voting-zebec.app
 votings-flarefoundation.app
@@ -77129,7 +77128,6 @@ droponsolana.fun
 droprank.fun
 droptoken.fun
 dualspace.fun
-early-alt.fun
 early-drop.fun
 jupiter.earlydrop.fun
 pons.earn-token.fun
