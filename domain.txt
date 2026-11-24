@@ -13392,7 +13392,6 @@ trx-trustwallet.biz
 trxswap.biz
 twcard.biz
 twcards.biz
-u07ei.biz
 uniswap-exchanges.biz
 us05web-zoom.biz
 usdt-airdrop.biz
@@ -88946,7 +88945,6 @@ team-trustwallet.live
 teamfill.live
 teamms.live
 teams-connect.live
-teams-desk.live
 teams-lgn-meeting10.live
 teams-lgn-meeting11.live
 teams-lgn-meeting12.live
@@ -91670,7 +91668,6 @@ clouudflare.net
 cloverpot.net
 cloydflare.net
 cmegp.net
-coachjv.net
 codepiler.net
 codingfor.net
 coelcpro.net
@@ -101646,7 +101643,6 @@ flare.wanacat.sbs
 web-api-point.sbs
 web-giftcenter.sbs
 web03.sbs
-web03us.sbs
 web04in.sbs
 web06in.sbs
 web3-v1.sbs
@@ -101679,7 +101675,6 @@ zipcoin.sbs
 zkverify.sbs
 zoom-meeting.sbs
 zoom-sharingfiles.sbs
-zoom01webin.sbs
 zoom06webin.sbs
 zoomapk.sbs
 zoomarea.sbs
