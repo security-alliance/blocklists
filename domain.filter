@@ -1011,7 +1011,6 @@
 ||crates-stonkfun.app^$all
 ||crates-usepaid.app^$all
 ||crates-xstocked.app^$all
-||access-uphld.created.app^$all
 ||aphold-logi.created.app^$all
 ||app-upheld.created.app^$all
 ||app-upheld-docs.created.app^$all
@@ -1030,7 +1029,6 @@
 ||domain-uphold-web.created.app^$all
 ||en-started.created.app^$all
 ||en-upheld-us.created.app^$all
-||en-uphold-log.created.app^$all
 ||en-upholdcom.created.app^$all
 ||en-uphuld-sso.created.app^$all
 ||en-us-upheld.created.app^$all
@@ -1049,7 +1047,6 @@
 ||help-uphold-com-auth.created.app^$all
 ||help-uphold-io.created.app^$all
 ||home-uphold.created.app^$all
-||home-upholde-sso.created.app^$all
 ||htx-logen.created.app^$all
 ||hub-uphold.created.app^$all
 ||krakn-log-im.created.app^$all
@@ -1134,12 +1131,10 @@
 ||uphold-logine.created.app^$all
 ||uphold-loginese.created.app^$all
 ||uphold-loginm.created.app^$all
-||uphold-loginre.created.app^$all
 ||uphold-logio-web.created.app^$all
 ||uphold-logln-website.created.app^$all
 ||uphold-loin.created.app^$all
 ||uphold-wallet-webpage.created.app^$all
-||upholdapp.created.app^$all
 ||upholddns.created.app^$all
 ||upholde-logiin.created.app^$all
 ||upholdin.created.app^$all
@@ -73789,7 +73784,6 @@
 ||wel-start-ledgrecom-x.pages.dev^$all
 ||wel-trezor-io-starts.pages.dev^$all
 ||welcme-krken-co-eng.pages.dev^$all
-||welcome--metamusk--ext.pages.dev^$all
 ||welcome-bridge-docs.pages.dev^$all
 ||welcome-bridge-iotrezar.pages.dev^$all
 ||welcome-coin-base-cdn.pages.dev^$all
