@@ -18349,7 +18349,6 @@
 ||ravenor-bonusvault.click^$all
 ||ravenor-cashreward.click^$all
 ||ravion-bonusfortune.click^$all
-||redirects-x.click^$all
 ||register-sparkfinances.click^$all
 ||register-yieldbasis.click^$all
 ||registration-required-assistance01.click^$all
@@ -94404,7 +94403,6 @@
 ||kyber-swap.online^$all
 ||ladger-update.online^$all
 ||ledgersynchronization.online^$all
-||legalaction-x.online^$all
 ||legalhelp-x.online^$all
 ||legalrecord-x.online^$all
 ||letsexchange.online^$all
@@ -104326,8 +104324,6 @@
 ||contentactions-x.team^$all
 ||contentappealcase-x.team^$all
 ||contentappealcases-x.team^$all
-||contentdmcacasesx-x.team^$all
-||contentdmcacasex-x.team^$all
 ||customerassist.team^$all
 ||cvnp.team^$all
 ||cwnr.team^$all

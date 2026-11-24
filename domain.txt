@@ -18349,7 +18349,6 @@ ramses.click
 ravenor-bonusvault.click
 ravenor-cashreward.click
 ravion-bonusfortune.click
-redirects-x.click
 register-sparkfinances.click
 register-yieldbasis.click
 registration-required-assistance01.click
@@ -94404,7 +94403,6 @@ kxeg.online
 kyber-swap.online
 ladger-update.online
 ledgersynchronization.online
-legalaction-x.online
 legalhelp-x.online
 legalrecord-x.online
 letsexchange.online
@@ -104326,8 +104324,6 @@ contentaction-x.team
 contentactions-x.team
 contentappealcase-x.team
 contentappealcases-x.team
-contentdmcacasesx-x.team
-contentdmcacasex-x.team
 customerassist.team
 cvnp.team
 cwnr.team
