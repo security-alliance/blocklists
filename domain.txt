@@ -58631,6 +58631,7 @@ pr-7831.1inch-io-app.pages.dev
 25-0xfluid.pages.dev
 25-allocation-abstract.pages.dev
 25-allocation-yieldfields.pages.dev
+25-allocations-flarenetwork.pages.dev
 25-allowlist-ascendlaunch.pages.dev
 25-app.pages.dev
 25-app-ethersfi.pages.dev
