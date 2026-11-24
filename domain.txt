@@ -26694,7 +26694,6 @@ blog-sunswap.com
 blog-trezsuites.com
 blogcoinbase.com
 blogsite-trezorsuite.com
-1inchdexapp.blogspot.com
 97ee6.blogspot.com
 asterdex1.blogspot.com
 asterdexexploration.blogspot.com
@@ -59978,6 +59977,7 @@ pr-7831.1inch-io-app.pages.dev
 319-curvefi.pages.dev
 319-lists-okxvotes.pages.dev
 319-reallocate-flare.pages.dev
+31f2-bc72-coinbase-listing.pages.dev
 32-0xfluid.pages.dev
 32-allocation-yieldfields.pages.dev
 32-allowlist-ascendlaunch.pages.dev
