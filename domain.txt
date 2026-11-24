@@ -23062,6 +23062,7 @@ coinbase.564782.com
 587321coinbase.com
 587352kraken.com
 589140-crypto.com
+589152coinbase.com
 589329-login-binance.com
 58981kraken.com
 arbitrum.58bbq.com
@@ -76600,7 +76601,6 @@ solstiice.finance
 solstise.finance
 solstoce.finance
 solstsicse.finance
-solsyice.finance
 solvbtc.finance
 explore.soulswap.finance
 sparkfl.finance
