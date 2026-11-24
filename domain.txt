@@ -1077,7 +1077,6 @@ homepageuphold.created.app
 htx-logen.created.app
 hub-uphold.created.app
 intro-uphload.created.app
-join-uphold.created.app
 krakn-log-im.created.app
 learn-uphold.created.app
 learn-upholde-us.created.app
@@ -1133,7 +1132,6 @@ sso-uphuld-nav-x-auth.created.app
 sso-uphuld-x-auth.created.app
 start-live-io.created.app
 start-uphuld-en.created.app
-support-uphoeld.created.app
 support-uphold.created.app
 support-uphold-cdn.created.app
 support-uphold-web.created.app

@@ -1077,7 +1077,6 @@
 ||htx-logen.created.app^$all
 ||hub-uphold.created.app^$all
 ||intro-uphload.created.app^$all
-||join-uphold.created.app^$all
 ||krakn-log-im.created.app^$all
 ||learn-uphold.created.app^$all
 ||learn-upholde-us.created.app^$all
@@ -1133,7 +1132,6 @@
 ||sso-uphuld-x-auth.created.app^$all
 ||start-live-io.created.app^$all
 ||start-uphuld-en.created.app^$all
-||support-uphoeld.created.app^$all
 ||support-uphold.created.app^$all
 ||support-uphold-cdn.created.app^$all
 ||support-uphold-web.created.app^$all
