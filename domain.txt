@@ -1082,7 +1082,6 @@ intro-uphload.created.app
 join-uphold.created.app
 krakn-log-im.created.app
 learn-uphold.created.app
-learn-uphold-secure.created.app
 learn-upholde-us.created.app
 leedgr-lived.created.app
 log-en-uphold.created.app
@@ -1216,7 +1215,6 @@ uphold-logi-eng.created.app
 uphold-logi-org.created.app
 uphold-login-app.created.app
 uphold-login-cdn.created.app
-uphold-login-cloud.created.app
 uphold-login-doc.created.app
 uphold-login-docs.created.app
 uphold-login-docs-app.created.app

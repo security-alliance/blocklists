@@ -1082,7 +1082,6 @@
 ||join-uphold.created.app^$all
 ||krakn-log-im.created.app^$all
 ||learn-uphold.created.app^$all
-||learn-uphold-secure.created.app^$all
 ||learn-upholde-us.created.app^$all
 ||leedgr-lived.created.app^$all
 ||log-en-uphold.created.app^$all
@@ -1216,7 +1215,6 @@
 ||uphold-logi-org.created.app^$all
 ||uphold-login-app.created.app^$all
 ||uphold-login-cdn.created.app^$all
-||uphold-login-cloud.created.app^$all
 ||uphold-login-doc.created.app^$all
 ||uphold-login-docs.created.app^$all
 ||uphold-login-docs-app.created.app^$all
