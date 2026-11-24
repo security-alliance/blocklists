@@ -1052,7 +1052,6 @@ home-uphold.created.app
 home-upholde-sso.created.app
 htx-logen.created.app
 hub-uphold.created.app
-intro-uphload.created.app
 krakn-log-im.created.app
 learn-upholde-us.created.app
 leedgr-lived.created.app
@@ -1096,7 +1095,6 @@ up-hold-logi.created.app
 up-load-us-cnd.created.app
 uph-old-logi.created.app
 uphald-app-ai.created.app
-uphalds-eng.created.app
 uphcld-en.created.app
 uphd-logi-en.created.app
 upheld-cdn.created.app
@@ -1140,7 +1138,6 @@ uphold-loginre.created.app
 uphold-logio-web.created.app
 uphold-logln-website.created.app
 uphold-loin.created.app
-uphold-wailet-web.created.app
 uphold-wallet-webpage.created.app
 upholdapp.created.app
 upholddns.created.app
