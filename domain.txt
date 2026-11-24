@@ -1055,7 +1055,6 @@ leedgr-lived.created.app
 login-learn-uphold.created.app
 login-uphold-web-io.created.app
 metamsk-logi.created.app
-my-uphold-io.created.app
 my-uphuld.created.app
 nettcoins.created.app
 official-io-upheld.created.app
@@ -1083,7 +1082,6 @@ teacl-uphild-web.created.app
 trust-org.created.app
 trust-walt-ext.created.app
 up-held-lggin-en-cloud.created.app
-up-hold.created.app
 up-hold-enter.created.app
 up-hold-logi.created.app
 up-load-us-cnd.created.app
