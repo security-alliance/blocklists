@@ -35468,6 +35468,7 @@ betgrw.it.com
 m.bettcio2026.it.com
 bitget-data.it.com
 change-now.it.com
+connectteams.it.com
 crypto-cast.it.com
 crypto-choose.it.com
 crypto-deliver.it.com
@@ -94712,6 +94713,7 @@ slotocash.online
 sohayaa.online
 sol-incinerator.online
 fastigiumoption.com.solaceoneheritage.online
+solapoint.online
 solburn.online
 solcreator.online
 solforg.online
@@ -96593,6 +96595,7 @@ relaylink.org
 remixnow.org
 renzo-protocol.org
 restore-you.org
+restoremymac.org
 retikproject.org
 revoke-humanity.org
 revokecashh.org
@@ -108346,7 +108349,9 @@ us12zoom.us
 us13zoom.us
 us14zoom.us
 us15web-zoom.us
+us15zoom.us
 us16web-zoom.us
+us16zoom.us
 us305web-zoom.us
 us33webzoom.us
 us34webzoom.us
