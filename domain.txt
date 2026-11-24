@@ -55628,6 +55628,7 @@ oskarkregar.dev
 14-allocation-abstract.pages.dev
 14-allocation-prismassets.pages.dev
 14-allocation-yieldfields.pages.dev
+14-allocations-flarenetwork.pages.dev
 14-allowlist-ascendlaunch.pages.dev
 14-app.pages.dev
 14-app-argus.pages.dev
@@ -55937,6 +55938,7 @@ oskarkregar.dev
 15-allocation-abstract.pages.dev
 15-allocation-prismassets.pages.dev
 15-allocation-yieldfields.pages.dev
+15-allocations-flarenetwork.pages.dev
 15-allowlist-ascendlaunch.pages.dev
 15-app.pages.dev
 15-app-argus.pages.dev
