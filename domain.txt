@@ -19056,7 +19056,6 @@ stable-rewards.cloud
 1inch.stakingreward.cloud
 1lnch.stakingreward.cloud
 chain-links.stakingreward.cloud
-compound-finances.stakingreward.cloud
 interface-links.stakingreward.cloud
 interface-railguns.stakingreward.cloud
 interface-wxt.stakingreward.cloud
@@ -21124,7 +21123,6 @@ legder.co
 pay.lidofinancesystems.co
 liquidcell.co
 powwi-cashback.livedemo.co
-lobstrdesktop.co
 lobstrwallet.co
 lobstrx.co
 lpepechain.co
