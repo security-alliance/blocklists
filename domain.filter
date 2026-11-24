@@ -65513,6 +65513,7 @@
 ||access-ledgr-dextop-en.pages.dev^$all
 ||access-ledgr-login-web.pages.dev^$all
 ||access-ledgrlive-io.pages.dev^$all
+||access-login-krekn.pages.dev^$all
 ||access-login-trezor-en-us.pages.dev^$all
 ||access-lvetrezors-usa.pages.dev^$all
 ||access-metamesk-io.pages.dev^$all
@@ -66911,6 +66912,7 @@
 ||dev-en-io-trezrr.pages.dev^$all
 ||dev-home-start-ledgr.pages.dev^$all
 ||dev-io-trezor-cdn.pages.dev^$all
+||dev-krake-login.pages.dev^$all
 ||dev-ledger-us-cdn.pages.dev^$all
 ||dev-ledgr.pages.dev^$all
 ||dev-ledgr-com-start.pages.dev^$all

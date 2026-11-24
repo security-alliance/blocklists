@@ -65513,6 +65513,7 @@ access-ledgr-desktop.pages.dev
 access-ledgr-dextop-en.pages.dev
 access-ledgr-login-web.pages.dev
 access-ledgrlive-io.pages.dev
+access-login-krekn.pages.dev
 access-login-trezor-en-us.pages.dev
 access-lvetrezors-usa.pages.dev
 access-metamesk-io.pages.dev
@@ -66911,6 +66912,7 @@ dev---app---metamsk.pages.dev
 dev-en-io-trezrr.pages.dev
 dev-home-start-ledgr.pages.dev
 dev-io-trezor-cdn.pages.dev
+dev-krake-login.pages.dev
 dev-ledger-us-cdn.pages.dev
 dev-ledgr.pages.dev
 dev-ledgr-com-start.pages.dev
