@@ -9346,7 +9346,6 @@ sso-trezoor-en-learn-login.typedream.app
 sso-trezor-com--x--auth.typedream.app
 sso-trezor-io-en.typedream.app
 sso-trezor-public-cdn.typedream.app
-sso-uphold-com-auth-t-cod.typedream.app
 sso-web-ledger-ledger-live-login.typedream.app
 sso-web-ledgerledger-com-start.typedream.app
 ssomy-krakeen-en-us-eng.typedream.app
