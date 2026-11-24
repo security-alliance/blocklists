@@ -24442,7 +24442,6 @@ accountpolicy-x.com
 accountprotect-x.com
 accounts-reports.com
 accounts-validation.com
-accounts-zoom.com
 accountsafety-x.com
 findflare.live.accountscb.com
 accountsecurity-kraken.com
@@ -75294,7 +75293,6 @@ tw-support.com.es
 verify-address.com.es
 yocasino-es.com.es
 yocasinos.com.es
-zoom-authmeet.com.es
 documents-center.es
 documents-online.es
 ethereumcasino.es
