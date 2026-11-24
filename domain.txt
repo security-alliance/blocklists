@@ -31857,6 +31857,7 @@ eu-trezor.com
 eu-trezorsuite.com
 eu-uniswap.com
 betgrw.eu.com
+call.eu.com
 casinowolinak.eu.com
 ex0dus.eu.com
 firelight.eu.com
@@ -108275,6 +108276,7 @@ msweblive.us
 myfigure.us
 mymonero.us
 net05.us
+net06.us
 newcloud.us
 newcloudupdate.us
 newinvite.us
