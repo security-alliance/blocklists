@@ -25145,7 +25145,6 @@ app-commander.com
 app-cowswap-v7.com
 app-dctpay.com
 app-desk-v6.com
-app-distrubution.com
 app-docs-verify-auth-online-portal-secure-sign-cloud.com
 app-eigenlayer-v7.com
 app-en-ledger-live.com
@@ -27829,7 +27828,6 @@ checker-squidrouter.com
 checker-standx.com
 checker-xzozo.com
 checkerfinanc.com
-checkerfinance.com
 checkerflare.com
 checkerrabby.com
 checkers-firelight.com
@@ -41873,7 +41871,6 @@ rewards-coinbase.com
 rewards-coincommunities.com
 rewards-crypto.com
 rewards-desk-xrp.com
-rewards-dexscreener.com
 rewards-epoch.com
 rewards-ethenfi.com
 rewards-etherfi.com
@@ -43532,7 +43529,6 @@ stellasmartnetwork.com
 stelthex-ex.com
 stenggok.com
 steones.com
-steps-kraken.com
 sterlingandroyce.com
 sterlingglobalmarkets.com
 sterlox-vest.com
@@ -43861,7 +43857,6 @@ swap-1inch.com
 swap-asterdex.com
 swap-byreal.com
 swap-crypto-no-kyc.com
-swap-foundation.com
 swap-justlend.com
 swap-trust.com
 swap-tw.com
@@ -77598,7 +77593,6 @@ reallocation-flarenetwork.fun
 reallocation-jup.fun
 reallocation-long.fun
 realworldcoin.fun
-recovery-pump.fun
 refyousol.fun
 register-bliss.fun
 register-fwa.fun
@@ -88044,7 +88038,6 @@ identify05-ledger.live
 identify1-ledger.live
 iflare.live
 imdashboard.live
-immuai.live
 infinitynexus.live
 info-hyperliquidx.live
 info-spx-6900.live
@@ -89663,7 +89656,6 @@ kuromionsol.lol
 launchcatsol.lol
 launchmeteora.lol
 laykaet.lol
-le4w5thr.lol
 leopardcoinbsc.lol
 light-source.lol
 lnchc1y.lol
@@ -95200,7 +95192,6 @@ arvestb.org
 asceilis.org
 aspired-capital.org
 asset-account.org
-asset-ai-recovery.org
 asset-hook.org
 ast-wstbry.org
 astardex.org
@@ -105484,7 +105475,6 @@ dedexvps.top
 defend1vip.top
 defi-exchange.top
 degen-party.top
-degen-rewards.top
 deltaliquidity.top
 demo9393.top
 derekmercer.top
@@ -106135,7 +106125,6 @@ matrlca.top
 mau-ex-an.top
 mavinacasino.top
 maxmusk.top
-mcean.top
 mdnr3zk07r5-v733.top
 mecprobrakes.top
 meetcalendateams.top
@@ -110619,7 +110608,6 @@ assets-cakeswap.xyz
 assteriafi.xyz
 astafi-network.xyz
 astargovernance.xyz
-aster-allocation.xyz
 aster-dex-voting.xyz
 asterdex-dao.xyz
 asterdex-enter.xyz
@@ -114218,7 +114206,6 @@ mumuthebullmigration.xyz
 musebooked-proposal.xyz
 musebooked-proposals.xyz
 museum-arena-ecology.xyz
-muskbtc-allocation.xyz
 mxngood.xyz
 my-crypto-wallet.xyz
 my-rewards.xyz
@@ -116455,7 +116442,6 @@ solanaislife.xyz
 solanaitrade.xyz
 solanarpcc.xyz
 solanascratch.xyz
-solanaseason4.xyz
 solandock.xyz
 solar-fluxnexus.xyz
 solar-x.xyz
@@ -116556,7 +116542,6 @@ sparkdex-registration.xyz
 sparkdex-rewards.xyz
 spatial-airdrop.xyz
 spcx-claim.xyz
-spcx-communities.xyz
 spcx-ondo-finance.xyz
 spcx-reward.xyz
 spcx-tokenized.xyz
