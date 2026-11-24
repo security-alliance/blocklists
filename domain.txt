@@ -23063,6 +23063,7 @@ coinbase.564782.com
 587352kraken.com
 589140-crypto.com
 589152coinbase.com
+589152kraken.com
 589329-login-binance.com
 58981kraken.com
 arbitrum.58bbq.com
