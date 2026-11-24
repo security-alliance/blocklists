@@ -91114,7 +91114,6 @@ bunf2cqucj7oqlc3zj63yqrnkt4hvmbmgcjc6g7hwx5e2g3j23sa.arweave.net
 c3mo6my7msubjzppeahcbfp7akzqqmcw62o5ar3pyitdx3yvoheq.arweave.net
 c4jvjm2njyd7dhxynjitlveyzq6uv3z42d7nfketd6b5k5o3gaaa.arweave.net
 c5bxtczy2lzkouixnensnx6ic7ikrkcqpld3tjguuzfbmefrlm6a.arweave.net
-ca3n5pfnfnvjosfjumpszi32eleli7cdrvlxhi75yumecxol7wgq.arweave.net
 cbsu5tbuhv3g4hlefzvqjnrplausfii2tgfasphvzvedbvtlq46a.arweave.net
 cbxkluneu4f55sfxdpr42n2cncb7iucvleyfzpo3n3afrrvlyp4a.arweave.net
 cdhk3jfzl6552kkexpqva4h5tmwkjwmfizrcw7e2plpktchouxtq.arweave.net
@@ -115131,7 +115130,6 @@ zest.protocol-allocations.xyz
 varational.protocol-dex.xyz
 zest.protocol-reward.xyz
 zest.protocol-rewards.xyz
-protocols-firelightfi.xyz
 pstoreslot-amp1.xyz
 ptahiao.xyz
 claim.pudgypenguims.xyz
