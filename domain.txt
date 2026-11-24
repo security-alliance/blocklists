@@ -23041,7 +23041,6 @@ coinbase.564782.com
 582932-ledger.com
 582933-coinspot.com
 582933-ledger.com
-582945-kraken.com
 582953-coinspot.com
 582994-ledger.com
 583017-crypto.com
@@ -71769,7 +71768,6 @@ snapshots-pons-102.pages.dev
 snapshots-v4-102.pages.dev
 snortertoken.pages.dev
 sociology-ledger.pages.dev
-soe-wallets.pages.dev
 soft-ledger.pages.dev
 soite-trezor.pages.dev
 sol-airdrop.pages.dev
