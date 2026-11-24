@@ -44330,7 +44330,6 @@ tge-alignedlayer.com
 tge-apyx.com
 tge-apyxfi.com
 tge-arc.com
-tge-firelight.com
 tge-firelightfinance.com
 tge-flarenetwork.com
 tge-flt.com
@@ -112803,7 +112802,6 @@ gift-flr.xyz
 giftcenter-web.xyz
 giftsol.xyz
 gisnz.xyz
-gitlawbs.xyz
 gitlawbv.xyz
 globalcapitalsinvestments.xyz
 globalfcc.xyz
