@@ -19057,7 +19057,6 @@ mmt.stakingreward.cloud
 navi-protocols.stakingreward.cloud
 pudgy-penguins.stakingreward.cloud
 rls.stakingreward.cloud
-typus-finance.stakingreward.cloud
 us-cgpt.stakingreward.cloud
 us-link.stakingreward.cloud
 strata-markets.cloud
