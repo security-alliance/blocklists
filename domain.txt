@@ -1071,7 +1071,6 @@ sso-io-uphold.created.app
 sso-up-hold-io.created.app
 sso-uphcld.created.app
 sso-uphld-cdn.created.app
-sso-uphlld-eng.created.app
 sso-uphuld-x-auth.created.app
 start-live-io.created.app
 start-uphuld-en.created.app
