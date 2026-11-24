@@ -32234,7 +32234,6 @@ farfx.com
 farm-chainlink.com
 fartboysolana.com
 fartevent.com
-fassets-flarenetwork.com
 fassetvisa.com
 thegraph.fast-airdrops.com
 fastigiumoption.com
@@ -54952,6 +54951,7 @@ oskarkregar.dev
 12-allocation-abstract.pages.dev
 12-allocation-prismassets.pages.dev
 12-allocation-yieldfields.pages.dev
+12-allocations-flarenetwork.pages.dev
 12-allowlist-ascendlaunch.pages.dev
 12-app.pages.dev
 12-app-argus.pages.dev
@@ -67766,6 +67766,7 @@ fdhuc4tbr7intb36f3.pages.dev
 fe-wel-kraknlog.pages.dev
 fe6ep12ijvnk.pages.dev
 fed-ledger-com-start.pages.dev
+fef4-d8e4-5133-cb-listings.pages.dev
 feg-upgrades.pages.dev
 feq-coinebs-pro-learn.pages.dev
 feq-en-web3-exodua.pages.dev
