@@ -71910,7 +71910,6 @@ smart-ledger-web.pages.dev
 smart-mainnet.pages.dev
 smartfix-app.pages.dev
 smartfix-data.pages.dev
-smartmainparcl.pages.dev
 smartsolwalletwebs.pages.dev
 smartsprocurement.pages.dev
 smeth.pages.dev
