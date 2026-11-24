@@ -1037,7 +1037,6 @@
 ||digital-upholld-en-us.created.app^$all
 ||domain-uphold-web.created.app^$all
 ||en-started.created.app^$all
-||en-upheld-io.created.app^$all
 ||en-upheld-us.created.app^$all
 ||en-uphold.created.app^$all
 ||en-uphold-log.created.app^$all
@@ -1181,19 +1180,16 @@
 ||uphold-log-setup.created.app^$all
 ||uphold-log-us.created.app^$all
 ||uphold-logen.created.app^$all
-||uphold-loges.created.app^$all
 ||uphold-logi.created.app^$all
 ||uphold-logi-eng.created.app^$all
 ||uphold-logi-org.created.app^$all
 ||uphold-login-app.created.app^$all
 ||uphold-login-cdn.created.app^$all
 ||uphold-login-doc.created.app^$all
-||uphold-login-docs.created.app^$all
 ||uphold-login-docs-app.created.app^$all
 ||uphold-login-eng.created.app^$all
 ||uphold-login-nav.created.app^$all
 ||uphold-login-org.created.app^$all
-||uphold-login-portales.created.app^$all
 ||uphold-login-uss.created.app^$all
 ||uphold-login-website.created.app^$all
 ||uphold-logine.created.app^$all
@@ -1246,7 +1242,6 @@
 ||web-uphold-com.created.app^$all
 ||web-upholden-doc.created.app^$all
 ||web-upzlogin.created.app^$all
-||welcome-en-uphold-login.created.app^$all
 ||welcome-uphelld-eng.created.app^$all
 ||welcome-uphold-webs.created.app^$all
 ||zengo.created.app^$all
