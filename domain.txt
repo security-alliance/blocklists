@@ -142,7 +142,6 @@ auth-trazore-ios.framer.ai
 auth-upheld-en.framer.ai
 auths-trzer-faqs.framer.ai
 axodus-io.framer.ai
-baseappextension.framer.ai
 bazecoen.framer.ai
 bazecoin-extnsn.framer.ai
 begin-io-trazar.framer.ai
@@ -383,7 +382,6 @@ us-trezur-suite.framer.ai
 use-ndaxapps.framer.ai
 user-ndaxcdn.framer.ai
 view-bridge-a-trzr.framer.ai
-wallecoin-baseapp.framer.ai
 wallets-exodus-starts.framer.ai
 web-trzor-wallet-io.framer.ai
 web3-eoxdus.framer.ai
@@ -82609,7 +82607,6 @@ docs-trezon--cdn.gitbook.io
 docs-trezon-cdn.gitbook.io
 docsuite-trezorr.gitbook.io
 ecoinbasecomloginc.gitbook.io
-eerxodusloiogien.gitbook.io
 eexodes-is-weelat.gitbook.io
 eigenlay--er-wallett.gitbook.io
 ellipal-io--aauth.gitbook.io
