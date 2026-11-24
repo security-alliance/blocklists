@@ -83,7 +83,6 @@ https://sites.google.com/view/apps-metamask-extion/home
 https://sites.google.com/view/apps-metmassk-io/home
 https://sites.google.com/view/apps-qoinex-/home
 https://sites.google.com/view/apps-qoinextion/home
-https://sites.google.com/view/appsio-metamske/home
 https://sites.google.com/view/appsmetamasks/home
 https://sites.google.com/view/appspro-us-en/home
 https://sites.google.com/view/appweb--baseio/home
@@ -509,7 +508,6 @@ https://sites.google.com/view/conbase-chrm/home
 https://sites.google.com/view/conbase-pro/home
 https://sites.google.com/view/conbse-wallets/home
 https://sites.google.com/view/connect-bitbuycd-/home
-https://sites.google.com/view/connect-en-metmask/home
 https://sites.google.com/view/connect-metamaskiohelp/home
 https://sites.google.com/view/connect-metmsk/home
 https://sites.google.com/view/connectcoinpro-us/home
@@ -904,12 +902,10 @@ https://sites.google.com/view/intro-coinbase-docs/home
 https://sites.google.com/view/intro-coinbase-enus/home
 https://sites.google.com/view/intro-coinbaseapp/home
 https://sites.google.com/view/intro-learned/home
-https://sites.google.com/view/intro-metamask-browse/home
 https://sites.google.com/view/intro-metamask-home/home
 https://sites.google.com/view/intro-metamask-open/home
 https://sites.google.com/view/intro-metask/home
 https://sites.google.com/view/intro-new-chrmext/home
-https://sites.google.com/view/introduce-metamask-en/home
 https://sites.google.com/view/introducig-meta/home
 https://sites.google.com/view/introextension/home
 https://sites.google.com/view/io-metamaaske/home
@@ -1183,7 +1179,6 @@ https://sites.google.com/view/metamask-help-center/home
 https://sites.google.com/view/metamask-home-cdn/home
 https://sites.google.com/view/metamask-install/home
 https://sites.google.com/view/metamask-into/home
-https://sites.google.com/view/metamask-io-docs/home
 https://sites.google.com/view/metamask-io-en/home
 https://sites.google.com/view/metamask-io-guide/home
 https://sites.google.com/view/metamask-io-hubs/home
@@ -1407,7 +1402,6 @@ https://sites.google.com/view/page-metamask-/home
 https://sites.google.com/view/page-metamsk-extion/home
 https://sites.google.com/view/page-metamskapp/home
 https://sites.google.com/view/pages-metamask/home
-https://sites.google.com/view/pages-metmask-cdn/home
 https://sites.google.com/view/pages-metmaskcd-/home
 https://sites.google.com/view/pages-metmaskcd/home
 https://sites.google.com/view/parenthow-to-turn-trust-wallet/home
