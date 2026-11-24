@@ -12612,7 +12612,6 @@ rainbets.at
 rainbett.at
 97ee1.ralind.at
 raydium-swp.at
-readles.at
 review-integrate.at
 rlive.at
 rnonero.at
@@ -15163,7 +15162,6 @@ bitplus.cc
 bitrefill.cc
 bitscions.cc
 bitso.cc
-bitspay.cc
 bitstampvip.cc
 bittrexind.cc
 bjjert.cc
@@ -17976,7 +17974,6 @@ drift-sol.click
 drift-swap.click
 drift-trade.click
 driftrade.click
-e-sequrquebec.click
 earpico.click
 eco-firelight.click
 ecosystem-based.click
@@ -28271,7 +28268,6 @@ cakedesktop.co.com
 cakewallet-web.co.com
 cakewallets.co.com
 cakewellet.co.com
-changellys.co.com
 coinbase.co.com
 compound-fi.co.com
 cowfi.co.com
@@ -28377,7 +28373,6 @@ rainbetcasino.co.com
 rainbetcasinocanada.co.com
 rainbets.co.com
 raydiulm.co.com
-raydium-swap.co.com
 ready-x.co.com
 redfcub.co.com
 rent-energy.co.com
@@ -28386,7 +28381,6 @@ republicbankcu.co.com
 rhino3d.co.com
 royalba.co.com
 s-connect.co.com
-safepal-app.co.com
 safepal-en.co.com
 safepal-eng.co.com
 safepall.co.com
@@ -33974,7 +33968,6 @@ aboutci-ti.gr.com
 aboutfixedfloat.gr.com
 aerodrome-trade.gr.com
 ai-exodus.gr.com
-app-debank.gr.com
 app-exodus.gr.com
 arveastb.gr.com
 arvestb.gr.com
@@ -34001,16 +33994,12 @@ coinbase.gr.com
 coinmarketcap.gr.com
 com-apps.gr.com
 scotia.connect.gr.com
-csmoney.gr.com
 csmoneys.gr.com
 curve-liquidity.gr.com
 daomaker-app.gr.com
-debank.gr.com
 debank-wallet.gr.com
 defillama-stats.gr.com
 dexscreener-app.gr.com
-dexscreeners.gr.com
-dextools.gr.com
 digitalbusiness-cibc.gr.com
 dydx-swap.gr.com
 eglinfcuba.gr.com
@@ -34030,14 +34019,12 @@ hostaway.gr.com
 hyperl-quid-trade.gr.com
 hyperlipuid.gr.com
 hyperliquid-app.gr.com
-hyperliquid-dex.gr.com
 info-changelly.gr.com
 info-stealthex.gr.com
 infochangenow.gr.com
 infosimpleswap.gr.com
 jeton.gr.com
 jup-swap.gr.com
-jupiter-swap.gr.com
 jupiterdex.gr.com
 apps.krakenapp.gr.com
 ldg.gr.com
@@ -34048,18 +34035,15 @@ ledg.gr.com
 ledger-cn.gr.com
 ledgershop.gr.com
 letsexchange.gr.com
-lido-staking.gr.com
 magikeden.gr.com
 manta-network.gr.com
 metamaak-leggin.gr.com
-metamaskk.gr.com
 meteora-trade.gr.com
 metomesk.gr.com
 mews.gr.com
 microsoftonline.gr.com
 monero.gr.com
 monerogui.gr.com
-my-dydx.gr.com
 my-robinhood.gr.com
 ndax.gr.com
 ndax-io.gr.com
@@ -34068,14 +34052,12 @@ new-atomic.gr.com
 new-exodus.gr.com
 new-ledger.gr.com
 new-rabby.gr.com
-new-solscan.gr.com
 ocbcvelocity.gr.com
 okx.gr.com
 okx-cn.gr.com
 onekey.gr.com
 online-ci-ti.gr.com
 openclow.gr.com
-opensea.gr.com
 opnsea.gr.com
 orca-dex.gr.com
 orca-swap.gr.com
@@ -34094,10 +34076,8 @@ raby.gr.com
 rainbet.gr.com
 rainbet-gr.gr.com
 rainbow-me.gr.com
-raydium-dex.gr.com
 raydium-exch.gr.com
 raydium-liquidity.gr.com
-raydium-swap.gr.com
 rbfcub.gr.com
 ronin-app.gr.com
 s-connect.gr.com
@@ -34113,7 +34093,6 @@ sfp.gr.com
 sideshift.gr.com
 simpleswap.gr.com
 siteminder.gr.com
-skin-port.gr.com
 skinports.gr.com
 soflare.gr.com
 solflaree.gr.com
@@ -34151,7 +34130,6 @@ unswp.gr.com
 upholdapp.gr.com
 apps.upholdapps.gr.com
 usbank.gr.com
-v-sushuswap.gr.com
 vantagecu.gr.com
 velodrome-liquidity.gr.com
 w-exodus.gr.com
@@ -42538,7 +42516,6 @@ secinfo-verify0.com
 petra-admin.secondcaesar.com
 secondcontract-dapp.com
 secondfidesktop.com
-secrebst.com
 secret-coinbase.com
 secu-polymarket.com
 secure--k4946.com
@@ -42592,7 +42569,6 @@ secure-portal-coinbase.com
 secure-portal-crypto.com
 secure-portal-microsoft.com
 secure-portal-robinhood.com
-secure-rbcbusiness.com
 secure-rewardclaim.com
 secure-safe-website.com
 secure-sales-support.com
@@ -86635,7 +86611,6 @@ web3-bitget.lat
 wickfi.lat
 winly.lat
 wojakcto.lat
-wompstores.lat
 worldiibertyfinancial.lat
 x7pad.lat
 xdxdxddx0dd.lat
@@ -114845,7 +114820,6 @@ claim.polyma2o26.xyz
 polymarcket.xyz
 withdraw.polymarket-betting.xyz
 polymarket-claim.xyz
-polymarket-distribution.xyz
 polymarket-season.xyz
 polymarket-trust.xyz
 polymarket-twt.xyz
