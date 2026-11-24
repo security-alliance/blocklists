@@ -12160,7 +12160,6 @@ up-huld-portal-eng.zapier.app
 uphldcomlog.zapier.app
 uphold-web-start.zapier.app
 upholdl-walelt-account.zapier.app
-uphuld-io.zapier.app
 us-exodus.zapier.app
 versoin-uphold.zapier.app
 web3-exo-dus.zapier.app
