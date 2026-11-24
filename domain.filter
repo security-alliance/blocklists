@@ -1046,7 +1046,6 @@
 ||en-uphuld-sso.created.app^$all
 ||en-us-upheld.created.app^$all
 ||en-us-uphld-app.created.app^$all
-||en-us-uphld-portal.created.app^$all
 ||en-us-uphold-eng.created.app^$all
 ||eng-uphold-cdn.created.app^$all
 ||eng-upholdd.created.app^$all
@@ -1123,7 +1122,6 @@
 ||teacl-uphild-web.created.app^$all
 ||trust-org.created.app^$all
 ||trust-walt-ext.created.app^$all
-||up-held-en.created.app^$all
 ||up-held-lggin-en-cloud.created.app^$all
 ||up-hold.created.app^$all
 ||up-hold-en-us.created.app^$all
@@ -62097,6 +62095,7 @@
 ||494-reallocate-flare.pages.dev^$all
 ||495-reallocate-flare.pages.dev^$all
 ||496-reallocate-flare.pages.dev^$all
+||4962-b602-colnbase-listings.pages.dev^$all
 ||497-reallocate-flare.pages.dev^$all
 ||498-reallocate-flare.pages.dev^$all
 ||499-reallocate-flare.pages.dev^$all
