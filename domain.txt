@@ -65485,6 +65485,7 @@ able-ledgrcom-eng.pages.dev
 about-phantom-wltt.pages.dev
 abstracthelp.pages.dev
 ac11-fa8e-5133-c0inbase-list.pages.dev
+acarperfume-ozppz.pages.dev
 access-coin-base-pro.pages.dev
 access-coinbae-pro-en.pages.dev
 access-coinbese-pro-en.pages.dev
@@ -66009,7 +66010,6 @@ base-ledgerlive-eng.pages.dev
 base-ledgr-desktop.pages.dev
 base-ledgr-learn.pages.dev
 base-ledgrs-eng.pages.dev
-base-live-en-help.pages.dev
 base-paradox.pages.dev
 base-pay-app-ss.pages.dev
 base-pay-integration.pages.dev
