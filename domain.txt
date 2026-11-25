@@ -22300,7 +22300,6 @@ ethereum2.360app.com
 364982-blockfi.com
 365879-crypto.com
 365lineup.com
-365teams-online.com
 368851binance.com
 36892ledger.com
 370492-crypto.com
@@ -68061,7 +68060,6 @@ giveaway-piggycoincom.pages.dev
 giveaway-welikethefoxcom.pages.dev
 gixwallet.pages.dev
 giza-net.pages.dev
-gizatech-vote-upcoming-rewards-date-treasury-pool-rewards.pages.dev
 globaldollargov.pages.dev
 globiance.pages.dev
 hotfix-walletconnect-qr.gmx-interface.pages.dev
@@ -96615,7 +96613,6 @@ ponsfam.org
 ponslisting.org
 poodlebat.org
 portable-remixide.org
-portal-bridge.org
 portal-morpho.org
 premierwealthoptions.org
 area.primebergroup.org
@@ -99070,7 +99067,6 @@ polymarketcopytrader.pro
 ponsfamiliy.pro
 porewin159.pro
 portal-ledger.pro
-portalsbridge.pro
 posttradesignals.pro
 prime-pass.pro
 primepass.pro
