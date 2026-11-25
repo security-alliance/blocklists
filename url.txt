@@ -625,6 +625,7 @@ https://sites.google.com/view/exods-webb/home
 https://sites.google.com/view/exods-wlt/home
 https://sites.google.com/view/exodsweb-wallet/home
 https://sites.google.com/view/exodsweb3-global/home
+https://sites.google.com/view/exodus--web3wallet-/home
 https://sites.google.com/view/exodus-auth/home
 https://sites.google.com/view/exodus-base-nav/home
 https://sites.google.com/view/exodus-brows/home
@@ -648,6 +649,7 @@ https://sites.google.com/view/exodus-wallet
 https://sites.google.com/view/exodus-wallet-base/home
 https://sites.google.com/view/exodus-wallet/home
 https://sites.google.com/view/exodus-walletexod/home
+https://sites.google.com/view/exodus-we3-wallet/home
 https://sites.google.com/view/exodus-web-hub/home
 https://sites.google.com/view/exodus-web-live/home
 https://sites.google.com/view/exodus-web-nov/home
@@ -657,7 +659,9 @@ https://sites.google.com/view/exodus-web3-getting/home
 https://sites.google.com/view/exodus-web3-learn/home
 https://sites.google.com/view/exodus-web3a/home
 https://sites.google.com/view/exodus-webbb/home
+https://sites.google.com/view/exodus-webe-us/home
 https://sites.google.com/view/exodus-webs-en/home
+https://sites.google.com/view/exodus-webud/home
 https://sites.google.com/view/exodus-weeb/home
 https://sites.google.com/view/exodus-wevb/home
 https://sites.google.com/view/exodusbrowse-cdn/home
@@ -676,6 +680,7 @@ https://sites.google.com/view/exodusweb3--home/home
 https://sites.google.com/view/exodusweb3-authu/home
 https://sites.google.com/view/exodusweb3-home/home
 https://sites.google.com/view/exodusweb3-homepage/home
+https://sites.google.com/view/exodusweb3-newcdn/home
 https://sites.google.com/view/exodusweb3-official/home
 https://sites.google.com/view/exoduswebwallet/home
 https://sites.google.com/view/exoduswec/home
@@ -1025,6 +1030,7 @@ https://sites.google.com/view/learned-coinbase/home
 https://sites.google.com/view/learnexodusweb/home
 https://sites.google.com/view/learningn/home
 https://sites.google.com/view/learnn-metamsk/home
+https://sites.google.com/view/learnpa/home
 https://sites.google.com/view/learnpage-metamask/home
 https://sites.google.com/view/learnpro-max/home
 https://sites.google.com/view/learrn-metamsk/home
@@ -1410,6 +1416,7 @@ https://sites.google.com/view/officialnumbermoonpaywalletsup/home
 https://sites.google.com/view/officialsitecoipro/home
 https://sites.google.com/view/online-coinbase/home
 https://sites.google.com/view/online-metamask-app/home
+https://sites.google.com/view/online-web3-wallet/home
 https://sites.google.com/view/ons-metamaske/home
 https://sites.google.com/view/open-base-extnsi/home
 https://sites.google.com/view/open-base-extnsion/home
@@ -1456,6 +1463,7 @@ https://sites.google.com/view/pro-coinbaslogin/home
 https://sites.google.com/view/pro-digita/home
 https://sites.google.com/view/pro-digital-qoin/home
 https://sites.google.com/view/pro-digtal/home
+https://sites.google.com/view/pro-exodus-wallet/home
 https://sites.google.com/view/pro-extension-en/home
 https://sites.google.com/view/pro-logn-coin/home
 https://sites.google.com/view/pro-us/home
@@ -1530,6 +1538,7 @@ https://sites.google.com/view/secure-home-extension/home
 https://sites.google.com/view/secure-robinhoodapps/home
 https://sites.google.com/view/securely-recover-seed-phrase/home
 https://sites.google.com/view/server-metamask-exton/home
+https://sites.google.com/view/server-web3-extension/home
 https://sites.google.com/view/service-webcoinbase/home
 https://sites.google.com/view/setting-up-coinbase/home
 https://sites.google.com/view/setup-ledger-live
