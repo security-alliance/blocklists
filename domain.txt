@@ -1622,6 +1622,7 @@ justlend.app
 k3-capital.app
 k3capital.app
 kakaochat.app
+kaminodex.app
 card.kastpay.app
 keetanetworks.app
 keplrdesktopwallet.app
