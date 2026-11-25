@@ -14962,6 +14962,7 @@ bitpie-a.cc
 bitplus.cc
 bitrefill.cc
 bitruer.cc
+bitruex.cc
 bitscions.cc
 bitso.cc
 bitstampvip.cc
@@ -17938,6 +17939,7 @@ phantom.installextention.click
 invitation-meeting.click
 invitationmeetings.click
 iscanai.click
+www.jacumzi.click
 join-interview-now-zoomcall.click
 join-meeting-now-zoomcall.click
 joining-now.click
@@ -20680,6 +20682,7 @@ bifrostdesktopwallets.co
 bigmumbaigame.co
 bin-ance.co
 bitgenie.co
+bitruebtc.co
 bitruer.co
 blackbullsol.co
 blastuplaunch.co
@@ -26379,6 +26382,7 @@ bitroflil.com
 bitrovevip.com
 bitrrefill.com
 bitrsefil.com
+bitruebtc.com
 bitrues.com
 bitruflli.com
 bits-vip.com
@@ -27451,6 +27455,7 @@ cervantas.com
 cervantass.com
 ces-htx.com
 cesardeairtm.com
+cetmu.com
 cetusspace.com
 cetuszone.com
 ceudex.com
@@ -86442,6 +86447,7 @@ io-5902-041v.lat
 opensea.item.lat
 jeanphil.lat
 jsjsiiswjswjiji.lat
+juancitosportrd.lat
 jumpergov.lat
 jumperxyz.lat
 justlend.lat
@@ -90060,6 +90066,7 @@ virtuals-spint.ltd
 wetradecapitalone.ltd
 worldinvestment.ltd
 worldlibertyfinancialsystem.ltd
+xt6sir.ltd
 zenithloops.ltd
 zentara.ltd
 kraken.ltda
@@ -91170,7 +91177,6 @@ aricettoug.net
 6hpv673afaa4igadx446bbyjxdb3sfjhokdbvpxeut33zawqwnbq.arweave.net
 6mwfcbnu5gm6z465vzh2ewej2wcz4tf7gyzw52mm4gnpxbqhimba.arweave.net
 6qpehafeg5frfltmmwxy3m5223gjzq5mylhpk35n33hu7o35iaua.arweave.net
-6sfmpozt2x67d4pyjkbe37virmzytn5ccb5zmm4m7ik5glwgbwga.arweave.net
 6t2yzu65nxg5bk2nzlopvoxo2ucb6vrhsq4brqd2nhu4ymw3blca.arweave.net
 6t7vk64dyhbffol3innqc5dpjut2jswa4sz3r3agv33kahebsyia.arweave.net
 6to2l2iw5rxpg36fjz5x7ggtprari5ltsihf4vxsj6zi4q6n4uha.arweave.net
@@ -91618,6 +91624,7 @@ bitoranje.net
 bitpaytrade.net
 bitprimecore.net
 bitroyal.net
+bitruebtc.net
 bitsoft360-app.net
 bitstampadvisory.net
 bitstampreviewinfo.net
@@ -95379,6 +95386,7 @@ bitcointalkpro.org
 bitfinexdesktop.org
 bitlyco.org
 bitmartpro.org
+bitruebtc.org
 bitxex.org
 blackfordbyschool.org
 blackphoenixbpx.org
@@ -105352,6 +105360,8 @@ bitpievvip.top
 bitplus.top
 bitrefill.top
 bitrefilll.top
+bitrue.top
+bitruex.top
 bitsol.top
 bittam.top
 bituni.top
@@ -105913,6 +105923,7 @@ fungolabs.top
 futuress.top
 futurewebclaim.top
 fwrde.top
+fx6devsplash.top
 fxaladdins.top
 fxporcoin.top
 fxporcoinx.top
