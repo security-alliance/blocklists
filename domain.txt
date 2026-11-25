@@ -81262,7 +81262,6 @@ poll-firelight.info
 poll-flare.info
 polling-flare.info
 pollymarket.info
-polybtc.info
 polygpt.info
 polymarket-android-app-page.info
 polymarket-naija.info
@@ -98906,7 +98905,6 @@ motoswap.pro
 ms-connect.pro
 mshotcommunyty.pro
 multichain-dapps.pro
-multiplivaults.pro
 mybon.pro
 mythstorm.pro
 na4-documentadobe.pro
@@ -110382,7 +110380,6 @@ allocation-worldieworld.xyz
 allocation-yieldbasis.xyz
 allocation-zama.xyz
 allocation-zest.xyz
-allocation-zestprotocol.xyz
 allocation-zigchain.xyz
 allocationhyperfoundation.xyz
 allocationotc.xyz
@@ -110455,7 +110452,6 @@ allocations-usepaid.xyz
 allocations-xstocks.xyz
 vote.allocations-zest.xyz
 allocations-zestprotocol.xyz
-allocations-zigchain.xyz
 allocationshyperfoundation.xyz
 allocationstonkfun.xyz
 allocationusepaid.xyz
@@ -111282,7 +111278,6 @@ claims-joinopenstandard.xyz
 claims-lit.xyz
 claims-matcha.xyz
 claims-mew.xyz
-claims-monad.xyz
 claims-nearprotocol.xyz
 claims-nexus.xyz
 claims-ore.xyz
@@ -112459,7 +112454,6 @@ flare-rewards-proposal.xyz
 flare-systems.xyz
 flare-token.xyz
 flare-tokens.xyz
-flare-volt.xyz
 flare-votes.xyz
 flare-voting.xyz
 flare-votings.xyz
