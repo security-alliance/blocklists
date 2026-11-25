@@ -76892,7 +76892,6 @@ proposals-aave.foundation
 reallocate-firelight.foundation
 reallocate-flare.foundation
 sunrisedefi.foundation
-tge--flare.foundation
 treasury-espresso.foundation
 treasury-ethena.foundation
 trustwallet.foundation
