@@ -1446,7 +1446,6 @@ gettrustsupport.app
 getusdd.app
 gitdex.app
 gitlawb.app
-global-xaman.app
 gmgn-terminal.app
 gnosisbridge.app
 godrainer.app
@@ -12545,7 +12544,6 @@ nowandthen.net.au
 rollbit.au
 still-ledger.au
 coinbase.auction
-prjx.auction
 rewards-twine.auction
 vote-twine.auction
 accountprotection-microsofts.autos
@@ -25025,7 +25023,6 @@ app-pancakesw-v4.com
 app-pendlcfinance.com
 app-pons.com
 app-ponsfamily.com
-app-proofofpotato.com
 empresa.app-proximity.com
 app-pulsex.com
 app-rain-bet.com
@@ -34989,7 +34986,6 @@ xj1l8nb1zxj1l8nb1zxj1l8nb1zxj1l8nb1zxj1l8nb1z.cok.influidz.com
 info-abo-annuel.com
 info-ecmms.com
 info-etherscan.com
-info-flyngtulip.com
 info-hyperliquidx.com
 info-icloud-help.com
 info-simpleswap.com
@@ -44660,7 +44656,6 @@ tracking-safepal.com
 trackvesit.com
 trackvizer.com
 trade-best.com
-trade-crcl.com
 trade-epoch.com
 trade-perpl.com
 trade-polymarket.com
@@ -76598,7 +76593,6 @@ tge-tread.finance
 thordex.finance
 token-firelight.finance
 token-hylo.finance
-token-ondo.finance
 token-onre.finance
 tokenizedassets.finance
 tokenpocket.finance
@@ -81170,7 +81164,6 @@ legalrecord-x.info
 legioncc.info
 lemaster-exchange.info
 lient-1ufirstsun3coastnow-sllte.info
-linea-spins.info
 link2auth.info
 liquidfoundation.info
 liquilabs.info
@@ -91117,7 +91110,6 @@ app-benqi.net
 app-changelly.net
 app-firelight.net
 app-hyperliquid.net
-app-intuitionsystems.net
 app-kaspa.net
 app-ledgar.net
 app-rocketpool.net
@@ -92020,7 +92012,6 @@ etherforgehub.net
 ethersfi.net
 ethersscan.net
 ethfond.net
-ethgas-foundation.net
 ets2planet.net
 eu-atomicwallet.net
 eu-changelly.net
@@ -92617,7 +92608,6 @@ ponsfamily.net
 ponss-family.net
 portal-jupiter.net
 portal-solana.net
-portal-virtuals.net
 portalbridges.net
 portalswap.net
 mission.portfoliometamask.net
@@ -93403,7 +93393,6 @@ claiming-jito.network
 claimone.network
 claims-brevis.network
 cnnct-gradient.network
-community-bilions.network
 community-billions.network
 community-moonshot.network
 connect-flare.network
@@ -98876,7 +98865,6 @@ hoodmarkets.pro
 hubairdrop.pro
 hubxyz.pro
 hwmonitor.pro
-hydrex.pro
 hyenatrade.pro
 hypeterminal.pro
 hytfdh.pro
@@ -101575,7 +101563,6 @@ secured-connecting-v2.sbs
 secured-connecting-v3.sbs
 secured-connecting-v4.sbs
 securedfilesharedviaa-a-reader.sbs
-securitize.sbs
 senpi.sbs
 service-compliance.sbs
 sfonkbroker.sbs
@@ -113791,7 +113778,6 @@ jupiter-verify.xyz
 jupitercitizen.xyz
 jupiterget.xyz
 jupsol-portal.xyz
-jupverse.xyz
 jymper.xyz
 kaio-distribution.xyz
 kaio-vote.xyz
