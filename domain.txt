@@ -49715,7 +49715,6 @@ learn-metamsk-en.wixstudio.com
 learn-metamskcdn.wixstudio.com
 learn-metmask-ai.wixstudio.com
 learn-metmaskhelp.wixstudio.com
-learn-moompay.wixstudio.com
 learn-moonpay-sso.wixstudio.com
 learn-moonpy.wixstudio.com
 learn-mtamskcdn.wixstudio.com
@@ -74003,7 +74002,6 @@ yieldbasis-q3-ufbu.pages.dev
 yier-bubu-ledger.pages.dev
 yinan-ledger-v2.pages.dev
 yourtrustwallet.pages.dev
-yumikorevs.pages.dev
 yuxin-ledger.pages.dev
 yuxin-ledger-staging.pages.dev
 yz-ledger.pages.dev
