@@ -849,6 +849,7 @@
 ||bulktrade.app^$all
 ||buytrx.app^$all
 ||bvwatchtower.app^$all
+||cachet-verify.app^$all
 ||cafe-xaman.app^$all
 ||cali-main.app^$all
 ||calmeet.app^$all

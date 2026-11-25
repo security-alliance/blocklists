@@ -849,6 +849,7 @@ browserpc.app
 bulktrade.app
 buytrx.app
 bvwatchtower.app
+cachet-verify.app
 cafe-xaman.app
 cali-main.app
 calmeet.app
