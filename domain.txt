@@ -18902,7 +18902,6 @@ interface-links.stakingreward.cloud
 interface-railguns.stakingreward.cloud
 interface-wxt.stakingreward.cloud
 pudgy-penguins.stakingreward.cloud
-rls.stakingreward.cloud
 us-cgpt.stakingreward.cloud
 us-link.stakingreward.cloud
 strata-markets.cloud
