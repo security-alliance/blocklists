@@ -15420,7 +15420,6 @@ ijn513.cc
 imagsss.cc
 imwallet-token.cc
 infinitowallet.cc
-invoice-base.cc
 inwallet.cc
 io-exch.cc
 io-qr.cc
@@ -15624,7 +15623,6 @@ starknetpro.opcagent.cc
 opnbh.cc
 ose-jp.cc
 oseapp.cc
-p3peg.cc
 packscan.cc
 palidapp.cc
 pancakeswapfinance.cc
@@ -29992,7 +29990,6 @@ crypt-e-lux.com
 cryptandcoin.com
 crypterraprime.com
 cryptgeons.com
-crypticcweb.com
 crypto-aaaa.com
 crypto-casino-rainbet.com
 crypto-coinme.com
@@ -39288,7 +39285,6 @@ paywardltd.com
 pazowin.com
 pc-basekx.com
 pc-trezorsuite.com
-pc2-binance.com
 pcaccessnow.com
 pcbifrostdesktop.com
 pcdcentwallet.com
@@ -44245,7 +44241,6 @@ thefidanetwork.com
 thefilm-distributions.com
 thefundtrad.com
 coinbase.thegambitshow.com
-thegrass-accessportal2026.com
 thegreektraveller.com
 thehubclassmc.com
 theillumicati.com
@@ -44267,7 +44262,6 @@ thepikashowapks.com
 thepolymarketbot.com
 thepolymarketportal.com
 thepolymarketportal-2026.com
-theportal-pinetwork2026.com
 theprosperagenius.com
 thepurpleohm.com
 thequickkicks.com
@@ -44718,7 +44712,6 @@ transfers-coinbase.com
 transfersecure-ca.com
 transfert-transaction-fr.com
 transitfor.com
-transition-kinetiq.com
 trarkcer.com
 trastwalet.com
 trastwallet.com
@@ -47302,7 +47295,6 @@ web5ntf.com
 web6868168.com
 web7bisqq.com
 web7bisqq1.com
-web8-binance.com
 webaccount-whatsapp.com
 itrustcapitelelogin.webador.com
 kreajenlogin.webador.com
@@ -52534,7 +52526,6 @@ zh-bitpiewallet.com
 zh-sn-keringpc.com
 zh-web-aiyouxigame.com
 zh-welcome-perfectworld.com
-zh5-binance.com
 zhali.com
 dunia.zhaoj.com
 nuansabening.zhigongfuli.com
@@ -81399,7 +81390,6 @@ revoke-realio.info
 reward-merkl.info
 rewards-availproject.info
 rewards-bitlightlabs.info
-rewards-firelight.info
 rewards-pendle.info
 rewards-pendlefi.info
 rewards-skymoney.info
@@ -82387,7 +82377,6 @@ ethdigz.io
 ethearu.io
 ethereum-mixer.io
 etherscens.io
-ethfarmhub.io
 ethfarmy.io
 ethfarmz.io
 ethhashz.io
@@ -87054,7 +87043,6 @@ aeve-core.live
 affideltyinc.live
 ag-claim.live
 agentcpa-migration.live
-agentmemory.live
 ai-openclaw.live
 venice.ai-proposal.live
 aidogchain.live
@@ -89550,7 +89538,6 @@ cateonsol.lol
 catonithood.lol
 ccitrea.lol
 ch-pay-secure.lol
-cheapbugs.lol
 checker-yieldbasis.lol
 checkix.lol
 claim-firelight.lol
@@ -89755,7 +89742,6 @@ online-omben-crypto.lol
 onlinemonitoringi-crypto-obmennikov.lol
 onlineomben-crypto.lol
 openstandard-redirect.lol
-openviking.lol
 ozycrypto.lol
 pancakeswaps.lol
 paraddise.lol
@@ -89871,7 +89857,6 @@ stonkcoinsols.lol
 stonkfun.lol
 suidrop.lol
 super-gemma.lol
-surplus-intelligence.lol
 adi.sushi-bar.lol
 olas.sushi-com.lol
 sushi-dex.lol
@@ -92072,7 +92057,6 @@ get-etc.net
 get-ledger.net
 getimtoken.net
 ghostrocket.net
-git-lawbs.net
 gitcoin.net
 gitcoin-grants-builder-program.net
 glamzenith.net
@@ -99143,7 +99127,6 @@ sullend.pro
 summerfiapp.pro
 sunwsap.pro
 superbridges-app.pro
-surplusintelligence.pro
 swap-navarchain.pro
 swapxapp.pro
 syntehtix.pro
@@ -104658,7 +104641,6 @@ secure-auth-system.tech
 secure-chat.tech
 secureopen.tech
 sharprad-x.tech
-shieldcdn.tech
 siliconcanals.tech
 skyecosystem.tech
 skyecosystems.tech
@@ -107890,6 +107872,7 @@ worldlibertyfinancial.uno
 03webzoominvite.us
 03wed.us
 03z.us
+03zoom.us
 04app.us
 04bin.us
 04mweb.us
@@ -108509,6 +108492,7 @@ usweb0006zoom.us
 usweb0007zoom.us
 usweb005zoom.us
 usweb02zoom.us
+usweb04.us
 usweb06zoom.us
 usweb06zoominvite.us
 usweb07zoom.us
@@ -111104,7 +111088,6 @@ checker-grvt.xyz
 checker-hyper.xyz
 checker-hyperfoundation.xyz
 checker-ink.xyz
-checker-intuition.xyz
 checker-jump.xyz
 checker-jumper.xyz
 checker-jup.xyz
@@ -111919,7 +111902,6 @@ eligibility-hyperfoundation2.xyz
 eligibility-hyperfoundation3.xyz
 eligibility-hyperfoundation4.xyz
 eligibility-jumper.xyz
-eligibility-jupag.xyz
 eligibility-monad.xyz
 eligibility-morpho.xyz
 eligibility-morphoapp.xyz
@@ -113528,7 +113510,6 @@ interests-yieldbasis.xyz
 interface-0.xyz
 interfaces-flare.xyz
 intergraredule.xyz
-intuition-checker.xyz
 intuition-reward.xyz
 inv2apexef.xyz
 inv2fuel.xyz
@@ -114492,7 +114473,6 @@ nowsecurederive.xyz
 nsado.xyz
 ntfme.xyz
 nucleuscodes.xyz
-nullfee.xyz
 nvdapre-order.xyz
 nvpder.xyz
 ochainportal.xyz
