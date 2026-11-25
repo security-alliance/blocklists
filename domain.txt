@@ -44100,7 +44100,6 @@ terminate-web13secureinternetbank.com
 termsdmca-x.com
 termsfaq-x.com
 termsliue.com
-termslives.com
 termslivex.com
 termslivz.com
 termslize.com
@@ -86775,6 +86774,7 @@ nicedice.lc
 pump.lc
 relay.lc
 uniswap.lc
+workplace.lc
 opensea.legal
 tron.legal
 asterdex.li

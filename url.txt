@@ -545,6 +545,7 @@ https://sites.google.com/view/digital-koinvase/home
 https://sites.google.com/view/does-coinbase-take-to-cash-out/home
 https://sites.google.com/view/does-kraken-require-kyc
 https://sites.google.com/view/dosppt103
+https://sites.google.com/view/download--metamskext/home
 https://sites.google.com/view/download-metamask-/home
 https://sites.google.com/view/download-metamask-en/home
 https://sites.google.com/view/download-metamask-extension-03/home
@@ -1106,14 +1107,17 @@ https://sites.google.com/view/login-metamaskapp/home
 https://sites.google.com/view/login-metaus/home
 https://sites.google.com/view/login-metmask-/home
 https://sites.google.com/view/login-mtamaskweb/home
+https://sites.google.com/view/login-secure--/home
 https://sites.google.com/view/login-secure-coin/home
 https://sites.google.com/view/logincoinbaseblogs
 https://sites.google.com/view/loginmeta
+https://sites.google.com/view/loginmeta-mask/home
 https://sites.google.com/view/loginmetam/home
 https://sites.google.com/view/loginmetamask-app/home
 https://sites.google.com/view/loginmetamaskwe/home
 https://sites.google.com/view/loginofficial-en/home
 https://sites.google.com/view/logins-metamask/home
+https://sites.google.com/view/logn-metamask-user/home
 https://sites.google.com/view/logn-metamask-web/home
 https://sites.google.com/view/logn-metamsk/home
 https://sites.google.com/view/lognn-metamsk/home
@@ -1385,6 +1389,7 @@ https://sites.google.com/view/metmask-us/home
 https://sites.google.com/view/metmsk-chromus/home
 https://sites.google.com/view/metmsk-extenions/home
 https://sites.google.com/view/metmsk-extensi/home
+https://sites.google.com/view/metmsk-extension-defi/home
 https://sites.google.com/view/metmsk-extensionn/home
 https://sites.google.com/view/metmsk-extensions/home
 https://sites.google.com/view/metmsk-extensons/home
