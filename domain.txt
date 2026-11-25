@@ -29208,6 +29208,7 @@ com-gift-cards-xrp.com
 bitrefill.com-gift-cards-xtz.com
 bitrefill.com-gift-cards-zec.com
 com-gift-cards-zil.com
+bitrefill.com-gift-cards-zrx.com
 com-gift-esim-a04.com
 com-gift-esim-aa04.com
 com-gift-esim-ab04.com
@@ -117742,6 +117743,7 @@ variational-perps.xyz
 variational-proposal.xyz
 variational-rewards-proposal.xyz
 variational-season.xyz
+variational-tge.xyz
 variational-vote.xyz
 variationala.xyz
 variationalai-omniprotocol.xyz
