@@ -8129,7 +8129,6 @@ poly-mark.app
 polyarbiter.app
 polydrop.app
 polygonbridge.app
-polyhunch.app
 polyk-mark.app
 polymarketpulse.app
 polymarketru.app
