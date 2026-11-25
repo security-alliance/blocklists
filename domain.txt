@@ -109357,6 +109357,7 @@ fi-strategy-assistant-website.website
 flaremainnet.website
 acc-jaxxliberty.framer.website
 app-base-extension.framer.website
+app-metamskextnsion.framer.website
 apps-base-extensn.framer.website
 apps-lace-extension.framer.website
 apps-metamsk-get.framer.website
@@ -109429,6 +109430,7 @@ liveapps-service.framer.website
 logon-apps-ndaxcdn.framer.website
 media-extension-app.framer.website
 metamaks-live.framer.website
+metamakscdn-apps.framer.website
 metamakscdn-webio.framer.website
 metamaskcdn-ext.framer.website
 metamaskcdn-io.framer.website
