@@ -20337,6 +20337,7 @@ hype.hk.cn
 imtoken.hk.cn
 ledger.hk.cn
 metamask.hk.cn
+phantom.hk.cn
 proton.hk.cn
 metamask8.token.hk.cn
 trustwallet.hk.cn
