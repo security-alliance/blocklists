@@ -18411,6 +18411,7 @@ swap-curve-fi.click
 swap-pumpfun.click
 symbiotic.click
 symp033.click
+synchronizationdapp.click
 synthetix.click
 t-wallets.click
 teambull.click
