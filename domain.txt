@@ -9964,7 +9964,6 @@ dexscreener-voting.vercel.app
 dfmqgr-rm8c7495.vercel.app
 dominas.vercel.app
 doppler-finances.vercel.app
-dotarc.vercel.app
 draco-six.vercel.app
 drw-trading-group.vercel.app
 dxwuob-joeyee8t.vercel.app
