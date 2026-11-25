@@ -59694,6 +59694,7 @@ pr-7831.1inch-io-app.pages.dev
 3-up33-allocations.pages.dev
 3-usefelix.pages.dev
 3-usenest.pages.dev
+3-variational-tge.pages.dev
 3-variationalio.pages.dev
 3-venice.pages.dev
 3-view-kinetiq.pages.dev
@@ -66972,6 +66973,7 @@ doc-exdus--web-3.pages.dev
 doc-exdus-cdn.pages.dev
 doc-exduswab.pages.dev
 doc-exdusweb3.pages.dev
+doc-exo-dus3wallet.pages.dev
 doc-exobus-web.pages.dev
 doc-exodue-web.pages.dev
 doc-exodur-web.pages.dev
