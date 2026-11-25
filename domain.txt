@@ -94383,6 +94383,7 @@ gashogaresfacturas.online
 gateger.online
 gatesswp.online
 getsdkupdate.online
+hondafan.ggsbot.online
 giveth.online
 globalflashusdt.online
 gmtalc.online
@@ -107683,6 +107684,7 @@ voted-pools.trade
 votedex.trade
 votes-pools.trade
 voting-pools.trade
+westwindcapital.trade
 yeran.trade
 zeroinwallet.trade
 zev25.trade
@@ -114950,6 +114952,7 @@ polymarket-trust.xyz
 polymarket-twt.xyz
 polymarketbets.xyz
 polymarketspin.xyz
+polymarketstrategy.xyz
 polymarketwatch.xyz
 polymarketweather.xyz
 polytote.xyz
