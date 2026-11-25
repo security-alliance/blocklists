@@ -48271,7 +48271,6 @@ browser-masksso.wixstudio.com
 browser-metamask-io.wixstudio.com
 browser-metamsekio.wixstudio.com
 browser-metmask-io.wixstudio.com
-browser-moenpey.wixstudio.com
 browser-msakcdn.wixstudio.com
 browser-rabbyiostart.wixstudio.com
 browser-setup-base.wixstudio.com
@@ -48584,7 +48583,6 @@ en-metamsks-apps.wixstudio.com
 en-metmask-apps.wixstudio.com
 en-metmaskcdn.wixstudio.com
 en-moonpay-us.wixstudio.com
-en-moonpaycdn.wixstudio.com
 en-moonpaycdn-nav.wixstudio.com
 en-mtsmask.wixstudio.com
 en-new-tangemm.wixstudio.com
@@ -49363,7 +49361,6 @@ info-metamsk-ext.wixstudio.com
 info-qoin-wallet.wixstudio.com
 information-metamask.wixstudio.com
 insert-kukoin.wixstudio.com
-insert-moonpaycdn.wixstudio.com
 install-metamask.wixstudio.com
 install-metmaskcdn.wixstudio.com
 installmetamaskcdn.wixstudio.com
