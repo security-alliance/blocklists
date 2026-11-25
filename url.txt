@@ -1062,7 +1062,6 @@ https://sites.google.com/view/ledger-desktop-version
 https://sites.google.com/view/ledger-desktop-version/ledger-wallet
 https://sites.google.com/view/ledger-device-backup/ledger-live
 https://sites.google.com/view/ledger-device-backup/ledger-wallet
-https://sites.google.com/view/ledger-device-connect/ledger-wallet/
 https://sites.google.com/view/ledger-live-api
 https://sites.google.com/view/ledger-live-ex/ledger-wallet
 https://sites.google.com/view/ledger-live-updater
