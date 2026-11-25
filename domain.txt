@@ -42775,7 +42775,6 @@ skyecorewards.com
 inlogin.metamask.skyliteconsulting.com
 mail.skypvausa.com
 skyroyalftx.com
-skytradepro.com
 skywaveinvs.com
 slack-huddle.com
 slack-verify.com
@@ -66136,6 +66135,7 @@ cantons-tges-com.pages.dev
 capability-ledger-dashboard-eii.pages.dev
 capappgov.pages.dev
 capital-glass-ledger.pages.dev
+card-1inch-io.pages.dev
 cardano-staking.pages.dev
 caribbean-ledger-site.pages.dev
 cash-cat.pages.dev
@@ -77306,6 +77306,7 @@ halloween26-pump.fun
 halloweens-pump.fun
 helpmeoutofarc.fun
 hesold.fun
+hexfomo.fun
 hnlp.fun
 holder-rewards.fun
 holders-embercurve.fun
@@ -77777,6 +77778,7 @@ trenche.fun
 trending-moonshot.fun
 trollusdcpump.fun
 trondefi.fun
+trongame.fun
 trongas.fun
 trumpaccountsusd1.fun
 txflowecosystem.fun
