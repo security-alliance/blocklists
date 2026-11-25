@@ -687,7 +687,6 @@
 ||allocation-hyperfoundation.app^$all
 ||allocation-jumper.app^$all
 ||allocation-ledger.app^$all
-||allocation-lienfi.app^$all
 ||allocation-network.app^$all
 ||allocation-octra.app^$all
 ||allocation-pendle.app^$all
@@ -12590,7 +12589,6 @@
 ||accountprotection-microsofts.autos^$all
 ||betflik.autos^$all
 ||claimallocation.autos^$all
-||ez-cash.autos^$all
 ||firelightboardstairs.autos^$all
 ||firelighttable.autos^$all
 ||firelighttablestairs.autos^$all
@@ -14100,7 +14098,6 @@
 ||dseht.buzz^$all
 ||dsehti.buzz^$all
 ||dsehtt.buzz^$all
-||ez-cash.buzz^$all
 ||feraudpd.buzz^$all
 ||firelight.buzz^$all
 ||gift-web.buzz^$all
@@ -17429,7 +17426,6 @@
 ||whatsapp-verify.chat^$all
 ||zoomconnect.chat^$all
 ||ae888.cheap^$all
-||ez-cash.christmas^$all
 ||ledger.christmas^$all
 ||help.com.ci^$all
 ||exodus.us.ci^$all
@@ -19051,7 +19047,6 @@
 ||buytrrxx.club^$all
 ||catememe.club^$all
 ||catonit.club^$all
-||claim-rlusd.club^$all
 ||cn-okx.club^$all
 ||coinbasefxo.club^$all
 ||coingatepro.club^$all
@@ -23223,7 +23218,6 @@
 ||719361-cb.com^$all
 ||7193814coinbase.com^$all
 ||719397-binance.com^$all
-||720200-crypto.com^$all
 ||720391-crypto.com^$all
 ||720800-kraken.com^$all
 ||721042coinbase.com^$all
@@ -24433,7 +24427,6 @@
 ||aeroxwin.com^$all
 ||aesthetesrewards.com^$all
 ||aesthetesrlusd.com^$all
-||aether-aerial.com^$all
 ||aetherflow.com^$all
 ||aetherliquidity.com^$all
 ||aevachain.com^$all
@@ -25387,7 +25380,6 @@
 ||atomic-web3-app.com^$all
 ||atomic-web3app.com^$all
 ||atomic-www.com^$all
-||atomicwallet-finance.com^$all
 ||atomik-webx.com^$all
 ||atrocha.com^$all
 ||ats-htx.com^$all
@@ -29595,7 +29587,6 @@
 ||commerscale.com^$all
 ||commission-jobs.com^$all
 ||communication-coinbase.com^$all
-||communication-securauth.com^$all
 ||communications-x.com^$all
 ||communicationstrezor.com^$all
 ||communities-moonshot.com^$all
@@ -53639,7 +53630,6 @@
 ||esxi.dev^$all
 ||fdts.dev^$all
 ||firelaunch.dev^$all
-||firelight-finance.dev^$all
 ||flstudio.dev^$all
 ||flubless.dev^$all
 ||rodeo-os.fly.dev^$all
@@ -76884,7 +76874,6 @@
 ||arcus.xyz-points.forum^$all
 ||yield-qlyn.forum^$all
 ||zestprotocol.forum^$all
-||aete-eth.foundation^$all
 ||app-hyperliquid.foundation^$all
 ||pre-release.bluefin.app.bluefin.foundation^$all
 ||4832.bluefin.pr.app.bluefin.foundation^$all
@@ -77195,7 +77184,6 @@
 ||claim-kinetiq.fun^$all
 ||claim-nukes.fun^$all
 ||claim-portal.fun^$all
-||claim-rlusd.fun^$all
 ||claim-ryft.fun^$all
 ||claim-sol-twitter.fun^$all
 ||claim-usepaid.fun^$all
@@ -77314,7 +77302,6 @@
 ||event-embercurve.fun^$all
 ||events-degencoin.fun^$all
 ||events-embercurve.fun^$all
-||events-solanafunded.fun^$all
 ||exclusive-drop.fun^$all
 ||facebook-coin.fun^$all
 ||fagalert.fun^$all
@@ -78340,7 +78327,6 @@
 ||aiinvest.help^$all
 ||anz-rewards.help^$all
 ||app-s-rslv.help^$all
-||application-wallet.help^$all
 ||assistant-findmy.help^$all
 ||assistant-lcloud.help^$all
 ||auth-payout12.help^$all
@@ -78642,7 +78628,6 @@
 ||safepalwallet.hu^$all
 ||space-x.hu^$all
 ||035fvpefelb12zw.icu^$all
-||0odos-v3.icu^$all
 ||arc.0xff00.icu^$all
 ||1165644.icu^$all
 ||app.11arnawsap.icu^$all
@@ -78921,7 +78906,6 @@
 ||claim-firelight.icu^$all
 ||claim-flarenetwork.icu^$all
 ||claim-netnetcapital.icu^$all
-||claim-rlusd.icu^$all
 ||claim-usdai.icu^$all
 ||claimapex.icu^$all
 ||claimera.icu^$all
@@ -81963,7 +81947,6 @@
 ||chanegnow.ink^$all
 ||changelleyxchange.ink^$all
 ||citrea.ink^$all
-||claim-rlusd.ink^$all
 ||claims-firelight.ink^$all
 ||coarl.ink^$all
 ||coinabsewallet.ink^$all
@@ -86452,13 +86435,11 @@
 ||ethsystems.lat^$all
 ||event-concrete.lat^$all
 ||event-embercurve.lat^$all
-||ez-cash.lat^$all
 ||fablesfi.lat^$all
 ||falconfinance.lat^$all
 ||falconfinances.lat^$all
 ||pons.family-proposal.lat^$all
 ||ethena.fi-register.lat^$all
-||finance-aero.lat^$all
 ||financeglobal.lat^$all
 ||findeviceapple.lat^$all
 ||firelight-fi.lat^$all
@@ -87038,7 +87019,6 @@
 ||xmthinkmarkets.life^$all
 ||yieldbasis.life^$all
 ||zhuzi.life^$all
-||ez-cash.lifestyle^$all
 ||space-x.lifestyle^$all
 ||meta-consensys.limited^$all
 ||pancakeswap.limited^$all
@@ -88673,7 +88653,7 @@
 ||poohtoken.live^$all
 ||portal-ai-nvda.live^$all
 ||portal-firelightfi.live^$all
-||portal-firelightfinance.live^$all
+||support.portal-firelightfinance.live^$all
 ||portal-flare.live^$all
 ||portal-flarefoundation.live^$all
 ||portal-securenetmailverify.live^$all
@@ -90789,7 +90769,6 @@
 ||exchange-xx.mom^$all
 ||exchange-yy.mom^$all
 ||exodus.mom^$all
-||ez-cash.mom^$all
 ||flarenetwork.mom^$all
 ||gcbest.mom^$all
 ||gtv9z2.mom^$all
@@ -91122,7 +91101,6 @@
 ||advance-electriics.net^$all
 ||advjx.net^$all
 ||aeroupgrade.net^$all
-||aether-bridge-trade.net^$all
 ||app.aethercascade.net^$all
 ||aevachain.net^$all
 ||afi-protocol.net^$all
@@ -94192,7 +94170,6 @@
 ||aave-app.online^$all
 ||aavefi.online^$all
 ||aavenetwork.online^$all
-||access-ethana.online^$all
 ||access-securedocument.online^$all
 ||accountshub.online^$all
 ||accountsmeetin.online^$all
@@ -95397,8 +95374,6 @@
 ||app-metamask.org^$all
 ||app-meteora.org^$all
 ||app-morpho.org^$all
-||app-one1inch.org^$all
-||app-one1nch.org^$all
 ||app-rabby.org^$all
 ||app-rocketpool.org^$all
 ||app-safepal.org^$all
@@ -98214,7 +98189,6 @@
 ||eligbl-ellysyum.pics^$all
 ||elisylum-news.pics^$all
 ||elysium-rewards.pics^$all
-||ez-cash.pics^$all
 ||last-ellysyum.pics^$all
 ||memescandata.pics^$all
 ||nvda-rewards.pics^$all
@@ -98499,7 +98473,6 @@
 ||chipmixer.pro^$all
 ||citrea.pro^$all
 ||claim-gate.pro^$all
-||claim-rlusd.pro^$all
 ||claimslab.pro^$all
 ||claimsol.pro^$all
 ||classicwinner360.pro^$all
@@ -102896,7 +102869,6 @@
 ||member-auth-center.site^$all
 ||messenger-verification-checkssecurity.site^$all
 ||messenger-verification-worsk.site^$all
-||meta-mask.site^$all
 ||metamask-wallet.site^$all
 ||meteora-mining.site^$all
 ||mhvcv.site^$all
@@ -103673,7 +103645,6 @@
 ||enter-firelight.space^$all
 ||evedex-airdrop.space^$all
 ||exodus-app.space^$all
-||ez-cash.space^$all
 ||fi-i.space^$all
 ||firelight-ecosystem.space^$all
 ||fix-dll-helper.space^$all
@@ -104207,7 +104178,6 @@
 ||coalink.support^$all
 ||coinbase-account.support^$all
 ||coinbase-representative.support^$all
-||colnbase.support^$all
 ||com-apple.support^$all
 ||com-financial.support^$all
 ||com-find-device.support^$all
@@ -105716,7 +105686,6 @@
 ||connect-polymarket.top^$all
 ||connect-private.top^$all
 ||connect-suinetwork.top^$all
-||connected-bridge.top^$all
 ||cont-meet.top^$all
 ||contactmetamask.top^$all
 ||cool-claim.top^$all
@@ -105943,7 +105912,6 @@
 ||extendedapp-allocation.top^$all
 ||extendedexchange.top^$all
 ||governance.extendeed.top^$all
-||ez-cash.top^$all
 ||ezoom.top^$all
 ||f7wzz0om.top^$all
 ||fablesfiofficial.top^$all
@@ -105996,7 +105964,6 @@
 ||fiekx.top^$all
 ||fifa-rewards.top^$all
 ||figurea.top^$all
-||finance-aero.top^$all
 ||doppler.finance-allocations.top^$all
 ||firelight.finance-eligibility.top^$all
 ||doppler.finance-genesis.top^$all
@@ -109036,7 +109003,6 @@
 ||changllypro.vip^$all
 ||chiliz.vip^$all
 ||cide02.vip^$all
-||claim-rlusd.vip^$all
 ||claimpengu.vip^$all
 ||clashx.vip^$all
 ||cm-kraken.vip^$all
@@ -111114,7 +111080,6 @@
 ||blackbullonsol.xyz^$all
 ||blackbullsol.xyz^$all
 ||blackbullsolana.xyz^$all
-||blast-dapp.xyz^$all
 ||bless-green-next.xyz^$all
 ||bless-network.xyz^$all
 ||blh15web.xyz^$all
@@ -111446,7 +111411,6 @@
 ||claim-pumpbtc.xyz^$all
 ||claim-re.xyz^$all
 ||claim-retik.xyz^$all
-||claim-rlusd.xyz^$all
 ||claim-robin.xyz^$all
 ||claim-robinhood.xyz^$all
 ||claim-sand.xyz^$all
@@ -111509,7 +111473,6 @@
 ||claims-papertrade.xyz^$all
 ||claims-popdex.xyz^$all
 ||claims-pumpbtc.xyz^$all
-||claims-sonic.xyz^$all
 ||claims-stonkfun.xyz^$all
 ||claims-treadfi.xyz^$all
 ||claims-ultiland.xyz^$all
@@ -112481,7 +112444,6 @@
 ||fiarenetwork.xyz^$all
 ||fifatoken.xyz^$all
 ||figure-armed-grocery.xyz^$all
-||finance-aero.xyz^$all
 ||finance-allocations.xyz^$all
 ||firelight.finance-distributions.xyz^$all
 ||finance-en.xyz^$all
