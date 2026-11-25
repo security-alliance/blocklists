@@ -86188,6 +86188,7 @@ d1c-collab.land
 d3c-collab.land
 dac-collab.land
 db-collab.land
+deo-collab.land
 dfc-collab.land
 dgx-collab.land
 doc-collab.land
@@ -113192,6 +113193,7 @@ gtniobfhaijvla.xyz
 guarded-shield-router.xyz
 arc-console.gudman.xyz
 guildauth2.xyz
+guildclave.xyz
 guildco.xyz
 guildcove.xyz
 gunicorn.xyz
