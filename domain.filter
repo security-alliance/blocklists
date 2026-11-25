@@ -13796,6 +13796,7 @@
 ||policeogvv.bond^$all
 ||policyeplx.bond^$all
 ||polymarketsupport.bond^$all
+||polyrnarket.bond^$all
 ||pqxhsrdj.bond^$all
 ||preparerssj.bond^$all
 ||processuveqo.bond^$all
@@ -19278,6 +19279,7 @@
 ||b1-binance.cn^$all
 ||b2-binance.cn^$all
 ||ba-binance.cn^$all
+||ba-okx.cn^$all
 ||bb-binance.cn^$all
 ||bb-okx.cn^$all
 ||bch-binance.cn^$all
@@ -19524,6 +19526,7 @@
 ||cnap-binance.com.cn^$all
 ||cncc-binance.com.cn^$all
 ||cncc-okx.com.cn^$all
+||cnco-okx.com.cn^$all
 ||cndns-binance.com.cn^$all
 ||cndzh-okx.com.cn^$all
 ||cne-okx.com.cn^$all
@@ -19536,6 +19539,7 @@
 ||cnpc-binance.com.cn^$all
 ||cnpc-okx.com.cn^$all
 ||cns-bybit.com.cn^$all
+||cnsm-okx.com.cn^$all
 ||cnsweb-okx.com.cn^$all
 ||cnu-binance.com.cn^$all
 ||cnw-okx.com.cn^$all
@@ -19788,6 +19792,7 @@
 ||link-bitget.com.cn^$all
 ||link-htx.com.cn^$all
 ||litecoin-binance.com.cn^$all
+||ljl-okx.com.cn^$all
 ||ll-line.com.cn^$all
 ||llm-binance.com.cn^$all
 ||llm-okx.com.cn^$all
@@ -19812,6 +19817,7 @@
 ||memo-binance.com.cn^$all
 ||memo-okx.com.cn^$all
 ||mer-binance.com.cn^$all
+||mer-okx.com.cn^$all
 ||merchant-binance.com.cn^$all
 ||mesh-binance.com.cn^$all
 ||meta-okx.com.cn^$all
@@ -19934,6 +19940,7 @@
 ||polymarketgw.com.cn^$all
 ||polymarketzw.com.cn^$all
 ||pool-okx.com.cn^$all
+||post-binance.com.cn^$all
 ||post-htx.com.cn^$all
 ||potplay.com.cn^$all
 ||pptiyu-htx.com.cn^$all
@@ -19966,6 +19973,7 @@
 ||question-okx.com.cn^$all
 ||quick-okx.com.cn^$all
 ||qyh-google.com.cn^$all
+||qyh-htx.com.cn^$all
 ||qyh-yahoo.com.cn^$all
 ||qyhvip-google.com.cn^$all
 ||qyhvip-yahoo.com.cn^$all
@@ -20114,6 +20122,7 @@
 ||1b5sxm9kj.tyeegroup.com.cn^$all
 ||onk7o.tyeegroup.com.cn^$all
 ||ued-google.com.cn^$all
+||ued-htx.com.cn^$all
 ||ued-yahoo.com.cn^$all
 ||uedsports-google.com.cn^$all
 ||uedsports-yahoo.com.cn^$all
@@ -20204,6 +20213,7 @@
 ||wto-htx.com.cn^$all
 ||wto-okx.com.cn^$all
 ||wvv-binance.com.cn^$all
+||wwa-okx.com.cn^$all
 ||wwe-binance.com.cn^$all
 ||wweb-whatsapp.com.cn^$all
 ||33854.xdgrass.com.cn^$all
@@ -20435,6 +20445,7 @@
 ||net-htx.cn^$all
 ||net-huobi.cn^$all
 ||7-zip.net.cn^$all
+||app-binance.net.cn^$all
 ||bb-binance.net.cn^$all
 ||bn-binance.net.cn^$all
 ||bnb-binance.net.cn^$all
@@ -22145,6 +22156,7 @@
 ||319593-ledger.com^$all
 ||3195933-ledger.com^$all
 ||319933-coinspot.com^$all
+||31994052-ledger.com^$all
 ||320761-crypto.com^$all
 ||321857-crypto.com^$all
 ||323442-crypto.com^$all
@@ -22629,6 +22641,7 @@
 ||489284coinbase.com^$all
 ||489284robinhood.com^$all
 ||489384coinbase.com^$all
+||489495-binance.com^$all
 ||490310-crypto.com^$all
 ||490318-crypto.com^$all
 ||4903210.com^$all
@@ -24071,6 +24084,7 @@
 ||982446gemini.com^$all
 ||982467-crypto.com^$all
 ||982575coinbase.com^$all
+||982602google.com^$all
 ||982603-crypto.com^$all
 ||982722coinbase.com^$all
 ||9827841coinbase.com^$all
@@ -29086,7 +29100,7 @@
 ||bitrefill.com-gift-cards-aave.com^$all
 ||com-gift-cards-ada.com^$all
 ||bitrefill.com-gift-cards-algo.com^$all
-||bitrefill.com-gift-cards-ankr.com^$all
+||com-gift-cards-ankr.com^$all
 ||bitrefill.com-gift-cards-ape.com^$all
 ||com-gift-cards-apt.com^$all
 ||com-gift-cards-arb.com^$all
@@ -29118,23 +29132,23 @@
 ||bitrefill.com-gift-cards-imx.com^$all
 ||bitrefill.com-gift-cards-inj.com^$all
 ||bitrefill.com-gift-cards-kava.com^$all
-||bitrefill.com-gift-cards-knc.com^$all
+||com-gift-cards-knc.com^$all
 ||bitrefill.com-gift-cards-ldo.com^$all
 ||com-gift-cards-link.com^$all
 ||com-gift-cards-lrc.com^$all
 ||com-gift-cards-ltc.com^$all
 ||bitrefill.com-gift-cards-mana.com^$all
-||bitrefill.com-gift-cards-mask.com^$all
+||com-gift-cards-mask.com^$all
 ||bitrefill.com-gift-cards-matic.com^$all
 ||com-gift-cards-mina.com^$all
 ||bitrefill.com-gift-cards-mkr.com^$all
 ||com-gift-cards-near.com^$all
-||bitrefill.com-gift-cards-ont.com^$all
+||com-gift-cards-ont.com^$all
 ||com-gift-cards-op.com^$all
 ||com-gift-cards-pepe.com^$all
 ||bitrefill.com-gift-cards-pol.com^$all
 ||com-gift-cards-qnt.com^$all
-||bitrefill.com-gift-cards-qtum.com^$all
+||com-gift-cards-qtum.com^$all
 ||bitrefill.com-gift-cards-rune.com^$all
 ||bitrefill.com-gift-cards-sand.com^$all
 ||com-gift-cards-sei.com^$all
@@ -29235,6 +29249,7 @@
 ||com-h01-evm-aml.com^$all
 ||com-h04-gift-esim.com^$all
 ||com-i01-esim-gift.com^$all
+||com-i01-evm-aml.com^$all
 ||com-i04-gift-esim.com^$all
 ||com-id839272.com^$all
 ||com-identity-authentication-client-protocol-9x.com^$all
@@ -35181,6 +35196,7 @@
 ||io-in-r01-omni.com^$all
 ||io-in-s01-omni.com^$all
 ||io-in-t01-omni.com^$all
+||io-in-u01-omni.com^$all
 ||io-intel.com^$all
 ||io-international.com^$all
 ||io-loginwalletrecheck.com^$all
@@ -36125,6 +36141,8 @@
 ||lasvsi.com^$all
 ||latch-wallet.com^$all
 ||latchpay-hook.com^$all
+||latchpay-plug.com^$all
+||latchpay-tap.com^$all
 ||latchpay-wallet.com^$all
 ||latest-krak.com^$all
 ||latest-ledger.com^$all
@@ -36689,6 +36707,7 @@
 ||lunofutures33.com^$all
 ||lunomys.com^$all
 ||lunopex.com^$all
+||lunova-deployer.com^$all
 ||lupad-defi.com^$all
 ||lurexc.com^$all
 ||lurowin.com^$all
@@ -41356,6 +41375,7 @@
 ||red90914294.com^$all
 ||kolorijo.redcliffejettymarkets.com^$all
 ||reddatpay.com^$all
+||reddatpoy.com^$all
 ||webmail.reddecibel.com^$all
 ||redeem-firelight.com^$all
 ||redemption-usdt.com^$all
@@ -42523,6 +42543,7 @@
 ||securitycolnbase.com^$all
 ||securityfile-x.com^$all
 ||securityhelp-microsoft.com^$all
+||securityid-coinbase.com^$all
 ||securityincident-ledger.com^$all
 ||securitynote-x.com^$all
 ||securitysafeportal-coinbase.com^$all
@@ -42726,6 +42747,7 @@
 ||simpleswapreviews.com^$all
 ||simplewisdomdaily.com^$all
 ||simply-ledger.com^$all
+||singlepiont-ubsakr.com^$all
 ||singlepoint-potral.com^$all
 ||sinlgpeorint-ubarsk.com^$all
 ||sinovast.com^$all
@@ -42875,6 +42897,7 @@
 ||snapshots-ponsfamily.com^$all
 ||snaptubego.com^$all
 ||sneakerschromehearts.com^$all
+||sniglrepoint-ubsark.com^$all
 ||sniperdexbot.com^$all
 ||sniperfun.com^$all
 ||snipewin.com^$all
@@ -42994,6 +43017,7 @@
 ||solchecker-migration.com^$all
 ||solctise.com^$all
 ||sold-ledger.com^$all
+||soldappchain.com^$all
 ||solex-eu.com^$all
 ||solflame-finance.com^$all
 ||solflare-vip.com^$all
@@ -53135,6 +53159,7 @@
 ||pendlefinance.cyou^$all
 ||plasma-governance.cyou^$all
 ||polygon-pos.cyou^$all
+||polyrnarket.cyou^$all
 ||portallogonlogs.cyou^$all
 ||praiefb.cyou^$all
 ||privatemeet.cyou^$all
@@ -67128,6 +67153,7 @@
 ||en-desktop-ledgrr-li.pages.dev^$all
 ||en-desktoplive-ledgr.pages.dev^$all
 ||en-download-ledgrr.pages.dev^$all
+||en-exdus--web3.pages.dev^$all
 ||en-exdus-w.pages.dev^$all
 ||en-exexudos-web.pages.dev^$all
 ||en-exo-dusweb3wallet.pages.dev^$all
@@ -74945,6 +74971,7 @@
 ||etherfdn.digital^$all
 ||etherfi.digital^$all
 ||ethersfi.digital^$all
+||ethosnetwork.digital^$all
 ||eudi-wallet.digital^$all
 ||eudiwallet.digital^$all
 ||eulerfinance.digital^$all
@@ -78291,6 +78318,7 @@
 ||dmca-x.help^$all
 ||xlsx-ymppzvfg.skinjmms-mviom.dnmsmoi.help^$all
 ||docupdate.help^$all
+||drifts.help^$all
 ||entrex.help^$all
 ||ether-fi.help^$all
 ||eu-com.help^$all
@@ -79590,6 +79618,7 @@
 ||polymarketnow24.icu^$all
 ||polymarkets.icu^$all
 ||polymerket.icu^$all
+||polyrnarket.icu^$all
 ||ponsecosystem.icu^$all
 ||ponsfamily-crates.icu^$all
 ||governance.ponsfamily-distribution.icu^$all
@@ -79771,6 +79800,7 @@
 ||sharepoint-documents-verification.icu^$all
 ||sharepoint-documents-verifications.icu^$all
 ||si276.icu^$all
+||sinlgpeorint-ubarsk.icu^$all
 ||sitemvli2741uwa5.icu^$all
 ||sitemvtqacg4w0gj.icu^$all
 ||sitemw7yq34o6kmi.icu^$all
@@ -79782,6 +79812,7 @@
 ||app.skygov.icu^$all
 ||slippyclub.icu^$all
 ||sllm-cd.icu^$all
+||sniglrepoint-ubsark.icu^$all
 ||sol-twint.icu^$all
 ||solace-fin.icu^$all
 ||solanagift.icu^$all
@@ -82150,6 +82181,7 @@
 ||348394-trezor.io^$all
 ||358292-trezor.io^$all
 ||3582993-trezor.io^$all
+||3593194-trezor.io^$all
 ||3848202-trezor.io^$all
 ||385022-trezor.io^$all
 ||385933-trezor.io^$all
@@ -90567,6 +90599,7 @@
 ||ledger.com.mk^$all
 ||cautranarcapucon.ml^$all
 ||coinbase.ml^$all
+||ledger.com.ml^$all
 ||fuadvps.ml^$all
 ||parvionantiofia.ml^$all
 ||pulpauspicenadpred.ml^$all
@@ -94598,6 +94631,7 @@
 ||nodechain-dapps.online^$all
 ||nodenet-fixzdapp.online^$all
 ||nodeswalletfix.online^$all
+||notificatiion-google.online^$all
 ||notifiication-google.online^$all
 ||notiification-google.online^$all
 ||notionshare.online^$all
@@ -94727,6 +94761,7 @@
 ||resolvecase-x.online^$all
 ||resolvedapps.online^$all
 ||resolveticket-x.online^$all
+||respectusdt.online^$all
 ||stonkfun.reviewallschartveeserrid.online^$all
 ||reward-verification.online^$all
 ||reward-worldlibertyfinancial.online^$all
@@ -95422,6 +95457,7 @@
 ||chain-list.org^$all
 ||chain-networking.org^$all
 ||chain-spirit.org^$all
+||chainflip.org^$all
 ||app.chaingptweb3.org^$all
 ||chainliist.org^$all
 ||chainlinkdefiglobal.org^$all
@@ -98253,6 +98289,7 @@
 ||astir-deex.pro^$all
 ||atlantiscex.pro^$all
 ||auraml.pro^$all
+||authui.pro^$all
 ||avaxbridge.pro^$all
 ||axiompro.pro^$all
 ||backcold.pro^$all
@@ -99330,6 +99367,7 @@
 ||rainbet.pt^$all
 ||rainbet-casino.pt^$all
 ||rainbet-online.pt^$all
+||www-google.pt^$all
 ||b1.pub^$all
 ||coint.pub^$all
 ||letsvpn.pub^$all
@@ -102770,6 +102808,7 @@
 ||news-nowbbc.site^$all
 ||news-world-bbc.site^$all
 ||norskspin.site^$all
+||notificatiion-google.site^$all
 ||notifiication-google.site^$all
 ||notiification-google.site^$all
 ||noure.site^$all
@@ -106848,6 +106887,7 @@
 ||solutioncommunication.top^$all
 ||solverse.top^$all
 ||solvyx.top^$all
+||solweb.top^$all
 ||solwins.top^$all
 ||soneium.top^$all
 ||soneium-ipusd.top^$all
@@ -110087,6 +110127,7 @@
 ||417512.xyz^$all
 ||478691.xyz^$all
 ||4838-acceweb-auth.xyz^$all
+||503227.xyz^$all
 ||5161364.xyz^$all
 ||52crs161.xyz^$all
 ||5mtbot.xyz^$all
@@ -117141,6 +117182,7 @@
 ||sol.tpsolana.xyz^$all
 ||tpwallet-web.xyz^$all
 ||tpwallet-web3.xyz^$all
+||traceableclient.xyz^$all
 ||track-aave.xyz^$all
 ||trade-dex.xyz^$all
 ||arcus.trade-event.xyz^$all
