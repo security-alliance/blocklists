@@ -77285,7 +77285,6 @@ ethwheel.fun
 event-chooserich.fun
 event-degencoin.fun
 event-embercurve.fun
-events-degencoin.fun
 events-embercurve.fun
 exclusive-drop.fun
 facebook-coin.fun
