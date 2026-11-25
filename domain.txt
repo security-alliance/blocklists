@@ -29371,7 +29371,7 @@ status.com-polybet-q120.com
 docs.com-polybet-q121.com
 polymarket.com-polybet-q121.com
 status.com-polybet-q121.com
-polymarket.com-polybet-q122.com
+com-polybet-q122.com
 docs.com-polybet-q123.com
 help.com-polybet-q123.com
 polymarket.com-polybet-q123.com
@@ -29860,6 +29860,7 @@ cory-coinbase.com
 cosmeticsexchange.com
 cosmic-land.com
 cosmoix.com
+cosmycc.com
 couhex.com
 council-hyperfoundation.com
 counterclaimpa.com
@@ -34036,6 +34037,7 @@ grogshop.com
 grokaitrade.com
 grokblockchain.com
 grokbotportal.com
+groktradeai.com
 groktradebot.com
 groktraderbot.com
 stellarbuild.grondon.com
@@ -76011,6 +76013,7 @@ rainbetscasino.fi
 repeg-apyx.fi
 scallop.fi
 spookyswap.fi
+swapcow.fi
 switcher.fi
 tge-apyx.fi
 thevaults.fi
@@ -98297,6 +98300,7 @@ auraml.pro
 authui.pro
 avaxbridge.pro
 axiompro.pro
+axiomso.pro
 backcold.pro
 backpackexchange.pro
 baibai.pro
@@ -108300,7 +108304,6 @@ onwebmeet.us
 ovzkasdgifajenafsasa.us
 palymarket.us
 paytrustwallet.us
-pengus-share.us
 penguworld.us
 phantom333.us
 phantomextension.us
@@ -113901,6 +113904,7 @@ kntqsnapshot.xyz
 kntqstaking.xyz
 kntqstakings.xyz
 korapp.xyz
+korboard.xyz
 korlab.xyz
 korportal.xyz
 korprotocol-foundation.xyz
