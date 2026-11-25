@@ -1092,7 +1092,6 @@ upheld-us.created.app
 upheld-us-canda.created.app
 upheldio.created.app
 upheldsso.created.app
-uphelld.created.app
 uphld-en-us.created.app
 uphld-logi-en.created.app
 uphldlog.created.app
