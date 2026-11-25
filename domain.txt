@@ -6180,6 +6180,7 @@ opensea-session1.netlify.app
 opensea-session2.netlify.app
 opensea-session91.netlify.app
 opensea-sessions56.netlify.app
+opensea-tech.netlify.app
 openseadrops62256.netlify.app
 openseadrops8822665.netlify.app
 openseptembertrendingscore.netlify.app
