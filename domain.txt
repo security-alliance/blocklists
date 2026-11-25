@@ -12204,6 +12204,7 @@ solcasino.asia
 solomon.asia
 sparkdex-ecosystem.asia
 sunswap.asia
+teams-iinoauth20authiientid9199bf20.asia
 tge-dopplerfinance.asia
 theindexfinance.asia
 tradingviewcn.asia
@@ -19708,6 +19709,7 @@ hello-binance.com.cn
 helloworld-apps.com.cn
 help-binance.com.cn
 his-okx.com.cn
+hj-okx.com.cn
 hk-imtoken.com.cn
 hk-zoom.com.cn
 horizen-binance.com.cn
@@ -20279,6 +20281,7 @@ zhibo-yahoo.com.cn
 zhifeijidianb.com.cn
 zhifeijidib.com.cn
 zhifeijios.com.cn
+zhizhuzhibo-yahoo.com.cn
 zhm-okx.com.cn
 zhnba-okx.com.cn
 zhop-okx.com.cn
@@ -25932,6 +25935,7 @@ bcbbs6.com
 bcbbs7.com
 bcbbs8.com
 bcbxmark.com
+bcc-google.com
 bceincheck.com
 bcgame-airdrop.com
 bcgame-casinos-india.com
@@ -30852,6 +30856,7 @@ digitalwebprints.com
 digtrvirtun.com
 urarr.dingdongka.com
 dinoscoin.com
+direct-google.com
 direct-kraken.com
 direct-land.com
 direct-trust.com
@@ -32563,6 +32568,7 @@ flt-yield.com
 flubless.com
 fluecoin.com
 fluidswapdex.com
+flux-ledger.com
 fluxbeam-dex.com
 fluxbeam-swap.com
 fluxthriveservice.com
@@ -34989,6 +34995,7 @@ incident-ledger.com
 incidentreport-binance.com
 incidents-apple.com
 incidents-coinspot.com
+incidents-gemini.com
 inclusion-smart.com
 income-kraken.com
 indexaverixafunds.com
@@ -35847,6 +35854,7 @@ khyberswap.com
 kickgamb.com
 kickpoly.com
 kidsrunbike.com
+kidsync-htx.com
 bvest.kig0.com
 lemwsn.kihyon.com
 kii-airdrop.com
@@ -38450,6 +38458,7 @@ notif-inform-bitkub.com
 notif-supp-bitkub.com
 notif-trezor.com
 notif-trezor-info.com
+notificatiion-google.com
 login.notification-coinbase.com
 notification-info-bitkub.com
 notification-inform-bitkub.com
@@ -40198,6 +40207,7 @@ processing-redirect-x.com
 processreview-x.com
 processreviews-x.com
 prochat-whatsapp.com
+procurement-outlook.com
 products-trust.com
 profile-gcase.com
 profileaction-x.com
@@ -42695,6 +42705,7 @@ sevenchord.com
 seventral.com
 sfcacome.com
 sfdsgbxgj.com
+sg-metamask.com
 sg-okx.com
 sg-recyclage.com
 sg-trustwallet.com
@@ -43869,6 +43880,7 @@ synch-trustwallet.com
 synchro-ledger.com
 synchronisation-ledger.com
 syncid-coinbase.com
+syncid-kraken.com
 syncledgerwallet.com
 syncproposals.com
 syncvalidsolution.com
@@ -45850,6 +45862,7 @@ urljetz.com
 urockmicdrop.com
 urongamb.com
 ursastarvoyage.com
+us-04web.com
 us-05web.com
 us-appverif.com
 us-atomicwallet.com
@@ -74302,6 +74315,7 @@ swift-box-600.cf-ckw9obhv.workers.dev
 swift-dev-8e6.cf-cmtd59ag.workers.dev
 blue-dev-40a.cf-cus8obkw.workers.dev
 white-box-e08.cf-cwaf29w1.workers.dev
+bright-lab-43b.cf-cyr9p2nl.workers.dev
 clear-tech-540.cf-d3e2ym8n.workers.dev
 clear-box-be3.cf-d3qpt6cm.workers.dev
 swift-wave-2b0.cf-d6sbrvpu.workers.dev
@@ -74948,6 +74962,7 @@ c8ntinuum.digital
 cantonnetwork.digital
 cardpay.digital
 chainguard.digital
+checkwallet.digital
 chiliz.digital
 chilliz.digital
 cipvault.digital
@@ -77519,6 +77534,7 @@ newscum.fun
 nexsniper.fun
 nftperp.fun
 nookterminal.fun
+novatrader.fun
 novawallet.fun
 noxas.fun
 nuvex-wl.fun
@@ -78059,6 +78075,7 @@ metamask.gg
 administrator-3.mfs.gg
 bitcoin.mfs.gg
 refunds.mfs.gg
+teams.on.gg
 pumpfunlive.gg
 swapnow.gg
 ledger.com.gi
@@ -82060,6 +82077,7 @@ nfxt.ink
 novawallet.ink
 nv-casino-login.ink
 offinance.ink
+onchaingreementdocu.ink
 one-ether-fi.ink
 onxy.ink
 opesnea.ink
@@ -84491,6 +84509,7 @@ refund-runeswap.io
 relay-link.io
 repeg-metronome.io
 requests-trezor.io
+resolve-trezor.io
 restore-trezor.io
 revenue-x.io
 revokecash.io
@@ -99441,6 +99460,7 @@ trustwalletcryptocard.promo
 awatson.properties
 kraken.com.support.bc1q8zca56ds9j9zwxvln3e96p9em55h62048q04py.sevvel.properties
 crypto.com.ps
+ledger.com.ps
 kuda-business-banking-app.apkcafe.pt
 coinbaselogine.blogspot.pt
 coinbase.carolrocha.pt
@@ -104220,6 +104240,7 @@ rexasfinace.support
 rexasfinance.support
 trustwallet.riskscore.support
 secure-access-auth5734.support
+security-coinbase.support
 skymoney.support
 spankdotfinance.support
 standx.support
@@ -108624,6 +108645,7 @@ us16web-zoom.us
 us16zoom.us
 us17zoom.us
 us18zoom.us
+us19zoom.us
 us305web-zoom.us
 us33webzoom.us
 us34webzoom.us
@@ -108730,6 +108752,7 @@ web05r.us
 web05z.us
 web05zoom.us
 web06in.us
+web06n.us
 web06z.us
 web0auth-session.us
 web3-meeting.us
@@ -111078,6 +111101,7 @@ blockdevfix.xyz
 m-jzue.blocxopen.xyz
 blur-foundation.xyz
 bnado.xyz
+bnryarmy.xyz
 bob-the-builder.xyz
 bonkiju.xyz
 bonu-usepaid.xyz
@@ -118252,6 +118276,7 @@ wahyu.xyz
 waifu-treasury.xyz
 waitlist-arcus.xyz
 waitlist-kaleidofi.xyz
+waitlst-gte.xyz
 wallet-backup-centr.xyz
 wallet-dominionmarket.xyz
 wallet-fablesfi.xyz
