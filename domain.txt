@@ -11830,7 +11830,6 @@ wirexltd.app
 wlfi-claim.app
 wlfi-distribution.app
 worid.app
-worldliberty-distribution.app
 worldlibertyflnanclal.app
 worldwse.app
 wvvw-laedger.app
