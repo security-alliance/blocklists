@@ -83903,6 +83903,7 @@ station-terra-money.github.io
 stetion-terra-money.github.io
 suhhiswap.github.io
 sui-bridge.github.io
+sui-wallet-dev.github.io
 suicsan.github.io
 suit-trzr.github.io
 sushi-swaq.github.io
