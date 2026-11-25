@@ -1064,7 +1064,6 @@ https://sites.google.com/view/ledger-desktop-api/ledger-wallet
 https://sites.google.com/view/ledger-desktop-version
 https://sites.google.com/view/ledger-desktop-version/ledger-wallet
 https://sites.google.com/view/ledger-device-backup/ledger-live
-https://sites.google.com/view/ledger-device-backup/ledger-wallet
 https://sites.google.com/view/ledger-live-api
 https://sites.google.com/view/ledger-live-ex/ledger-wallet
 https://sites.google.com/view/ledger-live-updater
@@ -1624,7 +1623,6 @@ https://sites.google.com/view/trezor-desktop-site
 https://sites.google.com/view/trezor-device-backup/trezor-suite
 https://sites.google.com/view/trezor-device-connect/trezor-suite
 https://sites.google.com/view/trezor-device-setup/launch-trezor-suite
-https://sites.google.com/view/trezor-device-setup/pair-trezor-suite
 https://sites.google.com/view/trezor-device-setup/trezor-app
 https://sites.google.com/view/trezor-signin/trezor-suite
 https://sites.google.com/view/trezor-suite-offici/home
