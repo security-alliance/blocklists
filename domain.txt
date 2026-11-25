@@ -66757,6 +66757,7 @@ dekstop-en-us-ledger-live.pages.dev
 dektop-ledgrlive-io.pages.dev
 delta-wbot.pages.dev
 deltaf254-lab.pages.dev
+demo-cfp.pages.dev
 demo-trezor-io.pages.dev
 demo888-5bq.pages.dev
 dental-clinic-ledger.pages.dev
