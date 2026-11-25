@@ -62469,6 +62469,7 @@
 ||512-reallocate-flare.pages.dev^$all
 ||513-reallocate-flare.pages.dev^$all
 ||514-reallocate-flare.pages.dev^$all
+||5141-67ae-colnbase-listings.pages.dev^$all
 ||515-reallocate-flare.pages.dev^$all
 ||516-reallocate-flare.pages.dev^$all
 ||517-reallocate-flare.pages.dev^$all
@@ -65325,6 +65326,7 @@
 ||97-venice.pages.dev^$all
 ||97-view-kinetiq.pages.dev^$all
 ||9733-482c-coinbase-listing.pages.dev^$all
+||973d-4c29-5133-c0inbase-list.pages.dev^$all
 ||9784-fa8e-5133-c0inbase-list.pages.dev^$all
 ||97a8-5260-colnbase-listings.pages.dev^$all
 ||98-0xfluid.pages.dev^$all
