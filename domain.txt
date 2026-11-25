@@ -89229,7 +89229,6 @@ walrusprotocol.live
 watchpumpfun.live
 wclive.live
 web-zoom-us.live
-web02eu.live
 web3autotrades.live
 web3autotrading.live
 web3bitget.live
