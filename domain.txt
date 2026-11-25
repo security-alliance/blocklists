@@ -18902,7 +18902,6 @@ chain-links.stakingreward.cloud
 interface-links.stakingreward.cloud
 interface-railguns.stakingreward.cloud
 interface-wxt.stakingreward.cloud
-mmt.stakingreward.cloud
 navi-protocols.stakingreward.cloud
 pudgy-penguins.stakingreward.cloud
 rls.stakingreward.cloud
