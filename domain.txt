@@ -50963,7 +50963,6 @@ trade-krakenio.wixstudio.com
 trade-krakkancdn.wixstudio.com
 trade-krakkencdn.wixstudio.com
 trade-krakkuncdn.wixstudio.com
-trade-krakncdn.wixstudio.com
 trade-krakuncdn.wixstudio.com
 trade-krakuncdns.wixstudio.com
 trade-krakunepro.wixstudio.com
