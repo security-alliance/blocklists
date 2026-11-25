@@ -78315,11 +78315,9 @@ joinzoommeeting.help
 appsio-trezocdn.kb.help
 coinbase-supportcenter.kb.help
 getledger.kb.help
-global.kb.help
 global-desktopapp.kb.help
 kraken-supportchat.kb.help
 ldgre-homepage.kb.help
-learn-started.kb.help
 server.kb.help
 trzer-io.kb.help
 kraken-support.help
