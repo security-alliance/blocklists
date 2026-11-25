@@ -10051,7 +10051,6 @@ federal-pool-router.vercel.app
 fend-code.vercel.app
 fetchforge-rouge.vercel.app
 ffmg2.vercel.app
-filecoin-site.vercel.app
 final-jupuary.vercel.app
 findswap-interface.vercel.app
 firefly-dex.vercel.app
@@ -116749,7 +116748,6 @@ stcnkfun.xyz
 steak-struggle-topple.xyz
 steakhouse-claims.xyz
 steakhouse-distribution.xyz
-steakhousefi-allocation.xyz
 steakhousefi-vote.xyz
 stellar-proposal.xyz
 stiandx.xyz
