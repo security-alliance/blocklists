@@ -18886,7 +18886,6 @@ chain-links.stakingreward.cloud
 interface-links.stakingreward.cloud
 interface-railguns.stakingreward.cloud
 interface-wxt.stakingreward.cloud
-pudgy-penguins.stakingreward.cloud
 us-cgpt.stakingreward.cloud
 us-link.stakingreward.cloud
 strata-markets.cloud
@@ -65473,6 +65472,7 @@ adv-trzrbridge-en.pages.dev
 advance-io-ledgr-starts.pages.dev
 advance-ledgr-live.pages.dev
 advance-li-ledgrr.pages.dev
+aee7-482c-coinbase-listing.pages.dev
 aero-vote.pages.dev
 aero-votes.pages.dev
 aerodrome-finance-gpz.pages.dev
