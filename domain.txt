@@ -108302,6 +108302,7 @@ phantom333.us
 phantomextension.us
 pins-r.us
 poeai.us
+pollmarket.us
 polyamarket.us
 polydrop.us
 polymaerket.us
@@ -115744,7 +115745,6 @@ rewards-proposal-flare.xyz
 rewards-proposal-monad.xyz
 rewards-pumpbtc.xyz
 rewards-quackai.xyz
-rewards-relayprotocol.xyz
 rewards-saturn.xyz
 rewards-securitize.xyz
 rewards-solsticefinance.xyz
