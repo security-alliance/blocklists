@@ -15961,6 +15961,7 @@ trustcrypto.cc
 trustdigitalcards.cc
 trustercard.cc
 trustexc.cc
+trustinc.cc
 trustmp.cc
 trustnight-tbilisi.cc
 trustsystems.cc

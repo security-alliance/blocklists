@@ -15961,6 +15961,7 @@
 ||trustdigitalcards.cc^$all
 ||trustercard.cc^$all
 ||trustexc.cc^$all
+||trustinc.cc^$all
 ||trustmp.cc^$all
 ||trustnight-tbilisi.cc^$all
 ||trustsystems.cc^$all
