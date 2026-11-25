@@ -14068,7 +14068,6 @@ manestrini.business
 ru-binance.business
 safepal.business
 securitize.business
-su05webzoom.business
 teamlives.business
 trust-wallet.business
 trustcard.business
@@ -20084,7 +20083,6 @@ t1-binance.com.cn
 tangem.com.cn
 tanqiubasports-google.com.cn
 tanqiubasports-yahoo.com.cn
-teams-live.com.cn
 teck-okx.com.cn
 tei-binance.com.cn
 telegram-kr.com.cn
@@ -29171,6 +29169,7 @@ com-gift-cards-lrc.com
 com-gift-cards-ltc.com
 bitrefill.com-gift-cards-mana.com
 bitrefill.com-gift-cards-mask.com
+bitrefill.com-gift-cards-matic.com
 com-gift-cards-mina.com
 bitrefill.com-gift-cards-mkr.com
 com-gift-cards-near.com
@@ -52708,16 +52707,13 @@ zoomiesgear.com
 zoomimeetiing.com
 zoominfo-business-profile.com
 zoominfo-collaboration.com
-zoominfo-llc.com
 zoominfo-notice-center.com
-zoominfo-pay.com
 zoominfo-privacy-communications.com
 zoominfo-profile-information.com
 zoominfo-profile-notices.com
 zoominfo-profile-update-request.com
 zoominfo-profile-updates.com
 zoominfoconnect.com
-zoominfopayment.com
 zoominfopayments.com
 zoominforeviews.com
 zoominfosecuritiessettlement.com
@@ -52787,7 +52783,6 @@ zooomtalk.com
 zooomtalks.com
 zoorn-live.com
 zoorn-meet.com
-zoorn-meeting.com
 zoorn-private-conference.com
 zoornint.com
 zoornlive-meeting.com
@@ -95107,7 +95102,6 @@ us05web.online
 us05webzoom.online
 us06cloud.online
 us06live.online
-us08webzoomurbanfm.online
 us17workspace-meeting036823528.online
 us37web-zoom.online
 us3zoom.online
@@ -104157,7 +104151,6 @@ picassoapp.su
 rdorin66ga3me22-com.su
 royalmelor22ia5na11-com.su
 slon11.su
-su05webzoom.su
 swaponix.su
 tether-solana.su
 trust-wallet.su

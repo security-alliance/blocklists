@@ -14068,7 +14068,6 @@
 ||ru-binance.business^$all
 ||safepal.business^$all
 ||securitize.business^$all
-||su05webzoom.business^$all
 ||teamlives.business^$all
 ||trust-wallet.business^$all
 ||trustcard.business^$all
@@ -20084,7 +20083,6 @@
 ||tangem.com.cn^$all
 ||tanqiubasports-google.com.cn^$all
 ||tanqiubasports-yahoo.com.cn^$all
-||teams-live.com.cn^$all
 ||teck-okx.com.cn^$all
 ||tei-binance.com.cn^$all
 ||telegram-kr.com.cn^$all
@@ -29171,6 +29169,7 @@
 ||com-gift-cards-ltc.com^$all
 ||bitrefill.com-gift-cards-mana.com^$all
 ||bitrefill.com-gift-cards-mask.com^$all
+||bitrefill.com-gift-cards-matic.com^$all
 ||com-gift-cards-mina.com^$all
 ||bitrefill.com-gift-cards-mkr.com^$all
 ||com-gift-cards-near.com^$all
@@ -52708,16 +52707,13 @@
 ||zoomimeetiing.com^$all
 ||zoominfo-business-profile.com^$all
 ||zoominfo-collaboration.com^$all
-||zoominfo-llc.com^$all
 ||zoominfo-notice-center.com^$all
-||zoominfo-pay.com^$all
 ||zoominfo-privacy-communications.com^$all
 ||zoominfo-profile-information.com^$all
 ||zoominfo-profile-notices.com^$all
 ||zoominfo-profile-update-request.com^$all
 ||zoominfo-profile-updates.com^$all
 ||zoominfoconnect.com^$all
-||zoominfopayment.com^$all
 ||zoominfopayments.com^$all
 ||zoominforeviews.com^$all
 ||zoominfosecuritiessettlement.com^$all
@@ -52787,7 +52783,6 @@
 ||zooomtalks.com^$all
 ||zoorn-live.com^$all
 ||zoorn-meet.com^$all
-||zoorn-meeting.com^$all
 ||zoorn-private-conference.com^$all
 ||zoornint.com^$all
 ||zoornlive-meeting.com^$all
@@ -95107,7 +95102,6 @@
 ||us05webzoom.online^$all
 ||us06cloud.online^$all
 ||us06live.online^$all
-||us08webzoomurbanfm.online^$all
 ||us17workspace-meeting036823528.online^$all
 ||us37web-zoom.online^$all
 ||us3zoom.online^$all
@@ -104157,7 +104151,6 @@
 ||rdorin66ga3me22-com.su^$all
 ||royalmelor22ia5na11-com.su^$all
 ||slon11.su^$all
-||su05webzoom.su^$all
 ||swaponix.su^$all
 ||tether-solana.su^$all
 ||trust-wallet.su^$all
