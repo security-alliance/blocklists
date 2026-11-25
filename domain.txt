@@ -36353,6 +36353,7 @@ leveragefresh.com
 leverup-dex.com
 levtsvpn.com
 lexotrade.com
+lexovaultfuture.com
 lfi-lien.com
 lfilien.com
 lfj-dex.com
@@ -62974,6 +62975,7 @@ pr-7831.1inch-io-app.pages.dev
 5e68-fa8e-5133-c0inbase-list.pages.dev
 5e9e-482c-coinbase-listing.pages.dev
 5ec1-482c-coinbase-listing.pages.dev
+5ec9-482c-coinbase-listing.pages.dev
 5f21-coinbase-listing-677f.pages.dev
 6-0xfluid.pages.dev
 6-aave-allocations.pages.dev
