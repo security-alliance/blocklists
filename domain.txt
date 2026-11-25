@@ -32259,6 +32259,7 @@ openseafreebox.firebaseapp.com
 pendle-finance.firebaseapp.com
 plether-fi.firebaseapp.com
 plether-testnet.firebaseapp.com
+polymarket-pro.firebaseapp.com
 polymarketen.firebaseapp.com
 ponsfamily-co.firebaseapp.com
 ponsfamily-io.firebaseapp.com
