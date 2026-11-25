@@ -1574,7 +1574,6 @@ https://sites.google.com/view/trezor-device-connect/trezor-suite
 https://sites.google.com/view/trezor-device-setup/launch-trezor-suite
 https://sites.google.com/view/trezor-device-setup/pair-trezor-suite
 https://sites.google.com/view/trezor-device-setup/trezor-app
-https://sites.google.com/view/trezor-device-setup/trezor-suite
 https://sites.google.com/view/trezor-signin/trezor-suite
 https://sites.google.com/view/trezor-suite-offici/home
 https://sites.google.com/view/trezor-v2/trezor-suite
