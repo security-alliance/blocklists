@@ -50925,7 +50925,6 @@ support-metamskapps.wixstudio.com
 support-metamskcdn.wixstudio.com
 support-metamskexten.wixstudio.com
 support-metmskio.wixstudio.com
-support-mooyape.wixstudio.com
 support-mtamask-log.wixstudio.com
 support-mtamskcdn.wixstudio.com
 support-tengam.wixstudio.com
@@ -113894,7 +113893,6 @@ kittenswaphype.xyz
 kjnetiq.xyz
 klamnow.xyz
 klick1card.xyz
-klimadaopool.xyz
 klnctiq.xyz
 kntq-stakings.xyz
 kntqshareholders.xyz
