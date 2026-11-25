@@ -8520,7 +8520,6 @@ stxrp-firelight.app
 stxrp-flare.app
 sui-rewards.app
 suibridge.app
-suisec.app
 suite-bridge.app
 suite-en.app
 trezor.suite-io.app
