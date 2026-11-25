@@ -18028,7 +18028,6 @@ meteora-v3.click
 meteoraswap.click
 meteorousastro.click
 metricxyz.click
-microsoftteams.click
 milkywayads.click
 miningsol.click
 mon-enligne.click
@@ -29258,7 +29257,6 @@ com-h01-evm-aml.com
 com-h04-gift-esim.com
 com-i01-esim-gift.com
 com-i04-gift-esim.com
-com-id-7s2w6sw1ds21.com
 com-id839272.com
 com-identity-authentication-client-protocol-9x.com
 bitrefill.com-in-001-esim-gift.com
@@ -37436,7 +37434,6 @@ microsofls.com
 microsofmeet.com
 microsoft-395.com
 microsoft-billingupdate.com
-microsoft-certification.com
 microsoft-edgew.com
 microsoft-edu-tw.com
 microsoft-en-us-si.com
@@ -88435,7 +88432,6 @@ novabankfinance.live
 nowpayments.live
 noxa.live
 noxas.live
-o365-update.live
 octavfxtrading.live
 officehub.live
 official-firelightfi.live
@@ -95003,7 +94999,6 @@ upgrade-no-reply.online
 us009webzconnectmeetsessionurbanfm.online
 us02live.online
 us02web-zoom-us.online
-us04web-zoom-workspace9786677402028402.online
 us05cloud.online
 us05live.online
 us05web.online
@@ -100216,7 +100211,6 @@ embercurve.sbs
 emt-cash.sbs
 en-cowswap.sbs
 en-hyperliquid.sbs
-en-rooms-782428499232.sbs
 en-sushi.sbs
 enter-aave.sbs
 enter-aero.sbs
@@ -110056,7 +110050,6 @@ robinhoodilogin.tilda.ws
 trust-wallet.ws
 trustcard.ws
 trustwallet.ws
-userid-81d.ws
 h5.bitget.wtf
 chaintools.wtf
 claimed.wtf
