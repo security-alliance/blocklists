@@ -49399,7 +49399,6 @@ io-apps-bitbuy.wixstudio.com
 io-apps-dydxcdn.wixstudio.com
 io-apps-dydxx.wixstudio.com
 io-apps-metmask.wixstudio.com
-io-apps-moonpay.wixstudio.com
 io-apps-rabbywllt.wixstudio.com
 io-apps-trrustcdn.wixstudio.com
 io-bittbuy.wixstudio.com
@@ -49440,7 +49439,6 @@ io-metmaskextnsion.wixstudio.com
 io-metmsk-page.wixstudio.com
 io-monpay-apps.wixstudio.com
 io-moonpayapps.wixstudio.com
-io-moonpaycdn-apps.wixstudio.com
 m.io-moonpaycdn.wixstudio.com
 io-raabbyweb-apps.wixstudio.com
 io-rabby-extension.wixstudio.com
@@ -49970,7 +49968,6 @@ moonpay-appscdn.wixstudio.com
 moonpay-enus.wixstudio.com
 moonpay-home.wixstudio.com
 moonpay-homeapps.wixstudio.com
-moonpay-io.wixstudio.com
 moonpay-login.wixstudio.com
 moonpayapps.wixstudio.com
 moonpaycdn.wixstudio.com
