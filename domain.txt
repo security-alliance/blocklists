@@ -88045,6 +88045,7 @@ go-flarefn.live
 go-flarefnd.live
 go-flarefoundation.live
 go-flarefoundations.live
+golden-p.live
 goldplus-coin.live
 goldplustrade.live
 google-app.live
@@ -88262,6 +88263,7 @@ logtkn.live
 longbow-proposal.live
 lootbet.live
 lumtrixmkt.live
+lunatixcapital.live
 lunexx.live
 m365-apps.live
 macosoft.live
@@ -89135,6 +89137,7 @@ tusd-migration.live
 twcards.live
 twt-tron.live
 twtcard.live
+tyrioncapital.live
 ultimateveltrix.live
 ultron-cash.live
 umia-migrate.live
@@ -89292,6 +89295,7 @@ wepechain.live
 wepelaunch.live
 west-cpt.live
 westcapitalearn.live
+westwindcapital.live
 whalespace.live
 whalespacerev.live
 whatnot-secure.live
@@ -107566,6 +107570,7 @@ genesis-zama.trade
 genesis-zksync.trade
 genlayer.trade
 gewuasset.trade
+globalcapitali.trade
 governance-gloam.trade
 governance-pool.trade
 governance-pools.trade
@@ -107583,6 +107588,7 @@ hyperliquidfoundation.trade
 hypersage.trade
 intefrace.trade
 intentx.trade
+investamcapital.trade
 jupiter-verified.trade
 juptier.trade
 keeta.trade
@@ -107602,6 +107608,7 @@ metaamsk.trade
 metaamskswap.trade
 metamask.trade
 allocation.metisl2token.trade
+momentumfx.trade
 mytradingapp.trade
 naerly.trade
 narly.trade
@@ -107685,6 +107692,7 @@ votedex.trade
 votes-pools.trade
 voting-pools.trade
 westwindcapital.trade
+wf-capital.trade
 yeran.trade
 zeroinwallet.trade
 zev25.trade
