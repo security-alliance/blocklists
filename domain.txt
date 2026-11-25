@@ -113483,6 +113483,7 @@ hyperliquid-proposals.xyz
 hyperliquid-s3.xyz
 hyperliquid-test.xyz
 hyperliquid-treasury.xyz
+hyperliquid-vote.xyz
 hyperliquidallocation.xyz
 hyperliquidtest.xyz
 hyperliquidtestnet.xyz
