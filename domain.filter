@@ -14974,6 +14974,7 @@
 ||bitpie-a.cc^$all
 ||bitplus.cc^$all
 ||bitrefill.cc^$all
+||bitruer.cc^$all
 ||bitscions.cc^$all
 ||bitso.cc^$all
 ||bitstampvip.cc^$all

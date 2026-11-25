@@ -14974,6 +14974,7 @@ bitmix.cc
 bitpie-a.cc
 bitplus.cc
 bitrefill.cc
+bitruer.cc
 bitscions.cc
 bitso.cc
 bitstampvip.cc
