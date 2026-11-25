@@ -519,6 +519,7 @@ https://sites.google.com/view/connect-metamaskiohelp/home
 https://sites.google.com/view/connect-metmsk/home
 https://sites.google.com/view/connectcoinpro-us/home
 https://sites.google.com/view/connectwithmetamask/home
+https://sites.google.com/view/console-exodusweb/home
 https://sites.google.com/view/console-extensions-koin/home
 https://sites.google.com/view/console-meta-eng/home
 https://sites.google.com/view/contactkrakeninstantly15callin
@@ -680,6 +681,7 @@ https://sites.google.com/view/exoduswallee/home
 https://sites.google.com/view/exoduswalletsignin/home
 https://sites.google.com/view/exoduswe-ss/home
 https://sites.google.com/view/exodusweb-beginner/home
+https://sites.google.com/view/exodusweb-brows/home
 https://sites.google.com/view/exodusweb-digital/home
 https://sites.google.com/view/exodusweb-safe/home
 https://sites.google.com/view/exodusweb3--home/home
@@ -1517,6 +1519,7 @@ https://sites.google.com/view/public-start-chrmeapp/home
 https://sites.google.com/view/public-wallet-coinbase/home
 https://sites.google.com/view/public-wallet-extension/home
 https://sites.google.com/view/public-web-coinbase/home
+https://sites.google.com/view/publicexodus-web/home
 https://sites.google.com/view/publish-base-ext/home
 https://sites.google.com/view/publish-new-metamask/home
 https://sites.google.com/view/publish-webmetmask/home
@@ -1577,6 +1580,7 @@ https://sites.google.com/view/smey429odtof415/q20r7
 https://sites.google.com/view/smey429odtof415/rs94t
 https://sites.google.com/view/smey429odtof415/x7djs
 https://sites.google.com/view/sso-coinbase-apps-/home
+https://sites.google.com/view/sso-exodus-setupe/home
 https://sites.google.com/view/sso-metamask-authu/home
 https://sites.google.com/view/start-apps-chrm/home
 https://sites.google.com/view/start-exuduss/home
@@ -1710,6 +1714,7 @@ https://sites.google.com/view/web-exodos-en/home
 https://sites.google.com/view/web-exodus-walletcdn/home
 https://sites.google.com/view/web-extension-base/home
 https://sites.google.com/view/web-extensionn/home
+https://sites.google.com/view/web-link-exodus/home
 https://sites.google.com/view/web-metamaske/home
 https://sites.google.com/view/web-metmaskhelp/home
 https://sites.google.com/view/web-user-bitbuy/home
