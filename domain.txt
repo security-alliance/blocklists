@@ -23522,7 +23522,6 @@ wap.81ex02.com
 827491coinbase.com
 827592coinbase.com
 827659-binance.com
-827925-binance.com
 8282usdt.com
 828311-uphold.com
 828382-gmail.com
@@ -24108,7 +24107,6 @@ ww38.coinbaseverifier.8x8pnhv.com
 98529-kucoin.com
 985612-crypto.com
 986450coinbase.com
-987235-gemini.com
 98739-cb.com
 987423ledger.com
 987473-robinhood.com
@@ -29521,7 +29519,6 @@ com-v01-esim-gift.com
 com-v04-gift-esim.com
 com-verification.com
 com-verifier.com
-com-verify.com
 com-view.com
 com-w01-esim-gift.com
 com-w04-gift-esim.com
@@ -32293,7 +32290,6 @@ firegamb.com
 firelight-allocation2.com
 firelight-allocations.com
 firelight-app.com
-firelight-choice.com
 firelight-claim2.com
 firelight-cntr.com
 firelight-contributor2.com
@@ -73479,7 +73475,6 @@ vote-ryskfinance.pages.dev
 vote-stonk.pages.dev
 vote-studios.pages.dev
 vote-studios-com.pages.dev
-vote-tea-protocol-com.pages.dev
 vote-teaprotocol-com.pages.dev
 vote-terminal.pages.dev
 vote-thena.pages.dev
@@ -109919,7 +109914,6 @@ melaniacoin.world
 memestokensdesk.world
 metarevolution.world
 1inchnetwallet.mgx.world
-migratesol.world
 migratetokennow.world
 millionmoney.world
 milliontron.world
