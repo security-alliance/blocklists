@@ -87666,7 +87666,6 @@ event-moonwell.live
 event-nexus.live
 event-ore.live
 event-oresupply.live
-event-pengu.live
 event-sunrisedefi.live
 event-xrpl.live
 eventcashcat.live
