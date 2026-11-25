@@ -703,6 +703,7 @@ https://sites.google.com/view/extension--metamask/home
 https://sites.google.com/view/extension--qoinbase/home
 https://sites.google.com/view/extension-app-/home
 https://sites.google.com/view/extension-app-io/home
+https://sites.google.com/view/extension-base-view/home
 https://sites.google.com/view/extension-base-web/home
 https://sites.google.com/view/extension-coin/home
 https://sites.google.com/view/extension-coinbase-hub/home
@@ -945,6 +946,7 @@ https://sites.google.com/view/intro-coinbaseapp/home
 https://sites.google.com/view/intro-learned/home
 https://sites.google.com/view/intro-metamask-home/home
 https://sites.google.com/view/intro-metamask-open/home
+https://sites.google.com/view/intro-metamsk-extension/home
 https://sites.google.com/view/intro-metask/home
 https://sites.google.com/view/intro-new-chrmext/home
 https://sites.google.com/view/introducig-meta/home
@@ -1391,6 +1393,7 @@ https://sites.google.com/view/moonpaylogin-pcmobileappweb2fa/home
 https://sites.google.com/view/moonpaysigninnn/home
 https://sites.google.com/view/moonpayunabletologinduetosecur/home
 https://sites.google.com/view/mpkwae097
+https://sites.google.com/view/mtamask-extensn/home
 https://sites.google.com/view/mtamask-extson/home
 https://sites.google.com/view/mtamassklgi/home
 https://sites.google.com/view/mtamassklgin/home
