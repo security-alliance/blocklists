@@ -47679,7 +47679,6 @@ aerodrome-finance.wixstudio.com
 agency-bridge.wixstudio.com
 ai-bitestamp.wixstudio.com
 ai-krakeen-nav.wixstudio.com
-aimoon-pay.wixstudio.com
 aouth-kraknapp.wixstudio.com
 aouth-rubbyio.wixstudio.com
 aouthupholdscdn.wixstudio.com
@@ -47941,7 +47940,6 @@ apps-metmskk-ext.wixstudio.com
 apps-metmsks-io.wixstudio.com
 apps-metmssk-logn.wixstudio.com
 apps-metmsskcdn.wixstudio.com
-apps-moanpey.wixstudio.com
 apps-mompey.wixstudio.com
 apps-moonpaycdnn.wixstudio.com
 apps-moonpy.wixstudio.com
@@ -50181,7 +50179,6 @@ navapps-rabbycdn.wixstudio.com
 navbitbuy-ca.wixstudio.com
 naventcoins.wixstudio.com
 navi-ndx-io.wixstudio.com
-navio-moonpay.wixstudio.com
 navio-rabbycdn.wixstudio.com
 navio-rabyycdn-apps.wixstudio.com
 naviorabbyapps.wixstudio.com
@@ -51083,7 +51080,6 @@ us-metsmsk-apps.wixstudio.com
 us-moonpay.wixstudio.com
 us-moonpayapps.wixstudio.com
 us-moonpayio.wixstudio.com
-us-moonpayy.wixstudio.com
 us-rabbyweb.wixstudio.com
 us-rabbyy.wixstudio.com
 us-rabbyy-apps.wixstudio.com
