@@ -10315,7 +10315,6 @@
 ||manual-coinbase.vercel.app^$all
 ||marginfi-finance.vercel.app^$all
 ||markets-app-git-feature-mkt-1792-remove-gre-fb5278-morpho-addmo.vercel.app^$all
-||marsswap.vercel.app^$all
 ||mayankuniswapv2-ui.vercel.app^$all
 ||mellow-finance-frontend.vercel.app^$all
 ||memberservices-backupcentre-exodus.vercel.app^$all
@@ -11378,7 +11377,6 @@
 ||uniswap-interface-connect-dapp-v469.vercel.app^$all
 ||uniswap-interface-connect-dapp-v496.vercel.app^$all
 ||uniswap-mainnet-swap-interface-v1.vercel.app^$all
-||uniswap-mu.vercel.app^$all
 ||uniswap-protocol-dapp-interface-v1690.vercel.app^$all
 ||uniswap-protocol-dapp-interface-v1807.vercel.app^$all
 ||uniswap-protocol-dapp-interface-v451.vercel.app^$all
@@ -11393,13 +11391,11 @@
 ||uniswap-rfki1rgbc-leviethung2403.vercel.app^$all
 ||uniswap-ritesh-15.vercel.app^$all
 ||uniswap-ui-fork-98orlk3jo-fntokens-gmailcom.vercel.app^$all
-||uniswap-v1-clone-ruby.vercel.app^$all
 ||uniswap-v2-clone-sanjay-sugunan.vercel.app^$all
 ||uniswap-v3-dapp.vercel.app^$all
 ||uniswap-v3-interface.vercel.app^$all
 ||uniswap-wallet-relay-v394.vercel.app^$all
 ||uniswapdap.vercel.app^$all
-||uniswapv2-mu.vercel.app^$all
 ||uniswapv3oracle.vercel.app^$all
 ||uojite-adsrhlx4.vercel.app^$all
 ||uptvha-rdopop7x.vercel.app^$all
@@ -11417,7 +11413,6 @@
 ||v0-walletconnect-v2-integration.vercel.app^$all
 ||v2-justlend.vercel.app^$all
 ||v2-paraswap.vercel.app^$all
-||v3-pool-address-getter.vercel.app^$all
 ||v4-lp-helper.vercel.app^$all
 ||validator-bn2q.vercel.app^$all
 ||validator-gig5.vercel.app^$all
@@ -15064,6 +15059,7 @@
 ||cme-app.cc^$all
 ||cn-htx.cc^$all
 ||cnshiyou.cc^$all
+||cofarbitrage.cc^$all
 ||coin-casinos.cc^$all
 ||coinbase-certificate.cc^$all
 ||coinbase11.cc^$all
