@@ -76881,7 +76881,6 @@ fuzzyxrp.foundation
 hylo.foundation
 ilayerzero.foundation
 loopscale.foundation
-multiplier-flare.foundation
 pool-flare.foundation
 proposal-edgex.foundation
 proposals-aave.foundation
@@ -112096,7 +112095,6 @@ enter-papertrade.xyz
 enter-pendlefi.xyz
 enter-pharosnetwork.xyz
 enter-poiymarket.xyz
-enter-prjx.xyz
 enter-protocolfx.xyz
 enter-scallop.xyz
 enter-skymoney.xyz
