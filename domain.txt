@@ -79598,7 +79598,6 @@ pengu-share.icu
 penguins-get.icu
 penguins-share.icu
 penguinz-app.icu
-pengus-get.icu
 pengushare.icu
 pepepad.icu
 pepercos-season3.icu
@@ -114844,7 +114843,6 @@ pengu-pudgy.xyz
 claim.pengu-token.xyz
 penguclaim.xyz
 pengucoin.xyz
-pengupudgy.xyz
 peopleinbase.xyz
 pepebase.xyz
 pepegold.xyz
