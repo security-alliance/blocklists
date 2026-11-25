@@ -20646,7 +20646,6 @@ zcash-binance.cn
 zh-bybit.cn
 kraoo.zuxizdo.cn
 krayb.zuxizdo.cn
-05live.co
 05meet.co
 0xbeaconlayer.co
 1bybitpro.co
