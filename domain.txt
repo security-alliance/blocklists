@@ -93433,7 +93433,6 @@ flaredirect.network
 flaress.network
 flarewalletpc.network
 flarexrp.network
-fllaer.network
 flore.network
 foundation-canopy.network
 fxrp-flare.network
