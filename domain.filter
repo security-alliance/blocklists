@@ -1012,7 +1012,6 @@
 ||aphold-logi.created.app^$all
 ||app-upheld.created.app^$all
 ||app-upheld-docs.created.app^$all
-||auth-uphld-log.created.app^$all
 ||auth-uphld-login.created.app^$all
 ||co-insmart-home.created.app^$all
 ||coenbase-pro-loegn.created.app^$all
@@ -1030,7 +1029,6 @@
 ||en-upholdcom.created.app^$all
 ||en-uphuld-sso.created.app^$all
 ||en-us-upheld.created.app^$all
-||en-us-uphld-app.created.app^$all
 ||en-us-uphold-eng.created.app^$all
 ||eng-uphulld-webs.created.app^$all
 ||engdesktop.created.app^$all
@@ -1042,7 +1040,6 @@
 ||hashpackweb3-wallet.created.app^$all
 ||help-uphold-com-auth.created.app^$all
 ||help-uphold-io.created.app^$all
-||home-uphold.created.app^$all
 ||htx-logen.created.app^$all
 ||hub-uphold.created.app^$all
 ||krakn-log-im.created.app^$all
@@ -1053,32 +1050,25 @@
 ||metamsk-logi.created.app^$all
 ||my-uphuld.created.app^$all
 ||nettcoins.created.app^$all
-||official-io-upheld.created.app^$all
 ||page-up-huld-io-cdn.created.app^$all
 ||phantmwallt.created.app^$all
 ||portal-enterprise-uphold-com.created.app^$all
 ||procoinbasesignin.created.app^$all
-||public-upheld-sso.created.app^$all
 ||ra-bby.created.app^$all
 ||rabbitx-exchange-landing-pa-821.created.app^$all
 ||raydiumm.created.app^$all
 ||secuere-upholde.created.app^$all
 ||secure-uphold-login.created.app^$all
-||sign-uphold.created.app^$all
-||sso-io-uphold.created.app^$all
 ||sso-up-hold-io.created.app^$all
-||sso-uphcld.created.app^$all
 ||sso-uphld-cdn.created.app^$all
 ||sso-uphuld-x-auth.created.app^$all
 ||start-live-io.created.app^$all
 ||start-uphuld-en.created.app^$all
-||support-uphold-web.created.app^$all
 ||trust-org.created.app^$all
 ||trust-walt-ext.created.app^$all
 ||up-held-lggin-en-cloud.created.app^$all
 ||up-hold-enter.created.app^$all
 ||up-hold-logi.created.app^$all
-||up-load-us-cnd.created.app^$all
 ||uph-old-logi.created.app^$all
 ||uphald-app-ai.created.app^$all
 ||uphcld-en.created.app^$all
@@ -1089,14 +1079,12 @@
 ||upheld-trouble.created.app^$all
 ||upheld-united.created.app^$all
 ||upheld-us.created.app^$all
-||upheld-us-canda.created.app^$all
 ||upheldio.created.app^$all
 ||upheldsso.created.app^$all
 ||uphld-en-us.created.app^$all
 ||uphld-logi-en.created.app^$all
 ||uphldlog.created.app^$all
 ||uphlldlogn.created.app^$all
-||uphold--cloud.created.app^$all
 ||uphold-admin.created.app^$all
 ||uphold-en-cdn.created.app^$all
 ||uphold-en-page.created.app^$all
@@ -1125,10 +1113,8 @@
 ||upholedd-login.created.app^$all
 ||upholld-login-secure.created.app^$all
 ||upholld-web-en.created.app^$all
-||uphould-logn.created.app^$all
 ||uphuld-login.created.app^$all
 ||upihold-wailet-en.created.app^$all
-||upihold-wallet-web.created.app^$all
 ||upld-login-co.created.app^$all
 ||vertex-site.created.app^$all
 ||vertexprotocol.created.app^$all
@@ -66929,6 +66915,7 @@
 ||doc-exodus-web4.pages.dev^$all
 ||doc-exoduss-web3-en.pages.dev^$all
 ||doc-exoduswebe.pages.dev^$all
+||doc-exoxdns-web.pages.dev^$all
 ||doc-exxod-us-web3-us.pages.dev^$all
 ||doc-exxodus-weeb.pages.dev^$all
 ||doc-exxodusweb3.pages.dev^$all
@@ -67322,6 +67309,7 @@
 ||en-us-doc-exdus-web3.pages.dev^$all
 ||en-us-dsaktop-ledgre.pages.dev^$all
 ||en-us-dsk-ledgr.pages.dev^$all
+||en-us-exedos-bin.pages.dev^$all
 ||en-us-exodes.pages.dev^$all
 ||en-us-exods-w.pages.dev^$all
 ||en-us-ledgeer.pages.dev^$all
@@ -67451,6 +67439,7 @@
 ||eo-ledgr-starts.pages.dev^$all
 ||eo-ledgrwllet.pages.dev^$all
 ||eo-live-ledgr.pages.dev^$all
+||eo-xodwa.pages.dev^$all
 ||eon-ledger.pages.dev^$all
 ||equator-ledger.pages.dev^$all
 ||erntrezor-io-start.pages.dev^$all
@@ -67509,6 +67498,7 @@
 ||exchange-ledger-help.pages.dev^$all
 ||exchange-with-dydx-ecu.pages.dev^$all
 ||exdos-web-home.pages.dev^$all
+||exds-wlletsecrty.pages.dev^$all
 ||exdswllet-secrty.pages.dev^$all
 ||exdus--web3.pages.dev^$all
 ||exdus-login-wallet.pages.dev^$all
@@ -67524,6 +67514,7 @@
 ||exdusweb3-io.pages.dev^$all
 ||exedus-us-en.pages.dev^$all
 ||exedusweb3-faq.pages.dev^$all
+||exeodusweb3-us.pages.dev^$all
 ||exo--dus-web3.pages.dev^$all
 ||exo-dus-web3-bwv.pages.dev^$all
 ||exo-pro-dusweb3.pages.dev^$all
@@ -67643,10 +67634,13 @@
 ||exoodus-en-downloaad.pages.dev^$all
 ||exoodus-wallet-us.pages.dev^$all
 ||exoodusweb3-portal-en.pages.dev^$all
+||exoosdeusweb.pages.dev^$all
+||exosd-eus-web.pages.dev^$all
 ||exosde-us-web.pages.dev^$all
 ||exosdeus-web.pages.dev^$all
 ||exosdeus-web-io.pages.dev^$all
 ||exosdeusweb-io.pages.dev^$all
+||exosdeuswebr.pages.dev^$all
 ||exosdsweb-io-emt.pages.dev^$all
 ||exosdus--web.pages.dev^$all
 ||exosdus-web-wlt.pages.dev^$all
@@ -67654,6 +67648,7 @@
 ||exosduswb-io.pages.dev^$all
 ||exosdusweb-io-pnb.pages.dev^$all
 ||exosdusweb-io-us.pages.dev^$all
+||exosdusweb-us.pages.dev^$all
 ||exossdeusweb.pages.dev^$all
 ||exoxdus-web-doc.pages.dev^$all
 ||experience-ledger-start.pages.dev^$all
@@ -67675,8 +67670,10 @@
 ||extenssion-suii-wallet-us.pages.dev^$all
 ||extn-metamsk-us.pages.dev^$all
 ||extnsion-wll-base.pages.dev^$all
+||extweb-exdos.pages.dev^$all
 ||exxadas-app-io.pages.dev^$all
 ||exxod-sweb-ee-us.pages.dev^$all
+||exxod-sweb-en-us.pages.dev^$all
 ||exxod-sweb-us.pages.dev^$all
 ||exxod-web.pages.dev^$all
 ||exxods-io-app.pages.dev^$all
@@ -67685,6 +67682,7 @@
 ||exxodus-docweb3.pages.dev^$all
 ||exxodus-docweb3-oi.pages.dev^$all
 ||exxodus-doweb.pages.dev^$all
+||exxodus-web-get-is.pages.dev^$all
 ||exxodus-wec-doc.pages.dev^$all
 ||exxodusdocweb3.pages.dev^$all
 ||exxoduss-web-get-io.pages.dev^$all
@@ -68398,6 +68396,7 @@
 ||home-exodus-wallt.pages.dev^$all
 ||home-exoduss-wallt.pages.dev^$all
 ||home-exodust-wallet.pages.dev^$all
+||home-exox-en-us.pages.dev^$all
 ||home-faqs-io-logn-trezr.pages.dev^$all
 ||home-help-ledgre-x.pages.dev^$all
 ||home-io-coinbas--start.pages.dev^$all
@@ -68525,6 +68524,7 @@
 ||home-x-web3-exods.pages.dev^$all
 ||homed-suite.pages.dev^$all
 ||homei-exo-xen.pages.dev^$all
+||homei-exoxen.pages.dev^$all
 ||homep-age--bridge--trzor.pages.dev^$all
 ||homepage-bridge-trezor.pages.dev^$all
 ||homepage-desktop-ledgr-aod.pages.dev^$all
@@ -68863,6 +68863,7 @@
 ||it-rainbets-it.pages.dev^$all
 ||itd-live-ledgr.pages.dev^$all
 ||itn-live-ledgr.pages.dev^$all
+||itrst-captial-filipe.pages.dev^$all
 ||itrust-walllet.pages.dev^$all
 ||its-ledgeer-logn.pages.dev^$all
 ||izumi-finance.pages.dev^$all
