@@ -13875,7 +13875,6 @@ river-vip.bond
 rlcfbowd.bond
 roajnetwork.bond
 rolencin.bond
-rollmaneycontrol.bond
 rooosargue.bond
 rqousite.bond
 ruygzqalso.bond
@@ -35380,7 +35379,6 @@ wallet.websuite.it.com
 it889.com
 italy-polymarket.com
 item-arriveds.com
-itgamb.com
 itheum-swap.com
 itite998.com
 itn-teaprotocol.com
@@ -35415,7 +35413,6 @@ jalabuty.com
 www-paribu.jamnagartransportco.com
 janiwex.com
 janoloeneon.com
-jaovex.com
 japan-polymarket.com
 japcmweb.com
 japowex.com
@@ -38660,7 +38657,6 @@ c.olnbase.com
 olovion.com
 olvadpadx.com
 olxbm.com
-olymp-stake.com
 olympia-au.com
 olympiacasino1.com
 olympiacasinos.com
@@ -45512,7 +45508,6 @@ ty-okx.com
 ty-whatsapp.com
 tayangku.tybilan.com
 tydro-v2.com
-tygamb.com
 tygcb.com
 tyrvq.com
 tyrwq.com
@@ -47117,7 +47112,6 @@ wasabi-manual.com
 wasabiwallt.com
 wasgamb.com
 wasobin.com
-wasowin.com
 watch-article.com
 waterbury-coinbase.com
 waterx-app.com
@@ -47568,7 +47562,6 @@ wingsandsirens.com
 winisol.com
 winjai.com
 winliberia-smslr.com
-winmusk.com
 winnamax.com
 winner777goldcas.com
 winnoria.com
@@ -52544,7 +52537,6 @@ circle.zentrabase.com
 zentrocapitals.com
 zentrum-online.com
 zeodox.com
-zeopox.com
 zeovux.com
 zeowox.com
 zeppelinenergyrental.com
@@ -53205,7 +53197,6 @@ register-meridian.cyou
 regreso.cyou
 request-refunds.cyou
 revo-bonus.cyou
-revoke.cyou
 rewards-meridian.cyou
 rewards-stable.cyou
 river-vip.cyou
