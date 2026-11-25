@@ -1620,7 +1620,6 @@ https://sites.google.com/view/trezor-dashboard/trezor-suite
 https://sites.google.com/view/trezor-desktop-site
 https://sites.google.com/view/trezor-device-backup/trezor-suite
 https://sites.google.com/view/trezor-device-connect/trezor-suite
-https://sites.google.com/view/trezor-device-setup/launch-trezor-suite
 https://sites.google.com/view/trezor-device-setup/trezor-app
 https://sites.google.com/view/trezor-signin/trezor-suite
 https://sites.google.com/view/trezor-suite-offici/home
