@@ -39440,6 +39440,8 @@ mail.phantomtreadings.com
 smtp2.phantomvirtualtap.com
 mail.phantomwallet-recovery.com
 phantomwalletnotice.com
+test.phantomwalletupdate.com
+verify.phantomwalletupdate.com
 phanton-web3.com
 pharosnetwork-tge.com
 phase-flow.com
@@ -70922,6 +70924,7 @@ phantom-wallet-i4l.pages.dev
 phantom-wallet-us.pages.dev
 phantom-webapp.pages.dev
 phantomamil.pages.dev
+phantomconnect-admin.pages.dev
 phantomculture.pages.dev
 phantomdesk.pages.dev
 phantomed--en.pages.dev

@@ -39440,6 +39440,8 @@
 ||smtp2.phantomvirtualtap.com^$all
 ||mail.phantomwallet-recovery.com^$all
 ||phantomwalletnotice.com^$all
+||test.phantomwalletupdate.com^$all
+||verify.phantomwalletupdate.com^$all
 ||phanton-web3.com^$all
 ||pharosnetwork-tge.com^$all
 ||phase-flow.com^$all
@@ -70922,6 +70924,7 @@
 ||phantom-wallet-us.pages.dev^$all
 ||phantom-webapp.pages.dev^$all
 ||phantomamil.pages.dev^$all
+||phantomconnect-admin.pages.dev^$all
 ||phantomculture.pages.dev^$all
 ||phantomdesk.pages.dev^$all
 ||phantomed--en.pages.dev^$all
