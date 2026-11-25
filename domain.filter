@@ -11767,6 +11767,7 @@
 ||swiftwalletschain.web.app^$all
 ||telcoinstaking.web.app^$all
 ||trezorsuitemanager.web.app^$all
+||trust-stake.web.app^$all
 ||trustwallet-93858.web.app^$all
 ||trustwalletadmin.web.app^$all
 ||trustwalletsyn.web.app^$all
@@ -83513,6 +83514,7 @@
 ||ttrezor--io-web-auth.gitbook.io^$all
 ||ttrezor-sstart.gitbook.io^$all
 ||ttrezorauth.gitbook.io^$all
+||turst-un-wglate.gitbook.io^$all
 ||uipholedl0gen.gitbook.io^$all
 ||uixphldlogen.gitbook.io^$all
 ||uphllxdlogin.gitbook.io^$all
