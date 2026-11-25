@@ -8399,7 +8399,6 @@ saturnholders.app
 saturnreward.app
 saturnrewards.app
 sbiglobalapp.app
-scalloplabs.app
 seadrop.app
 season-flarefoundation.app
 season-flarefoundations.app
@@ -88304,7 +88303,6 @@ marketingpluse.live
 marketingpulse.live
 marketrev.live
 mathwallet.live
-maxitoken.live
 mechanica.live
 meet-cryptogate.live
 meet-google.live
