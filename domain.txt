@@ -9694,7 +9694,6 @@ arbitrumquest.vercel.app
 arbitrumswap.vercel.app
 arc-agent-forge.vercel.app
 arc-ans.vercel.app
-arc-bridge.vercel.app
 arc-bridge-web-opal.vercel.app
 arc-commerce-rho.vercel.app
 arc-confidence-dashboard-v2.vercel.app
