@@ -11648,7 +11648,6 @@
 ||apps-polymarket.web.app^$all
 ||appswalletconnects.web.app^$all
 ||arcus-net.web.app^$all
-||auctions-zealousswap.web.app^$all
 ||backpack-updates.web.app^$all
 ||backpackextensions.web.app^$all
 ||bayc-nftmint.web.app^$all
@@ -32249,7 +32248,6 @@
 ||finst-trade.com^$all
 ||firaprotocol.com^$all
 ||akuna-wallet-ultrastellar.firebaseapp.com^$all
-||auctions-zealousswap.firebaseapp.com^$all
 ||backpackextensions.firebaseapp.com^$all
 ||cancel569-coinbase.firebaseapp.com^$all
 ||cancel5839502-coinbase-com.firebaseapp.com^$all
@@ -101169,7 +101167,6 @@
 ||id-verification-s3.sbs^$all
 ||id-verification-s7.sbs^$all
 ||id-verification-server.sbs^$all
-||igralabs.sbs^$all
 ||im-token-hk-cdn.sbs^$all
 ||immediate-v4-app.sbs^$all
 ||incentive-firelight.sbs^$all
@@ -113465,7 +113462,6 @@
 ||prod.iethereum.xyz^$all
 ||report.iethereum.xyz^$all
 ||ignitercap-firelight.xyz^$all
-||igralabs.xyz^$all
 ||iguanaplay.xyz^$all
 ||igwpi.xyz^$all
 ||ihypercsystem.xyz^$all
