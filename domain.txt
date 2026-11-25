@@ -76166,7 +76166,6 @@ claim-onre.finance
 claim-pendle.finance
 claim-solstice.finance
 claim-solv.finance
-claimallocation.finance
 claiming-firelight.finance
 claiming-pendle.finance
 claimings-pendle.finance
