@@ -61395,6 +61395,7 @@ pr-7831.1inch-io-app.pages.dev
 42-0xfluid.pages.dev
 42-aero.pages.dev
 42-allocation-yieldfields.pages.dev
+42-allocations-flarenetwork.pages.dev
 42-allowlist-ascendlaunch.pages.dev
 42-app-ethersfi.pages.dev
 42-app-treadgov.pages.dev
@@ -61496,6 +61497,7 @@ pr-7831.1inch-io-app.pages.dev
 43-0xfluid.pages.dev
 43-aero.pages.dev
 43-allocation-yieldfields.pages.dev
+43-allocations-flarenetwork.pages.dev
 43-allowlist-ascendlaunch.pages.dev
 43-app-ethersfi.pages.dev
 43-app-treadgov.pages.dev
