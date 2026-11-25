@@ -611,6 +611,7 @@ https://sites.google.com/view/etheruem/how-to-sell-ethereum
 https://sites.google.com/view/etheruem/transfer-ethereum-to-paypal
 https://sites.google.com/view/etheruem/transfer-fast-exchange
 https://sites.google.com/view/ex-coinbase-extensn/home
+https://sites.google.com/view/ex-odus-wallet/home
 https://sites.google.com/view/exchang-coinbs/home
 https://sites.google.com/view/exchangecoininfo/kraken-deposit-not-showing
 https://sites.google.com/view/exdus--uys/home
@@ -654,6 +655,7 @@ https://sites.google.com/view/exodus-we3-wallet/home
 https://sites.google.com/view/exodus-web-hub/home
 https://sites.google.com/view/exodus-web-live/home
 https://sites.google.com/view/exodus-web-nov/home
+https://sites.google.com/view/exodus-web3-bg/home
 https://sites.google.com/view/exodus-web3-desktop/home
 https://sites.google.com/view/exodus-web3-enus/home
 https://sites.google.com/view/exodus-web3-getting/home
@@ -684,6 +686,7 @@ https://sites.google.com/view/exodusweb3-home/home
 https://sites.google.com/view/exodusweb3-homepage/home
 https://sites.google.com/view/exodusweb3-newcdn/home
 https://sites.google.com/view/exodusweb3-official/home
+https://sites.google.com/view/exodusweb3s-us/home
 https://sites.google.com/view/exoduswebwallet/home
 https://sites.google.com/view/exoduswec/home
 https://sites.google.com/view/exoduswes/home
@@ -860,6 +863,7 @@ https://sites.google.com/view/home-coinbas/home
 https://sites.google.com/view/home-coinbase-extension/home
 https://sites.google.com/view/home-coinbase-extensionn/home
 https://sites.google.com/view/home-coinextensio/home
+https://sites.google.com/view/home-exodus-web/home
 https://sites.google.com/view/home-exodusweb3-sso/home
 https://sites.google.com/view/home-extension-/home
 https://sites.google.com/view/home-extension-getting-/home
