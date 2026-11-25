@@ -111156,7 +111156,6 @@ citrea-vote.xyz
 citrea-votes.xyz
 citrea-voting.xyz
 app.citreabase.xyz
-citrealab.xyz
 citrearewardpool.xyz
 citrearewards.xyz
 api.citreax.xyz
