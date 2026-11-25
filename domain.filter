@@ -438,6 +438,7 @@
 ||upheldappcdm.relumesite.ai^$all
 ||upholdappcdn.relumesite.ai^$all
 ||upholdhq.relumesite.ai^$all
+||senpia.ai^$all
 ||demo.simotech.ai^$all
 ||kraken.simotech.ai^$all
 ||sohoo.ai^$all
@@ -9693,7 +9694,6 @@
 ||arbitrumquest.vercel.app^$all
 ||arbitrumswap.vercel.app^$all
 ||arc-agent-forge.vercel.app^$all
-||arc-ans.vercel.app^$all
 ||arc-bridge-web-opal.vercel.app^$all
 ||arc-commerce-rho.vercel.app^$all
 ||arc-confidence-dashboard-v2.vercel.app^$all
@@ -9707,7 +9707,6 @@
 ||arc-multichain-wallet.vercel.app^$all
 ||arc-nft-mint.vercel.app^$all
 ||arc-p2p-payments.vercel.app^$all
-||arc-pay-six.vercel.app^$all
 ||arc-pilot-arhm.vercel.app^$all
 ||arc-portal-lime.vercel.app^$all
 ||arc-premium-portal.vercel.app^$all

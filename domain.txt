@@ -438,6 +438,7 @@ uepholdappcdn.relumesite.ai
 upheldappcdm.relumesite.ai
 upholdappcdn.relumesite.ai
 upholdhq.relumesite.ai
+senpia.ai
 demo.simotech.ai
 kraken.simotech.ai
 sohoo.ai
@@ -9693,7 +9694,6 @@ arbitrumfoundationdex.vercel.app
 arbitrumquest.vercel.app
 arbitrumswap.vercel.app
 arc-agent-forge.vercel.app
-arc-ans.vercel.app
 arc-bridge-web-opal.vercel.app
 arc-commerce-rho.vercel.app
 arc-confidence-dashboard-v2.vercel.app
@@ -9707,7 +9707,6 @@ arc-mind-ai.vercel.app
 arc-multichain-wallet.vercel.app
 arc-nft-mint.vercel.app
 arc-p2p-payments.vercel.app
-arc-pay-six.vercel.app
 arc-pilot-arhm.vercel.app
 arc-portal-lime.vercel.app
 arc-premium-portal.vercel.app
