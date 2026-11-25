@@ -21493,7 +21493,6 @@ robinhood.114501.com
 126948-crypto.com
 127275-crypto.com
 127326kraken.com
-127329coinbase.com
 127409-crypto.com
 127717.com
 127790.com
@@ -70543,7 +70542,6 @@ my-ledger-evs.pages.dev
 my-money-ledger.pages.dev
 my700haulapp.pages.dev
 mynth2.pages.dev
-n-smartwebfix.pages.dev
 n-us-desktop-ledgr.pages.dev
 nak-ledger.pages.dev
 name-trezor-io.pages.dev
