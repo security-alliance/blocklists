@@ -29117,6 +29117,7 @@ com-gift-cards-celo.com
 bitrefill.com-gift-cards-chz.com
 com-gift-cards-comp.com
 com-gift-cards-crv.com
+bitrefill.com-gift-cards-dai.com
 bitrefill.com-gift-cards-dash.com
 com-gift-cards-doge.com
 com-gift-cards-dot.com
@@ -29165,6 +29166,7 @@ bitrefill.com-gift-cards-uni.com
 com-gift-cards-usdc.com
 com-gift-cards-usdt.com
 bitrefill.com-gift-cards-vet.com
+bitrefill.com-gift-cards-wbtc.com
 bitrefill.com-gift-cards-wif.com
 com-gift-cards-xlm.com
 bitrefill.com-gift-cards-xmr.com
