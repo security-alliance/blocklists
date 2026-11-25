@@ -115739,6 +115739,7 @@ rewards-jup-ag.xyz
 rewards-jupiter.xyz
 rewards-kinetiq-foundation.xyz
 rewards-kinetiqfnd.xyz
+rewards-kinetiqfoundation.xyz
 rewards-kintara.xyz
 rewards-matcha.xyz
 rewards-meridian.xyz
