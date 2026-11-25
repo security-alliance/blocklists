@@ -610,6 +610,7 @@ https://sites.google.com/view/etheruem/transfer-fast-exchange
 https://sites.google.com/view/ex-coinbase-extensn/home
 https://sites.google.com/view/exchang-coinbs/home
 https://sites.google.com/view/exchangecoininfo/kraken-deposit-not-showing
+https://sites.google.com/view/exdus--uys/home
 https://sites.google.com/view/exdus-web-eng/home
 https://sites.google.com/view/exdus-web3-learn/home
 https://sites.google.com/view/exduswebs-wallet/home
@@ -620,6 +621,7 @@ https://sites.google.com/view/exods-web3-wallit/home
 https://sites.google.com/view/exods-webb/home
 https://sites.google.com/view/exods-wlt/home
 https://sites.google.com/view/exodsweb-wallet/home
+https://sites.google.com/view/exodsweb3-global/home
 https://sites.google.com/view/exodus-auth/home
 https://sites.google.com/view/exodus-base-nav/home
 https://sites.google.com/view/exodus-brows/home
@@ -646,6 +648,7 @@ https://sites.google.com/view/exodus-web-nov/home
 https://sites.google.com/view/exodus-web3-enus/home
 https://sites.google.com/view/exodus-web3-learn/home
 https://sites.google.com/view/exodus-web3a/home
+https://sites.google.com/view/exodus-webbb/home
 https://sites.google.com/view/exodus-webs-en/home
 https://sites.google.com/view/exodus-weeb/home
 https://sites.google.com/view/exodus-wevb/home
@@ -1536,6 +1539,7 @@ https://sites.google.com/view/startapptarta/home
 https://sites.google.com/view/started--metamask/home
 https://sites.google.com/view/started-coinbase-extensin/home
 https://sites.google.com/view/started-coinbase-wallet/home
+https://sites.google.com/view/started-dev/home
 https://sites.google.com/view/started-metamsk-extion/home
 https://sites.google.com/view/started-metamsks/home
 https://sites.google.com/view/store-exoduscdn/home
@@ -1670,6 +1674,8 @@ https://sites.google.com/view/webapps-home-extension/home
 https://sites.google.com/view/webapps-metamask/home
 https://sites.google.com/view/weben-por/home
 https://sites.google.com/view/webenpro/home
+https://sites.google.com/view/webexodus-cdn/home
+https://sites.google.com/view/webexodus-intro/home
 https://sites.google.com/view/webextension-metamsk/home
 https://sites.google.com/view/webguide-exods/home
 https://sites.google.com/view/webhome-coinbase/home
