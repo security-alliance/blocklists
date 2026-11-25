@@ -48799,7 +48799,6 @@ exodusweb-connect.wixstudio.com
 exodusweb-starts.wixstudio.com
 expert-dydx.wixstudio.com
 explor-metmsken.wixstudio.com
-explore-exodos-home.wixstudio.com
 explore-exods-home.wixstudio.com
 explore-exodus-walet.wixstudio.com
 explore-metamskcdn.wixstudio.com
@@ -60597,6 +60596,7 @@ pr-7831.1inch-io-app.pages.dev
 379-lists-okxvotes.pages.dev
 379-reallocate-flare.pages.dev
 37af-coinbase-listing-677f.pages.dev
+37d2-67ae-colnbase-listings.pages.dev
 38-0xfluid.pages.dev
 38-aero.pages.dev
 38-allocation-yieldfields.pages.dev
