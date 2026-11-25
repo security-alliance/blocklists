@@ -7550,6 +7550,7 @@ pump-voting-zw.netlify.app
 pump-voting-zz.netlify.app
 pumpcommunitypointsdashboard-jhktns92.netlify.app
 pumpcommunitypointsdashboard-kmwsd-jzfsdj58.netlify.app
+pumpcommunityviewpointstatus-redxfsj7.netlify.app
 pumpfunlivestreamers.netlify.app
 pumpfunstream.netlify.app
 pumpfunstreaming.netlify.app
