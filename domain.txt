@@ -47942,7 +47942,6 @@ apps-metmsks-io.wixstudio.com
 apps-metmssk-logn.wixstudio.com
 apps-metmsskcdn.wixstudio.com
 apps-moanpey.wixstudio.com
-apps-mompay.wixstudio.com
 apps-mompey.wixstudio.com
 apps-moonpaycdnn.wixstudio.com
 apps-moonpy.wixstudio.com
@@ -49272,7 +49271,6 @@ homepage-koinbze-ext.wixstudio.com
 homepage-krrakan.wixstudio.com
 homepage-ladger.wixstudio.com
 homepage-liveapp.wixstudio.com
-homepage-meonpey.wixstudio.com
 homepage-metamak-io.wixstudio.com
 homepage-metamaskio.wixstudio.com
 homepage-metamsk.wixstudio.com
@@ -49958,9 +49956,7 @@ mobile-rabby-apps.wixstudio.com
 monitor-krakeng-apps.wixstudio.com
 monpaeylogin.wixstudio.com
 monpaylpgin.wixstudio.com
-moon-pay-apps.wixstudio.com
 moonpaeylogin.wixstudio.com
-moonpay-appscdn.wixstudio.com
 moonpay-enus.wixstudio.com
 moonpay-home.wixstudio.com
 moonpay-homeapps.wixstudio.com
@@ -50299,7 +50295,6 @@ oauth-kucoenapps.wixstudio.com
 oauth-kukoiinapps.wixstudio.com
 oauth-metamask-io.wixstudio.com
 oauth-moonpay.wixstudio.com
-oauth-moonpaycdn.wixstudio.com
 oauth-rabby-extensn.wixstudio.com
 oauth-rabbyapps.wixstudio.com
 oauth-rabbycdn.wixstudio.com
@@ -50805,7 +50800,6 @@ startio-dydaxx.wixstudio.com
 startio-lacecdn.wixstudio.com
 startio-ledgr-en.wixstudio.com
 startio-metamasken.wixstudio.com
-startio-monpaycdn.wixstudio.com
 startio-rabby-apps.wixstudio.com
 startio-rabbyapps.wixstudio.com
 startio-treconcdn.wixstudio.com
@@ -50967,7 +50961,6 @@ trade-krrkenweb.wixstudio.com
 trade-metamask.wixstudio.com
 trade-metamask-io.wixstudio.com
 trade-metamaskcdn.wixstudio.com
-trade-monpaycdn.wixstudio.com
 trade-moonpaycdn.wixstudio.com
 trade-nadax-apps.wixstudio.com
 trade-ndaxapp-en.wixstudio.com
@@ -83807,7 +83800,6 @@ metimasklogiins.github.io
 metmsuk-wellatt.github.io
 metumskusa-logiiin.github.io
 mnt-staking.github.io
-moon-pay.github.io
 moonpaycheckout.github.io
 mutamaks-logic.github.io
 nawaf2040.github.io
