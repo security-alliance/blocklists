@@ -82157,6 +82157,7 @@
 ||bitget.institute^$all
 ||polymarket.institute^$all
 ||ledgersupport.insure^$all
+||phantom.insure^$all
 ||tangem.insure^$all
 ||trezorwallet.insure^$all
 ||embassy-protocol.int^$all

@@ -82157,6 +82157,7 @@ zoom-meet.ink
 bitget.institute
 polymarket.institute
 ledgersupport.insure
+phantom.insure
 tangem.insure
 trezorwallet.insure
 embassy-protocol.int
