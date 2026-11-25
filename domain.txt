@@ -47589,6 +47589,7 @@ upheld-ssoen.wixsite.com
 view-jaxxlibretycdn.wixsite.com
 web-extension-base.wixsite.com
 web-rabbyext-apps.wixsite.com
+webapps-1inch-cdn.wixsite.com
 webapps-trustt.wixsite.com
 webs-base-extension.wixsite.com
 webs-trust-extension.wixsite.com
@@ -59260,6 +59261,7 @@ pr-7831.1inch-io-app.pages.dev
 2a65-482c-coinbase-listing.pages.dev
 2a86-482c-coinbase-listing.pages.dev
 2ab1-482c-coinbase-listing.pages.dev
+2c98-4c29-5133-c0inbase-list.pages.dev
 2ea5-4c29-5133-c0inbase-list.pages.dev
 2f09-fa8e-5133-c0inbase-list.pages.dev
 2f35-4c29-5133-c0inbase-list.pages.dev
