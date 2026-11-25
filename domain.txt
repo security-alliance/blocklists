@@ -1336,7 +1336,6 @@ fakeverify-ledger.app
 falcon-finances.app
 falconsfinance.app
 fastcompiler.app
-fees-gitbank.app
 feminafit.app
 exodussupport.fercel.app
 ferdium.app
@@ -89723,7 +89722,6 @@ netnet-capital.lol
 netnetcapital.lol
 netnetcapitals.lol
 nexbet.lol
-nexoclaim.lol
 nexoentitlement.lol
 nibsol.lol
 niulai.lol
@@ -92029,7 +92027,6 @@ g-user.net
 g-users.net
 g0ogle.net
 galnex.net
-game-corp.net
 gamecasinogamble.net
 gamesbc.net
 gammaswap.net
