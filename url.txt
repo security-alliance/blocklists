@@ -639,6 +639,7 @@ https://sites.google.com/view/exodus-guide-app/home
 https://sites.google.com/view/exodus-home-page/home
 https://sites.google.com/view/exodus-hub-en/home
 https://sites.google.com/view/exodus-hubb/home
+https://sites.google.com/view/exodus-intro-livestart/home
 https://sites.google.com/view/exodus-nav-web/home
 https://sites.google.com/view/exodus-non/home
 https://sites.google.com/view/exodus-os/home
