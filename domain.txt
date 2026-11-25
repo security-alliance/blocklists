@@ -48500,7 +48500,6 @@ connect-zerioncdn.wixstudio.com
 connectrabbyy-io.wixstudio.com
 connects-base-ext.wixstudio.com
 connectwith-jaxx.wixstudio.com
-cono-base-apps.wixstudio.com
 console-qoinext.wixstudio.com
 contactrobinhoodsupp.wixstudio.com
 could-netscoinsapp.wixstudio.com
@@ -113967,7 +113966,6 @@ layooo-sol.xyz
 layooosol.xyz
 lcentives.xyz
 leaderboard-papertrade.xyz
-ledgerquantfix.xyz
 ledgerwallets.xyz
 lend-usefelix.xyz
 livetrustwalletsetup.letxync.xyz
