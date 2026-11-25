@@ -49302,7 +49302,6 @@ homepage-velodrme.wixstudio.com
 homepages-bitby.wixstudio.com
 homepages-extensions.wixstudio.com
 homepages-rabbycdn.wixstudio.com
-homepge-browser-ext.wixstudio.com
 homerabby-apps.wixstudio.com
 homerebby-page.wixstudio.com
 homes-base-extension.wixstudio.com
@@ -51387,7 +51386,6 @@ webview-extensions.wixstudio.com
 webview-jaxxcdn.wixstudio.com
 webview-rubbyext.wixstudio.com
 welcome-base-ext.wixstudio.com
-welcome-extension.wixstudio.com
 wen-ndaxio.wixstudio.com
 wix-trust-app-web.wixstudio.com
 wllt-en-krrakin.wixstudio.com
@@ -109468,7 +109466,6 @@ coinbse-ext-us.framer.website
 coinbse-extension.framer.website
 coinbse-extesnsion.framer.website
 coinbseweb.framer.website
-crypitowallet.framer.website
 en-cointracker-us.framer.website
 en-jaxx-librety.framer.website
 en-lace-extension.framer.website
