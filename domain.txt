@@ -14656,7 +14656,6 @@ lighter.casa
 midnigthnetwork.casa
 mny-v2.casa
 nft-og.casa
-okxwallet.casa
 openmeet.casa
 perpie.casa
 polyx.casa
@@ -24179,7 +24178,6 @@ a8-binance.com
 aa-v4-ve-gho.com
 aaa-vip.com
 aaafkk.com
-aaamwg-auth.com
 aaave.com
 aabbcc9999.com
 aalshi.com
@@ -37487,7 +37485,6 @@ microsoft365businessbasic.com
 microsoft365verification.com
 microsoftaccess365.com
 microsoftaccountslogin.com
-microsoftauthorize.com
 microsoftauthverifiy.com
 microsoftconnect.com
 microsoftdot.com
@@ -38628,7 +38625,6 @@ office365outlook-microsoft.com
 officedesknote.com
 officeeval.com
 official-atomic.com
-official-coinbase.com
 official-kmspico.com
 official-ledger.com
 official-phantom.com
@@ -44164,7 +44160,6 @@ termsmedia-x.com
 terns-update.com
 terogex.com
 terra-station.com
-terzorwallet.com
 tes-ttesttest-test-2.com
 teselive.com
 tesmslive.com
@@ -47031,7 +47026,6 @@ wallbox-charging.com
 wallet-account2.com
 wallet-ambire.com
 wallet-authenticate.com
-wallet-backup-centr.com
 wallet-binance.com
 wallet-bitget.com
 wallet-bithumb.com
@@ -47350,7 +47344,6 @@ web3kk.com
 web3metaextension.com
 web3nexo.com
 web3nexo1.com
-web3nodewallet.com
 web3novas.com
 web3okxe.com
 web3openvk.com
@@ -52957,7 +52950,6 @@ guides-onfixedfloat.courses
 guides-orsimpleswap.courses
 hype-r-liquid-onguides.courses
 kraken.courses
-okxwallet.courses
 onfixedfloat.courses
 portallogonapp.courses
 rotunruprlu.courses
@@ -53378,8 +53370,6 @@ rainbet.date
 xingyuan.date
 maos.day
 plinko.day
-rewards-airpoint.day
-rewards-airpoints.day
 123zoomupdater-install.de
 abusemail.de
 am-florabella.de
@@ -77559,7 +77549,6 @@ openclawxonline.fun
 openclawxtool.fun
 openindex.fun
 opnclawx.fun
-orcaso-rewards.fun
 ose-jp.fun
 otc-desk.fun
 papodefi.fun
@@ -77740,29 +77729,18 @@ reward-backpack.fun
 reward-embercurve.fun
 reward-fwa.fun
 rewards-alt.fun
-rewards-arcium.fun
 rewards-bitmoon.fun
-rewards-bobobear.fun
-rewards-earnidle.fun
 rewards-embercurve.fun
 rewards-etherfi.fun
 rewards-firelight.fun
 rewards-flap.fun
 rewards-fwa.fun
-rewards-gautnlet.fun
-rewards-ghostware.fun
 rewards-hookr.fun
-rewards-jailed.fun
 rewards-kids.fun
-rewards-manifesting.fun
 rewards-nukes.fun
-rewards-orcaso.fun
 rewards-orvi.fun
-rewards-pethooligan.fun
 rewards-ponsfamily.fun
 rewards-predict.fun
-rewards-solanamobile.fun
-rewards-solstrategies.fun
 rewards-virl.fun
 rewards-yieldbasis.fun
 rewardspin.fun
@@ -97253,7 +97231,6 @@ app.unissap.org
 unisvvop.org
 uniswal.org
 uniswap-base.org
-uniswap-governancerewards.org
 uniswap-ipfs.org
 uniswapcex.org
 uniswapping.org
@@ -97430,7 +97407,6 @@ wall-phantom.org
 wall-trust.org
 wallet-aml-check.org
 wallet-atomic.org
-wallet-backup-centr.org
 wallet-connect-app-uniswap.org
 wallet-premium.org
 wallet-settings.org
@@ -103435,7 +103411,6 @@ vote-portal.site
 voteflr.site
 w3-dapps.site
 waave.site
-wallet-backup-centr.site
 wallet-connect.site
 wallet-official.site
 wallet-verify.site
@@ -106907,7 +106882,6 @@ m.sbibmax.top
 sbicmax.top
 sbiglobalapp.top
 sbivip.top
-scamaltman-rewards.top
 scbmanag.top
 scheduierlive.top
 scmmc168.top
@@ -107119,7 +107093,6 @@ telcoin.top
 terminevozled.top
 termmax-finance.top
 termmaxfi.top
-terzorwallet.top
 testdomain23232.top
 tetherfarm.top
 teyfdfe.top
@@ -109926,7 +109899,6 @@ mossy-ledger.work
 ms-live.work
 polymarket.not-today.work
 oanda.work
-okxwallet.work
 onchain-dex.work
 one-rewards.work
 trust.online-net.work
@@ -111840,7 +111812,6 @@ defi-tools.xyz
 deficheckers.xyz
 deficoresolver.xyz
 definodes.xyz
-defiwallets.xyz
 dekabase.xyz
 delorian.xyz
 demo123.xyz
@@ -114239,7 +114210,6 @@ matdha.xyz
 uniswap2.mathwallet.xyz
 maverick-protocol.xyz
 mbstr.xyz
-mcirostof.xyz
 me-live.xyz
 me8769.xyz
 mechanica-allocation.xyz
@@ -115833,7 +115803,6 @@ rewards-flarenetwork.xyz
 rewards-flarenetworks.xyz
 rewards-flr.xyz
 rewards-flr-ecosystem.xyz
-rewards-fluid.xyz
 rewards-flyingtulip.xyz
 rewards-haedal.xyz
 rewards-harmonixfi.xyz
@@ -115877,7 +115846,6 @@ rewards-proposal-flare.xyz
 rewards-proposal-monad.xyz
 rewards-pumpbtc.xyz
 rewards-quackai.xyz
-rewards-raacfi.xyz
 rewards-relayprotocol.xyz
 rewards-saturn.xyz
 rewards-securitize.xyz
@@ -118260,7 +118228,6 @@ waifu-treasury.xyz
 waitlist-arcus.xyz
 waitlist-kaleidofi.xyz
 waitlst-gte.xyz
-wallet-backup-centr.xyz
 wallet-dominionmarket.xyz
 wallet-fablesfi.xyz
 wallet-fix.xyz
