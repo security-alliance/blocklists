@@ -11665,6 +11665,7 @@
 ||dogeos.web.app^$all
 ||domaearn.web.app^$all
 ||eigenlayer-en.web.app^$all
+||ether-staking.web.app^$all
 ||etherscans.web.app^$all
 ||ethstakers.web.app^$all
 ||fan-airdrop.web.app^$all
@@ -61206,6 +61207,7 @@
 ||405-curvefi.pages.dev^$all
 ||405-lists-okxvotes.pages.dev^$all
 ||405-reallocate-flare.pages.dev^$all
+||4051-67ae-colnbase-listings.pages.dev^$all
 ||406-curvefi.pages.dev^$all
 ||406-reallocate-flare.pages.dev^$all
 ||407-curvefi.pages.dev^$all

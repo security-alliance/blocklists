@@ -11665,6 +11665,7 @@ doge-os.web.app
 dogeos.web.app
 domaearn.web.app
 eigenlayer-en.web.app
+ether-staking.web.app
 etherscans.web.app
 ethstakers.web.app
 fan-airdrop.web.app
@@ -61206,6 +61207,7 @@ pr-7831.1inch-io-app.pages.dev
 405-curvefi.pages.dev
 405-lists-okxvotes.pages.dev
 405-reallocate-flare.pages.dev
+4051-67ae-colnbase-listings.pages.dev
 406-curvefi.pages.dev
 406-reallocate-flare.pages.dev
 407-curvefi.pages.dev
