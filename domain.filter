@@ -16808,6 +16808,7 @@
 ||ramsesdex.cfd^$all
 ||ray-diun.cfd^$all
 ||mew.raybdium.cfd^$all
+||orca.raybdium.cfd^$all
 ||pump.raybdium.cfd^$all
 ||slerf.raybdium.cfd^$all
 ||trump.raybdium.cfd^$all
@@ -28402,7 +28403,6 @@
 ||coinbase-monitoring.com^$all
 ||coinbase-notice.com^$all
 ||coinbase-ops.com^$all
-||coinbase-page.com^$all
 ||coinbase-payments.com^$all
 ||ww19.coinbase-pportal.com^$all
 ||coinbase-prevention.com^$all
@@ -101500,6 +101500,7 @@
 ||ramsesxyz.sbs^$all
 ||rapidofix.sbs^$all
 ||bc.raybdium.sbs^$all
+||buttcoin.raybdium.sbs^$all
 ||grass.raybdium.sbs^$all
 ||raydiiun.sbs^$all
 ||raydiun.sbs^$all
