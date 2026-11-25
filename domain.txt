@@ -15876,6 +15876,8 @@ tangem-wallet.cc
 taostinworks.cc
 tapmy.cc
 tarckio.cc
+tavexkie.cc
+tavidxrd.cc
 teams-meet.cc
 teams-meets.cc
 teamslive.cc
@@ -43903,6 +43905,7 @@ taufex.com
 taukax.com
 taumox.com
 tauzux.com
+tavidx.com
 tax-coinledger.com
 zksyncairdrop25814.taxofficemanagement.com
 tbdjp588.com
@@ -108235,7 +108238,6 @@ onlinemicrosoftteams.us
 onneragroup.us
 onwebcall.us
 onwebline.us
-onweblive.us
 onwebmeet.us
 ovzkasdgifajenafsasa.us
 paytrustwallet.us
