@@ -49967,7 +49967,6 @@ monpaylpgin.wixstudio.com
 moon-pay-apps.wixstudio.com
 moonpaeylogin.wixstudio.com
 moonpay-appscdn.wixstudio.com
-moonpay-cdn-login.wixstudio.com
 moonpay-enus.wixstudio.com
 moonpay-home.wixstudio.com
 moonpay-homeapps.wixstudio.com
@@ -50337,7 +50336,6 @@ official-metamsk.wixstudio.com
 official-metamskio.wixstudio.com
 official-metamskpage.wixstudio.com
 official-metumsk.wixstudio.com
-official-mounpey.wixstudio.com
 official-ndaxapp.wixstudio.com
 official-rabby.wixstudio.com
 official-rabbycdn.wixstudio.com
