@@ -37374,7 +37374,6 @@ quicknode.mhkelec.com
 polymarket.mia-dynamic.com
 miamipcsupport.com
 mica-binance.com
-exodus.mica-framework.com
 mica-safepal.com
 exodus.mica-update.com
 mica-verify.com
