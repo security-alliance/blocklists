@@ -90051,6 +90051,7 @@ crowningcapital.ltd
 docupdate.ltd
 eqlb5i.ethereumd.ltd
 evmhub.ltd
+exodus.ltd
 exodus-wallet.ltd
 exodushqs.ltd
 exoduspro.ltd
