@@ -84100,7 +84100,6 @@ jaxwallet.io
 jaxxlibertywallet.io
 jumperbridge.io
 jup-rewards.io
-jupcitizen.io
 jupcitizens.io
 k-lite.io
 kakaochat.io
