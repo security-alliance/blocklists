@@ -46779,6 +46779,7 @@ volume-kalshi.com
 voma-kitchen.com
 vomdax.com
 voptionasset.com
+vortexax.com
 vortilux.com
 vosowin.com
 vote-3jane.com
@@ -62370,6 +62371,7 @@ pr-7831.1inch-io-app.pages.dev
 5-up33-allocations.pages.dev
 5-usefelix.pages.dev
 5-usenest.pages.dev
+5-variational-tge.pages.dev
 5-venice.pages.dev
 5-view-kinetiq.pages.dev
 5-virtualsvote.pages.dev
@@ -75557,7 +75559,6 @@ rainbets.eu
 remalo68.eu
 roobetcasino.eu
 slotocash.eu
-sstake.eu
 sushiswap.eu
 swiftblock.eu
 teams-live.eu
@@ -92599,6 +92600,7 @@ h5.onchaini.net
 onchnia.net
 online-meeting.net
 onlinekidsgames.net
+onstreamapks.net
 onstreamapps.net
 ontowallet.net
 onxywallet.net
