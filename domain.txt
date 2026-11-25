@@ -78395,6 +78395,7 @@ kraken-support.help
 kraken-withdrawal.help
 krakendesk.help
 krakenportal.help
+krakensupport.help
 kucoin.help
 lcloud-map.help
 legal-x.help
