@@ -8039,7 +8039,6 @@ krakensocial-web-app-ogmu4.ondigitalocean.app
 prelaunch-web-mxxjz.ondigitalocean.app
 token2049-week-dubai-2026-e76kj.ondigitalocean.app
 token2049-week-singapore-2025-opcqd.ondigitalocean.app
-ondo-voting.app
 ondoglobalmarkets.app
 ondostaking.app
 ondovote.app
@@ -8469,7 +8468,6 @@ soberside.app
 solana-swapper.app
 solanamixer.app
 solcasinos.app
-solisticefinance.app
 solmobile.app
 solomonslab.app
 solroll.app
@@ -9564,7 +9562,6 @@ v1-d.app
 vaderprotocol.app
 valdrenix.app
 var-io.app
-allocation.variaitional.app
 omni.variatoinal.app
 vault-desk.app
 vault-ecosystem.app
@@ -32010,7 +32007,6 @@ explore-blockchain.com
 exploreamlbot.com
 explorer-aml-checker.com
 explorer-bitaml.com
-explorer-nexus.com
 explorer-usdt.com
 explorer-wallet.com
 explorer-wallet-check.com
@@ -51904,7 +51900,6 @@ xaman-ecosystem.com
 xaman-eligible.com
 xaman-invest.com
 xaman-redirect.com
-xaman-voting.com
 xaman-xrplservice.com
 xamanappdesktop.com
 xamandesktopdapp.com
@@ -77940,7 +77935,6 @@ watchpump.fun
 web-fwa.fun
 web3hk.fun
 worldlibertybuy.webby.fun
-welcome-alt.fun
 airdrop.wenbase.fun
 wenko.fun
 whitelists-alt.fun
@@ -81725,7 +81719,6 @@ vote-centrifuge.info
 vote-centrifugeio.info
 vote-cfg.info
 vote-chainink.info
-vote-ethena.info
 vote-firelight.info
 vote-firelightfinace.info
 vote-frong.info
@@ -91132,7 +91125,6 @@ app-simpleswap-en.net
 app-simpleswap-v2.net
 app-sushiswaps.net
 app-tradao.net
-app-trustpade.net
 app-uniswap.net
 app-verify.net
 app-xaman.net
@@ -91206,7 +91198,6 @@ aricettoug.net
 4yqublzrzoo4nr54brmzvmgr5eftmn3fqx4dtvjdue23a47ii7sq.arweave.net
 52xcxdmmxh2tik52rnwzpfprqnpqiqmgk4vrmiiyplslfipwh52q.arweave.net
 53jsd5vgwt3y6d4ocjay223mevze6ujxojfwncwvyrhzlpjg4m3a.arweave.net
-54qapn7jwitovnq7zbv2tsdfwvno5ukzyk74bsjrzx7n26wjl4qa.arweave.net
 5etvcspfdeaan57tjboe5enunpfxiekvc63zkxdp73exq6jww2zq.arweave.net
 5fptrd4shebpfevicuwi3t2zw3spo64lzeohgscxye5t6cm67dvq.arweave.net
 5ifypa26z6627xvwmbuajqpvyosrcjghidftxx7s572cylugjk5a.arweave.net
@@ -91460,10 +91451,8 @@ r4d3nqczyuwrgx4dz6bzwkcydtk6imr67je3elfoz2vguobvxinq.arweave.net
 r4zpoqh3kwtxm5tew7p3qazqfbqphzwrczigblj5zzql7477zngq.arweave.net
 ri6bazwxmannmuhxmm3s627rf5lhymndw26stoa2xcna3cyxb4qa.arweave.net
 rloajnjtrd3wbvtqcg7nlkddc7ww3egwadzqletsca5f5lbnxf2q.arweave.net
-rpqtil7v42knu3wce6tdxk6rwbgggymn2y3vy4fo26lxao7wqzhq.arweave.net
 rpryepdetcuoim7yrqw4dwqtdl6tyac3g36jgoa7svnerzk5fvpa.arweave.net
 rrngwsmoojrv7n65jxjjdkozcvcpqcb2p2rww3avpbmjzwhihuiq.arweave.net
-rwilr5mvtzuaf4ywbf4j4hodua52o5d5hoia7lp2iluuorpdfdga.arweave.net
 rwod5bf2pdbkxqcwgmr65pto7prcndhv62gbvy2vyztwgeups22q.arweave.net
 rwqspintfhgu7qlh5qvfl3ipqh6wvjks7lycod6tixn5vpix45va.arweave.net
 rzdoedaohdlpr7nwc2wmpkgo642sqrlbl6l3nk7qqexqv66atcpa.arweave.net
@@ -91533,7 +91522,6 @@ xajpzni4dvqixa2e7nf5wcpap4dwmuel2dyahnekgnokmlyklbca.arweave.net
 xbjeuozmx5wuhdp2ux5rez7lwg3tr7g6dnjz3deszkvit2e4m3yq.arweave.net
 xg3zfhq4lxsfrp7gbdxji3xtg2mbxxm7vh4njh46skl6jr3tinla.arweave.net
 xhloo7onnepiqptafdbxmj4anm7iuiatfg65tllx42szebqoe53a.arweave.net
-xitytvqfru5yauxhfecohlhnbjsdp3hyokgolmtars7d5s3oiusq.arweave.net
 xji3el7fmdmh2qyntrwtivva4ci5s56ozth7c6jta3ayauc2anla.arweave.net
 xjutntq6jn2awi4ddohvwqw2fdengaqvfpir55minuqrmqh4hkuq.arweave.net
 xk5yyfu7dnh6zj7jdoqc55dsumxdaix547vtqauiuw7xxt6yl3vq.arweave.net
@@ -92583,7 +92571,6 @@ para-dex.net
 partner-trust.net
 pax-gold.net
 pay-coinbase.net
-payments-aave.net
 pc-browsers.net
 pearswap.net
 pendle-airdrop.net
@@ -110736,7 +110723,6 @@ app-sunrisedefi.xyz
 app-theindexfi.xyz
 app-trade-arcus.xyz
 app-treehouse.xyz
-app-trustepads.xyz
 app-umiaecosystems.xyz
 app-unlswap.xyz
 app-unlswap0nchaln.xyz
@@ -115778,7 +115764,6 @@ rewards-flarefndn.xyz
 rewards-flarefoundation.xyz
 rewards-flaregovernance.xyz
 rewards-flarenetwork.xyz
-rewards-flarenetworks.xyz
 rewards-flr.xyz
 rewards-flr-ecosystem.xyz
 rewards-flyingtulip.xyz
