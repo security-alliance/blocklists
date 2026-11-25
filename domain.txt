@@ -34278,6 +34278,7 @@ help-assistance-crypto.com
 help-bitstamp.com
 help-coinjar.com
 help-google.com
+help-metamask.com
 help-metamask-2fa.com
 help-notification-x.com
 help-notify-x.com
@@ -51529,6 +51530,7 @@ trezoriostartusa.wordpress.com
 trustcapitallogii.wordpress.com
 trustwalletsupp0rtnumberr.wordpress.com
 trustwalletsupportphonenum.wordpress.com
+umetamasklogin.wordpress.com
 usmetmasklogin.wordpress.com
 zebecprotocolzbcprice.wordpress.com
 worid-register.com
@@ -101903,6 +101905,7 @@ smart-passport.singular.sh
 1inch-swap.surge.sh
 aikiemtien.surge.sh
 exodus-card.surge.sh
+polymarket-us.surge.sh
 site-amber-lotus-7ba9.surge.sh
 site-copper-beacon-e3aa.surge.sh
 site-misty-lantern-bc5d.surge.sh
