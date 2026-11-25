@@ -44758,7 +44758,6 @@ treasury-spx6900.com
 treasury-usepaid.com
 treasurybnb.com
 treasurypool-palmai.com
-treasurys-pool-flarenetwork.com
 treasurystellar.com
 treckao-sn.com
 trecke-rx.com
@@ -93495,7 +93494,6 @@ allocation.metisl2token.network
 mit-ic.network
 mizar.network
 mosa.network
-multi-flare.network
 multipli.network
 neosoul.network
 nexuslabs.network
