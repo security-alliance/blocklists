@@ -97451,7 +97451,6 @@ trust.organic
 kraken.hmt.ovh
 ads-support-verification.page
 com-live.page
-com-start.page
 digital-card.page
 hyperliquid.page
 kinetiq.page
@@ -106336,7 +106335,6 @@ microssofteam.top
 microssoftinvites.top
 microsteams.top
 microstgoffces.top
-micrrosoftinvites.top
 midnight-pd.top
 migration-dashboard.top
 minehoodio.top
