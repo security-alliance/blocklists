@@ -9180,7 +9180,6 @@ sso-auth-support-robinhhoode-logi-x-auth.typedream.app
 sso-auth-trust--walet-auth.typedream.app
 sso-coin-base-com-x-cd.typedream.app
 sso-coinbase-com-cdn-x--auth.typedream.app
-sso-coinbase-com-e-x-auth.typedream.app
 sso-en-kracen-com-auth.typedream.app
 sso-en-kraken-com-auth.typedream.app
 sso-en-trezer-cdn-en-io.typedream.app
