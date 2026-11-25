@@ -27681,7 +27681,6 @@ checker-rabby.com
 checker-squidrouter.com
 checker-standx.com
 checker-xzozo.com
-checkerfinanc.com
 checkerflare.com
 checkerrabby.com
 checkers-firelight.com
@@ -37434,7 +37433,6 @@ microsoft-billingupdate.com
 microsoft-edgew.com
 microsoft-edu-tw.com
 microsoft-en-us-si.com
-microsoft-login-back.com
 microsoft-login-secure.com
 microsoft-o365.com
 microsoft-office-setup.com
