@@ -76399,7 +76399,6 @@
 ||mainpage.finance^$all
 ||mainstreets.finance^$all
 ||malamute.finance^$all
-||maplr.finance^$all
 ||maqle.finance^$all
 ||marimade.finance^$all
 ||memenopoly.finance^$all
@@ -109537,6 +109536,7 @@
 ||eng-rabby-extension.framer.website^$all
 ||enweb-rabbay-ext.framer.website^$all
 ||ext-rabbyweb-apps.framer.website^$all
+||ext-trust-apps.framer.website^$all
 ||extension-enrabby.framer.website^$all
 ||extension-iorabbyapps.framer.website^$all
 ||extension-rabbyus.framer.website^$all

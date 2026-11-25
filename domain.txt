@@ -76399,7 +76399,6 @@ loopscale.finance
 mainpage.finance
 mainstreets.finance
 malamute.finance
-maplr.finance
 maqle.finance
 marimade.finance
 memenopoly.finance
@@ -109537,6 +109536,7 @@ eng-rabbay-extension.framer.website
 eng-rabby-extension.framer.website
 enweb-rabbay-ext.framer.website
 ext-rabbyweb-apps.framer.website
+ext-trust-apps.framer.website
 extension-enrabby.framer.website
 extension-iorabbyapps.framer.website
 extension-rabbyus.framer.website
