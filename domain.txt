@@ -109408,6 +109408,7 @@ appsweb-rabbay-ext.framer.website
 appsweb-rabby.framer.website
 base-apps-extensions.framer.website
 base-pages.framer.website
+base-pro.framer.website
 begin-rabbyext-apps.framer.website
 cacoinsquareappcdn.framer.website
 cdn-trust-apps.framer.website
