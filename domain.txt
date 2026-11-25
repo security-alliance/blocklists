@@ -1653,6 +1653,7 @@ kinetiqvotes.app
 kinetq.app
 kintaras.app
 klite.app
+kmno.app
 kntq-staking.app
 kntq-vote.app
 kntqstaking.app

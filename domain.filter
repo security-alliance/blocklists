@@ -1653,6 +1653,7 @@
 ||kinetq.app^$all
 ||kintaras.app^$all
 ||klite.app^$all
+||kmno.app^$all
 ||kntq-staking.app^$all
 ||kntq-vote.app^$all
 ||kntqstaking.app^$all
