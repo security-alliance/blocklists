@@ -52836,7 +52836,6 @@ etherfi.company
 flarenetworks.company
 gamefin.company
 grvt.company
-hydrex.company
 kraken-dex.company
 movementnetwork.company
 netrun.company
@@ -104981,13 +104980,11 @@ zeusmix.to
 aeroxyz.today
 app-hydrexvote.today
 appvote-hydrex.today
-apyx.today
 apyxfi.today
 asterdex-vote.today
 asterdexvote.today
 authenticate.today
 bitlino.today
-centrifuge.today
 citrea-reward.today
 citrea-vote.today
 crownroll.today

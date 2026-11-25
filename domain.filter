@@ -52836,7 +52836,6 @@
 ||flarenetworks.company^$all
 ||gamefin.company^$all
 ||grvt.company^$all
-||hydrex.company^$all
 ||kraken-dex.company^$all
 ||movementnetwork.company^$all
 ||netrun.company^$all
@@ -104981,13 +104980,11 @@
 ||aeroxyz.today^$all
 ||app-hydrexvote.today^$all
 ||appvote-hydrex.today^$all
-||apyx.today^$all
 ||apyxfi.today^$all
 ||asterdex-vote.today^$all
 ||asterdexvote.today^$all
 ||authenticate.today^$all
 ||bitlino.today^$all
-||centrifuge.today^$all
 ||citrea-reward.today^$all
 ||citrea-vote.today^$all
 ||crownroll.today^$all
