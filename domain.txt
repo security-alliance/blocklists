@@ -9741,7 +9741,6 @@ arc-usdc.vercel.app
 arccreatorhub.vercel.app
 arcfxx.vercel.app
 arclendvault.vercel.app
-arcmarkets.vercel.app
 arcpay-tan.vercel.app
 arcus-gate-vote.vercel.app
 arenacompetitionprotoc-p35.vercel.app
@@ -79916,6 +79915,7 @@ validator-plasma.icu
 varaitionaialio.icu
 varialtional.icu
 variationaigov.icu
+variational-allocations.icu
 omni.variational-io.icu
 variationalecosystem.icu
 variationals.icu
