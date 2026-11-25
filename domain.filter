@@ -12280,7 +12280,6 @@
 ||coinstats.at^$all
 ||cointrackers.at^$all
 ||coinw.at^$all
-||com-swap.at^$all
 ||cs-float.at^$all
 ||csfloat-cs2.at^$all
 ||csgorolls.at^$all
@@ -12357,7 +12356,6 @@
 ||io-atomicwallet.at^$all
 ||io-changenow.at^$all
 ||shib.io-dao.at^$all
-||io-discover.at^$all
 ||io-earn.at^$all
 ||io-simpleswap.at^$all
 ||io-trezor.at^$all
@@ -24965,7 +24963,6 @@
 ||app-blackbullsol.com^$all
 ||app-cakewallet.com^$all
 ||app-calebandbrowns.com^$all
-||app-catena.com^$all
 ||app-cbridge-v1.com^$all
 ||app-changenow.com^$all
 ||app-cmetrading.com^$all
@@ -32185,7 +32182,6 @@
 ||figsmartgov.com^$all
 ||figure-traders.com^$all
 ||figuremarketsinsure.com^$all
-||fiipcash.com^$all
 ||file-kraken.com^$all
 ||file-zilla.com^$all
 ||filecoinkorea7.com^$all
@@ -34757,7 +34753,6 @@
 ||hyperliquidexclusivenft.com^$all
 ||hyperliquidkorea.com^$all
 ||hyperliquidx-season3.com^$all
-||hyperlliquidd.com^$all
 ||hyperreco.com^$all
 ||hyperrecosystem.com^$all
 ||hyperrecosystems.com^$all
@@ -35178,7 +35173,6 @@
 ||io-en-us.com^$all
 ||io-exchangecrypto.com^$all
 ||io-exchangenow.com^$all
-||io-explorer.com^$all
 ||io-fast-web3.com^$all
 ||io-gov.com^$all
 ||omni-variational.io-in-a01-omni.com^$all
@@ -36487,7 +36481,6 @@
 ||loading-cointracking.com^$all
 ||loaf24.com^$all
 ||loawin.com^$all
-||lob0ai.com^$all
 ||lobstr-card.com^$all
 ||lobstr-co.com^$all
 ||lobstrapp.com^$all
@@ -37529,7 +37522,6 @@
 ||migrate-ore.com^$all
 ||migrate-solcheck.com^$all
 ||migrate-steakhouse.com^$all
-||migratesol.com^$all
 ||migratetoken.com^$all
 ||migratetokenlive.com^$all
 ||migration-coinbase.com^$all
@@ -38792,7 +38784,6 @@
 ||ondofi-q2.com^$all
 ||ondofi-votes.com^$all
 ||ondofinance-vote.com^$all
-||ondofinance-voting.com^$all
 ||ondofivotes.com^$all
 ||ondoflowapp.com^$all
 ||ondoglobalmarket.com^$all
@@ -39571,7 +39562,6 @@
 ||plasma-reward.com^$all
 ||plasma-seasons.com^$all
 ||plasma-token.com^$all
-||plasma-vote.com^$all
 ||plasma-xpll.com^$all
 ||plasmanai-tr.com^$all
 ||plasmaseasons.com^$all
@@ -41630,7 +41620,6 @@
 ||reurex.com^$all
 ||reuzax.com^$all
 ||revcofinanceltd.com^$all
-||reveal-shiftrwa.com^$all
 ||revegamb.com^$all
 ||revenue-declare.com^$all
 ||revenuecto.com^$all
@@ -42563,7 +42552,6 @@
 ||seguridad-crypto.com^$all
 ||seguridad-wallet.com^$all
 ||sei-voting.com^$all
-||seinetwork-voting.com^$all
 ||sekolahtoto-google.com^$all
 ||selerscope.com^$all
 ||self-ticket.com^$all
@@ -44572,7 +44560,6 @@
 ||tokenhubportal.com^$all
 ||tokenizationondo.com^$all
 ||tokenlon-protocol.com^$all
-||tokenmoonfixs.com^$all
 ||tokenp1.com^$all
 ||tokenpockedefi.com^$all
 ||tokenpocket-btc.com^$all
@@ -51861,7 +51848,6 @@
 ||xamanstaking.com^$all
 ||xamanswap.com^$all
 ||xamanwallet-vote.com^$all
-||xamanwallet-voting.com^$all
 ||xamanwallet-web.com^$all
 ||xamanwallet-xapp.com^$all
 ||xamanwallet-xapps.com^$all
@@ -100250,7 +100236,6 @@
 ||fewchapp-v2.sbs^$all
 ||fi-borrow.sbs^$all
 ||fi-dao.sbs^$all
-||fi-main.sbs^$all
 ||fi-my-isupport.sbs^$all
 ||fifaco.sbs^$all
 ||finance-bridgeviawallet.sbs^$all
@@ -101099,7 +101084,6 @@
 ||frontiertraders.sbs^$all
 ||frx2.sbs^$all
 ||fuegori.sbs^$all
-||fun-home.sbs^$all
 ||fxaladdin.sbs^$all
 ||gambleeee.sbs^$all
 ||gemini-coins.sbs^$all
@@ -101176,11 +101160,9 @@
 ||intefrace.sbs^$all
 ||io-buildonv3.sbs^$all
 ||io-connectbas.sbs^$all
-||io-dao.sbs^$all
 ||omni.variational.io-en.sbs^$all
 ||io-exchange.sbs^$all
 ||io-platform.sbs^$all
-||io-search.sbs^$all
 ||io-signin.sbs^$all
 ||io-updatecenter.sbs^$all
 ||io-v1.sbs^$all
@@ -101235,8 +101217,6 @@
 ||madintrek.sbs^$all
 ||maga171717.sbs^$all
 ||majordecide.sbs^$all
-||maker-app.sbs^$all
-||maker-launchpad.sbs^$all
 ||maker-staking.sbs^$all
 ||maximmm88.sbs^$all
 ||meet-google.sbs^$all
@@ -101305,7 +101285,6 @@
 ||netnet-gov.sbs^$all
 ||netnet-governance.sbs^$all
 ||netnetcap.sbs^$all
-||network-main.sbs^$all
 ||new2026-solrops.sbs^$all
 ||nexin.sbs^$all
 ||nexo-claim.sbs^$all
@@ -101630,7 +101609,6 @@
 ||tornado-mix.sbs^$all
 ||tornadocash.sbs^$all
 ||trade-coin.sbs^$all
-||trade-portfolio.sbs^$all
 ||treadfi.sbs^$all
 ||trebleswap-migration.sbs^$all
 ||trezor-gov.sbs^$all
@@ -101760,7 +101738,6 @@
 ||xyz-app.sbs^$all
 ||xyz-buildonv3.sbs^$all
 ||xyz-linkintodapp.sbs^$all
-||xyz-main.sbs^$all
 ||xyz-proposal.sbs^$all
 ||yearnfi.sbs^$all
 ||yieldfields.sbs^$all
@@ -112207,7 +112184,6 @@
 ||exitspain.xyz^$all
 ||expertelitemarket.xyz^$all
 ||exploit-re.xyz^$all
-||explorer-nexus.xyz^$all
 ||governance.extendeed-exchange.xyz^$all
 ||governance.extendeed.xyz^$all
 ||fables-proposal.xyz^$all

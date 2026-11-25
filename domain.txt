@@ -12280,7 +12280,6 @@ coinsbase.at
 coinstats.at
 cointrackers.at
 coinw.at
-com-swap.at
 cs-float.at
 csfloat-cs2.at
 csgorolls.at
@@ -12357,7 +12356,6 @@ io-app-user.at
 io-atomicwallet.at
 io-changenow.at
 shib.io-dao.at
-io-discover.at
 io-earn.at
 io-simpleswap.at
 io-trezor.at
@@ -24965,7 +24963,6 @@ app-bifrostmainnet.com
 app-blackbullsol.com
 app-cakewallet.com
 app-calebandbrowns.com
-app-catena.com
 app-cbridge-v1.com
 app-changenow.com
 app-cmetrading.com
@@ -32185,7 +32182,6 @@ fightingkidsdvd.com
 figsmartgov.com
 figure-traders.com
 figuremarketsinsure.com
-fiipcash.com
 file-kraken.com
 file-zilla.com
 filecoinkorea7.com
@@ -34757,7 +34753,6 @@ hyperliquidd-dex.com
 hyperliquidexclusivenft.com
 hyperliquidkorea.com
 hyperliquidx-season3.com
-hyperlliquidd.com
 hyperreco.com
 hyperrecosystem.com
 hyperrecosystems.com
@@ -35178,7 +35173,6 @@ trezor.io-en-uk.com
 io-en-us.com
 io-exchangecrypto.com
 io-exchangenow.com
-io-explorer.com
 io-fast-web3.com
 io-gov.com
 omni-variational.io-in-a01-omni.com
@@ -36487,7 +36481,6 @@ load-coinbase.com
 loading-cointracking.com
 loaf24.com
 loawin.com
-lob0ai.com
 lobstr-card.com
 lobstr-co.com
 lobstrapp.com
@@ -37529,7 +37522,6 @@ migrate-ms-teams.com
 migrate-ore.com
 migrate-solcheck.com
 migrate-steakhouse.com
-migratesol.com
 migratetoken.com
 migratetokenlive.com
 migration-coinbase.com
@@ -38792,7 +38784,6 @@ ondocast.com
 ondofi-q2.com
 ondofi-votes.com
 ondofinance-vote.com
-ondofinance-voting.com
 ondofivotes.com
 ondoflowapp.com
 ondoglobalmarket.com
@@ -39571,7 +39562,6 @@ plasma-checker.com
 plasma-reward.com
 plasma-seasons.com
 plasma-token.com
-plasma-vote.com
 plasma-xpll.com
 plasmanai-tr.com
 plasmaseasons.com
@@ -41630,7 +41620,6 @@ reudax.com
 reurex.com
 reuzax.com
 revcofinanceltd.com
-reveal-shiftrwa.com
 revegamb.com
 revenue-declare.com
 revenuecto.com
@@ -42563,7 +42552,6 @@ sega-swap.com
 seguridad-crypto.com
 seguridad-wallet.com
 sei-voting.com
-seinetwork-voting.com
 sekolahtoto-google.com
 selerscope.com
 self-ticket.com
@@ -44572,7 +44560,6 @@ tokengfomarket.com
 tokenhubportal.com
 tokenizationondo.com
 tokenlon-protocol.com
-tokenmoonfixs.com
 tokenp1.com
 tokenpockedefi.com
 tokenpocket-btc.com
@@ -51861,7 +51848,6 @@ xamansolo.com
 xamanstaking.com
 xamanswap.com
 xamanwallet-vote.com
-xamanwallet-voting.com
 xamanwallet-web.com
 xamanwallet-xapp.com
 xamanwallet-xapps.com
@@ -100250,7 +100236,6 @@ fewchapp-v1.sbs
 fewchapp-v2.sbs
 fi-borrow.sbs
 fi-dao.sbs
-fi-main.sbs
 fi-my-isupport.sbs
 fifaco.sbs
 finance-bridgeviawallet.sbs
@@ -101099,7 +101084,6 @@ frm-home.sbs
 frontiertraders.sbs
 frx2.sbs
 fuegori.sbs
-fun-home.sbs
 fxaladdin.sbs
 gambleeee.sbs
 gemini-coins.sbs
@@ -101176,11 +101160,9 @@ inkshub.sbs
 intefrace.sbs
 io-buildonv3.sbs
 io-connectbas.sbs
-io-dao.sbs
 omni.variational.io-en.sbs
 io-exchange.sbs
 io-platform.sbs
-io-search.sbs
 io-signin.sbs
 io-updatecenter.sbs
 io-v1.sbs
@@ -101235,8 +101217,6 @@ m2securemail-securemail.sbs
 madintrek.sbs
 maga171717.sbs
 majordecide.sbs
-maker-app.sbs
-maker-launchpad.sbs
 maker-staking.sbs
 maximmm88.sbs
 meet-google.sbs
@@ -101305,7 +101285,6 @@ netnet-capital.sbs
 netnet-gov.sbs
 netnet-governance.sbs
 netnetcap.sbs
-network-main.sbs
 new2026-solrops.sbs
 nexin.sbs
 nexo-claim.sbs
@@ -101630,7 +101609,6 @@ torifinances.sbs
 tornado-mix.sbs
 tornadocash.sbs
 trade-coin.sbs
-trade-portfolio.sbs
 treadfi.sbs
 trebleswap-migration.sbs
 trezor-gov.sbs
@@ -101760,7 +101738,6 @@ xrplatform.sbs
 xyz-app.sbs
 xyz-buildonv3.sbs
 xyz-linkintodapp.sbs
-xyz-main.sbs
 xyz-proposal.sbs
 yearnfi.sbs
 yieldfields.sbs
@@ -112207,7 +112184,6 @@ exchangepapertrade.xyz
 exitspain.xyz
 expertelitemarket.xyz
 exploit-re.xyz
-explorer-nexus.xyz
 governance.extendeed-exchange.xyz
 governance.extendeed.xyz
 fables-proposal.xyz
