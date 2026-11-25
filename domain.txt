@@ -75241,7 +75241,6 @@ voting-pons.digital
 wardenprotocol.digital
 wcor.digital
 web3terminal.digital
-xamanwallet.digital
 yearnfi.digital
 yoroi.digital
 yourhighness.digital
@@ -91183,7 +91182,6 @@ aricettoug.net
 437emqj4ddldqp4e3k5crqqi6mvoiuauxvrpgghzws4n62gt7sba.arweave.net
 44uirhr4utl76cc6452qgb4zu2wiuw3bmerewrpqg44ifaxgh37q.arweave.net
 4avc7cs676t2lpftmrfnoc6hp3tlm5hl7w3nlhqymmdkgrazszka.arweave.net
-4bxcr2m74htmzp6g5zustjtd2rhc5bgw5l5kdl5u35i5a46hem6q.arweave.net
 4cs3unidyze7cxwc3sjoebkw3ek2cta2j2rajssf7qzm6czwukza.arweave.net
 4cso5gz5huj3acnp5dt74fbrcxe542ens3fdxg4j7pzmpl3ppfhq.arweave.net
 4gbjoqs52gztsbktci2qgn373no4jd5e2lauab3adt3hytqwob3q.arweave.net
