@@ -50428,6 +50428,7 @@ pages-rabbyy-ext.wixstudio.com
 pages-rbbyeng.wixstudio.com
 pages-texorsuites.wixstudio.com
 pages-us-metmask.wixstudio.com
+pavel5352.wixstudio.com
 paybice.wixstudio.com
 paybiescdn.wixstudio.com
 payibis.wixstudio.com
@@ -93189,6 +93190,7 @@ www-llagder.net
 www-lledgar-live.net
 www-llegdar.net
 www-trezor.net
+wwwirexapp.net
 x-sol.net
 xaman-rewards.net
 xamanwallet.net
