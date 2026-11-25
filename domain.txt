@@ -49974,7 +49974,6 @@ moonpay-io.wixstudio.com
 moonpay-login.wixstudio.com
 moonpayapps.wixstudio.com
 moonpaycdn.wixstudio.com
-moonpays-io.wixstudio.com
 moonpsaylogin.wixstudio.com
 more-bitbuycdn.wixstudio.com
 more-jaxxlibrtty.wixstudio.com
@@ -74692,7 +74691,6 @@ run-3b0fa09d.herlamilligan.workers.dev
 svc-ed6bfb17.herve-barbe35.workers.dev
 access-trezr-wallet.horzayerta.workers.dev
 metamask-guide.hyc75184655.workers.dev
-sly-wave-215c.icydust1611.workers.dev
 coinbase-com-65211.immansig-052.workers.dev
 rby-dr54d.imogen10.workers.dev
 rby-msdko.imogen10.workers.dev
