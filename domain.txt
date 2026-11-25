@@ -79937,6 +79937,7 @@ varialtional.icu
 variationaigov.icu
 variational-allocations.icu
 omni.variational-io.icu
+variational-tge.icu
 variationalecosystem.icu
 variationals.icu
 varntfoqe.icu
@@ -97250,6 +97251,7 @@ vanillaswap.org
 vaporfichain.org
 varational.org
 variationaldex.org
+variationalomni.org
 variatonal.org
 varprotocol.org
 vault-card.org
