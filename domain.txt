@@ -89973,6 +89973,7 @@ docupdate.ltd
 eqlb5i.ethereumd.ltd
 evmhub.ltd
 exodus-wallet.ltd
+exodushqs.ltd
 exoduspro.ltd
 exoduspros.ltd
 user.exreu.ltd
@@ -109516,6 +109517,7 @@ coinbaseeprologiin.onepage.website
 conbaseprologin.onepage.website
 meatmasksignin.onepage.website
 phantom-wallett.onepage.website
+sso-exoduss-welet.onepage.website
 web-uphold-portal.onepage.website
 optibase.website
 polimarked.website
