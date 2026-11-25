@@ -9719,7 +9719,6 @@
 ||arc-flashtap.vercel.app^$all
 ||arc-forge-ten.vercel.app^$all
 ||arc-gate.vercel.app^$all
-||arc-id-peach.vercel.app^$all
 ||arc-mind-ai.vercel.app^$all
 ||arc-multichain-wallet.vercel.app^$all
 ||arc-nft-mint.vercel.app^$all
@@ -9732,7 +9731,6 @@
 ||arc-quiz-dapp.vercel.app^$all
 ||arc-usdc.vercel.app^$all
 ||arccreatorhub.vercel.app^$all
-||arcfxx.vercel.app^$all
 ||arclendvault.vercel.app^$all
 ||arcpay-tan.vercel.app^$all
 ||arcus-gate-vote.vercel.app^$all
@@ -103664,7 +103662,6 @@
 ||vote-riv.space^$all
 ||vote-variational.space^$all
 ||vote-worldcup.space^$all
-||votes-degen.space^$all
 ||votes-sanctumso.space^$all
 ||voting-firelight.space^$all
 ||voting-flarenetworks.space^$all

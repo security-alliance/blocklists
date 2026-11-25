@@ -9719,7 +9719,6 @@ arc-escrow-phi.vercel.app
 arc-flashtap.vercel.app
 arc-forge-ten.vercel.app
 arc-gate.vercel.app
-arc-id-peach.vercel.app
 arc-mind-ai.vercel.app
 arc-multichain-wallet.vercel.app
 arc-nft-mint.vercel.app
@@ -9732,7 +9731,6 @@ arc-quantum.vercel.app
 arc-quiz-dapp.vercel.app
 arc-usdc.vercel.app
 arccreatorhub.vercel.app
-arcfxx.vercel.app
 arclendvault.vercel.app
 arcpay-tan.vercel.app
 arcus-gate-vote.vercel.app
@@ -103664,7 +103662,6 @@ vote-near.space
 vote-riv.space
 vote-variational.space
 vote-worldcup.space
-votes-degen.space
 votes-sanctumso.space
 voting-firelight.space
 voting-flarenetworks.space
