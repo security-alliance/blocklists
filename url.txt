@@ -1103,6 +1103,7 @@ https://sites.google.com/view/login-bitbuy-sign/home
 https://sites.google.com/view/login-metamask-/home
 https://sites.google.com/view/login-metamask-begin/home
 https://sites.google.com/view/login-metamask-nov/home
+https://sites.google.com/view/login-metamaskapp/home
 https://sites.google.com/view/login-metaus/home
 https://sites.google.com/view/login-metmask-/home
 https://sites.google.com/view/login-mtamaskweb/home
@@ -1318,6 +1319,8 @@ https://sites.google.com/view/metamassk-login--/home
 https://sites.google.com/view/metamassk-web-aps/home
 https://sites.google.com/view/metamasssk/home
 https://sites.google.com/view/metamck-chrom/home
+https://sites.google.com/view/metamesk/home
+https://sites.google.com/view/metamsak-extnsion/home
 https://sites.google.com/view/metamsk-
 https://sites.google.com/view/metamsk--apps/home
 https://sites.google.com/view/metamsk--extenson-en/home
@@ -1325,6 +1328,7 @@ https://sites.google.com/view/metamsk-/home
 https://sites.google.com/view/metamsk-a/home
 https://sites.google.com/view/metamsk-apps/home
 https://sites.google.com/view/metamsk-chorm/home
+https://sites.google.com/view/metamsk-chormee/home
 https://sites.google.com/view/metamsk-chorrm/home
 https://sites.google.com/view/metamsk-chrm-begin/home
 https://sites.google.com/view/metamsk-chrm-ext/home
@@ -1335,6 +1339,7 @@ https://sites.google.com/view/metamsk-crypto/home
 https://sites.google.com/view/metamsk-ena/home
 https://sites.google.com/view/metamsk-ext-user/home
 https://sites.google.com/view/metamsk-ext/home
+https://sites.google.com/view/metamsk-extenson/home
 https://sites.google.com/view/metamsk-extensonen/home
 https://sites.google.com/view/metamsk-extnsions/home
 https://sites.google.com/view/metamsk-exts-/home
@@ -1454,6 +1459,8 @@ https://sites.google.com/view/page-extension-base/home
 https://sites.google.com/view/page-extension-pro/home
 https://sites.google.com/view/page-koinbase-extn/home
 https://sites.google.com/view/page-metamask-/home
+https://sites.google.com/view/page-metamaskchrom/home
+https://sites.google.com/view/page-metamsk-/home
 https://sites.google.com/view/page-metamsk-extion/home
 https://sites.google.com/view/page-metamskapp/home
 https://sites.google.com/view/pages-metamask/home
