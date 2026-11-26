@@ -110271,6 +110271,7 @@ aethir-swap.xyz
 aethir-vote.xyz
 aevo-event.xyz
 aevoeco.xyz
+aftermathfinance.xyz
 jup.ag-bonus.xyz
 ag-claims.xyz
 ag-comm.xyz
