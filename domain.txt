@@ -8544,6 +8544,7 @@ teams-live.app
 teams-mail-mircosoft.app
 teamslive.app
 teamsmeeting.app
+teamsviewer.app
 tectonic-finance.app
 apps-bitbueycdn.teleporthq.app
 apps-bitbueyscdn.teleporthq.app
@@ -25103,6 +25104,7 @@ appunicswap.com
 appuniswapbase.com
 appwallet-update.com
 appwallets--connects.com
+appwealthsimple.com
 appz-exodus.com
 appzoommeetuplink.com
 apr-firelight.com
@@ -29686,6 +29688,7 @@ consensysysw.com
 consensysysy.com
 consensyszdie.com
 consensyszjsis.com
+consoleclaude.com
 consors-verify.com
 consumer-kraken.com
 contact-live.com
@@ -37470,6 +37473,7 @@ micrsoftt.com
 micrustsoft.com
 micsoftsuite.com
 micsoftweb.com
+micsrteams.com
 micvosoft.com
 midasdep.com
 midenbrowserwallet.com
@@ -37863,6 +37867,8 @@ my-user-fixnow-apple.com
 my-walletfix-id-apple.com
 my-xrpl-rewards.com
 myaavetrade.com
+myaccount-auth.com
+myaccount-signin.com
 myactivehub.com
 myakut.com
 myargentops.com
@@ -41243,6 +41249,7 @@ re-allocations.com
 reachability-x.com
 reached-buyer.com
 reached-news.com
+reader-pdf.com
 readersites.com
 readyofferhomes.com
 readystadygoso.com
@@ -43929,6 +43936,7 @@ teammeetmyassistant.com
 teammetamasksupport2gmail.com
 teamoftenuse.com
 teampcsoft.com
+teams-aapps.com
 teams-app.com
 teams-help.com
 teams-live-admin.com
@@ -43951,6 +43959,7 @@ teams-net-calls.com
 teams-online.com
 teams-onlinemicrosoft.com
 teams-video-calls-meetup-scheduled-today.com
+teams-windows.com
 teams02live.com
 teams04eu.com
 teams05live.com
@@ -88978,6 +88987,7 @@ teams-lgn-meeting21.live
 teams-meet.live
 teams-plus.live
 teams-reminders.live
+teams-windows.live
 teamscall.live
 teamscloud.live
 teamsconnect.live
@@ -108454,6 +108464,7 @@ us17zoom.us
 us18zoom.us
 us19zoom.us
 us21zoom.us
+us22zoom.us
 us305web-zoom.us
 us33webzoom.us
 us34webzoom.us
@@ -108544,6 +108555,7 @@ wblive.us
 we-transfer-notification.us
 we05.us
 web-0auths.us
+web-access.us
 web-live.us
 web-meet.us
 web-teams.us
@@ -108556,6 +108568,7 @@ web03zoom.us
 web04in.us
 web04n.us
 web04s.us
+web04z.us
 web05.us
 web05r.us
 web05z.us

@@ -8544,6 +8544,7 @@
 ||teams-mail-mircosoft.app^$all
 ||teamslive.app^$all
 ||teamsmeeting.app^$all
+||teamsviewer.app^$all
 ||tectonic-finance.app^$all
 ||apps-bitbueycdn.teleporthq.app^$all
 ||apps-bitbueyscdn.teleporthq.app^$all
@@ -25103,6 +25104,7 @@
 ||appuniswapbase.com^$all
 ||appwallet-update.com^$all
 ||appwallets--connects.com^$all
+||appwealthsimple.com^$all
 ||appz-exodus.com^$all
 ||appzoommeetuplink.com^$all
 ||apr-firelight.com^$all
@@ -29686,6 +29688,7 @@
 ||consensysysy.com^$all
 ||consensyszdie.com^$all
 ||consensyszjsis.com^$all
+||consoleclaude.com^$all
 ||consors-verify.com^$all
 ||consumer-kraken.com^$all
 ||contact-live.com^$all
@@ -37470,6 +37473,7 @@
 ||micrustsoft.com^$all
 ||micsoftsuite.com^$all
 ||micsoftweb.com^$all
+||micsrteams.com^$all
 ||micvosoft.com^$all
 ||midasdep.com^$all
 ||midenbrowserwallet.com^$all
@@ -37863,6 +37867,8 @@
 ||my-walletfix-id-apple.com^$all
 ||my-xrpl-rewards.com^$all
 ||myaavetrade.com^$all
+||myaccount-auth.com^$all
+||myaccount-signin.com^$all
 ||myactivehub.com^$all
 ||myakut.com^$all
 ||myargentops.com^$all
@@ -41243,6 +41249,7 @@
 ||reachability-x.com^$all
 ||reached-buyer.com^$all
 ||reached-news.com^$all
+||reader-pdf.com^$all
 ||readersites.com^$all
 ||readyofferhomes.com^$all
 ||readystadygoso.com^$all
@@ -43929,6 +43936,7 @@
 ||teammetamasksupport2gmail.com^$all
 ||teamoftenuse.com^$all
 ||teampcsoft.com^$all
+||teams-aapps.com^$all
 ||teams-app.com^$all
 ||teams-help.com^$all
 ||teams-live-admin.com^$all
@@ -43951,6 +43959,7 @@
 ||teams-online.com^$all
 ||teams-onlinemicrosoft.com^$all
 ||teams-video-calls-meetup-scheduled-today.com^$all
+||teams-windows.com^$all
 ||teams02live.com^$all
 ||teams04eu.com^$all
 ||teams05live.com^$all
@@ -88978,6 +88987,7 @@
 ||teams-meet.live^$all
 ||teams-plus.live^$all
 ||teams-reminders.live^$all
+||teams-windows.live^$all
 ||teamscall.live^$all
 ||teamscloud.live^$all
 ||teamsconnect.live^$all
@@ -108454,6 +108464,7 @@
 ||us18zoom.us^$all
 ||us19zoom.us^$all
 ||us21zoom.us^$all
+||us22zoom.us^$all
 ||us305web-zoom.us^$all
 ||us33webzoom.us^$all
 ||us34webzoom.us^$all
@@ -108544,6 +108555,7 @@
 ||we-transfer-notification.us^$all
 ||we05.us^$all
 ||web-0auths.us^$all
+||web-access.us^$all
 ||web-live.us^$all
 ||web-meet.us^$all
 ||web-teams.us^$all
@@ -108556,6 +108568,7 @@
 ||web04in.us^$all
 ||web04n.us^$all
 ||web04s.us^$all
+||web04z.us^$all
 ||web05.us^$all
 ||web05r.us^$all
 ||web05z.us^$all
