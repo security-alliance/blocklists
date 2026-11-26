@@ -67542,6 +67542,7 @@ exdus-wallet-start.pages.dev
 exdus-wb3-s.pages.dev
 exdus-web.pages.dev
 exdus-web-doc.pages.dev
+exdus-web3-auth-us.pages.dev
 exdus-webb.pages.dev
 exduss-web3-wallet-access.pages.dev
 exdusswalttweb.pages.dev
@@ -73831,6 +73832,7 @@ web00zoomlinkmeeting000282.pages.dev
 web3-dapps-us.pages.dev
 web3-doc-exd-us.pages.dev
 web3-doc-exdus.pages.dev
+web3-exdsswallet.pages.dev
 web3-exdus-wallet.pages.dev
 web3-exo.pages.dev
 web3-exodes-uss.pages.dev
