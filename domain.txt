@@ -96162,7 +96162,6 @@ kumibot.org
 kyber-swap.org
 kybersvvap.org
 kyc-market.org
-kycstore.org
 kydl.org
 stellarpayportal.online.lantrustworld.org
 launchmeteora.org
@@ -109901,7 +109900,6 @@ card-trust.world
 order.cardstrust.world
 cashcat.world
 claimed-drops.world
-coinbase-cm.world
 coinpayments.world
 com-the-worlds-largest-prediction-market.world
 conio.world
