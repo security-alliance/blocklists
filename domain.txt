@@ -26222,7 +26222,6 @@ bitcoinmixerpro.com
 bitcoinnode.com
 bitcoinset2.com
 bitcoinsora.com
-bitcointix.com
 bitcoinwalte.com
 bitcoinwell-desktop.com
 bitcompliancereview.com
@@ -38992,7 +38991,6 @@ ore-distribution.com
 jupitercloud.oreilco.com
 jupitergf.oreilco.com
 jupiterha.oreilco.com
-oreodex.com
 oreprotocol-research.com
 orexcapinvs.com
 org-app-dex.com
@@ -80927,7 +80925,6 @@ event-zama.info
 everything-inc.info
 everythinginc.info
 evmfi.info
-evmhub.info
 exact-map.info
 exodus-client.info
 expertvester.info
@@ -82373,7 +82370,6 @@ coinbase50index.io
 coinbaseextensions.io
 coincomms.io
 coincommunities.io
-coinfex.io
 coinku.io
 coldcardwallet.io
 colnbase.io
@@ -89146,7 +89142,6 @@ trezorsupport.live
 trezorwallet.live
 tribocripto.live
 trojantrading-evm.live
-troncasev2.live
 tronconnect.live
 trust-blog.live
 trust-ledger.live
