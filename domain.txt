@@ -15850,6 +15850,7 @@ suiswap.cc
 suiwlt.cc
 sunsgp.cc
 sushi-dex.cc
+cow.sushi-meme.cc
 sutwin.cc
 swap-eth-route-chain-v4.cc
 tangem-wallet.cc
