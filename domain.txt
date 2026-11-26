@@ -12680,7 +12680,6 @@ accountprotection-microsofts.beer
 aiqngt.beer
 ak94fey.beer
 aleverifocation.beer
-anlytic-js-cloud.beer
 arf1a9.beer
 asdf4kfg.beer
 auth-code-verif.beer
@@ -12689,7 +12688,6 @@ azeyt0h.beer
 b7mbt8d.beer
 best-claudns-js.beer
 bhfgtrns-js.beer
-bootstrup-cdnmaper.beer
 bootstrup-framework-js.beer
 browse-veriid.beer
 c3hbzg.beer
@@ -12828,10 +12826,8 @@ mw9e3te.beer
 n7598j.beer
 ns-claude-js.beer
 ns-server-jscdn.beer
-ns1cdnclaude.beer
 nshostvps.beer
 nshtjscdn.beer
-nsserv-bootstru.beer
 nstdcs.beer
 nugmvg.beer
 nvbfcdnclaud.beer
@@ -12856,13 +12852,11 @@ q7dse8.beer
 ru2nm8.beer
 sdnssmdf-js.beer
 shssshdscn.beer
-slndcdnclaud.beer
 smb8hjg.beer
 smfcdnbb.beer
 smtnscerver.beer
 snccdn-framework.beer
 snowbank.beer
-sns-clauder-cdn.beer
 srtydnnc.beer
 svs-verificationdate.beer
 teamspeek.beer
@@ -12876,7 +12870,6 @@ verification-cdn-cloud.beer
 verification-claude-cdn.beer
 verification-code-js.beer
 verificationscodes.beer
-visual-ns-portal.beer
 wcnex05.beer
 zoom-security.berlin
 1inch.best
@@ -13129,7 +13122,6 @@ id-verification-s7.biz
 invisiblebinary.biz
 jinlang.biz
 koiswap.biz
-kubcheat.biz
 ledger-wallet.biz
 listadao.biz
 liveman.biz
@@ -17736,7 +17728,6 @@ cow-finance.click
 cow-protocol.click
 cow-swap-exchange.click
 cowprotocol.click
-cowswap.click
 cowswap-en.click
 cowswap-fi.click
 cowswap-finance.click
@@ -18436,7 +18427,6 @@ usepaid.click
 useyap.click
 usz00m.click
 utoken.click
-v2-aave.click
 v2-cow.click
 v2-cow-fi.click
 v2-cowswap.click
@@ -18445,7 +18435,6 @@ v2-curvefi.click
 v2-drift.click
 v2-hyper.click
 v2-hyperliquid.click
-v2-jup.click
 v2-lido.click
 v2-pumpswap.click
 v2-rubic-eth.click
@@ -21258,7 +21247,6 @@ xrpl-firelight.co
 xumarevok.co
 yes-original.co
 yoroi-wallet.co
-youraiplaybook.co
 ypredictrelaunch.co
 zebecfnd.co
 zoom01.co
@@ -22687,9 +22675,6 @@ client.475238-cb.com
 499140-crypto.com
 499282-swyftx.com
 499623-crypto.com
-4fe0.com
-4fn22.com
-4fs1.com
 4ktvonline.com
 4trustwallet.com
 4xforensiceng.com
@@ -24590,7 +24575,6 @@ algnix.com
 algobi.com
 coinbase.algocryptobot.com
 alibaba66-my.com
-alignacrossvirel.com
 aligned-ledger-solution-compliance.com
 alignedlayer-tge.com
 alignicmining.com
@@ -25214,7 +25198,6 @@ arim-distribution.com
 arinbet.com
 arkinvestcapital.com
 arlodesktop.com
-arluksoftware.com
 arma-reforger.com
 arnostvasicek.com
 aroonfood.com
@@ -36055,7 +36038,6 @@ kumibot.com
 kummibot.com
 kunden-banking.com
 kunnibot.com
-kunzuankn.com
 kuofax.com
 kupidex.com
 kurwabonus-new.com
@@ -36091,7 +36073,6 @@ l-leger.com
 l-trezorsuite.com
 l-trustwallet.com
 labs-ethena.com
-lacartadetubar.com
 lace-desktopwallet.com
 lace-wallet.com
 lacedesktopwallet.com
@@ -36121,7 +36102,6 @@ land-weth.com
 landolakesrentals.com
 landx-fomo.com
 echo.langinspections.com
-lannit.com
 lapp-coinbase.com
 laptopstoken.com
 metamask.laquincenamillonaria.com
@@ -37291,7 +37271,6 @@ metazenpulse.com
 meteonbot.com
 meteora-damm.com
 meteora-updates.com
-meteora-v2.com
 meteorabot.com
 meteoraos.com
 meteoraswap.com
@@ -38119,7 +38098,6 @@ neovextra-es.com
 neovextra-fr.com
 neozux.com
 nepowex.com
-nerftronsix.com
 nerufex.com
 nerutex.com
 nesdexy.com
@@ -40029,7 +40007,6 @@ prediction-challenges.com
 prediction-help.com
 predictstreet-fifa.com
 predictumindicators.com
-prednipharm.com
 preload-dapp-portal.com
 premierinstantsfinance.com
 premiumcarfax.com
@@ -75469,7 +75446,6 @@ compliance-ok-x.eu
 cryptoier.eu
 cryptomixer.eu
 verify-web3metamask.ddnss.eu
-deushack.eu
 device-ledger.eu
 ecardsforall.eu
 ensdomains.eu
@@ -90386,7 +90362,6 @@ ledger-wallet.me
 legder.me
 lemondesktop.me
 linelogin.me
-livetv858.me
 luckyboost.me
 lvvas.me
 magisk.me
@@ -96487,7 +96462,6 @@ opengeekslab.org
 community.openpreservation.org
 optimismwallet.org
 orakuru.org
-orca-v2.org
 org-us.org
 origin-protocol.org
 ormindaclient.org
@@ -102454,7 +102428,6 @@ betfurytv.site
 bigiet.site
 binance-security-verify.site
 binancep22pp.site
-bind24ar.site
 bind24cuentas.site
 bind24pay.site
 bit-web3.site
@@ -117591,7 +117564,6 @@ variational-season.xyz
 variational-tge.xyz
 variational-vote.xyz
 variationala.xyz
-variationalai-omniprotocol.xyz
 variationaldex.xyz
 portal.variationalio.xyz
 variationalpair.xyz
