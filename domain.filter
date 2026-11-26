@@ -7874,6 +7874,7 @@
 ||solcommunityplacevoting-io.netlify.app^$all
 ||solradarchecker.netlify.app^$all
 ||solvotelistingscore-io.netlify.app^$all
+||squeeth-uniswap.netlify.app^$all
 ||sso-uphold-com-auth-t-cdn.netlify.app^$all
 ||sso-uphold-com-auth-x-auth.netlify.app^$all
 ||stake-lidofi.netlify.app^$all
@@ -45624,6 +45625,7 @@
 ||app.uniswao.com^$all
 ||uniswap-auth.com^$all
 ||uniswap-base.com^$all
+||uniswap-claim.com^$all
 ||uniswap-dapps.com^$all
 ||uniswap-desktop.com^$all
 ||uniswap-exchanges.com^$all
@@ -45660,6 +45662,7 @@
 ||uniswapbi.com^$all
 ||uniswapchain.com^$all
 ||uniswapdexes.com^$all
+||uniswapgo.com^$all
 ||uniswaping.com^$all
 ||dapp.uniswapll.com^$all
 ||dapp.uniswapok.com^$all
@@ -71575,6 +71578,7 @@
 ||revert.pages.dev^$all
 ||review-rocketpool.pages.dev^$all
 ||revoes.pages.dev^$all
+||revoke-unibot.pages.dev^$all
 ||reward-global.pages.dev^$all
 ||reward-xaman.pages.dev^$all
 ||rewards-ai.pages.dev^$all
@@ -77869,6 +77873,7 @@
 ||usdc.uarc.fun^$all
 ||umiaecosystem.fun^$all
 ||umiafinance.fun^$all
+||uniswaps.fun^$all
 ||upcoin.fun^$all
 ||usd-ai.fun^$all
 ||usdai-allocation.fun^$all
@@ -83593,6 +83598,7 @@
 ||zircuit-network.gitbook.io^$all
 ||1ayerzero.github.io^$all
 ||1inch-site.github.io^$all
+||33357.github.io^$all
 ||a-sterdex.github.io^$all
 ||abogsayawa8-jpg.github.io^$all
 ||abriscan-io.github.io^$all
@@ -83676,6 +83682,7 @@
 ||cronos-bridge.github.io^$all
 ||curveswap.github.io^$all
 ||dappsolutions.github.io^$all
+||darrenli6.github.io^$all
 ||de-xtools.github.io^$all
 ||debaink.github.io^$all
 ||debank1.github.io^$all
@@ -83690,6 +83697,7 @@
 ||dexto-ols.github.io^$all
 ||dextoolx.github.io^$all
 ||docs-exodus.github.io^$all
+||dongjinjeon.github.io^$all
 ||dydx-trade-xyz.github.io^$all
 ||dymensiion.github.io^$all
 ||ehterfi.github.io^$all
@@ -87214,6 +87222,7 @@
 ||asteraxtrade.live^$all
 ||asterdexchain.live^$all
 ||asterextrade.live^$all
+||atuniswaptoken.live^$all
 ||aurawallet.live^$all
 ||auth-firelight.live^$all
 ||auth-firelightfi.live^$all
@@ -107122,6 +107131,7 @@
 ||unid-app.top^$all
 ||unipegchain.top^$all
 ||uniswap-app.top^$all
+||uniswap-buy.top^$all
 ||uniswapdao.top^$all
 ||uniswapdex.top^$all
 ||uniswaplendwap.top^$all
@@ -117335,6 +117345,7 @@
 ||uniswapbot.xyz^$all
 ||uniswapchange.xyz^$all
 ||uniswapking.xyz^$all
+||uniswapv4.xyz^$all
 ||unlock-hyperfoundation.xyz^$all
 ||unlock-ore.xyz^$all
 ||unlock-usepaid.xyz^$all
