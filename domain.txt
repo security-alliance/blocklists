@@ -47735,7 +47735,6 @@ apps-cdn-metmask.wixstudio.com
 apps-chang-enow.wixstudio.com
 apps-coinbaescdn.wixstudio.com
 apps-coinibase-ext.wixstudio.com
-apps-coinnproscdn.wixstudio.com
 apps-coinsbase-io.wixstudio.com
 apps-craken.wixstudio.com
 apps-dydixcdn.wixstudio.com
@@ -70415,7 +70414,6 @@ merlin-68m.pages.dev
 merlinchain-app.pages.dev
 mesh-package.pages.dev
 met-treasury.pages.dev
-meta-flarehub.pages.dev
 meta-mask--log.pages.dev
 meta-mask-extens-ion.pages.dev
 meta-mask-extension-ee.pages.dev
