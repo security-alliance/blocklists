@@ -39236,7 +39236,6 @@ payment-zoomninfo.com
 paymentcard-create.com
 paymenthods.com
 payments-cryptomus.com
-payments-near.com
 paymentscardtw.com
 payminerfx.com
 paymnt-heleket.com
@@ -42515,7 +42514,6 @@ sega-dex.com
 sega-swap.com
 seguridad-crypto.com
 seguridad-wallet.com
-sei-voting.com
 sekolahtoto-google.com
 selerscope.com
 self-ticket.com
@@ -109968,7 +109966,6 @@ sharkcat.player2.world
 pollion.world
 pollymarket.world
 polymarket-cup.world
-prjx.world
 proposal-argus.world
 proposal-konnex.world
 prostotrendsmed.world
@@ -110921,7 +110918,6 @@ bigshorts.xyz
 bikernearme.xyz
 billiondollarmigrate.xyz
 billionnetwork-distribution.xyz
-billions-allocations.xyz
 billions-distribution.xyz
 billions-registration.xyz
 billions-vote.xyz
@@ -112044,7 +112040,6 @@ enter-lidofi.xyz
 enter-lidofinance.xyz
 enter-lighter.xyz
 enter-matrica.xyz
-enter-merkl.xyz
 enter-moonbird.xyz
 enter-morpho.xyz
 enter-naviprotocol.xyz
@@ -114461,7 +114456,6 @@ netruns.xyz
 network-app.xyz
 flare.network-voting.xyz
 neuralenvironment.xyz
-neverland-bonus.xyz
 neverland-enter.xyz
 neverland-proposal.xyz
 neverland-register.xyz
@@ -116623,7 +116617,6 @@ soneium-votereward.xyz
 soneiumvote.xyz
 soneiumvote-app.xyz
 sonic-register.xyz
-sonic-rewards.xyz
 sonic-vote.xyz
 sonicairdrop.xyz
 soniccouncil.xyz
