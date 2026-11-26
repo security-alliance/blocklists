@@ -66625,6 +66625,7 @@
 ||create-ro-binho-d.pages.dev^$all
 ||create-trezor.pages.dev^$all
 ||create-trezor-bridge.pages.dev^$all
+||cremagourmet.pages.dev^$all
 ||crescent-city-ledger.pages.dev^$all
 ||crossover-bridge.pages.dev^$all
 ||crypt-io-trezor.pages.dev^$all
@@ -103673,7 +103674,6 @@
 ||vote-manifesting.space^$all
 ||vote-near.space^$all
 ||vote-riv.space^$all
-||vote-variational.space^$all
 ||vote-worldcup.space^$all
 ||votes-sanctumso.space^$all
 ||voting-firelight.space^$all
