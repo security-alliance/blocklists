@@ -1560,7 +1560,6 @@ info-hylo.app
 info-raum.app
 integrate-ledger.app
 integration-ledger.app
-interest-firelight.app
 interest-hydrex.app
 interests-firelight.app
 invitation-teams.app
@@ -8583,7 +8582,6 @@ testdisk.app
 tetherdrop.app
 tge-apyx.app
 tge-apyxfi.app
-tge-firelight.app
 tge-flarenetwork.app
 tge-hylo.app
 tge-jumper.app
@@ -8614,7 +8612,6 @@ treasury-arcium.app
 treasury-flare.app
 treasury-pools-flarenetwork.app
 treasury-quantnetwork.app
-treasurypools-flarenetwork.app
 trezorrecovery.app
 trezorsafe7.app
 trezorsafesuite.app
@@ -30855,7 +30852,6 @@ distributioneconomics.com
 distributions-arcium.com
 distributions-desk.com
 distributions-embercurve.com
-distributions-firelight.com
 distributions-flare.com
 distributions-flarenetwork.com
 distributions-id12993231.com
@@ -35059,12 +35055,10 @@ interac-cra.com
 interapexpips.com
 phantom.interbato.com
 interest-arcium.com
-interest-firelight.com
 interest-flarenetwork.com
 interest-lienfi.com
 interest-listings.com
 interest-yieldbasis.com
-interests-firelight.com
 interests-flare.com
 interests-flarenetwork.com
 interests-yieldbasis.com
@@ -41681,7 +41675,6 @@ reward-connect.com
 reward-dcty.com
 reward-desk.com
 reward-desk-xrp.com
-reward-firelight.com
 reward-flarenetwork.com
 reward-goldfishgold.com
 reward-helpdesk.com
@@ -110439,7 +110432,6 @@ allocation-world.xyz
 allocation-worldieworld.xyz
 allocation-yieldbasis.xyz
 allocation-zama.xyz
-allocation-zest.xyz
 allocationhyperfoundation.xyz
 allocationotc.xyz
 allocations-3jane.xyz
@@ -110491,7 +110483,6 @@ allocations-plasma.xyz
 allocations-ponsfamily.xyz
 allocations-pumpbtc.xyz
 allocations-raacfi.xyz
-allocations-s5-ethfi.xyz
 allocations-solsticefinance.xyz
 allocations-stable.xyz
 allocations-standardreserve.xyz
@@ -112729,7 +112720,6 @@ flt-distribution.xyz
 flt-drop.xyz
 flt-gain.xyz
 flt-token.xyz
-fluid-distribution.xyz
 fluid-register.xyz
 fluid-vote.xyz
 fluid-votes.xyz
@@ -114264,9 +114254,6 @@ moonshotsvote.xyz
 moonsshoter.xyz
 moonstacknodes.xyz
 moonstoad.xyz
-moonwell-allocation.xyz
-moonwell-allocations.xyz
-moonwell-participation.xyz
 moonwell-registrations.xyz
 moonwell-vote.xyz
 moonwell-votes.xyz

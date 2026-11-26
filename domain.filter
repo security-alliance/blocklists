@@ -1560,7 +1560,6 @@
 ||info-raum.app^$all
 ||integrate-ledger.app^$all
 ||integration-ledger.app^$all
-||interest-firelight.app^$all
 ||interest-hydrex.app^$all
 ||interests-firelight.app^$all
 ||invitation-teams.app^$all
@@ -8583,7 +8582,6 @@
 ||tetherdrop.app^$all
 ||tge-apyx.app^$all
 ||tge-apyxfi.app^$all
-||tge-firelight.app^$all
 ||tge-flarenetwork.app^$all
 ||tge-hylo.app^$all
 ||tge-jumper.app^$all
@@ -8614,7 +8612,6 @@
 ||treasury-flare.app^$all
 ||treasury-pools-flarenetwork.app^$all
 ||treasury-quantnetwork.app^$all
-||treasurypools-flarenetwork.app^$all
 ||trezorrecovery.app^$all
 ||trezorsafe7.app^$all
 ||trezorsafesuite.app^$all
@@ -30855,7 +30852,6 @@
 ||distributions-arcium.com^$all
 ||distributions-desk.com^$all
 ||distributions-embercurve.com^$all
-||distributions-firelight.com^$all
 ||distributions-flare.com^$all
 ||distributions-flarenetwork.com^$all
 ||distributions-id12993231.com^$all
@@ -35059,12 +35055,10 @@
 ||interapexpips.com^$all
 ||phantom.interbato.com^$all
 ||interest-arcium.com^$all
-||interest-firelight.com^$all
 ||interest-flarenetwork.com^$all
 ||interest-lienfi.com^$all
 ||interest-listings.com^$all
 ||interest-yieldbasis.com^$all
-||interests-firelight.com^$all
 ||interests-flare.com^$all
 ||interests-flarenetwork.com^$all
 ||interests-yieldbasis.com^$all
@@ -41681,7 +41675,6 @@
 ||reward-dcty.com^$all
 ||reward-desk.com^$all
 ||reward-desk-xrp.com^$all
-||reward-firelight.com^$all
 ||reward-flarenetwork.com^$all
 ||reward-goldfishgold.com^$all
 ||reward-helpdesk.com^$all
@@ -110439,7 +110432,6 @@
 ||allocation-worldieworld.xyz^$all
 ||allocation-yieldbasis.xyz^$all
 ||allocation-zama.xyz^$all
-||allocation-zest.xyz^$all
 ||allocationhyperfoundation.xyz^$all
 ||allocationotc.xyz^$all
 ||allocations-3jane.xyz^$all
@@ -110491,7 +110483,6 @@
 ||allocations-ponsfamily.xyz^$all
 ||allocations-pumpbtc.xyz^$all
 ||allocations-raacfi.xyz^$all
-||allocations-s5-ethfi.xyz^$all
 ||allocations-solsticefinance.xyz^$all
 ||allocations-stable.xyz^$all
 ||allocations-standardreserve.xyz^$all
@@ -112729,7 +112720,6 @@
 ||flt-drop.xyz^$all
 ||flt-gain.xyz^$all
 ||flt-token.xyz^$all
-||fluid-distribution.xyz^$all
 ||fluid-register.xyz^$all
 ||fluid-vote.xyz^$all
 ||fluid-votes.xyz^$all
@@ -114264,9 +114254,6 @@
 ||moonsshoter.xyz^$all
 ||moonstacknodes.xyz^$all
 ||moonstoad.xyz^$all
-||moonwell-allocation.xyz^$all
-||moonwell-allocations.xyz^$all
-||moonwell-participation.xyz^$all
 ||moonwell-registrations.xyz^$all
 ||moonwell-vote.xyz^$all
 ||moonwell-votes.xyz^$all
