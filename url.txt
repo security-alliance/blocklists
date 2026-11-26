@@ -102,6 +102,7 @@ https://sites.google.com/view/base-apps/home
 https://sites.google.com/view/base-coinapp-ext/home
 https://sites.google.com/view/base-doc-extension/home
 https://sites.google.com/view/base-en-io-cdn/home
+https://sites.google.com/view/base-ext/home
 https://sites.google.com/view/base-extennsion-/home
 https://sites.google.com/view/base-extension--/home
 https://sites.google.com/view/base-extension-c/home
@@ -167,6 +168,7 @@ https://sites.google.com/view/browse-meta-en/home
 https://sites.google.com/view/browse-metamask-en/home
 https://sites.google.com/view/browse-web-extension/home
 https://sites.google.com/view/browser-apps-base/home
+https://sites.google.com/view/browser-appsbase/home
 https://sites.google.com/view/browser-base-apps/home
 https://sites.google.com/view/browser-base-cdn/home
 https://sites.google.com/view/browser-coinbse/home
@@ -523,6 +525,7 @@ https://sites.google.com/view/coinextension-us/home
 https://sites.google.com/view/coinextensioon-us/home
 https://sites.google.com/view/coinn-app/home
 https://sites.google.com/view/coinnbase-extension-/home
+https://sites.google.com/view/coinnbase-extension/home
 https://sites.google.com/view/coinnextension/home
 https://sites.google.com/view/coinprolife/home
 https://sites.google.com/view/coinprosapps-doc/home
@@ -782,6 +785,7 @@ https://sites.google.com/view/extn-coinbase-help/home
 https://sites.google.com/view/extn-en-coinbase/home
 https://sites.google.com/view/extnsion-metamask/home
 https://sites.google.com/view/f16u62b86ymq/home
+https://sites.google.com/view/faq-coinbase/home
 https://sites.google.com/view/faqs-base-extension/home
 https://sites.google.com/view/faqs-metamsk/home
 https://sites.google.com/view/feature-metamask/home
