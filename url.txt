@@ -1614,7 +1614,6 @@ https://sites.google.com/view/trezor-crypto-app/trezor-suite
 https://sites.google.com/view/trezor-dashboard/trezor-suite
 https://sites.google.com/view/trezor-desktop-site
 https://sites.google.com/view/trezor-device-connect/trezor-suite
-https://sites.google.com/view/trezor-device-setup/trezor-app
 https://sites.google.com/view/trezor-signin/trezor-suite
 https://sites.google.com/view/trezor-v2/trezor-suite
 https://sites.google.com/view/trezor-view-app
