@@ -70314,6 +70314,7 @@ lumiere-ledger.pages.dev
 m-amara.pages.dev
 m-arcus.pages.dev
 m-bill-z.pages.dev
+m-breakout-cap-cc.pages.dev
 m-curve-fi.pages.dev
 m-dioneprotocol.pages.dev
 m-near-intents.pages.dev
@@ -104591,6 +104592,7 @@ backpackapp.tech
 bandican.tech
 betparibu.tech
 blockchainlink.tech
+coolify.breakoutventures.tech
 catapulto.tech
 chainlinkhr.tech
 chainlinkjob.tech
