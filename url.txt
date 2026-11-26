@@ -115,7 +115,6 @@ https://sites.google.com/view/baseapps-extension/home
 https://sites.google.com/view/basecoin-extension-/home
 https://sites.google.com/view/basepro-hub-koin/home
 https://sites.google.com/view/basextension-wallet/home
-https://sites.google.com/view/before-you-open-a-robinhood-/home
 https://sites.google.com/view/begin-coinbase-users/home
 https://sites.google.com/view/begin-exodus-wallet/home
 https://sites.google.com/view/begin-procoin--/home
@@ -1544,7 +1543,6 @@ https://sites.google.com/view/releasesm-/home
 https://sites.google.com/view/robinhoodapps/home
 https://sites.google.com/view/robinhoodcashoutdeclined
 https://sites.google.com/view/robinhoodirawithdrawalfailedtr
-https://sites.google.com/view/robinhoodloginpcmobileregister/home
 https://sites.google.com/view/robinhoodreviews2026isthistheb/home
 https://sites.google.com/view/rub-extension-base/home
 https://sites.google.com/view/run-ext-metamask/home
