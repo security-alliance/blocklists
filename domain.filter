@@ -76170,7 +76170,6 @@
 ||claim-mellow.finance^$all
 ||claim-onre.finance^$all
 ||claim-pendle.finance^$all
-||claim-solstice.finance^$all
 ||claim-solv.finance^$all
 ||claiming-firelight.finance^$all
 ||claiming-pendle.finance^$all
@@ -114236,6 +114235,7 @@
 ||monad-apr.xyz^$all
 ||monad-proposal.xyz^$all
 ||monad-q3.xyz^$all
+||monad-register.xyz^$all
 ||monad-season2.xyz^$all
 ||monad-treasury.xyz^$all
 ||monad-vote.xyz^$all

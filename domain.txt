@@ -76170,7 +76170,6 @@ claim-firelight.finance
 claim-mellow.finance
 claim-onre.finance
 claim-pendle.finance
-claim-solstice.finance
 claim-solv.finance
 claiming-firelight.finance
 claiming-pendle.finance
@@ -114236,6 +114235,7 @@ monad-allocation-proposal.xyz
 monad-apr.xyz
 monad-proposal.xyz
 monad-q3.xyz
+monad-register.xyz
 monad-season2.xyz
 monad-treasury.xyz
 monad-vote.xyz
