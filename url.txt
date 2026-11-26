@@ -1608,6 +1608,7 @@ https://sites.google.com/view/secure-coinbase-access/home
 https://sites.google.com/view/secure-home-extension/home
 https://sites.google.com/view/secure-robinhoodapps/home
 https://sites.google.com/view/securely-recover-seed-phrase/home
+https://sites.google.com/view/server-extensions-app/home
 https://sites.google.com/view/server-metamask-exton/home
 https://sites.google.com/view/server-web3-extension/home
 https://sites.google.com/view/service-webcoinbase/home
