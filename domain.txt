@@ -31274,6 +31274,7 @@ elavon-payment.com
 elbonded.com
 eldasuni.com
 eldmagic.com
+electroneumwallet.com
 electrum-bitcoin-guide.com
 electrumn.com
 elegamb.com
@@ -33799,6 +33800,7 @@ governances-onyx.com
 governances-zebec.com
 governing-tool.com
 govflarenetwork.com
+goviwallet.com
 govsupport-service.com
 goxcas.com
 gozawin.com
@@ -95715,6 +95717,7 @@ cyberleek.org
 cypb.org
 daemontools.org
 daisyoakfoundation.org
+daiwallet.org
 dao-justlend.org
 dao-zebec.org
 dapp-defi.org
@@ -96822,6 +96825,7 @@ rewards-zama.org
 rewards-zeus.org
 rheafinance.org
 rhinobridge.org
+ripple-desktop.org
 ripple-program.org
 risewallet.org
 risewin.org
@@ -101218,6 +101222,7 @@ govs-ramses.sbs
 grass-dashboard.sbs
 grvt-exchange.sbs
 grvtio.sbs
+gvnode.sbs
 gynmetwork.sbs
 hehehahahe.sbs
 heirna.sbs
