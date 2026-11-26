@@ -947,7 +947,6 @@ coinbasesupport.app
 coinbaseupdate.app
 coinbasewallet-verify.app
 coincommunities.app
-coinfunded.app
 coinjoin.app
 coinmarketvote.app
 coinstats-desktop.app
@@ -14997,7 +14996,6 @@ c-6542.cc
 caiiflaw.cc
 cakewallets.cc
 card-tw.cc
-cardmesh.cc
 cards-tw.cc
 cardtrustwallet.cc
 carpro-coin.cc
@@ -22889,7 +22887,6 @@ coinbase.564782.com
 582932-ledger.com
 582933-coinspot.com
 582933-ledger.com
-582953-coinspot.com
 582994-ledger.com
 583017-crypto.com
 583049kraken.com
@@ -27893,7 +27890,6 @@ claim-your-sol.com
 claim-zcashstamp.com
 claim-zeal.com
 claim1-frogbull.com
-claimable-doppler.com
 claimable-flare.com
 claimable-flt.com
 claimansem.com
@@ -30384,13 +30380,11 @@ dash0tools.com
 dashboard-1inch.com
 dashboard-asterdex.com
 dashboard-based.com
-dashboard-catena.com
 dashboard-dinahosting.com
 dashboard-dupr.com
 dashboard-early-bnkr.com
 dashboard-kamino.com
 dashboard-kintara.com
-dashboard-silostaking.com
 dashboard-steakhouse.com
 dashboard-trst-wallet.com
 dashboard-trust-wallet.com
@@ -31198,7 +31192,6 @@ earn-plume.com
 earn-var.com
 earnersglobe.com
 earns-jeffcoin.com
-earnsol-dexscreener.com
 earnvotes-dexscreener.com
 slingshot.eas4solutions.com
 eastmerelegal.com
@@ -41238,7 +41231,6 @@ randy-uphold.com
 randycovensite.com
 rangoswap.com
 rangpeng.com
-rankings-dexscreener.com
 raofox.com
 raoinbet.com
 raonbet.com
@@ -77454,7 +77446,6 @@ longxyz.fun
 loothub.fun
 lootix.fun
 losesbacks-pump.fun
-lossbacks-pump.fun
 lossesback-pumps.fun
 lossesbacks-pump.fun
 lucky-casino.fun
@@ -79509,7 +79500,6 @@ metamesk.icu
 metamwallet.icu
 metthisthesoil.icu
 mexcglobal.icu
-mexicanunc.icu
 mfhkhder.icu
 microsoftt.icu
 migos.icu
@@ -79853,7 +79843,6 @@ solanagift.icu
 solapp.icu
 solcoin.icu
 solcoins.icu
-soldc-app.icu
 soldrop.icu
 solfound.icu
 solhub.icu
@@ -80689,7 +80678,6 @@ boostweb3.info
 bozei.info
 braun-exchange.info
 braxton-exchange.info
-brophy-legacy.info
 btveix.info
 bullcattoken.info
 busdminer.info
@@ -80942,7 +80930,6 @@ firelight-foundation.info
 firelight-fxrp.info
 firelight-phase.info
 firelight-phase2.info
-firelight-poll.info
 firelight-stxrp.info
 firelight2.info
 firelighteligibility.info
@@ -81314,7 +81301,6 @@ pitchwcr.info
 pitchwcrl.info
 plumenetwork.info
 polexbot.info
-poll-firelight.info
 pollymarket.info
 polygpt.info
 polymarket-android-app-page.info
@@ -89910,7 +89896,6 @@ solcheck-qu.lol
 solcheck-vd.lol
 sollarpers.lol
 solnight.lol
-solpamp.lol
 solpumps.lol
 sparkdex.lol
 sparkdotfi.lol
@@ -95735,7 +95720,6 @@ events.easternvascular.org
 easytrademarkets.org
 eco-zama.org
 edexce.org
-edgeptr.org
 eglinlogistics.org
 eidansanker-profit.org
 foundation.eifenandeighth.org
@@ -104248,7 +104232,6 @@ whereby.surf
 wildcat.surf
 winz.surf
 winzbet.surf
-xstocks.surf
 zkverify.surf
 zkverify-l1.surf
 zkverify-l2.surf
@@ -105299,7 +105282,6 @@ b1-binance.top
 b2-binance.top
 babhesd.top
 balancer.top
-bars-rewards.top
 baseazul.top
 basedbrett-vote.top
 basedone.top
@@ -105326,7 +105308,6 @@ robinhood.big-event.top
 robinhood.big-events.top
 big-robinevent.top
 biitgetioskm.top
-billz-rewards.top
 bimiidcd.top
 bimiidkl.top
 binancesupport.top
@@ -105410,7 +105391,6 @@ btcukm.top
 bttcc.top
 budnxjs.top
 bullcattoken.top
-bullish-rewards.top
 bulltheleader-rewards.top
 bullvers.top
 bus14di.top
@@ -105648,7 +105628,6 @@ dfqd7f69.top
 dghbjsdhgb6465.top
 dhkfd.top
 didest.top
-digi-rewards.top
 digital-promo.top
 digitizedctltd.top
 dir-connectiontemp-now.top
@@ -107088,7 +107067,6 @@ trustwalletsupport.top
 trustwallett.top
 trustxx.top
 trxcoin.top
-tttt-rewards.top
 tubs03.top
 tues01.top
 tufs02.top
@@ -110710,7 +110688,6 @@ apps-flarefoundations.xyz
 apps-flareportal.xyz
 apps-flareportals.xyz
 apps-injective.xyz
-apps-nexus.xyz
 apps-otc.xyz
 apps-paperfoundation.xyz
 apps-papertrade.xyz
@@ -111159,15 +111136,11 @@ checkallocations.xyz
 checkconnect-dev.xyz
 checker-arcium.xyz
 checker-concrete.xyz
-checker-grass.xyz
-checker-grvt.xyz
-checker-hyper.xyz
 checker-hyperfoundation.xyz
 checker-ink.xyz
 checker-jump.xyz
 checker-jumper.xyz
 checker-jup.xyz
-checker-opengradient.xyz
 checker-saturn.xyz
 checker-saturncredit.xyz
 checker-umiafinance.xyz
@@ -111252,7 +111225,6 @@ claim-firelightfi.xyz
 claim-flarenetwork.xyz
 claim-floatlaunch.xyz
 claim-fragsfun.xyz
-claim-genius.xyz
 claim-grvt.xyz
 claim-hodl.xyz
 claim-hyperfoundation.xyz
@@ -111365,7 +111337,6 @@ claimsusepaid.xyz
 pengu.claimtokens.xyz
 claimusepaid.xyz
 0gfoundatlon.clalmdash.xyz
-clalmpanelhq.xyz
 claudepad.xyz
 clearpool-finance.xyz
 clearpoolfi.xyz
@@ -112855,7 +112826,6 @@ genesis-hyperfoundation.xyz
 genesis-hyperliquid.xyz
 genesis2-kinetiq.xyz
 genlayerx.xyz
-gensynai.xyz
 get-citrea.xyz
 get-etherfinances.xyz
 get-falconfinances.xyz

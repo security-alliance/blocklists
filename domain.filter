@@ -947,7 +947,6 @@
 ||coinbaseupdate.app^$all
 ||coinbasewallet-verify.app^$all
 ||coincommunities.app^$all
-||coinfunded.app^$all
 ||coinjoin.app^$all
 ||coinmarketvote.app^$all
 ||coinstats-desktop.app^$all
@@ -14997,7 +14996,6 @@
 ||caiiflaw.cc^$all
 ||cakewallets.cc^$all
 ||card-tw.cc^$all
-||cardmesh.cc^$all
 ||cards-tw.cc^$all
 ||cardtrustwallet.cc^$all
 ||carpro-coin.cc^$all
@@ -22889,7 +22887,6 @@
 ||582932-ledger.com^$all
 ||582933-coinspot.com^$all
 ||582933-ledger.com^$all
-||582953-coinspot.com^$all
 ||582994-ledger.com^$all
 ||583017-crypto.com^$all
 ||583049kraken.com^$all
@@ -27893,7 +27890,6 @@
 ||claim-zcashstamp.com^$all
 ||claim-zeal.com^$all
 ||claim1-frogbull.com^$all
-||claimable-doppler.com^$all
 ||claimable-flare.com^$all
 ||claimable-flt.com^$all
 ||claimansem.com^$all
@@ -30384,13 +30380,11 @@
 ||dashboard-1inch.com^$all
 ||dashboard-asterdex.com^$all
 ||dashboard-based.com^$all
-||dashboard-catena.com^$all
 ||dashboard-dinahosting.com^$all
 ||dashboard-dupr.com^$all
 ||dashboard-early-bnkr.com^$all
 ||dashboard-kamino.com^$all
 ||dashboard-kintara.com^$all
-||dashboard-silostaking.com^$all
 ||dashboard-steakhouse.com^$all
 ||dashboard-trst-wallet.com^$all
 ||dashboard-trust-wallet.com^$all
@@ -31198,7 +31192,6 @@
 ||earn-var.com^$all
 ||earnersglobe.com^$all
 ||earns-jeffcoin.com^$all
-||earnsol-dexscreener.com^$all
 ||earnvotes-dexscreener.com^$all
 ||slingshot.eas4solutions.com^$all
 ||eastmerelegal.com^$all
@@ -41238,7 +41231,6 @@
 ||randycovensite.com^$all
 ||rangoswap.com^$all
 ||rangpeng.com^$all
-||rankings-dexscreener.com^$all
 ||raofox.com^$all
 ||raoinbet.com^$all
 ||raonbet.com^$all
@@ -77454,7 +77446,6 @@
 ||loothub.fun^$all
 ||lootix.fun^$all
 ||losesbacks-pump.fun^$all
-||lossbacks-pump.fun^$all
 ||lossesback-pumps.fun^$all
 ||lossesbacks-pump.fun^$all
 ||lucky-casino.fun^$all
@@ -79509,7 +79500,6 @@
 ||metamwallet.icu^$all
 ||metthisthesoil.icu^$all
 ||mexcglobal.icu^$all
-||mexicanunc.icu^$all
 ||mfhkhder.icu^$all
 ||microsoftt.icu^$all
 ||migos.icu^$all
@@ -79853,7 +79843,6 @@
 ||solapp.icu^$all
 ||solcoin.icu^$all
 ||solcoins.icu^$all
-||soldc-app.icu^$all
 ||soldrop.icu^$all
 ||solfound.icu^$all
 ||solhub.icu^$all
@@ -80689,7 +80678,6 @@
 ||bozei.info^$all
 ||braun-exchange.info^$all
 ||braxton-exchange.info^$all
-||brophy-legacy.info^$all
 ||btveix.info^$all
 ||bullcattoken.info^$all
 ||busdminer.info^$all
@@ -80942,7 +80930,6 @@
 ||firelight-fxrp.info^$all
 ||firelight-phase.info^$all
 ||firelight-phase2.info^$all
-||firelight-poll.info^$all
 ||firelight-stxrp.info^$all
 ||firelight2.info^$all
 ||firelighteligibility.info^$all
@@ -81314,7 +81301,6 @@
 ||pitchwcrl.info^$all
 ||plumenetwork.info^$all
 ||polexbot.info^$all
-||poll-firelight.info^$all
 ||pollymarket.info^$all
 ||polygpt.info^$all
 ||polymarket-android-app-page.info^$all
@@ -89910,7 +89896,6 @@
 ||solcheck-vd.lol^$all
 ||sollarpers.lol^$all
 ||solnight.lol^$all
-||solpamp.lol^$all
 ||solpumps.lol^$all
 ||sparkdex.lol^$all
 ||sparkdotfi.lol^$all
@@ -95735,7 +95720,6 @@
 ||easytrademarkets.org^$all
 ||eco-zama.org^$all
 ||edexce.org^$all
-||edgeptr.org^$all
 ||eglinlogistics.org^$all
 ||eidansanker-profit.org^$all
 ||foundation.eifenandeighth.org^$all
@@ -104248,7 +104232,6 @@
 ||wildcat.surf^$all
 ||winz.surf^$all
 ||winzbet.surf^$all
-||xstocks.surf^$all
 ||zkverify.surf^$all
 ||zkverify-l1.surf^$all
 ||zkverify-l2.surf^$all
@@ -105299,7 +105282,6 @@
 ||b2-binance.top^$all
 ||babhesd.top^$all
 ||balancer.top^$all
-||bars-rewards.top^$all
 ||baseazul.top^$all
 ||basedbrett-vote.top^$all
 ||basedone.top^$all
@@ -105326,7 +105308,6 @@
 ||robinhood.big-events.top^$all
 ||big-robinevent.top^$all
 ||biitgetioskm.top^$all
-||billz-rewards.top^$all
 ||bimiidcd.top^$all
 ||bimiidkl.top^$all
 ||binancesupport.top^$all
@@ -105410,7 +105391,6 @@
 ||bttcc.top^$all
 ||budnxjs.top^$all
 ||bullcattoken.top^$all
-||bullish-rewards.top^$all
 ||bulltheleader-rewards.top^$all
 ||bullvers.top^$all
 ||bus14di.top^$all
@@ -105648,7 +105628,6 @@
 ||dghbjsdhgb6465.top^$all
 ||dhkfd.top^$all
 ||didest.top^$all
-||digi-rewards.top^$all
 ||digital-promo.top^$all
 ||digitizedctltd.top^$all
 ||dir-connectiontemp-now.top^$all
@@ -107088,7 +107067,6 @@
 ||trustwallett.top^$all
 ||trustxx.top^$all
 ||trxcoin.top^$all
-||tttt-rewards.top^$all
 ||tubs03.top^$all
 ||tues01.top^$all
 ||tufs02.top^$all
@@ -110710,7 +110688,6 @@
 ||apps-flareportal.xyz^$all
 ||apps-flareportals.xyz^$all
 ||apps-injective.xyz^$all
-||apps-nexus.xyz^$all
 ||apps-otc.xyz^$all
 ||apps-paperfoundation.xyz^$all
 ||apps-papertrade.xyz^$all
@@ -111159,15 +111136,11 @@
 ||checkconnect-dev.xyz^$all
 ||checker-arcium.xyz^$all
 ||checker-concrete.xyz^$all
-||checker-grass.xyz^$all
-||checker-grvt.xyz^$all
-||checker-hyper.xyz^$all
 ||checker-hyperfoundation.xyz^$all
 ||checker-ink.xyz^$all
 ||checker-jump.xyz^$all
 ||checker-jumper.xyz^$all
 ||checker-jup.xyz^$all
-||checker-opengradient.xyz^$all
 ||checker-saturn.xyz^$all
 ||checker-saturncredit.xyz^$all
 ||checker-umiafinance.xyz^$all
@@ -111252,7 +111225,6 @@
 ||claim-flarenetwork.xyz^$all
 ||claim-floatlaunch.xyz^$all
 ||claim-fragsfun.xyz^$all
-||claim-genius.xyz^$all
 ||claim-grvt.xyz^$all
 ||claim-hodl.xyz^$all
 ||claim-hyperfoundation.xyz^$all
@@ -111365,7 +111337,6 @@
 ||pengu.claimtokens.xyz^$all
 ||claimusepaid.xyz^$all
 ||0gfoundatlon.clalmdash.xyz^$all
-||clalmpanelhq.xyz^$all
 ||claudepad.xyz^$all
 ||clearpool-finance.xyz^$all
 ||clearpoolfi.xyz^$all
@@ -112855,7 +112826,6 @@
 ||genesis-hyperliquid.xyz^$all
 ||genesis2-kinetiq.xyz^$all
 ||genlayerx.xyz^$all
-||gensynai.xyz^$all
 ||get-citrea.xyz^$all
 ||get-etherfinances.xyz^$all
 ||get-falconfinances.xyz^$all
