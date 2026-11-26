@@ -86180,7 +86180,6 @@ kucoin.kz
 prod-back.lombardpartner.kz
 infopage.la
 slush.la
-suinft.la
 suinftl.la
 trustwallet.la
 vantage-tw.la
@@ -106971,7 +106970,6 @@ studioeth.top
 studiosol.top
 stupidinu-rewards.top
 suiiend.top
-suination.top
 sullendi.top
 sunrisedefi.top
 sunsocfrblvnlon-online.top
