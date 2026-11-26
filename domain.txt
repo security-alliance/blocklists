@@ -35611,7 +35611,6 @@ kahshi.com
 kaihu-tmgm.com
 kaikobot.com
 kairos-777.com
-kaiyun-hotfix.com
 kaiyun-upgrade.com
 kakaonow.com
 kakaoweb08talk.com
@@ -38485,7 +38484,6 @@ octasmartoptions.com
 octo-swap.com
 oculus-app.com
 odainu.com
-odenza-rewards.com
 odenzaincentives.com
 odenzatravelrewards.com
 odinlife-airdrop.com
@@ -78267,7 +78265,6 @@ okx.com.gy
 accountprotection-microsofts.hair
 buytrx.hair
 my-rewards.hair
-myis-rewards.hair
 scanepani.hair
 thonnuniswap.hair
 verify-orders254374.hair
@@ -78530,7 +78527,6 @@ foome.homes
 melaniatrump.homes
 micrsoftoflce.homes
 moonwellfi.homes
-my-rewards.homes
 myis-rewards.homes
 opensea.homes
 orbitrelaydata.homes
@@ -86130,12 +86126,10 @@ account-validation-service-s19.lat
 account-validation-service-s2.lat
 account-validation-service-s20.lat
 account-validation-service-s3.lat
-account-validation-service-s4.lat
 account-validation-service-s5.lat
 account-validation-service-s6.lat
 account-validation-service-s7.lat
 account-validation-service-s8.lat
-account-validation-service-s9.lat
 aercodlorme.lat
 aero-finance.lat
 aerodrome-portal.lat
@@ -102011,7 +102005,6 @@ kkhha.shop
 kkhhg.shop
 kpkoe.shop
 krakena.shop
-ksi-online-bonus.shop
 ktxjp.shop
 kucoinu.shop
 kucoinus.shop
@@ -103293,7 +103286,6 @@ devwatchstream.skin
 hell-case.skin
 memescandata.skin
 my-rewards.skin
-myis-rewards.skin
 orbitrelaylogs.skin
 polymarket.skin
 portallogonapp.skin
@@ -110308,7 +110300,6 @@ allocation-proposal-monad.xyz
 allocation-proposal-zinc.xyz
 allocation-pumpbig.xyz
 allocation-pumpbtc.xyz
-allocation-raacfi.xyz
 allocation-relayprotocol.xyz
 allocation-saturncredit.xyz
 allocation-signup.xyz
