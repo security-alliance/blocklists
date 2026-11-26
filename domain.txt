@@ -81010,7 +81010,6 @@ fixnow-app.info
 flare-foundation.info
 flare-genesis.info
 flare-institution.info
-flare-poll.info
 flarecontributor.info
 flaremultiply.info
 flarevoting.info
