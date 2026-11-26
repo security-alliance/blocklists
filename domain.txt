@@ -36345,7 +36345,6 @@ lido-sv3.com
 lidofinan.com
 lidov3.com
 lidovex.com
-lienfiapp.com
 lienslfi.com
 lifecoachrochester.com
 lifi-dex.com
@@ -80930,7 +80929,6 @@ getbnb.info
 getbze.info
 gift-binance.info
 gisnz.info
-gitblank.info
 gitlawbt.info
 gitlawbv.info
 glrcastrk.info
@@ -110444,7 +110442,6 @@ allocations-treadfi.xyz
 allocations-usepaid.xyz
 allocations-xstocks.xyz
 vote.allocations-zest.xyz
-allocations-zestprotocol.xyz
 allocationshyperfoundation.xyz
 allocationstonkfun.xyz
 allocationusepaid.xyz
@@ -111216,7 +111213,6 @@ claim-robin.xyz
 claim-robinhood.xyz
 claim-sand.xyz
 claim-season3.xyz
-claim-sonic.xyz
 claim-spicefi.xyz
 claim-stonkfun.xyz
 claim-sync.xyz
@@ -112682,7 +112678,6 @@ flt-distribution.xyz
 flt-drop.xyz
 flt-gain.xyz
 flt-token.xyz
-fluid-allocation.xyz
 fluid-distribution.xyz
 fluid-register.xyz
 fluid-vote.xyz
@@ -114191,7 +114186,6 @@ molinfx.xyz
 mollyonmonad.xyz
 monad-allocation-proposal.xyz
 monad-apr.xyz
-monad-bonus.xyz
 monad-proposal.xyz
 monad-q3.xyz
 monad-season2.xyz
@@ -114277,7 +114271,6 @@ multiplier-kinetiq.xyz
 multipliers-kinetiq.xyz
 multiplifi-airdrop.xyz
 multiplifi-app.xyz
-multiplivaults.xyz
 multisoldappressolver.xyz
 multisolnetworks.xyz
 multisolprotocol.xyz
@@ -114828,7 +114821,6 @@ photon-solana.xyz
 cattheftauto.pikenians.xyz
 pilerlab.xyz
 pinnocapital.xyz
-pitchwcr.xyz
 plaguetracker.xyz
 plasma-airdrop.xyz
 plasma-allocations.xyz
@@ -115898,7 +115890,6 @@ selcuksportv.xyz
 selfmadeai.xyz
 sempaihq.xyz
 send-check.xyz
-sentora-distributions.xyz
 sentora-vote.xyz
 sentora-votes.xyz
 sentorasapp.xyz
@@ -117693,7 +117684,6 @@ vote-maplefinance.xyz
 vote-maquina.xyz
 vote-marinade.xyz
 vote-meridian.xyz
-vote-moonwell.xyz
 vote-moonwellapp.xyz
 vote-movemoney.xyz
 vote-multiplifi.xyz
