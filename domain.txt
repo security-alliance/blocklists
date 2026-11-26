@@ -11384,7 +11384,6 @@ usd1-vault-tracker.vercel.app
 usdt-qr-generator-next.vercel.app
 usdt-trustwallet-blockchain.vercel.app
 v0-3-28-done-kraken.vercel.app
-v0-base-wallet-recovery.vercel.app
 v0-c-recovery-server.vercel.app
 v0-coinbase-clone-lovat.vercel.app
 v0-coinbase-login-page.vercel.app
