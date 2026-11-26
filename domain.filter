@@ -55702,6 +55702,7 @@
 ||142-reallocate-flare.pages.dev^$all
 ||142-stonkbroker-clutchmarkets.pages.dev^$all
 ||1420-482c-coinbase-listing.pages.dev^$all
+||142b-482c-coinbase-listing.pages.dev^$all
 ||143-allowlist-ascendlaunch.pages.dev^$all
 ||143-app-treadgov.pages.dev^$all
 ||143-ballot-votes.pages.dev^$all
@@ -64710,6 +64711,7 @@
 ||82-vote-cashmereexchange.pages.dev^$all
 ||82-vote-netnetcapital.pages.dev^$all
 ||82-vote-orbio.pages.dev^$all
+||8270-67ae-colnbase-listings.pages.dev^$all
 ||83-0xfluid.pages.dev^$all
 ||83-allocation-yieldfields.pages.dev^$all
 ||83-allowlist-ascendlaunch.pages.dev^$all
@@ -66703,6 +66705,7 @@
 ||d0fe-fa8e-5133-c0inbase-list.pages.dev^$all
 ||d153-67ae-colnbase-listings.pages.dev^$all
 ||d161-coinbase-listing-677f.pages.dev^$all
+||d16c-67ae-colnbase-listings.pages.dev^$all
 ||d24f-colnbase-listings-4f65.pages.dev^$all
 ||d26a-coinbase-listing-677f.pages.dev^$all
 ||d272-cbc0-coinbase-listing.pages.dev^$all
@@ -72068,6 +72071,7 @@
 ||start-cloud-trezor.pages.dev^$all
 ||start-co-ledgr.pages.dev^$all
 ||start-coibaselogin.pages.dev^$all
+||start-coin-base-prologin.pages.dev^$all
 ||start-coinbaspro-login.pages.dev^$all
 ||start-com-ledger.pages.dev^$all
 ||start-com-ledgr-us.pages.dev^$all
