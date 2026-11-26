@@ -103,9 +103,11 @@ https://sites.google.com/view/base-coinapp-ext/home
 https://sites.google.com/view/base-doc-extension/home
 https://sites.google.com/view/base-en-io-cdn/home
 https://sites.google.com/view/base-extennsion-/home
+https://sites.google.com/view/base-extension--/home
 https://sites.google.com/view/base-extension-c/home
 https://sites.google.com/view/base-extension-cdus/home
 https://sites.google.com/view/base-extension-docs/home
+https://sites.google.com/view/base-extension-global/home
 https://sites.google.com/view/base-extension-guide/home
 https://sites.google.com/view/base-extension-hub-/home
 https://sites.google.com/view/base-extension-hub/home
@@ -433,6 +435,7 @@ https://sites.google.com/view/coinbasechome-exte/home
 https://sites.google.com/view/coinbasecom-getting/home
 https://sites.google.com/view/coinbasecom-started/home
 https://sites.google.com/view/coinbasee-exteget/home
+https://sites.google.com/view/coinbasee-extension/home
 https://sites.google.com/view/coinbasee-public-/home
 https://sites.google.com/view/coinbasee-xtensio/home
 https://sites.google.com/view/coinbaseex-ension/home
@@ -958,6 +961,7 @@ https://sites.google.com/view/intro-base-extension/home
 https://sites.google.com/view/intro-coin-extension/home
 https://sites.google.com/view/intro-coinbase-docs/home
 https://sites.google.com/view/intro-coinbase-enus/home
+https://sites.google.com/view/intro-coinbase-wallet/home
 https://sites.google.com/view/intro-coinbaseapp/home
 https://sites.google.com/view/intro-extension/home
 https://sites.google.com/view/intro-learned/home
