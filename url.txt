@@ -1194,6 +1194,7 @@ https://sites.google.com/view/metamask-easyapp/home
 https://sites.google.com/view/metamask-en-extensin/home
 https://sites.google.com/view/metamask-en-us/home
 https://sites.google.com/view/metamask-en/home
+https://sites.google.com/view/metamask-eng-extension/home
 https://sites.google.com/view/metamask-eng-getting/home
 https://sites.google.com/view/metamask-enpro/home
 https://sites.google.com/view/metamask-enuss/home
@@ -1466,6 +1467,7 @@ https://sites.google.com/view/pages-metmaskcd/home
 https://sites.google.com/view/parenthow-to-turn-trust-wallet/home
 https://sites.google.com/view/phantom-wallet-manual-withdraw/home
 https://sites.google.com/view/phantomextension-official/home
+https://sites.google.com/view/platform--metmaskext-authu/home
 https://sites.google.com/view/platforms-coinbase-eng/home
 https://sites.google.com/view/platforms-qoin-proo/home
 https://sites.google.com/view/pluoda/home
