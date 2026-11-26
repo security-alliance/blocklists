@@ -74657,7 +74657,6 @@ tzr-ioqwek.destiny72.workers.dev
 tzr-oeknj.destiny72.workers.dev
 tzr-oemdj.destiny72.workers.dev
 tzr-oiekd.destiny72.workers.dev
-rby-bncdhio.deylaa12.workers.dev
 rby-nmbxzis.deylaa12.workers.dev
 open-sea-wllt.df54df.workers.dev
 relay-c89c77b3.egor-roch.workers.dev
