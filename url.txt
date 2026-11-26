@@ -377,12 +377,14 @@ https://sites.google.com/view/coinbase-portals/home
 https://sites.google.com/view/coinbase-portsl/home
 https://sites.google.com/view/coinbase-pro-access/home
 https://sites.google.com/view/coinbase-pro-asset/home
+https://sites.google.com/view/coinbase-pro-assets/home
 https://sites.google.com/view/coinbase-pro-digitals/home
 https://sites.google.com/view/coinbase-pro-exchange/home
 https://sites.google.com/view/coinbase-pro-login-may/home
 https://sites.google.com/view/coinbase-pro-logon/home
 https://sites.google.com/view/coinbase-pro-now/home
 https://sites.google.com/view/coinbase-pro-offical/home
+https://sites.google.com/view/coinbase-pro-wha/home
 https://sites.google.com/view/coinbase-pro-what/home
 https://sites.google.com/view/coinbase-pro-withen/home
 https://sites.google.com/view/coinbase-proacc/home
@@ -1630,6 +1632,7 @@ https://sites.google.com/view/setting-up-coinbase/home
 https://sites.google.com/view/setup-exodus/home
 https://sites.google.com/view/setup-ledger-live
 https://sites.google.com/view/signup-bitbuyca/home
+https://sites.google.com/view/site-coinbase-pros/home
 https://sites.google.com/view/small-sellhow-to-sell-and-with/home
 https://sites.google.com/view/smart-metamask/home
 https://sites.google.com/view/smey429odtof415/ee9r7
