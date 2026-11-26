@@ -56892,6 +56892,7 @@
 ||19-governance-hookrfun.pages.dev^$all
 ||19-governance-hyperlend.pages.dev^$all
 ||19-governance-hyperunit.pages.dev^$all
+||19-governance-inkonchain.pages.dev^$all
 ||19-governance-jumper.pages.dev^$all
 ||19-governance-jumperapp.pages.dev^$all
 ||19-governance-jumpereco.pages.dev^$all
@@ -68700,6 +68701,8 @@
 ||ing-trezorsa.pages.dev^$all
 ||ingra-ledger-private.pages.dev^$all
 ||injective-proposal-32.pages.dev^$all
+||inkonchain.pages.dev^$all
+||inkonchaingov.pages.dev^$all
 ||inkshub.pages.dev^$all
 ||insert-ledgr-live.pages.dev^$all
 ||insert-trazor-bridge.pages.dev^$all
@@ -110115,6 +110118,7 @@
 ||1inch-com.xyz^$all
 ||1inch-viewer.xyz^$all
 ||1lli.xyz^$all
+||app.1nk-governance.xyz^$all
 ||1w-token.xyz^$all
 ||20010610.xyz^$all
 ||202588888882oginaaaaa.xyz^$all
