@@ -2212,6 +2212,7 @@ claim-sae.netlify.app
 claim-sl.netlify.app
 claim-smn.netlify.app
 claim-so.netlify.app
+claim-solana-memecoins.netlify.app
 claim-ss.netlify.app
 claim-st.netlify.app
 claim-stt.netlify.app
