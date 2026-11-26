@@ -95875,6 +95875,7 @@ equalityforallhumans.org
 metamask.erims.org
 esma-eurosec.org
 etcprotocol.org
+etcwallet.org
 eth-dapp-warden.org
 ethcompiler.org
 etherecompile.org
@@ -96097,6 +96098,7 @@ hibtpor.org
 hifibridge.org
 hifiswap.org
 app.hniswap.org
+hodlwallet.org
 app.home-chanlgpt.org
 hoodevent.org
 hoodkus.org
@@ -110839,6 +110841,7 @@ ardboardtrade.xyz
 argusecosystem.xyz
 argusr-proposal.xyz
 argusworlds.xyz
+arkwallet.xyz
 armbar.xyz
 arrowclaim.xyz
 askoro.xyz
