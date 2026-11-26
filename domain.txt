@@ -49276,7 +49276,6 @@ homepages-extensions.wixstudio.com
 homepages-rabbycdn.wixstudio.com
 homerabby-apps.wixstudio.com
 homerebby-page.wixstudio.com
-homes-base-extension.wixstudio.com
 homes-extension-apps.wixstudio.com
 homes-jupiiterr.wixstudio.com
 homes-juupiter.wixstudio.com
