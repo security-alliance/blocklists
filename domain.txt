@@ -75703,7 +75703,6 @@ usefelix.events
 usenest.events
 usepaid.events
 utech.events
-variationals.events
 velodromefi.events
 virtualsprotocol.events
 vote-based.events
