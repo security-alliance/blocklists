@@ -62315,6 +62315,7 @@
 ||5-zipcoin.pages.dev^$all
 ||50-0xfluid.pages.dev^$all
 ||50-allocation-yieldfields.pages.dev^$all
+||50-allocations-flarenetwork.pages.dev^$all
 ||50-allowlist-ascendlaunch.pages.dev^$all
 ||50-app-ethersfi.pages.dev^$all
 ||50-app-treadgov.pages.dev^$all
@@ -112129,7 +112130,6 @@
 ||enter-unit.xyz^$all
 ||enter-unity.xyz^$all
 ||enter-variational.xyz^$all
-||enter-variationals.xyz^$all
 ||enter-wick.xyz^$all
 ||enter-wintermute.xyz^$all
 ||enter-wlfi.xyz^$all
