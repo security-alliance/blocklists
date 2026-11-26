@@ -11994,7 +11994,6 @@ zebec.app
 zebecnetwork.app
 zeeverse.app
 zoom-pro.app
-zoomlnfo.app
 altoqueia.com.ar
 contact-metamask-support.blogspot.com.ar
 metamssklogin.blogspot.com.ar
@@ -18534,7 +18533,6 @@ zoommeetingtexasrealenergy.click
 zoommeettoday.click
 zoomset.click
 zoomtop.click
-zoomus.click
 zorex-bonusvault.click
 zorex-cashreward.click
 3jane.cloud
@@ -21250,7 +21248,6 @@ yoroi-wallet.co
 ypredictrelaunch.co
 zebecfnd.co
 zoom01.co
-zoomclient.co
 zoomhub.co
 zoompath.co
 zoomsaleslink.co
@@ -52565,8 +52562,6 @@ zoomclientsconnect.com
 zoomcloudconnect.com
 zoomcommercelive.com
 zoomcommercesupport.com
-zoomconferenceapp.com
-zoomconfirm.com
 zoomconneting-workspace.com
 zoomcoolus.com
 zoomer391.com
@@ -52652,7 +52647,6 @@ zoonn-81245678912.com
 zoono-app.com
 zooomtalk.com
 zooomtalks.com
-zoorn-live.com
 zoorn-meet.com
 zoorn-private-conference.com
 zoornint.com
@@ -80179,7 +80173,6 @@ testnetecosystemfoundation.my.id
 testnetecosystemsecurity.my.id
 verify35132-email.my.id
 zoom-pr3m1um.my.id
-zoom-prem1um.my.id
 polymarket-id.id
 rainbet.id
 mtsbaitularqom.sch.id
@@ -95103,10 +95096,8 @@ zoom-meeting.online
 zoom-meeting-invite.online
 zoom-meeting62.online
 zoom-meetings.online
-zoom-on.online
 zoom-support.online
 zoom-video.online
-zoom-workplace-websession.online
 zoomcalllink.online
 zoomclone.online
 zoomconection.online
@@ -95115,7 +95106,6 @@ zoomeeting2662.online
 zoomeetingvidees.online
 zoomeetingvideo.online
 zoominginmet.online
-zoomkd.online
 zoomm.online
 zoommarketingcenter.online
 zoommeeting.online
@@ -101765,7 +101755,6 @@ zoom06webin.sbs
 zoomapk.sbs
 zoomarea.sbs
 zoominvite.sbs
-zoomlink.sbs
 zoomsend.sbs
 zooom-meeting.sbs
 coindcx.com.sc
