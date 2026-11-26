@@ -32402,7 +32402,6 @@ support.flare-dapps.com
 flare-ecosystem.com
 flare-enroll.com
 flare-governance.com
-flare-multiplier.com
 flare-staking.com
 flarechainline.com
 flareclaimtoken.com
