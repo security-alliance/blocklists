@@ -35925,6 +35925,7 @@ kraken-ssylka-na-vhod.com
 kraken-update.com
 kraken-verifizierung.com
 pay.kraken-x.com
+kraken00.com
 captcha.kraken2trfqodidvlh4aa337cpzfrhdlfldhve5.com
 captcha.kraken4qzqnoi7ogpzpzwrxk7mw53n5i56loydwiyonu4owxsh4g67yd.com
 kraken66.com
@@ -63508,6 +63509,7 @@ pr-7831.1inch-io-app.pages.dev
 64-vote-netnetcapital.pages.dev
 64-vote-orbio.pages.dev
 64-vote-papertrade.pages.dev
+6417-1c2b-cb-listings.pages.dev
 64f8-482c-coinbase-listing.pages.dev
 65-0xfluid.pages.dev
 65-allocation-argus.pages.dev
