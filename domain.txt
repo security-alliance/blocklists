@@ -17936,7 +17936,7 @@ phantom.installextention.click
 invitation-meeting.click
 invitationmeetings.click
 iscanai.click
-jacumzi.click
+www.jacumzi.click
 join-interview-now-zoomcall.click
 join-meeting-now-zoomcall.click
 joining-now.click
@@ -70985,7 +70985,6 @@ plant-ledger-ax.pages.dev
 plasma-8mk.pages.dev
 plasma-guide-bi9.pages.dev
 plasma-haven-d08.pages.dev
-plasma-haven-d64.pages.dev
 plasma-hold.pages.dev
 plasma-note.pages.dev
 plasma-root.pages.dev
