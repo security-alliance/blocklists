@@ -114994,7 +114994,6 @@ portal-stormrae.xyz
 portal-trade.xyz
 portal-treadfi.xyz
 portal-usepaid.xyz
-portal-variational.xyz
 portal-variationals.xyz
 portal-web3.xyz
 portal-zama.xyz
