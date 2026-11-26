@@ -29139,6 +29139,7 @@ com-gift-cards-sei.com
 com-gift-cards-shib.com
 com-gift-cards-snx.com
 com-gift-cards-sol.com
+bitrefill.com-gift-cards-steth.com
 bitrefill.com-gift-cards-stx.com
 com-gift-cards-sui.com
 com-gift-cards-sushi.com
@@ -64338,6 +64339,7 @@ pr-7831.1inch-io-app.pages.dev
 7c42-4c29-5133-c0inbase-list.pages.dev
 7c94-coinbase-listing-677f.pages.dev
 7cf0-fa8e-5133-c0inbase-list.pages.dev
+7d3b-67ae-colnbase-listings.pages.dev
 7dab-colnbase-listings-4f65.pages.dev
 7de4-482c-coinbase-listing.pages.dev
 7edb-4c29-5133-c0inbase-list.pages.dev
