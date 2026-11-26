@@ -12344,7 +12344,6 @@ maker-app.at
 me-skinport.at
 mgbx-login.at
 mrgamb.at
-my-atomic.at
 my-cakewallet.at
 my-electrum.at
 my-metamask.at
@@ -28119,7 +28118,6 @@ dex-app.co.com
 dexskreener.co.com
 dydx-app.co.com
 dydx-trade.co.com
-electum.co.com
 en-cakewallet.co.com
 en-exodus.co.com
 en-exodus-wallet.co.com
@@ -28138,8 +28136,6 @@ exoduc.co.com
 exoducs.co.com
 exodus-v.co.com
 exodus-w.co.com
-exodus-wa.co.com
-exodus-wal.co.com
 exodus-wallet-eng.co.com
 exoduss.co.com
 faircasino.co.com
@@ -28174,11 +28170,8 @@ ledgerlive-v2.co.com
 ledgerz.co.com
 ledgr.co.com
 leglive.co.com
-leiger.co.com
-lekger.co.com
 lido-fi.co.com
 lido-finance.co.com
-liveledger.co.com
 mercari.co.com
 mr-exodus.co.com
 ms-live.co.com
@@ -28188,7 +28181,6 @@ my-ethena.co.com
 my-ledgerlive.co.com
 my-quickbooks.co.com
 my-rocketpool.co.com
-my-suite.co.com
 my-sushi.co.com
 my-trezorsuite.co.com
 my-trustwallet.co.com
@@ -28198,7 +28190,6 @@ mymonero-web.co.com
 myrnonero.co.com
 navyfederlcu.co.com
 ncbank.co.com
-new-ledger.co.com
 nfcufederal.co.com
 openclow.co.com
 paybis.co.com
@@ -28223,7 +28214,6 @@ royalba.co.com
 s-connect.co.com
 safepal-en.co.com
 safepal-eng.co.com
-safepall.co.com
 sconnect-cmo.co.com
 scotiaconnect-business.co.com
 scotiaconnect-businessdigital.co.com
@@ -28242,7 +28232,6 @@ suite-my.co.com
 suncoastunion.co.com
 supportcbase.co.com
 sushifi.co.com
-t-suite.co.com
 tangem.co.com
 treckexs.co.com
 trezorsuite-v2.co.com
@@ -28254,7 +28243,7 @@ tronact.co.com
 tronlink-apps.co.com
 tronlink-eng.co.com
 tronlink-my.co.com
-tronlnk.co.com
+www.tronlnk.co.com
 troscan.co.com
 trscan.co.com
 trust-my.co.com
@@ -30585,7 +30574,6 @@ deogax.com
 deogox.com
 deojax.com
 dep-vv-bomja.com
-depart-urg.com
 deploy-v3.com
 deployflare.com
 depoplafonmurah.com
@@ -31981,7 +31969,6 @@ explorerservice-aml.com
 expoferianacionaldesalud.com
 exponents-finance.com
 express-coinbase.com
-express-rte.com
 expressfxbank.com
 ext-3f165397-2f183a5a51.com
 extendeddex.com
@@ -33827,7 +33814,6 @@ about-unisw-ap.gr.com
 aboutci-ti.gr.com
 aboutfixedfloat.gr.com
 aerodrome-trade.gr.com
-ai-exodus.gr.com
 app-exodus.gr.com
 arveastb.gr.com
 arvestb.gr.com
@@ -33846,7 +33832,6 @@ change-lly.gr.com
 change-now.gr.com
 changelly.gr.com
 changelly-app.gr.com
-changely.gr.com
 changenow.gr.com
 cn-metamask.gr.com
 cn-trustwallet.gr.com
@@ -33867,7 +33852,6 @@ eglinfederalcu.gr.com
 electrumn.gr.com
 electrym.gr.com
 en-monero.gr.com
-exd.gr.com
 exds.gr.com
 exoduss.gr.com
 exoduswallet.gr.com
@@ -33877,7 +33861,6 @@ guarda.gr.com
 home-raydium.gr.com
 hostaway.gr.com
 hyperl-quid-trade.gr.com
-hyperlipuid.gr.com
 hyperliquid-app.gr.com
 info-changelly.gr.com
 info-stealthex.gr.com
@@ -33887,8 +33870,6 @@ jeton.gr.com
 jup-swap.gr.com
 jupiterdex.gr.com
 apps.krakenapp.gr.com
-ldg.gr.com
-ldg-cn.gr.com
 ldgs.gr.com
 ledg.gr.com
 ledger-cn.gr.com
@@ -33907,8 +33888,6 @@ my-robinhood.gr.com
 ndax.gr.com
 ndax-io.gr.com
 netcoins.gr.com
-new-atomic.gr.com
-new-exodus.gr.com
 new-ledger.gr.com
 new-rabby.gr.com
 ocbcvelocity.gr.com
@@ -33948,7 +33927,7 @@ safepol.gr.com
 satepal.gr.com
 sconnectonline.gr.com
 scotiabusiness.gr.com
-sfp.gr.com
+safepal.sfp.gr.com
 sideshift.gr.com
 simpleswap.gr.com
 siteminder.gr.com
@@ -33960,8 +33939,6 @@ solscan-chain.gr.com
 spark-fai.gr.com
 stake.gr.com
 stargate.gr.com
-start-exodus.gr.com
-suite-trezor.gr.com
 suncoastba.gr.com
 suncoastbank.gr.com
 sushiswap.gr.com
@@ -33972,7 +33949,6 @@ the-aboutexolix.gr.com
 themexc.gr.com
 thepolymarket.gr.com
 therfi-v2-stake.gr.com
-trolink.gr.com
 tron-scan.gr.com
 tronink.gr.com
 tronliio.gr.com
@@ -33982,7 +33958,6 @@ trust-wallet.gr.com
 trustwallet.gr.com
 trustwallet-cn.gr.com
 trustwllt-extension.gr.com
-trz.gr.com
 trzsuite.gr.com
 uniswaps.gr.com
 unswp.gr.com
@@ -33991,8 +33966,6 @@ apps.upholdapps.gr.com
 usbank.gr.com
 vantagecu.gr.com
 velodrome-liquidity.gr.com
-w-exodus.gr.com
-wall-exodus.gr.com
 web-coinbase.gr.com
 xaman.gr.com
 zapper-wallet.gr.com
@@ -34377,7 +34350,6 @@ hesobia.com
 hetonex.com
 heucux.com
 heugox.com
-heure-reprog.com
 heuvux.com
 heuwex.com
 hevitage.com
@@ -95219,9 +95191,7 @@ acssnl.org
 adi-predict-street.org
 adobeclientupdater.org
 advancebitcoin.org
-phantom.ae.org
 suite.ae.org
-wa-exodus.ae.org
 aeroupgrade.org
 aevachain.org
 afipard.org
@@ -104872,7 +104842,6 @@ jaxx-liberty.to
 jaxx-wallet.to
 jup-info.to
 keplr.to
-ledgelive.to
 ledgewallet.to
 leggerr-iive-desktop.to
 letsexchange.to
@@ -104885,7 +104854,6 @@ martianwallet.to
 mixer-coin.to
 mixtum.to
 monerogui.to
-my-exodus.to
 my-wallet.to
 mymonero-web.to
 myrnonero.to
@@ -104934,7 +104902,8 @@ theaboutexolix.to
 themexcgr.to
 trezor.to
 trezorr.to
-trezosuite.to
+app.trezosuite.to
+download.trezosuite.to
 tronlink-en.to
 tronscan-en.to
 trust-support.to

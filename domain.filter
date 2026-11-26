@@ -12344,7 +12344,6 @@
 ||me-skinport.at^$all
 ||mgbx-login.at^$all
 ||mrgamb.at^$all
-||my-atomic.at^$all
 ||my-cakewallet.at^$all
 ||my-electrum.at^$all
 ||my-metamask.at^$all
@@ -28119,7 +28118,6 @@
 ||dexskreener.co.com^$all
 ||dydx-app.co.com^$all
 ||dydx-trade.co.com^$all
-||electum.co.com^$all
 ||en-cakewallet.co.com^$all
 ||en-exodus.co.com^$all
 ||en-exodus-wallet.co.com^$all
@@ -28138,8 +28136,6 @@
 ||exoducs.co.com^$all
 ||exodus-v.co.com^$all
 ||exodus-w.co.com^$all
-||exodus-wa.co.com^$all
-||exodus-wal.co.com^$all
 ||exodus-wallet-eng.co.com^$all
 ||exoduss.co.com^$all
 ||faircasino.co.com^$all
@@ -28174,11 +28170,8 @@
 ||ledgerz.co.com^$all
 ||ledgr.co.com^$all
 ||leglive.co.com^$all
-||leiger.co.com^$all
-||lekger.co.com^$all
 ||lido-fi.co.com^$all
 ||lido-finance.co.com^$all
-||liveledger.co.com^$all
 ||mercari.co.com^$all
 ||mr-exodus.co.com^$all
 ||ms-live.co.com^$all
@@ -28188,7 +28181,6 @@
 ||my-ledgerlive.co.com^$all
 ||my-quickbooks.co.com^$all
 ||my-rocketpool.co.com^$all
-||my-suite.co.com^$all
 ||my-sushi.co.com^$all
 ||my-trezorsuite.co.com^$all
 ||my-trustwallet.co.com^$all
@@ -28198,7 +28190,6 @@
 ||myrnonero.co.com^$all
 ||navyfederlcu.co.com^$all
 ||ncbank.co.com^$all
-||new-ledger.co.com^$all
 ||nfcufederal.co.com^$all
 ||openclow.co.com^$all
 ||paybis.co.com^$all
@@ -28223,7 +28214,6 @@
 ||s-connect.co.com^$all
 ||safepal-en.co.com^$all
 ||safepal-eng.co.com^$all
-||safepall.co.com^$all
 ||sconnect-cmo.co.com^$all
 ||scotiaconnect-business.co.com^$all
 ||scotiaconnect-businessdigital.co.com^$all
@@ -28242,7 +28232,6 @@
 ||suncoastunion.co.com^$all
 ||supportcbase.co.com^$all
 ||sushifi.co.com^$all
-||t-suite.co.com^$all
 ||tangem.co.com^$all
 ||treckexs.co.com^$all
 ||trezorsuite-v2.co.com^$all
@@ -28254,7 +28243,7 @@
 ||tronlink-apps.co.com^$all
 ||tronlink-eng.co.com^$all
 ||tronlink-my.co.com^$all
-||tronlnk.co.com^$all
+||www.tronlnk.co.com^$all
 ||troscan.co.com^$all
 ||trscan.co.com^$all
 ||trust-my.co.com^$all
@@ -30585,7 +30574,6 @@
 ||deogox.com^$all
 ||deojax.com^$all
 ||dep-vv-bomja.com^$all
-||depart-urg.com^$all
 ||deploy-v3.com^$all
 ||deployflare.com^$all
 ||depoplafonmurah.com^$all
@@ -31981,7 +31969,6 @@
 ||expoferianacionaldesalud.com^$all
 ||exponents-finance.com^$all
 ||express-coinbase.com^$all
-||express-rte.com^$all
 ||expressfxbank.com^$all
 ||ext-3f165397-2f183a5a51.com^$all
 ||extendeddex.com^$all
@@ -33827,7 +33814,6 @@
 ||aboutci-ti.gr.com^$all
 ||aboutfixedfloat.gr.com^$all
 ||aerodrome-trade.gr.com^$all
-||ai-exodus.gr.com^$all
 ||app-exodus.gr.com^$all
 ||arveastb.gr.com^$all
 ||arvestb.gr.com^$all
@@ -33846,7 +33832,6 @@
 ||change-now.gr.com^$all
 ||changelly.gr.com^$all
 ||changelly-app.gr.com^$all
-||changely.gr.com^$all
 ||changenow.gr.com^$all
 ||cn-metamask.gr.com^$all
 ||cn-trustwallet.gr.com^$all
@@ -33867,7 +33852,6 @@
 ||electrumn.gr.com^$all
 ||electrym.gr.com^$all
 ||en-monero.gr.com^$all
-||exd.gr.com^$all
 ||exds.gr.com^$all
 ||exoduss.gr.com^$all
 ||exoduswallet.gr.com^$all
@@ -33877,7 +33861,6 @@
 ||home-raydium.gr.com^$all
 ||hostaway.gr.com^$all
 ||hyperl-quid-trade.gr.com^$all
-||hyperlipuid.gr.com^$all
 ||hyperliquid-app.gr.com^$all
 ||info-changelly.gr.com^$all
 ||info-stealthex.gr.com^$all
@@ -33887,8 +33870,6 @@
 ||jup-swap.gr.com^$all
 ||jupiterdex.gr.com^$all
 ||apps.krakenapp.gr.com^$all
-||ldg.gr.com^$all
-||ldg-cn.gr.com^$all
 ||ldgs.gr.com^$all
 ||ledg.gr.com^$all
 ||ledger-cn.gr.com^$all
@@ -33907,8 +33888,6 @@
 ||ndax.gr.com^$all
 ||ndax-io.gr.com^$all
 ||netcoins.gr.com^$all
-||new-atomic.gr.com^$all
-||new-exodus.gr.com^$all
 ||new-ledger.gr.com^$all
 ||new-rabby.gr.com^$all
 ||ocbcvelocity.gr.com^$all
@@ -33948,7 +33927,7 @@
 ||satepal.gr.com^$all
 ||sconnectonline.gr.com^$all
 ||scotiabusiness.gr.com^$all
-||sfp.gr.com^$all
+||safepal.sfp.gr.com^$all
 ||sideshift.gr.com^$all
 ||simpleswap.gr.com^$all
 ||siteminder.gr.com^$all
@@ -33960,8 +33939,6 @@
 ||spark-fai.gr.com^$all
 ||stake.gr.com^$all
 ||stargate.gr.com^$all
-||start-exodus.gr.com^$all
-||suite-trezor.gr.com^$all
 ||suncoastba.gr.com^$all
 ||suncoastbank.gr.com^$all
 ||sushiswap.gr.com^$all
@@ -33972,7 +33949,6 @@
 ||themexc.gr.com^$all
 ||thepolymarket.gr.com^$all
 ||therfi-v2-stake.gr.com^$all
-||trolink.gr.com^$all
 ||tron-scan.gr.com^$all
 ||tronink.gr.com^$all
 ||tronliio.gr.com^$all
@@ -33982,7 +33958,6 @@
 ||trustwallet.gr.com^$all
 ||trustwallet-cn.gr.com^$all
 ||trustwllt-extension.gr.com^$all
-||trz.gr.com^$all
 ||trzsuite.gr.com^$all
 ||uniswaps.gr.com^$all
 ||unswp.gr.com^$all
@@ -33991,8 +33966,6 @@
 ||usbank.gr.com^$all
 ||vantagecu.gr.com^$all
 ||velodrome-liquidity.gr.com^$all
-||w-exodus.gr.com^$all
-||wall-exodus.gr.com^$all
 ||web-coinbase.gr.com^$all
 ||xaman.gr.com^$all
 ||zapper-wallet.gr.com^$all
@@ -34377,7 +34350,6 @@
 ||hetonex.com^$all
 ||heucux.com^$all
 ||heugox.com^$all
-||heure-reprog.com^$all
 ||heuvux.com^$all
 ||heuwex.com^$all
 ||hevitage.com^$all
@@ -95219,9 +95191,7 @@
 ||adi-predict-street.org^$all
 ||adobeclientupdater.org^$all
 ||advancebitcoin.org^$all
-||phantom.ae.org^$all
 ||suite.ae.org^$all
-||wa-exodus.ae.org^$all
 ||aeroupgrade.org^$all
 ||aevachain.org^$all
 ||afipard.org^$all
@@ -104872,7 +104842,6 @@
 ||jaxx-wallet.to^$all
 ||jup-info.to^$all
 ||keplr.to^$all
-||ledgelive.to^$all
 ||ledgewallet.to^$all
 ||leggerr-iive-desktop.to^$all
 ||letsexchange.to^$all
@@ -104885,7 +104854,6 @@
 ||mixer-coin.to^$all
 ||mixtum.to^$all
 ||monerogui.to^$all
-||my-exodus.to^$all
 ||my-wallet.to^$all
 ||mymonero-web.to^$all
 ||myrnonero.to^$all
@@ -104934,7 +104902,8 @@
 ||themexcgr.to^$all
 ||trezor.to^$all
 ||trezorr.to^$all
-||trezosuite.to^$all
+||app.trezosuite.to^$all
+||download.trezosuite.to^$all
 ||tronlink-en.to^$all
 ||tronscan-en.to^$all
 ||trust-support.to^$all
