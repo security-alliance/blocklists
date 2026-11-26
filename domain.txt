@@ -24618,7 +24618,6 @@ allocation-moltbook.com
 allocation-netnetcapital.com
 allocation-netrun.com
 allocation-network.com
-allocation-nex.com
 allocation-overview.com
 allocation-perpl.com
 allocation-phase.com
@@ -78571,7 +78570,6 @@ allocation-ethenaecosystem.icu
 allocation-firelightecosystems.icu
 allocation-fraxfinance.icu
 allocation-hylo.icu
-allocation-hype.icu
 allocation-lighterxyz.icu
 allocation-mantle.icu
 allocation-montramarkets.icu
@@ -80776,7 +80774,6 @@ dmcacheck.info
 dmcaview.info
 dmdotfun.info
 docs-viewmicrosoft.info
-donna-allocation.info
 doppler-finance.info
 dopplerfinance.info
 doublecounler.info
@@ -80999,7 +80996,6 @@ heflin-exchange.info
 hegelive.info
 heilman-exchange.info
 helpdesk-coinbase.info
-herzog-allocation.info
 hoffer-exchange.info
 holcomb-exchange.info
 hole579.info
@@ -81407,7 +81403,6 @@ robinhood-vote.info
 robinhoodfox.info
 rockettmeets.info
 rogers-exchange.info
-rolla-allocation.info
 rpc-dapps.info
 rpc-sync.info
 rtxtoken.info
@@ -81547,7 +81542,6 @@ tge-termmaxfi.info
 thayer-exchange.info
 theswoge.info
 thibault-exchange.info
-tibbs-allocation.info
 tickeryard.info
 tinymanlabs.info
 token-apyx.info
@@ -89480,7 +89474,6 @@ airdrops-xc.lol
 allocate-firelight.lol
 allocates-firelight.lol
 allocation-hylo.lol
-allocation-hype.lol
 allocation-near.lol
 allocation-plasma.lol
 allocations-firelight.lol
