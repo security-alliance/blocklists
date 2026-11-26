@@ -34460,6 +34460,7 @@
 ||host02eu.com^$all
 ||host02us.com^$all
 ||host03eu.com^$all
+||host04es.com^$all
 ||host04eu.com^$all
 ||host04us.com^$all
 ||host05eu.com^$all
@@ -34472,6 +34473,7 @@
 ||host08us.com^$all
 ||host09eu.com^$all
 ||host09us.com^$all
+||host11us.com^$all
 ||host1eu.com^$all
 ||host3eu.com^$all
 ||kaifinance.hostingersite.com^$all
@@ -42828,6 +42830,7 @@
 ||smtpw4.com^$all
 ||smtpwww.com^$all
 ||aj.sn9long.com^$all
+||snairai.com^$all
 ||snapshot-alignedlayer.com^$all
 ||snapshot-desk.com^$all
 ||snapshot-flow.com^$all
@@ -43957,9 +43960,12 @@
 ||teams-video-calls-meetup-scheduled-today.com^$all
 ||teams-windows.com^$all
 ||teams02live.com^$all
+||teams03eu.com^$all
 ||teams04eu.com^$all
 ||teams05live.com^$all
+||teams06eu.com^$all
 ||teams06live.com^$all
+||teams07eu.com^$all
 ||teams07live.com^$all
 ||teams0live.com^$all
 ||teams10web.com^$all
@@ -85090,7 +85096,6 @@
 ||en--us--sso--robinhud--com-cdnn-autth.webflow.io^$all
 ||en--us-sso-robinhud--com---cdnn-autth.webflow.io^$all
 ||en-coinbasepro-auth-cdn.webflow.io^$all
-||en-sso-coinbase-auth-n-auth.webflow.io^$all
 ||en-us-sso----robinhud--com-cdnn-autth.webflow.io^$all
 ||en-us-sso--robinhud--com--cdn-n---autth.webflow.io^$all
 ||eng--river--financial-auth.webflow.io^$all
@@ -96124,6 +96129,7 @@
 ||k3-capital.org^$all
 ||testjupiter.kaiming.org^$all
 ||kaioprotocol.org^$all
+||kakao-chat.org^$all
 ||kalshii.org^$all
 ||kaminochain.org^$all
 ||kastcard.org^$all
@@ -96799,6 +96805,7 @@
 ||saxonia.org^$all
 ||saylor-btc2x.org^$all
 ||sayly.org^$all
+||saylyapp.org^$all
 ||sbimaxbc.org^$all
 ||scan-trustwallet.org^$all
 ||scan-wallet-sg.org^$all
