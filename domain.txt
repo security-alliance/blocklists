@@ -103655,7 +103655,6 @@ vote-doublezero.space
 vote-either.space
 vote-goblin.space
 vote-manifesting.space
-vote-near.space
 vote-riv.space
 vote-worldcup.space
 votes-sanctumso.space
