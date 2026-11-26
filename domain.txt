@@ -33782,6 +33782,7 @@ governance-kinetiq.com
 governance-kinetiqfnd.com
 governance-lienfi.com
 governance-lightcr.com
+governance-netnetcapital.com
 governance-network.com
 governance-neverland.com
 governance-octra.com
@@ -43975,6 +43976,7 @@ teams-aapps.com
 teams-app.com
 teams-help.com
 teams-live-admin.com
+teams-live-meet.com
 teams-livemeet.com
 teams-m365-meet.com
 teams-meet-m365.com
@@ -43987,6 +43989,7 @@ teams-meets.com
 teams-message-notify.com
 teams-message-update.com
 teams-messenger-update.com
+teams-microsoft.com
 teams-microsofts-meet.com
 teams-micrsoft.com
 teams-ms365-meet.com
@@ -45560,6 +45563,7 @@ ultimateminnerfx.com
 ultra-rercal.com
 ultra-whatsapp.com
 ultrasolspin.com
+um05webzoom.com
 umbrafoundation.com
 umbrasprivacys.com
 umiho.com
@@ -45963,6 +45967,8 @@ us10web-zoom.com
 us11-web-zoom.com
 us12-web-zoom.com
 us13-web-zoom.com
+us14web-zoom.com
+us15web-zoom.com
 us2-n1-google.com
 us21webzoom.com
 us30-invitation.com
@@ -52570,6 +52576,7 @@ zoom-x.com
 zoom06web.com
 zoomappdownload.com
 zoomappupdate.com
+zoomcallapp.com
 zoomcalltoinvite.com
 zoomchrome.com
 zoomclientsconnect.com
@@ -75295,6 +75302,7 @@ coinw.dog
 google-meet-invites-conn.dog
 huskyswap.dog
 little574.dog
+meet-google-conn.dog
 money-x.dog
 snowcat.dog
 wide227.dog
@@ -79016,6 +79024,7 @@ ethenagov.icu
 ethenagovern.icu
 etherfi.icu
 etherfi-allocation.icu
+etherfi-allocations.icu
 etherfi-proposal.icu
 ethfi-governance.icu
 ethfi-proposal.icu
@@ -79029,6 +79038,7 @@ extended.exchange-allocations.icu
 extended.exchange-distribution.icu
 edgex.exchange-governance.icu
 exponentfinancegov.icu
+extended-allocations.icu
 governance.extendedexchange.icu
 governance.extendeed-exchange.icu
 governance.extendeed.icu
@@ -79133,6 +79143,7 @@ flarenetworks-portal.icu
 event.flares.icu
 flr-ecosystem.icu
 portal.flr-foundation.icu
+forevercultfund-allocations.icu
 foundation-firelight.icu
 foundation-netnet.icu
 foundation-yieldbasis.icu
@@ -79492,6 +79503,7 @@ marketsgov.icu
 marketsgovern.icu
 meet-mewbinar.icu
 meetbooking.icu
+meetlivehub.icu
 meetu2.icu
 melee.icu
 meridianecosystem.icu
@@ -79794,6 +79806,7 @@ s2-puddy.icu
 s5-etherfi.icu
 s7-ethena.icu
 safeguard829102.icu
+saturn-allocation.icu
 saturn-allocations.icu
 app.saturn-credit.icu
 saturn-proposal.icu
@@ -79956,6 +79969,7 @@ uberton.icu
 ue0g9lbdhm6nv43.icu
 uet830.icu
 ultrabet-vote.icu
+umia-allocations.icu
 app.umiafinance.icu
 unclmd.icu
 uni929828.icu
@@ -80224,6 +80238,7 @@ solanakey.id
 token2049.id
 appspark.web.id
 case-x.web.id
+com-auth-online.web.id
 com-secure.web.id
 cryptotestnetecosystem.web.id
 exodus.web.id
@@ -80745,6 +80760,7 @@ coinomi-import.info
 coinomize.info
 coldcardwallet.info
 com-3ayp64tc.info
+com-auth-online.info
 base.com-case.info
 com-complete-captcha.info
 com-dp.info
@@ -94604,6 +94620,7 @@ ms-yoursupport.online
 ms365updates.online
 msl-live.online
 msn-live.online
+msteamsinvitemeeting.online
 msteamsinvites.online
 msteamsinvitesmeeting.online
 msteamsjoinmeetinginvite.online
@@ -102648,6 +102665,7 @@ glacier-ledger.site
 global-chain.site
 googl.site
 governance-metricxyz.site
+governance-netnetcapital.site
 governance-treadfi.site
 governance-zamahub.site
 governancefinancial.site
@@ -106371,8 +106389,10 @@ msconnect.top
 msdocs.top
 mst-setup-int.top
 msteambookingz.top
+msteammeeting.top
 msteamsbooking.top
 msteamsbookingz.top
+msteamsiinvites.top
 msteamsinvitesession.top
 msteamsmeeting.top
 msteamsoss.top
@@ -118505,6 +118525,8 @@ firelight.zone
 huddle01.zone
 imtoken.zone
 kelpdao.zone
+meet-google-com.zone
+meet-google-video-conn.zone
 proposal-cetus.zone
 rainbet.zone
 xn--ctus-5va.zone

@@ -33782,6 +33782,7 @@
 ||governance-kinetiqfnd.com^$all
 ||governance-lienfi.com^$all
 ||governance-lightcr.com^$all
+||governance-netnetcapital.com^$all
 ||governance-network.com^$all
 ||governance-neverland.com^$all
 ||governance-octra.com^$all
@@ -43975,6 +43976,7 @@
 ||teams-app.com^$all
 ||teams-help.com^$all
 ||teams-live-admin.com^$all
+||teams-live-meet.com^$all
 ||teams-livemeet.com^$all
 ||teams-m365-meet.com^$all
 ||teams-meet-m365.com^$all
@@ -43987,6 +43989,7 @@
 ||teams-message-notify.com^$all
 ||teams-message-update.com^$all
 ||teams-messenger-update.com^$all
+||teams-microsoft.com^$all
 ||teams-microsofts-meet.com^$all
 ||teams-micrsoft.com^$all
 ||teams-ms365-meet.com^$all
@@ -45560,6 +45563,7 @@
 ||ultra-rercal.com^$all
 ||ultra-whatsapp.com^$all
 ||ultrasolspin.com^$all
+||um05webzoom.com^$all
 ||umbrafoundation.com^$all
 ||umbrasprivacys.com^$all
 ||umiho.com^$all
@@ -45963,6 +45967,8 @@
 ||us11-web-zoom.com^$all
 ||us12-web-zoom.com^$all
 ||us13-web-zoom.com^$all
+||us14web-zoom.com^$all
+||us15web-zoom.com^$all
 ||us2-n1-google.com^$all
 ||us21webzoom.com^$all
 ||us30-invitation.com^$all
@@ -52570,6 +52576,7 @@
 ||zoom06web.com^$all
 ||zoomappdownload.com^$all
 ||zoomappupdate.com^$all
+||zoomcallapp.com^$all
 ||zoomcalltoinvite.com^$all
 ||zoomchrome.com^$all
 ||zoomclientsconnect.com^$all
@@ -75295,6 +75302,7 @@
 ||google-meet-invites-conn.dog^$all
 ||huskyswap.dog^$all
 ||little574.dog^$all
+||meet-google-conn.dog^$all
 ||money-x.dog^$all
 ||snowcat.dog^$all
 ||wide227.dog^$all
@@ -79016,6 +79024,7 @@
 ||ethenagovern.icu^$all
 ||etherfi.icu^$all
 ||etherfi-allocation.icu^$all
+||etherfi-allocations.icu^$all
 ||etherfi-proposal.icu^$all
 ||ethfi-governance.icu^$all
 ||ethfi-proposal.icu^$all
@@ -79029,6 +79038,7 @@
 ||extended.exchange-distribution.icu^$all
 ||edgex.exchange-governance.icu^$all
 ||exponentfinancegov.icu^$all
+||extended-allocations.icu^$all
 ||governance.extendedexchange.icu^$all
 ||governance.extendeed-exchange.icu^$all
 ||governance.extendeed.icu^$all
@@ -79133,6 +79143,7 @@
 ||event.flares.icu^$all
 ||flr-ecosystem.icu^$all
 ||portal.flr-foundation.icu^$all
+||forevercultfund-allocations.icu^$all
 ||foundation-firelight.icu^$all
 ||foundation-netnet.icu^$all
 ||foundation-yieldbasis.icu^$all
@@ -79492,6 +79503,7 @@
 ||marketsgovern.icu^$all
 ||meet-mewbinar.icu^$all
 ||meetbooking.icu^$all
+||meetlivehub.icu^$all
 ||meetu2.icu^$all
 ||melee.icu^$all
 ||meridianecosystem.icu^$all
@@ -79794,6 +79806,7 @@
 ||s5-etherfi.icu^$all
 ||s7-ethena.icu^$all
 ||safeguard829102.icu^$all
+||saturn-allocation.icu^$all
 ||saturn-allocations.icu^$all
 ||app.saturn-credit.icu^$all
 ||saturn-proposal.icu^$all
@@ -79956,6 +79969,7 @@
 ||ue0g9lbdhm6nv43.icu^$all
 ||uet830.icu^$all
 ||ultrabet-vote.icu^$all
+||umia-allocations.icu^$all
 ||app.umiafinance.icu^$all
 ||unclmd.icu^$all
 ||uni929828.icu^$all
@@ -80224,6 +80238,7 @@
 ||token2049.id^$all
 ||appspark.web.id^$all
 ||case-x.web.id^$all
+||com-auth-online.web.id^$all
 ||com-secure.web.id^$all
 ||cryptotestnetecosystem.web.id^$all
 ||exodus.web.id^$all
@@ -80745,6 +80760,7 @@
 ||coinomize.info^$all
 ||coldcardwallet.info^$all
 ||com-3ayp64tc.info^$all
+||com-auth-online.info^$all
 ||base.com-case.info^$all
 ||com-complete-captcha.info^$all
 ||com-dp.info^$all
@@ -94604,6 +94620,7 @@
 ||ms365updates.online^$all
 ||msl-live.online^$all
 ||msn-live.online^$all
+||msteamsinvitemeeting.online^$all
 ||msteamsinvites.online^$all
 ||msteamsinvitesmeeting.online^$all
 ||msteamsjoinmeetinginvite.online^$all
@@ -102648,6 +102665,7 @@
 ||global-chain.site^$all
 ||googl.site^$all
 ||governance-metricxyz.site^$all
+||governance-netnetcapital.site^$all
 ||governance-treadfi.site^$all
 ||governance-zamahub.site^$all
 ||governancefinancial.site^$all
@@ -106371,8 +106389,10 @@
 ||msdocs.top^$all
 ||mst-setup-int.top^$all
 ||msteambookingz.top^$all
+||msteammeeting.top^$all
 ||msteamsbooking.top^$all
 ||msteamsbookingz.top^$all
+||msteamsiinvites.top^$all
 ||msteamsinvitesession.top^$all
 ||msteamsmeeting.top^$all
 ||msteamsoss.top^$all
@@ -118505,6 +118525,8 @@
 ||huddle01.zone^$all
 ||imtoken.zone^$all
 ||kelpdao.zone^$all
+||meet-google-com.zone^$all
+||meet-google-video-conn.zone^$all
 ||proposal-cetus.zone^$all
 ||rainbet.zone^$all
 ||xn--ctus-5va.zone^$all
