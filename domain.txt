@@ -111150,7 +111150,6 @@ chainfixexpertsurge.xyz
 chainfixexpertsurges.xyz
 chainlink-allocation-proposal.xyz
 chainlink-enter.xyz
-chainlink-event.xyz
 chainlink-participate.xyz
 chainlink-participation.xyz
 chainlink-proposal.xyz
