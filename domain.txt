@@ -16094,6 +16094,7 @@ webs3coinme.cc
 weexan.cc
 wegefw.cc
 wegewc.cc
+wembmsx.cc
 werdex.cc
 werkmate.cc
 werknest.cc
@@ -17935,7 +17936,7 @@ phantom.installextention.click
 invitation-meeting.click
 invitationmeetings.click
 iscanai.click
-www.jacumzi.click
+jacumzi.click
 join-interview-now-zoomcall.click
 join-meeting-now-zoomcall.click
 joining-now.click
@@ -21036,6 +21037,7 @@ openzeppelin.co
 osejp.co
 p-arbitrum.co
 packscan.co
+panopticpro.co
 parcellq.co
 payboxsh.co
 pciymarket.co
@@ -30115,9 +30117,12 @@ cryptoweb3lvip.com
 cryptoweb3nvip.com
 cryptox-bank.com
 cryptoxom.com
+cryptoxweb.com
 cryptoxweb3.com
 cryptoxweb3e.com
 cryptoxweb3x.com
+cryptoxweber.com
+cryptoxwebs.com
 cryptoyieldnexa.com
 cryptoyieldon.com
 cryptpcard.com
@@ -51823,6 +51828,7 @@ xdao-protocol.com
 xenaps.com
 xender-earn.com
 xenocaptv.com
+xenocryptexchange.com
 xentamin.com
 xeriqascend.com
 xeriqcoascend.com
@@ -81845,6 +81851,7 @@ aavzx.ink
 accountable.ink
 accrs.ink
 acrocol.ink
+aegetproa.ink
 ag-v2.ink
 ag-wc.ink
 ai-portfolio.ink
