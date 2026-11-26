@@ -87547,7 +87547,6 @@ debridgedesktops.live
 debridgemigrate.live
 decatloshop.live
 decatlshop.live
-deepbookonsui.live
 deeplink-ledger.live
 deepsafenetwork.live
 defi-firelightfinances.live
