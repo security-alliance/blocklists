@@ -89432,7 +89432,6 @@ xrp-flarefndn.live
 xrp-flarefoundation.live
 xrp-flarefoundations.live
 xrp-flarenetwork.live
-xrpfi-flarenetwork.live
 xrphrewards.live
 xrpl-access.live
 xrpl-allocation.live
@@ -105029,7 +105028,6 @@ crownroll.today
 cryptomus.today
 eligibility.today
 ethenafiapp-vote.today
-ethers.today
 falconvote-app.today
 hydrex.today
 khelmantra.today
@@ -105063,7 +105061,6 @@ trump-wlfi.today
 turtleyield.today
 voltrix.today
 vote-babylonlabs.today
-vote-flare.today
 voteapp-soneium.today
 xmaquina-vote.today
 metamaskaddon.five88.tokyo
