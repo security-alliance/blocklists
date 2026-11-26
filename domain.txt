@@ -1095,7 +1095,6 @@ uphold-logen.created.app
 uphold-logi-eng.created.app
 uphold-logi-org.created.app
 uphold-login-cdn.created.app
-uphold-login-doc.created.app
 uphold-login-uss.created.app
 uphold-logine.created.app
 uphold-loginese.created.app
