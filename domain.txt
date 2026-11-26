@@ -1027,7 +1027,6 @@ en-started.created.app
 en-upholdcom.created.app
 en-uphuld-sso.created.app
 en-us-upheld.created.app
-en-us-uphold-eng.created.app
 eng-uphulld-webs.created.app
 engdesktop.created.app
 enguphold-cdn.created.app
@@ -1105,7 +1104,6 @@ uphold-wallet-webpage.created.app
 upholddns.created.app
 upholde-logiin.created.app
 upholdloginn.created.app
-upholdorg.created.app
 upholedd-login.created.app
 upholld-login-secure.created.app
 upholld-web-en.created.app

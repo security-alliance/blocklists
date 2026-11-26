@@ -1027,7 +1027,6 @@
 ||en-upholdcom.created.app^$all
 ||en-uphuld-sso.created.app^$all
 ||en-us-upheld.created.app^$all
-||en-us-uphold-eng.created.app^$all
 ||eng-uphulld-webs.created.app^$all
 ||engdesktop.created.app^$all
 ||enguphold-cdn.created.app^$all
@@ -1105,7 +1104,6 @@
 ||upholddns.created.app^$all
 ||upholde-logiin.created.app^$all
 ||upholdloginn.created.app^$all
-||upholdorg.created.app^$all
 ||upholedd-login.created.app^$all
 ||upholld-login-secure.created.app^$all
 ||upholld-web-en.created.app^$all
