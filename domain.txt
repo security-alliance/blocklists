@@ -61919,6 +61919,7 @@ pr-7831.1inch-io-app.pages.dev
 48e2-colnbase-listings-4f65.pages.dev
 49-0xfluid.pages.dev
 49-allocation-yieldfields.pages.dev
+49-allocations-flarenetwork.pages.dev
 49-allowlist-ascendlaunch.pages.dev
 49-app-ethersfi.pages.dev
 49-app-treadgov.pages.dev
@@ -115488,7 +115489,6 @@ register-basedfoundation.xyz
 register-cap.xyz
 register-capapp.xyz
 register-flarenetwork.xyz
-register-flarenetworks.xyz
 register-heisted.xyz
 register-hyperbeat.xyz
 register-infinifi.xyz

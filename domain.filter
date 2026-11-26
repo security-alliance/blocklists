@@ -61919,6 +61919,7 @@
 ||48e2-colnbase-listings-4f65.pages.dev^$all
 ||49-0xfluid.pages.dev^$all
 ||49-allocation-yieldfields.pages.dev^$all
+||49-allocations-flarenetwork.pages.dev^$all
 ||49-allowlist-ascendlaunch.pages.dev^$all
 ||49-app-ethersfi.pages.dev^$all
 ||49-app-treadgov.pages.dev^$all
@@ -115488,7 +115489,6 @@
 ||register-cap.xyz^$all
 ||register-capapp.xyz^$all
 ||register-flarenetwork.xyz^$all
-||register-flarenetworks.xyz^$all
 ||register-heisted.xyz^$all
 ||register-hyperbeat.xyz^$all
 ||register-infinifi.xyz^$all
