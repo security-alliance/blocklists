@@ -59240,6 +59240,7 @@
 ||2a70-4c29-5133-c0inbase-list.pages.dev^$all
 ||2a86-482c-coinbase-listing.pages.dev^$all
 ||2ab1-482c-coinbase-listing.pages.dev^$all
+||2bc0-4c29-5133-c0inbase-list.pages.dev^$all
 ||2c98-4c29-5133-c0inbase-list.pages.dev^$all
 ||2ea5-4c29-5133-c0inbase-list.pages.dev^$all
 ||2f09-fa8e-5133-c0inbase-list.pages.dev^$all
@@ -64873,6 +64874,7 @@
 ||8d70-fa8e-5133-c0inbase-list.pages.dev^$all
 ||8e6e-colnbase-listings-4f65.pages.dev^$all
 ||8eb0-4c29-5133-c0inbase-list.pages.dev^$all
+||8eee-482c-coinbase-listing.pages.dev^$all
 ||8f4b-fa8e-5133-c0inbase-list.pages.dev^$all
 ||8f90-bb50-5133-c0inbase-list.pages.dev^$all
 ||9-0xfluid.pages.dev^$all
@@ -80955,7 +80957,6 @@
 ||flare-genesis.info^$all
 ||flare-institution.info^$all
 ||flare-poll.info^$all
-||flare-vote.info^$all
 ||flarecontributor.info^$all
 ||flaremultiply.info^$all
 ||flarevoting.info^$all
