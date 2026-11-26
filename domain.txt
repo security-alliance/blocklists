@@ -8457,7 +8457,6 @@ solmobile.app
 solomonslab.app
 solroll.app
 solspn.app
-points.solsticesfinance.app
 solstorm.app
 solsw.app
 solweb.app
