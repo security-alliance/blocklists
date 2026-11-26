@@ -72,6 +72,7 @@ https://sites.google.com/view/apps-base-metamsk/home
 https://sites.google.com/view/apps-base-us-en/home
 https://sites.google.com/view/apps-basec/home
 https://sites.google.com/view/apps-basecd/home
+https://sites.google.com/view/apps-coinext-en/home
 https://sites.google.com/view/apps-en-metmssk/home
 https://sites.google.com/view/apps-extion-base/home
 https://sites.google.com/view/apps-extn-base/home
@@ -463,6 +464,7 @@ https://sites.google.com/view/coinbaseloginerrorstroubleshoo/home
 https://sites.google.com/view/coinbaseloginguidelines
 https://sites.google.com/view/coinbasepro--faqs/home
 https://sites.google.com/view/coinbasepro-/home
+https://sites.google.com/view/coinbasepro-connect/home
 https://sites.google.com/view/coinbasepro-crypto/home
 https://sites.google.com/view/coinbasepross/home
 https://sites.google.com/view/coinbaseprro/home
@@ -838,6 +840,7 @@ https://sites.google.com/view/get-extension/home
 https://sites.google.com/view/get-live-coinbase/home
 https://sites.google.com/view/get-metamask-wallet/home
 https://sites.google.com/view/get-metamasksso/home
+https://sites.google.com/view/get-money-out-of-coinbase/home
 https://sites.google.com/view/get-my-money-back-from-coinbas/home
 https://sites.google.com/view/get-new-metamask/home
 https://sites.google.com/view/geting-starte/home
