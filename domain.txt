@@ -11310,7 +11310,6 @@ uniswap-dapp-router-v840.vercel.app
 uniswap-dapp-router-v841.vercel.app
 uniswap-dapp-router-v890.vercel.app
 uniswap-dapp-styled.vercel.app
-uniswap-design.vercel.app
 uniswap-dex-with-moralis.vercel.app
 uniswap-eth-chain-gateaway-v26.vercel.app
 uniswap-eth-chain-gateaway-v48.vercel.app
