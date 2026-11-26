@@ -49702,7 +49702,6 @@ learn-velodrome.wixstudio.com
 learn-web3exduos.wixstudio.com
 learnbase-extensions.wixstudio.com
 learncdn-rabbyapps.wixstudio.com
-learncoinbaseappspro.wixstudio.com
 learnexoduscdn.wixstudio.com
 learnkraknwebcdnio.wixstudio.com
 learnmetamaskcdn.wixstudio.com
