@@ -45019,7 +45019,6 @@
 ||mail.trustbuyboost.com^$all
 ||trustbybit.com^$all
 ||trustcard-application.com^$all
-||trustcard-belarus.com^$all
 ||trustcard-hub.com^$all
 ||trustcard-join.com^$all
 ||trustcard-trustwallet.com^$all
@@ -61966,6 +61965,7 @@
 ||498-reallocate-flare.pages.dev^$all
 ||499-reallocate-flare.pages.dev^$all
 ||49bb-colnbase-listings-4f65.pages.dev^$all
+||4a69-4c29-5133-c0inbase-list.pages.dev^$all
 ||4aea-coinbase-listing-677f.pages.dev^$all
 ||4c4b-67ae-colnbase-listings.pages.dev^$all
 ||4ce5-fa8e-5133-c0inbase-list.pages.dev^$all
@@ -67725,10 +67725,12 @@
 ||f21e-colnbase-listings-4f65.pages.dev^$all
 ||f2da-colnbase-listings-4f65.pages.dev^$all
 ||f2e8-coinbase-listing-677f.pages.dev^$all
+||f372-482c-coinbase-listing.pages.dev^$all
 ||f4d1-116c-5133-c0inbase-list.pages.dev^$all
 ||f4e0-67ae-colnbase-listings.pages.dev^$all
 ||f510-4c29-5133-c0inbase-list.pages.dev^$all
 ||f52f-colnbase-listings-4f65.pages.dev^$all
+||f607-67ae-colnbase-listings.pages.dev^$all
 ||f64a-fa8e-5133-c0inbase-list.pages.dev^$all
 ||f78a-coinbase-listing-677f.pages.dev^$all
 ||f7f4-67ae-colnbase-listings.pages.dev^$all
