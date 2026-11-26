@@ -13132,6 +13132,7 @@
 ||mymonero.biz^$all
 ||olyonedao.biz^$all
 ||pc.omnifxpro.biz^$all
+||claims-zetachains.pages.biz^$all
 ||pancakesvvap.biz^$all
 ||paraswap.biz^$all
 ||peddleaxis.biz^$all
@@ -21041,6 +21042,8 @@
 ||osejp.co^$all
 ||p-arbitrum.co^$all
 ||packscan.co^$all
+||claims-zetachains.pages.co^$all
+||zetachain-bst.pages.co^$all
 ||panopticpro.co^$all
 ||parcellq.co^$all
 ||payboxsh.co^$all
@@ -27946,6 +27949,7 @@
 ||claims-yieldfields.com^$all
 ||claims-zcashstamp.com^$all
 ||claims-zebec.com^$all
+||www.claims-zetachains.com^$all
 ||claimspcxloyalty.com^$all
 ||claimstonkbrokers.com^$all
 ||claimusdc.com^$all
@@ -28636,6 +28640,8 @@
 ||coinhall-dex.com^$all
 ||coinhase.com^$all
 ||coinhubmax.com^$all
+||zetachain-api.coinhunterstr.com^$all
+||zetachain-rpc.coinhunterstr.com^$all
 ||coinkiteadvisory.com^$all
 ||coinledgerpro.com^$all
 ||coinmarkelcap.com^$all
@@ -35833,6 +35839,10 @@
 ||kivo520.com^$all
 ||area.kixyedge.com^$all
 ||kixyplus.com^$all
+||zetachain-testnet.api.kjnodes.com^$all
+||zetachain-testnet.grpc.kjnodes.com^$all
+||zetachain-testnet.jsonrpc.kjnodes.com^$all
+||zetachain-testnet.rpc.kjnodes.com^$all
 ||kkankkaninfo.com^$all
 ||coinbase.klantenhelpdesk.com^$all
 ||kraken.klantenhelpdesk.com^$all
@@ -39087,6 +39097,7 @@
 ||pagcheckout.com^$all
 ||page-turnbul.com^$all
 ||pagecases-x.com^$all
+||zetachain-bst.pages.com^$all
 ||pagi-inv.com^$all
 ||pagoda6.com^$all
 ||pagvoratrade.com^$all
@@ -42948,6 +42959,7 @@
 ||solana-mixer.com^$all
 ||solana-safe-wallet.com^$all
 ||solana-sol-qr-code-generator.com^$all
+||solana-spin.com^$all
 ||solana-stakinmail.com^$all
 ||solanacoininvest.com^$all
 ||solanacoinsupport.com^$all
@@ -46775,6 +46787,7 @@
 ||vote-xamanwallet.com^$all
 ||vote-xmagnetic.com^$all
 ||vote-zama.com^$all
+||vote-zetachain.com^$all
 ||voteapp-aave.com^$all
 ||voteasrtedex.com^$all
 ||votecmcsupport.com^$all
@@ -52477,6 +52490,7 @@
 ||zerofi-bridge.com^$all
 ||zerogas-tronify.com^$all
 ||zesowin.com^$all
+||zeta-cnain.com^$all
 ||zetalab3d.com^$all
 ||zetugamb.com^$all
 ||zeufax.com^$all
@@ -74086,6 +74100,8 @@
 ||zerolend-ddr.pages.dev^$all
 ||zestecosystem.pages.dev^$all
 ||zeta-x.pages.dev^$all
+||zetachain-network-console.pages.dev^$all
+||zetadrops.pages.dev^$all
 ||zhouzhou-ledger-mobile-3544.pages.dev^$all
 ||zhuzhu-ledger.pages.dev^$all
 ||zipcoin.pages.dev^$all
@@ -74961,6 +74977,7 @@
 ||coinbase-bitcoin-com-23459.y61578527.workers.dev^$all
 ||ldnbuiewjdk.zakid5.workers.dev^$all
 ||cbase-rr456.zechariah40.workers.dev^$all
+||zetachan.workers.dev^$all
 ||svc-15cc4e07.zoey-szostak.workers.dev^$all
 ||base.x420.dev^$all
 ||xbeta.dev^$all
@@ -76740,6 +76757,7 @@
 ||yfibalancer.finance^$all
 ||yield-lido.finance^$all
 ||yoroi.finance^$all
+||zetablockchain.finance^$all
 ||icpswap.financial^$all
 ||imtoken.financial^$all
 ||jup.financial^$all
@@ -77355,6 +77373,7 @@
 ||portal.flr-foundation.fun^$all
 ||fomofamily.fun^$all
 ||fomopad.fun^$all
+||fortune-cookie.fun^$all
 ||foundation-firelight.fun^$all
 ||foundation-usepaid.fun^$all
 ||foundry-token.fun^$all
@@ -84236,6 +84255,7 @@
 ||liango.io^$all
 ||lifnity.io^$all
 ||link-metamask.io^$all
+||zetachain-mainnet-cll.public.linkpool.io^$all
 ||metamaskn.liquidation.io^$all
 ||litekeep.io^$all
 ||live-application.io^$all
@@ -91593,6 +91613,9 @@
 ||auto-card.net^$all
 ||autobtcdesk.net^$all
 ||autoguild.net^$all
+||zetachain-mainnet-grpc.autostake.net^$all
+||zetachain-mainnet-lcd.autostake.net^$all
+||zetachain-mainnet-rpc.autostake.net^$all
 ||avatlon.net^$all
 ||axieinfinitycoin.net^$all
 ||axiom-trade.net^$all
@@ -91909,6 +91932,13 @@
 ||cryptoier.net^$all
 ||atomic.cryptolect.net^$all
 ||wallet.cryptolect.net^$all
+||zetachain-test.cryptomanufaktur.net^$all
+||zetachaintest-lb.cryptomanufaktur.net^$all
+||zetachainws-a.cryptomanufaktur.net^$all
+||zetachainws-c.cryptomanufaktur.net^$all
+||zetachainws-lb.cryptomanufaktur.net^$all
+||zetachainws-test.cryptomanufaktur.net^$all
+||zetachainwstest-lb.cryptomanufaktur.net^$all
 ||cryptomixerbtc.net^$all
 ||cryptomuspay.net^$all
 ||cryptoniex.net^$all
@@ -93657,6 +93687,15 @@
 ||zamaprotocol.news^$all
 ||zamas.news^$all
 ||zebec.news^$all
+||agh.zetachain.news^$all
+||dns.zetachain.news^$all
+||dns1.zetachain.news^$all
+||doh.zetachain.news^$all
+||doh1.zetachain.news^$all
+||ns.zetachain.news^$all
+||ns1.zetachain.news^$all
+||resolver.zetachain.news^$all
+||resolver1.zetachain.news^$all
 ||aerodrome.nexus^$all
 ||bcgamenigeria.ng^$all
 ||appnitrosmartverse-click.com.ng^$all
@@ -97494,6 +97533,7 @@
 ||zerionwallet.org^$all
 ||zero-lend-app.org^$all
 ||zerofi-bridge.org^$all
+||zetachainhub.org^$all
 ||zksyncwallet.org^$all
 ||zm-connect.org^$all
 ||zo0om.org^$all
@@ -107753,6 +107793,7 @@
 ||polymarket.biz.ua^$all
 ||mail.teste-uni.biz.ua^$all
 ||kuda-business-banking-app.apkcafe.com.ua^$all
+||snapshot-zetachain.cryptech.com.ua^$all
 ||exxchanger.com.ua^$all
 ||rainbet.com.ua^$all
 ||southoriginals.com.ua^$all
@@ -110281,6 +110322,7 @@
 ||aethir-vote.xyz^$all
 ||aevo-event.xyz^$all
 ||aevoeco.xyz^$all
+||register-zet.afoundation.xyz^$all
 ||aftermathfinance.xyz^$all
 ||jup.ag-bonus.xyz^$all
 ||ag-claims.xyz^$all
@@ -114098,6 +114140,7 @@
 ||mainsol-app.xyz^$all
 ||makedotfun.xyz^$all
 ||makersairdrop.xyz^$all
+||zetachain.manage-claim.xyz^$all
 ||manage-server.xyz^$all
 ||managedevice.xyz^$all
 ||manageserver.xyz^$all
@@ -118433,6 +118476,7 @@
 ||zestprotocol-vote.xyz^$all
 ||zestprotocol-votes.xyz^$all
 ||zestprotocol-voting.xyz^$all
+||zetachainclub.xyz^$all
 ||zigchain-allocation.xyz^$all
 ||zigchain-allocations.xyz^$all
 ||zigchain-distribution.xyz^$all

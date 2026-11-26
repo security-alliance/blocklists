@@ -13132,6 +13132,7 @@ mygiicbaicu.biz
 mymonero.biz
 olyonedao.biz
 pc.omnifxpro.biz
+claims-zetachains.pages.biz
 pancakesvvap.biz
 paraswap.biz
 peddleaxis.biz
@@ -21041,6 +21042,8 @@ openzeppelin.co
 osejp.co
 p-arbitrum.co
 packscan.co
+claims-zetachains.pages.co
+zetachain-bst.pages.co
 panopticpro.co
 parcellq.co
 payboxsh.co
@@ -27946,6 +27949,7 @@ claims-worldofdypians.com
 claims-yieldfields.com
 claims-zcashstamp.com
 claims-zebec.com
+www.claims-zetachains.com
 claimspcxloyalty.com
 claimstonkbrokers.com
 claimusdc.com
@@ -28636,6 +28640,8 @@ coinhakxam.com
 coinhall-dex.com
 coinhase.com
 coinhubmax.com
+zetachain-api.coinhunterstr.com
+zetachain-rpc.coinhunterstr.com
 coinkiteadvisory.com
 coinledgerpro.com
 coinmarkelcap.com
@@ -35833,6 +35839,10 @@ kittyminingfun.com
 kivo520.com
 area.kixyedge.com
 kixyplus.com
+zetachain-testnet.api.kjnodes.com
+zetachain-testnet.grpc.kjnodes.com
+zetachain-testnet.jsonrpc.kjnodes.com
+zetachain-testnet.rpc.kjnodes.com
 kkankkaninfo.com
 coinbase.klantenhelpdesk.com
 kraken.klantenhelpdesk.com
@@ -39087,6 +39097,7 @@ paezax.com
 pagcheckout.com
 page-turnbul.com
 pagecases-x.com
+zetachain-bst.pages.com
 pagi-inv.com
 pagoda6.com
 pagvoratrade.com
@@ -42948,6 +42959,7 @@ solana-migrate.com
 solana-mixer.com
 solana-safe-wallet.com
 solana-sol-qr-code-generator.com
+solana-spin.com
 solana-stakinmail.com
 solanacoininvest.com
 solanacoinsupport.com
@@ -46775,6 +46787,7 @@ vote-xaman.com
 vote-xamanwallet.com
 vote-xmagnetic.com
 vote-zama.com
+vote-zetachain.com
 voteapp-aave.com
 voteasrtedex.com
 votecmcsupport.com
@@ -52477,6 +52490,7 @@ zerodaybnb.com
 zerofi-bridge.com
 zerogas-tronify.com
 zesowin.com
+zeta-cnain.com
 zetalab3d.com
 zetugamb.com
 zeufax.com
@@ -74086,6 +74100,8 @@ zen-ledger-8o0.pages.dev
 zerolend-ddr.pages.dev
 zestecosystem.pages.dev
 zeta-x.pages.dev
+zetachain-network-console.pages.dev
+zetadrops.pages.dev
 zhouzhou-ledger-mobile-3544.pages.dev
 zhuzhu-ledger.pages.dev
 zipcoin.pages.dev
@@ -74961,6 +74977,7 @@ lgrnamss-sound-4ba3.xyz352052.workers.dev
 coinbase-bitcoin-com-23459.y61578527.workers.dev
 ldnbuiewjdk.zakid5.workers.dev
 cbase-rr456.zechariah40.workers.dev
+zetachan.workers.dev
 svc-15cc4e07.zoey-szostak.workers.dev
 base.x420.dev
 xbeta.dev
@@ -76740,6 +76757,7 @@ xumm.finance
 yfibalancer.finance
 yield-lido.finance
 yoroi.finance
+zetablockchain.finance
 icpswap.financial
 imtoken.financial
 jup.financial
@@ -77355,6 +77373,7 @@ flr-ecosystem.fun
 portal.flr-foundation.fun
 fomofamily.fun
 fomopad.fun
+fortune-cookie.fun
 foundation-firelight.fun
 foundation-usepaid.fun
 foundry-token.fun
@@ -84236,6 +84255,7 @@ letzexchange.io
 liango.io
 lifnity.io
 link-metamask.io
+zetachain-mainnet-cll.public.linkpool.io
 metamaskn.liquidation.io
 litekeep.io
 live-application.io
@@ -91593,6 +91613,9 @@ authorize-x.net
 auto-card.net
 autobtcdesk.net
 autoguild.net
+zetachain-mainnet-grpc.autostake.net
+zetachain-mainnet-lcd.autostake.net
+zetachain-mainnet-rpc.autostake.net
 avatlon.net
 axieinfinitycoin.net
 axiom-trade.net
@@ -91909,6 +91932,13 @@ cryptogrand.net
 cryptoier.net
 atomic.cryptolect.net
 wallet.cryptolect.net
+zetachain-test.cryptomanufaktur.net
+zetachaintest-lb.cryptomanufaktur.net
+zetachainws-a.cryptomanufaktur.net
+zetachainws-c.cryptomanufaktur.net
+zetachainws-lb.cryptomanufaktur.net
+zetachainws-test.cryptomanufaktur.net
+zetachainwstest-lb.cryptomanufaktur.net
 cryptomixerbtc.net
 cryptomuspay.net
 cryptoniex.net
@@ -93657,6 +93687,15 @@ zamaevent.news
 zamaprotocol.news
 zamas.news
 zebec.news
+agh.zetachain.news
+dns.zetachain.news
+dns1.zetachain.news
+doh.zetachain.news
+doh1.zetachain.news
+ns.zetachain.news
+ns1.zetachain.news
+resolver.zetachain.news
+resolver1.zetachain.news
 aerodrome.nexus
 bcgamenigeria.ng
 appnitrosmartverse-click.com.ng
@@ -97494,6 +97533,7 @@ zerion-wallt.org
 zerionwallet.org
 zero-lend-app.org
 zerofi-bridge.org
+zetachainhub.org
 zksyncwallet.org
 zm-connect.org
 zo0om.org
@@ -107753,6 +107793,7 @@ winstep.tw
 polymarket.biz.ua
 mail.teste-uni.biz.ua
 kuda-business-banking-app.apkcafe.com.ua
+snapshot-zetachain.cryptech.com.ua
 exxchanger.com.ua
 rainbet.com.ua
 southoriginals.com.ua
@@ -110281,6 +110322,7 @@ aethir-swap.xyz
 aethir-vote.xyz
 aevo-event.xyz
 aevoeco.xyz
+register-zet.afoundation.xyz
 aftermathfinance.xyz
 jup.ag-bonus.xyz
 ag-claims.xyz
@@ -114098,6 +114140,7 @@ mainnet-saga.xyz
 mainsol-app.xyz
 makedotfun.xyz
 makersairdrop.xyz
+zetachain.manage-claim.xyz
 manage-server.xyz
 managedevice.xyz
 manageserver.xyz
@@ -118433,6 +118476,7 @@ zestprotocol-vault.xyz
 zestprotocol-vote.xyz
 zestprotocol-votes.xyz
 zestprotocol-voting.xyz
+zetachainclub.xyz
 zigchain-allocation.xyz
 zigchain-allocations.xyz
 zigchain-distribution.xyz
