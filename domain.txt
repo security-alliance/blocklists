@@ -11674,7 +11674,6 @@ gastoken-refund.web.app
 geminidappchain.web.app
 geometrydash.web.app
 goldfishgold.web.app
-gomining-io.web.app
 gominningminerdev.web.app
 guardianwalletx.web.app
 jupiter-dash.web.app
