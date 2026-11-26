@@ -77262,7 +77262,6 @@ etherbid.fun
 etherspin.fun
 ethwheel.fun
 event-chooserich.fun
-event-degencoin.fun
 event-embercurve.fun
 events-embercurve.fun
 exclusive-drop.fun
