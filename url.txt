@@ -44,6 +44,7 @@ https://sites.google.com/view/access-coinbase-cdn/home
 https://sites.google.com/view/access-exodusapp/home
 https://sites.google.com/view/access-metamsk/home
 https://sites.google.com/view/adds-extensioncom/home
+https://sites.google.com/view/addsextension-en/home
 https://sites.google.com/view/addsmetamask-us/home
 https://sites.google.com/view/addspro-com/home
 https://sites.google.com/view/alkimiexchange-index/live-markets
@@ -108,6 +109,7 @@ https://sites.google.com/view/base-extension-docs/home
 https://sites.google.com/view/base-extension-guide/home
 https://sites.google.com/view/base-extension-hub/home
 https://sites.google.com/view/base-extension-info/home
+https://sites.google.com/view/base-extension-page/home
 https://sites.google.com/view/base-extension-us/home
 https://sites.google.com/view/base-extensionhub/home
 https://sites.google.com/view/base-extensions-/home
@@ -163,6 +165,7 @@ https://sites.google.com/view/browse-metamask-en/home
 https://sites.google.com/view/browse-web-extension/home
 https://sites.google.com/view/browser-apps-base/home
 https://sites.google.com/view/browser-base-apps/home
+https://sites.google.com/view/browser-base-cdn/home
 https://sites.google.com/view/browser-coinbse/home
 https://sites.google.com/view/browser-exo-wallet/home
 https://sites.google.com/view/browser-exodus-web3/home
@@ -191,6 +194,7 @@ https://sites.google.com/view/can-i-dispute-a-coinbase-tra/home
 https://sites.google.com/view/cant-withdraw-from-coinbase/home
 https://sites.google.com/view/cantaccesscoinbasehereshowtofi/home
 https://sites.google.com/view/cantaccessmetamaskrecoverinsta/home
+https://sites.google.com/view/ccoinbase-extension/home
 https://sites.google.com/view/charlesschwabloginsecureaccoun/home
 https://sites.google.com/view/choose-extension/home
 https://sites.google.com/view/chr-extension-/home
@@ -514,6 +518,7 @@ https://sites.google.com/view/coinextension-pro/home
 https://sites.google.com/view/coinextension-us/home
 https://sites.google.com/view/coinextensioon-us/home
 https://sites.google.com/view/coinn-app/home
+https://sites.google.com/view/coinnbase-extension-/home
 https://sites.google.com/view/coinnextension/home
 https://sites.google.com/view/coinprolife/home
 https://sites.google.com/view/coinprosapps-doc/home
@@ -986,6 +991,7 @@ https://sites.google.com/view/koinbase-ext-help/home
 https://sites.google.com/view/koinbase-ext-home/home
 https://sites.google.com/view/koinbase-ext-uss/home
 https://sites.google.com/view/koinbase-ext-web/home
+https://sites.google.com/view/koinbase-ext/home
 https://sites.google.com/view/koinbase-exte/home
 https://sites.google.com/view/koinbase-extens/home
 https://sites.google.com/view/koinbase-extensionn-/home
@@ -1426,6 +1432,7 @@ https://sites.google.com/view/multichainn-web3-/home
 https://sites.google.com/view/my-apps-metamask/home
 https://sites.google.com/view/my-base-extension/home
 https://sites.google.com/view/myrobinhoodapps/home
+https://sites.google.com/view/nav-base-/home
 https://sites.google.com/view/nav-coinbase-web/home
 https://sites.google.com/view/nav-coinspros/home
 https://sites.google.com/view/nav-extension-metamsk/home
@@ -1448,6 +1455,7 @@ https://sites.google.com/view/notabletotransferthefunds/home
 https://sites.google.com/view/nov-bitbuy-apps/home
 https://sites.google.com/view/nov-metamask-web/home
 https://sites.google.com/view/nwehucoinbpro/home
+https://sites.google.com/view/official-base-app/home
 https://sites.google.com/view/official-chrm-ext/home
 https://sites.google.com/view/official-coinbpro/home
 https://sites.google.com/view/official-site-coi/home
