@@ -16208,7 +16208,6 @@ pm.0gfoundation.center
 res.0gfoundation.center
 research.0gfoundation.center
 time.0gfoundation.center
-apyx.center
 bitmain.center
 coinbase-wallet.center
 com-verification.center
@@ -99311,7 +99310,6 @@ wwv-coinbase.pro
 www-portfoilio-coinbvase.pro
 www-trezor.pro
 xdavnode.pro
-xmaquina.pro
 xmeme.pro
 xreign.pro
 xrpbridge.pro
@@ -104985,7 +104983,6 @@ spicenet.today
 trump-official.today
 trump-wlfi.today
 turtleyield.today
-virtuals-spring.today
 voltrix.today
 vote-babylonlabs.today
 vote-flare.today
@@ -110928,7 +110925,6 @@ binance-reward.xyz
 binance-x.xyz
 binancetm.xyz
 bioprotocol-allocation.xyz
-bioprotocol-participation.xyz
 birblabs.xyz
 bit-bitmmarttex.xyz
 bit002.xyz
@@ -114138,7 +114134,6 @@ meridianecosystem.xyz
 merkl-distribution.xyz
 merkl-enter.xyz
 merkl-morpho.xyz
-merkl-participation.xyz
 merkl-register.xyz
 merkl-registration.xyz
 merkl-registrations.xyz
@@ -114480,7 +114475,6 @@ nexus-rewards.xyz
 ngggq.xyz
 nigat99.xyz
 nilesthecroc.xyz
-nillion-event.xyz
 nillion-migration.xyz
 nillion-portal.xyz
 nillion-vote.xyz
@@ -114757,7 +114751,6 @@ participate-flare.xyz
 participate-flarefdn.xyz
 participate-flarefoundation.xyz
 participate-flr.xyz
-participate-merkl.xyz
 participate-ondo.xyz
 participate-papertrade.xyz
 participate-xrpl.xyz
