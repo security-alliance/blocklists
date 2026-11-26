@@ -29097,6 +29097,7 @@
 ||bitrefill.com-gift-cards-enj.com^$all
 ||bitrefill.com-gift-cards-eos.com^$all
 ||com-gift-cards-eth.com^$all
+||bitrefill.com-gift-cards-fdusd.com^$all
 ||com-gift-cards-fil.com^$all
 ||bitrefill.com-gift-cards-flow.com^$all
 ||bitrefill.com-gift-cards-ftm.com^$all
@@ -29121,6 +29122,7 @@
 ||com-gift-cards-op.com^$all
 ||com-gift-cards-pepe.com^$all
 ||bitrefill.com-gift-cards-pol.com^$all
+||bitrefill.com-gift-cards-pyusd.com^$all
 ||com-gift-cards-qnt.com^$all
 ||com-gift-cards-qtum.com^$all
 ||bitrefill.com-gift-cards-rune.com^$all
@@ -117541,7 +117543,6 @@
 ||variational-perps.xyz^$all
 ||variational-proposal.xyz^$all
 ||variational-rewards-proposal.xyz^$all
-||variational-season.xyz^$all
 ||variational-tge.xyz^$all
 ||variational-vote.xyz^$all
 ||variationala.xyz^$all
