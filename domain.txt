@@ -11694,6 +11694,7 @@ lobstrdex.web.app
 lobstrsite.web.app
 m-arcus.web.app
 midnightnetwork.web.app
+mini-doge.web.app
 monad-gov.web.app
 mooglabs.web.app
 multiprochains.web.app
@@ -92949,7 +92950,6 @@ suilend.net
 suiswap.net
 suite-en.net
 suite-trezor.net
-suiwallet.net
 summer-fi.net
 sundaedao.net
 supefrorm.net
@@ -110369,7 +110369,6 @@ aiw3-rewards.xyz
 ajc888.xyz
 alchemix-airdrop.xyz
 alchemixfi-allocation.xyz
-aleochains.xyz
 algnedlayer.xyz
 mint.alienscryptoclan.xyz
 aligned-rewards.xyz

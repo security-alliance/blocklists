@@ -11694,6 +11694,7 @@
 ||lobstrsite.web.app^$all
 ||m-arcus.web.app^$all
 ||midnightnetwork.web.app^$all
+||mini-doge.web.app^$all
 ||monad-gov.web.app^$all
 ||mooglabs.web.app^$all
 ||multiprochains.web.app^$all
@@ -92949,7 +92950,6 @@
 ||suiswap.net^$all
 ||suite-en.net^$all
 ||suite-trezor.net^$all
-||suiwallet.net^$all
 ||summer-fi.net^$all
 ||sundaedao.net^$all
 ||supefrorm.net^$all
@@ -110369,7 +110369,6 @@
 ||ajc888.xyz^$all
 ||alchemix-airdrop.xyz^$all
 ||alchemixfi-allocation.xyz^$all
-||aleochains.xyz^$all
 ||algnedlayer.xyz^$all
 ||mint.alienscryptoclan.xyz^$all
 ||aligned-rewards.xyz^$all
