@@ -104969,7 +104969,6 @@
 ||outcomes-prjx.today^$all
 ||plume.today^$all
 ||poseidonpatents.today^$all
-||prjx.today^$all
 ||rainbet.today^$all
 ||raydium.today^$all
 ||redstonefi.today^$all
@@ -110435,7 +110434,6 @@
 ||allocation-yieldbasis.xyz^$all
 ||allocation-zama.xyz^$all
 ||allocation-zest.xyz^$all
-||allocation-zigchain.xyz^$all
 ||allocationhyperfoundation.xyz^$all
 ||allocationotc.xyz^$all
 ||allocations-3jane.xyz^$all
@@ -110445,7 +110443,6 @@
 ||allocations-asterdex.xyz^$all
 ||allocations-axisrobotics.xyz^$all
 ||allocations-basedfoundation.xyz^$all
-||allocations-billions.xyz^$all
 ||allocations-bioprotocol.xyz^$all
 ||allocations-bobo.xyz^$all
 ||allocations-check.xyz^$all
@@ -110479,7 +110476,6 @@
 ||allocations-morpho.xyz^$all
 ||allocations-near.xyz^$all
 ||allocations-netnet.xyz^$all
-||allocations-ondofinance.xyz^$all
 ||allocations-ore.xyz^$all
 ||allocations-otc.xyz^$all
 ||allocations-pacifica.xyz^$all
@@ -110488,10 +110484,8 @@
 ||allocations-plasma.xyz^$all
 ||allocations-ponsfamily.xyz^$all
 ||allocations-pumpbtc.xyz^$all
-||allocations-quickswap.xyz^$all
 ||allocations-raacfi.xyz^$all
 ||allocations-s5-ethfi.xyz^$all
-||allocations-sentora.xyz^$all
 ||allocations-solsticefinance.xyz^$all
 ||allocations-stable.xyz^$all
 ||allocations-standardreserve.xyz^$all
@@ -111201,7 +111195,6 @@
 ||api.citreax.xyz^$all
 ||city-protocol.xyz^$all
 ||claiimrewards.xyz^$all
-||claim-aethir.xyz^$all
 ||claim-aligned.xyz^$all
 ||claim-alignedlayer.xyz^$all
 ||claim-ansem.xyz^$all
@@ -111261,7 +111254,6 @@
 ||claim-ore.xyz^$all
 ||claim-otc.xyz^$all
 ||claim-papertrade.xyz^$all
-||claim-plumenetwork.xyz^$all
 ||claim-ponke.xyz^$all
 ||claim-popdex.xyz^$all
 ||firelight.claim-portal.xyz^$all
@@ -112145,7 +112137,6 @@
 ||etherfi-proposal.xyz^$all
 ||etherfi-reallocation.xyz^$all
 ||etherfi-registration.xyz^$all
-||etherfi-s5-allocations.xyz^$all
 ||etherfi-s5-distribution.xyz^$all
 ||etherfi-s5-vote.xyz^$all
 ||etherfi-season-5-allocations.xyz^$all
@@ -113516,7 +113507,6 @@
 ||injective-claim.xyz^$all
 ||injective-distribution.xyz^$all
 ||injective-drops.xyz^$all
-||injective-event.xyz^$all
 ||injective-fnd.xyz^$all
 ||injective-foundation.xyz^$all
 ||injective-governance.xyz^$all
@@ -114143,7 +114133,6 @@
 ||mercortalents.xyz^$all
 ||meridian-register.xyz^$all
 ||meridianecosystem.xyz^$all
-||merkl-distirbution.xyz^$all
 ||merkl-distribution.xyz^$all
 ||merkl-enter.xyz^$all
 ||merkl-morpho.xyz^$all
@@ -114366,7 +114355,6 @@
 ||nado-xyz.xyz^$all
 ||nadso.xyz^$all
 ||nafdo.xyz^$all
-||nanovitalabs-claims.xyz^$all
 ||nasdo.xyz^$all
 ||firelight.navhq.xyz^$all
 ||nbado.xyz^$all
@@ -115648,7 +115636,6 @@
 ||rewards-asterdex.xyz^$all
 ||rewards-avax.xyz^$all
 ||rewards-axisrobotics.xyz^$all
-||rewards-bio.xyz^$all
 ||rewards-concrete.xyz^$all
 ||rewards-degen.xyz^$all
 ||rewards-deltaliquidity.xyz^$all
@@ -116768,7 +116755,6 @@
 ||statushyperfoundation.xyz^$all
 ||stcnkfun.xyz^$all
 ||steak-struggle-topple.xyz^$all
-||steakhouse-claims.xyz^$all
 ||steakhouse-distribution.xyz^$all
 ||steakhousefi-vote.xyz^$all
 ||stellar-proposal.xyz^$all
@@ -116887,7 +116873,6 @@
 ||storxnetwork.xyz^$all
 ||stotic.xyz^$all
 ||stpnkfun.xyz^$all
-||strata-allocations.xyz^$all
 ||stratamarkets-voting.xyz^$all
 ||strato-nexus.xyz^$all
 ||stream-pumpfun.xyz^$all
@@ -118195,7 +118180,6 @@
 ||argus.world-proposal.xyz^$all
 ||world-robinhood.xyz^$all
 ||world-sol.xyz^$all
-||worldcup-coins.xyz^$all
 ||worldcup-reward.xyz^$all
 ||worldieworld-allocation.xyz^$all
 ||worldieworld-dashboard.xyz^$all
