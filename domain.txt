@@ -674,6 +674,7 @@ airdrop-xarnan.app
 airdropfree.app
 airdrops-xaman.app
 airgas.app
+aiwax.app
 alert-metamask.app
 allocation-deltaliquidity.app
 allocation-desk.app
@@ -41368,6 +41369,7 @@ redotpaykorea.com
 redowin.com
 redtopay.com
 reef-rewards.com
+reellisto.com
 reenisinteriors.com
 ref-83861-coinbase.com
 robinhood.ref-info-acc.com
@@ -90087,6 +90089,7 @@ trust-card-company.ltd
 trust-wallet.ltd
 trustplustrading.ltd
 trustwallet-card.ltd
+typed.ltd
 unipeg.ltd
 valtrixmarkets.ltd
 virtuals-spint.ltd
@@ -92448,6 +92451,7 @@ moonshotvoting.net
 mophro.net
 app.morphovault.net
 ms365-cloud.net
+mubuai.net
 multiplifoundation.net
 musk-capital.net
 my-ledger.net
