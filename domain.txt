@@ -709,7 +709,6 @@ allocations-usepaid.app
 allocations-xaman.app
 allocationxrp.app
 allocationxrpl.app
-almeet.app
 alpha-sense.app
 alphafaq.app
 alphasense.app
@@ -14082,7 +14081,6 @@ web3markets.buzz
 web3savingsplan.buzz
 yomix.buzz
 zhp.buzz
-zoomhub.buzz
 kraken.1703.by
 kraken.anba.by
 coinbase.by
@@ -14146,7 +14144,6 @@ letstalkaboutmoney.ca
 loblawjobs.ca
 loblaws-ca.ca
 mimke0gnadho3wrmimke0gnadho3wr.fvk.localsconnect.ca
-meet-live.ca
 metawincasino.ca
 moon-win.ca
 nickoda.ca
@@ -16217,7 +16214,6 @@ kraken.ceo
 money-x.ceo
 rainbet.ceo
 solbullrun.ceo
-zoom.ceo
 addephosigli.cf
 angercraft.cf
 teopickter.cf
@@ -17298,7 +17294,6 @@ zipcoinfnd.cfd
 zipcoins.cfd
 zitouna-bonus.cfd
 zk-synk.cfd
-zoom-auth.cfd
 zoomfilingscom.cfd
 zoommdownioad.cfd
 zoomsystems.cfd
@@ -20971,7 +20966,6 @@ meet-live-videoscall.co
 meetteam.co
 meetteamshq.co
 meetteamsnow.co
-meetusapaymentsync.co
 mefaichain.co
 megaethchain.co
 melaniatrump.co
@@ -20981,7 +20975,6 @@ metamask-security.co
 metamaskwallet.co
 metawin.co
 mexcproe.co
-microsaft.co
 microsoft-notification.co
 microsoft-services.co
 microsofteams.co
@@ -21193,7 +21186,6 @@ usdt-wallet.co
 usdt0.co
 uszoom008.co
 uszoom009.co
-uz08zoompwdinvite.co
 v2-orca.co
 app.v3pro.co
 app-varational.v3pro.co
@@ -24422,7 +24414,6 @@ haus.ahmetcihangul.com
 ahproedge.com
 ahvids.com
 ai-analysis-exchange.com
-ai-anonymousmeetings.com
 pc.ai-infras.com
 ai-iscan.com
 ai-polymarket.com
@@ -37393,9 +37384,7 @@ microsoft-onmicrosoft.com
 microsoft-raise.com
 microsoft-recovery.com
 microsoft-refund.com
-microsoft-revive-account.com
 microsoft-security-update.com
-microsoft-sms-group.com
 microsoft-teans.com
 microsoft-tems.com
 microsoft03.com
@@ -37422,13 +37411,11 @@ microsoftoffice-365auth.com
 microsoftoffice365login.com
 microsoftonlimes.com
 microsoftonline-ms.com
-microsoftonlinenow.com
 microsoftproteams.com
 microsoftsupportonlinecom.com
 microsoftt-security.com
 microsoftteamlive.com
 microsoftteammz.com
-microsoftteams-101.com
 microsoftteamschat.com
 microsoftteamscli.com
 microsoftteamsonline.com
@@ -43932,7 +43919,6 @@ team-meets.com
 team0meet.com
 teamainnnet.com
 teamattveriflfy.com
-teamcrosstimbers.com
 teamglobalmarketing.com
 teamisphere.com
 teammeetinglive.com
@@ -46083,7 +46069,6 @@ usweb03.com
 usweb20zoom.com
 uswebex.com
 uswebzoom.com
-usx07-zoom.com
 uszoom0043553candidate0fd06575id.com
 utmost-tradinglive.com
 utopialaundromatusa.com
@@ -46455,7 +46440,6 @@ verification-coinbase.com
 verification-fidelity.com
 verification-gemini.com
 verification-help.com
-verification-microsoft.com
 verification-ostium.com
 verification-process.com
 verification-recharge.com
@@ -47313,7 +47297,6 @@ webdcentjpp.com
 webdcentkr.com
 www-web.wallet.us-metamask.app.webdlink.com
 ibm.webefex.com
-webex-us2.com
 webex-usa.com
 webexconferencemeeting.com
 webexmeets.com
@@ -52575,7 +52558,6 @@ zoominfo-profile-notices.com
 zoominfo-profile-update-request.com
 zoominfo-profile-updates.com
 zoominfoconnect.com
-zoominfopayments.com
 zoominfosecuritiessettlement.com
 zoominterviewmeeting3.com
 zoomjoinlive.com
@@ -81150,7 +81132,6 @@ io-backup.info
 io-protected.info
 io-starts.info
 islanddao.info
-itprocurementsummitmeet.info
 jarman-exchange.info
 jarrell-exchange.info
 jarrett-exchange.info
@@ -81640,7 +81621,6 @@ t-rize.info
 tate-globalin.info
 teamcoinbasesupport.info
 teammeeting-hub.info
-teampuremeetings.info
 teamsdgconect.info
 teamsinvite.info
 telcoin-proposal.info
@@ -86782,7 +86762,6 @@ zebecnetwork.lat
 zestecosystem.lat
 zipcoin.lat
 zjjzjzjzjzj1.lat
-zoomhub.lat
 zyn.lat
 newyorkstate.lawyer
 bc-game.lc
@@ -89237,7 +89216,6 @@ us06.live
 us06cloud.live
 us12room.live
 us2-zoom.live
-us54webzoom.live
 usdplus.live
 usdtconnect.live
 usersso-ledger.live
@@ -92449,7 +92427,6 @@ maplefinance.net
 marinade-finance.net
 meet06us.net
 meet9.net
-meetcalling.net
 meetverify.net
 melania-meme.net
 melaniatrumpxxx.net
@@ -97030,7 +97007,6 @@ teams-meet.org
 tearns-invite.org
 teconleal.org
 tectonic-finance.org
-telemicroscopy.org
 templewallet.org
 tensor-trade.org
 termmax.org
@@ -99538,7 +99514,6 @@ votrs-notesecure.quest
 www-solstice.quest
 zebec.quest
 zoinbase.quest
-zoom-auth.quest
 trustwallet.re
 money-x.red
 morpho.rent
@@ -102383,7 +102358,6 @@ zamahq.shop
 zesty-rjwin.shop
 zfghrew10.shop
 zk-airdrop.shop
-zoomhub.shop
 zoommeeting.shop
 zunmcp.shop
 pika.show
@@ -103283,7 +103257,6 @@ teams-meet.site
 teams-meetings-join.site
 teamslink.site
 teamsmeetingjoinlink.site
-teamsmeetingstirqls.site
 tectonic-app.site
 tectonic-finance.site
 governance.telcoin.site
@@ -103605,7 +103578,6 @@ grandwolinak.space
 groundvy.space
 hoodmeme.space
 interests-yieldbasis.space
-invest-coinzoom.space
 io-sit.space
 drop.joinincentivesclub.space
 justbuy1dollarworth.joinincentivesclub.space
@@ -103743,7 +103715,6 @@ xoin.space
 xstocks.space
 yield-rqsq.space
 yieldbasis.space
-zoomhub.space
 zoomtalk.space
 zoomworkspacenow.space
 appkit.hubby.spot
@@ -103989,7 +103960,6 @@ xummdesktop.store
 governance.yieldbasis.store
 zenzyvera.store
 zoomappupdate.store
-zoomhub.store
 zoomiepal.store
 zoomiezones.store
 zoomsmotor.store
@@ -104554,7 +104524,6 @@ morpho.team
 mpchat.team
 mrxc.team
 ms-team-meetings.team
-ms-teaminvite.team
 mvqc.team
 mz6k.team
 n3wb.team
@@ -106383,11 +106352,9 @@ microsoftsystemserver.top
 microsoftteaminvites.top
 microsoftteams.top
 microsoftteeam.top
-microsofttinvites.top
 microsoftup.top
 microsofvisualstudioupdate.top
 microssofteam.top
-microssoftinvites.top
 microsteams.top
 microstgoffces.top
 midnight-pd.top
@@ -109673,7 +109640,6 @@ voteshot.website
 wc2026teams.website
 zestprotocol.website
 zoom-meeting.website
-zoomhub.website
 phantom.wf
 1inch-orguudes.wiki
 1wintoken.wiki
