@@ -36066,7 +36066,6 @@ kyrbet.com
 kyrowin.com
 kyxowin.com
 kzxfun.com
-coinbase.l-investing.com
 l-learn.com
 l-leger.com
 l-trezorsuite.com
@@ -74908,7 +74907,6 @@ polymarket.tokenbonus.workers.dev
 trezor.workers.dev
 trust.trustspend.workers.dev
 uniswap911.workers.dev
-coinbase-bitcoin-com-01853.uqac10.workers.dev
 landing.uyyiyyiuuiiuu.workers.dev
 gentle-bush-fdcb.vcxsd.workers.dev
 eu.vote-thheindex.workers.dev
