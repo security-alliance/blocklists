@@ -23588,7 +23588,6 @@ whm.www.837492-coinbase.com
 842601-crypto.com
 842603-crypto.com
 842832coinbase.com
-842894coinbase.com
 842943coinbase.com
 8430-cf.com
 843013-ledger.com
@@ -91128,7 +91127,6 @@ app-uniswap.net
 app-verify.net
 app-xaman.net
 appbrave.net
-coinbase.appliedconnexion.net
 appsafe-coin.net
 appvidmate.net
 apsidki.net
