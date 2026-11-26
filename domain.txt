@@ -50868,7 +50868,6 @@ suitesso-trezro.wixstudio.com
 suitesso-trzapps.wixstudio.com
 suitsapp-trexeoor.wixstudio.com
 suport-krraken.wixstudio.com
-support-basepro-eng.wixstudio.com
 support-basepros.wixstudio.com
 support-chromexten.wixstudio.com
 support-eternlcdn.wixstudio.com
@@ -84152,7 +84151,6 @@ jaxwallet.io
 jaxxlibertywallet.io
 jumperbridge.io
 jup-rewards.io
-jupcitizens.io
 k-lite.io
 kakaochat.io
 kaspawallet.io
