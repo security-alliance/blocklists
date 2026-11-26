@@ -44716,6 +44716,7 @@ trdmaxmarkets.com
 treas-spx-6900.com
 treasuregrowthplus.com
 treasury-arcium.com
+treasury-avantisfi.com
 treasury-casino-brisbane.com
 treasury-claimsportal.com
 treasury-crypto.com
@@ -67118,6 +67119,7 @@ echo-cez.pages.dev
 echo-client-dashboard.pages.dev
 echo-dapp-crypto-big.pages.dev
 echo-dashboard-bbb.pages.dev
+eco-veranta-hub2.pages.dev
 ecosystem-argus.pages.dev
 ed62-ac7c-colnbase-listings.pages.dev
 ed73-coinbase-listing-677f.pages.dev
@@ -73427,6 +73429,7 @@ venice-menswear-store.pages.dev
 venice-port-complex-dev.pages.dev
 venice-staking.pages.dev
 veranta-eco22.pages.dev
+veranta-ecohub66.pages.dev
 veranta-vote-app3.pages.dev
 verify-base-x.pages.dev
 verify-coinbasehelp-learn.pages.dev
@@ -95371,6 +95374,7 @@ auth-server-cen1tk-service-portal.org
 auth-server-online-gov-service-portal.org
 auth-service-online-server-gov-portal.org
 availakel.org
+avantis-fi.org
 avantisfi.org
 avee-staking.org
 awake-origindefi.org
