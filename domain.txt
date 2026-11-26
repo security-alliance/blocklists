@@ -7891,7 +7891,6 @@ superb-stardust-0e98d1.netlify.app
 support-colnbase.netlify.app
 supportbasedleaderboard.netlify.app
 tangerine-moxie-0b261b.netlify.app
-tcswap.netlify.app
 templewallet-googleauth-nextjs.netlify.app
 tensor-nft.netlify.app
 timely-otter-7eb194.netlify.app
