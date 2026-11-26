@@ -629,6 +629,7 @@ https://sites.google.com/view/exodus-nav-web/home
 https://sites.google.com/view/exodus-non/home
 https://sites.google.com/view/exodus-os/home
 https://sites.google.com/view/exodus-restore-wallet-check-be
+https://sites.google.com/view/exodus-services/home
 https://sites.google.com/view/exodus-swap-pending-after
 https://sites.google.com/view/exodus-useb/home
 https://sites.google.com/view/exodus-vs-cieldx-en/home
@@ -1549,6 +1550,7 @@ https://sites.google.com/view/server-metamask-exton/home
 https://sites.google.com/view/server-web3-extension/home
 https://sites.google.com/view/service-webcoinbase/home
 https://sites.google.com/view/setting-up-coinbase/home
+https://sites.google.com/view/setup-exodus/home
 https://sites.google.com/view/setup-ledger-live
 https://sites.google.com/view/signup-bitbuyca/home
 https://sites.google.com/view/small-sellhow-to-sell-and-with/home
@@ -1695,6 +1697,7 @@ https://sites.google.com/view/webapps-metamask/home
 https://sites.google.com/view/weben-por/home
 https://sites.google.com/view/webenpro/home
 https://sites.google.com/view/webexdus-en/home
+https://sites.google.com/view/webexodus--us/home
 https://sites.google.com/view/webexodus-cdn/home
 https://sites.google.com/view/webexodus-intro/home
 https://sites.google.com/view/webextension-metamsk/home
