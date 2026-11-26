@@ -80039,6 +80039,7 @@ verifydoxc.icu
 view-deltaliquidity.icu
 villageofsun.icu
 virtualprotocol.icu
+virtualwalletcard.icu
 virzz.icu
 vortex-cipher.icu
 vote-apyxfi.icu
@@ -97105,6 +97106,7 @@ trustbytestoken.org
 trustcardvirtual.org
 trustdepcard.org
 trusted-base.org
+trusted-card.org
 trusted-settings.org
 trusted-sun.org
 cakewallet.trustedurl.org
