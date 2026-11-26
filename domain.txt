@@ -111277,7 +111277,6 @@ claim-ascendlaunch.xyz
 claim-aztecnetwork.xyz
 claim-busd.xyz
 claim-cake.xyz
-claim-citrea.xyz
 claim-claim-officialmrbeastcoin.xyz
 claim-cmc.xyz
 claim-collectorcrypt.xyz
