@@ -12328,10 +12328,8 @@ hyperliqvid.at
 hyprliquid.at
 igxe.at
 imtoken-app.at
-io-app-user.at
 io-atomicwallet.at
 io-changenow.at
-shib.io-dao.at
 io-earn.at
 io-simpleswap.at
 io-trezor.at
@@ -12359,7 +12357,6 @@ my-tronlink.at
 my-xaman.at
 myrnonero.at
 navyfederal-us.at
-network-main.at
 new-rabby.at
 new-tronlink.at
 nordpas.at
@@ -13129,7 +13126,6 @@ ledger-wallet.biz
 listadao.biz
 liveman.biz
 lucky-block-casino.biz
-lunacaz.biz
 lvvas.biz
 majorvest.biz
 mcom-express.biz
@@ -20530,7 +20526,6 @@ token-imwallet.org.cn
 tokenim.org.cn
 tp-wallets.org.cn
 tpwallets.org.cn
-trezor.org.cn
 tronlink-web3.org.cn
 tronlinkwallet.org.cn
 uniswapguanwgappxiazai6e.org.cn
@@ -22649,7 +22644,6 @@ client.475238-cb.com
 485923-coinspot.com
 486209-crypto.com
 487135-celsius.com
-488253-ledger.com
 489284coinbase.com
 489284robinhood.com
 489384coinbase.com
@@ -22718,7 +22712,6 @@ client.475238-cb.com
 505467coinbase.com
 506494-kraken.com
 506945-kraken.com
-50798-gmail.com
 508776-crypto.com
 509yahoo.com
 5102671-apple.com
@@ -23403,7 +23396,6 @@ client.758340-cb.com
 793242-test.com
 79351-ledger.com
 793526-google.com
-793526-ledger.com
 794018-crypto.com
 794231kraken.com
 796785coinbase.com
@@ -36023,7 +36015,6 @@ krakotcwithdrawals.com
 krakstake.com
 kraven-ex.com
 kredyt-gdansk.com
-krgamb.com
 kriodep.com
 krispykreme-giftcards.com
 krk-key.com
@@ -37125,7 +37116,6 @@ mega-usdm.com
 megabet-stake.com
 megabonanza-us.com
 megaeth-secure.com
-megaeth-terminal.com
 megagrowthtrade.com
 megamedusacasino-nodeposit-bonus.com
 meganbhatia.com
@@ -39632,7 +39622,6 @@ plinko-rainbet.com
 plinko-rainbets.com
 plinkorainbet.com
 pll356.com
-plogamb.com
 plotygamb.com
 ploymarket.com
 plug-latchpay.com
@@ -45367,7 +45356,6 @@ ttonkeeper.com
 ttsseed.com
 tttdss.com
 tu-jugada.com
-tuabax.com
 tuapux.com
 tucanbitcasino.com
 tucupoya.com
@@ -47100,7 +47088,6 @@ warrantytrustwallet.com
 wartgamb.com
 wasabi-manual.com
 wasabiwallt.com
-wasgamb.com
 wasobin.com
 watch-article.com
 waterbury-coinbase.com
@@ -76711,7 +76698,6 @@ xarnan.finance
 xdp-doppler.finance
 xmrwallet.finance
 xn--revert-mwa.finance
-xn--symbosis-f2a.finance
 xrhea.finance
 xumm.finance
 yfibalancer.finance
@@ -77504,12 +77490,10 @@ mini-yieldfields.fun
 minkonchain.fun
 mint-yieldfields.fun
 mints-yieldfields.fun
-missedprofit.fun
 mixero.fun
 mixoor.fun
 mixtum.fun
 mkjys2.fun
-moneybacks-pump.fun
 moneyglitch.fun
 moonnshot.fun
 moonshot-polls.fun
@@ -81003,7 +80987,6 @@ fxrp-distribution.info
 fxrp-firelight.info
 g176544.info
 g2gno1-bet.info
-gasmine.info
 gem-crossmark-rlusd.info
 gembtc.info
 gemwallet-crossmark-rlusd.info
@@ -86102,8 +86085,6 @@ tradenovantepro.it
 trustwallet-card.it
 sessions.baseapp.qa246.ubware.it
 utorrent.it
-kraken.je
-okx.je
 phantom.je
 app-bitbuy-ca.site.je
 consqur-app.site.je
@@ -88540,7 +88521,6 @@ pendle.live
 pentatradesphere.live
 pepenow.live
 pepetochain.live
-peptai.live
 pepulaunch.live
 pepurelaunch.live
 phantomcard.live
@@ -93798,7 +93778,6 @@ trust-wallet.observer
 5asdnj.one
 6qhicc.one
 8688.one
-allocated.one
 anonymixer.one
 apyxfi.one
 arcium.one
@@ -94139,7 +94118,6 @@ apexcoincapital.online
 app-and-web3.online
 app-metamask.online
 app-yieldbasis.online
-appsyncvalidator.online
 aptos-mine.online
 arbitrum123.online
 arcadespase.online
@@ -107188,7 +107166,6 @@ usepaid.top
 ushib.top
 ushiba.top
 usmeetwebvf.top
-uswcc-rewards.top
 utk-rewards.top
 utopase.top
 gtf.utyerrt.top
@@ -114526,7 +114503,6 @@ new-season-hyperfoundation.xyz
 news-flaregovernance.xyz
 news-jumper.xyz
 news-jup.xyz
-nexchangeswap.xyz
 nexologin.xyz
 nexpad.xyz
 next-buildonarcana.xyz
@@ -114855,7 +114831,6 @@ pendlefinance.xyz
 peng-app.xyz
 pengu-pudgy.xyz
 claim.pengu-token.xyz
-penguclaim.xyz
 pengucoin.xyz
 peopleinbase.xyz
 pepebase.xyz
