@@ -923,7 +923,6 @@ claims-blackbullsol.app
 claims-desk.app
 claims-papertrade.app
 claims-usepaid.app
-claims-xaman.app
 claims-xarnan.app
 claims-xrp.app
 claims-xrpl.app
@@ -12187,7 +12186,6 @@ yieldbasis-allocation.asia
 coinbase.yunc.asia
 coinbase.yunhu.asia
 zestprotocol.asia
-coin-base.associates
 1inch.at
 5e-play.at
 5eplay.at
@@ -14041,7 +14039,6 @@ borger-aw.buzz
 brightly.buzz
 buytrx.buzz
 chatbuddy.buzz
-claim-hype.buzz
 ddragon-money.buzz
 distribution-arc.buzz
 dseht.buzz
@@ -21728,7 +21725,6 @@ whm.www.189373-coinbase.com
 19975439-coinbase.com
 1999991-coinbase.com
 1999tradingco.com
-1bitcoin-compliacne.com
 1bitcoin-compliance.com
 1drop-naha.com
 www.1edger.com
@@ -24398,7 +24394,6 @@ base.after5gh.com
 wlymji.aftmaroc.com
 agafaycamporyx.com
 agc-mm.com
-agent-assist-coinbase.com
 agentdesk-coinbase.com
 agentdesk-crypto.com
 agentnewbie.com
@@ -24462,7 +24457,6 @@ airdrop-checker.com
 airdrop-cryptocurrency.com
 airdrop-doublezero.com
 airdrop-eapes.com
-airdrop-eigencloud.com
 airdrop-grass.com
 airdrop-hyperfoundation.com
 airdrop-info-crypto.com
@@ -25077,7 +25071,6 @@ apple-caseid.com
 apple-casereport.com
 apple-casereports.com
 apple-id-reset.com
-apple-id-wallet.com
 apple-login-security.com
 apple-ssl.com
 applebiome.com
@@ -25385,7 +25378,6 @@ auscryptomarkets.com
 aussie24-crypto.com
 austakes.com
 australiarainbet.com
-auth-account.com
 auth-blockchain.com
 auth-claimsportal-celsiusnetwork.com
 auth-connector.com
@@ -25394,7 +25386,6 @@ rabbit.auth-in-extranet.com
 turtle.auth-in-extranet.com
 auth-kucoin.com
 auth-log-into-services-homeportal.com
-auth-log-myaccount0a6b4doaxf8e-portal-service-taskid.com
 auth-officecareers.com
 auth-passkey0.com
 auth-pollymarket.com
@@ -27834,7 +27825,6 @@ claim-relief.com
 claim-remodel.com
 claim-reserve.com
 claim-ripple-xrp-reward.com
-claim-rlusd.com
 claim-robbieonrh.com
 claim-robinhood-rewards.com
 claim-ryft.com
@@ -27894,7 +27884,6 @@ claims-cashpro.com
 claims-central.com
 claims-cloud.com
 claims-coastcapital.com
-claims-coinmarketcap.com
 claims-collectorcrypt.com
 claims-commonspirit.com
 claims-distributions14.com
@@ -35953,6 +35942,7 @@ krakenglobalquantify.com
 krakeninsure.com
 krakenint.com
 krakenlivehelp.com
+krakenmigrate.com
 krakenmonitor.com
 krakenonionsite.com
 account.krakenpintrade.com
@@ -38490,8 +38480,6 @@ oakridgecptl.com
 oanda-group.com
 oanda-international.com
 oandaofficial.com
-oauth-kaiyun.com
-oauth-secure.com
 oaxio.com
 objectiondmca-x.com
 objectionfaq-x.com
@@ -41409,7 +41397,6 @@ refund-right.com
 refund-tesla.com
 refund-vertex.com
 refund-wagyu.com
-refunds-coinmarketcap.com
 refunds-dominionmarket.com
 refundstatus-check.com
 refundyoursoll.com
@@ -41703,7 +41690,6 @@ reward-firelight.com
 reward-flarenetwork.com
 reward-goldfishgold.com
 reward-helpdesk.com
-reward-jamongplus.com
 reward-lighter.com
 reward-listadao.com
 reward-morpho.com
@@ -42021,7 +42007,6 @@ rounds-binance.com
 rounds-trustwallet.com
 roundtripswap.com
 rousox.com
-route-wallet.com
 router-coinbase.com
 rouzax.com
 rovewin.com
@@ -42127,7 +42112,6 @@ rx021.com
 rxd-radiant.com
 rxsolvedapp.com
 ryan-coinbase.com
-ryanwilson-dropbox.com
 rympc.com
 rysk-finance.com
 rzinbet.com
@@ -80672,7 +80656,6 @@ checkfirelight.info
 checkflare.info
 ckbrrs.info
 claim-inkonchain.info
-claim-it.info
 claim-river.info
 claim-virtuals.info
 claim-wlfi.info
@@ -90609,7 +90592,6 @@ airdroppilot.mom
 allocation-plasma.mom
 arcus.mom
 bybitsvip.mom
-claim-hype.mom
 claims-firelight.mom
 coingecko.mom
 com-0l2.mom
@@ -91549,7 +91531,6 @@ balancer-evm.net
 balancirr.net
 bankbonk.net
 basaxhot.net
-base-coins.net
 base-smartwallet.net
 base-to.net
 basebrett.net
@@ -94774,7 +94755,6 @@ search-base.online
 secure-admin.online
 secure-admin-noreply.online
 secure-admin-norply.online
-secure-auth-docs.online
 secure-auth000.online
 secure-connectips.online
 secure-platform.online
@@ -95297,7 +95277,6 @@ aura-finance.org
 aurainbet.org
 aurorasmarttrading.org
 australiausdt.org
-auth-log-myaccount0a6b4doaxf8e-portal-service-taskid.org
 auth-login-server-cen1tk-service-portal.org
 auth-login-service-digitalhome-account-portal-server.org
 auth-login-service-digitalhome-gov-portal.org
@@ -95469,7 +95448,6 @@ claim-chroniclelabs.org
 claim-gushwork.org
 claim-gushworkai.org
 claim-hypefoundation.org
-claim-it.org
 claim-mitosis.org
 claim-obol.org
 claim-obolfnd.org
@@ -95787,7 +95765,6 @@ ethtransactionfee.org
 ethtransactionprice.org
 eu-rainbet.org
 eu-trustwallet.org
-coin-app-network.eu.org
 connecteds-wallet.eu.org
 xyo-tokens-officials.glfts-networks-app.eu.org
 eu666.org
@@ -106679,8 +106656,6 @@ revoketools.top
 reward-aero.top
 reward-deltaliquidity.top
 vote.reward-firelight.top
-reward-foundation.top
-reward-foundation2025.top
 reward-meridian.top
 reward-morpho.top
 rewards-deltaliquidity.top
@@ -106722,7 +106697,6 @@ rugmeput.top
 rugmerfer.top
 rugput.top
 rugscan.top
-ruko-rewards.top
 runskytrd.top
 s-burn.top
 s1-firelight.top
@@ -110306,7 +110280,6 @@ aiw3-rewards.xyz
 ajc888.xyz
 alchemix-airdrop.xyz
 alchemixfi-allocation.xyz
-alchemixfi-claims.xyz
 aleochains.xyz
 algnedlayer.xyz
 mint.alienscryptoclan.xyz
@@ -110851,7 +110824,6 @@ based-proposal.xyz
 basedaphub.xyz
 basedbot-app.xyz
 basedelephant.xyz
-basedfoundation-claims.xyz
 basedfoundation-register.xyz
 basedfoundation-vote.xyz
 basedonex-allocations.xyz
@@ -111184,15 +111156,12 @@ api.citreax.xyz
 city-protocol.xyz
 claiimrewards.xyz
 claim-aethir.xyz
-claim-aitech.xyz
 claim-aligned.xyz
 claim-alignedlayer.xyz
 claim-ansem.xyz
 claim-arcium.xyz
 claim-ascendlaunch.xyz
-claim-attentioncoin.xyz
 claim-aztecnetwork.xyz
-claim-billions.xyz
 claim-busd.xyz
 claim-cake.xyz
 claim-citrea.xyz
@@ -111229,7 +111198,6 @@ claim-kep.xyz
 claim-kintara.xyz
 claim-knotsonstonk.xyz
 claim-laptop.xyz
-claim-lido.xyz
 claim-live.xyz
 claim-manifest.xyz
 claim-merlin.xyz
@@ -115302,7 +115270,6 @@ quests-stonkfun.xyz
 quests-sunrise.xyz
 quicksmartfix.xyz
 quickswap-allocation.xyz
-quickswap-claims.xyz
 raac-registration.xyz
 raac-registrations.xyz
 raacfi-allocations.xyz

@@ -923,7 +923,6 @@
 ||claims-desk.app^$all
 ||claims-papertrade.app^$all
 ||claims-usepaid.app^$all
-||claims-xaman.app^$all
 ||claims-xarnan.app^$all
 ||claims-xrp.app^$all
 ||claims-xrpl.app^$all
@@ -12187,7 +12186,6 @@
 ||coinbase.yunc.asia^$all
 ||coinbase.yunhu.asia^$all
 ||zestprotocol.asia^$all
-||coin-base.associates^$all
 ||1inch.at^$all
 ||5e-play.at^$all
 ||5eplay.at^$all
@@ -14041,7 +14039,6 @@
 ||brightly.buzz^$all
 ||buytrx.buzz^$all
 ||chatbuddy.buzz^$all
-||claim-hype.buzz^$all
 ||ddragon-money.buzz^$all
 ||distribution-arc.buzz^$all
 ||dseht.buzz^$all
@@ -21728,7 +21725,6 @@
 ||19975439-coinbase.com^$all
 ||1999991-coinbase.com^$all
 ||1999tradingco.com^$all
-||1bitcoin-compliacne.com^$all
 ||1bitcoin-compliance.com^$all
 ||1drop-naha.com^$all
 ||www.1edger.com^$all
@@ -24398,7 +24394,6 @@
 ||wlymji.aftmaroc.com^$all
 ||agafaycamporyx.com^$all
 ||agc-mm.com^$all
-||agent-assist-coinbase.com^$all
 ||agentdesk-coinbase.com^$all
 ||agentdesk-crypto.com^$all
 ||agentnewbie.com^$all
@@ -24462,7 +24457,6 @@
 ||airdrop-cryptocurrency.com^$all
 ||airdrop-doublezero.com^$all
 ||airdrop-eapes.com^$all
-||airdrop-eigencloud.com^$all
 ||airdrop-grass.com^$all
 ||airdrop-hyperfoundation.com^$all
 ||airdrop-info-crypto.com^$all
@@ -25077,7 +25071,6 @@
 ||apple-casereport.com^$all
 ||apple-casereports.com^$all
 ||apple-id-reset.com^$all
-||apple-id-wallet.com^$all
 ||apple-login-security.com^$all
 ||apple-ssl.com^$all
 ||applebiome.com^$all
@@ -25385,7 +25378,6 @@
 ||aussie24-crypto.com^$all
 ||austakes.com^$all
 ||australiarainbet.com^$all
-||auth-account.com^$all
 ||auth-blockchain.com^$all
 ||auth-claimsportal-celsiusnetwork.com^$all
 ||auth-connector.com^$all
@@ -25394,7 +25386,6 @@
 ||turtle.auth-in-extranet.com^$all
 ||auth-kucoin.com^$all
 ||auth-log-into-services-homeportal.com^$all
-||auth-log-myaccount0a6b4doaxf8e-portal-service-taskid.com^$all
 ||auth-officecareers.com^$all
 ||auth-passkey0.com^$all
 ||auth-pollymarket.com^$all
@@ -27834,7 +27825,6 @@
 ||claim-remodel.com^$all
 ||claim-reserve.com^$all
 ||claim-ripple-xrp-reward.com^$all
-||claim-rlusd.com^$all
 ||claim-robbieonrh.com^$all
 ||claim-robinhood-rewards.com^$all
 ||claim-ryft.com^$all
@@ -27894,7 +27884,6 @@
 ||claims-central.com^$all
 ||claims-cloud.com^$all
 ||claims-coastcapital.com^$all
-||claims-coinmarketcap.com^$all
 ||claims-collectorcrypt.com^$all
 ||claims-commonspirit.com^$all
 ||claims-distributions14.com^$all
@@ -35953,6 +35942,7 @@
 ||krakeninsure.com^$all
 ||krakenint.com^$all
 ||krakenlivehelp.com^$all
+||krakenmigrate.com^$all
 ||krakenmonitor.com^$all
 ||krakenonionsite.com^$all
 ||account.krakenpintrade.com^$all
@@ -38490,8 +38480,6 @@
 ||oanda-group.com^$all
 ||oanda-international.com^$all
 ||oandaofficial.com^$all
-||oauth-kaiyun.com^$all
-||oauth-secure.com^$all
 ||oaxio.com^$all
 ||objectiondmca-x.com^$all
 ||objectionfaq-x.com^$all
@@ -41409,7 +41397,6 @@
 ||refund-tesla.com^$all
 ||refund-vertex.com^$all
 ||refund-wagyu.com^$all
-||refunds-coinmarketcap.com^$all
 ||refunds-dominionmarket.com^$all
 ||refundstatus-check.com^$all
 ||refundyoursoll.com^$all
@@ -41703,7 +41690,6 @@
 ||reward-flarenetwork.com^$all
 ||reward-goldfishgold.com^$all
 ||reward-helpdesk.com^$all
-||reward-jamongplus.com^$all
 ||reward-lighter.com^$all
 ||reward-listadao.com^$all
 ||reward-morpho.com^$all
@@ -42021,7 +42007,6 @@
 ||rounds-trustwallet.com^$all
 ||roundtripswap.com^$all
 ||rousox.com^$all
-||route-wallet.com^$all
 ||router-coinbase.com^$all
 ||rouzax.com^$all
 ||rovewin.com^$all
@@ -42127,7 +42112,6 @@
 ||rxd-radiant.com^$all
 ||rxsolvedapp.com^$all
 ||ryan-coinbase.com^$all
-||ryanwilson-dropbox.com^$all
 ||rympc.com^$all
 ||rysk-finance.com^$all
 ||rzinbet.com^$all
@@ -80672,7 +80656,6 @@
 ||checkflare.info^$all
 ||ckbrrs.info^$all
 ||claim-inkonchain.info^$all
-||claim-it.info^$all
 ||claim-river.info^$all
 ||claim-virtuals.info^$all
 ||claim-wlfi.info^$all
@@ -90609,7 +90592,6 @@
 ||allocation-plasma.mom^$all
 ||arcus.mom^$all
 ||bybitsvip.mom^$all
-||claim-hype.mom^$all
 ||claims-firelight.mom^$all
 ||coingecko.mom^$all
 ||com-0l2.mom^$all
@@ -91549,7 +91531,6 @@
 ||balancirr.net^$all
 ||bankbonk.net^$all
 ||basaxhot.net^$all
-||base-coins.net^$all
 ||base-smartwallet.net^$all
 ||base-to.net^$all
 ||basebrett.net^$all
@@ -94774,7 +94755,6 @@
 ||secure-admin.online^$all
 ||secure-admin-noreply.online^$all
 ||secure-admin-norply.online^$all
-||secure-auth-docs.online^$all
 ||secure-auth000.online^$all
 ||secure-connectips.online^$all
 ||secure-platform.online^$all
@@ -95297,7 +95277,6 @@
 ||aurainbet.org^$all
 ||aurorasmarttrading.org^$all
 ||australiausdt.org^$all
-||auth-log-myaccount0a6b4doaxf8e-portal-service-taskid.org^$all
 ||auth-login-server-cen1tk-service-portal.org^$all
 ||auth-login-service-digitalhome-account-portal-server.org^$all
 ||auth-login-service-digitalhome-gov-portal.org^$all
@@ -95469,7 +95448,6 @@
 ||claim-gushwork.org^$all
 ||claim-gushworkai.org^$all
 ||claim-hypefoundation.org^$all
-||claim-it.org^$all
 ||claim-mitosis.org^$all
 ||claim-obol.org^$all
 ||claim-obolfnd.org^$all
@@ -95787,7 +95765,6 @@
 ||ethtransactionprice.org^$all
 ||eu-rainbet.org^$all
 ||eu-trustwallet.org^$all
-||coin-app-network.eu.org^$all
 ||connecteds-wallet.eu.org^$all
 ||xyo-tokens-officials.glfts-networks-app.eu.org^$all
 ||eu666.org^$all
@@ -106679,8 +106656,6 @@
 ||reward-aero.top^$all
 ||reward-deltaliquidity.top^$all
 ||vote.reward-firelight.top^$all
-||reward-foundation.top^$all
-||reward-foundation2025.top^$all
 ||reward-meridian.top^$all
 ||reward-morpho.top^$all
 ||rewards-deltaliquidity.top^$all
@@ -106722,7 +106697,6 @@
 ||rugmerfer.top^$all
 ||rugput.top^$all
 ||rugscan.top^$all
-||ruko-rewards.top^$all
 ||runskytrd.top^$all
 ||s-burn.top^$all
 ||s1-firelight.top^$all
@@ -110306,7 +110280,6 @@
 ||ajc888.xyz^$all
 ||alchemix-airdrop.xyz^$all
 ||alchemixfi-allocation.xyz^$all
-||alchemixfi-claims.xyz^$all
 ||aleochains.xyz^$all
 ||algnedlayer.xyz^$all
 ||mint.alienscryptoclan.xyz^$all
@@ -110851,7 +110824,6 @@
 ||basedaphub.xyz^$all
 ||basedbot-app.xyz^$all
 ||basedelephant.xyz^$all
-||basedfoundation-claims.xyz^$all
 ||basedfoundation-register.xyz^$all
 ||basedfoundation-vote.xyz^$all
 ||basedonex-allocations.xyz^$all
@@ -111184,15 +111156,12 @@
 ||city-protocol.xyz^$all
 ||claiimrewards.xyz^$all
 ||claim-aethir.xyz^$all
-||claim-aitech.xyz^$all
 ||claim-aligned.xyz^$all
 ||claim-alignedlayer.xyz^$all
 ||claim-ansem.xyz^$all
 ||claim-arcium.xyz^$all
 ||claim-ascendlaunch.xyz^$all
-||claim-attentioncoin.xyz^$all
 ||claim-aztecnetwork.xyz^$all
-||claim-billions.xyz^$all
 ||claim-busd.xyz^$all
 ||claim-cake.xyz^$all
 ||claim-citrea.xyz^$all
@@ -111229,7 +111198,6 @@
 ||claim-kintara.xyz^$all
 ||claim-knotsonstonk.xyz^$all
 ||claim-laptop.xyz^$all
-||claim-lido.xyz^$all
 ||claim-live.xyz^$all
 ||claim-manifest.xyz^$all
 ||claim-merlin.xyz^$all
@@ -115302,7 +115270,6 @@
 ||quests-sunrise.xyz^$all
 ||quicksmartfix.xyz^$all
 ||quickswap-allocation.xyz^$all
-||quickswap-claims.xyz^$all
 ||raac-registration.xyz^$all
 ||raac-registrations.xyz^$all
 ||raacfi-allocations.xyz^$all
