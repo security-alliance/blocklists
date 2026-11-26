@@ -95,6 +95,7 @@ https://sites.google.com/view/base-app/home
 https://sites.google.com/view/base-apps/home
 https://sites.google.com/view/base-coinapp-ext/home
 https://sites.google.com/view/base-extension-cdus/home
+https://sites.google.com/view/base-extension-guide/home
 https://sites.google.com/view/base-extension-hub/home
 https://sites.google.com/view/base-extension-info/home
 https://sites.google.com/view/base-extension-us/home
@@ -384,6 +385,7 @@ https://sites.google.com/view/coinbase-wallet---/home
 https://sites.google.com/view/coinbase-wallet-cdn/home
 https://sites.google.com/view/coinbase-wallet-explore/home
 https://sites.google.com/view/coinbase-wallet-ext/home
+https://sites.google.com/view/coinbase-wallet-extansion/home
 https://sites.google.com/view/coinbase-wallet-extensi/home
 https://sites.google.com/view/coinbase-wallet-getting/home
 https://sites.google.com/view/coinbase-wallet-home/home
@@ -926,6 +928,7 @@ https://sites.google.com/view/intro-coin-extension/home
 https://sites.google.com/view/intro-coinbase-docs/home
 https://sites.google.com/view/intro-coinbase-enus/home
 https://sites.google.com/view/intro-coinbaseapp/home
+https://sites.google.com/view/intro-extension/home
 https://sites.google.com/view/intro-learned/home
 https://sites.google.com/view/intro-metamask-home/home
 https://sites.google.com/view/intro-metamask-open/home
@@ -1404,6 +1407,7 @@ https://sites.google.com/view/nav-extension-metamsk/home
 https://sites.google.com/view/nav-metamask-/home
 https://sites.google.com/view/nav-metamask/home
 https://sites.google.com/view/need-help-connect-with-trust-w/home
+https://sites.google.com/view/new-coinbextension/home
 https://sites.google.com/view/new-extension-secure/home
 https://sites.google.com/view/new-metamask/home
 https://sites.google.com/view/new-metamsk-app/home
@@ -1687,6 +1691,7 @@ https://sites.google.com/view/web-metmaskhelp/home
 https://sites.google.com/view/web-user-bitbuy/home
 https://sites.google.com/view/web3-exoduos/home
 https://sites.google.com/view/web3-exodus-sso/home
+https://sites.google.com/view/web3-guide-eng/home
 https://sites.google.com/view/web3-wallet-extnsion/home
 https://sites.google.com/view/web3exodus-wllet/home
 https://sites.google.com/view/web3wallet-exedus/home
