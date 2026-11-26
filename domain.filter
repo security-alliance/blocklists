@@ -15045,6 +15045,7 @@
 ||coinexsex.cc^$all
 ||coinexsft.cc^$all
 ||coinexsi.cc^$all
+||coinexsrx.cc^$all
 ||coinexsu.cc^$all
 ||coinexswww.cc^$all
 ||coinexsx.cc^$all
@@ -28511,7 +28512,6 @@
 ||autoconfig.coinbaseklantenservice.com^$all
 ||coinbaselivehelp.com^$all
 ||coinbasellcus.com^$all
-||coinbasemanage.com^$all
 ||coinbasemarket.com^$all
 ||coinbasemarketplace.com^$all
 ||coinbasemedia.com^$all
