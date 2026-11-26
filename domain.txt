@@ -76,7 +76,6 @@ crypto.com.ag
 exodus.com.ag
 gemini.com.ag
 kraken.com.ag
-ledger.com.ag
 ledgerlive.com.ag
 my-exodus.com.ag
 safepal.com.ag
@@ -53504,7 +53503,6 @@ en-trustextension.hashnode.dev
 extension-trusten.hashnode.dev
 home-bridge-eng.hashnode.dev
 homsapps-bitbuy.hashnode.dev
-live-desktop-us.hashnode.dev
 live-en-desktop.hashnode.dev
 manta-bridge-o.hashnode.dev
 mybitby.hashnode.dev
