@@ -81016,7 +81016,6 @@ getbze.info
 gift-binance.info
 gisnz.info
 gitlawbt.info
-gitlawbv.info
 glrcastrk.info
 gmebull.info
 coinbase.gogetmore.info
@@ -81328,7 +81327,6 @@ pitchwcrl.info
 plumenetwork.info
 polexbot.info
 poll-firelight.info
-poll-flare.info
 polling-flare.info
 pollymarket.info
 polygpt.info
