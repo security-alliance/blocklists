@@ -18434,7 +18434,6 @@ v2-hyperliquid.click
 v2-lido.click
 v2-pumpswap.click
 v2-rubic-eth.click
-v2-sushiswap.click
 v3-aave.click
 v3-cowswap.click
 v3-curve.click
@@ -19864,7 +19863,6 @@ okn-okx.com.cn
 oko-okx.com.cn
 okox-okex.com.cn
 okx-engine.com.cn
-okx-exchange.com.cn
 okx-official.com.cn
 okx-officialsite.com.cn
 okx-status.com.cn
@@ -28383,7 +28381,6 @@ mail.coinbase-recoveries.com
 coinbase-recoveryportal.com
 coinbase-referral.com
 coinbase-review.com
-coinbase-reviewcase.com
 coinbase-reward.com
 coinbase-roi.com
 smart-safety.coinbase-route.com
@@ -34899,7 +34896,6 @@ imtomsg.com
 imtouken.com
 imtowal.com
 imvivoedge.com
-imwallet-token.com
 in-flarenetwork.com
 in7-google.com
 inabadromance.com
@@ -76865,7 +76861,6 @@ syn1.jeandepiepape.fr
 ledger-secure-update.fr
 lets-lucky.fr
 login-microsft365secure-auth.fr
-mail-trustwallet.fr
 margauxminnitiosteo.fr
 merkl.fr
 notepad2.fr
@@ -78316,7 +78311,6 @@ kraken-supportchat.kb.help
 ldgre-homepage.kb.help
 server.kb.help
 trzer-io.kb.help
-kraken-support.help
 kraken-withdrawal.help
 krakendesk.help
 krakenportal.help
@@ -95758,7 +95752,6 @@ ethtransactionfee.org
 ethtransactionprice.org
 eu-rainbet.org
 eu-trustwallet.org
-connecteds-wallet.eu.org
 xyo-tokens-officials.glfts-networks-app.eu.org
 eu666.org
 euler-finance.org
@@ -99185,7 +99178,6 @@ typus.pro
 uftx.pro
 un1swap.pro
 uncx-appp.pro
-uniswapbase.pro
 uniwsap.pro
 updateskraken.pro
 upgrade-sei.pro
