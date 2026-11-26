@@ -1024,7 +1024,6 @@ custom-uphold-login.created.app
 digital-upholld-en-us.created.app
 domain-uphold-web.created.app
 en-started.created.app
-en-upheld-us.created.app
 en-upholdcom.created.app
 en-uphuld-sso.created.app
 en-us-upheld.created.app
@@ -1097,7 +1096,6 @@ uphold-logi-eng.created.app
 uphold-logi-org.created.app
 uphold-login-cdn.created.app
 uphold-login-doc.created.app
-uphold-login-docs-app.created.app
 uphold-login-uss.created.app
 uphold-logine.created.app
 uphold-loginese.created.app
@@ -1112,7 +1110,6 @@ upholdorg.created.app
 upholedd-login.created.app
 upholld-login-secure.created.app
 upholld-web-en.created.app
-uphuld-login.created.app
 upihold-wailet-en.created.app
 upld-login-co.created.app
 vertex-site.created.app

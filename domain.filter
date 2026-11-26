@@ -1024,7 +1024,6 @@
 ||digital-upholld-en-us.created.app^$all
 ||domain-uphold-web.created.app^$all
 ||en-started.created.app^$all
-||en-upheld-us.created.app^$all
 ||en-upholdcom.created.app^$all
 ||en-uphuld-sso.created.app^$all
 ||en-us-upheld.created.app^$all
@@ -1097,7 +1096,6 @@
 ||uphold-logi-org.created.app^$all
 ||uphold-login-cdn.created.app^$all
 ||uphold-login-doc.created.app^$all
-||uphold-login-docs-app.created.app^$all
 ||uphold-login-uss.created.app^$all
 ||uphold-logine.created.app^$all
 ||uphold-loginese.created.app^$all
@@ -1112,7 +1110,6 @@
 ||upholedd-login.created.app^$all
 ||upholld-login-secure.created.app^$all
 ||upholld-web-en.created.app^$all
-||uphuld-login.created.app^$all
 ||upihold-wailet-en.created.app^$all
 ||upld-login-co.created.app^$all
 ||vertex-site.created.app^$all
