@@ -81313,7 +81313,6 @@ pitchwcrl.info
 plumenetwork.info
 polexbot.info
 poll-firelight.info
-polling-flare.info
 pollymarket.info
 polygpt.info
 polymarket-android-app-page.info
@@ -111672,7 +111671,6 @@ dashboards-check-ore.xyz
 dashboards-concrete.xyz
 dashboards-early.xyz
 dashboards-embercurve.xyz
-dashboards-firelight.xyz
 dashboards-firelightfi.xyz
 dashboards-flapsh.xyz
 dashboards-flarenetworks.xyz
