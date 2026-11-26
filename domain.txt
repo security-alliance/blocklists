@@ -29165,6 +29165,7 @@ com-gift-cards-usdc.com
 com-gift-cards-usdt.com
 bitrefill.com-gift-cards-vet.com
 bitrefill.com-gift-cards-wbtc.com
+bitrefill.com-gift-cards-weth.com
 bitrefill.com-gift-cards-wif.com
 com-gift-cards-xlm.com
 bitrefill.com-gift-cards-xmr.com
