@@ -932,7 +932,6 @@ claimyoursol.app
 clash-x.app
 clashmac.app
 clashxpro.app
-claude-x.app
 client-bitfinex.app
 cloudnets.app
 cocoabox.app
@@ -12020,7 +12019,6 @@ governance-unipeg.art
 grvt-rewards.art
 hub-unipeg.art
 jup-rewards.art
-messenger-verification.art
 minifinish.art
 mintable.art
 mintora.art
@@ -12525,13 +12523,10 @@ rewards-twine.auction
 vote-twine.auction
 accountprotection-microsofts.autos
 betflik.autos
-claimallocation.autos
 firelightboardstairs.autos
 firelighttable.autos
 firelighttablestairs.autos
 firelighttablesteps.autos
-my-rewards.autos
-myis-rewards.autos
 order-verification-portal7546328.autos
 predictex.autos
 protect.autos
@@ -12616,8 +12611,6 @@ io-smart-secure-network-sync.beauty
 io-valor-verify-terminal-login.beauty
 io-verify-gate-confirm.beauty
 jieunlife.beauty
-my-rewards.beauty
-myis-rewards.beauty
 rewardss.beauty
 tpwallet-web3.beauty
 tronlink.beauty
@@ -13227,8 +13220,6 @@ cdn-verification-cloud.boats
 h5.fxcm.boats
 id-verfied.boats
 jupitlerfoundation.boats
-my-rewards.boats
-myis-rewards.boats
 rewardss.boats
 verification-js-cdn.boats
 aadjwowp.bond
@@ -13671,7 +13662,6 @@ moqypslb.bond
 moviejmcdxp.bond
 mqifrespond.bond
 mwhpswbegin.bond
-my-rewards.bond
 myselfdwoi.bond
 myyvxgrowth.bond
 mzjosxxl.bond
@@ -18591,7 +18581,6 @@ checker-firelightfinance.cloud
 chiliz.cloud
 chromegoogleweb.cloud
 polymarket.clawdjourney.cloud
-cleointegration-tmmsupport.cloud
 cloudexmcp.cloud
 cloudpractice.cloud
 cobolabs.cloud
@@ -18752,7 +18741,6 @@ ms-tech-stack.cloud
 mss-live.cloud
 mteamsmisoft.cloud
 my-ledger.cloud
-my-rewards.cloud
 nadohq.cloud
 netnetcap.cloud
 netnetcapital.cloud
@@ -20640,7 +20628,6 @@ krayb.zuxizdo.cn
 phantom.local.acviss.co
 aegetpro.co
 aerovoting.co
-ai-upgrade.co
 aidogechain.co
 aidogerelaunch.co
 airdrop-pump.co
@@ -22094,7 +22081,6 @@ login.2ccloud.com
 2gledger.com
 2kraken2.com
 2pj10.com
-2step-verify.com
 2trustwallet.com
 3-binance.com
 3-trustwallet.com
@@ -24302,7 +24288,6 @@ actionwallet-fixnow.com
 activecases-coinbase.com
 activetrustwallet.com
 activitiy-linkedin.com
-activity-account-verification.com
 activityid-kraken.com
 activitylog-kraken.com
 actuallyapanda.com
@@ -27847,7 +27832,6 @@ claim-taurobotics.com
 claim-threews.com
 claim-tracker.com
 claim-ultiland.com
-claim-voyager.com
 claim-wall3.com
 claim-wallet-prize.com
 claim-wlfitokens.com
@@ -27866,7 +27850,6 @@ claim1-frogbull.com
 claimable-flare.com
 claimable-flt.com
 claimansem.com
-claimback-hub.com
 claimbonus-base.com
 claimchainoflegends.com
 claimelegantspins.com
@@ -27914,7 +27897,6 @@ claims-sd.com
 claims-solsticefinance.com
 claims-superdispatch.com
 claims-tollylabs.com
-claims-wolrdliberyfinancial.com
 claims-worldofdypians.com
 claims-yieldfields.com
 claims-zcashstamp.com
@@ -29549,12 +29531,10 @@ exodus.compliance-clarity-verify.com
 exodus.compliance-clarity.com
 compliance-game.com
 compliance-google.com
-compliance-managed.com
 compliance-pages.com
 compliance-portal.com
 compliance-reports-apple.com
 compliance-review-id0651.com
-compliance-trustnet.com
 compliancecase-apple.com
 compliancecheck-x.com
 complianced-x.com
@@ -29566,7 +29546,6 @@ compliancereview-apple.com
 complience-coinbase.com
 comply-zoom.com
 compoundfinances.com
-compromised-x.com
 comrainbetcodepromo.com
 comxxx.com
 concerns-has.com
@@ -29736,7 +29715,6 @@ contentspeech-x.com
 contentstates-x.com
 contentsubmission-x.com
 contentvalidation-x.com
-contentverification-x.com
 contentview-x.com
 contentviews-x.com
 contentx-x.com
@@ -33733,7 +33711,6 @@ governance-hypurrfi.com
 governance-keeta.com
 governance-kinetiq.com
 governance-kinetiqfnd.com
-governance-lienfi.com
 governance-lightcr.com
 governance-netnetcapital.com
 governance-network.com
@@ -34457,9 +34434,6 @@ steelblue-mole-388631.hostingersite.com
 hotcoin-cn.com
 hotexc.com
 hotexplay.com
-hotfix-ayx.com
-hotfix-kaiyun.com
-hotfix-leisu.com
 houdniniswap.com
 houlihane.com
 houndlocal.com
@@ -35611,7 +35585,6 @@ kahshi.com
 kaihu-tmgm.com
 kaikobot.com
 kairos-777.com
-kaiyun-upgrade.com
 kakaonow.com
 kakaoweb08talk.com
 kalbhi.com
@@ -36423,7 +36396,6 @@ llm-ledger.com
 llnked-ln.com
 lmagma.com
 lnafcc.com
-lnchrewards.com
 lndexfinances.com
 lnfww.com
 lnstruction-desjardlns.com
@@ -37313,7 +37285,7 @@ miamipcsupport.com
 mica-binance.com
 mica-safepal.com
 exodus.mica-update.com
-mica-verify.com
+exodus.mica-verify.com
 miccorosoft.com
 michael-coinbase.com
 michael-robinhood.com
@@ -38484,8 +38456,6 @@ octasmartoptions.com
 octo-swap.com
 oculus-app.com
 odainu.com
-odenzaincentives.com
-odenzatravelrewards.com
 odinlife-airdrop.com
 odossre.com
 odsports-verify.com
@@ -76160,12 +76130,10 @@ checker-theindex.finance
 ciaim-lombard.finance
 claim-dirac.finance
 claim-doppler.finance
-claim-falcon.finance
 claim-firelight.finance
 claim-mellow.finance
 claim-onre.finance
 claim-pendle.finance
-claim-solv.finance
 claiming-firelight.finance
 claiming-pendle.finance
 claimings-pendle.finance
@@ -77473,7 +77441,6 @@ meow-coin.fun
 meowdomination.fun
 migrate-mumu.fun
 migration.fun
-migrationdesk.fun
 mihao-airdrop.fun
 mihaocoin.fun
 mini-yieldfields.fun
@@ -77500,7 +77467,6 @@ motocards.fun
 mshotcommunyty.fun
 app.multipliecosystem.fun
 multiplier-flarenetworks.fun
-my-rewards.fun
 wallet.mydogecoin.fun
 mysterybox-sol.fun
 neongames.fun
@@ -78264,7 +78230,6 @@ ledger.com.gy
 okx.com.gy
 accountprotection-microsofts.hair
 buytrx.hair
-my-rewards.hair
 scanepani.hair
 thonnuniswap.hair
 verify-orders254374.hair
@@ -78527,7 +78492,6 @@ foome.homes
 melaniatrump.homes
 micrsoftoflce.homes
 moonwellfi.homes
-myis-rewards.homes
 opensea.homes
 orbitrelaydata.homes
 plasma.homes
@@ -80545,7 +80509,6 @@ aave-eligibility.info
 aave-fi.info
 aave-governance.info
 access-folder-archive.info
-accokeek-treasury.info
 account-recovery-coinbase.info
 account-verify.info
 account-verify-now.info
@@ -80573,7 +80536,6 @@ airdrop-flt.info
 airdropservice.info
 airdroptap.info
 aktionsraum.info
-alameda-dividend.info
 albany-allocation.info
 allocation-bananagun.info
 allocation-concrete.info
@@ -81090,7 +81052,6 @@ kilnfi.info
 kinetiqfnd.info
 kionso.info
 kmspico-official.info
-komm-x.info
 kontoverwaltung.info
 kpoints-kinetiq.info
 krab-slon-kraken.info
@@ -81144,7 +81105,6 @@ mamba196-gemini.info
 map-exact.info
 map-searchphone.info
 mayacollection.info
-mccune-allocation.info
 mcommunitypower.info
 ink-claim.medium-crypto.info
 polymarket.medium-crypto.info
@@ -81224,7 +81184,6 @@ noticeupdateinc-docu.info
 trustwalletsupport.nsmll.info
 nytheravolunari.info
 odei.info
-ogden-dividend.info
 okxweb3wallet.info
 ondofinance.info
 onelidofinance.info
@@ -86112,24 +86071,6 @@ sa-collab.land
 verification-collab.land
 1inch.lat
 7774.lat
-account-validation-service-s1.lat
-account-validation-service-s10.lat
-account-validation-service-s11.lat
-account-validation-service-s12.lat
-account-validation-service-s13.lat
-account-validation-service-s14.lat
-account-validation-service-s15.lat
-account-validation-service-s16.lat
-account-validation-service-s17.lat
-account-validation-service-s18.lat
-account-validation-service-s19.lat
-account-validation-service-s2.lat
-account-validation-service-s20.lat
-account-validation-service-s3.lat
-account-validation-service-s5.lat
-account-validation-service-s6.lat
-account-validation-service-s7.lat
-account-validation-service-s8.lat
 aercodlorme.lat
 aero-finance.lat
 aerodrome-portal.lat
@@ -87353,7 +87294,6 @@ claims-hyperliquid.live
 claims-mitosis.live
 claims-neosoul.live
 claims-pear.live
-claims-sirenai.live
 claims-xrpl.live
 claimvault.live
 client-support-verification43553.live
@@ -88129,7 +88069,6 @@ kptcliq.live
 kra72.live
 kraken-dex.live
 kskd.live
-kunden-secure.live
 lab-revolution.live
 labtoken.live
 ladydosug.live
@@ -90173,8 +90112,6 @@ coingeckorguides.makeup
 devtltie.makeup
 inform-guides.makeup
 lidoonguidesor.makeup
-my-rewards.makeup
-myis-rewards.makeup
 p-endle-orabout.makeup
 quicks-wap-expguides.makeup
 rewardss.makeup
@@ -90701,8 +90638,6 @@ codeweblink.monster
 coin-strike-app.monster
 cryptomixer.monster
 hyperliquid.monster
-my-rewards.monster
-myis-rewards.monster
 mythino.monster
 raydiumlail.monster
 rollbit.monster
@@ -91641,7 +91576,6 @@ ethereum-mainnet.citidan.net
 ckoudflare.net
 claim-bridge.net
 claim-gushwork.net
-claim-it.net
 claim-pilot.net
 claim-re.net
 claim-stake.net
@@ -92173,7 +92107,6 @@ jubileegrandcasino.net
 jumpmeet.net
 jup-citizens.net
 jup-portal.net
-jup-rewards.net
 jupcitizen.net
 jupiter-allocation.net
 jupiter-foundation.net
@@ -94246,7 +94179,6 @@ electrum-update.online
 electrumwallet.online
 ellevesta.online
 email-claim.online
-email-verify.online
 enccosecure-livemeet.online
 enforcement-mexc.online
 enveil.online
@@ -94395,7 +94327,6 @@ kakaobase-v4-v2.online
 katanafdn.online
 kipstate.online
 kittenswaphype.online
-komm-x.online
 krab5cccc.online
 kraken-coins.online
 kraken-support.online
@@ -96024,7 +95955,6 @@ jumperbridge.org
 jup-ag.org
 jup-citizens.org
 jup-portal.org
-jup-rewards.org
 jup-swap.org
 jupag.org
 jupdex.org
@@ -99366,8 +99296,6 @@ joffonhl.quest
 superinu.loading.quest
 memescandata.quest
 meteora.quest
-my-rewards.quest
-myis-rewards.quest
 owlto.quest
 pdfview.quest
 portallogonapp.quest
@@ -99766,7 +99694,6 @@ xrplatform.sb
 polymarket.4llli.sbs
 6fi1qr.sbs
 77dapp.sbs
-7webc-x.sbs
 99qoifi8q4u8e45.sbs
 a-ks-aug28.sbs
 aave-pro.sbs
@@ -101152,7 +101079,6 @@ lorevianse.sbs
 lp-dao.sbs
 luma-stg-finance-app.sbs
 lunoluno.sbs
-m-vote.sbs
 m2securemail-securemail.sbs
 madintrek.sbs
 maga171717.sbs
@@ -101210,7 +101136,6 @@ movedmain.sbs
 ms-meetmeeting-teams.sbs
 msmeet.sbs
 muglcbaiicu.sbs
-my-rewards.sbs
 mybrand-x.sbs
 mygift-web.sbs
 mypoints-gift.sbs
@@ -102287,7 +102212,6 @@ aeroxyzs.site
 aevachain.site
 agros-mint.site
 agros-mints.site
-ai-renzorewards.site
 airdropshiftrwa.site
 aliadosaddi.site
 rewards.allocations-firelight.site
@@ -102616,7 +102540,6 @@ kintetiqfndn.site
 km1029u.site
 knight-owl-call-4e8b2d.site
 koi-ledger.site
-ksi-online-bonus.site
 kurwa-bonus.site
 lassybrand.site
 layerzeropdf.site
@@ -103285,7 +103208,6 @@ devwatchguide.skin
 devwatchstream.skin
 hell-case.skin
 memescandata.skin
-my-rewards.skin
 orbitrelaylogs.skin
 polymarket.skin
 portallogonapp.skin
@@ -103350,7 +103272,6 @@ secure-chat.solutions
 circle.station.solutions
 tangem.solutions
 trustwallets.solutions
-account-verification.space
 acesms.space
 airdropchecker.space
 albedorb.space
@@ -103466,7 +103387,6 @@ moonslogin.space
 moonvote.space
 mteams.space
 multxchange.space
-my-rewards.space
 nadirva.space
 nimip.space
 novawallet.space
@@ -104541,7 +104461,6 @@ metamasks.tech
 microsoft-online.tech
 microsoftoffice.tech
 v1.monadflow.tech
-my-rewards.tech
 neosoul.tech
 netcapitals.tech
 netmetcap.tech
@@ -104885,7 +104804,6 @@ voteapp-soneium.today
 xmaquina-vote.today
 metamaskaddon.five88.tokyo
 manseki.tokyo
-aml-secure.tools
 bestpolymarket.tools
 cacao.tools
 claimer.tools
@@ -107763,8 +107681,6 @@ zoomspace.uk
 ethereun.uno
 getaxalpool.uno
 metamask.uno
-my-rewards.uno
-myis-rewards.uno
 petitbr.uno
 rainbet.uno
 rewardss.uno
@@ -108085,7 +108001,6 @@ kmspico-download.us
 lacewallet.us
 latestcloudupdate.us
 latestupdatecloud.us
-lcloud-restore.us
 lcloud-support-gps.us
 lcloudlostmode.us
 ledger-verification.us
@@ -109670,7 +109585,6 @@ x-pay.win
 polymarket.wine
 rainbet.wine
 zoom.wine
-ai-secure.work
 aml-tron.work
 biillions-net.work
 blacksbullsol.work
@@ -109734,7 +109648,6 @@ zk-sync.work
 zoommeeting.work
 zoomvideomeeting.work
 chainlink.works
-governance-token.works
 hub-token.works
 kyc-rise.works
 metamasks.works
@@ -109798,7 +109711,6 @@ equest.world
 etherdragons.world
 filetransfoter09-001file0inv0.world
 fintech-ai.world
-flokitoto-x.world
 fomo-family.world
 fundingportal.world
 game-wins.world
@@ -110111,7 +110023,6 @@ aerodrome-proposals.xyz
 aerodrome-register.xyz
 aerodrome-registration.xyz
 aerodromefi-app.xyz
-aerodromefi-claim.xyz
 aerodromefi-distribution.xyz
 aerodromefi-registrations.xyz
 aerodromefi-vote.xyz
@@ -110218,7 +110129,6 @@ airsolproject.xyz
 aiw3-rewards.xyz
 ajc888.xyz
 alchemix-airdrop.xyz
-alchemixfi-allocation.xyz
 algnedlayer.xyz
 mint.alienscryptoclan.xyz
 aligned-rewards.xyz
@@ -111207,7 +111117,6 @@ claims-ultiland.xyz
 claims-usdai.xyz
 claims-usepaid.xyz
 claims-worldlibertyfinancial.xyz
-claims-zama.xyz
 claimscoins.xyz
 claimsea.xyz
 claimshyperfoundation.xyz
@@ -113429,7 +113338,6 @@ interests-yieldbasis.xyz
 interface-0.xyz
 interfaces-flare.xyz
 intergraredule.xyz
-intuition-reward.xyz
 inv2apexef.xyz
 inv2fuel.xyz
 inv2motus.xyz
@@ -118314,7 +118222,6 @@ zunqora.xyz
 zyf-migration.xyz
 zzig-ecosystem.xyz
 0gmail.yachts
-my-rewards.yachts
 space-x.yachts
 aerodrome.yoga
 app-v3.yoga
