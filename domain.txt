@@ -35723,7 +35723,6 @@ kautux.com
 kauvux.com
 kavonixdigital.com
 kawshi.com
-coinbase-recoveryaccessreset.kayakgoggles.com
 kazakclub.com
 kazewin.com
 kazowin.com
@@ -40702,6 +40701,7 @@ rainbet-es.com
 rainbet-espana.com
 rainbet-eu.com
 rainbet-fi.com
+rainbet-fra.com
 rainbet-francais.com
 rainbet-france.com
 rainbet-france1.com
@@ -40927,6 +40927,7 @@ rainbetcasinoee.com
 rainbetcasinoespana.com
 rainbetcasinofi.com
 rainbetcasinofr.com
+rainbetcasinofra.com
 rainbetcasinofrance.com
 rainbetcasinogame.com
 rainbetcasinogb.com
@@ -40967,6 +40968,7 @@ rainbetcasinosau.com
 rainbetcasinosaus.com
 rainbetcasinosca.com
 rainbetcasinoschweiz.com
+rainbetcasinosfr.com
 rainbetcasinosi.com
 rainbetcasinosite.com
 rainbetcasinosk.com
@@ -41129,6 +41131,7 @@ rainbett-au.com
 rainbett-official.com
 rainbett-uk.com
 rainbettfr.com
+rainbettop-au.com
 rainbetuk.com
 rainbetunitedkingdom.com
 rainbetusa.com
@@ -81848,6 +81851,7 @@ changenow.ing
 gleam.ing
 io-web.ing
 polymarket.ing
+rainbet.ing
 safepal.ing
 trustwallet.ing
 v3-changelly.ing
@@ -92731,6 +92735,7 @@ rainbetcasino-australia.net
 rainbetcasino-ca.net
 rainbetcasino-canada.net
 rainbetcasino-de.net
+rainbetcasino-fr.net
 rainbetcasino-nl.net
 rainbetcasino-nz.net
 rainbetcasino-uk.net
@@ -92744,6 +92749,7 @@ rainbetcasinoofficial.net
 rainbetcasinoonline.net
 rainbetcasinouk.net
 rainbetdeutschland.net
+rainbetfra.net
 rainbetfrance.net
 rainbetgames.net
 rainbetlive.net
