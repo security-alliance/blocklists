@@ -85907,7 +85907,6 @@ welcome--coinbasepro--cdn-cdn-auth.webflow.io
 welcome-en-help--coiinledzer.webflow.io
 wllaterezoors.webflow.io
 wllet-lobstr.webflow.io
-wwallet-sui.webflow.io
 xexodus-wallet.webflow.io
 xn--c0inbase-walit-console-trd.webflow.io
 xn--cinbase-allit-console-7cc6115o.webflow.io

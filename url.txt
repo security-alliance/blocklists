@@ -153,6 +153,7 @@ https://sites.google.com/view/browser-base-apps/home
 https://sites.google.com/view/browser-coinbse/home
 https://sites.google.com/view/browser-exo-wallet/home
 https://sites.google.com/view/browser-exodus-web3/home
+https://sites.google.com/view/browser-home-exodus/home
 https://sites.google.com/view/browser-metamask/home
 https://sites.google.com/view/browser-metamaskio/home
 https://sites.google.com/view/browser-new-exodus/home
@@ -618,6 +619,7 @@ https://sites.google.com/view/exodus-cdn-browser/home
 https://sites.google.com/view/exodus-cdss/home
 https://sites.google.com/view/exodus-comi/home
 https://sites.google.com/view/exodus-enusu/home
+https://sites.google.com/view/exodus-extensionn/home
 https://sites.google.com/view/exodus-guide-app/home
 https://sites.google.com/view/exodus-home-page/home
 https://sites.google.com/view/exodus-hub-en/home
@@ -1663,6 +1665,7 @@ https://sites.google.com/view/wallet-coibs/home
 https://sites.google.com/view/wallet-extension--/home
 https://sites.google.com/view/wallet-home-qoinbase/home
 https://sites.google.com/view/wallet-link-coinbase/home
+https://sites.google.com/view/walletexodshome/home
 https://sites.google.com/view/wallets--coinbase-/home
 https://sites.google.com/view/wallets-coinbase-/home
 https://sites.google.com/view/wallets-coinbase/home
@@ -1691,6 +1694,7 @@ https://sites.google.com/view/webapps-home-extension/home
 https://sites.google.com/view/webapps-metamask/home
 https://sites.google.com/view/weben-por/home
 https://sites.google.com/view/webenpro/home
+https://sites.google.com/view/webexdus-en/home
 https://sites.google.com/view/webexodus-cdn/home
 https://sites.google.com/view/webexodus-intro/home
 https://sites.google.com/view/webextension-metamsk/home
