@@ -82596,7 +82596,6 @@ coinbase-pro-sign-in.gitbook.io
 coinbase-pro-sign-in-4.gitbook.io
 coinbase-pro-xilogin.gitbook.io
 coinbase-prologin-us.gitbook.io
-coinbase-wallet-sign-in.gitbook.io
 coinbase-wallet-verify-update-login-fr.gitbook.io
 coinbase-wallett-extension.gitbook.io
 coinbase-walletui.gitbook.io
@@ -82854,7 +82853,6 @@ helpsmetskwltex.gitbook.io
 home---app-exod-cdn.gitbook.io
 home--e-exodus---cdn.gitbook.io
 home--ellipall---sso.gitbook.io
-home-coinbase-wallet.gitbook.io
 home-ellipal.gitbook.io
 home-exodus--e.gitbook.io
 home-mew.gitbook.io
@@ -95417,6 +95415,7 @@ borroweth.org
 botcheckfree.org
 orca.bowbi.org
 bpdae.org
+bravechat.org
 bravee.org
 bridge-monad.org
 bridgetron.org

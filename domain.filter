@@ -82596,7 +82596,6 @@
 ||coinbase-pro-sign-in-4.gitbook.io^$all
 ||coinbase-pro-xilogin.gitbook.io^$all
 ||coinbase-prologin-us.gitbook.io^$all
-||coinbase-wallet-sign-in.gitbook.io^$all
 ||coinbase-wallet-verify-update-login-fr.gitbook.io^$all
 ||coinbase-wallett-extension.gitbook.io^$all
 ||coinbase-walletui.gitbook.io^$all
@@ -82854,7 +82853,6 @@
 ||home---app-exod-cdn.gitbook.io^$all
 ||home--e-exodus---cdn.gitbook.io^$all
 ||home--ellipall---sso.gitbook.io^$all
-||home-coinbase-wallet.gitbook.io^$all
 ||home-ellipal.gitbook.io^$all
 ||home-exodus--e.gitbook.io^$all
 ||home-mew.gitbook.io^$all
@@ -95417,6 +95415,7 @@
 ||botcheckfree.org^$all
 ||orca.bowbi.org^$all
 ||bpdae.org^$all
+||bravechat.org^$all
 ||bravee.org^$all
 ||bridge-monad.org^$all
 ||bridgetron.org^$all
