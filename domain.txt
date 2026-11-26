@@ -96897,6 +96897,7 @@ secux-app.org
 send-trust-wallet.org
 senuti.org
 shapeshiftdao.org
+shibwallet.org
 shmonad.org
 sidradex.org
 silk-suite.org
