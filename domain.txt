@@ -28557,7 +28557,6 @@ coinbasewebextention.com
 coinbaseworld.com
 coinbasextensions.com
 coinbaseyoi.com
-coinbaso.com
 coinbasw.com
 coinbav.com
 coinbavo.com
@@ -75886,7 +75885,6 @@ zap.exchange
 akash.expert
 dscrloanscalifornia.expert
 trustwallet.expert
-git.coinbase.exposed
 tokenmanager.coinbase.exposed
 polymarket.exposed
 rainbet.express
