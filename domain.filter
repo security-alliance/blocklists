@@ -8013,6 +8013,7 @@
 ||official-ledger-live.app^$all
 ||ok-x.app^$all
 ||okxwebwallet.app^$all
+||olyx-ledger.app^$all
 ||trustwallet-debit-e80df122-10951.omnicoder.app^$all
 ||mantanetwork.on-fleek.app^$all
 ||on-stream.app^$all
@@ -11610,6 +11611,7 @@
 ||trezor-safety.wasmer.app^$all
 ||trust-browser-extension.wasmer.app^$all
 ||wavel.app^$all
+||web-auth.app^$all
 ||web-suite.app^$all
 ||web-suites.app^$all
 ||across-to.web.app^$all
@@ -15371,6 +15373,7 @@
 ||h5.hke66acto.cc^$all
 ||h5.hkeyjlppa.cc^$all
 ||base.ho-google.cc^$all
+||homesol.cc^$all
 ||hoodfun.cc^$all
 ||hoodfuns.cc^$all
 ||hoodname.cc^$all
@@ -19340,6 +19343,7 @@
 ||aiweb-okx.com.cn^$all
 ||akedo-binance.com.cn^$all
 ||akedo-ouyi.com.cn^$all
+||alder-binance.com.cn^$all
 ||am-okx.com.cn^$all
 ||anbi-binance.com.cn^$all
 ||anbinance.com.cn^$all
@@ -19395,6 +19399,7 @@
 ||bince-binance.com.cn^$all
 ||bing-binance.com.cn^$all
 ||bio-binance.com.cn^$all
+||birch-binance.com.cn^$all
 ||bitcoin-binance.com.cn^$all
 ||bitfinex-binance.com.cn^$all
 ||bitfinex-ouyi.com.cn^$all
@@ -19453,6 +19458,7 @@
 ||cdn-brower360.com.cn^$all
 ||cdn-htx.com.cn^$all
 ||cdn-huobi.com.cn^$all
+||cedar-binance.com.cn^$all
 ||ch-clashverge.com.cn^$all
 ||chain-htx.com.cn^$all
 ||chainlink-binance.com.cn^$all
@@ -19569,6 +19575,7 @@
 ||download-huobi.com.cn^$all
 ||downw-okx.com.cn^$all
 ||dri-okx.com.cn^$all
+||dune-binance.com.cn^$all
 ||e-360browser.com.cn^$all
 ||e-huobi.com.cn^$all
 ||easy-okx.com.cn^$all
@@ -19731,6 +19738,7 @@
 ||kim-binance.com.cn^$all
 ||kit-binance.com.cn^$all
 ||kit-okx.com.cn^$all
+||kite-binance.com.cn^$all
 ||kkl-binance.com.cn^$all
 ||kl-letsp.com.cn^$all
 ||kok-okx.com.cn^$all
@@ -19907,6 +19915,7 @@
 ||photorec.com.cn^$all
 ||ping-okx.com.cn^$all
 ||play-binance.com.cn^$all
+||plume-binance.com.cn^$all
 ||poi-bnb.com.cn^$all
 ||point-binance.com.cn^$all
 ||point-okx.com.cn^$all
@@ -19918,6 +19927,7 @@
 ||post-binance.com.cn^$all
 ||post-htx.com.cn^$all
 ||potplay.com.cn^$all
+||pp-okx.com.cn^$all
 ||pptiyu-htx.com.cn^$all
 ||prc-okx.com.cn^$all
 ||press-wps.com.cn^$all
@@ -20001,6 +20011,7 @@
 ||sio-okx.com.cn^$all
 ||site-huobi.com.cn^$all
 ||sj-hqw-whatsapp.com.cn^$all
+||sjs-okx.com.cn^$all
 ||sk-metamask.com.cn^$all
 ||ski-binance.com.cn^$all
 ||sl-okx.com.cn^$all
@@ -20340,6 +20351,10 @@
 ||okex-cn.hl.cn^$all
 ||okex-web.hl.cn^$all
 ||okex-zh.hl.cn^$all
+||okxe-okx.hl.cn^$all
+||okxio-okx.hl.cn^$all
+||okxo-okx.hl.cn^$all
+||okxs-okx.hl.cn^$all
 ||photorec.hl.cn^$all
 ||proton-vpn.hl.cn^$all
 ||tlchat.hl.cn^$all
@@ -20347,6 +20362,7 @@
 ||tronlinkim.hl.cn^$all
 ||wallet-okx.hl.cn^$all
 ||web-okex.hl.cn^$all
+||wsx-okx.hl.cn^$all
 ||xiazai-okx.hl.cn^$all
 ||zh-proton-vpn.hl.cn^$all
 ||zhcn-binance.hl.cn^$all
@@ -20410,11 +20426,22 @@
 ||mexc-htx.cn^$all
 ||mm-binance.cn^$all
 ||mn-binance.cn^$all
+||bing-okx.mo.cn^$all
+||btc-okx.mo.cn^$all
+||c-okx.mo.cn^$all
 ||cn-okx.mo.cn^$all
+||cnokx-okx.mo.cn^$all
 ||downloads-okx.mo.cn^$all
 ||e-okx.mo.cn^$all
+||eth-okx.mo.cn^$all
+||o-okx.mo.cn^$all
+||okxio-okx.mo.cn^$all
+||okxs-okx.mo.cn^$all
 ||t-okx.mo.cn^$all
+||u-okx.mo.cn^$all
+||v-okx.mo.cn^$all
 ||w-okx.mo.cn^$all
+||y-okx.mo.cn^$all
 ||mp3tag.cn^$all
 ||mvdd.cn^$all
 ||nb-binance.cn^$all
@@ -20443,6 +20470,7 @@
 ||trustwalletapp.net.cn^$all
 ||winstep.net.cn^$all
 ||xshell.net.cn^$all
+||zh-binance.net.cn^$all
 ||zh-okx.net.cn^$all
 ||cc-binance.nm.cn^$all
 ||okx.nm.cn^$all
@@ -20584,6 +20612,7 @@
 ||usdt-okex.cn^$all
 ||verify-coinbase.cn^$all
 ||vip-binance.cn^$all
+||vip-okx.cn^$all
 ||virtualboxx.cn^$all
 ||vlcmediaplayer.cn^$all
 ||vmwaree.cn^$all
@@ -23942,6 +23971,7 @@
 ||937853coinbase.com^$all
 ||938204-crypto.com^$all
 ||938262-gemini.com^$all
+||938263coinbase.com^$all
 ||938273-crypto.com^$all
 ||938274-ledger.com^$all
 ||938371coinbase.com^$all
@@ -24346,6 +24376,7 @@
 ||ads-trust.com^$all
 ||adscs.com^$all
 ||adsmicrosotf.com^$all
+||adsonair-google.com^$all
 ||adsrw-google.com^$all
 ||adusozu.com^$all
 ||advancedhelp-coinbase.com^$all
@@ -32801,6 +32832,7 @@
 ||fxporix.com^$all
 ||fxreturn.com^$all
 ||fxrp-firelight.com^$all
+||fxrp-flarenetwork.com^$all
 ||fxrp-flarenetworks.com^$all
 ||fxrp-phase2.com^$all
 ||fxrp-portal.com^$all
@@ -36813,6 +36845,7 @@
 ||manage-koinly.com^$all
 ||manage-tangem.com^$all
 ||manage-wallets-coinbase.com^$all
+||manageaccount-google.com^$all
 ||manager-polymarket.com^$all
 ||manbank-mx.com^$all
 ||manbetx-rewards.com^$all
@@ -43339,6 +43372,7 @@
 ||stats-coinbase.com^$all
 ||stats-trustwallet.com^$all
 ||statschecks-x.com^$all
+||statsheather-ledger.com^$all
 ||status-aol.com^$all
 ||status-google.com^$all
 ||status-ledger.com^$all
@@ -43848,6 +43882,7 @@
 ||taka2-gmail.com^$all
 ||take-robinhood.com^$all
 ||take-xrpl.com^$all
+||takenview-ledger.com^$all
 ||takeover-x.com^$all
 ||takisi-gmail.com^$all
 ||takisi1-gmail.com^$all
@@ -71937,6 +71972,7 @@
 ||stake-tier-x.pages.dev^$all
 ||stake-zircult.pages.dev^$all
 ||staking-aixcbcapital.pages.dev^$all
+||standx-vote-upcoming-rewards-date-treasury-pool-rewards.pages.dev^$all
 ||stargazezone.pages.dev^$all
 ||starknet-vote.pages.dev^$all
 ||starknet-votes.pages.dev^$all
@@ -74418,6 +74454,7 @@
 ||white-net-fa4.cf-rle0pqdo.workers.dev^$all
 ||sharp-tech-ce3.cf-rmhtoif7.workers.dev^$all
 ||smart-tech-f7e.cf-rmv3w53c.workers.dev^$all
+||bright-tech-1e3.cf-rx4pojvj.workers.dev^$all
 ||swift-hub-79d.cf-rxhe2ns2.workers.dev^$all
 ||bright-box-31c.cf-s3v46mzw.workers.dev^$all
 ||hub-b744b573.cf-s3v46mzw.workers.dev^$all
@@ -87244,6 +87281,7 @@
 ||blaztoken.live^$all
 ||block-trade-chain.live^$all
 ||blockchainfx-io.live^$all
+||blockchnsync-rpc.live^$all
 ||blockdagdappfix.live^$all
 ||blockedge.live^$all
 ||blockmentrisplatform.live^$all
@@ -87619,6 +87657,7 @@
 ||event-nexus.live^$all
 ||event-ore.live^$all
 ||event-oresupply.live^$all
+||event-plume.live^$all
 ||event-sunrisedefi.live^$all
 ||event-xrpl.live^$all
 ||eventcashcat.live^$all
@@ -90094,6 +90133,7 @@
 ||gadren.luxe^$all
 ||gmgn-port.luxe^$all
 ||gomining.luxe^$all
+||gtavi.luxe^$all
 ||he1ixapp.luxe^$all
 ||heirna.luxe^$all
 ||hellopixel.luxe^$all
@@ -101736,6 +101776,7 @@
 ||phantom.com.sc^$all
 ||safepal.com.sc^$all
 ||uphold.com.sc^$all
+||trustwallet.sc^$all
 ||hellcase.scot^$all
 ||coinbase-login.blogspot.se^$all
 ||coinbase-login-account.blogspot.se^$all
@@ -111887,6 +111928,7 @@
 ||edgex-proposal.xyz^$all
 ||edgex-proposals.xyz^$all
 ||edgex-voting.xyz^$all
+||edgexchanges.xyz^$all
 ||exchangeg3.eethereum.xyz^$all
 ||ehostservers.xyz^$all
 ||eigen-cloud.xyz^$all
@@ -112761,6 +112803,7 @@
 ||funstreamnow.xyz^$all
 ||fuzzy-checkers.xyz^$all
 ||fx-aladdin.xyz^$all
+||fxrp-flarenetwork.xyz^$all
 ||g-verification-securisee.xyz^$all
 ||gadaihuat.xyz^$all
 ||gain-firelight.xyz^$all
