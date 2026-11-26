@@ -47724,7 +47724,6 @@ apprabbyy-extensions.wixstudio.com
 apprebby-extnsions.wixstudio.com
 apps-atomcc.wixstudio.com
 apps-base-extensionn.wixstudio.com
-apps-base-extensions.wixstudio.com
 apps-base-extnson.wixstudio.com
 apps-base-home.wixstudio.com
 apps-basecdn.wixstudio.com
