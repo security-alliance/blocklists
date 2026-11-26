@@ -28347,7 +28347,6 @@ coinbase-activate.com
 coinbase-alert.com
 coinbase-alerts.com
 coinbase-anthony.com
-02c70bfd-0103-40ae-a3a3-fbb568d8eff3.coinbase-api.com
 app.coinbase-app.com
 coinbase-assists.com
 coinbase-authenticator.com
