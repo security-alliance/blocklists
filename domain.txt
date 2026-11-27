@@ -106311,6 +106311,7 @@ rewards-firelight.top
 rewards-flr.top
 rewards-flr-ecosystem.top
 rewards-flyingtulip.top
+rewards-getx.top
 rewards-kinetiqfoundation.top
 rewards-meridian.top
 rewards-morpho.top
@@ -115195,6 +115196,7 @@ rewards-arbitrumdrip.xyz
 rewards-asterdex.xyz
 rewards-avax.xyz
 rewards-axisrobotics.xyz
+rewards-colnbase.xyz
 rewards-concrete.xyz
 rewards-degen.xyz
 rewards-deltaliquidity.xyz
