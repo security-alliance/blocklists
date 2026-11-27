@@ -53381,6 +53381,7 @@ oskarkregar.dev
 0afd-coinbase-listing-677f.pages.dev
 0b7a-colnbase-listings-4f65.pages.dev
 0beb-fa8e-5133-c0inbase-list.pages.dev
+0ccd-482c-coinbase-listing.pages.dev
 0d7f-4c29-5133-c0inbase-list.pages.dev
 0e0a-642f-5133-cb-listings.pages.dev
 0e41-482c-coinbase-listing.pages.dev
@@ -65016,6 +65017,7 @@ pr-7831.1inch-io-app.pages.dev
 91-stonkbroker-clutchmarkets.pages.dev
 91-venice.pages.dev
 91-view-kinetiq.pages.dev
+9133-4c29-5133-c0inbase-list.pages.dev
 91a8-cbc0-coinbase-listing.pages.dev
 92-0xfluid.pages.dev
 92-allocation-yieldfields.pages.dev
@@ -105779,7 +105781,6 @@ krakenbj.top
 krakenhk.top
 krakenmq.top
 krakenx.top
-krkn-shop.top
 ktxjp.top
 kucoint.top
 kvgwfm.top
