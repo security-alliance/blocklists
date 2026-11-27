@@ -263,6 +263,7 @@ https://sites.google.com/view/coinbas--extension/home
 https://sites.google.com/view/coinbas-chromm/home
 https://sites.google.com/view/coinbas-estarte/home
 https://sites.google.com/view/coinbas-exten/home
+https://sites.google.com/view/coinbas-extenion/home
 https://sites.google.com/view/coinbas-extension-/home
 https://sites.google.com/view/coinbas-extensn/home
 https://sites.google.com/view/coinbas-extenson-sso/home
@@ -463,6 +464,7 @@ https://sites.google.com/view/coinbasee-public-/home
 https://sites.google.com/view/coinbasee-xtensio/home
 https://sites.google.com/view/coinbaseesw/home
 https://sites.google.com/view/coinbaseex-ension/home
+https://sites.google.com/view/coinbaseexf/home
 https://sites.google.com/view/coinbaseexh/home
 https://sites.google.com/view/coinbaseexten--/home
 https://sites.google.com/view/coinbaseextension-wallt/home
@@ -934,6 +936,7 @@ https://sites.google.com/view/home-koinbas/home
 https://sites.google.com/view/home-koinbase--/home
 https://sites.google.com/view/home-metamask/home
 https://sites.google.com/view/home-qoinbase/home
+https://sites.google.com/view/home-qoinextension/home
 https://sites.google.com/view/homepage-appstart/home
 https://sites.google.com/view/homepage-coinextension/home
 https://sites.google.com/view/homepage-get/home
@@ -1482,6 +1485,7 @@ https://sites.google.com/view/my-base-extension/home
 https://sites.google.com/view/myrobinhoodapps/home
 https://sites.google.com/view/nav-base-/home
 https://sites.google.com/view/nav-base-extensio/home
+https://sites.google.com/view/nav-base-extensions/home
 https://sites.google.com/view/nav-base-extensionss/home
 https://sites.google.com/view/nav-coinbase-web/home
 https://sites.google.com/view/nav-coinspros/home
@@ -1741,6 +1745,7 @@ https://sites.google.com/view/use-metamask-app/home
 https://sites.google.com/view/use-metamask/home
 https://sites.google.com/view/use-new-chrmextension/home
 https://sites.google.com/view/used-exoduscdn/home
+https://sites.google.com/view/user-base-extension/home
 https://sites.google.com/view/user-base-extensionapp/home
 https://sites.google.com/view/user-base-extensionn/home
 https://sites.google.com/view/user-begin-chrom/home
