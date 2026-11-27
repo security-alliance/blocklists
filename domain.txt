@@ -6172,7 +6172,6 @@ phantomconn.netlify.app
 phantompro.netlify.app
 phantomwallet1.netlify.app
 phantomwalletdapps.netlify.app
-phantomwlt.netlify.app
 poah-genesis.netlify.app
 pollglobalvote-ux.netlify.app
 polymarketfifa.netlify.app
