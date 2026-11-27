@@ -31742,7 +31742,6 @@ event-embercurve.com
 event-everstake.com
 event-finance.com
 event-firelightfi.com
-event-flare.com
 event-flarenetworks.com
 event-florentine.com
 event-genius.com
@@ -75053,6 +75052,7 @@ knotsonstonk.digital
 korprotocol.digital
 learninvrion.digital
 ledgerpanel.digital
+legalspeckle.digital
 lighters.digital
 liminalmoney.digital
 liquid-safe.digital
