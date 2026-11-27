@@ -192,6 +192,7 @@ https://sites.google.com/view/browser-apps-base/home
 https://sites.google.com/view/browser-appsbase/home
 https://sites.google.com/view/browser-base-apps/home
 https://sites.google.com/view/browser-base-cdn/home
+https://sites.google.com/view/browser-base-extension/home
 https://sites.google.com/view/browser-coinbse/home
 https://sites.google.com/view/browser-exo-wallet/home
 https://sites.google.com/view/browser-exodus-web3/home
@@ -281,6 +282,7 @@ https://sites.google.com/view/coinbas-chromm/home
 https://sites.google.com/view/coinbas-estarte/home
 https://sites.google.com/view/coinbas-exten/home
 https://sites.google.com/view/coinbas-extenion/home
+https://sites.google.com/view/coinbas-extensi/home
 https://sites.google.com/view/coinbas-extensio-/home
 https://sites.google.com/view/coinbas-extensio/home
 https://sites.google.com/view/coinbas-extension-/home
@@ -790,6 +792,7 @@ https://sites.google.com/view/extension--qoinbase/home
 https://sites.google.com/view/extension-app-/home
 https://sites.google.com/view/extension-app-io/home
 https://sites.google.com/view/extension-appss/home
+https://sites.google.com/view/extension-appsus/home
 https://sites.google.com/view/extension-base-view/home
 https://sites.google.com/view/extension-base-web/home
 https://sites.google.com/view/extension-coin/home
