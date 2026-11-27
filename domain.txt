@@ -70530,7 +70530,6 @@ officia-l-ledger-live.pages.dev
 official--ledgr--io.pages.dev
 official-apps-suitess.pages.dev
 official-baseswap-us.pages.dev
-official-chainsecure.pages.dev
 official-com-ledgr.pages.dev
 official-en-io-trezor.pages.dev
 official-exo-usi.pages.dev
