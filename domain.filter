@@ -11851,7 +11851,6 @@
 ||xrpclaim.app^$all
 ||xrpdrop.app^$all
 ||xrpdrops.app^$all
-||xrpfi-flare.app^$all
 ||xrpfi-flarenetwork.app^$all
 ||xrpfi-hub-flare.app^$all
 ||xrpl-allocation.app^$all

@@ -11851,7 +11851,6 @@ xrpcafe-apex.app
 xrpclaim.app
 xrpdrop.app
 xrpdrops.app
-xrpfi-flare.app
 xrpfi-flarenetwork.app
 xrpfi-hub-flare.app
 xrpl-allocation.app
