@@ -58759,6 +58759,7 @@ pr-7831.1inch-io-app.pages.dev
 279-kinetiqgov.pages.dev
 279-lists-okxvotes.pages.dev
 279-reallocate-flare.pages.dev
+27cd-67ae-colnbase-listings.pages.dev
 27e8-482c-coinbase-listing.pages.dev
 28-0xfluid.pages.dev
 28-allocation-yieldfields.pages.dev
@@ -67710,6 +67711,7 @@ fassets-flare-testing-now.pages.dev
 fassets-portal.pages.dev
 fbbf-colnbase-listings-4f65.pages.dev
 fbe6-f0d3-cb-listings.pages.dev
+fc68-482c-coinbase-listing.pages.dev
 fcn-ledger-q7m4.pages.dev
 fdd0-67ae-colnbase-listings.pages.dev
 fdg-trezr-strt.pages.dev
