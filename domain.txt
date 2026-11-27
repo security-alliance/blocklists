@@ -11692,6 +11692,7 @@ phantomwalletus.web.app
 phrsnetwork.web.app
 plether-testnet.web.app
 polymarket-dashboards.web.app
+polymarket-pro.web.app
 polymarketen.web.app
 polymarketpusd.web.app
 polymarkets-en.web.app

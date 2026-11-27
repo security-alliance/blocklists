@@ -11692,6 +11692,7 @@
 ||phrsnetwork.web.app^$all
 ||plether-testnet.web.app^$all
 ||polymarket-dashboards.web.app^$all
+||polymarket-pro.web.app^$all
 ||polymarketen.web.app^$all
 ||polymarketpusd.web.app^$all
 ||polymarkets-en.web.app^$all
