@@ -82,6 +82,7 @@ https://sites.google.com/view/apps-extn-base/home
 https://sites.google.com/view/apps-io-metamske/home
 https://sites.google.com/view/apps-io-metma/home
 https://sites.google.com/view/apps-koinbas/home
+https://sites.google.com/view/apps-koinbases/home
 https://sites.google.com/view/apps-metamaask/home
 https://sites.google.com/view/apps-metamask-extion/home
 https://sites.google.com/view/apps-metmassk-io/home
@@ -515,6 +516,7 @@ https://sites.google.com/view/coinbasextsions/home
 https://sites.google.com/view/coinbass-exten/home
 https://sites.google.com/view/coinbasse--public-/home
 https://sites.google.com/view/coinbasse-chrm-exten/home
+https://sites.google.com/view/coinbasse-chro--/home
 https://sites.google.com/view/coinbasse-chro/home
 https://sites.google.com/view/coinbasse-exten--/home
 https://sites.google.com/view/coinbasse-gettings/home
@@ -943,6 +945,7 @@ https://sites.google.com/view/home-coin-extension/home
 https://sites.google.com/view/home-coinbas/home
 https://sites.google.com/view/home-coinbase-extension/home
 https://sites.google.com/view/home-coinbase-extensionn/home
+https://sites.google.com/view/home-coinextensio-/home
 https://sites.google.com/view/home-coinextensio/home
 https://sites.google.com/view/home-exodus-web/home
 https://sites.google.com/view/home-exodusweb3-sso/home
