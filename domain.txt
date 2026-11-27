@@ -110946,7 +110946,6 @@ claim-cmc.xyz
 claim-collectorcrypt.xyz
 claim-concrete.xyz
 claim-concretefoundation.xyz
-claim-degencoin.xyz
 claim-dgrid.xyz
 claim-dog.xyz
 claim-dogeballtoken.xyz
