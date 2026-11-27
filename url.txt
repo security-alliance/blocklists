@@ -1790,7 +1790,6 @@ https://sites.google.com/view/trezor-api-connect/trezor-suite
 https://sites.google.com/view/trezor-api-signin
 https://sites.google.com/view/trezor-api-signin/trezor-suite
 https://sites.google.com/view/trezor-api-web
-https://sites.google.com/view/trezor-api/trezor-suite
 https://sites.google.com/view/trezor-apis/trezor-suite
 https://sites.google.com/view/trezor-app-api/trezor-suite
 https://sites.google.com/view/trezor-app-crypto
