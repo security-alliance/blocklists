@@ -24036,7 +24036,6 @@ ww38.coinbaseverifier.8x8pnhv.com
 984126-apple.com
 984332-crypto.com
 984383-icloud.com
-985154kraken.com
 9851coinbase.com
 98529-kucoin.com
 985612-crypto.com
@@ -102362,6 +102361,7 @@ livemeet.site
 livemeetcalls.site
 liveteam.site
 login-mictosoft.site
+luckymarket.site
 lunar-frost-glow-9c3a7f.site
 magstream.site
 mailvault.site
