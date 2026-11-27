@@ -92282,6 +92282,7 @@ onstreamapks.net
 onstreamapps.net
 ontowallet.net
 onxywallet.net
+openseaai.net
 opensean.net
 ops-telemetry-nodes.net
 optimal-trader.net
