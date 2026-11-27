@@ -8185,6 +8185,7 @@ kuka-production.up.railway.app
 m-repo.up.railway.app
 omni-variationalio.up.railway.app
 onlinesssubiipaogioosas-production-1c105a6a.up.railway.app
+oonprotx-production.up.railway.app
 polik-production-5e76.up.railway.app
 polimarketref-production.up.railway.app
 promslxxxxa-production-5791c37d.up.railway.app
