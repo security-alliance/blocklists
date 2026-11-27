@@ -22305,7 +22305,6 @@ ethereum2.360app.com
 3818143-ledger.com
 382019-crypto.com
 382263coinbase.com
-3822937-coinbase.com
 382303-voyager.com
 382684-crypto.com
 382715-crypto.com
@@ -49259,7 +49258,6 @@ io-metmask-extcdn.wixstudio.com
 io-metmaskextnsion.wixstudio.com
 io-metmsk-page.wixstudio.com
 io-monpay-apps.wixstudio.com
-io-moonpayapps.wixstudio.com
 m.io-moonpaycdn.wixstudio.com
 io-raabbyweb-apps.wixstudio.com
 io-rabby-extension.wixstudio.com
