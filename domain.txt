@@ -14287,7 +14287,6 @@ bose.cam
 bozei.cam
 relay.brldge.cam
 cakewallet.cam
-canton.cam
 carpro-coin.cam
 cervantas.cam
 checkinbox.cam
@@ -14328,7 +14327,7 @@ joinopenstandard.cam
 kamino.cam
 keep822.cam
 keeta.cam
-kpkio.cam
+app.kpkio.cam
 ktxjp.cam
 kxeg.cam
 3chs--.laxmihotels-us.cam
@@ -29500,7 +29499,6 @@ comp-swap.com
 companyease.com
 compel-x.com
 compensation-apyx.com
-compensation-lido.com
 compensations-apyx.com
 compensations-metronome.com
 compesci.com
@@ -110304,7 +110302,6 @@ appgrvt.xyz
 appintegrateverse-click.xyz
 coinapibase.appletteron2fa.xyz
 appliquidhyper.xyz
-apply-verusinsurance.xyz
 appmini.xyz
 appmovement.xyz
 appotc.xyz
@@ -111259,7 +111256,6 @@ dashboard-useyap.xyz
 dashboard-venice.xyz
 dashboard-wlfi.xyz
 dashboardbase.xyz
-dashboards-aave.xyz
 dashboards-apyx.xyz
 dashboards-axisrobotics.xyz
 dashboards-check-ore.xyz
@@ -111646,7 +111642,6 @@ enroll-ponsfamily.xyz
 enroll-raacfi.xyz
 enroll-sparkdex.xyz
 enroll-world.xyz
-enter-base.xyz
 enter-berachain.xyz
 enter-chainlink.xyz
 enter-citrea.xyz
@@ -117198,7 +117193,6 @@ verified-archive-sync.xyz
 verify-connect.xyz
 verify-moonsshot.xyz
 verifyjupag.xyz
-verus-insurance.xyz
 vesper-finance.xyz
 vevirtuals.xyz
 vevirtualsapp.xyz
@@ -117266,7 +117260,6 @@ vote-etherfinances.xyz
 vote-extendedexchange.xyz
 vote-fables.xyz
 vote-falconfinances.xyz
-vote-felix.xyz
 vote-fiare.xyz
 vote-fiarenetwork.xyz
 vote-finsolutions.xyz
