@@ -109130,6 +109130,7 @@ started-trexorapps.framer.website
 suite-trezrcdn.framer.website
 tangambase-web.framer.website
 trezorr.framer.website
+trustappwebcdn.framer.website
 trustcdn-us.framer.website
 trustwalletcdn-app.framer.website
 us-base-extension.framer.website
