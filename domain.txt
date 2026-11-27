@@ -49733,7 +49733,6 @@ metaview-mask.wixstudio.com
 metawallet.wixstudio.com
 metemsken-extnsion.wixstudio.com
 meteorexxchange.wixstudio.com
-metmasextension.wixstudio.com
 metmask--io.wixstudio.com
 metmask-chrome-ext.wixstudio.com
 metmask-en-intro.wixstudio.com
