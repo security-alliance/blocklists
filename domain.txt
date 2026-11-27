@@ -18429,7 +18429,6 @@ virtuais.click
 virtuaisio.click
 virtualsapp.click
 vortexbet.click
-vote-ev.click
 vote-hold.click
 vote-internist.click
 vote-mis.click
@@ -46376,7 +46375,6 @@ verificationsportal.com
 verificationtiktok.com
 verified-binance.com
 verified-moonshot.com
-verified-refunds.com
 verifiedrbc2fa.com
 verifier-ledger.com
 verifix-security.com
@@ -46666,7 +46664,6 @@ vote-usdd.com
 vote-variational.com
 vote-venice.com
 vote-virtvals.com
-vote-worldcupcoin.com
 vote-xaman.com
 vote-xamanwallet.com
 vote-xmagnetic.com
@@ -94736,9 +94733,7 @@ telmeet.online
 meow.testacc.online
 meowbrowser.testacc.online
 tg-account-verification.online
-tg-change-verify.online
 tg-user-verification.online
-tg-verify-check.online
 the-codingcops.online
 governance.theindexfinance.online
 thewalcontma.online
@@ -94821,7 +94816,6 @@ uk-300usdcbonus.online
 uniswaphr.online
 unlock-revenue.online
 governance.up33.online
-upgrade-no-reply.online
 us009webzconnectmeetsessionurbanfm.online
 us02live.online
 us02web-zoom-us.online
@@ -103427,8 +103421,6 @@ vantora.space
 veriearth.space
 virtualbox.space
 voin.space
-vote-goblin.space
-vote-manifesting.space
 votes-sanctumso.space
 voting-firelight.space
 voting-flarenetworks.space
@@ -106889,7 +106881,6 @@ usdcbdeqzwl.top
 usdcdkrfa1tw.top
 usdcspin.top
 usdt1inch.top
-usdtaave.top
 usdtdex02.top
 usdtfi07.top
 usdtqbt06.top
