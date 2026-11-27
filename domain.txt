@@ -25077,7 +25077,6 @@ apyx-vote.com
 apyx-votes.com
 apyxfinances.com
 apyxgenesis.com
-apyxusd.com
 aqua5bot.com
 aquaslidehouse.com
 aquifer-dex.com
@@ -31395,7 +31394,6 @@ enroll-alignedlayer.com
 enroll-arcium.com
 enroll-berachain.com
 enroll-curve.com
-enroll-firelight.com
 enroll-hyperecosystem.com
 enroll-mega.com
 enroll-megaevent.com
@@ -37679,7 +37677,6 @@ multifirelight.com
 multincfifoundation.com
 multiplier-solsticefinance.com
 multipliers-solsticefinance.com
-multiplyfirelight.com
 multiplyflare.com
 multisource-secure-alerts.com
 multitrustholdings.com
@@ -39491,7 +39488,6 @@ poerux.com
 collab.pofs-land.com
 point-google.com
 points-pendle.com
-points-shadow.com
 points-solsticefinance.com
 points-stonkpad.com
 points-stonkspad.com
@@ -43127,7 +43123,6 @@ stage2flare.com
 polymarket.stake-btc.com
 stake-casino-ie.com
 stake-casino2026.com
-stake-firelight.com
 stake-fly.com
 stake-good.com
 stake-jeux.com
@@ -90887,7 +90882,6 @@ aricettoug.net
 2xundeehzzk2t4xwq65fo25s6dg5sucfyrwdzyacngxgx6euz3ea.arweave.net
 32jqq3kcfeqinu7zwaj6by2xbuibsvsnrusgyfh57cu7d63iad7a.arweave.net
 337zq6sqgz3anob54tda4tzbayuf66yfm2rdxaxbwip4bwqf3vna.arweave.net
-342bwxt6je7xindj6p4oga5vwgrcvicttquiy4c2z65rvvqfxpja.arweave.net
 343l4nyk5uivmtszrxmpbqx4f2ymdv6xqjx4ulagqeieykdsgogq.arweave.net
 367ha52gsj5dndxkhz4ttsf6kmwc5dl3upwqemn3thb7c6ocgseq.arweave.net
 3iqp33crxxmid4jxjyxtjk3vpzunmb4juxabxdef2cqc7jkskq3q.arweave.net
@@ -90917,7 +90911,6 @@ aricettoug.net
 4t5phplfvpv2ucuycikxaksneuf63b6w6gqaozrcsw4hlmmoodpq.arweave.net
 4w6ddxt6f4e22rdqoujk5azp5nxi2wctfrsvronwaz27ffnerd7a.arweave.net
 4yqublzrzoo4nr54brmzvmgr5eftmn3fqx4dtvjdue23a47ii7sq.arweave.net
-52xcxdmmxh2tik52rnwzpfprqnpqiqmgk4vrmiiyplslfipwh52q.arweave.net
 5fptrd4shebpfevicuwi3t2zw3spo64lzeohgscxye5t6cm67dvq.arweave.net
 5ifypa26z6627xvwmbuajqpvyosrcjghidftxx7s572cylugjk5a.arweave.net
 5j2657zu7ahkop5fchphxlmcjeewmro6e7ida3ga5fp42e5smxta.arweave.net
@@ -98527,7 +98520,6 @@ jup-gate.pro
 jup-portal.pro
 jupiter-perp.pro
 jupitertrade.pro
-kaiovaults.pro
 karninofinance.pro
 kineticmarket.pro
 kinetiqxyz.pro
@@ -104575,7 +104567,6 @@ eligibility.today
 ethenafiapp-vote.today
 falconvote-app.today
 khelmantra.today
-lienlfi.today
 marinade.today
 melaniatrump.today
 mica-compliance.today
@@ -110061,7 +110052,6 @@ allocations-hypereco.xyz
 allocations-hyperfoundation.xyz
 allocations-hyperfoundation2.xyz
 allocations-infinifi.xyz
-allocations-injective.xyz
 allocations-jtx.xyz
 allocations-jumper.xyz
 allocations-jumpers.xyz
@@ -111499,7 +111489,6 @@ ecosystemsstonkfun.xyz
 ecosystemstonkfun.xyz
 edelfinance-vote.xyz
 edelfinance-votes.xyz
-edelvaults.xyz
 edensun.xyz
 edge-finance.xyz
 edgex-allocation.xyz
@@ -113710,7 +113699,6 @@ mercade.xyz
 mercortalents.xyz
 meridian-register.xyz
 meridianecosystem.xyz
-merkl-distribution.xyz
 merkl-enter.xyz
 merkl-morpho.xyz
 merkl-register.xyz
@@ -114453,7 +114441,6 @@ playmogs.xyz
 pluggable-warden.xyz
 plumenetwork-join.xyz
 plumenetwork-registration.xyz
-plumenetwork-treasury.xyz
 plumenetwork-vote.xyz
 plumenetwork-votes.xyz
 plumenetwork-voting.xyz
@@ -117965,7 +117952,6 @@ zestprotocol-reallocation.xyz
 zestprotocol-registration.xyz
 zestprotocol-registrations.xyz
 zestprotocol-treasury.xyz
-zestprotocol-vault.xyz
 zestprotocol-vote.xyz
 zestprotocol-votes.xyz
 zestprotocol-voting.xyz
