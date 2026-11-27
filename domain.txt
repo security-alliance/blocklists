@@ -48413,7 +48413,6 @@ en-coinbase-hub.wixstudio.com
 en-cointkr.wixstudio.com
 en-conbase-extension.wixstudio.com
 en-download-livee.wixstudio.com
-en-dydxx.wixstudio.com
 en-eng-exods.wixstudio.com
 en-ettarro-io.wixstudio.com
 en-ettoro-us.wixstudio.com
@@ -49134,7 +49133,6 @@ homepage-bitby.wixstudio.com
 homepage-coinbase.wixstudio.com
 homepage-coinbasecdn.wixstudio.com
 homepage-coinbse-us.wixstudio.com
-homepage-dydxxcdn.wixstudio.com
 homepage-iorabbycdn.wixstudio.com
 homepage-iorabbyy.wixstudio.com
 homepage-jaxlibrty.wixstudio.com
@@ -50979,7 +50977,6 @@ usen-i-trutcapital.wixstudio.com
 user-base-extension.wixstudio.com
 user-base-extensions.wixstudio.com
 user-bitbuyweb.wixstudio.com
-user-dydxxapps.wixstudio.com
 user-dydxxcdn.wixstudio.com
 user-en-exodues.wixstudio.com
 user-exiudos.wixstudio.com
