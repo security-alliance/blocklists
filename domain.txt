@@ -76558,7 +76558,6 @@ snapshots-theindex.finance
 solincinerator.finance
 sollstice.finance
 claim.solsitice.finance
-solsticce.finance
 solstiice.finance
 solstise.finance
 solstoce.finance
