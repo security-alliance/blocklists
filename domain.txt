@@ -15493,7 +15493,6 @@ microsoft-help.cc
 microsoft-vault.cc
 microsoftit.cc
 midatrade.cc
-minecore.cc
 sui.minersr.cc
 minglo.cc
 mixero.cc
@@ -109684,7 +109683,6 @@ photondao.ws
 rainbet.ws
 rewards-three.ws
 rufus.ws
-tapy.ws
 metamakwallet.tilda.ws
 robinhoodilogin.tilda.ws
 trust-wallet.ws
