@@ -20634,7 +20634,6 @@ app-hyperliquid-v7.co
 app-morpho-v7.co
 app-ox.co
 app-pendle-v7.co
-app-thala.co
 app-trustpade.co
 app-variatonal.co
 app-virtuals.co
@@ -20962,7 +20961,6 @@ motoswap.co
 ms-meeting.co
 ms-teams.co
 mtoken-im.co
-multiplier-aave.co
 myrnonero.co
 sso--moonpay-login---m--auth.mystrikingly.co
 welcome-exodus-wallet--w-cdn.mystrikingly.co
@@ -21077,7 +21075,6 @@ solanaislife.co
 solanastudios.co
 solpost.co
 solsccan.co
-sparkdexai.co
 sparrowwallet.co
 spend-card.co
 stackwallet.co
@@ -34609,7 +34606,6 @@ hypenliqiud.com
 hypenliquids.com
 hyper-lend.com
 hyper-liquid-about.com
-hyperbeatfoundation.com
 governance.hypercosystms.com
 hyperdashs.com
 hyperecos.com
@@ -40067,7 +40063,6 @@ prooftxc.com
 proposal-3jane.com
 proposal-aerodrome.com
 proposal-aevachain.com
-proposal-altdotfun.com
 proposal-apyx.com
 proposal-apyxfi.com
 proposal-arendt.com
@@ -46367,7 +46362,6 @@ verify-2auth.com
 verify-apple-id.com
 verify-apple-signin.com
 verify-blockfi.com
-verify-coinbasa.com
 verify-coinspot.com
 verify-invoice-auth-online.com
 verify-io.com
@@ -52601,7 +52595,6 @@ pendlefi.community
 perle.community
 pharosnetwork.community
 plasmafoundation.community
-prjx.community
 raac.community
 saharaai.community
 sosovalue.community
@@ -75471,7 +75464,6 @@ zoominvites.eu
 3jane.events
 acurast.events
 alphax.events
-altdotfun.events
 anyonefnd.events
 apyx.events
 apyxfi.events
@@ -110173,7 +110165,6 @@ app-3jane.xyz
 app-aero.xyz
 app-aerodromefi.xyz
 app-agentcash.xyz
-app-aptos.xyz
 app-apyxfi.xyz
 app-apyxfinance.xyz
 app-arbitrum.xyz
@@ -111063,7 +111054,6 @@ congecko.xyz
 omni.connect-app.xyz
 connect-basedust.xyz
 connect-basedustsw.xyz
-connect-echoprotocol.xyz
 connect-fables.xyz
 connect-fablesfi.xyz
 connect-flareecosystem.xyz
@@ -113086,7 +113076,6 @@ impossiblefinance.xyz
 imrobinhood.xyz
 incentiv-testnet.xyz
 incentive-firelightfi.xyz
-incentive-hyperliquidx.xyz
 incentiveclaim.xyz
 incentives-aave.xyz
 incentives-uniswap.xyz
@@ -116526,7 +116515,6 @@ sunrisesol.xyz
 sunswap-finance.xyz
 superformfoumdation.xyz
 supersmartwallet.xyz
-support-phoenixtrade.xyz
 support-pumpbtc.xyz
 support-trustwallet.xyz
 supportcnb.xyz
