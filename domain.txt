@@ -47234,7 +47234,6 @@ wedecasino.com
 appuphold.weebly.com
 auth---uphold-cdn-login.weebly.com
 auth-uphold-log-com.weebly.com
-auth-uphold-log-sso.weebly.com
 desktop-uphold-faq.weebly.com
 faq-uphold-web-sso.weebly.com
 geminexchange.weebly.com
@@ -47257,7 +47256,6 @@ tahowallet.weebly.com
 trade-rabbitx.weebly.com
 uphold-logii.weebly.com
 upholdcustomerservice.weebly.com
-upholld-login.weebly.com
 upholldlogi.weebly.com
 uuuphold---cdn.weebly.com
 weekly-whatsapp.com
