@@ -42438,7 +42438,6 @@
 ||server1-google.com^$all
 ||server1-ledger.com^$all
 ||server1-trezor.com^$all
-||server12-coinbase.com^$all
 ||server2-google.com^$all
 ||server3-google.com^$all
 ||server4-google.com^$all

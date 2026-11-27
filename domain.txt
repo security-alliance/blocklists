@@ -42438,7 +42438,6 @@ server-coinbase.com
 server1-google.com
 server1-ledger.com
 server1-trezor.com
-server12-coinbase.com
 server2-google.com
 server3-google.com
 server4-google.com
