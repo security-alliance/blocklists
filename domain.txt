@@ -35802,6 +35802,7 @@ support.krak-n.com
 kraken-200910.com
 kraken-309502.com
 kraken-assets.com
+kraken-auth.com
 kraken-c.com
 kraken-cases.com
 captcha.kraken-cc.com
