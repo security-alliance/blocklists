@@ -89003,7 +89003,6 @@ us05web.live
 us05webzoom.live
 us06.live
 us06cloud.live
-us12room.live
 us2-zoom.live
 usdplus.live
 usdtconnect.live
