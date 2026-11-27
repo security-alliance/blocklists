@@ -113103,6 +113103,7 @@ hyperliquid-events.xyz
 hyperliquid-gov.xyz
 hyperliquid-id.xyz
 hyperliquid-nft.xyz
+hyperliquid-proposal.xyz
 hyperliquid-proposals.xyz
 hyperliquid-s3.xyz
 hyperliquid-season3.xyz
