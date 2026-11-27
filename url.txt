@@ -252,6 +252,8 @@ https://sites.google.com/view/coin-chrom/home
 https://sites.google.com/view/coin-en-us-baseview/home
 https://sites.google.com/view/coin-extension-app/home
 https://sites.google.com/view/coin-extension-cdn/home
+https://sites.google.com/view/coin-extension-explore/home
+https://sites.google.com/view/coin-extension-webs/home
 https://sites.google.com/view/coin-extension/home
 https://sites.google.com/view/coin-extensn-en/home
 https://sites.google.com/view/coin-get-docs/home
