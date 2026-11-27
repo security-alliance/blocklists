@@ -75600,7 +75600,6 @@ rysk.events
 s1-katana.events
 s1-sparkfi.events
 sakanaailabs.events
-saturncredit.events
 saucerswaplabs.events
 season1-frax.events
 season1-katana.events
@@ -77642,7 +77641,6 @@ reviesallchatverserride.fun
 reward-backpack.fun
 reward-embercurve.fun
 reward-fwa.fun
-rewards-alt.fun
 rewards-bitmoon.fun
 rewards-embercurve.fun
 rewards-etherfi.fun
@@ -89694,7 +89692,6 @@ robbierbh.lol
 robinhod-coinfun.lol
 sanaetoken.lol
 sci6900bsc.lol
-scratcher.lol
 scribblification.lol
 season-firelight.lol
 season2-firelight.lol
