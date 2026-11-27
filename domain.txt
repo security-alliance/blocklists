@@ -1201,7 +1201,6 @@ distribution-solsticefinance.app
 distribution-umbra.app
 distribution-usepaid.app
 distributions-desk.app
-distributions-firelight.app
 distributions-flarenetwork.app
 distributions-usepaid.app
 dnsjumper.app
@@ -25102,7 +25101,6 @@ apx-ledger.com
 apyx-financial.com
 apyx-vote.com
 apyx-votes.com
-apyxfinance.com
 apyxfinances.com
 apyxgenesis.com
 apyxusd.com
@@ -52675,7 +52673,6 @@ trusts-wallet.company
 trustwallet.company
 tw-card.company
 ur1.company
-variationalvaults.company
 zoom-connects.company
 ensou.computer
 speccy.computer
@@ -90941,7 +90938,6 @@ aricettoug.net
 23ggzlelrrcqusmukgx35egkid5n63az54pctu72x6p37wmco4oa.arweave.net
 24pyr7fqjdl7fsfphllhtz4fcbl52m2kvw5mnxllrf5mstgl47ta.arweave.net
 26neydub5crkgubepimqyhh7w4ozlf5hdpuf36iqknk4litv23ra.arweave.net
-2dwytrss3gcc3azcjsmzblmlwkons6osieip7q2yjuziufn3h5aq.arweave.net
 2mfmfcz4jwil756ldyluzsqcleqaketkaygd75zmuo2rr2ydwyuq.arweave.net
 2mud2jka3sv6ndl5f4undbnqhz5pv2nipt54mzdukxttpfxis3ia.arweave.net
 2n5coymno44lriahk7nlbnev4tiaawurylhas7avcnwz3to46bsq.arweave.net
@@ -90957,12 +90953,10 @@ aricettoug.net
 342bwxt6je7xindj6p4oga5vwgrcvicttquiy4c2z65rvvqfxpja.arweave.net
 343l4nyk5uivmtszrxmpbqx4f2ymdv6xqjx4ulagqeieykdsgogq.arweave.net
 367ha52gsj5dndxkhz4ttsf6kmwc5dl3upwqemn3thb7c6ocgseq.arweave.net
-3cx6674teewq2gztjl7aaw37jyzqggcp7o4bnvbdrih6zpvn5ksq.arweave.net
 3iqp33crxxmid4jxjyxtjk3vpzunmb4juxabxdef2cqc7jkskq3q.arweave.net
 3j7unkvuffwwrfayddnub3s4s7gr3fggj6z7vna4lqssqawnlj6q.arweave.net
 3jjrqrpscogej7i3t35cmidxo2uin5akwqo6eawufziltzk5m47a.arweave.net
 3kt53zedhbhcebvqfo2ivzcfr625ir7m642xdafeaxtpwilqyicq.arweave.net
-3m2uvalgg3xkbfr4ft3q5yblgyjqegkbt4cdxfkcwrjrrvq26tna.arweave.net
 3mj34tgyblce4rk7wsocipy5ggu3t265uqhlrvpn6wxpj233wdka.arweave.net
 3nci6wnf4vxy3mucgjmxn2ti77tp2khwbn54jhr7l3cjxab7gara.arweave.net
 3pix33onirwjaxpy3y4wmlxiiuaofzr4bxt7x4x6q5oznesrpoqa.arweave.net
@@ -90972,7 +90966,6 @@ aricettoug.net
 3vhk5lfjjm3iocoidll45h3itnzqsifcyk2ykhpseuilnjpitfia.arweave.net
 3x43g7spvdkj3nrdmiu33yewemeeivyez2bsfkzbgq7m2tfjm2da.arweave.net
 3xedlslikx2o3gmlidqlmgs5cv3qyqdrrbcnpvvrxmv55eutszla.arweave.net
-3zq3kfiznaezmo4z2eff5yxm3myi7pxiitqwivai53i2ayeix26a.arweave.net
 437emqj4ddldqp4e3k5crqqi6mvoiuauxvrpgghzws4n62gt7sba.arweave.net
 44uirhr4utl76cc6452qgb4zu2wiuw3bmerewrpqg44ifaxgh37q.arweave.net
 4avc7cs676t2lpftmrfnoc6hp3tlm5hl7w3nlhqymmdkgrazszka.arweave.net
@@ -91043,7 +91036,6 @@ bdybb2vwr6sis3cpiuplannsxfgiutz2wneh74omsbounq5vp5ia.arweave.net
 bh7tlcjemyxom2v5esyesufpspt742krutohz6oqcruyjbnblngq.arweave.net
 bhuydlbmvcodxuvrovw7z2xbdt67534h3fk2xvefmdt6grqw4kzq.arweave.net
 bq7kmvkvqjf2ixlkkqpj54l7lz5lhxtmiymy3igsyrbylbk4twlq.arweave.net
-bqwucdv676xmfqedxgl2eryhvhfjyeauawsr5phek22yx62jhg7q.arweave.net
 bunf2cqucj7oqlc3zj63yqrnkt4hvmbmgcjc6g7hwx5e2g3j23sa.arweave.net
 c3mo6my7msubjzppeahcbfp7akzqqmcw62o5ar3pyitdx3yvoheq.arweave.net
 c4jvjm2njyd7dhxynjitlveyzq6uv3z42d7nfketd6b5k5o3gaaa.arweave.net
@@ -91055,7 +91047,6 @@ ch2t2ovwjznnr7bpftzt7gu7vk7rp4l4gpo7dkz34tb37hyqyq5a.arweave.net
 cihf7qcme2nj42fiocg2ggolzh7s2nbcupwsae3bjr4mudh5rj5q.arweave.net
 cjtt3truweg6wifjnnf2yqcin6fk3rkml5xo7jxdidqdmxtmbc4q.arweave.net
 cor2huqdnwsceob6pk7sn2wug3zsatadfrhuxzhzg4ud3fy2upya.arweave.net
-cvr6kmzibd6rge2lqpcaacpjlhohfaowl6csndtolprgsk2swwpq.arweave.net
 d6edpzkigojln2ewp2ec7e7zk5gcr2ff2x3kidjr5c2psprlkgbq.arweave.net
 deutyfhm2jrs4w7szahz2sg27wy6vp3qe7e7srp4dv4fxt4krqgq.arweave.net
 dghrgpdvcjbxpsdkpa6a5deidmbb24uxzpbdd5susw2d5t2tv5vq.arweave.net
@@ -91067,14 +91058,12 @@ e6utote4vew72n7xg2kzr5wo2lpwefzufloxs7bemnxaifb63x5q.arweave.net
 ebmt5h3zmtd6wfxnvolmppujnm6v566gqitjuwevmm4poum3zn6q.arweave.net
 ebstdrx2dbpqti5ogvmnnblssgzlwi5ngfoxpne6pz3tgyfbgx6q.arweave.net
 ebzwzhokprrcplf24lrhyg5pyaya7crsvozcxmvxyxlqq5epvkoq.arweave.net
-ejgg6zt2pp36vo7idwztha25vimldhoinjfgotblybfmpaq3t7na.arweave.net
 ekoqlm6lpjilbp6kilw2szp2mkocdrn6db2kvj34dtze76tdrusa.arweave.net
 eu4nugumsfiq2m2e3p4ucjqjsqoaajpxd6krcxgmatrbkn6psyaa.arweave.net
 ewdouhaxeh3lkhsdlghoixkf6lilasuu4qrwkxahdflkjv3kdixq.arweave.net
 f45mpfg5ifrjc5m3tciheyjdpvi7orkgrvfoetyfeaszbsveojlq.arweave.net
 fctapa3x37abhvdfshrspslu2pufovjwofcdxnlkkodbchkdbc3a.arweave.net
 fd5au3j7yuq5jpufraednqa6rp7be24hqh5zv7wxpebehiymzevq.arweave.net
-fh65w7cw5nedmabdflko3vggp3pc2ehwqlhcoyne5np7gbf6svfq.arweave.net
 fkd4aecuulqsk4j7f47vgdbdapb5jreugle3fydpkbj5n4hb2kca.arweave.net
 ftaysafqfhctivt3wgn6dp7uze7ur3tmshl3j6rybv4ntvhmv4gq.arweave.net
 fxfovo55prqvsph4t4igzfjh6rkvxwtcpbonilqcoz5rvzr3wqca.arweave.net
@@ -91138,7 +91127,6 @@ kftnnpravfymbmeld3wjmsiwuinpm63ixpy6jp6j5awnfz3xyi5q.arweave.net
 kib2bxqaooj53pgfnsei5kp7hatpnevooulegvgx5fsomommipva.arweave.net
 kjpbz2olbxq56tzfdnibmu2xdkgkc7l4uty47qokg24sny3j2xbq.arweave.net
 kl74zui5emzi3c6pwfmx5t6h5ohwtsshb3he6rv5m26xax5lvhsq.arweave.net
-klgoc3cjeiztvhwfkezv27muj4twuppdzs362gwqytsttzcbehwq.arweave.net
 klybmtuwgha7wbnw4umk2xfra3pji7aggohtzbqv63v7y3ii5oyq.arweave.net
 kmpu32v5gxgd7q6ssytmrkmcizb4neq57t5gyaxtxkiktavvr6ma.arweave.net
 kp2dhlbthocs4k54oaijdta4twjbglazw5duuwrxllc7zqzeqfmq.arweave.net
@@ -91183,7 +91171,6 @@ olhvbbtlih46z3djvy6upyli4iqtoa6hzdu5vk7bu4b4sb3pw7uq.arweave.net
 ous2snofqdcxj3fn7uuyukvar6snd6blfzsf7gglaj73g3tumy4q.arweave.net
 oymwkq3maaaphjp5m3w45ixbzardypnbceii2yog4wztkezjn4da.arweave.net
 p5safc4wqqkxwcq6ujdtlbz2fexw6h2mi7ci5rzjugjssusaugfa.arweave.net
-p5wytuyy2yprlprckiow62pqmylyllijtpnirqtbxmlcykkmwt4a.arweave.net
 pbdzvgsbm3fetla3tf55jegffqlb26uv4vkqbpfev4yuyxp5wera.arweave.net
 pbozlnekvtzz3j64dq6opm7j546cf7s3kss2gh3xo34yrezen7zq.arweave.net
 pd2fd6r7kpj5htfuj4ggmeaxsmch57l3seyw7cx3wqgjxy4m4zna.arweave.net
@@ -91235,12 +91222,10 @@ toesb56izseqwf7c3yl2z2qx6etoexuwa6tlzmrz5qojfpx55txa.arweave.net
 trazktsli6m5fbp3pe6jaqzl6izme2gagr6tdrcy3phny2ikgeya.arweave.net
 tsyb5iqp4udjb6bzjjcz6nifwe2grhqd26hqzfg7ohzuhawoq3pq.arweave.net
 tuuftb5akqe4iddde4h5mry3w67ertwfcjukd2muhxndwk4enjna.arweave.net
-tyvsy3l4iq7bsf5umqmw64w7qhfa766d4cpdvjc6po4ur6wcfdna.arweave.net
 u7ig2brgbfytycwbgg4jkf4uvyz2b6qtuqfgx6vxeeabqbhishuq.arweave.net
 uavbrny7vzdnmftneavfab2y5btcp34cnvj33irpigwqrqu4nrga.arweave.net
 uc7i63azpdvozb4xywag7fg2uwwg2pd43rvchvaq5gkjzdj3nawa.arweave.net
 uhzkti5r2kz2tpccifev3qkuj67mte5vhhghvyu5lf6haozugczq.arweave.net
-ukgp77atdlwo5fhwkacjumtfnahf4lbexa7plocnt7vozsrqnnsq.arweave.net
 ulkgjee4y65vli5dt6z46wdkmf3nbb47vsxdu54pbnfaan4b7icq.arweave.net
 un453nr25wrk2jsyvleoj7xmmkdxcgoe3q3qqyva5p75cjlcioya.arweave.net
 unw6msuzvhliatqakm6a3aukvckvbmc3hm2hpwb3fsplfr3pyvja.arweave.net
@@ -91278,8 +91263,6 @@ xhloo7onnepiqptafdbxmj4anm7iuiatfg65tllx42szebqoe53a.arweave.net
 xji3el7fmdmh2qyntrwtivva4ci5s56ozth7c6jta3ayauc2anla.arweave.net
 xjutntq6jn2awi4ddohvwqw2fdengaqvfpir55minuqrmqh4hkuq.arweave.net
 xnnwz3xmsphj7gjnl3aml5xuyxdef3fi6ggiqbhjvtlxvzhk7xxq.arweave.net
-xqhgnzkmfd3wnpe3mxisjpzwruhgannfz4wgvdlc62u5snvwudgq.arweave.net
-xr7oxsabfdv2jqv3ujock7z2rqokqa4rq3w4q6elzigki6ttctya.arweave.net
 xttnq2exdw5tgqsi2zer4wydb4qdgs6bivo64wunrk5mkjufsnhq.arweave.net
 xwuohse4xcxt5ij7hxajzyvhid5crmyrxa4s3lu6xlfmvut4fpwq.arweave.net
 xxbl7w6r3t6upheasglzrgbl76oswygucy5cjhrf7inxuxdsxu5a.arweave.net
@@ -91292,7 +91275,6 @@ ynu643ha25v6ahkqb5pk56yst2rkyh5wkkps5holohq4p3gin3za.arweave.net
 yvdzjqt3qlkungoorxdn2xhvueyerjql6kyu76r6lspzqvvrwsra.arweave.net
 z7whe6y46yw6hzzeiamqcmbmgivs4akqebwxboww4jq5qbp5suka.arweave.net
 zb7567utmas4354gqmvrdmwhrpkknyr4t5wtdig4lyewj6gdovjq.arweave.net
-zev45bx64wradlgey7cfwhgn6ruuzmh64ozebxqb5rferkezqlra.arweave.net
 zipljkeuvz3rqwyxt24sze6tpbwkyaaznkd2hj5uu5kfalwro4iq.arweave.net
 zome7yo4mwc6zbx4jqbgi4thz6zw5kdz5c3phb4boprhi5slksva.arweave.net
 zqgngykl6zhed7uqbrzz32stxm2sibbmy5seuuxwualxhxq6eafq.arweave.net
@@ -104679,7 +104661,6 @@ cryptomus.today
 eligibility.today
 ethenafiapp-vote.today
 falconvote-app.today
-hydrex.today
 khelmantra.today
 lienlfi.today
 marinade.today
@@ -104691,7 +104672,6 @@ movemoney.today
 nestyield.today
 noclaims.today
 openserv.today
-outcomes-prjx.today
 plume.today
 poseidonpatents.today
 rainbet.today
@@ -110616,7 +110596,6 @@ billionnetwork-distribution.xyz
 billions-distribution.xyz
 billions-registration.xyz
 billions-vote.xyz
-billionsnetwork-distribution.xyz
 billycoin-sol.xyz
 billydollarmigrate.xyz
 binance-airdrop.xyz
@@ -111827,7 +111806,6 @@ etherfi-interest.xyz
 etherfi-proposal.xyz
 etherfi-reallocation.xyz
 etherfi-registration.xyz
-etherfi-s5-distribution.xyz
 etherfi-s5-vote.xyz
 etherfi-season-5-allocations.xyz
 etherfi-treasury.xyz
@@ -114562,7 +114540,6 @@ playgroundbridge.xyz
 playkaiju.xyz
 playmogs.xyz
 pluggable-warden.xyz
-plumenetwork-distribution.xyz
 plumenetwork-join.xyz
 plumenetwork-registration.xyz
 plumenetwork-treasury.xyz
@@ -116871,7 +116848,6 @@ treasury-flarefnd.xyz
 treasury-flarefndn.xyz
 treasury-flarefoundation.xyz
 treasury-hyperfoundation.xyz
-treasury-monad.xyz
 treasury-moonwell.xyz
 treasury-nado.xyz
 treasury-nativemarkets.xyz
@@ -118073,7 +118049,6 @@ zest-proposal.xyz
 zest-protocol.xyz
 zestprotocol-allocations.xyz
 zestprotocol-dasboard.xyz
-zestprotocol-distribution.xyz
 zestprotocol-distributions.xyz
 zestprotocol-enter.xyz
 zestprotocol-governance.xyz
