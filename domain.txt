@@ -8325,7 +8325,6 @@ rewards-strata.app
 rewards-theindex.app
 rewards-threews.app
 rewards-twine.app
-rewards-usdai.app
 rewards-usepaid.app
 rewards-wlfi.app
 rewards-xaman.app
@@ -17235,7 +17234,6 @@ verify-everwisecu.cfd
 verify-identity-extension-v3.cfd
 verify-myblue-check.cfd
 verify-your-funds-v2.cfd
-verifyni.cfd
 vip-giftcenter.cfd
 virtuals.cfd
 virtuals-app.cfd
@@ -17332,7 +17330,6 @@ rainbetsportwetten.ch
 rainbetswiss.ch
 rainbetswitzerland.ch
 rainbetwetten.ch
-secure-bitbox.ch
 skinclub.ch
 stake-ch.ch
 think-markets.ch
@@ -18441,7 +18438,6 @@ vote-mit.click
 vote-mix.click
 vote-mz.click
 vote-netnetcapital.click
-vote-nu.click
 vote-portal.click
 votelisting.click
 voting-flarenetwork.click
@@ -38875,7 +38871,6 @@ kolorijo.openwatersociety.com
 sambalkorek.openwatersociety.com
 openwebpiler.com
 operation-trustwallet.com
-operation-x.com
 operiu-coinbase.com
 operosafe.com
 opladns.com
@@ -39164,8 +39159,6 @@ mancingmania.paydayloanslincolnne.com
 mainan.paydayloansmiamifl.com
 paydayloanssouthbendin.com
 paydayloansspringfieldil.com
-payement-secure.com
-payementsecured.com
 fixedfloat.payffhub.com
 tronenergy.payinvoicebill.com
 paylifeat-info.com
@@ -41680,7 +41673,6 @@ rewards-listadao.com
 rewards-morpho.com
 rewards-nanoeth.com
 rewards-netnetcapital.com
-rewards-nexteer.com
 rewards-opensea.com
 rewards-ore.com
 rewards-outcome.com
@@ -42302,7 +42294,6 @@ secure-account-verification-update.com
 secure-amzon-revisionid9638.com
 secure-auth-process-now.com
 secure-by-ledger.com
-secure-clientverification.com
 secure-coinbase-rewardclaimspcx.com
 secure-connect-ca.com
 secure-connect-ccf.com
@@ -42315,7 +42306,6 @@ secure-desktoplogin.com
 secure-desktopsession.com
 secure-device-sync.com
 secure-docusign.com
-secure-drive.com
 secure-etoro.com
 secure-flask.com
 secure-genie.com
@@ -42336,7 +42326,6 @@ secure-maiqiuwang.com
 secure-managers-pages.com
 secure-microsofthelp.com
 secure-mobile-session.com
-secure-ndax.com
 secure-noreply-account.com
 secure-oklahomacentralcreditunion.com
 secure-pay-cashapp.com
@@ -46625,7 +46614,6 @@ vote-coredao.com
 vote-curvefinance.com
 vote-d2finance.com
 vote-embervalegame.com
-vote-ethena.com
 vote-ethenafi.com
 vote-euler.com
 vote-event-ondo.com
@@ -47348,7 +47336,6 @@ well-interview.com
 wellsbroker.com
 wellsfargoverifycall.com
 wellslivechat.com
-welvura-bonus.com
 wemoexchange.com
 wengamb.com
 wengche.com
@@ -51400,7 +51387,6 @@ woridilbertyfinanclai.com
 woridlibertyfinance.com
 work-stake.com
 workforce-google.com
-workforce-x.com
 workmojito.com
 worknomadnet.com
 workplaice.com
@@ -51577,7 +51563,6 @@ www-solana.com
 www-sparrowwallet.com
 www-trezor-start.com
 www-trezorsuite.com
-wwwaave.com
 wwwace66.com
 wwwallocation.com
 wwwccoin-pi.com
@@ -81323,7 +81308,6 @@ q3-turtle.info
 q3-variational.info
 q3-zama.info
 qualifi-zoom.info
-quinones-treasury.info
 rainbet-casino.info
 rainbetapp.info
 rainbetindia.info
@@ -92675,7 +92659,6 @@ saxo-vip.net
 sdlm4iw2o36a79m22r80zp.net
 seamless-protocol.net
 search-aml.net
-secure-authorization.net
 secure-log.net
 secure-mccu.net
 secure-metamask-support.net
@@ -94668,9 +94651,7 @@ search-base.online
 secure-admin.online
 secure-admin-noreply.online
 secure-admin-norply.online
-secure-auth000.online
 secure-connectips.online
-secure-platform.online
 secure-reconnect-gateway.online
 secure-sunway.online
 secure-your-wallet.online
@@ -101290,7 +101271,6 @@ ramses-exchange.sbs
 ramsesapp.sbs
 ramsesexchange.sbs
 ramsesxyz.sbs
-rapidofix.sbs
 raybdium.sbs
 raydiiun.sbs
 raydioum.sbs
@@ -101358,7 +101338,6 @@ secure-deal.sbs
 flareclaim-accessnetwork.secure-servers.sbs
 secure-token.sbs
 secure-tyndall.sbs
-secureamacqi.sbs
 secured-connecting-v2.sbs
 secured-connecting-v3.sbs
 secured-connecting-v4.sbs
@@ -102657,7 +102636,6 @@ openseamarket.site
 openwalletscan.site
 opesea.site
 orbioecosystem.site
-order-secure-pay.site
 org-app.site
 org-uk.site
 otcdesks.site
@@ -103473,7 +103451,6 @@ vantora.space
 veriearth.space
 virtualbox.space
 voin.space
-vote-arcane.space
 vote-doublezero.space
 vote-either.space
 vote-goblin.space
@@ -117480,7 +117457,6 @@ vote-hyperfoundation.xyz
 vote-hyperlidquid.xyz
 vote-hyperliuquid.xyz
 vote-hyperlqd.xyz
-vote-ika.xyz
 vote-inco.xyz
 vote-ink.xyz
 vote-internetcomputer.xyz
