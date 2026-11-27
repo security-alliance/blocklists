@@ -24200,7 +24200,6 @@ account-notify-x.com
 account-portal-coinbase.com
 account-restore-request.com
 account-safety-bitvavo.com
-account-safety-coinbase.com
 account-safety-river.com
 account-secure-coinbase.com
 account-security-trezor.com
