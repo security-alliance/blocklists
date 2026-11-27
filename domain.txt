@@ -47412,6 +47412,7 @@ auth-metmaskio.wixsite.com
 auth-rabbyapps.wixsite.com
 ballcoachie7.wixsite.com
 base-extensions-en.wixsite.com
+base-normal-ext.wixsite.com
 begin-rabbyext-apps.wixsite.com
 begin-trustapps.wixsite.com
 begin-trustcdn.wixsite.com
@@ -47737,7 +47738,6 @@ apps-metamaskkcdn.wixstudio.com
 apps-metamassk-io.wixstudio.com
 apps-metamasskcdn.wixstudio.com
 apps-metamsk-ext.wixstudio.com
-apps-metamsk-io.wixstudio.com
 apps-metamskapps.wixstudio.com
 apps-metamskcd.wixstudio.com
 apps-metamskcdn.wixstudio.com
@@ -49698,7 +49698,6 @@ metamk-apps.wixstudio.com
 metamk-extension.wixstudio.com
 metamsk-begin.wixstudio.com
 metamsk-connect-ext.wixstudio.com
-metamsk-ext-eng.wixstudio.com
 metamsk-exten.wixstudio.com
 metamsk-extension-us.wixstudio.com
 metamsk-extensn.wixstudio.com
@@ -51123,7 +51122,6 @@ weblacce-io.wixstudio.com
 webmetamaskcdn.wixstudio.com
 webmetamaskextension.wixstudio.com
 webmetamksextens.wixstudio.com
-webmetamsakapps.wixstudio.com
 webnav-rubbycdn.wixstudio.com
 webndaxxapp.wixstudio.com
 webnetapp.wixstudio.com
@@ -51170,7 +51168,6 @@ welcome-base-ext.wixstudio.com
 wen-ndaxio.wixstudio.com
 wix-trust-app-web.wixstudio.com
 wllt-en-krrakin.wixstudio.com
-wlltextn-metamskio.wixstudio.com
 work-base-extension.wixstudio.com
 wwwrobinhoodcom.wixstudio.com
 xtn-wlt-nav.wixstudio.com

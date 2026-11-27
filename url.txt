@@ -435,6 +435,7 @@ https://sites.google.com/view/coinbase-public--/home
 https://sites.google.com/view/coinbase-publish/home
 https://sites.google.com/view/coinbase-secure-pros/home
 https://sites.google.com/view/coinbase-secure-web3/home
+https://sites.google.com/view/coinbase-sign-intro/home
 https://sites.google.com/view/coinbase-signin-eu/home
 https://sites.google.com/view/coinbase-st/home
 https://sites.google.com/view/coinbase-startd/home
