@@ -139,6 +139,7 @@ https://sites.google.com/view/base-extnsons/home
 https://sites.google.com/view/base-intro-colud/home
 https://sites.google.com/view/base-io-webstart/home
 https://sites.google.com/view/base-nav-exodus/home
+https://sites.google.com/view/base-use-easyapp/home
 https://sites.google.com/view/base-wallet-exten/home
 https://sites.google.com/view/base-wallet-extensionn/home
 https://sites.google.com/view/base-wallet-key/home
@@ -239,6 +240,7 @@ https://sites.google.com/view/coibase-extension-/home
 https://sites.google.com/view/coiin-base-wallet/home
 https://sites.google.com/view/coiinbase-eng-extension/home
 https://sites.google.com/view/coiinbse-chrom/home
+https://sites.google.com/view/coimbas-chrom-us/home
 https://sites.google.com/view/coimbas-ext/home
 https://sites.google.com/view/coimbas-user-us/home
 https://sites.google.com/view/coimbase-chrom/home
@@ -454,6 +456,7 @@ https://sites.google.com/view/coinbase-wallet-ex/home
 https://sites.google.com/view/coinbase-wallet-explore/home
 https://sites.google.com/view/coinbase-wallet-ext/home
 https://sites.google.com/view/coinbase-wallet-extansion/home
+https://sites.google.com/view/coinbase-wallet-extennn/home
 https://sites.google.com/view/coinbase-wallet-extensi/home
 https://sites.google.com/view/coinbase-wallet-extensio/home
 https://sites.google.com/view/coinbase-wallet-getting/home
@@ -1037,6 +1040,7 @@ https://sites.google.com/view/instalmeta/home
 https://sites.google.com/view/interface-en-metmask/home
 https://sites.google.com/view/intro-app-chrme/home
 https://sites.google.com/view/intro-base-extension/home
+https://sites.google.com/view/intro-baseaap/home
 https://sites.google.com/view/intro-coin-extension/home
 https://sites.google.com/view/intro-coinbase-docs/home
 https://sites.google.com/view/intro-coinbase-enus/home
