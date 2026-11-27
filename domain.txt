@@ -77976,7 +77976,6 @@ wallet.gift
 bestcasino.gifts
 cryptocurrency.gifts
 monad.gifts
-prjx.gifts
 stable.gifts
 supper728.gifts
 zebec.gifts
