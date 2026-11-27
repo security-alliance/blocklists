@@ -28368,6 +28368,7 @@ mail.coinbase-walletsecure.com
 coinbase-watch.com
 coinbase-widgets.com
 coinbase-yhn.com
+help.coinbase-zendesk.com
 coinbase199.com
 coinbase50.com
 coinbase513.com
