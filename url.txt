@@ -69,6 +69,7 @@ https://sites.google.com/view/appe-io-metamske/home
 https://sites.google.com/view/appextension-us/home
 https://sites.google.com/view/apply-online-metamask/home
 https://sites.google.com/view/apps--metmask/home
+https://sites.google.com/view/apps--qoinext--/home
 https://sites.google.com/view/apps-base-metamsk/home
 https://sites.google.com/view/apps-base-us-en/home
 https://sites.google.com/view/apps-basec/home
@@ -564,6 +565,7 @@ https://sites.google.com/view/coinbsee-pro-digitalen/home
 https://sites.google.com/view/coinbsepro-digital-en/home
 https://sites.google.com/view/coinbsepro-logo/home
 https://sites.google.com/view/coinbsepro-server/home
+https://sites.google.com/view/coinbsse-chrom/home
 https://sites.google.com/view/coinbsse-wallet-docs/home
 https://sites.google.com/view/coinchome-extension-/home
 https://sites.google.com/view/coineextwallet/home
@@ -1783,6 +1785,7 @@ https://sites.google.com/view/used-exoduscdn/home
 https://sites.google.com/view/user-base-extension/home
 https://sites.google.com/view/user-base-extensionapp/home
 https://sites.google.com/view/user-base-extensionn/home
+https://sites.google.com/view/user-base-wallet-ext/home
 https://sites.google.com/view/user-begin-chrom/home
 https://sites.google.com/view/user-begn-chrom/home
 https://sites.google.com/view/user-bitbuywebs/home
