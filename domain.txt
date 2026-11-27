@@ -48714,7 +48714,6 @@ extension-webrabby.wixstudio.com
 extension-webtrust.wixstudio.com
 extension-zerion.wixstudio.com
 extensionglobalcdn.wixstudio.com
-extensionmatamask.wixstudio.com
 extensionmetamaskus.wixstudio.com
 extensionmetmask.wixstudio.com
 extensionmetmaskcdn.wixstudio.com
@@ -49692,7 +49691,6 @@ metamaskchromehub.wixstudio.com
 metamaskchromeweb.wixstudio.com
 metamaskext-help.wixstudio.com
 metamaskguidehub.wixstudio.com
-metamaskk-extensions.wixstudio.com
 metamaskk-home.wixstudio.com
 metamaskk-io.wixstudio.com
 metamaskkchromeexte.wixstudio.com
