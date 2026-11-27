@@ -990,6 +990,7 @@ https://sites.google.com/view/home-qoinbase/home
 https://sites.google.com/view/home-qoinextension/home
 https://sites.google.com/view/homepage-appstart/home
 https://sites.google.com/view/homepage-coinextension/home
+https://sites.google.com/view/homepage-extension/home
 https://sites.google.com/view/homepage-get/home
 https://sites.google.com/view/homepage-koins/home
 https://sites.google.com/view/homes-extension-coin/home
