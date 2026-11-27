@@ -40320,7 +40320,6 @@ quash-x.com
 queensxwin.com
 quello-autotradei.com
 quenchcomarket.com
-query-coinbase.com
 quest-arcium.com
 quest-axisrobotics.com
 quest-binance-cat.com
@@ -67018,7 +67017,6 @@ em-startcom-ledgr.pages.dev
 ember-ledger-4127.pages.dev
 en--bridge-trazr.pages.dev
 en--login-robenhood.pages.dev
-en--uphold-login.pages.dev
 en--web3-exods--us.pages.dev
 en-app-en-ledgr-live.pages.dev
 en-app-ledgr-faq.pages.dev
