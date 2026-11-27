@@ -49631,7 +49631,6 @@ matamask-io-apps.wixstudio.com
 matamasken-io.wixstudio.com
 matamassk-io.wixstudio.com
 matemasklgn.wixstudio.com
-matmask-io.wixstudio.com
 matta-extnsions.wixstudio.com
 meatamak-ext.wixstudio.com
 meatamask-io-ext.wixstudio.com
@@ -49723,7 +49722,6 @@ metamsklogn.wixstudio.com
 metamsks-page-extn.wixstudio.com
 metamsskhelp.wixstudio.com
 metanmask-chrome.wixstudio.com
-metasmaak-extension.wixstudio.com
 metasmk-extenion.wixstudio.com
 metasmkapp-cdn.wixstudio.com
 metasmskapp-io.wixstudio.com
