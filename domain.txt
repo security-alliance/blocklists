@@ -11595,6 +11595,7 @@ web-suite.app
 web-suites.app
 across-to.web.app
 alpha-photon.web.app
+app--wallet--connects.web.app
 app-avantisfi.web.app
 app-staking-firelight.web.app
 app-zerolend.web.app

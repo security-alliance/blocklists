@@ -11595,6 +11595,7 @@
 ||web-suites.app^$all
 ||across-to.web.app^$all
 ||alpha-photon.web.app^$all
+||app--wallet--connects.web.app^$all
 ||app-avantisfi.web.app^$all
 ||app-staking-firelight.web.app^$all
 ||app-zerolend.web.app^$all
