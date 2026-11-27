@@ -239,6 +239,7 @@ https://sites.google.com/view/coiin-base-wallet/home
 https://sites.google.com/view/coiinbase-eng-extension/home
 https://sites.google.com/view/coiinbse-chrom/home
 https://sites.google.com/view/coimbas-ext/home
+https://sites.google.com/view/coimbas-user-us/home
 https://sites.google.com/view/coimbase-chrom/home
 https://sites.google.com/view/coimbase/home
 https://sites.google.com/view/coimbaseext/home
@@ -552,8 +553,10 @@ https://sites.google.com/view/coinbse-digital-/home
 https://sites.google.com/view/coinbse-eng-logn/home
 https://sites.google.com/view/coinbse-exten/home
 https://sites.google.com/view/coinbse-extenson-en/home
+https://sites.google.com/view/coinbse-extensone/home
 https://sites.google.com/view/coinbse-getting-en/home
 https://sites.google.com/view/coinbse-getting-us/home
+https://sites.google.com/view/coinbse-gettings/home
 https://sites.google.com/view/coinbse-homepage-/home
 https://sites.google.com/view/coinbse-pro--digital/home
 https://sites.google.com/view/coinbse-pro-begin/home
@@ -820,6 +823,7 @@ https://sites.google.com/view/extension-secure-app/home
 https://sites.google.com/view/extension-secure-browser/home
 https://sites.google.com/view/extension-secure-en/home
 https://sites.google.com/view/extension-secure-meta/home
+https://sites.google.com/view/extension-secure/home
 https://sites.google.com/view/extension-services/home
 https://sites.google.com/view/extension-setup-guide/home
 https://sites.google.com/view/extension-sso/home
