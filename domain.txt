@@ -49616,7 +49616,6 @@ maintrust-extensions.wixstudio.com
 manage-krkenn.wixstudio.com
 manage-lacecdn.wixstudio.com
 manage-meta-ext.wixstudio.com
-manage-metamsk.wixstudio.com
 manage-moonpaycdn.wixstudio.com
 manage-moonpaycdnn.wixstudio.com
 manage-offical-krake.wixstudio.com
