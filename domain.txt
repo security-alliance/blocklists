@@ -87165,6 +87165,7 @@ bullsol.live
 bunnitoken.live
 buzkora.live
 bwifrewards.live
+cakeswalletdesktop.live
 cakewalletsdesktop.live
 callon.live
 cap-v2.live
