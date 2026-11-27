@@ -10710,6 +10710,7 @@ polymarket-ru.vercel.app
 polymarket-site-eta.vercel.app
 polymarket-ufc-329.vercel.app
 polymarket-us.vercel.app
+polymarketairdrop.vercel.app
 ponsvoting.vercel.app
 pool-adra.vercel.app
 pool-cg5z.vercel.app
