@@ -112,6 +112,7 @@ https://sites.google.com/view/base-exteension/home
 https://sites.google.com/view/base-extennsion-/home
 https://sites.google.com/view/base-extensi/home
 https://sites.google.com/view/base-extension--/home
+https://sites.google.com/view/base-extension-apps-/home
 https://sites.google.com/view/base-extension-c/home
 https://sites.google.com/view/base-extension-cdne/home
 https://sites.google.com/view/base-extension-cdus/home
@@ -509,6 +510,7 @@ https://sites.google.com/view/coinbasextsions/home
 https://sites.google.com/view/coinbass-exten/home
 https://sites.google.com/view/coinbasse--public-/home
 https://sites.google.com/view/coinbasse-chrm-exten/home
+https://sites.google.com/view/coinbasse-chro/home
 https://sites.google.com/view/coinbasse-exten--/home
 https://sites.google.com/view/coinbasse-gettings/home
 https://sites.google.com/view/coinbasse-guides/home
@@ -762,6 +764,7 @@ https://sites.google.com/view/exoduu/home
 https://sites.google.com/view/explore-coinbase-live/home
 https://sites.google.com/view/express-web3-exodu/home
 https://sites.google.com/view/exten-sion/home
+https://sites.google.com/view/extenion-getting/home
 https://sites.google.com/view/extennsion-web/home
 https://sites.google.com/view/extension--/home
 https://sites.google.com/view/extension--metamask/home
@@ -776,6 +779,7 @@ https://sites.google.com/view/extension-coinbase-hub/home
 https://sites.google.com/view/extension-coinbase-web/home
 https://sites.google.com/view/extension-coinbaseapp/home
 https://sites.google.com/view/extension-coinbaseapps/home
+https://sites.google.com/view/extension-coinbaseio/home
 https://sites.google.com/view/extension-coinbse/home
 https://sites.google.com/view/extension-commax/home
 https://sites.google.com/view/extension-downloads/home
@@ -1014,6 +1018,7 @@ https://sites.google.com/view/intro-coinbase-enus/home
 https://sites.google.com/view/intro-coinbase-wallet/home
 https://sites.google.com/view/intro-coinbaseapp/home
 https://sites.google.com/view/intro-coinbse-extension/home
+https://sites.google.com/view/intro-extension-cdn/home
 https://sites.google.com/view/intro-extension/home
 https://sites.google.com/view/intro-learned/home
 https://sites.google.com/view/intro-metamask-home/home
@@ -1623,6 +1628,7 @@ https://sites.google.com/view/puytxm
 https://sites.google.com/view/qoin-base-cdn/home
 https://sites.google.com/view/qoinb-pro/home
 https://sites.google.com/view/qoinbase--chrme--extension/home
+https://sites.google.com/view/qoinbase-exten--/home
 https://sites.google.com/view/qoinbase-extens/home
 https://sites.google.com/view/qoinbase-extensi/home
 https://sites.google.com/view/qoinbase-extension-us/home
@@ -1782,6 +1788,7 @@ https://sites.google.com/view/view-metmask-extn/home
 https://sites.google.com/view/viewbase-extension/home
 https://sites.google.com/view/wall-exten/home
 https://sites.google.com/view/wallet-coibs/home
+https://sites.google.com/view/wallet-coinbaseapp/home
 https://sites.google.com/view/wallet-extension--/home
 https://sites.google.com/view/wallet-home-qoinbase/home
 https://sites.google.com/view/wallet-link-coinbase/home
