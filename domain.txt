@@ -53449,6 +53449,7 @@ oskarkregar.dev
 0afd-coinbase-listing-677f.pages.dev
 0b7a-colnbase-listings-4f65.pages.dev
 0beb-fa8e-5133-c0inbase-list.pages.dev
+0c8e-67ae-colnbase-listings.pages.dev
 0ccd-482c-coinbase-listing.pages.dev
 0d35-67ae-colnbase-listings.pages.dev
 0d7f-4c29-5133-c0inbase-list.pages.dev
@@ -54985,6 +54986,7 @@ oskarkregar.dev
 129-votes-deltaliquidity.pages.dev
 129-votes-tartswap.pages.dev
 12f4-fa8e-5133-c0inbase-list.pages.dev
+12f5-4c29-5133-c0inbase-list.pages.dev
 13-0xfluid.pages.dev
 13-aero.pages.dev
 13-aeroeco.pages.dev
@@ -62879,6 +62881,7 @@ pr-7831.1inch-io-app.pages.dev
 5b90-fa8e-5133-c0inbase-list.pages.dev
 5b96-482c-coinbase-listing.pages.dev
 5bb3-coinbase-listing-677f.pages.dev
+5bdb-482c-coinbase-listing.pages.dev
 5c02-4c29-5133-c0inbase-list.pages.dev
 5caf-482c-coinbase-listing.pages.dev
 5cfc-coinbase-listing-677f.pages.dev
@@ -110790,6 +110793,7 @@ cardboartrade.xyz
 cardbordtrade.xyz
 meta.cardcc.xyz
 cardlboardltrade.xyz
+cardtrustedcvv.xyz
 cardvault-app.xyz
 cashbox-prjx.xyz
 cashcat-claim.xyz
