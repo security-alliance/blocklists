@@ -29055,6 +29055,7 @@ bitrefill.com-gift-cards-hbar.com
 bitrefill.com-gift-cards-icp.com
 bitrefill.com-gift-cards-imx.com
 bitrefill.com-gift-cards-inj.com
+bitrefill.com-gift-cards-jup.com
 bitrefill.com-gift-cards-kas.com
 bitrefill.com-gift-cards-kava.com
 com-gift-cards-knc.com
@@ -64099,6 +64100,7 @@ pr-7831.1inch-io-app.pages.dev
 74-vote-netnetcapital.pages.dev
 74-vote-orbio.pages.dev
 7474-6241-5133-c0inbase-list.pages.dev
+747b-4c29-5133-c0inbase-list.pages.dev
 75-0xfluid.pages.dev
 75-allocation-argus.pages.dev
 75-allocation-yieldfields.pages.dev
@@ -64274,6 +64276,7 @@ pr-7831.1inch-io-app.pages.dev
 7dab-colnbase-listings-4f65.pages.dev
 7dac-482c-coinbase-listing.pages.dev
 7de4-482c-coinbase-listing.pages.dev
+7eb1-482c-coinbase-listing.pages.dev
 7edb-4c29-5133-c0inbase-list.pages.dev
 7ee8-67ae-colnbase-listings.pages.dev
 8-0xfluid.pages.dev
