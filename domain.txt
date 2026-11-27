@@ -35728,10 +35728,6 @@ kittyminingfun.com
 kivo520.com
 area.kixyedge.com
 kixyplus.com
-zetachain-testnet.api.kjnodes.com
-zetachain-testnet.grpc.kjnodes.com
-zetachain-testnet.jsonrpc.kjnodes.com
-zetachain-testnet.rpc.kjnodes.com
 kkankkaninfo.com
 coinbase.klantenhelpdesk.com
 kraken.klantenhelpdesk.com
