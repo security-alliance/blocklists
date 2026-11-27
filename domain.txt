@@ -49241,7 +49241,6 @@ io-krakeens-nav.wixstudio.com
 io-lacce-nav.wixstudio.com
 io-lace-home.wixstudio.com
 io-matamask.wixstudio.com
-io-meatmsk-extension.wixstudio.com
 io-metaask-ext.wixstudio.com
 io-metamaask.wixstudio.com
 io-metamask.wixstudio.com
