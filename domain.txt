@@ -1906,7 +1906,6 @@ baseopencheckstatus.netlify.app
 basewallet-supportpage.netlify.app
 bestch.netlify.app
 bestfilltype.netlify.app
-blockchain3.netlify.app
 blockdagclaims.netlify.app
 boardvotescore-ui.netlify.app
 bonkbonkclaim.netlify.app
@@ -12412,6 +12411,7 @@ sumcoust.at
 sushiswap.at
 sushiswop.at
 sushkiswap.at
+97ee1.tailoper.at
 theunls-ap.at
 trastwallet.at
 trezor-en.at
