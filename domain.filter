@@ -94748,7 +94748,7 @@
 ||web-app-connect-dapps.online^$all
 ||web3-verify.online^$all
 ||web3cold-wallet.online^$all
-||web3cryptosecure.online^$all
+||mail.web3cryptosecure.online^$all
 ||web3dappfix.online^$all
 ||web3defihub52.online^$all
 ||web3ledgerwallet.online^$all
