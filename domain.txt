@@ -75595,7 +75595,6 @@ plasmafoundation.events
 pons.events
 predictfun.events
 purinta.events
-quipnetwork.events
 raac.events
 register-hl.events
 register-whackywhales.events
