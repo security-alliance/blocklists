@@ -17228,7 +17228,6 @@ verification-blueticks.cfd
 verification-pend129.cfd
 verification-seller.cfd
 verification-swiss.cfd
-verify-bloxlink.cfd
 verify-bluecheck.cfd
 verify-everwisecu.cfd
 verify-identity-extension-v3.cfd
@@ -19097,7 +19096,6 @@ vexelfi.club
 vote-castlelabs.club
 vote-chainlink.club
 vote-derive.club
-vote-hodl2103.club
 vote-keeta.club
 vote-maplefinance.club
 vote-midas.club
@@ -21069,7 +21067,6 @@ safe-coin.co
 sanctum-stake.co
 saturncredit.co
 sec-binance.co
-secure-rechnung.co
 send-usdc.co
 serviceactivation-google.co
 shadegreenerltd.co
@@ -38686,7 +38683,6 @@ ondo-votes.com
 ondocast.com
 ondofi-q2.com
 ondofi-votes.com
-ondofinance-vote.com
 ondofivotes.com
 ondoflowapp.com
 ondoglobalmarket.com
@@ -39874,7 +39870,6 @@ postinquiry-x.com
 postintegrity-x.com
 postissue-x.com
 postitem-x.com
-postpolicies-x.com
 postprivacy-x.com
 postrelated-x.com
 postreport-x.com
@@ -42280,7 +42275,6 @@ sec-kraken.com
 sec-polymarket.com
 seccor4.com
 seccryptox.com
-secinfo-verify0.com
 petra-admin.secondcaesar.com
 secondcontract-dapp.com
 secondfidesktop.com
@@ -45671,7 +45665,6 @@ upupex77.com
 upwallet-online.com
 trustwallet.com-two-factor-authentication01.tx.uqxiug.com
 ur05webzoom.com
-urbane-upgrade.com
 urbanfashionscene.com
 urbanhslip.com
 urbantrendylook.com
@@ -46405,7 +46398,6 @@ verify-spankkifi.com
 verify-trojanonsolana.com
 verify-trustwallet.com
 verify-trustweb3.com
-verify-usersecurity-policy.com
 verify-wallet-coinbase.com
 verify632715.com
 verifyaml-bot.com
@@ -46499,7 +46491,6 @@ violating-x.com
 violationcontent-x.com
 violationdmca-x.com
 violationmedia-x.com
-violationprocess-x.com
 h5.vip-mqgc.com
 vip345-jogo.com
 vip34505.com
@@ -46605,7 +46596,6 @@ vote-apyxfi.com
 vote-arc.com
 vote-arcus.com
 vote-atlanta.com
-vote-ayx.com
 vote-cashmere.com
 vote-casinocoin.com
 vote-centrifuge.com
@@ -46638,7 +46628,6 @@ vote-kaitoai.com
 vote-kaminofinance.com
 vote-kennedy.com
 vote-kntq.com
-vote-leisu.com
 vote-libertyswap.com
 vote-lightcr.com
 vote-lighter.com
@@ -47348,7 +47337,6 @@ werlugamb.com
 wesley-robinhood.com
 wesobet.com
 wesobit.com
-west-verifycenter.com
 west-whatsapp.com
 westbrookcounsel.com
 westernapextrades.com
@@ -77835,7 +77823,6 @@ virtuals-2026.fun
 virtuals-buyback.fun
 virtuals-summer.fun
 vladtenev.fun
-vote-alt.fun
 vote-dexscreener.fun
 vote-dexscreeners.fun
 vote-fwa.fun
@@ -81615,7 +81602,6 @@ voting-works.info
 voting-xrpfi.info
 voting-zama.info
 voting-zebec.info
-wailea-treasury.info
 wealthicator-platform.info
 web3bitget.info
 web3defihub39.info
@@ -94511,7 +94497,6 @@ opensase.online
 openseas.online
 opensession.online
 web.opus-finance.online
-order-secure-pay.online
 org-uk.online
 p-o-r-t-a-l.online
 bind24-com-ar.pageofficial.online
@@ -94652,7 +94637,6 @@ secure-admin.online
 secure-admin-noreply.online
 secure-admin-norply.online
 secure-connectips.online
-secure-reconnect-gateway.online
 secure-sunway.online
 secure-your-wallet.online
 securealliance.online
@@ -94754,7 +94738,6 @@ meowbrowser.testacc.online
 tg-account-verification.online
 tg-change-verify.online
 tg-user-verification.online
-tg-verification.online
 tg-verify-check.online
 the-codingcops.online
 governance.theindexfinance.online
@@ -94869,7 +94852,6 @@ vcallsdk.online
 vectorapi.online
 velnorabnk.online
 ventracore.online
-verification-mailbox-messenger.online
 verification-vfi202600874.online
 verified-network-control.online
 verifizierung.online
@@ -94897,7 +94879,6 @@ vitamindai.online
 vlzone.online
 vote-buildon.online
 vote-flybrain.online
-vote-id53313212423.online
 voting-works.online
 vr-check.online
 wallet-exodus.online
@@ -96754,7 +96735,6 @@ d43ik5x4ml.hadi.successhacker.org
 0f8p252m13.trump.successhacker.org
 ibkxk5feah8h1.trump.successhacker.org
 kpcq9qvdd.trump.successhacker.org
-sui-distribution.org
 sui-swap.org
 suncoastcleaning.org
 sundogswap.org
@@ -97124,7 +97104,6 @@ vooi-app.org
 vote-chainlink.org
 vote-coredao.org
 vote-diresta.org
-vote-kirwan.org
 vote-plume.org
 vote-spectra.org
 vote-xrp.org
@@ -99104,7 +99083,6 @@ vinvano.pro
 vofadone.pro
 vote-ethena.pro
 vote-etherfi.pro
-vote-id64f4fd53525.pro
 vote-star.pro
 vote-xrpsalute.pro
 voting-etherfi.pro
@@ -99342,8 +99320,6 @@ troncasino.rest
 tronlink.rest
 trustwalletcard.rest
 unicornspinsvip.rest
-vote-ev.rest
-vote-nu.rest
 whir.rest
 xede.rest
 docupdate.review
@@ -103451,12 +103427,8 @@ vantora.space
 veriearth.space
 virtualbox.space
 voin.space
-vote-doublezero.space
-vote-either.space
 vote-goblin.space
 vote-manifesting.space
-vote-riv.space
-vote-worldcup.space
 votes-sanctumso.space
 voting-firelight.space
 voting-flarenetworks.space
@@ -106570,7 +106542,6 @@ secure-8988882.top
 secure-doc-top.top
 secure-invitess.top
 secure-spin-casino.top
-secure-tools.top
 secure-works.top
 secured-docsp1.top
 secureeaccess.top
@@ -109385,7 +109356,6 @@ usdtspin.website
 variational.website
 vartaional-io.website
 vartional-io.website
-verification-page.website
 voteshot.website
 wc2026teams.website
 zestprotocol.website
@@ -109628,7 +109598,6 @@ chainlink.works
 hub-token.works
 kyc-rise.works
 metamasks.works
-proposal-token.works
 rewards-token.works
 tangem.works
 7zip.world
@@ -114557,7 +114526,6 @@ peopleinbase.xyz
 pepebase.xyz
 pepegold.xyz
 pepeunchaind.xyz
-peptai-allocation.xyz
 peptai-allocations.xyz
 peptai-vote.xyz
 peptai-votes.xyz
