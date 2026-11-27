@@ -75,6 +75,7 @@ https://sites.google.com/view/apps-basec/home
 https://sites.google.com/view/apps-basecd/home
 https://sites.google.com/view/apps-coinext-en/home
 https://sites.google.com/view/apps-en-metmssk/home
+https://sites.google.com/view/apps-extensionn/home
 https://sites.google.com/view/apps-extion-base/home
 https://sites.google.com/view/apps-extn-base/home
 https://sites.google.com/view/apps-io-metamske/home
@@ -138,6 +139,7 @@ https://sites.google.com/view/base-walletex/home
 https://sites.google.com/view/baseapps-extension/home
 https://sites.google.com/view/basecoin-extension-/home
 https://sites.google.com/view/basee-extension-docs/home
+https://sites.google.com/view/basee-extensions/home
 https://sites.google.com/view/basepro-hub-koin/home
 https://sites.google.com/view/basextension-wallet/home
 https://sites.google.com/view/begin-coinbase-users/home
@@ -1099,6 +1101,7 @@ https://sites.google.com/view/learn-extension/home
 https://sites.google.com/view/learn-extensions-base/home
 https://sites.google.com/view/learn-home-koinbase/home
 https://sites.google.com/view/learn-how-to-file-a-complain
+https://sites.google.com/view/learn-koinbase/home
 https://sites.google.com/view/learn-met-amsk/home
 https://sites.google.com/view/learn-metamask-ext/home
 https://sites.google.com/view/learn-metamssk/home
