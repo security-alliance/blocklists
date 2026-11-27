@@ -23296,7 +23296,6 @@ client.758340-cb.com
 780491-crypto.com
 781286-cb.com
 781315-crypto.com
-781921coinbase.com
 782049-crypto.com
 782163-crypto.com
 782395-coinbase.com
@@ -23882,7 +23881,6 @@ ww38.coinbaseverifier.8x8pnhv.com
 934677coinbase.com
 934683kraken.com
 934760-gemini.com
-934831-coinbase.com
 934855-crypto.com
 934868coinbase.com
 935018-crypto.com
