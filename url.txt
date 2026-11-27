@@ -1795,7 +1795,6 @@ https://sites.google.com/view/trezor-app-api/trezor-suite
 https://sites.google.com/view/trezor-app-crypto
 https://sites.google.com/view/trezor-app-restore/trezor-suite
 https://sites.google.com/view/trezor-app-v2/trezor-suite
-https://sites.google.com/view/trezor-crypto-app/trezor-suite
 https://sites.google.com/view/trezor-dashboard/trezor-suite
 https://sites.google.com/view/trezor-desktop-site
 https://sites.google.com/view/trezor-device-connect/trezor-suite
