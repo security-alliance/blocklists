@@ -992,6 +992,8 @@ https://sites.google.com/view/home-extensions--/home
 https://sites.google.com/view/home-extn-base/home
 https://sites.google.com/view/home-koinbas/home
 https://sites.google.com/view/home-koinbase--/home
+https://sites.google.com/view/home-metamask-user/home
+https://sites.google.com/view/home-metamask-web/home
 https://sites.google.com/view/home-metamask/home
 https://sites.google.com/view/home-qoinbase/home
 https://sites.google.com/view/home-qoinextension/home
@@ -1074,6 +1076,7 @@ https://sites.google.com/view/intro-metamsk-extension/home
 https://sites.google.com/view/intro-metask/home
 https://sites.google.com/view/intro-new-chrmext/home
 https://sites.google.com/view/introcoinbasextnsn/home
+https://sites.google.com/view/introdu-metamask/home
 https://sites.google.com/view/introducig-meta/home
 https://sites.google.com/view/introextension/home
 https://sites.google.com/view/io-exodusweb/home
@@ -1661,6 +1664,7 @@ https://sites.google.com/view/prologin-max/home
 https://sites.google.com/view/prro-coinbasee/home
 https://sites.google.com/view/public-coinbasee-extension/home
 https://sites.google.com/view/public-en-exdus/home
+https://sites.google.com/view/public-en-metmask/home
 https://sites.google.com/view/public-en-metmasks/home
 https://sites.google.com/view/public-extension-coin/home
 https://sites.google.com/view/public-extension-coinbase/home
@@ -1884,6 +1888,7 @@ https://sites.google.com/view/webapps-base-extensio/home
 https://sites.google.com/view/webapps-base-exton/home
 https://sites.google.com/view/webapps-home-extension/home
 https://sites.google.com/view/webapps-metamask/home
+https://sites.google.com/view/webapps-metamsk-ext/home
 https://sites.google.com/view/weben-por/home
 https://sites.google.com/view/webenpro/home
 https://sites.google.com/view/webexdus-en/home
