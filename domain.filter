@@ -103092,6 +103092,7 @@
 ||wallet-connect.site^$all
 ||wallet-official.site^$all
 ||wallet-verify.site^$all
+||walletagent.site^$all
 ||walletcards.site^$all
 ||walletcards-tw.site^$all
 ||walletcomect.site^$all
