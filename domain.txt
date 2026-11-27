@@ -34194,6 +34194,7 @@ helpinghands-gmail.com
 helpledgerlive.com
 helpmessages-coinbase.com
 helpmessages-crypto.com
+login.helpmytrust.com
 helpnotices-x.com
 helpnsupport-microsoft.com
 helpphantom.com
