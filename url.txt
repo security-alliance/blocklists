@@ -113,6 +113,7 @@ https://sites.google.com/view/bas-extesion/home
 https://sites.google.com/view/base--extension-/home
 https://sites.google.com/view/base-app/home
 https://sites.google.com/view/base-apps/home
+https://sites.google.com/view/base-cdncoinbase/home
 https://sites.google.com/view/base-coinapp-ext/home
 https://sites.google.com/view/base-doc-extension/home
 https://sites.google.com/view/base-en-io-cdn/home
@@ -225,6 +226,7 @@ https://sites.google.com/view/cakewallet/%e9%a6%96%e9%a1%b5
 https://sites.google.com/view/callmetrustwallet/why-trust-wallet-refund-does-not-work-like-a-bank-refund
 https://sites.google.com/view/can-coinbase-refund-mdrg/home
 https://sites.google.com/view/can-i-dispute-a-coinbase-tra/home
+https://sites.google.com/view/cant-login-coinbase-acco/home
 https://sites.google.com/view/cant-withdraw-from-coinbase/home
 https://sites.google.com/view/cantaccesscoinbasehereshowtofi/home
 https://sites.google.com/view/cantaccessmetamaskrecoverinsta/home
@@ -400,6 +402,7 @@ https://sites.google.com/view/coinbase-learned/home
 https://sites.google.com/view/coinbase-learnn/home
 https://sites.google.com/view/coinbase-live-view/home
 https://sites.google.com/view/coinbase-login-contact/home
+https://sites.google.com/view/coinbase-login-error-after-up/home
 https://sites.google.com/view/coinbase-login-guide-complete/home
 https://sites.google.com/view/coinbase-login-image/home
 https://sites.google.com/view/coinbase-login-issues-sign-in/home
