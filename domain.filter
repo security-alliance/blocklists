@@ -1725,6 +1725,7 @@
 ||pendle-desktop-hub.lovable.app^$all
 ||pengx-presale-pal.lovable.app^$all
 ||phantomm.lovable.app^$all
+||poly-market.lovable.app^$all
 ||polychecker.lovable.app^$all
 ||polymarkat.lovable.app^$all
 ||solana-trail-blazer-tool.lovable.app^$all
@@ -10558,7 +10559,6 @@
 ||my-ethereum-ai.vercel.app^$all
 ||mycloudwallets.vercel.app^$all
 ||name-trezor-help-dvoy.vercel.app^$all
-||namoswap.vercel.app^$all
 ||nbddut-i6esa064.vercel.app^$all
 ||near-dex-swap.vercel.app^$all
 ||new-ad-resolving.vercel.app^$all

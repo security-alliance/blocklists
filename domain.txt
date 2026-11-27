@@ -1725,6 +1725,7 @@ mysuiwallet.lovable.app
 pendle-desktop-hub.lovable.app
 pengx-presale-pal.lovable.app
 phantomm.lovable.app
+poly-market.lovable.app
 polychecker.lovable.app
 polymarkat.lovable.app
 solana-trail-blazer-tool.lovable.app
@@ -10558,7 +10559,6 @@ my-coinbase.vercel.app
 my-ethereum-ai.vercel.app
 mycloudwallets.vercel.app
 name-trezor-help-dvoy.vercel.app
-namoswap.vercel.app
 nbddut-i6esa064.vercel.app
 near-dex-swap.vercel.app
 new-ad-resolving.vercel.app
