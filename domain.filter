@@ -1008,7 +1008,6 @@
 ||aphold-logi.created.app^$all
 ||app-upheld.created.app^$all
 ||app-upheld-docs.created.app^$all
-||auth-uphld-login.created.app^$all
 ||co-insmart-home.created.app^$all
 ||coenbase-pro-loegn.created.app^$all
 ||coinase-sso-logi.created.app^$all
