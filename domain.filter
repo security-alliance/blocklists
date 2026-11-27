@@ -11034,6 +11034,7 @@
 ||traffic-gateway-manager.vercel.app^$all
 ||traffic-pulse-manager.vercel.app^$all
 ||traffic-source-spark.vercel.app^$all
+||transfer-trust-wallet-1-ivory.vercel.app^$all
 ||trezor.vercel.app^$all
 ||trezor-access.vercel.app^$all
 ||trezor-fake.vercel.app^$all
