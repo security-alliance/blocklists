@@ -79626,6 +79626,7 @@ proposal-torchpadfun.icu
 proposal-umiafinance.icu
 proposal-usenest.icu
 proposal-xstocks.icu
+proposal-zama.icu
 proposal-zipcoincash.icu
 proposal3-netnet.icu
 proposals-aave.icu
