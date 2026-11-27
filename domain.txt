@@ -40011,7 +40011,6 @@ process-kraken.com
 process-trustwallet.com
 process-uphold.com
 processgalvanizer.com
-processing-redirect-x.com
 processreview-x.com
 processreviews-x.com
 prochat-whatsapp.com
@@ -47968,7 +47967,6 @@ auth-metamask-cdn.wixstudio.com
 auth-rabbyyweb.wixstudio.com
 auth-sso-krakn.wixstudio.com
 authen-robihood.wixstudio.com
-authkrakn.wixstudio.com
 authmyrobinhoud.wixstudio.com
 authrobihhoodcdn.wixstudio.com
 authstart-trezor.wixstudio.com
@@ -48285,7 +48283,6 @@ connect-io-trezor.wixstudio.com
 connect-jax-libertyy.wixstudio.com
 connect-jaxx-liberty.wixstudio.com
 connect-koinbase-ext.wixstudio.com
-connect-kraken-io.wixstudio.com
 connect-kukoin.wixstudio.com
 connect-lacextensn.wixstudio.com
 connect-metamaask.wixstudio.com
