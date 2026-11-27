@@ -66171,6 +66171,7 @@
 ||chainlink-flow-sense.pages.dev^$all
 ||chainlink-poc-apimatic.pages.dev^$all
 ||chainlink-test-web.pages.dev^$all
+||chainlink-vote.pages.dev^$all
 ||champions-early-access.pages.dev^$all
 ||check-base-airdrop-eligibility.pages.dev^$all
 ||check-claim.pages.dev^$all

@@ -66171,6 +66171,7 @@ cfe8-4c29-5133-c0inbase-list.pages.dev
 chainlink-flow-sense.pages.dev
 chainlink-poc-apimatic.pages.dev
 chainlink-test-web.pages.dev
+chainlink-vote.pages.dev
 champions-early-access.pages.dev
 check-base-airdrop-eligibility.pages.dev
 check-claim.pages.dev
