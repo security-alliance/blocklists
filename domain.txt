@@ -71076,7 +71076,6 @@ portal-trezor-logo-on.pages.dev
 portal-trezore.pages.dev
 portal-trezorsuite-eng.pages.dev
 portals-flare.pages.dev
-portalsflare.pages.dev
 portfolio-ledgr-desk.pages.dev
 portfolio-swap.pages.dev
 portfolio-uniswap.pages.dev
