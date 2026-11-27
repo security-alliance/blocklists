@@ -1096,7 +1096,6 @@ uphold-loginese.created.app
 uphold-loginm.created.app
 uphold-logio-web.created.app
 uphold-loin.created.app
-uphold-wallet-webpage.created.app
 upholddns.created.app
 upholde-logiin.created.app
 upholdloginn.created.app
@@ -47238,7 +47237,6 @@ geminexchange.weebly.com
 io-upheldlogi.weebly.com
 io-uphold.weebly.com
 learn-up-hold-en.weebly.com
-login---uphid-sso.weebly.com
 m--portal--uphld--autth--m.weebly.com
 page----uphold-us.weebly.com
 petraaptoshwallet.weebly.com
