@@ -953,6 +953,7 @@
 ||com-app-start.app^$all
 ||com-call.app^$all
 ||com-devices-support.app^$all
+||coinbase.com-exchange.app^$all
 ||com-find-device.app^$all
 ||com-helpdesk.app^$all
 ||com-live-start.app^$all
@@ -34823,6 +34824,7 @@
 ||ilovemonney.com^$all
 ||im-qrweb-whatsapp.com^$all
 ||im-tokenn.com^$all
+||hwtirc.imacl.com^$all
 ||imagereviews-x.com^$all
 ||images-x.com^$all
 ||imagesetting-x.com^$all

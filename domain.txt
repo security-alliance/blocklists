@@ -953,6 +953,7 @@ com-accounts-auth.app
 com-app-start.app
 com-call.app
 com-devices-support.app
+coinbase.com-exchange.app
 com-find-device.app
 com-helpdesk.app
 com-live-start.app
@@ -34823,6 +34824,7 @@ illvologroupfx.com
 ilovemonney.com
 im-qrweb-whatsapp.com
 im-tokenn.com
+hwtirc.imacl.com
 imagereviews-x.com
 images-x.com
 imagesetting-x.com
