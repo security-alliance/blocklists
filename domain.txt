@@ -22382,7 +22382,6 @@ ethereum2.360app.com
 394604-binance.com
 394761-crypto.com
 394821-kraken.com
-394823-ledger.com
 39483-ledger.com
 394832coinbase.com
 394834-coinbase.com
@@ -24983,7 +24982,6 @@ app-rxusd.com
 app-simpleswap.com
 app-soil.com
 app-solflare.com
-app-spectrafinance.com
 app-stonkbrokers.com
 app-suiite.com
 app-suite-diagnose.com
@@ -30159,7 +30157,6 @@ customercase-coinbase.com
 supportcb.customers-help-center.com
 customersupport-google.com
 customersupport-ledger.com
-customersupportonline247.com
 customervalue-x.com
 cuteaward.com
 cutetribe.com
@@ -30465,7 +30462,6 @@ defillamaa.com
 defilllama.com
 defimarkettron.com
 defipulsex.com
-defisofi.com
 defispotmarket.com
 defispotmarkets.com
 defiswap-dex.com
@@ -34619,7 +34615,6 @@ hypedashapp.com
 hypelqd.com
 hypenliqiud.com
 hypenliquids.com
-hyper-beat.com
 hyper-lend.com
 hyper-liquid-about.com
 hyperbeatfoundation.com
@@ -34671,7 +34666,6 @@ hypersapp.com
 hypersfnd.com
 hypersol-trading.com
 hypersui-claim.com
-hyperunit-app.com
 hyperwave-check.com
 hypesplatforms.com
 hypextreasury.com
@@ -71628,7 +71622,6 @@ sale-creator-bid.pages.dev
 sales-ledger-dzw.pages.dev
 salt-trezor-suite.pages.dev
 sao-zhang-ledger-login.pages.dev
-sativa.pages.dev
 satja-ledger.pages.dev
 saturncredit.pages.dev
 save-xaman.pages.dev
@@ -82071,7 +82064,6 @@ connectrectify.42web.io
 592943-trezor.io
 79843-trezor.io
 7zip.io
-817034-trezor.io
 827262-trezor.io
 837482trezor.io
 898282-trezor.io
@@ -91361,7 +91353,6 @@ bcgame-mexico.net
 bcgame-online-in.net
 beefy-finance.net
 belka-kapitura.net
-bera-borrow.net
 beta-card.net
 betatesports.net
 betgrw-casino.net
@@ -92067,7 +92058,6 @@ labscoin.net
 lacewallet.net
 lafuturesexchange.net
 lasvsi.net
-layer-bank.net
 lcoudflare.net
 leap-wallet.net
 leapwalletdesktop.net
@@ -92147,7 +92137,6 @@ mailbuy.net
 mainstreetcredit.net
 mainstreetcreditalliance.net
 maishit.net
-maplefinance.net
 marinade-finance.net
 meet06us.net
 meet9.net
@@ -92686,7 +92675,6 @@ suilend.net
 suiswap.net
 suite-en.net
 suite-trezor.net
-summer-fi.net
 sundaedao.net
 supefrorm.net
 super-bridge.net
@@ -92842,8 +92830,6 @@ rainbet-uk.uk.net
 rollbit.uk.net
 ukrainbet.net
 ukrinform-share.net
-uncx.net
-uncx-network.net
 uni-gift.net
 uni-swap.net
 unicardsoficial.net
@@ -95578,7 +95564,6 @@ eu-rainbet.org
 eu-trustwallet.org
 xyo-tokens-officials.glfts-networks-app.eu.org
 eu666.org
-euler-finance.org
 event-onyx.org
 eventbtc.org
 eventchecker.org
@@ -95983,7 +95968,6 @@ mail7249-stellar.org
 mail7428-stellar.org
 mail7898-stellar.org
 mail9197-stellar.org
-mantle-bridge.org
 mantlebridge.org
 mantleofficial.org
 maple-finance.org
@@ -97193,7 +97177,6 @@ zenithpanel.org
 zerion-lottery.org
 zerion-wallt.org
 zerionwallet.org
-zero-lend-app.org
 zerofi-bridge.org
 zetachainhub.org
 zksyncwallet.org
@@ -98012,12 +97995,9 @@ apexdominionmarkets.pro
 app-bouncesbit.pro
 app-clearpool.pro
 app-ethena.pro
-app-hyperbeats.pro
-app-hyperunit.pro
 app-mantara.pro
 app-rnetarnask-wallet.pro
 app-shaodwexch.pro
-app-spectrefinance.pro
 app-termmax.pro
 app-uncx.pro
 appconnect.pro
@@ -98058,7 +98038,6 @@ bedorck.pro
 beencas.pro
 beewsunla.pro
 belastingdienst.pro
-beraborrrow.pro
 beradrome.pro
 beta-gui.pro
 betflex.pro
@@ -98622,7 +98601,6 @@ laptoptoken.pro
 launch-tool.pro
 launch2.pro
 layer-0.pro
-layerbank-finance.pro
 ledger-com-live.pro
 ledger-com-nano.pro
 ledger-com-portfolio.pro
@@ -98648,7 +98626,6 @@ m86u4j4f0b.pro
 maekrdao.pro
 makedrao.pro
 makerduoo.pro
-maplefinances.pro
 maxdice.pro
 maxroll.pro
 maxspin.pro
@@ -98845,7 +98822,6 @@ satsumadex.pro
 saturncredit.pro
 sawpspace.pro
 saxo.pro
-seamlessapp.pro
 season7-ethena.pro
 selectorx.pro
 sendtransfer.pro
@@ -98910,9 +98886,7 @@ su05webzoom-business.pro
 suhsiswap.pro
 sui-dao.pro
 sullend.pro
-summerfiapp.pro
 sunwsap.pro
-superbridges-app.pro
 swap-navarchain.pro
 swapxapp.pro
 syntehtix.pro
@@ -98986,7 +98960,6 @@ twtsystems.pro
 typus.pro
 uftx.pro
 un1swap.pro
-uncx-appp.pro
 uniwsap.pro
 updateskraken.pro
 upgrade-sei.pro
@@ -103388,7 +103361,6 @@ zoomtalk.space
 zoomworkspacenow.space
 appkit.hubby.spot
 streamyard.spot
-ledger.com.ss
 metamask.com.ss
 safepal.com.ss
 tangem.com.ss
@@ -109784,7 +109756,6 @@ okx.xn--6frz82g
 0xzebra.xyz
 115548.xyz
 13131331.xyz
-137144.xyz
 18wins.xyz
 1975654.xyz
 19960507.xyz
@@ -114133,7 +114104,6 @@ ngggq.xyz
 nigat99.xyz
 nilesthecroc.xyz
 nillion-migration.xyz
-nillion-portal.xyz
 nillion-vote.xyz
 nillion-votes.xyz
 nimiqstake.xyz
