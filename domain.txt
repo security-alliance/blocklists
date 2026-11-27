@@ -15225,6 +15225,7 @@ wisef.eu.cc
 wiseo.eu.cc
 wisere.eu.cc
 xzxx.eu.cc
+zoomw.eu.cc
 eu5-zoom.cc
 eugamb.cc
 evmgarden.cc
@@ -38148,6 +38149,7 @@ nfts-graphic.com
 nfts-listings.com
 nfts-utility.com
 opensea-io.nfts-vendor.com
+nftzoomer.com
 ngibank.com
 ngrave-wallet-review.com
 ngrave-zero-guide.com
@@ -45809,6 +45811,7 @@ us14web-zoom.com
 us15web-zoom.com
 us2-n1-google.com
 us21webzoom.com
+us24live.com
 us30-invitation.com
 us30webzoom.com
 us31web-zoom.com
@@ -52362,6 +52365,7 @@ zonewex.com
 zoom-12a-pq7-lm0d-qiwu2.com
 zoom-auth.com
 zoom-call.com
+zoom-cloud.com
 zoom-communications.com
 zoom-en.com
 zoom-enterprise-updates.com
@@ -89204,6 +89208,7 @@ zoomelive.live
 zoomiet.live
 zoominvite-meeting.live
 zoomjoin.live
+zoomjoinn.live
 zoommeet.live
 zoommeetcall.live
 zoommeeting-invite.live
@@ -94684,6 +94689,7 @@ cdn.twingsvideo.online
 twt-cards.online
 governance.txflow.online
 uae-airdrop.online
+ujoinzoom.online
 uk-300usdcbonus.online
 uniswaphr.online
 unlock-revenue.online
@@ -97135,6 +97141,7 @@ zoominvitee.org
 zoomqult.org
 zoomus-login-verify.org
 zoomworkspace-hobsonoffice.org
+zoorn-us.org
 zsecure-us.org
 zyberspace.org
 trust.organic
@@ -102908,6 +102915,7 @@ trx-swappp.site
 coinsmart-io.turbologo.site
 rabbitx-io.turbologo.site
 tw-provider.site
+ujoinzoom.site
 umiafinance.site
 web-rabbyext.uncody.site
 uniswapdex.site
@@ -102917,6 +102925,7 @@ unlbaseswap.site
 unlock-worldlibertyfinancial.site
 unswap.site
 upgradeddapp-merge.site
+us02web.site
 us02webzoom.site
 us04web-zoom-tx.site
 us05web-zoom.site
@@ -103273,6 +103282,7 @@ trust-xtfd.space
 trustservice.space
 tufejix.space
 twostep-verificationnotice.space
+ujoinzoom.space
 unbanme.space
 unichain.space
 upnetwork.space
@@ -103525,6 +103535,7 @@ trxfee.store
 ttplace.store
 tw-card.store
 txflow.store
+ujoinzoom.store
 urnas.store
 usdtflashsoftwares.store
 usdtflashtrc20.store
@@ -107785,6 +107796,7 @@ jobs-adobe.us
 jobs-robinhood.us
 join-a-meeting.us
 join-adobe.us
+join-meeting-zoom.us
 joinevent.us
 joingoooglemeetings-site.us
 joininvitezoom.us
@@ -108058,6 +108070,7 @@ us01-web-zoom.us
 us02-web-zoom.us
 us024webzoom.us
 us02in.us
+us02web-zoommeeting.us
 us02webzoominvite.us
 us02wezoom.us
 us03-web-zoom.us
@@ -108105,6 +108118,7 @@ us16zoom.us
 us17zoom.us
 us18zoom.us
 us19zoom.us
+us20zoom.us
 us21zoom.us
 us22zoom.us
 us305web-zoom.us
