@@ -62269,6 +62269,7 @@
 ||519-reallocate-flare.pages.dev^$all
 ||52-0xfluid.pages.dev^$all
 ||52-allocation-yieldfields.pages.dev^$all
+||52-allocations-flarenetwork.pages.dev^$all
 ||52-allowlist-ascendlaunch.pages.dev^$all
 ||52-app-ethersfi.pages.dev^$all
 ||52-app-treadgov.pages.dev^$all
@@ -63512,6 +63513,8 @@
 ||68-vote-orbio.pages.dev^$all
 ||681d-116c-5133-c0inbase-list.pages.dev^$all
 ||689b-482c-coinbase-listing.pages.dev^$all
+||68a3-67ae-colnbase-listings.pages.dev^$all
+||68a5-482c-coinbase-listing.pages.dev^$all
 ||68f2-4c29-5133-c0inbase-list.pages.dev^$all
 ||69-0xfluid.pages.dev^$all
 ||69-allocation-argus.pages.dev^$all
@@ -64589,6 +64592,7 @@
 ||84-vote-orbio.pages.dev^$all
 ||84-vote-papertrade.pages.dev^$all
 ||8479-c58a-colnbase-listings.pages.dev^$all
+||84e3-4c29-5133-c0inbase-list.pages.dev^$all
 ||84e4-colnbase-listings-4f65.pages.dev^$all
 ||85-0xfluid.pages.dev^$all
 ||85-allocation-yieldfields.pages.dev^$all
