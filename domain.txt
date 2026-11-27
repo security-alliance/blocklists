@@ -23398,7 +23398,6 @@ client.758340-cb.com
 817034-exodus.com
 817034-swissquote.com
 81704-binance.com
-817151coinbase.com
 817261-uphold.com
 8173581coinbase.com
 817591-binance.com
@@ -24013,7 +24012,6 @@ ww38.coinbaseverifier.8x8pnhv.com
 982039-crypto.com
 98211-ledger.com
 982131.com
-982184coinbase.com
 982346-coinbase.com
 98237-coinbase.com
 982374-ledger.com
@@ -44977,7 +44975,6 @@ trustwallet-fr.com
 trustwallet-g23.com
 trustwallet-goldcard.com
 trustwallet-guide.com
-order.trustwallet-hardwares.com
 trustwallet-help.com
 trustwallet-helpmgmt.com
 trustwallet-i.com
