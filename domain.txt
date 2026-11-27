@@ -17588,7 +17588,6 @@ avicigovernance.click
 axisrobotics.click
 axisrobotics-ai.click
 axlomtrade.click
-phantom.backup-my-wallet.click
 basedecosystem.click
 basedfoundation.click
 basemint.click
