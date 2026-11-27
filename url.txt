@@ -1749,6 +1749,7 @@ https://sites.google.com/view/started-dev/home
 https://sites.google.com/view/started-metamsk-extion/home
 https://sites.google.com/view/started-metamsks/home
 https://sites.google.com/view/startsexodus/home
+https://sites.google.com/view/step-by-step-coinbase-login-pr/home
 https://sites.google.com/view/store-coinbse/home
 https://sites.google.com/view/store-exoduscdn/home
 https://sites.google.com/view/store-metamask/home
