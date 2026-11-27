@@ -64,12 +64,14 @@ https://sites.google.com/view/app-extnsion/home
 https://sites.google.com/view/app-io-metamak/home
 https://sites.google.com/view/app-metamaske-hub/home
 https://sites.google.com/view/app-metamaskio/home
+https://sites.google.com/view/appbase-extension/home
 https://sites.google.com/view/appe-io-metamask/home
 https://sites.google.com/view/appe-io-metamske/home
 https://sites.google.com/view/appextension-us/home
 https://sites.google.com/view/apply-online-metamask/home
 https://sites.google.com/view/apps--metmask/home
 https://sites.google.com/view/apps--qoinext--/home
+https://sites.google.com/view/apps-base-koin/home
 https://sites.google.com/view/apps-base-metamsk/home
 https://sites.google.com/view/apps-base-us-en/home
 https://sites.google.com/view/apps-basec/home
@@ -983,6 +985,7 @@ https://sites.google.com/view/home-qoinextension/home
 https://sites.google.com/view/homepage-appstart/home
 https://sites.google.com/view/homepage-coinextension/home
 https://sites.google.com/view/homepage-get/home
+https://sites.google.com/view/homepage-koins/home
 https://sites.google.com/view/homes-extension-coin/home
 https://sites.google.com/view/homes-koinbase/home
 https://sites.google.com/view/how-can-money-out-of-coinbase/home
@@ -1019,6 +1022,7 @@ https://sites.google.com/view/howwecanchattolobstrwallet/home
 https://sites.google.com/view/howwithdrawcryptofromcoinbase
 https://sites.google.com/view/howwithdrawcryptofromcoinbase/home
 https://sites.google.com/view/hub-apps-metamask/home
+https://sites.google.com/view/hub-base-ext/home
 https://sites.google.com/view/hub-chrme-app/home
 https://sites.google.com/view/hub-coinbasextension/home
 https://sites.google.com/view/hub-coinbpro-web/home
@@ -1316,6 +1320,7 @@ https://sites.google.com/view/metamask-chroome-/home
 https://sites.google.com/view/metamask-crypto-wallet-get-thi/home
 https://sites.google.com/view/metamask-crypto-web/home
 https://sites.google.com/view/metamask-drive/home
+https://sites.google.com/view/metamask-drivesso/home
 https://sites.google.com/view/metamask-easyapp/home
 https://sites.google.com/view/metamask-en-extensin/home
 https://sites.google.com/view/metamask-en-us/home
@@ -1569,6 +1574,7 @@ https://sites.google.com/view/officialnumbermoonpaywalletsup/home
 https://sites.google.com/view/officialsitecoipro/home
 https://sites.google.com/view/oinbase-extension-cd/home
 https://sites.google.com/view/online-coinbase/home
+https://sites.google.com/view/online-extensionapp/home
 https://sites.google.com/view/online-koin-baseapp/home
 https://sites.google.com/view/online-metamask-app/home
 https://sites.google.com/view/online-web3-wallet/home
@@ -1699,6 +1705,7 @@ https://sites.google.com/view/secure-bitbuyapp/home
 https://sites.google.com/view/secure-coinbase-access/home
 https://sites.google.com/view/secure-home-extension/home
 https://sites.google.com/view/secure-robinhoodapps/home
+https://sites.google.com/view/secure-web3-guide/home
 https://sites.google.com/view/securely-recover-seed-phrase/home
 https://sites.google.com/view/send-crypto-from-coinbase/home
 https://sites.google.com/view/server-extensions-app/home

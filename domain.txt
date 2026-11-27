@@ -48264,7 +48264,6 @@ connect-kukoin.wixstudio.com
 connect-lacextensn.wixstudio.com
 connect-metamaask.wixstudio.com
 connect-metamaaskext.wixstudio.com
-connect-metamask.wixstudio.com
 connect-metamask-ext.wixstudio.com
 connect-metamask-io.wixstudio.com
 connect-metamsk.wixstudio.com
@@ -48804,7 +48803,6 @@ getmetmask-extnsion.wixstudio.com
 getrabby-apps.wixstudio.com
 getrubby-extnsons.wixstudio.com
 getstart-metmask-io.wixstudio.com
-getstarted-metamask.wixstudio.com
 getstartstrezr.wixstudio.com
 getsuite.wixstudio.com
 getting-extension.wixstudio.com
