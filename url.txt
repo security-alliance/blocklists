@@ -75,11 +75,13 @@ https://sites.google.com/view/apps-basec/home
 https://sites.google.com/view/apps-basecd/home
 https://sites.google.com/view/apps-coinext-en/home
 https://sites.google.com/view/apps-en-metmssk/home
+https://sites.google.com/view/apps-extension-base/home
 https://sites.google.com/view/apps-extensionn/home
 https://sites.google.com/view/apps-extion-base/home
 https://sites.google.com/view/apps-extn-base/home
 https://sites.google.com/view/apps-io-metamske/home
 https://sites.google.com/view/apps-io-metma/home
+https://sites.google.com/view/apps-koinbas/home
 https://sites.google.com/view/apps-metamaask/home
 https://sites.google.com/view/apps-metamask-extion/home
 https://sites.google.com/view/apps-metmassk-io/home
@@ -111,6 +113,7 @@ https://sites.google.com/view/base-extennsion-/home
 https://sites.google.com/view/base-extensi/home
 https://sites.google.com/view/base-extension--/home
 https://sites.google.com/view/base-extension-c/home
+https://sites.google.com/view/base-extension-cdne/home
 https://sites.google.com/view/base-extension-cdus/home
 https://sites.google.com/view/base-extension-docs/home
 https://sites.google.com/view/base-extension-global/home
@@ -142,6 +145,8 @@ https://sites.google.com/view/basee-extension-docs/home
 https://sites.google.com/view/basee-extensions/home
 https://sites.google.com/view/basepro-hub-koin/home
 https://sites.google.com/view/basextension-wallet/home
+https://sites.google.com/view/begin-base-extension/home
+https://sites.google.com/view/begin-base-extnsions/home
 https://sites.google.com/view/begin-coinbase-users/home
 https://sites.google.com/view/begin-exodus-wallet/home
 https://sites.google.com/view/begin-procoin--/home
@@ -335,6 +340,7 @@ https://sites.google.com/view/coinbase-exten-hub/home
 https://sites.google.com/view/coinbase-extengv/home
 https://sites.google.com/view/coinbase-extens-/home
 https://sites.google.com/view/coinbase-extensi-/home
+https://sites.google.com/view/coinbase-extensi/home
 https://sites.google.com/view/coinbase-extensigetstart/home
 https://sites.google.com/view/coinbase-extensinn/home
 https://sites.google.com/view/coinbase-extension-hub/home
@@ -435,6 +441,7 @@ https://sites.google.com/view/coinbase-wallet-explore/home
 https://sites.google.com/view/coinbase-wallet-ext/home
 https://sites.google.com/view/coinbase-wallet-extansion/home
 https://sites.google.com/view/coinbase-wallet-extensi/home
+https://sites.google.com/view/coinbase-wallet-extensio/home
 https://sites.google.com/view/coinbase-wallet-getting/home
 https://sites.google.com/view/coinbase-wallet-home/home
 https://sites.google.com/view/coinbase-wallet-intro/home
@@ -856,6 +863,7 @@ https://sites.google.com/view/get-metamasksso/home
 https://sites.google.com/view/get-money-out-of-coinbase/home
 https://sites.google.com/view/get-my-money-back-from-coinbas/home
 https://sites.google.com/view/get-new-metamask/home
+https://sites.google.com/view/getcoinbase-extension/home
 https://sites.google.com/view/geting-starte/home
 https://sites.google.com/view/getstarted-coinextn/home
 https://sites.google.com/view/getstarted-metamask/home
