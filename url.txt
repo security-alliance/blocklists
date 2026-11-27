@@ -529,6 +529,7 @@ https://sites.google.com/view/coinbasewall/home
 https://sites.google.com/view/coinbasewalleet/home
 https://sites.google.com/view/coinbasewallet-browse/home
 https://sites.google.com/view/coinbasewallet-xtension/home
+https://sites.google.com/view/coinbasewalletloginissue
 https://sites.google.com/view/coinbasewallettobankaccout
 https://sites.google.com/view/coinbasewallettobankaccout/home
 https://sites.google.com/view/coinbasext-/home
@@ -1016,6 +1017,7 @@ https://sites.google.com/view/how-to-cash-out-on-coinbase-wa/home
 https://sites.google.com/view/how-to-deposit-on-kraken
 https://sites.google.com/view/how-to-fix-coinbase-login/home
 https://sites.google.com/view/how-to-increase-coinbase-buy-
+https://sites.google.com/view/how-to-increase-coinbase-limit/home
 https://sites.google.com/view/how-to-log-in-to-coinbase/home
 https://sites.google.com/view/how-to-report-a-problem-on-tru/home
 https://sites.google.com/view/how-to-tansfer-money-from-trus
@@ -1082,6 +1084,7 @@ https://sites.google.com/view/io-metmasklogi/home
 https://sites.google.com/view/io-metmsask/home
 https://sites.google.com/view/iobrowser-extension/home
 https://sites.google.com/view/ioi-metamask/home
+https://sites.google.com/view/is-coinbase-open-247-24-hours
 https://sites.google.com/view/is-kraken-no-kyc
 https://sites.google.com/view/is-there-a-fee-for-taking-mone/home
 https://sites.google.com/view/ismycoinbaseaccoun/home
