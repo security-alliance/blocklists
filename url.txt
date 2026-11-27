@@ -122,6 +122,7 @@ https://sites.google.com/view/base-extensions-/home
 https://sites.google.com/view/base-extensions-app/home
 https://sites.google.com/view/base-extensions/home
 https://sites.google.com/view/base-extensone-wallet/home
+https://sites.google.com/view/base-extinsion/home
 https://sites.google.com/view/base-extnsons/home
 https://sites.google.com/view/base-intro-colud/home
 https://sites.google.com/view/base-io-webstart/home
@@ -130,6 +131,7 @@ https://sites.google.com/view/base-wallet-exten/home
 https://sites.google.com/view/base-wallet-extensionn/home
 https://sites.google.com/view/base-wallet-key/home
 https://sites.google.com/view/base-wallet-koinbase/home
+https://sites.google.com/view/base-walletex/home
 https://sites.google.com/view/baseapps-extension/home
 https://sites.google.com/view/basecoin-extension-/home
 https://sites.google.com/view/basee-extension-docs/home
@@ -235,6 +237,7 @@ https://sites.google.com/view/coin-basepro-cloud/home
 https://sites.google.com/view/coin-baseproo-/home
 https://sites.google.com/view/coin-chrom/home
 https://sites.google.com/view/coin-en-us-baseview/home
+https://sites.google.com/view/coin-extension-app/home
 https://sites.google.com/view/coin-extension-cdn/home
 https://sites.google.com/view/coin-extension/home
 https://sites.google.com/view/coin-extensn-en/home
@@ -254,6 +257,7 @@ https://sites.google.com/view/coinbae-extension/home
 https://sites.google.com/view/coinbas--extension/home
 https://sites.google.com/view/coinbas-chromm/home
 https://sites.google.com/view/coinbas-estarte/home
+https://sites.google.com/view/coinbas-exten/home
 https://sites.google.com/view/coinbas-extension-/home
 https://sites.google.com/view/coinbas-extensn/home
 https://sites.google.com/view/coinbas-extenson-sso/home
@@ -1026,6 +1030,7 @@ https://sites.google.com/view/koinbase-extensionn/home
 https://sites.google.com/view/koinbase-extensions/home
 https://sites.google.com/view/koinbase-pro-logn/home
 https://sites.google.com/view/koinbase-user-/home
+https://sites.google.com/view/koinbase-wallet-extension-/home
 https://sites.google.com/view/koinbse-extension-hub/home
 https://sites.google.com/view/koinbse-extension/home
 https://sites.google.com/view/kraken-acc0unt-rec0very/home
@@ -1486,6 +1491,7 @@ https://sites.google.com/view/nov-bitbuy-apps/home
 https://sites.google.com/view/nov-metamask-web/home
 https://sites.google.com/view/nwehucoinbpro/home
 https://sites.google.com/view/official-base-app/home
+https://sites.google.com/view/official-base-extension/home
 https://sites.google.com/view/official-baseapp-hub/home
 https://sites.google.com/view/official-chrm-ext/home
 https://sites.google.com/view/official-coinbpro/home
