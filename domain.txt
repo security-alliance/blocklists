@@ -113450,6 +113450,7 @@ krakentrabalho.xyz
 kraken.kraker.xyz
 kristallmuseum-swarovski.xyz
 kumibot.xyz
+kysconcrete.xyz
 lab-usepaid.xyz
 labs-usepaid.xyz
 lagrangereward.xyz
@@ -114486,6 +114487,7 @@ polymarketstrategy.xyz
 polymarketwatch.xyz
 polymarketweather.xyz
 polytote.xyz
+polyxs.xyz
 pons-family.xyz
 ponsdotfam.xyz
 ponsecosystem.xyz
@@ -116301,6 +116303,7 @@ starknet-registrations.xyz
 starknet-rewards.xyz
 starknet-vote.xyz
 starknet-voting.xyz
+starknet-wbtc.xyz
 starknetfaucet.xyz
 starknetwbtc.xyz
 start-firelight.xyz
