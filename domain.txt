@@ -88533,7 +88533,6 @@ sale-zone.live
 santaxbt.live
 savefi-update.live
 sayasolana.live
-scallopsui.live
 scanqrcode.live
 schedule-ms-invite.live
 scottyaichain.live
