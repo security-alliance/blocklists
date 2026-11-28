@@ -17383,7 +17383,6 @@ portal-flare.claims
 prjx.claims
 q3-openserv.claims
 ramses.claims
-rheafinance.claims
 safepal.claims
 solsticefinance.claims
 symbioticfi.claims
@@ -81117,7 +81116,6 @@ phase2flare.info
 ww25.phosphor.info
 pinothedino.info
 pipapioglmk.info
-pitchwcr.info
 pitchwcrl.info
 plumenetwork.info
 polexbot.info
@@ -81139,7 +81137,6 @@ predictfun.info
 previewshare.info
 prime-usdt.info
 prixmboa.info
-prjx.info
 promo-trust.info
 promo-tw.info
 proposal-3jane.info
