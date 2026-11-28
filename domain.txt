@@ -15412,7 +15412,6 @@ likefire.cc
 link-twcard.cc
 liquiditypool2019.cc
 listsandvotes.cc
-litl.cc
 livejl-invite-reward.cc
 ljsaghqba04.cc
 lkraken.cc
@@ -74038,7 +74037,6 @@ tornado.dev
 triysty.dev
 ufbdirect.dev
 ultri.dev
-veils.dev
 waxai.dev
 web05zoom.dev
 windirstat.dev
@@ -91495,7 +91493,6 @@ community-flare.net
 community-moonshot.net
 communityvoting.net
 communityvotings.net
-compileit.net
 compilix.net
 compilyn.net
 compliance-direkt.net
@@ -96514,7 +96511,6 @@ solcasinos.org
 solflare-app.org
 solflere.org
 solfuck.org
-soliditycompiler.org
 solidityvmcompiler.org
 sologenic-dex.org
 sologenic-migrate.org
