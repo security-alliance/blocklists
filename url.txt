@@ -48,6 +48,7 @@ https://sites.google.com/view/a59z4t
 https://sites.google.com/view/access-coinbase-cdn/home
 https://sites.google.com/view/access-exodusapp/home
 https://sites.google.com/view/access-metamsk/home
+https://sites.google.com/view/access-web-coinbase/home
 https://sites.google.com/view/adds-extensioncom/home
 https://sites.google.com/view/addsextension-en/home
 https://sites.google.com/view/addsmetamask-us/home
@@ -247,6 +248,7 @@ https://sites.google.com/view/coiinbase-eng-extension/home
 https://sites.google.com/view/coiinbse-chrom/home
 https://sites.google.com/view/coimbas-chrom-us/home
 https://sites.google.com/view/coimbas-ext/home
+https://sites.google.com/view/coimbas-logn-pro/home
 https://sites.google.com/view/coimbas-user-us/home
 https://sites.google.com/view/coimbase-chrom/home
 https://sites.google.com/view/coimbase/home
@@ -349,6 +351,7 @@ https://sites.google.com/view/coinbase-digital-assets/home
 https://sites.google.com/view/coinbase-doc/home
 https://sites.google.com/view/coinbase-egetting/home
 https://sites.google.com/view/coinbase-eu/home
+https://sites.google.com/view/coinbase-excs/home
 https://sites.google.com/view/coinbase-explore/home
 https://sites.google.com/view/coinbase-ext-app/home
 https://sites.google.com/view/coinbase-ext-us/home
@@ -1700,6 +1703,7 @@ https://sites.google.com/view/qoinbase-pro-digital/home
 https://sites.google.com/view/qoinbase-web/home
 https://sites.google.com/view/qoinbaseextension/home
 https://sites.google.com/view/qoinbasepro-/home
+https://sites.google.com/view/qoinbasse-extension/home
 https://sites.google.com/view/qoinextension-getting--/home
 https://sites.google.com/view/qoinextension-us/home
 https://sites.google.com/view/qoinextus-en/home
@@ -1820,6 +1824,7 @@ https://sites.google.com/view/try-coinbase-wallet/home
 https://sites.google.com/view/tsgijc698/home
 https://sites.google.com/view/unable-to-login-kraken/home
 https://sites.google.com/view/unable-to-login-krakenn/home
+https://sites.google.com/view/up-coinbase-pro/home
 https://sites.google.com/view/update-metamasksso/home
 https://sites.google.com/view/url-new-metamask/home
 https://sites.google.com/view/us-bitbuy-logn/home
