@@ -10979,7 +10979,6 @@ stake-rloc.vercel.app
 stake-ueha.vercel.app
 stake-xkm0.vercel.app
 stakestone-stake.vercel.app
-staking-app-lime.vercel.app
 stark-cove-1165.vercel.app
 stark-pine-6904.vercel.app
 starkfi.vercel.app
