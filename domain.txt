@@ -8354,6 +8354,7 @@ rpcnoderesolver.app
 phantom.rpwallet.app
 rufusio.app
 rugsol.app
+polymarkettool-272623624738.us-central1.run.app
 runsly.app
 ruqvexa.app
 rxtbs-xaman.app
