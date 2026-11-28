@@ -18779,7 +18779,6 @@ stable-rewards.cloud
 chain-links.stakingreward.cloud
 interface-links.stakingreward.cloud
 interface-railguns.stakingreward.cloud
-interface-wxt.stakingreward.cloud
 us-link.stakingreward.cloud
 strata-markets.cloud
 strata-snapshot.cloud
