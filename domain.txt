@@ -14026,13 +14026,10 @@ memescandata.buzz
 micosoftonionllne.buzz
 microsofts.buzz
 my-rewards.buzz
-mygift-web.buzz
 myrewards.buzz
 nextrade.buzz
 novafuturetechdev.buzz
 onchainwallet.buzz
-online-obmenniki-crypto.buzz
-onlinemonitoring-crypto-obmennik.buzz
 onlinemonitoringi-crypto-obmennikov.buzz
 orbitlending.buzz
 orbitrelaylogs.buzz
@@ -14049,7 +14046,6 @@ reward-vip.buzz
 rewards-my.buzz
 rewardss.buzz
 safe-verify.buzz
-signal-bridge.buzz
 solanavolumebot.buzz
 support-binance.buzz
 tapir328hvl.buzz
@@ -16795,7 +16791,6 @@ rubic-official.cfd
 rwa-btc.cfd
 ryskfinance.cfd
 s7-ethena.cfd
-safegive.cfd
 sankvlebnepdhavl.cfd
 saturn-checker.cfd
 cesi.savingserves.cfd
@@ -52969,7 +52964,6 @@ rwa-xau.cyou
 safecapitalis.cyou
 safecapitalist.cyou
 sajitoto4d.cyou
-savecapital.cyou
 savingspools.cyou
 savingusdc.cyou
 sbigold.cyou
@@ -52977,7 +52971,6 @@ schorlf.cyou
 season5-etherfi.cyou
 secure-truist-online-login.cyou
 securepaperlesspdfdobe.cyou
-security-auth.cyou
 secux-app.cyou
 sellerverify.cyou
 settlement-hva.cyou
@@ -76453,7 +76446,6 @@ reallocation-solstice.finance
 reallocation-theindex.finance
 reallocations-solstice.finance
 reallocations-theindex.finance
-reclaimwise.finance
 redemption-mainstreet.finance
 refund-mainstreet.finance
 refund-solv.finance
@@ -77827,7 +77819,6 @@ usd-ai.fun
 usdai-allocation.fun
 usdai-governance.fun
 usdaiecosystem.fun
-usdcat.fun
 usdcball.fun
 usdccoin.fun
 usdcfaucet.fun
@@ -99626,7 +99617,6 @@ aeroxys.sbs
 aeroxyz.sbs
 aether-quatemala.sbs
 aether-spain.sbs
-aetheriswae.sbs
 ag-tokens.sbs
 ag-wallet.sbs
 ai-home.sbs
@@ -100870,7 +100860,6 @@ get-tw-card.sbs
 giewor.sbs
 gift-web.sbs
 giftcenter-web.sbs
-gifts-gifts.sbs
 glassnode.sbs
 glbuniquetrade.sbs
 globalexpertsanalysis.sbs
@@ -101047,7 +101036,6 @@ movedmain.sbs
 msmeet.sbs
 muglcbaiicu.sbs
 mybrand-x.sbs
-mygift-web.sbs
 mypoints-gift.sbs
 mystvox.sbs
 mytwcard.sbs
@@ -101485,7 +101473,6 @@ voting-zipcoin.sbs
 votings-zipcoin.sbs
 vynpipka.sbs
 wallet-aml-check.sbs
-walletcrypto.sbs
 flare.wanacat.sbs
 web-api-point.sbs
 web-giftcenter.sbs
@@ -103750,7 +103737,6 @@ rdorin66ga3me22-com.su
 royalmelor22ia5na11-com.su
 slon11.su
 swaponix.su
-tether-solana.su
 trust-wallet.su
 usdt-ethereum-mixer.su
 zoom-host.su
@@ -105628,7 +105614,6 @@ gatebtc-xau.top
 gateofslots888.top
 gbaferabv.top
 gemini-coin.top
-gemini-eth.top
 gemmeessoivip.top
 gemmmttvip.top
 get-refunds.top
@@ -106965,7 +106950,6 @@ walletbtc.top
 walletebtc.top
 walletguard.top
 walletibtc.top
-walletsweepx.top
 wangyix.top
 warlotlonality.top
 wasabicheese-rewards.top
