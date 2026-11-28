@@ -13116,7 +13116,6 @@ mymonero.biz
 olyonedao.biz
 pc.omnifxpro.biz
 claims-zetachains.pages.biz
-pancakesvvap.biz
 paraswap.biz
 peddleaxis.biz
 peddleaxiss.biz
@@ -13141,7 +13140,6 @@ solaroid.biz
 solfarm.biz
 sparkfinance.biz
 supportmetamask.biz
-sushisvvap.biz
 thewhitebull.biz
 tm8888.biz
 topmeetupdater.biz
@@ -18304,7 +18302,6 @@ success-verify.click
 sulanat.click
 sushi-dex.click
 sushi-eth.click
-sushisvvap.click
 swap-cow-fi.click
 swap-cow-v2.click
 swap-curve-fi.click
@@ -101880,7 +101877,6 @@ org-spring.shop
 ose-jp.shop
 osejp.shop
 pahanahapan.shop
-pancakesvswaffles.shop
 pendlefi.shop
 account.petraproducts.shop
 phantompanel1.shop
