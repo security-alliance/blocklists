@@ -11596,6 +11596,7 @@ apps-midnight.web.app
 apps-polymarket.web.app
 appswalletconnects.web.app
 arcus-net.web.app
+asterdex-connect.web.app
 backpack-updates.web.app
 backpackextensions.web.app
 bayc-nftmint.web.app
