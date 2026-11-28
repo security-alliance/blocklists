@@ -21384,7 +21384,6 @@ btc.10xpolymarket.com
 11-okx.com
 11-trustwallet.com
 111087-crypto.com
-111403coinbase.com
 111506coinbase.com
 111506coinspot.com
 112458coinbase.com
@@ -22801,7 +22800,6 @@ coinbase.564782.com
 582843-login-coinbase.com
 582922-ledger.com
 58293-ledger.com
-58293-login-coinbase.com
 582930-coinspot.com
 582932-coinspot.com
 582932-ledger.com
