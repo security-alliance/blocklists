@@ -12031,7 +12031,6 @@ shiftrwa.art
 snapshot-normies.art
 unijoin.art
 unipeg-governance.art
-unipeg-proposal.art
 unipegs.art
 unipegv4.art
 upegs.art
@@ -77117,7 +77116,6 @@ elys.fun
 embercurves.fun
 emberprotocol.fun
 emberscurve.fun
-enroll-alt.fun
 enterclaimera.fun
 entermihao.fun
 etherbid.fun
