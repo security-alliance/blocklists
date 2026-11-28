@@ -10371,6 +10371,7 @@ mhcclt-m381y7zn.vercel.app
 mighty-pool-controller.vercel.app
 migrate-aitech-io.vercel.app
 milicitud-de-crreddimto.vercel.app
+minipay-hackathon.vercel.app
 mint-chain-ten.vercel.app
 mint-openseanft9x.vercel.app
 mint-openseapro45.vercel.app
