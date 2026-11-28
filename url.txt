@@ -1307,7 +1307,6 @@ https://sites.google.com/view/ledger-desktop-version/ledger-wallet
 https://sites.google.com/view/ledger-live-ex/ledger-wallet
 https://sites.google.com/view/ledger-live-updater
 https://sites.google.com/view/ledger-start-live
-https://sites.google.com/view/ledger-v2/ledger-wallet
 https://sites.google.com/view/ledger-v4
 https://sites.google.com/view/ledger-wallet-web
 https://sites.google.com/view/ledger-web-live
@@ -1912,7 +1911,6 @@ https://sites.google.com/view/terclesmulthe
 https://sites.google.com/view/transfer-fund-from-coinbase/home
 https://sites.google.com/view/trezor-api-access
 https://sites.google.com/view/trezor-api-access/trezor-suite
-https://sites.google.com/view/trezor-api-connect/trezor-suite
 https://sites.google.com/view/trezor-api-signin
 https://sites.google.com/view/trezor-api-signin/trezor-suite
 https://sites.google.com/view/trezor-api-web
