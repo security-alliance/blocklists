@@ -1359,7 +1359,6 @@ https://sites.google.com/view/logon-metamask/home
 https://sites.google.com/view/logon-metamsk/home
 https://sites.google.com/view/manage-base-extension/home
 https://sites.google.com/view/manage-exodus-wallet/home
-https://sites.google.com/view/manage-ledger-app/ledger-wallet
 https://sites.google.com/view/manage-metamskwb/home
 https://sites.google.com/view/manage-trezor-app
 https://sites.google.com/view/manage-trezor-suite
