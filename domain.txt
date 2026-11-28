@@ -11517,7 +11517,6 @@ vote-xamam.app
 vote-xamon.app
 vote-xstocksfi.app
 vote-zebec.app
-voted-onyx.app
 votes-apyx.app
 votes-apyxfi.app
 votes-asterdex.app
@@ -17370,7 +17369,6 @@ meteora.claims
 quest.metisl2protocol.claims
 ww38.metisl2protocol.claims
 morphos.claims
-near-allocation.claims
 nearprotocol.claims
 netnet.claims
 ondo-points.claims
@@ -17380,7 +17378,6 @@ oneinch.claims
 onyx.claims
 plasmafoundation.claims
 portal-flare.claims
-prjx.claims
 q3-openserv.claims
 ramses.claims
 safepal.claims
@@ -31679,7 +31676,6 @@ event-finance.com
 event-firelightfi.com
 event-flarenetworks.com
 event-florentine.com
-event-genius.com
 event-humanity.com
 event-hyperlendfi.com
 event-jesse-base-eth.com
@@ -39952,7 +39948,6 @@ privovte.com
 privrote.com
 prjrx.com
 prjxeco.com
-prjxhl.com
 prloud.com
 prlynote.com
 pro-changelly.com
@@ -46176,7 +46171,6 @@ vaultinstitution.com
 vaultredirect.com
 vaults-binance.com
 vaults-kraken.com
-vaults-variational.com
 coinbase.vaultsafely.com
 vaultx-unlocked.com
 vavada-casi-no.com
@@ -46511,7 +46505,6 @@ vote-anni.com
 vote-apxygovernance.com
 vote-apyx.com
 vote-apyx-fi.com
-vote-apyxfi.com
 vote-arc.com
 vote-arcus.com
 vote-atlanta.com
@@ -46534,7 +46527,6 @@ vote-flarefoundations.com
 vote-flaregover.com
 vote-flaregovernance.com
 vote-flaregovernances.com
-vote-flarenetworks.com
 vote-fogo.com
 vote-globaldollar.com
 vote-hookr.com
@@ -52526,7 +52518,6 @@ docupdate.company
 etherfi.company
 flarenetworks.company
 gamefin.company
-grvt.company
 kraken-dex.company
 movementnetwork.company
 netrun.company
@@ -77133,7 +77124,6 @@ entermihao.fun
 etherbid.fun
 etherspin.fun
 ethwheel.fun
-event-chooserich.fun
 event-embercurve.fun
 events-embercurve.fun
 exclusive-drop.fun
@@ -77792,7 +77782,6 @@ whitelists-alt.fun
 worldliquidity.fun
 jupiter.wunschpunsch.fun
 www-fwa.fun
-x-worldcup.fun
 x7pad.fun
 xaman-wallet.fun
 xaman-wallett.fun
@@ -90954,7 +90943,6 @@ dza5aw2ury2bvrneibr5ehm7hjzox7u5ihqrbiu3ak4vjlrkyk5a.arweave.net
 e3fctvt6gwqhyea6w2ed2kzx5dnyzqfk2z7zuyyfc2renv637baq.arweave.net
 e4bkmklakxaev64wsdhss4x567kx2voi6sotcujom5ikl62qcfga.arweave.net
 e4vrdkmorgroskoqzqo3bwasliuhdtzi32clqr5zmnknhbku2coq.arweave.net
-e6utote4vew72n7xg2kzr5wo2lpwefzufloxs7bemnxaifb63x5q.arweave.net
 ebmt5h3zmtd6wfxnvolmppujnm6v566gqitjuwevmm4poum3zn6q.arweave.net
 ebstdrx2dbpqti5ogvmnnblssgzlwi5ngfoxpne6pz3tgyfbgx6q.arweave.net
 ebzwzhokprrcplf24lrhyg5pyaya7crsvozcxmvxyxlqq5epvkoq.arweave.net
@@ -93162,7 +93150,6 @@ reallocations-canopy.network
 reallocations-keeta.network
 refund-altura.network
 regents.network
-register-tge-flare.network
 revoke-realio.network
 rewards-sidekick.network
 rewards-ssv.network
@@ -93601,7 +93588,6 @@ prjx-hl.one
 solana.publicnodes.one
 coinbase.pxxl.one
 quickevents.one
-quipnetwork.one
 rainbet-casino.one
 rainbet-de.one
 rainbetcasino.one
@@ -117699,10 +117685,8 @@ x-accountaccess.xyz
 x-clouds.xyz
 x-firelight.xyz
 x-flarenetworks.xyz
-x-meiterminal.xyz
 x-neobank.xyz
 x-pages.xyz
-x-pitchwc.xyz
 x-reign.xyz
 x-solsticefinance.xyz
 xai-claim.xyz

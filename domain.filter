@@ -11517,7 +11517,6 @@
 ||vote-xamon.app^$all
 ||vote-xstocksfi.app^$all
 ||vote-zebec.app^$all
-||voted-onyx.app^$all
 ||votes-apyx.app^$all
 ||votes-apyxfi.app^$all
 ||votes-asterdex.app^$all
@@ -17370,7 +17369,6 @@
 ||quest.metisl2protocol.claims^$all
 ||ww38.metisl2protocol.claims^$all
 ||morphos.claims^$all
-||near-allocation.claims^$all
 ||nearprotocol.claims^$all
 ||netnet.claims^$all
 ||ondo-points.claims^$all
@@ -17380,7 +17378,6 @@
 ||onyx.claims^$all
 ||plasmafoundation.claims^$all
 ||portal-flare.claims^$all
-||prjx.claims^$all
 ||q3-openserv.claims^$all
 ||ramses.claims^$all
 ||safepal.claims^$all
@@ -31679,7 +31676,6 @@
 ||event-firelightfi.com^$all
 ||event-flarenetworks.com^$all
 ||event-florentine.com^$all
-||event-genius.com^$all
 ||event-humanity.com^$all
 ||event-hyperlendfi.com^$all
 ||event-jesse-base-eth.com^$all
@@ -39952,7 +39948,6 @@
 ||privrote.com^$all
 ||prjrx.com^$all
 ||prjxeco.com^$all
-||prjxhl.com^$all
 ||prloud.com^$all
 ||prlynote.com^$all
 ||pro-changelly.com^$all
@@ -46176,7 +46171,6 @@
 ||vaultredirect.com^$all
 ||vaults-binance.com^$all
 ||vaults-kraken.com^$all
-||vaults-variational.com^$all
 ||coinbase.vaultsafely.com^$all
 ||vaultx-unlocked.com^$all
 ||vavada-casi-no.com^$all
@@ -46511,7 +46505,6 @@
 ||vote-apxygovernance.com^$all
 ||vote-apyx.com^$all
 ||vote-apyx-fi.com^$all
-||vote-apyxfi.com^$all
 ||vote-arc.com^$all
 ||vote-arcus.com^$all
 ||vote-atlanta.com^$all
@@ -46534,7 +46527,6 @@
 ||vote-flaregover.com^$all
 ||vote-flaregovernance.com^$all
 ||vote-flaregovernances.com^$all
-||vote-flarenetworks.com^$all
 ||vote-fogo.com^$all
 ||vote-globaldollar.com^$all
 ||vote-hookr.com^$all
@@ -52526,7 +52518,6 @@
 ||etherfi.company^$all
 ||flarenetworks.company^$all
 ||gamefin.company^$all
-||grvt.company^$all
 ||kraken-dex.company^$all
 ||movementnetwork.company^$all
 ||netrun.company^$all
@@ -77133,7 +77124,6 @@
 ||etherbid.fun^$all
 ||etherspin.fun^$all
 ||ethwheel.fun^$all
-||event-chooserich.fun^$all
 ||event-embercurve.fun^$all
 ||events-embercurve.fun^$all
 ||exclusive-drop.fun^$all
@@ -77792,7 +77782,6 @@
 ||worldliquidity.fun^$all
 ||jupiter.wunschpunsch.fun^$all
 ||www-fwa.fun^$all
-||x-worldcup.fun^$all
 ||x7pad.fun^$all
 ||xaman-wallet.fun^$all
 ||xaman-wallett.fun^$all
@@ -90954,7 +90943,6 @@
 ||e3fctvt6gwqhyea6w2ed2kzx5dnyzqfk2z7zuyyfc2renv637baq.arweave.net^$all
 ||e4bkmklakxaev64wsdhss4x567kx2voi6sotcujom5ikl62qcfga.arweave.net^$all
 ||e4vrdkmorgroskoqzqo3bwasliuhdtzi32clqr5zmnknhbku2coq.arweave.net^$all
-||e6utote4vew72n7xg2kzr5wo2lpwefzufloxs7bemnxaifb63x5q.arweave.net^$all
 ||ebmt5h3zmtd6wfxnvolmppujnm6v566gqitjuwevmm4poum3zn6q.arweave.net^$all
 ||ebstdrx2dbpqti5ogvmnnblssgzlwi5ngfoxpne6pz3tgyfbgx6q.arweave.net^$all
 ||ebzwzhokprrcplf24lrhyg5pyaya7crsvozcxmvxyxlqq5epvkoq.arweave.net^$all
@@ -93162,7 +93150,6 @@
 ||reallocations-keeta.network^$all
 ||refund-altura.network^$all
 ||regents.network^$all
-||register-tge-flare.network^$all
 ||revoke-realio.network^$all
 ||rewards-sidekick.network^$all
 ||rewards-ssv.network^$all
@@ -93601,7 +93588,6 @@
 ||solana.publicnodes.one^$all
 ||coinbase.pxxl.one^$all
 ||quickevents.one^$all
-||quipnetwork.one^$all
 ||rainbet-casino.one^$all
 ||rainbet-de.one^$all
 ||rainbetcasino.one^$all
@@ -117699,10 +117685,8 @@
 ||x-clouds.xyz^$all
 ||x-firelight.xyz^$all
 ||x-flarenetworks.xyz^$all
-||x-meiterminal.xyz^$all
 ||x-neobank.xyz^$all
 ||x-pages.xyz^$all
-||x-pitchwc.xyz^$all
 ||x-reign.xyz^$all
 ||x-solsticefinance.xyz^$all
 ||xai-claim.xyz^$all
