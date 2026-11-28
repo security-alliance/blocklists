@@ -49619,7 +49619,6 @@ metasmk-extenion.wixstudio.com
 metasmkapp-cdn.wixstudio.com
 metasmskapp-io.wixstudio.com
 metaview-mask.wixstudio.com
-metawallet.wixstudio.com
 metemsken-extnsion.wixstudio.com
 meteorexxchange.wixstudio.com
 metmask--io.wixstudio.com
@@ -85120,7 +85119,6 @@ metamaskeloginn.webflow.io
 metamaskiologinus.webflow.io
 metamaskkcrypt0login.webflow.io
 metamaskloginj.webflow.io
-metamaskloginjn.webflow.io
 metamasklogino.webflow.io
 metamaskwalletlogins.webflow.io
 metamaskwalletxtensioeno.webflow.io
