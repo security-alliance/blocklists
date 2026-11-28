@@ -81455,7 +81455,6 @@ vexil.info
 view-flndmy.info
 view-injective.info
 view-layerzero.info
-virtuals.info
 virtualsprotocol.info
 vooi.info
 vote-aave.info
