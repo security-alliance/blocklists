@@ -77287,7 +77287,6 @@ livepumpstreamx.fun
 livespump.fun
 livestreaming-pump.fun
 login-pumps.fun
-logtkn.fun
 longxyz.fun
 loothub.fun
 lootix.fun
