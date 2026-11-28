@@ -110035,13 +110035,11 @@ allocation-knotsstonk.xyz
 allocation-long.xyz
 allocation-mage.xyz
 allocation-moby.xyz
-allocation-moonwell.xyz
 allocation-nado.xyz
 allocation-near.xyz
 allocation-netnet.xyz
 allocation-netnetcapital.xyz
 allocation-netrewards.xyz
-allocation-neverland.xyz
 allocation-openvpp.xyz
 allocation-ordo.xyz
 allocation-ore.xyz
@@ -110563,7 +110561,6 @@ binance-airdrop.xyz
 binance-reward.xyz
 binance-x.xyz
 binancetm.xyz
-bioprotocol-allocation.xyz
 birblabs.xyz
 bit-bitmmarttex.xyz
 bit002.xyz
@@ -113123,7 +113120,6 @@ infinifii.xyz
 info-jumper.xyz
 initiatalents.xyz
 injective-airdrop.xyz
-injective-allocations.xyz
 injective-app.xyz
 injective-apps.xyz
 injective-claim.xyz
@@ -114909,7 +114905,6 @@ quests-solsticefinances.xyz
 quests-stonkfun.xyz
 quests-sunrise.xyz
 quicksmartfix.xyz
-quickswap-allocation.xyz
 raac-registration.xyz
 raac-registrations.xyz
 raacfi-allocations.xyz
@@ -118020,7 +118015,6 @@ zestprotocol-votes.xyz
 zestprotocol-voting.xyz
 zetachainclub.xyz
 zigchain-allocation.xyz
-zigchain-allocations.xyz
 zigchain-distribution.xyz
 zigchain-governance.xyz
 zigchain-register.xyz
