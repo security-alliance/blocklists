@@ -1328,6 +1328,7 @@ https://sites.google.com/view/log-bitbuye-pages/home
 https://sites.google.com/view/log-bitbuysecure/home
 https://sites.google.com/view/log-in--metamask-/home
 https://sites.google.com/view/log-in-krae/home
+https://sites.google.com/view/log-in-meta-/home
 https://sites.google.com/view/log-in-meta/home
 https://sites.google.com/view/log-in-metaamask/home
 https://sites.google.com/view/log-in-metamask-getting-starte/home
@@ -1532,6 +1533,7 @@ https://sites.google.com/view/metamask-wallet-enus/home
 https://sites.google.com/view/metamask-wallet-io-start/home
 https://sites.google.com/view/metamask-wallet-us/home
 https://sites.google.com/view/metamask-wallt-extension/home
+https://sites.google.com/view/metamask-web--/home
 https://sites.google.com/view/metamask-web-app/home
 https://sites.google.com/view/metamask-web-apps/home
 https://sites.google.com/view/metamask-web-begin/home
@@ -1566,6 +1568,7 @@ https://sites.google.com/view/metamaslogi-extensin/home
 https://sites.google.com/view/metamassk-docs/home
 https://sites.google.com/view/metamassk-get-starte/home
 https://sites.google.com/view/metamassk-login--/home
+https://sites.google.com/view/metamassk-web-ap/home
 https://sites.google.com/view/metamassk-web-aps/home
 https://sites.google.com/view/metamasssk/home
 https://sites.google.com/view/metamasz/home
@@ -1623,6 +1626,7 @@ https://sites.google.com/view/metask-exts/home
 https://sites.google.com/view/metask-micros/home
 https://sites.google.com/view/metask-microso/home
 https://sites.google.com/view/metask-walletext/home
+https://sites.google.com/view/metasmask-web/home
 https://sites.google.com/view/metasmkapp-log/home
 https://sites.google.com/view/metmasik-wallet-en/home
 https://sites.google.com/view/metmask-chrm-exten/home
@@ -1705,6 +1709,7 @@ https://sites.google.com/view/online-coinbase/home
 https://sites.google.com/view/online-extensionapp/home
 https://sites.google.com/view/online-koin-baseapp/home
 https://sites.google.com/view/online-metamask-app/home
+https://sites.google.com/view/online-metmaaskio/home
 https://sites.google.com/view/online-web3-wallet/home
 https://sites.google.com/view/ons-metamaske/home
 https://sites.google.com/view/oopen-koine-pro/home
