@@ -101844,6 +101844,7 @@ verification-id6514028.shop
 verificationpage-82739.shop
 verify-comanda.shop
 verify-id818395.shop
+vjmt88.shop
 voklin.shop
 vote-boost.shop
 wangyix.shop
@@ -109281,6 +109282,7 @@ jobel.work
 kr-google.work
 liveconference.work
 livemain.work
+polymarket-backend.manyapps.work
 meet-google.work
 mica-compliance.work
 microsofionline.work
