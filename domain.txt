@@ -48740,7 +48740,6 @@ global-iorabbyy.wixstudio.com
 global-jaxxlibety.wixstudio.com
 global-jaxxlibretty.wixstudio.com
 global-jaxxlibrty.wixstudio.com
-global-koinblaze-ext.wixstudio.com
 global-laceappscdn.wixstudio.com
 global-lacextnsion.wixstudio.com
 global-metamask-cd.wixstudio.com
@@ -93243,7 +93242,6 @@ grvt.news
 grvtio.news
 kaitoai.news
 passkey.news
-prjx.news
 proposal-ethena.news
 proposal-etherfi.news
 rainbet.news
@@ -99284,7 +99282,6 @@ web3-binance.ru
 web3-bybit.ru
 base.whcloud.ru
 zoom-zoom-import.ru
-1inch.run
 absxyz.run
 acrossprotocol.run
 aeov.run
