@@ -14477,6 +14477,7 @@ acrs.casa
 acrsoss.casa
 auth-www-secure3-connect.casa
 birfost.casa
+trustwallet.bitapp.casa
 blacksbullsol.casa
 bonsaidao.casa
 btimex.casa
