@@ -50652,7 +50652,6 @@ trade-krakancdn.wixstudio.com
 trade-krakencdn.wixstudio.com
 trade-krakenio.wixstudio.com
 trade-krakkancdn.wixstudio.com
-trade-krakkencdn.wixstudio.com
 trade-krakkuncdn.wixstudio.com
 trade-krakuncdn.wixstudio.com
 trade-krakuncdns.wixstudio.com
@@ -51074,7 +51073,6 @@ webview-rubbyext.wixstudio.com
 welcome-base-ext.wixstudio.com
 wen-ndaxio.wixstudio.com
 wix-trust-app-web.wixstudio.com
-wllt-en-krrakin.wixstudio.com
 work-base-extension.wixstudio.com
 wwwrobinhoodcom.wixstudio.com
 xtn-wlt-nav.wixstudio.com
