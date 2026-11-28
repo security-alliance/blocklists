@@ -15764,7 +15764,6 @@ stake-ripple.cc
 stakegamez.cc
 stakepro.cc
 stakingtrustwallet.cc
-starcoinbase.cc
 starexcoins.cc
 starits.cc
 starknetfoundation.cc
