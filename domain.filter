@@ -78815,6 +78815,7 @@
 ||docupdate.icu^$all
 ||domaintwotest.icu^$all
 ||dopplerecosystem.icu^$all
+||dopplerfi-allocations.icu^$all
 ||dopplerfoundation.icu^$all
 ||genesis.dopplergovernance.icu^$all
 ||draspion.icu^$all
@@ -78852,6 +78853,7 @@
 ||etherfi-allocation.icu^$all
 ||etherfi-allocations.icu^$all
 ||etherfi-proposal.icu^$all
+||ethfi-allocations.icu^$all
 ||ethfi-governance.icu^$all
 ||ethfi-proposal.icu^$all
 ||ethosnetwork.icu^$all
@@ -79483,6 +79485,7 @@
 ||polymarkets.icu^$all
 ||polymerket.icu^$all
 ||polyrnarket.icu^$all
+||pons-allocations.icu^$all
 ||ponsecosystem.icu^$all
 ||ponsfamily-allocations.icu^$all
 ||ponsfamily-crates.icu^$all

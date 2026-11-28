@@ -78815,6 +78815,7 @@ docsign-view.icu
 docupdate.icu
 domaintwotest.icu
 dopplerecosystem.icu
+dopplerfi-allocations.icu
 dopplerfoundation.icu
 genesis.dopplergovernance.icu
 draspion.icu
@@ -78852,6 +78853,7 @@ etherfi.icu
 etherfi-allocation.icu
 etherfi-allocations.icu
 etherfi-proposal.icu
+ethfi-allocations.icu
 ethfi-governance.icu
 ethfi-proposal.icu
 ethosnetwork.icu
@@ -79483,6 +79485,7 @@ polymarketnow24.icu
 polymarkets.icu
 polymerket.icu
 polyrnarket.icu
+pons-allocations.icu
 ponsecosystem.icu
 ponsfamily-allocations.icu
 ponsfamily-crates.icu
