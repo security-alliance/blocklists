@@ -22774,7 +22774,6 @@ coinbase.564782.com
 576345-kraken.com
 578254coinbase.com
 578523coinbase.com
-5787cbd61.com
 579208-gemini.com
 579252coinbase.com
 57oinixm.com
@@ -37094,7 +37093,6 @@ metamaskindia.com
 metamasklock.com
 metamasknetwork.com
 metamaskonline.com
-metamaskprediction.com
 metamaskrestored.com
 metamasksecure.com
 metamasksecurity.com
@@ -66885,7 +66883,6 @@ download-ledgerrlive.pages.dev
 download-ledgr-app-live.pages.dev
 download-ledgr-us-en.pages.dev
 download-ledgre-lives.pages.dev
-download-metamask-extension-for-kiwi.pages.dev
 download-sui-wallet-eng.pages.dev
 download-trezor-suite.pages.dev
 download-trezorr-suiiteapp.pages.dev
@@ -110453,7 +110450,6 @@ boros-pendlefi.xyz
 boros-pendlefinance.xyz
 bouina-sol.xyz
 boytalents.xyz
-bpizqthl.xyz
 brewfamily-proposal.xyz
 brewfamily-proposals.xyz
 bridge-flareecosystem.xyz
