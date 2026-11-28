@@ -29694,7 +29694,6 @@ contentnotifications-x.com
 contentpaid-x.com
 contentpostcase-x.com
 contentprivacy-x.com
-contentprocess-x.com
 contentregarding-x.com
 contentreinquiry-x.com
 contentrequery-x.com
@@ -77046,7 +77045,6 @@ arenalaunch.fun
 asset-fwa.fun
 assets-fwa.fun
 assets-nukes.fun
-attention-x.fun
 automated-meme-treasury.fun
 ayohsee.fun
 backs-pump.fun
@@ -77892,7 +77890,6 @@ whitelists-alt.fun
 worldliquidity.fun
 jupiter.wunschpunsch.fun
 www-fwa.fun
-x-attention.fun
 x-worldcup.fun
 x7pad.fun
 xaman-wallet.fun
@@ -103798,7 +103795,6 @@ pons.support
 raac.support
 rainbet.support
 relayprotocol.support
-review-x.support
 reviewresolutiondesk.support
 reviewresolutionhelp.support
 reviewresolutionportal.support
