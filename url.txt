@@ -1277,7 +1277,6 @@ https://sites.google.com/view/learnpage-metamask/home
 https://sites.google.com/view/learnpro-max/home
 https://sites.google.com/view/learrn-metamsk/home
 https://sites.google.com/view/ledger-add-ons/home
-https://sites.google.com/view/ledger-app-api
 https://sites.google.com/view/ledger-app-backup/ledger-wallet
 https://sites.google.com/view/ledger-app-eu/ledger-wallet
 https://sites.google.com/view/ledger-app-v2
@@ -1358,7 +1357,6 @@ https://sites.google.com/view/logon-metamsk/home
 https://sites.google.com/view/manage-base-extension/home
 https://sites.google.com/view/manage-exodus-wallet/home
 https://sites.google.com/view/manage-metamskwb/home
-https://sites.google.com/view/manage-trezor-suite
 https://sites.google.com/view/managecoinpr/home
 https://sites.google.com/view/managecoinpro/home
 https://sites.google.com/view/mask-chrom-us/home
