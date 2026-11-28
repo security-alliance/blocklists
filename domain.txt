@@ -15354,6 +15354,7 @@ jup-rewards.cc
 jupitermultichain.cc
 k1928205.cc
 kakaochat.cc
+kaminoapp.cc
 kar22.cc
 karken.cc
 kineitiq.cc
@@ -30278,6 +30279,7 @@ dashboard-trst-wallet.com
 dashboard-trust-wallet.com
 dashboard-www.com
 dashboard-yieldfields.com
+dashboardkraken.com
 dashboardrewards.com
 dashboardusdh.com
 app-uniswap-org.dashboardv4.com
