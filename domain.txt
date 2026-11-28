@@ -14340,7 +14340,6 @@ lives.cam
 us.login-pollymarket.cam
 m365online-microsoft.cam
 magiceden.cam
-mantie.cam
 mashoope.cam
 meet-google.cam
 megaeth.cam
@@ -16407,8 +16406,6 @@ cmywvq-tw.cfd
 code-api-none-v500.cfd
 coin-volcano-app.cfd
 coinbase-asset-protection.cfd
-com-4522952.cfd
-com-45230622.cfd
 com-chku.cfd
 com-jjdd.cfd
 com-legal.cfd
@@ -17662,9 +17659,6 @@ com-claimprize.click
 1inch.com-dashboard-io.click
 com-j1.click
 com-jl.click
-com-lj3.click
-com-lj7.click
-com-mobile.click
 com-received.click
 com-receivepayout.click
 com-us.click
@@ -27443,7 +27437,6 @@ ch-zx-whatsappo.com
 chaasinascoins.com
 chaaura.com
 chain-account.com
-chain-allocation.com
 chain-justlend.com
 chain-spirit.com
 chain-usdc.com
@@ -29746,7 +29739,6 @@ convivopoowif.com
 convivowivjwo.com
 web.convivoxicjfow.com
 cooelogin.com
-cool-arrow-finance-ledger.com
 coolbetbet.com
 coolbetuk.com
 coolfreelance.com
@@ -31463,7 +31455,6 @@ entropy-protocol-dashboard.com
 entropy-update-dashboard.com
 entropy-verification-dashboard.com
 entropy-verification-portal.com
-entry-virtuals.com
 envpile.com
 envvt.com
 enxcapital.com
@@ -32099,7 +32090,6 @@ fi-money.com
 fi-offer.com
 fi-quantlabs.com
 fi-repeg.com
-fi-research.com
 fi-resolver.com
 fi-stake.com
 fi-techlabs.com
@@ -41383,7 +41373,6 @@ register-papertrade.com
 register-payrealfi.com
 register-ponsfamily.com
 register-saharaai.com
-register-virtuals.com
 register-worid.com
 register-world.com
 register-worldxyz.com
@@ -44730,7 +44719,6 @@ trezor-modal3.com
 trezor-my.com
 trezor-notif.com
 trezor-notification.com
-trezor-start-io.com
 trezor-status.com
 trezor-suide.com
 trezor-suime.com
@@ -52851,10 +52839,6 @@ coin-swap.cyou
 coin-volcano-app.cyou
 coinbasereceive.cyou
 com-3ayp64tc.cyou
-com-6qj2n3.cyou
-com-7bibf3.cyou
-com-8h28b3.cyou
-com-9n0b3w.cyou
 com-log-in.cyou
 com-login-online.cyou
 com-logln.cyou
@@ -78227,7 +78211,6 @@ cow.daoswap.guru
 cow.ecipies-do.guru
 ecosystem-pendle.guru
 governance-pendle.guru
-injective.guru
 lcnguru.guru
 mica-compliance.guru
 monad.guru
@@ -78312,7 +78295,6 @@ com-client257321.help
 com-cs.help
 com-devices-support.help
 com-find-device.help
-com-find-devices.help
 com-firmware321257.help
 com-id-lost.help
 com-id321257.help
@@ -80568,7 +80550,6 @@ airdrop-flt.info
 airdropservice.info
 airdroptap.info
 aktionsraum.info
-albany-allocation.info
 allocation-bananagun.info
 allocation-concrete.info
 allocation-firelight.info
@@ -80633,7 +80614,6 @@ backcold.info
 backup-wallet.info
 bananagun-q3.info
 barberbarbergents.info
-barton-allocation.info
 base-checker-vercel.info
 baseapps.info
 basebackup.info
@@ -80826,7 +80806,6 @@ dopplerfinance.info
 doublecounler.info
 dlmm.drinkerlabs.info
 dropcoin.info
-duque-allocation.info
 e-car777.info
 early-firelight.info
 earn-aave.info
@@ -81167,7 +81146,6 @@ quest.metisl2protocol.info
 mextena.info
 milcrosolft.info
 mimbo.info
-minati-allocation.info
 px.momentumstorefront.info
 money-storage.info
 moonshot-listing.info
@@ -86195,10 +86173,7 @@ com-1a.lat
 com-1l.lat
 com-desktop.lat
 com-info.lat
-com-ld.lat
-com-lj7.lat
 com-login.lat
-com-mobile.lat
 com-web.lat
 communitydailyvotelisting.lat
 concreteapp.lat
@@ -87340,7 +87315,6 @@ coinonchain.live
 colizeum.live
 collect-flarefn.live
 colmershill.live
-com-8941.live
 com-9567829.live
 com-app.live
 com-appstart.live
@@ -87358,7 +87332,6 @@ com-finds.live
 com-join.live
 com-onedrive.live
 com-page.live
-com-privat.live
 com-proposal.live
 com-restore.live
 com-robinhood.live
@@ -89630,7 +89603,6 @@ launchmeteora.lol
 laykaet.lol
 leopardcoinbsc.lol
 light-source.lol
-lnchc1y.lol
 lobbycoinredohio.lol
 lobsterredbnb.lol
 loginix.lol
@@ -93640,7 +93612,6 @@ cnshiyou.one
 coinbase-finance.one
 coinku.one
 xlayer.com-exchangeos.one
-com-org.one
 connect-flarenetworks.one
 cryptoweb3.one
 curvefinance.one
@@ -97887,9 +97858,7 @@ bitget.photography
 allocation-artificialinu.pics
 artificialinu.pics
 boysclubandy.pics
-com-ld.pics
 com-login.pics
-com-mobile.pics
 eligbl-ellysyum.pics
 elisylum-news.pics
 elysium-rewards.pics
@@ -98186,8 +98155,6 @@ coinmarketcap-vote.pro
 cointracker-desktop.pro
 com-alpha-app.pro
 com-anchor-io.pro
-com-branch-web.pro
-com-bridge-app.pro
 com-connect-app.pro
 com-connect-web.pro
 com-connect-zone.pro
@@ -103259,7 +103226,6 @@ coib.space
 coih.space
 coim.space
 coinmarketcap-vote.space
-com-lj7.space
 com-sg.space
 community-firelight.space
 complexica.space
@@ -105152,7 +105118,6 @@ bright-cloud-world.top
 btadoms.top
 btc-eligibility.top
 h5.btc0288.top
-btc1inch.top
 btcpayment-cashapp.top
 btcpto.top
 btcukm.top
@@ -106890,7 +106855,6 @@ usdcb3ysx1orfd.top
 usdcbdeqzwl.top
 usdcdkrfa1tw.top
 usdcspin.top
-usdt1inch.top
 usdtdex02.top
 usdtfi07.top
 usdtqbt06.top
@@ -107828,7 +107792,6 @@ com-iphone.us
 com-join.us
 com-meet.us
 com-mydevice.us
-com-org.us
 com-safety.us
 com-starts-app.us
 com-team.us
@@ -108324,7 +108287,6 @@ varational.us
 omni.varialtional.us
 variational.us
 vaultnetwork.us
-velodrome-finance.us
 verafy.us
 verification-apple-acount-phone-failed.us
 verificationmicrosoft.us
@@ -108671,7 +108633,6 @@ collectorcrypt.vip
 trustwallet.com-2fa.vip
 com-en-us.vip
 com-gpt.vip
-com-info-requieerd-y47x2wo1.vip
 trustwallet.com-info.vip
 trustwallet.com-ok.vip
 trustwallet.com-users.vip
@@ -110355,7 +110316,6 @@ app-laptop.xyz
 app-longbow.xyz
 app-merchantmoe.xyz
 app-meridian.xyz
-app-metapool.xyz
 app-mon.xyz
 app-monetrix.xyz
 app-moonwellvote.xyz
@@ -111115,9 +111075,6 @@ com-1w.xyz
 com-cap.xyz
 com-desktop.xyz
 com-it.xyz
-com-ld.xyz
-com-lj3.xyz
-com-lj7.xyz
 com-log1n.xyz
 com-node.xyz
 com-page.xyz
@@ -111362,7 +111319,6 @@ dashboard-jtx.xyz
 dashboard-jtx-checker.xyz
 dashboard-kinetiq.xyz
 dashboard-migrate.xyz
-dashboard-minara.xyz
 dashboard-mindaiproject.xyz
 dashboard-netnetcapital.xyz
 dashboard-pancake.xyz
@@ -111824,7 +111780,6 @@ ethena-distribution.xyz
 ethena-proposal.xyz
 ethena-registrations.xyz
 ethena-reward.xyz
-ethena-s5-allocation.xyz
 ethena-s5-register.xyz
 ethena-s5-vote.xyz
 ethena-s7.xyz
