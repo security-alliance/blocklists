@@ -1306,7 +1306,6 @@ ezbtc.app
 fakeverify-ledger.app
 falcon-finances.app
 falconsfinance.app
-fastcompiler.app
 feminafit.app
 exodussupport.fercel.app
 ferdium.app
