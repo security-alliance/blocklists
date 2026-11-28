@@ -52,8 +52,6 @@ https://sites.google.com/view/adds-extensioncom/home
 https://sites.google.com/view/addsextension-en/home
 https://sites.google.com/view/addsmetamask-us/home
 https://sites.google.com/view/addspro-com/home
-https://sites.google.com/view/alkimiexchange-index/live-markets
-https://sites.google.com/view/alkimiexchange-index/x
 https://sites.google.com/view/api-trezor-suite/trezor-app
 https://sites.google.com/view/api-trezor/trezor-suite
 https://sites.google.com/view/app--qoinext-/home
@@ -1208,7 +1206,6 @@ https://sites.google.com/view/ledger-dapp
 https://sites.google.com/view/ledger-desktop-api/ledger-wallet
 https://sites.google.com/view/ledger-desktop-version
 https://sites.google.com/view/ledger-desktop-version/ledger-wallet
-https://sites.google.com/view/ledger-live-api
 https://sites.google.com/view/ledger-live-ex/ledger-wallet
 https://sites.google.com/view/ledger-live-updater
 https://sites.google.com/view/ledger-start-live
