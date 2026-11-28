@@ -541,6 +541,7 @@ https://sites.google.com/view/coinbasechome-exte/home
 https://sites.google.com/view/coinbaseco/home
 https://sites.google.com/view/coinbasecom-getting/home
 https://sites.google.com/view/coinbasecom-started/home
+https://sites.google.com/view/coinbasecumregister/home
 https://sites.google.com/view/coinbasecumsign/home
 https://sites.google.com/view/coinbasee-exteget/home
 https://sites.google.com/view/coinbasee-extension/home
@@ -1162,6 +1163,7 @@ https://sites.google.com/view/intro-coinbaseapp/home
 https://sites.google.com/view/intro-coinbse-extension/home
 https://sites.google.com/view/intro-extension-cdn/home
 https://sites.google.com/view/intro-extension/home
+https://sites.google.com/view/intro-global-coinbase/home
 https://sites.google.com/view/intro-learned/home
 https://sites.google.com/view/intro-metamask-home/home
 https://sites.google.com/view/intro-metamask-open/home
