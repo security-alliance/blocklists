@@ -22853,7 +22853,6 @@ arbitrum.58bbq.com
 594982.com
 595627-binance.com
 597402-binance.com
-598437coinbase.com
 598712coinbase.com
 5eg3uf.com
 5eplay-home.com
@@ -40210,7 +40209,6 @@ qfxsystems.com
 qhppc.com
 negoro.qiaonun.com
 qimdz.com
-coinbase.qingyiqg.com
 qinlindj.com
 biqjb.qiqi805.com
 dunia.qiutaoke.com
@@ -48314,7 +48312,6 @@ en-lear-trezor.wixstudio.com
 en-mask-extsions.wixstudio.com
 en-matemask-io.wixstudio.com
 en-meta-exntions.wixstudio.com
-en-metamsk.wixstudio.com
 en-metamskio-page.wixstudio.com
 en-metamsks-apps.wixstudio.com
 en-metmask-apps.wixstudio.com
@@ -49054,7 +49051,6 @@ hub-ettorro.wixstudio.com
 hub-exodeus.wixstudio.com
 hub-laceappscdn.wixstudio.com
 hub-metamask.wixstudio.com
-hub-metamask-chrome.wixstudio.com
 hub-metamsk-ext.wixstudio.com
 hub-metamskext.wixstudio.com
 hub-netcoin-apps.wixstudio.com
@@ -49555,7 +49551,6 @@ metaamskhelp.wixstudio.com
 metaask-ext.wixstudio.com
 metaext.wixstudio.com
 metamaask-io.wixstudio.com
-metamak-ext.wixstudio.com
 metamak-extenison.wixstudio.com
 metamak-extensions.wixstudio.com
 metamak-extensn.wixstudio.com
@@ -49603,7 +49598,6 @@ metamk-apps.wixstudio.com
 metamk-extension.wixstudio.com
 metamsk-begin.wixstudio.com
 metamsk-connect-ext.wixstudio.com
-metamsk-exten.wixstudio.com
 metamsk-extension-us.wixstudio.com
 metamsk-extensn.wixstudio.com
 metamsk-extensnn.wixstudio.com
@@ -50449,7 +50443,6 @@ startapps-tangem.wixstudio.com
 startapps-trexor-cdn.wixstudio.com
 startb-jaxxliberty.wixstudio.com
 startd-basepro.wixstudio.com
-startd-mettamask.wixstudio.com
 startd-zerion.wixstudio.com
 startds-treziocd.wixstudio.com
 started-atmicapps.wixstudio.com
@@ -50475,7 +50468,6 @@ started-metamskkio.wixstudio.com
 started-metamsskapps.wixstudio.com
 started-metmaskccdn.wixstudio.com
 started-metmaskextn.wixstudio.com
-started-metomaskio.wixstudio.com
 started-okapps.wixstudio.com
 started-okxappscdn.wixstudio.com
 started-phantomcdn.wixstudio.com
@@ -70251,7 +70243,6 @@ metafundsclaim.pages.dev
 metamaask-chrome--extension.pages.dev
 metamask-8h5.pages.dev
 metamask-chrome-extension-dev.pages.dev
-metamask-defi-tips.pages.dev
 metamask-extansion-hub.pages.dev
 metamask-gq7.pages.dev
 metamask-io-cm0.pages.dev
