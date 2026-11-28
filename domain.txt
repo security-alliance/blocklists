@@ -18769,7 +18769,6 @@ sparklogin-verify.cloud
 ssa-report.cloud
 stable-hub.cloud
 stable-rewards.cloud
-1lnch.stakingreward.cloud
 chain-links.stakingreward.cloud
 interface-links.stakingreward.cloud
 interface-railguns.stakingreward.cloud
@@ -46438,7 +46437,6 @@ virtuals-protocol.com
 virtuals-protocols.com
 virtualtrustcards.com
 virtualtwservice.com
-virtulas.com
 viruscoin.com
 visa-trustm.com
 visatrust-wallet.com
@@ -52522,7 +52520,6 @@ opengradient.company
 polymarketaiagent.company
 prjx-hl.company
 starkware.company
-steakhouse.company
 trust-wallet.company
 trust-wallets.company
 trusts-wallet.company
@@ -78402,7 +78399,6 @@ melania.host
 app.rayis.host
 secure-chat.host
 silofinance.host
-1inchwallet.stakingreward.host
 tronlink.host
 coinbase-logiin.blogspot.hr
 coinbase-login.blogspot.hr
@@ -81466,7 +81462,6 @@ vote-apeonfone.info
 vote-asterdex.info
 vote-aztec.info
 vote-brewfamily.info
-vote-centrifuge.info
 vote-centrifugeio.info
 vote-cfg.info
 vote-chainink.info
@@ -90853,7 +90848,6 @@ aricettoug.net
 3kt53zedhbhcebvqfo2ivzcfr625ir7m642xdafeaxtpwilqyicq.arweave.net
 3mj34tgyblce4rk7wsocipy5ggu3t265uqhlrvpn6wxpj233wdka.arweave.net
 3nci6wnf4vxy3mucgjmxn2ti77tp2khwbn54jhr7l3cjxab7gara.arweave.net
-3pix33onirwjaxpy3y4wmlxiiuaofzr4bxt7x4x6q5oznesrpoqa.arweave.net
 3prrfn7s3fugafurxklfzfxgypgdkdepzwzmkc26pv7i2dounovq.arweave.net
 3rglijb5a7jwht7c3ozjew63abbkumb7wlkliw3idl4z6ez4en2a.arweave.net
 3t6eel2h7fioepa2uem6es6ztofnwqodoe6hur2iicpuhadrcdwq.arweave.net
@@ -105740,7 +105734,6 @@ lkjhgfdsam369.top
 lkslanlkw.top
 login-oauth.top
 login-pendle.top
-logtokn.top
 tdx-www-coinbase-com.lokotir.top
 lombard-finance.top
 longbow-app.top
@@ -110648,7 +110641,6 @@ chenyikang.xyz
 chomphood.xyz
 chomprhood.xyz
 choose-kinetiqfnd.xyz
-chooseriches.xyz
 chyperliquid.xyz
 cionbase.xyz
 cirtea.xyz
@@ -114333,7 +114325,6 @@ playkaiju.xyz
 playmogs.xyz
 pluggable-warden.xyz
 plumenetwork-join.xyz
-plumenetwork-registration.xyz
 plumenetwork-vote.xyz
 plumenetwork-votes.xyz
 plumenetwork-voting.xyz
