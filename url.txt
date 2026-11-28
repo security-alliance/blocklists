@@ -292,6 +292,8 @@ https://sites.google.com/view/coinba-sepros/home
 https://sites.google.com/view/coinba-wallet-extensn/home
 https://sites.google.com/view/coinbaas-exten/home
 https://sites.google.com/view/coinbaase-extensn/home
+https://sites.google.com/view/coinbace-/home
+https://sites.google.com/view/coinbace-sso/home
 https://sites.google.com/view/coinbae-extension/home
 https://sites.google.com/view/coinbapro-en-us/home
 https://sites.google.com/view/coinbas--extension/home
@@ -361,6 +363,7 @@ https://sites.google.com/view/coinbase-digital-eng/home
 https://sites.google.com/view/coinbase-doc/home
 https://sites.google.com/view/coinbase-egetting/home
 https://sites.google.com/view/coinbase-eu/home
+https://sites.google.com/view/coinbase-ex-change/home
 https://sites.google.com/view/coinbase-exc/home
 https://sites.google.com/view/coinbase-exchange-site/home
 https://sites.google.com/view/coinbase-excs/home
@@ -465,6 +468,7 @@ https://sites.google.com/view/coinbase-pubblic-/home
 https://sites.google.com/view/coinbase-publi-/home
 https://sites.google.com/view/coinbase-public--/home
 https://sites.google.com/view/coinbase-publish/home
+https://sites.google.com/view/coinbase-safe-en/home
 https://sites.google.com/view/coinbase-secure-pros/home
 https://sites.google.com/view/coinbase-secure-web3/home
 https://sites.google.com/view/coinbase-sign-intro/home
@@ -1642,6 +1646,7 @@ https://sites.google.com/view/official-coinbpro/home
 https://sites.google.com/view/official-site-coi/home
 https://sites.google.com/view/official-trustwallet-01/home
 https://sites.google.com/view/official-trustwallet-03/home
+https://sites.google.com/view/officialcoin-prologon/home
 https://sites.google.com/view/officialnumbermoonpaywalletsup/home
 https://sites.google.com/view/officialsitecoipro/home
 https://sites.google.com/view/oinbase-extension-cd/home
@@ -1746,6 +1751,7 @@ https://sites.google.com/view/publish-new-metamask/home
 https://sites.google.com/view/publish-webmetmask/home
 https://sites.google.com/view/puytxm
 https://sites.google.com/view/qoin-base-cdn/home
+https://sites.google.com/view/qoin-global-enus/home
 https://sites.google.com/view/qoinb-pro/home
 https://sites.google.com/view/qoinbas-starts/home
 https://sites.google.com/view/qoinbase--chrme--extension/home
