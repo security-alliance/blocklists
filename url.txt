@@ -627,6 +627,7 @@ https://sites.google.com/view/coinbse-homepage-/home
 https://sites.google.com/view/coinbse-pro--digital/home
 https://sites.google.com/view/coinbse-pro--login/home
 https://sites.google.com/view/coinbse-pro-begin/home
+https://sites.google.com/view/coinbse-pro-digitals/home
 https://sites.google.com/view/coinbse-pro-eng/home
 https://sites.google.com/view/coinbse-wallete-docs/home
 https://sites.google.com/view/coinbse-wallets-dc/home
@@ -639,6 +640,7 @@ https://sites.google.com/view/coinbsepro-explore/home
 https://sites.google.com/view/coinbsepro-logo/home
 https://sites.google.com/view/coinbsepro-server/home
 https://sites.google.com/view/coinbseproa/home
+https://sites.google.com/view/coinbseprodigital/home
 https://sites.google.com/view/coinbsse-chrom/home
 https://sites.google.com/view/coinbsse-wallet-docs/home
 https://sites.google.com/view/coinchome-extension-/home
@@ -653,6 +655,7 @@ https://sites.google.com/view/coinextension-us/home
 https://sites.google.com/view/coinextension-uss/home
 https://sites.google.com/view/coinextension-uswn/home
 https://sites.google.com/view/coinextensioon-us/home
+https://sites.google.com/view/coinmelogin/home
 https://sites.google.com/view/coinn-app/home
 https://sites.google.com/view/coinnbase-extension-/home
 https://sites.google.com/view/coinnbase-extension/home
@@ -759,6 +762,7 @@ https://sites.google.com/view/enus-exoodu/home
 https://sites.google.com/view/enus-extension-/home
 https://sites.google.com/view/enus-extensions/home
 https://sites.google.com/view/enus-meta-exion/home
+https://sites.google.com/view/enus-pro-coinbase/home
 https://sites.google.com/view/enusexodus-enuis/home
 https://sites.google.com/view/esdfvefdv/home
 https://sites.google.com/view/etamask-ghost-/home
@@ -1067,6 +1071,7 @@ https://sites.google.com/view/homepage-coinextension/home
 https://sites.google.com/view/homepage-extension/home
 https://sites.google.com/view/homepage-get/home
 https://sites.google.com/view/homepage-koins/home
+https://sites.google.com/view/homes-coinextension/home
 https://sites.google.com/view/homes-extension-coin/home
 https://sites.google.com/view/homes-koinbase/home
 https://sites.google.com/view/how-can-money-out-of-coinbase/home
@@ -1326,6 +1331,7 @@ https://sites.google.com/view/loginmetam/home
 https://sites.google.com/view/loginmetamask-app/home
 https://sites.google.com/view/loginmetamaskwe/home
 https://sites.google.com/view/logins-metamask/home
+https://sites.google.com/view/logn-coinbase-pro/home
 https://sites.google.com/view/logn-metamask-user/home
 https://sites.google.com/view/logn-metamask-web/home
 https://sites.google.com/view/logn-metamsk/home
