@@ -45995,7 +45995,6 @@ v28-dappconnection.com
 v29-dappconnection.com
 v3-1inch.com
 v3-balancer.com
-app.v3-bfy.com
 v3-changelly.com
 v3-dappconnection.com
 v3-hyperliquid.com
