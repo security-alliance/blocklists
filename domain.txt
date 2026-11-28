@@ -48510,7 +48510,6 @@ entrzr-suiteapps.wixstudio.com
 enus-dydxswap.wixstudio.com
 enus-exiudus.wixstudio.com
 enus-exoodus.wixstudio.com
-enus-extension.wixstudio.com
 enus-exxodu.wixstudio.com
 enusex0dus.wixstudio.com
 enusexodus.wixstudio.com
@@ -49049,7 +49048,6 @@ homepage-trxzor-app.wixstudio.com
 homepage-vellodrome.wixstudio.com
 homepage-velodrme.wixstudio.com
 homepages-bitby.wixstudio.com
-homepages-extensions.wixstudio.com
 homepages-rabbycdn.wixstudio.com
 homerabby-apps.wixstudio.com
 homerebby-page.wixstudio.com
