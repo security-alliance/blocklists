@@ -1883,7 +1883,6 @@ https://sites.google.com/view/web-link-exodus/home
 https://sites.google.com/view/web-metamaske/home
 https://sites.google.com/view/web-metmaskhelp/home
 https://sites.google.com/view/web-qoinbase-extension/home
-https://sites.google.com/view/web-user-bitbuy/home
 https://sites.google.com/view/web3-exoduos/home
 https://sites.google.com/view/web3-exodus-sso/home
 https://sites.google.com/view/web3-guide-eng/home
