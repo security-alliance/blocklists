@@ -73,7 +73,6 @@
 ||bybit.com.ag^$all
 ||coinbase.com.ag^$all
 ||crypto.com.ag^$all
-||exodus.com.ag^$all
 ||gemini.com.ag^$all
 ||kraken.com.ag^$all
 ||ledgerlive.com.ag^$all
@@ -718,7 +717,6 @@
 ||ambiredesktop.app^$all
 ||ambirewallet.app^$all
 ||amemecoin.app^$all
-||ames-defi.app^$all
 ||aml-checker.app^$all
 ||aml-checkin.app^$all
 ||aml-security.app^$all
@@ -28013,7 +28011,7 @@
 ||eng-trezor-suite.co.com^$all
 ||eng-trezorsuite.co.com^$all
 ||exd.co.com^$all
-||exds.co.com^$all
+||exodus.exds.co.com^$all
 ||exoduc.co.com^$all
 ||exoducs.co.com^$all
 ||exodus-v.co.com^$all

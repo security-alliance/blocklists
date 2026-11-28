@@ -73,7 +73,6 @@ binance.com.ag
 bybit.com.ag
 coinbase.com.ag
 crypto.com.ag
-exodus.com.ag
 gemini.com.ag
 kraken.com.ag
 ledgerlive.com.ag
@@ -718,7 +717,6 @@ ambire-rewards.app
 ambiredesktop.app
 ambirewallet.app
 amemecoin.app
-ames-defi.app
 aml-checker.app
 aml-checkin.app
 aml-security.app
@@ -28013,7 +28011,7 @@ eng-trezor.co.com
 eng-trezor-suite.co.com
 eng-trezorsuite.co.com
 exd.co.com
-exds.co.com
+exodus.exds.co.com
 exoduc.co.com
 exoducs.co.com
 exodus-v.co.com
