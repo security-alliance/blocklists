@@ -29021,6 +29021,7 @@ com-gift-cards-okb.com
 bitrefill.com-gift-cards-ondo.com
 com-gift-cards-ont.com
 com-gift-cards-op.com
+bitrefill.com-gift-cards-pendle.com
 com-gift-cards-pepe.com
 com-gift-cards-pol.com
 com-gift-cards-pyusd.com
@@ -29050,6 +29051,7 @@ bitrefill.com-gift-cards-vet.com
 com-gift-cards-wbtc.com
 com-gift-cards-weth.com
 bitrefill.com-gift-cards-wif.com
+bitrefill.com-gift-cards-wld.com
 com-gift-cards-xlm.com
 bitrefill.com-gift-cards-xmr.com
 com-gift-cards-xrp.com
