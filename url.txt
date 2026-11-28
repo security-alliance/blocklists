@@ -171,7 +171,6 @@ https://sites.google.com/view/bestforchange/%d1%87%d0%b0%d1%81%d1%82%d0%be-%d0%b
 https://sites.google.com/view/bitbut-cdn/home
 https://sites.google.com/view/bitbuy-apbitbu/home
 https://sites.google.com/view/bitbuy-appcdds/home
-https://sites.google.com/view/bitbuy-ennr/home
 https://sites.google.com/view/bitbuy-home/home
 https://sites.google.com/view/bitbuyappcdsee/home
 https://sites.google.com/view/bitbuyappsss/home
@@ -1268,7 +1267,6 @@ https://sites.google.com/view/logon-bitbysso/home
 https://sites.google.com/view/logon-metamask/home
 https://sites.google.com/view/logon-metamsk/home
 https://sites.google.com/view/manage-base-extension/home
-https://sites.google.com/view/manage-bitbuy/home
 https://sites.google.com/view/manage-exodus-wallet/home
 https://sites.google.com/view/manage-ledger-app/ledger-wallet
 https://sites.google.com/view/manage-metamskwb/home
