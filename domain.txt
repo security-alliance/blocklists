@@ -17155,6 +17155,7 @@ uas8-secureconnection.cfd
 unclaimedsol.cfd
 unijoin.cfd
 uniswapdx.cfd
+uniswapwres.cfd
 unlock-profile.cfd
 unlock-your-account-process.cfd
 unlock-your-profile.cfd
@@ -78836,6 +78837,7 @@ kinetiq.elysiumecosystem.icu
 elyspump.icu
 embercurve.icu
 enroll-papertrade.icu
+enroll-skyeco.icu
 enter-firelight.icu
 enter-kinetiqhub.icu
 enter-kinetiqsxyz.icu
@@ -96756,6 +96758,7 @@ app.unis3ap.org
 unisaap.org
 app.unissap.org
 unisvvop.org
+unisvvp.org
 uniswal.org
 uniswap-base.org
 uniswap-ipfs.org
@@ -98660,6 +98663,7 @@ coinbase.fin02.regx.pro
 relaybridge.pro
 renedr.pro
 resolverfixwalletblockchain.pro
+revokecash.pro
 revoketool.pro
 reward-wlfi.pro
 rewards-hyena.pro
@@ -112493,6 +112497,7 @@ governance-plasma.xyz
 governance-predictfun.xyz
 governance-pufferfi.xyz
 governance-quantus.xyz
+governance-skyeco.xyz
 governance-slopcash.xyz
 governance-solsticefinance.xyz
 governance-spectra.xyz
