@@ -25012,7 +25012,6 @@
 ||app-whitebit.com^$all
 ||app-wiselending.com^$all
 ||app-worldlibertyfinance-v2.com^$all
-||app-worldlibertyfinancial.com^$all
 ||app-x7pad.com^$all
 ||app-xamanmainnet.com^$all
 ||app-xrp.com^$all
@@ -27812,7 +27811,6 @@
 ||claim-wall3.com^$all
 ||claim-wallet-prize.com^$all
 ||claim-wlfitokens.com^$all
-||claim-worldlibertyfinancial.com^$all
 ||claim-worldofdypians.com^$all
 ||claim-x7pad.com^$all
 ||claim-xrpl.com^$all
@@ -43155,7 +43153,6 @@
 ||sskhanwatch.com^$all
 ||sskinclub.com^$all
 ||ssksigortasorgulama.com^$all
-||ssl-worldlibertyfinancial.com^$all
 ||sso-bitso.com^$all
 ||ssozoomevents.com^$all
 ||ssusshi.com^$all
@@ -45911,8 +45908,6 @@
 ||uscoincrypto.com^$all
 ||usd-jp.com^$all
 ||usd-qr.com^$all
-||usd-worldlibertyfinance.com^$all
-||usd1-worldlibertyfi.com^$all
 ||usdc-eth.com^$all
 ||usdc-pay.com^$all
 ||usdcget.com^$all
@@ -76179,10 +76174,8 @@
 ||contracts-moonwell.finance^$all
 ||coompound.finance^$all
 ||copmound.finance^$all
-||corebridge.finance^$all
 ||cosmicswap.finance^$all
 ||curve-swap.finance^$all
-||curvue.finance^$all
 ||daedaluswallet.finance^$all
 ||dao-doppler.finance^$all
 ||dao-ether.finance^$all
@@ -76350,7 +76343,6 @@
 ||klex.finance^$all
 ||kmno.finance^$all
 ||kongdefi.finance^$all
-||krkn-site.finance^$all
 ||kta.finance^$all
 ||kumibot.finance^$all
 ||lca.finance^$all
@@ -76653,7 +76645,6 @@
 ||web-3.finance^$all
 ||web-spark.finance^$all
 ||whitelist-theindex.finance^$all
-||whitelist-worldliberty.finance^$all
 ||whiteslist-theindex.finance^$all
 ||withdraw-lido.finance^$all
 ||withdraw-neutrl.finance^$all
@@ -78445,7 +78436,6 @@
 ||trustwalletsupportportal.help^$all
 ||turnover-bwd.help^$all
 ||uniswap.help^$all
-||unlock-worldlibertyfinancial.help^$all
 ||upholdsupports-center.help^$all
 ||upholdtest.help^$all
 ||us05webzoom.help^$all
@@ -103767,11 +103757,8 @@
 ||okx.supplies^$all
 ||crates-long.supply^$all
 ||wallet.supply^$all
-||allbridge.support^$all
 ||apyxfi.support^$all
 ||apyxfinance.support^$all
-||bridgeai.support^$all
-||bridgeoracle.support^$all
 ||case-x.support^$all
 ||centrifuge.support^$all
 ||chiliz.support^$all
@@ -103805,10 +103792,8 @@
 ||kraken-finance.support^$all
 ||ledgersdevices.support^$all
 ||longxyz.support^$all
-||lunexnetwork.support^$all
 ||mantleofficial.support^$all
 ||maplefinance.support^$all
-||marinadefinance.support^$all
 ||metamaskofficial.support^$all
 ||allocation.metisl2coin.support^$all
 ||quest.metisl2finance.support^$all
@@ -103833,8 +103818,6 @@
 ||reviewresolutionportal.support^$all
 ||reviewresolutionpro.support^$all
 ||revoke.support^$all
-||rexasfinace.support^$all
-||rexasfinance.support^$all
 ||trustwallet.riskscore.support^$all
 ||secure-access-auth5734.support^$all
 ||security-coinbase.support^$all
@@ -103861,7 +103844,6 @@
 ||uniswap.support^$all
 ||us-iobit.support^$all
 ||vaultgateway.support^$all
-||worldlibertyfi.support^$all
 ||xn--cinbase-5lb.support^$all
 ||zigchain.support^$all
 ||1ido-v3.surf^$all
@@ -107691,9 +107673,7 @@
 ||aibios.us^$all
 ||aiinvest.us^$all
 ||paltalabs.airdropsalert.us^$all
-||airdropworldliberty.us^$all
 ||alert-photo.us^$all
-||allbridge.us^$all
 ||allspark.us^$all
 ||alphasights.us^$all
 ||aml-verify.us^$all
@@ -107711,8 +107691,6 @@
 ||asdsadasdfd.us^$all
 ||asian1.us^$all
 ||aster-app.us^$all
-||asterdexperpetual.us^$all
-||asterdexreward.us^$all
 ||astralstravel.us^$all
 ||atera-blockchain.us^$all
 ||axiomradar.us^$all
@@ -107845,7 +107823,6 @@
 ||eventsdashboard.us^$all
 ||exodus-wallet.us^$all
 ||explore-adobe.us^$all
-||extsycommunity.us^$all
 ||ezquiz.us^$all
 ||fartimo.us^$all
 ||fasset.us^$all
@@ -107877,7 +107854,6 @@
 ||gritmayhem.us^$all
 ||gyftr.us^$all
 ||hacktilldawn.us^$all
-||harambetoken.us^$all
 ||go.harbstone.us^$all
 ||heleket-invoice.us^$all
 ||help-driv.us^$all
@@ -107926,7 +107902,6 @@
 ||www.ledgers-live.us^$all
 ||fifthe-dimension.legionsoftware.us^$all
 ||letsvpn.us^$all
-||lightchainai.us^$all
 ||lineapps.us^$all
 ||linecall.us^$all
 ||coinbase.liryc.us^$all
@@ -108044,7 +108019,6 @@
 ||remotemeeting.us^$all
 ||reply-adobe.us^$all
 ||retirement-empower.us^$all
-||rexasfinance.us^$all
 ||rhevent.us^$all
 ||rnerfancen.us^$all
 ||secure6a.robinhoodedu.us^$all
@@ -108364,7 +108338,6 @@
 ||wordlibertyfinance.us^$all
 ||workspace-zoommeeting.us^$all
 ||workspace-zoomsession.us^$all
-||worldlibertyfi.us^$all
 ||wormhole-foundation.us^$all
 ||wormholefoundationus.us^$all
 ||wormholefoundationusa.us^$all
