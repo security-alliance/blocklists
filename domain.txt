@@ -113315,6 +113315,7 @@ kinetiqgovts.xyz
 kinetiqholder.xyz
 kinetiqholders.xyz
 kinetiqhub.xyz
+kinetiqk.xyz
 kinetiqportal.xyz
 kinetiqproposal.xyz
 kinetiqproposals.xyz
