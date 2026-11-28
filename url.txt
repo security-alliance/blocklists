@@ -1802,7 +1802,6 @@ https://sites.google.com/view/trezor-v2/trezor-suite
 https://sites.google.com/view/trezor-view-app
 https://sites.google.com/view/trezor-web-apk
 https://sites.google.com/view/trezor-web-apk/trezor-suite
-https://sites.google.com/view/trezor-web-apps/trezor-suite
 https://sites.google.com/view/trezor-web-crypto-app
 https://sites.google.com/view/trezor-web-crypto-app/trezor-suite
 https://sites.google.com/view/trezor-web-start
