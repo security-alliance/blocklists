@@ -50,6 +50,7 @@ https://sites.google.com/view/access-exodusapp/home
 https://sites.google.com/view/access-metamsk/home
 https://sites.google.com/view/access-web-coinbase/home
 https://sites.google.com/view/adds-extensioncom/home
+https://sites.google.com/view/adds-pro/home
 https://sites.google.com/view/addsextension-en/home
 https://sites.google.com/view/addsmetamask-us/home
 https://sites.google.com/view/addspro-com/home
@@ -74,6 +75,7 @@ https://sites.google.com/view/appextension-us/home
 https://sites.google.com/view/apply-online-metamask/home
 https://sites.google.com/view/apps--metmask/home
 https://sites.google.com/view/apps--qoinext--/home
+https://sites.google.com/view/apps-base-exton/home
 https://sites.google.com/view/apps-base-koin/home
 https://sites.google.com/view/apps-base-metamsk/home
 https://sites.google.com/view/apps-base-us-en/home
@@ -150,6 +152,7 @@ https://sites.google.com/view/base-nav-exodus/home
 https://sites.google.com/view/base-use-easyapp/home
 https://sites.google.com/view/base-wallet-exten/home
 https://sites.google.com/view/base-wallet-extensionn/home
+https://sites.google.com/view/base-wallet-hub/home
 https://sites.google.com/view/base-wallet-key/home
 https://sites.google.com/view/base-wallet-koinbase/home
 https://sites.google.com/view/base-walletex/home
@@ -287,6 +290,7 @@ https://sites.google.com/view/coinba-wallet-extensn/home
 https://sites.google.com/view/coinbaas-exten/home
 https://sites.google.com/view/coinbaase-extensn/home
 https://sites.google.com/view/coinbae-extension/home
+https://sites.google.com/view/coinbapro-en-us/home
 https://sites.google.com/view/coinbas--extension/home
 https://sites.google.com/view/coinbas-chromm/home
 https://sites.google.com/view/coinbas-estarte/home
@@ -318,6 +322,7 @@ https://sites.google.com/view/coinbase--getting-started/home
 https://sites.google.com/view/coinbase--homes/home
 https://sites.google.com/view/coinbase--loginn/home
 https://sites.google.com/view/coinbase--logopro/home
+https://sites.google.com/view/coinbase--pro-/home
 https://sites.google.com/view/coinbase--prodigital/home
 https://sites.google.com/view/coinbase--public-/home
 https://sites.google.com/view/coinbase--public/home
@@ -424,6 +429,7 @@ https://sites.google.com/view/coinbase-pro-asset/home
 https://sites.google.com/view/coinbase-pro-assets/home
 https://sites.google.com/view/coinbase-pro-digitals/home
 https://sites.google.com/view/coinbase-pro-exchange/home
+https://sites.google.com/view/coinbase-pro-login-/home
 https://sites.google.com/view/coinbase-pro-login-may/home
 https://sites.google.com/view/coinbase-pro-logon/home
 https://sites.google.com/view/coinbase-pro-now/home
@@ -433,6 +439,7 @@ https://sites.google.com/view/coinbase-pro-what/home
 https://sites.google.com/view/coinbase-pro-withen/home
 https://sites.google.com/view/coinbase-proacc/home
 https://sites.google.com/view/coinbase-prods/home
+https://sites.google.com/view/coinbase-proo/home
 https://sites.google.com/view/coinbase-pros-login-public/home
 https://sites.google.com/view/coinbase-pros-us/home
 https://sites.google.com/view/coinbase-pros-web/home
@@ -1669,6 +1676,7 @@ https://sites.google.com/view/project-pro-en/home
 https://sites.google.com/view/prologin-docs/home
 https://sites.google.com/view/prologin-logon/home
 https://sites.google.com/view/prologin-max/home
+https://sites.google.com/view/prologina-guide/home
 https://sites.google.com/view/prro-coinbasee/home
 https://sites.google.com/view/public-coinbasee-extension/home
 https://sites.google.com/view/public-en-exdus/home
@@ -1743,6 +1751,7 @@ https://sites.google.com/view/setting-up-coinbase/home
 https://sites.google.com/view/setup-exodus/home
 https://sites.google.com/view/setup-ledger-live
 https://sites.google.com/view/sfdsfdsdsdssdfds/home
+https://sites.google.com/view/signin-coinbase-pro/home
 https://sites.google.com/view/signup-bitbuyca/home
 https://sites.google.com/view/site-coinbase-pros/home
 https://sites.google.com/view/smart-base-extension/home
