@@ -49146,7 +49146,6 @@ io-metamaskglobal.wixstudio.com
 io-metamsk-apps.wixstudio.com
 io-metamskapps.wixstudio.com
 io-metanask.wixstudio.com
-io-metasmk-extension.wixstudio.com
 io-metmask-extcdn.wixstudio.com
 io-metmaskextnsion.wixstudio.com
 io-metmsk-page.wixstudio.com
@@ -49549,7 +49548,6 @@ metaamaskio.wixstudio.com
 metaamskhelp.wixstudio.com
 metaask-ext.wixstudio.com
 metaext.wixstudio.com
-metamaask-io.wixstudio.com
 metamak-extenison.wixstudio.com
 metamak-extensions.wixstudio.com
 metamak-extensn.wixstudio.com
