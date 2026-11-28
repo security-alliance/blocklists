@@ -14015,9 +14015,7 @@ dsehti.buzz
 dsehtt.buzz
 feraudpd.buzz
 firelight.buzz
-gift-web.buzz
 giftcenter-web.buzz
-gifts-gifts.buzz
 gragonmoney-bonus.buzz
 housebets.buzz
 melaniascam.buzz
@@ -14030,7 +14028,6 @@ myrewards.buzz
 nextrade.buzz
 novafuturetechdev.buzz
 onchainwallet.buzz
-onlinemonitoringi-crypto-obmennikov.buzz
 orbitlending.buzz
 orbitrelaylogs.buzz
 payment-cash.buzz
@@ -52961,8 +52958,6 @@ rizenoftal.cyou
 rwa-btc.cyou
 rwa-eth.cyou
 rwa-xau.cyou
-safecapitalis.cyou
-safecapitalist.cyou
 sajitoto4d.cyou
 savingspools.cyou
 savingusdc.cyou
@@ -76943,7 +76938,6 @@ aavegovernance.fun
 access-papertrade.fun
 access8497.fun
 acessportal-robinhood00-live.fun
-acoount-girocash.fun
 aeroecosystem.fun
 aidrops.fun
 airdlrop.fun
@@ -77804,7 +77798,6 @@ treasury-netnet.fun
 treasury-neverland.fun
 trenche.fun
 trending-moonshot.fun
-trollusdcpump.fun
 trondefi.fun
 trongame.fun
 trongas.fun
@@ -77819,8 +77812,6 @@ usd-ai.fun
 usdai-allocation.fun
 usdai-governance.fun
 usdaiecosystem.fun
-usdcball.fun
-usdccoin.fun
 usdcfaucet.fun
 usecash.fun
 uwumigrate.fun
@@ -89635,9 +89626,6 @@ niulai.lol
 novesxdfaszmnoi.lol
 officialonsol.lol
 okxwallet.lol
-online-omben-crypto.lol
-onlinemonitoringi-crypto-obmennikov.lol
-onlineomben-crypto.lol
 openstandard-redirect.lol
 ozycrypto.lol
 pancakeswaps.lol
@@ -89714,7 +89702,6 @@ seasons2-firelight.lol
 shib-free.lol
 shib-spin.lol
 shisushi.lol
-sincanpapimnet.lol
 sitepreview.lol
 sixseveencas.lol
 skival.lol
@@ -100853,12 +100840,9 @@ frx2.sbs
 fuegori.sbs
 fxaladdin.sbs
 gambleeee.sbs
-gemini-coins.sbs
-gemini-eth.sbs
 get-refunds.sbs
 get-tw-card.sbs
 giewor.sbs
-gift-web.sbs
 giftcenter-web.sbs
 glassnode.sbs
 glbuniquetrade.sbs
@@ -101239,9 +101223,7 @@ ryskfinance.sbs
 safepalweb3.sbs
 sagasgasgfasf.sbs
 salles-auth-plat.sbs
-sapientia.sbs
 savingspools.sbs
-savvywealthways.sbs
 sawpspace.sbs
 scallop.sbs
 www.scalpedge.sbs
@@ -105613,7 +105595,6 @@ g5214-google.top
 gatebtc-xau.top
 gateofslots888.top
 gbaferabv.top
-gemini-coin.top
 gemmeessoivip.top
 gemmmttvip.top
 get-refunds.top
@@ -106078,7 +106059,6 @@ msteamzzbookings.top
 mtsmegl.top
 multipliecosystem.top
 multivers.top
-mygiftzone.top
 mymonero.top
 mysol.top
 mystery-rewards.top
@@ -106340,7 +106320,6 @@ purple-rewards.top
 putrug.top
 pyth-network.top
 q3-based.top
-q3c4xfi8.top
 qazgiums.top
 qolymarket.top
 quantumcapital.top
@@ -106476,7 +106455,6 @@ seccuredocumennt.top
 secure-8988882.top
 secure-doc-top.top
 secure-invitess.top
-secure-spin-casino.top
 secure-works.top
 secured-docsp1.top
 secureeaccess.top
@@ -106491,7 +106469,6 @@ sf0wfi4i.top
 sfcomeca.top
 sfmarkets-exchange.top
 sfnr653r2nb-v769.top
-sgxcrypto.top
 sgxgroup.top
 shadox.top
 shieldex.top
@@ -106976,7 +106953,6 @@ web3-jupiter.top
 web3-jupiters.top
 web3-reward3.top
 web3apex.top
-web3best.top
 web3bitget.top
 web3markets.top
 web3nonce.top
