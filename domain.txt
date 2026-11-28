@@ -10747,7 +10747,6 @@ qejaus-m50wex10.vercel.app
 qfsweb3-blockchain.vercel.app
 qtwt.vercel.app
 quest-base.vercel.app
-quickbuild-wallet.vercel.app
 quickcompilev4.vercel.app
 quicknode.vercel.app
 quiet-beacon-7466.vercel.app
