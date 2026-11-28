@@ -28959,6 +28959,7 @@ com-gift-cards-crv.com
 com-gift-cards-dai.com
 bitrefill.com-gift-cards-dash.com
 com-gift-cards-doge.com
+bitrefill.com-gift-cards-doge1.com
 com-gift-cards-dot.com
 bitrefill.com-gift-cards-egld.com
 bitrefill.com-gift-cards-ena.com
