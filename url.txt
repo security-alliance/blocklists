@@ -259,6 +259,7 @@ https://sites.google.com/view/coimbaseext/home
 https://sites.google.com/view/coimbass-ext/home
 https://sites.google.com/view/coimbass-pro-us/home
 https://sites.google.com/view/coimbse-krome-ext/home
+https://sites.google.com/view/coin--digital/home
 https://sites.google.com/view/coin--extension/home
 https://sites.google.com/view/coin-bas/home
 https://sites.google.com/view/coin-base-chrm/home
@@ -429,6 +430,7 @@ https://sites.google.com/view/coinbase-pro-asset/home
 https://sites.google.com/view/coinbase-pro-assets/home
 https://sites.google.com/view/coinbase-pro-digitals/home
 https://sites.google.com/view/coinbase-pro-exchange/home
+https://sites.google.com/view/coinbase-pro-logi/home
 https://sites.google.com/view/coinbase-pro-login-/home
 https://sites.google.com/view/coinbase-pro-login-may/home
 https://sites.google.com/view/coinbase-pro-logon/home
@@ -519,6 +521,7 @@ https://sites.google.com/view/coinbaselimitperday/home
 https://sites.google.com/view/coinbaselogin-int/home
 https://sites.google.com/view/coinbaselogina
 https://sites.google.com/view/coinbaseloginblogs
+https://sites.google.com/view/coinbaseloginbuyselltradecrypt/home
 https://sites.google.com/view/coinbaseloginerrorstroubleshoo/home
 https://sites.google.com/view/coinbaseloginguidelines
 https://sites.google.com/view/coinbasepro--faqs/home
@@ -590,6 +593,7 @@ https://sites.google.com/view/coinbse-gettings/home
 https://sites.google.com/view/coinbse-homepage-/home
 https://sites.google.com/view/coinbse-pro--digital/home
 https://sites.google.com/view/coinbse-pro-begin/home
+https://sites.google.com/view/coinbse-pro-eng/home
 https://sites.google.com/view/coinbse-wallete-docs/home
 https://sites.google.com/view/coinbse-wallets-dc/home
 https://sites.google.com/view/coinbsee-page/home
@@ -1643,6 +1647,7 @@ https://sites.google.com/view/phantom-wallet-manual-withdraw/home
 https://sites.google.com/view/phantomextension-official/home
 https://sites.google.com/view/platfor-qoin-pro-/home
 https://sites.google.com/view/platform--metmaskext-authu/home
+https://sites.google.com/view/platform-base-cdn/home
 https://sites.google.com/view/platform-metmask-cdn/home
 https://sites.google.com/view/platforms-coinbase-eng/home
 https://sites.google.com/view/platforms-qoin-proo/home
@@ -1841,6 +1846,7 @@ https://sites.google.com/view/us-extension-getting/home
 https://sites.google.com/view/use-metamask-app/home
 https://sites.google.com/view/use-metamask/home
 https://sites.google.com/view/use-new-chrmextension/home
+https://sites.google.com/view/used-coinbase/home
 https://sites.google.com/view/used-exoduscdn/home
 https://sites.google.com/view/user-base-extension/home
 https://sites.google.com/view/user-base-extensionapp/home
