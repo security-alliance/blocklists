@@ -1324,6 +1324,7 @@ https://sites.google.com/view/login-metmask-/home
 https://sites.google.com/view/login-mtamaskweb/home
 https://sites.google.com/view/login-secure--/home
 https://sites.google.com/view/login-secure-coin/home
+https://sites.google.com/view/login-to-coinbase
 https://sites.google.com/view/logincoinbaseblogs
 https://sites.google.com/view/loginmeta
 https://sites.google.com/view/loginmeta-mask/home
@@ -2006,6 +2007,7 @@ https://sites.google.com/view/webs-pro/home
 https://sites.google.com/view/webscom-pro/home
 https://sites.google.com/view/websextension-us/home
 https://sites.google.com/view/webspro-en/home
+https://sites.google.com/view/websprocoinb-en/home
 https://sites.google.com/view/webstart--exeduso/home
 https://sites.google.com/view/what-is-coinbase-withdrawal-ho/home
 https://sites.google.com/view/whatshouldidoifkrakenisnotproc/home
