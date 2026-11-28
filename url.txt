@@ -361,6 +361,8 @@ https://sites.google.com/view/coinbase-digital-eng/home
 https://sites.google.com/view/coinbase-doc/home
 https://sites.google.com/view/coinbase-egetting/home
 https://sites.google.com/view/coinbase-eu/home
+https://sites.google.com/view/coinbase-exc/home
+https://sites.google.com/view/coinbase-exchange-site/home
 https://sites.google.com/view/coinbase-excs/home
 https://sites.google.com/view/coinbase-explore/home
 https://sites.google.com/view/coinbase-ext-app/home
@@ -445,6 +447,8 @@ https://sites.google.com/view/coinbase-pro-login-may/home
 https://sites.google.com/view/coinbase-pro-logon/home
 https://sites.google.com/view/coinbase-pro-now/home
 https://sites.google.com/view/coinbase-pro-offical/home
+https://sites.google.com/view/coinbase-pro-plan/home
+https://sites.google.com/view/coinbase-pro-teach/home
 https://sites.google.com/view/coinbase-pro-wha/home
 https://sites.google.com/view/coinbase-pro-what/home
 https://sites.google.com/view/coinbase-pro-withen/home
@@ -539,6 +543,7 @@ https://sites.google.com/view/coinbaseloginblogs
 https://sites.google.com/view/coinbaseloginbuyselltradecrypt/home
 https://sites.google.com/view/coinbaseloginerrorstroubleshoo/home
 https://sites.google.com/view/coinbaseloginguidelines
+https://sites.google.com/view/coinbasepro--cdn/home
 https://sites.google.com/view/coinbasepro--faqs/home
 https://sites.google.com/view/coinbasepro-/home
 https://sites.google.com/view/coinbasepro-connect/home
@@ -638,6 +643,7 @@ https://sites.google.com/view/coinn-app/home
 https://sites.google.com/view/coinnbase-extension-/home
 https://sites.google.com/view/coinnbase-extension/home
 https://sites.google.com/view/coinnextension/home
+https://sites.google.com/view/coinpro-add/home
 https://sites.google.com/view/coinpro-hub/home
 https://sites.google.com/view/coinprolife/home
 https://sites.google.com/view/coinprosapps-doc/home
@@ -1051,6 +1057,7 @@ https://sites.google.com/view/homes-koinbase/home
 https://sites.google.com/view/how-can-money-out-of-coinbase/home
 https://sites.google.com/view/how-do-i-get-my-money-backfrom
 https://sites.google.com/view/how-do-i-log-in-to-coinbase
+https://sites.google.com/view/how-do-i-login-to-coinbase/home
 https://sites.google.com/view/how-do-i-unlock-my-kraken-acco/home
 https://sites.google.com/view/how-long-does-a-trust-wallet
 https://sites.google.com/view/how-t-withdraw-from-trust-wall
