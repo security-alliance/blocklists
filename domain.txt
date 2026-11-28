@@ -78527,6 +78527,7 @@ allocations-ethfi.icu
 allocations-felixprotocol.icu
 allocations-firelight.icu
 allocations-firelightfi.icu
+allocations-flarenetwork.icu
 allocations-flarenetworks.icu
 allocations-joinopenstandard.icu
 allocations-meridian.icu
