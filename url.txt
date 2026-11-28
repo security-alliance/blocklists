@@ -1190,6 +1190,7 @@ https://sites.google.com/view/koinbase-ext-web/home
 https://sites.google.com/view/koinbase-ext/home
 https://sites.google.com/view/koinbase-exte/home
 https://sites.google.com/view/koinbase-extens/home
+https://sites.google.com/view/koinbase-extension-eng/home
 https://sites.google.com/view/koinbase-extensionn-/home
 https://sites.google.com/view/koinbase-extensionn/home
 https://sites.google.com/view/koinbase-extensions/home
@@ -1354,6 +1355,7 @@ https://sites.google.com/view/manage-metamskwb/home
 https://sites.google.com/view/manage-trezor-app
 https://sites.google.com/view/manage-trezor-suite
 https://sites.google.com/view/managecoinpr/home
+https://sites.google.com/view/managecoinpro/home
 https://sites.google.com/view/mask-chrom-us/home
 https://sites.google.com/view/mask-extensions/home
 https://sites.google.com/view/mask-login
